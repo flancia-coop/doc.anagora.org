@@ -2,10 +2,13 @@
 ### Under each week add some nodes you think other people will be interested in. We can study them together.
 #### join us on matrix #anagora:matrix.org
 
+### week 17 (12 Dec - 19th Dec)
+
+- [[ValueFlows]] / [[value flows]] -- [[neil]]
+
 ### week 16 (5 Nov - 12 Dec)
 
 - [[knowledge commons]] -- [[neil]]
-- [[ValueFlows]] -- [[neil]]
 
 ### week 15 (28 Nov - 5 Dec)
 Welcome to the last month of 2021! 🎉
