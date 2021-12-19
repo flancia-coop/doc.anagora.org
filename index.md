@@ -16,3 +16,6 @@ I like the interface of this one better so far. Is that why you swapped them out
 
 Hello, my friend! Glad to see you here :) It was partly the interface and the fact that it supports things like images and tables out of the box; partly that this is essentially a Markdown editor, and so it goes well with the Agora (most of the current users use Markdown).
 - Flancian.
+
+---
+As of [[2021-12-19]], [[stoa]] docs are aut
