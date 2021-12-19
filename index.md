@@ -18,4 +18,4 @@ Hello, my friend! Glad to see you here :) It was partly the interface and the fa
 - Flancian.
 
 ---
-As of [[2021-12-19]], [[stoa]] docs are aut
+As of [[2021-12-19]], [[stoa]] docs are auto imported into the Agora as full blown resources after ~1 minute from editing on average.
