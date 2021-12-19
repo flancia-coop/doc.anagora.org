@@ -1,2 +1,3 @@
+chapter 6
 [[fénelon]]
-[[william odwin]]
+[[william godwin]]
