@@ -4,6 +4,8 @@ Here in the Stoa you can copy/paste pictures, in case that's helpful. They are a
 
 Caption for one image
 
+![](https://doc.anagora.org/uploads/upload_6d6d4b88ee36e3e3d5a5c79440a24a69.png)
+
 Caption for video
 
 <video width="400" controls>
