@@ -1,0 +1,3 @@
+- an [[album]].
+    - [[doug macleod]]
+    - [[go]] https://music.youtube.com/playlist?list=OLAK5uy_kWKmjohkKIrjNoiCN6MuByirrLt2ZgNZs&feature=share
