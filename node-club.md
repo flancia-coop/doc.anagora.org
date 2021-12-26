@@ -2,7 +2,9 @@
 ### Under each week add some nodes you think other people will be interested in. We can study them together.
 #### join us on matrix #anagora:matrix.org
 
-### week 18 ()
+### week 18 (19th Dec - 26th Dec)
+
+- [[Gift economy]] -- [[neil]]
 
 ### week 17 (12 Dec - 19th Dec)
 
