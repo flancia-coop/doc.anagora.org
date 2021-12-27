@@ -1,0 +1,1 @@
+- [[hn]] https://news.ycombinator.com/item?id=29700445
