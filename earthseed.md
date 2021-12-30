@@ -1,3 +1,3 @@
 - a [[church]].
-  - [[octavia Butler]]
+  - [[octavia B utler]]
   - [[parable of the sower]]
