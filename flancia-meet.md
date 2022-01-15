@@ -1,0 +1,2 @@
+- We meet best-effort every Saturday.
+- This is where we could have community maintained notes :)
