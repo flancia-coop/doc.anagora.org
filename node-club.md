@@ -7,6 +7,7 @@
 ### episode 1 (16th Jan - 23rd Jan)
 
 - maybe [[agroecology]], not sure yet.  also might do a 'claim' rather than a 'thing' -- [[neil]]
+- [[objects conceive other objects in capitalism]] -- [[Jayu]]
 
 ## season 1
 
