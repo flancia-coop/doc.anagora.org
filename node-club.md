@@ -2,6 +2,14 @@
 ### Under each week add some nodes you think other people will be interested in. We can study them together.
 #### join us on matrix #anagora:matrix.org
 
+## season 2
+
+### episode 1 (16th Jan - 23rd Jan)
+
+- not sure yet -- [[neil]]
+
+## season 1
+
 ### week 18 (19th Dec - 26th Dec)
 
 - [[Gift economy]] -- [[neil]]
