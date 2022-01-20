@@ -6,7 +6,7 @@
 
 ### episode 1 (16th Jan - 23rd Jan)
 
-- not sure yet -- [[neil]]
+- maybe [[agroecology]], not sure yet.  also might do a 'claim' rather than a 'thing' -- [[neil]]
 
 ## season 1
 
