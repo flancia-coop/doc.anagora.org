@@ -20,5 +20,5 @@
     - [[merveilles ring]] 
     - [[push]] [[indieweb webring]] 
         - https://indieweb.org/indiewebring
-    - [[doubleloop]] [[garden circles]]
+    - [[doubleloop]] [[my garden circles]]
 
