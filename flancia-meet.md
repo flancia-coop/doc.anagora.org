@@ -42,7 +42,6 @@
     - [[doubleloop]] [[webmentions]] work like this -- the receiving side has control on how to handle/process
     - [[activity pub]] inbox/outbox model
       ![](https://upload.wikimedia.org/wikipedia/commons/2/20/ActivityPub-tutorial-image.png)
-
   - [[tags]] and [[wikilinks]]
     - wiki history - [[category pages]]
       - no tags, just link CategoryProfile instead of having hashtag #profile
@@ -55,6 +54,8 @@
         - https://gingkoapp.com/
     - [[cortex]] browser
     - original browser from [[tim berners lee]] - each new page was a new window
-      - related to movement of [[spatial software]] now, e.g. [[miro]]
+      - related to interest in [[spatial software]] now, e.g. [[miro]]
     - original [[netscape browser]] had backlinks, but via a central server
       - we have similar services now, but none are built-in to browsers, e/g https://ahrefs.com/backlink-checker
+- [[federated wikis]]
+    - [[bouncepaw]] federation is an extension of the core idea of [[interwiki linking]]
