@@ -53,3 +53,6 @@
         - [[browser]] https://github.com/szymonkaliski/cartographist
     - [[push]] [[gingko]] 
         - https://gingkoapp.com/
+    - [[cortex]] browser
+    - original browser, each new page was a new window
+      - [[spatial software]]
