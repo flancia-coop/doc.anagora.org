@@ -21,4 +21,8 @@
     - [[push]] [[indieweb webring]] 
         - https://indieweb.org/indiewebring
     - [[doubleloop]] [[my garden circles]]
+        - organized manually
+        - per area
+- [[agora]]
+    - [[do]]
 
