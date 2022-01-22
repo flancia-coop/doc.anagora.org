@@ -4,6 +4,7 @@
 
 ## [[2022-01-22]]
 - here [[flancian]], [[bouncepaw]], [[neil]]
+- flag for [[esperanto]]
 - [[bouncepaw]] https://pad.riseup.net
 - [[bouncepaw]] [[community wiki]]
     - [[push]] [[meatball wiki]]
@@ -14,3 +15,4 @@
         - like a webring
         - agora could have something similar for digital gardens
         - does anything have a tree rather than sequential?
+        - tour bus stop does have multiple routes - and you can change routes
