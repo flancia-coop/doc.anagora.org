@@ -34,4 +34,8 @@
     - ([[pull]] for sure)
     - [[bouncepaw]] read [[literary machines]]
     - [[xanadu]]
+  - [[push]] inspired by [[pubsub]]
+    - you watch for changes and then push this update out
+    - pubsub topics map to agora nodes
+    - with push you have no
 
