@@ -23,6 +23,7 @@
     - [[doubleloop]] [[my garden circles]]
         - organized manually
         - per area
-- [[agora]]
-    - [[do]]
+- aspects of the [[anagora]]
+    - [[doubleloop]] [[reader]]
+    - [[flancian]] [[integrator]]
 
