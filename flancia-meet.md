@@ -68,3 +68,4 @@
       - same for [[markdown]]
       - see https://github.com/mozilla/readability
     - [[project underlay]]
+- should we have [[mycorrhiza]] as a [[stoa]]?
