@@ -65,4 +65,5 @@
         - [[massive wiki]] and [[agora]]
         - [[mycoverse]] will be a federation of [[mycorrhiza]] servers (fungi) plus traditional websites (plants!)
     - [[mycomarkup]] can be generated from websites
-    - same for [[markdown]] 
+      - same for [[markdown]]
+      - see https://github.com/mozilla/readability
