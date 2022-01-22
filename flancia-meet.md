@@ -40,4 +40,6 @@
     - with push you have no control over how it might be displayed on the other end
     - on the receiving end you could ack (or pull?) to specify how the push gets handled
     - [[doubleloop]] [[webmentions]] work like this -- the receiving side has control on how to handle/process
+    - [[activity pub]] inbox/outbox model
+      ![](https://upload.wikimedia.org/wikipedia/commons/2/20/ActivityPub-tutorial-image.png)
 
