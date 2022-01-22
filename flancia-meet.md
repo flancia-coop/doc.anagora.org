@@ -43,3 +43,7 @@
     - [[activity pub]] inbox/outbox model
       ![](https://upload.wikimedia.org/wikipedia/commons/2/20/ActivityPub-tutorial-image.png)
 
+  - [[tags]] and [[wikilinks]]
+    - wiki history - [[category pages]]
+    - reference/inclusion dichotomy
+    - [[flancian]] mi
