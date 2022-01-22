@@ -33,7 +33,7 @@
     - is [[push]] based transclusion an idea that nelson discussed?
     - ([[pull]] for sure)
     - [[bouncepaw]] read [[literary machines]]
-    - [[xanadu]]
+    - [[xanadu]] - [[maggie appleton]] describesa set of patterns that are succeeding
   - [[push]] inspired by [[pubsub]]
     - you watch for changes and then push this update out
     - pubsub topics map to agora nodes
