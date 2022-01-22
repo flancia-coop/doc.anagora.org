@@ -54,6 +54,7 @@
     - [[push]] [[gingko]] 
         - https://gingkoapp.com/
     - [[cortex]] browser
-    - original browser from tbl - each new page was a new window
+    - original browser from [[tim berners lee]] - each new page was a new window
       - related to movement of [[spatial software]] now, e.g. [[miro]]
-    - [[netscape]] had backlinks, but via a central server
+    - original [[netscape browser]] had backlinks, but via a central server
+      - we have similar services now, but none are built-in to browsers, e/g https://ahrefs.com/backlink-checker
