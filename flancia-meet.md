@@ -12,3 +12,5 @@
         - you can add your wiki to the list
         - make sure it loops back to the beginning :)
         - like a webring
+        - agora could have something similar for digital gardens
+        - does anything have a tree rather than sequential?
