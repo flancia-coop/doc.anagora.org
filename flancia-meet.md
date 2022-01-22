@@ -48,6 +48,7 @@
       - reference/inclusion dichotomy
     - [[flancian]] could just push 100 pages
     - what does [[fedwiki]] do in relation to this?
+  - [[browsing styles]]
     - [[push]] [[cartographist]]
         - [[browser]] https://github.com/szymonkaliski/cartographist
     - [[push]] [[gingko]] 
@@ -79,4 +80,6 @@
     - [[telegram]] has an authentication service
         - bot-based
         - simple API
-        - what about something like t
+        - supported by [[mycorrhiza]]: https://mycorrhiza.wiki/help/en/telegram
+    - [[matrix]]-based auth? Gotta read the spec: learn about how identities and auth are done
+- [[oembed]] 
