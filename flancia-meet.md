@@ -26,4 +26,6 @@
 - aspects of the [[anagora]]
     - [[doubleloop]] [[reader]]
     - [[flancian]] [[integrator]]
+- [[ranking]] - implicitly via [[push]] [[pull]]
+- [[mycrorhiza wiki]] - works at a block content level
 
