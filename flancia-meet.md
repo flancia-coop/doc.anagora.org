@@ -63,4 +63,6 @@
     - [[bouncepaw]] don´t think so as interwiki linking doesn´t request any data of the target
     - do you know of protocols to federate wiki apart from [[fedwiki]]?
         - [[massive wiki]] and [[agora]]
-        - [[mycoverse]] will be a federation of [[mycorrhiza]] servers (fungi) plus traditional websites (plants!) 
+        - [[mycoverse]] will be a federation of [[mycorrhiza]] servers (fungi) plus traditional websites (plants!)
+    - [[mycomarkup]] can be generated from websites
+    - same for [[markdown]] 
