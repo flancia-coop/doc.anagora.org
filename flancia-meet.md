@@ -37,5 +37,7 @@
   - [[push]] inspired by [[pubsub]]
     - you watch for changes and then push this update out
     - pubsub topics map to agora nodes
-    - with push you have no
+    - with push you have no control over how it might be displayed on the other end
+    - on the receiving end you could ack (or pull?) to specify how the content g
+    - [[doubleloop]] [[webmentions]] work like this
 
