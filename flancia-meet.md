@@ -49,3 +49,4 @@
       - reference/inclusion dichotomy
     - [[flancian]] could just push 100 pages
     - what does [[fedwiki]] do in relation to this?
+    - [[cartographist browser]]: https://github.com/szymonkaliski/cartographist
