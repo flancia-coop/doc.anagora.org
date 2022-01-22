@@ -16,5 +16,9 @@
         - agora could have something similar for digital gardens
         - does anything have a tree rather than sequential?
         - tour bus stop does have multiple routes - and you can change stops
-- [[merveilles ring]]
+- [[rings]] and [[discovery]]
+    - [[merveilles ring]] 
+    - [[push]] [[indieweb webring]] 
+        - https://indieweb.org/indiewebring
+    - [[doubleloop]] [[garden circles]]
 
