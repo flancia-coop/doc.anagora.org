@@ -29,5 +29,9 @@
 - [[agora search]] [[ranking]] - can work implicitly via [[push]] [[pull]]
   - [[push]] [[pull]] is a more forceful intent than links alone
 - [[mycorrhiza wiki]] - works at a block content level
-- [[ted nelson]]
+- [[ted nelson]] 
+    - is [[push]] based transclusion an idea that nelson discussed?
+    - ([[pull]] for sure)
+    - [[bouncepaw]] read [[literary machines]]
+    - [[xanadu]]
 
