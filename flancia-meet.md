@@ -61,3 +61,4 @@
     - [[bouncepaw]] federation is an extension of the core idea of [[interwiki linking]]
     - [[flancian]] is interwiki linking a type of federation?
     - [[bouncepaw]] don´t think so as interwiki linking doesn´t request any data of the target
+    - do you know of protocols to federa[[massive wiki]] and [[agora]] 
