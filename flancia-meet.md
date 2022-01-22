@@ -27,6 +27,7 @@
     - [[doubleloop]] [[reader]]
     - [[flancian]] [[integrator]]
 - [[agora search]] [[ranking]] - can work implicitly via [[push]] [[pull]]
-- [[mycrorhiza wiki]] - works at a block content level
+  - [[push]]
+- [[mycorrhiza wiki]] - works at a block content level
 - 
 
