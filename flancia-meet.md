@@ -71,9 +71,12 @@
 - should we have [[mycorrhiza]] as a [[stoa]]?
 - [[push]] [[authentication]]
     - [[oauth]]
-        - single sign on -- could sites that trust each other share oauth credentials?
+        - [[single sign on]] -- could sites that trust each other share oauth credentials?
         - Turned out to be complex for [[mycorrhiza]]: https://github.com/bouncepaw/mycorrhiza/issues/74
-        
         > It may look simple from the surface, but there might be some hidden gotchas that'll ruin the whole security model.
     - [[indieauth]] https://indieauth.com
     - [[solid project]] https://solidproject.org
+    - [[telegram]] has an authentication service
+        - bot-based
+        - simple API
+        - what about something like t
