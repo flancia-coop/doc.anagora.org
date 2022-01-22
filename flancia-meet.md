@@ -45,5 +45,7 @@
 
   - [[tags]] and [[wikilinks]]
     - wiki history - [[category pages]]
-    - reference/inclusion dichotomy
-    - [[flancian]] mi
+      - no tags, just link CategoryProfile instead of having hashtag #profile
+      - reference/inclusion dichotomy
+    - [[flancian]] could just push 100 pages
+    - what does [[fedwiki]] do in relation to this?
