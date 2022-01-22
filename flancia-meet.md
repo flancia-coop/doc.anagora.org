@@ -3,8 +3,8 @@
 - This is where we could have community maintained notes :)
 
 ## [[2022-01-22]]
-- here [[flancian]], [[bouncepaw]], [[neil]]
-- flag for [[esperanto]]
+- here [[flancian]], [[bouncepaw]], [[neil]], [[will]]
+- flag for [[esperanto]] on [[bouncepaw]]'s wall
 - [[bouncepaw]] https://pad.riseup.net
 - [[bouncepaw]] [[community wiki]]
     - [[push]] [[meatball wiki]]
@@ -15,4 +15,5 @@
         - like a webring
         - agora could have something similar for digital gardens
         - does anything have a tree rather than sequential?
-        - tour bus stop does have multiple routes - and you can change routes
+        - tour bus stop does have multiple routes - and you can change stops
+
