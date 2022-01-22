@@ -53,6 +53,7 @@
         - [[browser]] https://github.com/szymonkaliski/cartographist
     - [[push]] [[gingko]] 
         - https://gingkoapp.com/
+        - https://gingkowriter.com/
     - [[cortex]] browser
     - original browser from [[tim berners lee]] - each new page was a new window
       - related to interest in [[spatial software]] now, e.g. [[miro]]
@@ -83,3 +84,4 @@
         - supported by [[mycorrhiza]]: https://mycorrhiza.wiki/help/en/telegram
     - [[matrix]]-based auth? Gotta read the spec: learn about how identities and auth are done
 - [[oembed]] 
+    - [[open graph]] is widely used for link previews in social media
