@@ -29,5 +29,5 @@
 - [[agora search]] [[ranking]] - can work implicitly via [[push]] [[pull]]
   - [[push]] [[pull]] is a more forceful intent than links alone
 - [[mycorrhiza wiki]] - works at a block content level
-- 
+- [[ted nelson]]
 
