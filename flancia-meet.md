@@ -54,5 +54,6 @@
     - [[push]] [[gingko]] 
         - https://gingkoapp.com/
     - [[cortex]] browser
-    - original browser, each new page was a new window
-      - [[spatial software]]
+    - original browser from tbl - each new page was a new window
+      - related to movement of [[spatial software]] now, e.g. [[miro]]
+    - [[netscape]] had backlinks, but via a central server
