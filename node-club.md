@@ -6,7 +6,7 @@
 
 ### episode 1 (16th Jan - 23rd Jan)
 
-- maybe [[agroecology]], not sure yet.  also might do a 'claim' rather than a 'thing' -- [[neil]]
+- [[agroecology]] (this led to [[i like agroecology]]) -- [[neil]]
 - [[objects conceive other objects in capitalism]] -- [[Jayu]]
 
 ## season 1
