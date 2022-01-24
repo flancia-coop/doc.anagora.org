@@ -7,7 +7,7 @@
 ### episode 2
 
 - [[the agora as a commons]]
-  - [[flancian]]: I'm interested in exploring what this could mean for you. Also: thinking as a group in which ways we coild follow the commoning 
+  - proposal by [[flancian]]: I'm interested in exploring what this could mean for the community. I'd like to focus on thinking as a group which ways we could more closely follow [[commoning patterns]] and best practices (folo 
 
 ### episode 1 (16th Jan - 23rd Jan)
 
