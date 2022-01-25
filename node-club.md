@@ -9,6 +9,7 @@
 - [[the agora as a commons]]
   - proposal by [[flancian]]: I'm interested in exploring what this could mean for the community. I'd like to focus on which [[commoning patterns]] and best practices (as per [[ffa]], [[ostrom]], successful examples of [[commons]] digital and analogue, and your recommendations) we could provision.
   - I'm not finished with [[ffa]] yet so there's no rush with this but I wanted to put it out there :)
+- [[outsider art]] -- [[Jayu]]
 
 ### episode 1 (16th Jan - 23rd Jan)
 
