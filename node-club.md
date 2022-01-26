@@ -4,7 +4,7 @@
 
 ## season 2
 
-### episode 2 (23r?)
+### episode 2 (23rd Jan - 30th Jan)
 
 - [[the agora as a commons]]
   - proposal by [[flancian]]: I'm interested in exploring what this could mean for the community. I'd like to focus on which [[commoning patterns]] and best practices (as per [[ffa]], [[ostrom]], successful examples of [[commons]] digital and analogue, and your recommendations) we could provision.
