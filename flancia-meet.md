@@ -31,7 +31,11 @@
                 - sounds similar to [[hyperlink]]
     - [[anchoring]]
         - how to determine scope for a #push (open problem in an Agora, beyond [[agora protocol]] limited implementation)
-        - heading/para
+        - heading/paragraph problem
+        - anchoring algorithms to deep link or transclude fragments of text from a note
+            - could what hypothesis do be reused to be resilient to edits?
+        - a special anchor element:
+            - https://mycorrhiza.wiki/hypha/idea/anchor_element
 
 ## [[2022-01-22]]
 - here [[flancian]], [[bouncepaw]], [[neil]], [[will]]
