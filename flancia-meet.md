@@ -10,6 +10,10 @@
     - [[push]] can be a solution (see above)
     - could also have a button with 'create stoa' that does node + timestamp concat (for example)
         - [[community wiki]] meets: https://communitywiki.org/wiki/WikiMeet
+        - [[alex schroeder]] is the creator of:
+            - [[emacswiki]]
+            - [[community wiki]]
+            - he also hates bots: https://alexschroeder.ch/wiki/2022-01-24_The_fediverse_doing_previews_for_the_CO₂_god
 
 
 ## [[2022-01-22]]
