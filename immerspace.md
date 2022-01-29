@@ -1,1 +1,2 @@
-- [[go]] https://hub.immers.space/GzWW3RD/accomplished-sharp-roundtable
+- a [[mondegreen]] of [[immers space]]
+    - #go https://hub.immers.space/GzWW3RD/accomplished-sharp-roundtable
