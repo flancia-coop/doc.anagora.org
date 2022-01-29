@@ -37,6 +37,7 @@
             - could what [[hypothesis]] do be reused to be resilient to edits?
         - a special anchor element:
             - https://mycorrhiza.wiki/hypha/idea/anchor_element
+            - need to fix something in mycorrhiza
 
 ## #push [[flancia-meet-2022-01-22]]
 - here [[flancian]], [[bouncepaw]], [[neil]], [[will]]
