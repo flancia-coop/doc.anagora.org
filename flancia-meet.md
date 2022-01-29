@@ -39,6 +39,7 @@
             - https://mycorrhiza.wiki/hypha/idea/anchor_element
             - need to fix something in mycorrhiza
         - it seems we could agree on how to generate anchor ids for blocks?
+            - also, how to regenerate/update anchor ids on updates
 
 ## #push [[flancia-meet-2022-01-22]]
 - here [[flancian]], [[bouncepaw]], [[neil]], [[will]]
