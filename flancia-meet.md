@@ -19,25 +19,26 @@
                 - add robots.txt delay
         - #push [[hypha]]: not [[hyphas]] but [[hyphae]]
             - https://en.wiktionary.org/wiki/hypha
-            - https://mycorrhiza.wiki/help/en/hypha#Hypha_names <- here: is this whole thing a hypha, or is it a sequence of [[hyphae]]?
+            - https://mycorrhiza.wiki/help/en/hypha#Hypha_names
             - example of [[hypha]]: https://mycorrhiza.wiki/hypha/idea/dynamic_hyphae
         - rename [[wikilink]] to [[hyphalink]] discussion 3 months ago
             - brought up by [[neil]]
         - [[mycorrhiza]] has both page and hypha concepts:
             - a page has a URL -- it's a web view
+                - https://mycorrhiza.wiki/recent-changes/20 -- a page, but not a hypha
             - a [[hypha]]
             - links are just called links -- they don't use [[hyphalink]] or [[wikilink]]
                 - they say 'external link' or 'local link'
                 - sounds similar to [[hyperlink]]
-    - [[anchoring]]
+    - #push [[anchors]]
         - how to determine scope for a #push (open problem in an Agora, beyond [[agora protocol]] limited implementation)
-        - heading/paragraph problem
+        - heading/paragraph problem / [[anchoring]] problem
         - anchoring algorithms to deep link or transclude fragments of text from a note
-            - could what hypothesis do be reused to be resilient to edits?
+            - could what [[hypothesis]] do be reused to be resilient to edits?
         - a special anchor element:
             - https://mycorrhiza.wiki/hypha/idea/anchor_element
 
-## [[2022-01-22]]
+## #push [[flancia-meet-2022-01-22]]
 - here [[flancian]], [[bouncepaw]], [[neil]], [[will]]
 - flag for [[esperanto]] on [[bouncepaw]]'s wall
 - [[bouncepaw]] https://pad.riseup.net
