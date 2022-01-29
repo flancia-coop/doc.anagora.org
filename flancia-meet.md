@@ -14,6 +14,11 @@
             - [[emacswiki]]
             - [[community wiki]]
             - he also hates bots: https://alexschroeder.ch/wiki/2022-01-24_The_fediverse_doing_previews_for_the_CO₂_god
+        - [[mycorrhiza]] now has a 5s delay load in [[robots.txt]]
+            - https://github.com/bouncepaw/mycorrhiza/blob/master/static/robots.txt#L27
+            - #push [[do]]
+                - add robots.txt delay
+            - 
 
 
 ## [[2022-01-22]]
