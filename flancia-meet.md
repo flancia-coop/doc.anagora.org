@@ -29,6 +29,9 @@
             - links are just called links -- they don't use [[hyphalink]] or [[wikilink]]
                 - they say 'external link' or 'local link'
                 - sounds similar to [[hyperlink]]
+    - [[anchoring]]
+        - how to determine scope for a #push (open problem in an Agora, beyond [[agora protocol]] limited implementation)
+        - heading/para
 
 ## [[2022-01-22]]
 - here [[flancian]], [[bouncepaw]], [[neil]], [[will]]
