@@ -20,8 +20,9 @@
                 - add robots.txt delay
         - #push [[hypha]]: not [[hyphas]] but [[hyphae]]
             - https://en.wiktionary.org/wiki/hypha
-            - https://mycorrhiza.wiki/help/en/hypha#Hypha_names
-
+            - https://mycorrhiza.wiki/help/en/hypha#Hypha_names <- here: is this whole thing a hypha, or is it a sequence of [[hyphae]]
+        - rename [[wikilink]] to [[hyphalink]] discussion 3 months ago
+            - brought up by [[neil]]
 
 ## [[2022-01-22]]
 - here [[flancian]], [[bouncepaw]], [[neil]], [[will]]
