@@ -26,6 +26,9 @@
             - brought up by [[neil]]
         - [[mycorrhiza]] has both page and hypha concepts:
             - a page has a URL -- it's a web view
+            - a [[hypha]]
+            - links are just called links -- they don't use [[hyphalink]] or [[wikilink]]
+                - they say 'external link' or 'local l
 
 ## [[2022-01-22]]
 - here [[flancian]], [[bouncepaw]], [[neil]], [[will]]
