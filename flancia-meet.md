@@ -2,6 +2,11 @@
 - We meet best-effort every Saturday.
 - This is where we could have community maintained notes :)
 
+## [[2022-01-29]]
+- attending: [[bouncepaw]] [[flancian]]
+- will probably do another one of these later in the da
+
+
 ## [[2022-01-22]]
 - here [[flancian]], [[bouncepaw]], [[neil]], [[will]]
 - flag for [[esperanto]] on [[bouncepaw]]'s wall
