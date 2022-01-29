@@ -3,9 +3,8 @@
 - This is where we could have community maintained notes :)
 
 ## #push [[flancia-meet-2022-01-29]]
-- #push [[flancia-meet-2022-01-29]]
-  - attending: [[bouncepaw]] [[flancian]] (9AM)
-  - will probably do another one of these later in the day
+- attending: [[bouncepaw]] [[flancian]] (9AM)
+- will probably do another one of these later in the day
 - [[bouncepaw]] issue with deep linking into a particular instance of these meetings notes
     - [[push]] can be a solution (see above)
     - could also have a button with 'create stoa' that does node + timestamp concat (for example)
