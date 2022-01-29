@@ -3,7 +3,7 @@
 - This is where we could have community maintained notes :)
 
 ## #push [[flancia-meet-2022-01-29]]
-- attending: [[bouncepaw]] [[flancian]] (9AM)
+- attending: [[bouncepaw]] [[flancian]] (9AM) and [[vera]] joi
 - will probably do another one of these later in the day
 - [[bouncepaw]] issue with deep linking into a particular instance of these meetings notes
     - [[push]] can be a solution (see above)
@@ -41,6 +41,12 @@
         - it seems we could agree on how to generate anchor ids for blocks?
             - also, how to regenerate/update anchor ids on updates
             - https://github.com/flancian/agora-server/issues/38 discussion will be held here
+        - example things that could work :)
+            - me says:[[foo#bar]] 
+            - me says:[[hypha/coop]] 
+            - me says:[[go/hypha/coop]] 
+            - me says:#pull [[hypha#coop]] 
+            - me says:#pull [[hypha/coop]] 
 
 ## #push [[flancia-meet-2022-01-22]]
 - here [[flancian]], [[bouncepaw]], [[neil]], [[will]]
