@@ -18,7 +18,9 @@
             - https://github.com/bouncepaw/mycorrhiza/blob/master/static/robots.txt#L27
             - #push [[do]]
                 - add robots.txt delay
-            - 
+        - #push [[hypha]]: not [[hyphas]] but [[hyphae]]
+            - https://en.wiktionary.org/wiki/hypha
+            - https://mycorrhiza.wiki/help/en/hypha#Hypha_names
 
 
 ## [[2022-01-22]]
