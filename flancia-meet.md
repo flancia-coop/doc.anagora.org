@@ -40,6 +40,7 @@
             - need to fix something in mycorrhiza
         - it seems we could agree on how to generate anchor ids for blocks?
             - also, how to regenerate/update anchor ids on updates
+            - https://github.com/flancian/agora-server/issues/38 discussion will be held here
 
 ## #push [[flancia-meet-2022-01-22]]
 - here [[flancian]], [[bouncepaw]], [[neil]], [[will]]
