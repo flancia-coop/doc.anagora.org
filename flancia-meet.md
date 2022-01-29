@@ -28,7 +28,8 @@
             - a page has a URL -- it's a web view
             - a [[hypha]]
             - links are just called links -- they don't use [[hyphalink]] or [[wikilink]]
-                - they say 'external link' or 'local l
+                - they say 'external link' or 'local link'
+                - sounds similar to [[hyperlink]]
 
 ## [[2022-01-22]]
 - here [[flancian]], [[bouncepaw]], [[neil]], [[will]]
