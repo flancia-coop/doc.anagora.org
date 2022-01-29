@@ -3,7 +3,7 @@
 - This is where we could have community maintained notes :)
 
 ## #push [[flancia-meet-2022-01-29]]
-- attending: [[bouncepaw]] [[flancian]] (9AM) and [[vera]] joi
+- attending: [[bouncepaw]] [[flancian]] (9AM) and [[vera]] joined later
 - will probably do another one of these later in the day
 - [[bouncepaw]] issue with deep linking into a particular instance of these meetings notes
     - [[push]] can be a solution (see above)
