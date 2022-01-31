@@ -1,0 +1,1 @@
+Dihydrocodeine is a semi-synthetic opioid analgesic prescribed for pain or severe , or as an antitussive, either alone or compounded with paracetamol (acetaminophen) (as in co-dydramol) or aspirin.
