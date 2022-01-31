@@ -1,0 +1,1 @@
+Famotidine, sold under the brand name Pepcid among others, is a histamine H2 receptor antagonist medication that decreases stomach acid production.
