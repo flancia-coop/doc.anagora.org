@@ -1,2 +1,2 @@
 hot flashes
--    sd
+-    IIRC due to loss of estrogen hormone
