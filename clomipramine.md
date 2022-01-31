@@ -1,0 +1,1 @@
+Clomipramine, sold under the brand name Anafranil among others, is a [tricyclic antidepressant](https://anagora.org/tricyclic-antidepressant) (TCA).
