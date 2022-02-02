@@ -10,7 +10,7 @@
 
 #### [[node club tarot]] readings
 
-- [[galaksija]] / [[timechain]] / [[2021]] / [[Ask]] / [[Cinbalom Street Musicians]] / [[arcosanti]] -- [[neil]]
+- [[galaksija]] / [[timechain]] / [[2021]] / [[Ask]] / [[Cimbalom Street Musicians]] / [[arcosanti]] -- [[neil]]
 
 ### episode 2 (23rd Jan - 30th Jan)
 
