@@ -4,7 +4,13 @@
 
 ## season 2
 
-### episode 3 (31st Jan - 30th Jan)
+### episode 3 (31st Jan - 6th Feb)
+
+- [[digital colonialism]] -- [[neil]]
+
+#### node club tarot
+
+- 
 
 ### episode 2 (23rd Jan - 30th Jan)
 
