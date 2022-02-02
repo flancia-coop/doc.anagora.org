@@ -8,9 +8,9 @@
 
 - [[digital colonialism]] -- [[neil]]
 
-#### node club tarot
+#### [[node club tarot]]
 
-- 
+- [[galaksija]] / [[timechain]] / [[2021]] / [[Ask]] / [[Cinbalom Street Musicians]] / [[arcosanti]] -- [[neil]]
 
 ### episode 2 (23rd Jan - 30th Jan)
 
