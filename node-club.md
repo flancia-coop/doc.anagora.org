@@ -8,7 +8,7 @@
 
 - [[digital colonialism]] -- [[neil]]
 
-#### [[node club tarot]]
+#### [[node club tarot]] readings
 
 - [[galaksija]] / [[timechain]] / [[2021]] / [[Ask]] / [[Cinbalom Street Musicians]] / [[arcosanti]] -- [[neil]]
 
