@@ -26,4 +26,6 @@
 - [[agroecology]] (this led to [[i like agroecology]]) -- [[neil]]
 - [[objects conceive other objects in capitalism]] -- [[Jayu]]
 
-## [[season 1]]
+## season 1
+
+- [[node club season 1]]
