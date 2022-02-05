@@ -12,6 +12,7 @@
 - [[pipepunk]]
 - [[tour bus stop]] 
     - maybe have agora version?
+    - http://meatballwiki.org/wiki/TourBusMap
     - https://melanocarpa.lesarbr.es/hypha/tour_bus_stop
 - web clipper
     - https://melanocarpa.lesarbr.es/hypha/mycoclipper_2.0
