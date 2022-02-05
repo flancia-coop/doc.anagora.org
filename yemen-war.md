@@ -6,4 +6,4 @@ my name is Mohammed I live in Yemen country.
  The reason is Iranian interference in Yemen.  The world says so.
  Since then, Yemen has been suffering from poverty and famine.  because of the siege.
  Death and destruction in every city.  The dead numbered in the thousands 
- Both sides fight for the victory of religion
+Both sides fight for the victory of religion.
