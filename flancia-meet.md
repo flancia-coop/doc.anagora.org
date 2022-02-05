@@ -7,7 +7,8 @@
 - http://www.wosonhj.com journals here
 - [[bouncepaw]] is writing backing up scripts for his wikis
 - [[github]] as a cloud
-- [[fantastic fungi]] -- highly recommend
+- [[fantastic fungi]] -- highly recommend [[vera]]
+- 
 
 ## #push [[flancia-meet-2022-01-29]]
 - attending: [[bouncepaw]] [[flancian]] (9AM) and [[vera]] joined later
