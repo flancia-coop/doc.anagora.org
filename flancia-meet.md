@@ -10,6 +10,10 @@
 - [[fantastic fungi]] -- highly recommend [[vera]]
 - [[solarpunk]], [[a solarpunk manifesto]]
 - [[pipepunk]]
+- [[tour bus stop]] 
+    - maybe have agora version?
+    - https://melanocarpa.lesarbr.es/hypha/tour_bus_stop
+    -
 
 ## #push [[flancia-meet-2022-01-29]]
 - attending: [[bouncepaw]] [[flancian]] (9AM) and [[vera]] joined later
