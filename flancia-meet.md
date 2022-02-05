@@ -16,6 +16,7 @@
     - https://melanocarpa.lesarbr.es/hypha/tour_bus_stop
 - web clipper
     - https://melanocarpa.lesarbr.es/hypha/mycoclipper_2.0
+- [[raku]], used to be called [[perl 6]]. A fun language
 
 ## #push [[flancia-meet-2022-01-29]]
 - attending: [[bouncepaw]] [[flancian]] (9AM) and [[vera]] joined later
