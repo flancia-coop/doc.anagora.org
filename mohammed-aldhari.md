@@ -9,4 +9,4 @@ Hello my friend! Here you can write what you want. It's a public ![Uploading fil
 thank you flancia ❤
 flancia is my house now 
 I find myself in flancia after years in a street (homeless)
-tha
+thank you flancia ❤
