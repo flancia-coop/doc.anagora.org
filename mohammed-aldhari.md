@@ -7,3 +7,6 @@ Hello my friend! Here you can write what you want. It's a public ![Uploading fil
 ![Uploading file..._e2kl64gi0]()
 ![Uploading file..._1o70yfde4]()
 thank you flancia ❤
+flancia is my house now 
+I find myself in flancia after years in a street (homeless)
+tha
