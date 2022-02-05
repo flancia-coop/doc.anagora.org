@@ -9,6 +9,7 @@
 - [[github]] as a cloud
 - [[fantastic fungi]] -- highly recommend [[vera]]
 - [[solarpunk]], [[a solarpunk manifesto]]
+- [[pipepunk]]
 
 ## #push [[flancia-meet-2022-01-29]]
 - attending: [[bouncepaw]] [[flancian]] (9AM) and [[vera]] joined later
