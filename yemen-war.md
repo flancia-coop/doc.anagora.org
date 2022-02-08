@@ -8,4 +8,5 @@ my name is Mohammed I live in Yemen country.
  Death and destruction in every city.  The dead numbered in the thousands 
 Both sides fight for the victory of religion.
 Abu Dhabi and Dubai were targeted with missiles and drones from military in Sanaa.
-
+On the other hand, warplanes bombard Sanaa and Yemeni cities extensively.
+There is a stifling siege bigger than before
