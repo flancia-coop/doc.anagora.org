@@ -10,3 +10,6 @@ Both sides fight for the victory of religion.
 Abu Dhabi and Dubai were targeted with missiles and drones from military in Sanaa.
 On the other hand, warplanes bombard Sanaa and Yemeni cities extensively.
 There is a stifling siege bigger than before
+It is the largest since the aggression on Yemen.
+Victims are civilians only.
+There is a large American crowd in the Emirates to defend it.
