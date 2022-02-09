@@ -6,11 +6,11 @@
 
 ### episode 4 (6th Feb - 13th Feb)
 
-- [[digital colonialism]] -- [[neil]]
+- [[governable stacks]] -- [[neil]]
 
 #### [[node club tarot]] readings
 
-- [[galaksija]] / [[timechain]] / [[2021]] / [[Ask]] / [[Cimbalom Street Musicians]] / [[arcosanti]] -- [[neil]]
+- [[ideology requires consensus thinking]] / [[radio equipment wishlist]] / [[anti-authoritarian networking]] / [[]]
 
 
 ### episode 3 (31st Jan - 6th Feb)
