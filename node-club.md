@@ -4,6 +4,15 @@
 
 ## season 2
 
+### episode 4 (6th Feb - 13th Feb)
+
+- [[digital colonialism]] -- [[neil]]
+
+#### [[node club tarot]] readings
+
+- [[galaksija]] / [[timechain]] / [[2021]] / [[Ask]] / [[Cimbalom Street Musicians]] / [[arcosanti]] -- [[neil]]
+
+
 ### episode 3 (31st Jan - 6th Feb)
 
 - [[digital colonialism]] -- [[neil]]
