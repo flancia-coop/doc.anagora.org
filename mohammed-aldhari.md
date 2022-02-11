@@ -8,3 +8,4 @@ thank you flancia ❤
 flancia is my house now 
 I find myself in flancia after years in loss 
 thank you flancia ❤
+My plan and my dream is
