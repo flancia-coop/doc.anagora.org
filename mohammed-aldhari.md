@@ -14,6 +14,8 @@ I have already studied an introduction to html and css and an insufficient intro
 I have already studied an introduction to html and css and an insufficient introduction to javascript 😅
 I am getting ready to travel to India to study there
 And also to look for a chance to survive 
+my passport now in Indian Embassy in Djibouti.
+
 I am the father of 3 children
 I will leave my family here in Yemen inside dirty war 💔
 because Because I don't have any other choice right now
@@ -26,3 +28,5 @@ I will try with all my might.  I will fight.  I will pray to succeed
 no hope here in Yemen. Every day the events are mounting and increasing murder.
 I will work hard.  I wish you were with me.  Save me and my family from fear and destruction.
 Thank you, flancia , for giving me this great opportunity.  that I never dreamed of.
+flancia You are the greatest person on earth
+thank you 
