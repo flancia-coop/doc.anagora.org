@@ -20,3 +20,5 @@ because Because I don't have any other choice right now
 Their travel costs are very expensive.
 It is not possible to leave for a country where it is possible to find a job
 So I will leave them to the mercy of war
+I may find an opportunity to apply for asylum.  Or maybe get a work visa.  Or maybe I can get a job online through which I can live in India, Egypt or Jordan.
+If I had long term support I would have taken them with me.
