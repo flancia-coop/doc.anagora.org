@@ -11,7 +11,7 @@
 #### [[node club tarot]] readings
 
 - [[ideology requires consensus thinking]] / [[radio equipment wishlist]] / [[anti-authoritarian networking]] / [[maintain]] / [[ways to run code]] / [[repairability standard]] -- [[neil]]
-- [[gang gang]] / 
+- [[gang gang]] / [[2009 04 19 microplaza shows you links from people you follow on twitter]] / [[ipfs]] / [[complexity science]] / [[esr]] / [[discriminator]] -- [[Jayu]]
 
 ### episode 3 (31st Jan - 6th Feb)
 
