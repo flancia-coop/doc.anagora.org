@@ -10,3 +10,8 @@ I find myself in flancia after years in loss
 thank you flancia ❤
 My plan and my dream is
 learning.  To learn English fluently and also to study web front-end design.
+I have already studied an introduction to html and css and an insufficient introduction to javascript 😅.
+I have already studied an introduction to html and css and an insufficient introduction to javascript 😅
+I am getting ready to travel to India to study there
+And also to look for a chance to survive 
+I am the father of 3 children
