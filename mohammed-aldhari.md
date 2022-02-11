@@ -19,3 +19,4 @@ I will leave my family here in Yemen inside dirty war 💔
 because Because I don't have any other choice right now
 Their travel costs are very expensive.
 It is not possible to leave for a country where it is possible to find a job
+So I will leave them to the mercy of war
