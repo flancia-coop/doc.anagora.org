@@ -23,3 +23,6 @@ So I will leave them to the mercy of war
 I may find an opportunity to apply for asylum.  Or maybe get a work visa.  Or maybe I can get a job online through which I can live in India, Egypt or Jordan.
 If I had long term support I would have taken them with me.
 I will try with all my might.  I will fight.  I will pray to succeed
+no hope here in Yemen. Every day the events are mounting and increasing murder.
+I will work hard.  I wish you were with me.  Save me and my family from fear and destruction.
+
