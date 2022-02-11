@@ -9,3 +9,4 @@ flancia is my house now
 I find myself in flancia after years in loss 
 thank you flancia ❤
 My plan and my dream is
+learning.  To learn English fluently and also to study web front-end design.
