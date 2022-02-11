@@ -25,4 +25,4 @@ If I had long term support I would have taken them with me.
 I will try with all my might.  I will fight.  I will pray to succeed
 no hope here in Yemen. Every day the events are mounting and increasing murder.
 I will work hard.  I wish you were with me.  Save me and my family from fear and destruction.
-
+Thank you, flancia , for giving me this great opportunity.  that I never dreamed of.
