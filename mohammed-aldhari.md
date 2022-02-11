@@ -15,3 +15,6 @@ I have already studied an introduction to html and css and an insufficient intro
 I am getting ready to travel to India to study there
 And also to look for a chance to survive 
 I am the father of 3 children
+I will leave my family here in Yemen inside dirty war 💔
+because Because I don't have any other choice right now
+Their travel costs are very expensive.
