@@ -14,4 +14,6 @@ It is the largest since the aggression on Yemen.
 Victims are civilians only.
 There is a large American crowd in the Emirates to defend it.
 
-https://twitter.com/mohamedahmedalt/status/1491448304768815112?t=62QE2Km8eUALwuAJHrYmCw&s=19
+https://twitter.com/mohamedahmedalt/status/1491448304768815112?t=62QE2Km8eUALwuAJHrYmCw&s=1
+
+https://youtu.be/V-pvgIVHtIE
