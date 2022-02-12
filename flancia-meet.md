@@ -55,7 +55,9 @@
      - [[hypha]]
  - [[logseq]] 
      - [[metasj]] wasn't too sure about the term [[commons]], will continue discussing
- - waterway/irrigation commons in switzerland been going for 8 centuries
+ - #push [[commons]]
+     - waterway/irrigation commons in switzerland been going for 8 centuries
+     - [[blockchain]] has all three aspects of [[triad of commoning]]
 
 
  
