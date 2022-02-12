@@ -2,8 +2,11 @@
 - We meet best-effort every Saturday.
 - This is where we could have community maintained notes :)
 
-## #push [[flancia-meet-2022-02-05]]
-- 
+## #push [[flancia-meet-2022-02-12]]
+- [[pandemic relationships]]
+- [[the great resignation]]
+- [[fully automated luxury gay space communism]]
+  - [[arcologies]]
 
 ## #push [[flancia-meet-2022-02-05]]
 - attending: [[bouncepaw]], [[vera]]
