@@ -40,7 +40,9 @@
           - you send crypto to an irretrievable address
       - you can [[burn]] or [[stake]] crypto to add or support a proposal
   - it would be cool if people supporting a proposal could have their support be weighted by e.g. degree of previous collaboration
-  - [[disco]]
+  - [[disco]] as a lefty use of blockchain governance structures
+- [[libertarian socialism]]
+    - [[libertar]]
  
 
 ## #push [[flancia-meet-2022-02-05]]
