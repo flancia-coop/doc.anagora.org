@@ -45,6 +45,9 @@
     - [[libertarian]] seems to have been coopted by the right -- is it "worth" trying to rehabilitate it?
 - which [[labels]] do you use when in conversation with strangers if the topic comes up?
     - try to avoid monolithic labels
+- [[resonate]]
+    - is there a [[video streaming coop]]?
+    - [[peertube]] is 
  
 
 ## #push [[flancia-meet-2022-02-05]]
