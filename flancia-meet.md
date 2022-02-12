@@ -14,7 +14,8 @@
 - [[federation]]
     - still hierarchical in current implementations, see the federal government in the US
     - [[us federal government]]
-    - 
+    - [[horizontalism vs verticalism]]
+    - [[heterarchy]] in a federation as an alternative
  
 
 ## #push [[flancia-meet-2022-02-05]]
