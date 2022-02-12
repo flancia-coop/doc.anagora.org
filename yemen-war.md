@@ -18,3 +18,6 @@ https://twitter.com/mohamedahmedalt/status/1491448304768815112?t=62QE2Km8eUALwuA
 
 this video explains about ssituation of kids in Yemen 
 https://youtu.be/V-pvgIVHtIE
+
+The tragedy of the Yemeni passport
+https://almashareq.com/en_GB/articles/cnmi_am/features/2020/02/25/feature-01
