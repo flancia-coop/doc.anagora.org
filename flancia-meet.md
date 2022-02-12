@@ -48,6 +48,8 @@
 - [[resonate]]
     - is there a [[video streaming coop]]?
     - [[peertube]] is there but UI is a bit clunky
+    - [[invidious]] is to [[youtube]] like [[nitter]] is to [[twitter]]
+        - [[meta]] there is a name/special syntax for the above
  
 
 ## #push [[flancia-meet-2022-02-05]]
