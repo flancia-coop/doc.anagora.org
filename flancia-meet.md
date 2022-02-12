@@ -38,7 +38,7 @@
       - there is a [[proposal system]]
       - [[burning crypto]]
           - you send crypto to an irretrievable address
-          - you can 
+      - you can [[burn]] or [[stake]] crypto to add or support a proposal
 
  
 
