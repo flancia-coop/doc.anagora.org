@@ -39,7 +39,8 @@
       - [[burning crypto]]
           - you send crypto to an irretrievable address
       - you can [[burn]] or [[stake]] crypto to add or support a proposal
-  - it would be cool if people supporting
+  - it would be cool if people supporting a proposal could have their support be weighted by e.g. degree of previous collaboration
+  - [[disco]]
  
 
 ## #push [[flancia-meet-2022-02-05]]
