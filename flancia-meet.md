@@ -24,7 +24,10 @@
      - [[speculative fiction]]
      - [[solarpunk]]
      - [[protopian cyberpunk]]
-     - [[aliveness]]
+     - [[aliveness]], [[sustainability]]
+  - what can our role be?
+    - sharing knowledge
+
  
 
 ## #push [[flancia-meet-2022-02-05]]
