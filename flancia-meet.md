@@ -42,7 +42,9 @@
   - it would be cool if people supporting a proposal could have their support be weighted by e.g. degree of previous collaboration
   - [[disco]] as a lefty use of blockchain governance structures
 - [[libertarian socialism]]
-    - [[libertar]]
+    - [[libertarian]] seems to have been coopted by the right -- is it "worth" trying to rehabilitate it?
+- which [[labels]] do you use when in conversation with strangers if the topic comes up?
+    - try to avoid monolithic labels
  
 
 ## #push [[flancia-meet-2022-02-05]]
