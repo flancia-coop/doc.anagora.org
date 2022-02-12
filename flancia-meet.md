@@ -6,10 +6,10 @@
 - [[pandemic relationships]]
 - [[the great resignation]]
 - [[fully automated luxury gay space communism]]
-  - [[arcologies]]
-  - [[four futures]]
   - fearing a [[warring warlords]] future instead
-  - 
+- [[arcologies]]
+- [[four futures]]
+ 
 
 ## #push [[flancia-meet-2022-02-05]]
 - attending: [[bouncepaw]], [[vera]]
