@@ -3,6 +3,9 @@
 - This is where we could have community maintained notes :)
 
 ## #push [[flancia-meet-2022-02-05]]
+- 
+
+## #push [[flancia-meet-2022-02-05]]
 - attending: [[bouncepaw]], [[vera]]
 - http://www.wosonhj.com journals here
 - [[bouncepaw]] is writing backing up scripts for his wikis
