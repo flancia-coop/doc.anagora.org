@@ -53,6 +53,10 @@
         - [[meta]] there is a name/special syntax for the above
  - directory of coop alternatives? 
      - [[hypha]]
+ - [[logseq]] 
+     - [[metasj]] wasn't too sure about the term [[commons]], will continue discussing
+ - waterway/irrigation commons in switzerland been going for 8 centuries
+
 
  
 
