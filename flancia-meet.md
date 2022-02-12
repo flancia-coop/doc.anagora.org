@@ -39,7 +39,7 @@
       - [[burning crypto]]
           - you send crypto to an irretrievable address
       - you can [[burn]] or [[stake]] crypto to add or support a proposal
-
+  - it would be cool if people supporting
  
 
 ## #push [[flancia-meet-2022-02-05]]
