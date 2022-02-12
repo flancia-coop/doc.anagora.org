@@ -35,6 +35,10 @@
   - [[crypto]]
       - very interesting field currently: polarized, but with an emerging [[middle way]]
       - [[nathan schneider]] has been talking about the possibilities for [[decentralized governance]]
+      - there is a [[proposal system]]
+      - [[burning crypto]]
+          - you send crypto to an irretrievable address
+          - you can 
 
  
 
