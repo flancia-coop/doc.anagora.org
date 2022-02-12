@@ -3,12 +3,18 @@
 - This is where we could have community maintained notes :)
 
 ## #push [[flancia-meet-2022-02-12]]
+- attending [[vera]], [[flancian]], [[neil]]
 - [[pandemic relationships]]
 - [[the great resignation]]
 - [[fully automated luxury gay space communism]]
   - fearing a [[warring warlords]] future instead
 - [[arcologies]]
-- [[four futures]]
+  - [[four futures]]
+      - [[star trek]] / [[launch]]
+- [[federation]]
+    - still hierarchical in current implementations, see the federal government in the US
+    - [[us federal government]]
+    - 
  
 
 ## #push [[flancia-meet-2022-02-05]]
