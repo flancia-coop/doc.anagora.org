@@ -31,6 +31,10 @@
     - sharing knowledge
   - [[stellar]]
     - non-profit
+    - quorum based, low energy consumption
+  - [[crypto]]
+      - very interesting field currently: polarized, but with an emerging [[middle way]]
+      - [[nathan schneider]] has been talking about the possibilities for [[decentralized governance]]
 
  
 
