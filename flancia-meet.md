@@ -16,6 +16,15 @@
     - [[us federal government]]
     - [[horizontalism vs verticalism]]
     - [[heterarchy]] in a federation as an alternative
+ - [[occupy]]
+     - why did it fizzle out?
+     - [[anarchist cybernetics]]
+     - anarchists in the french revolution
+ - [[prefiguration]]
+     - [[speculative fiction]]
+     - [[solarpunk]]
+     - [[protopian cyberpunk]]
+     - [[aliveness]]
  
 
 ## #push [[flancia-meet-2022-02-05]]
