@@ -25,8 +25,12 @@
      - [[solarpunk]]
      - [[protopian cyberpunk]]
      - [[aliveness]], [[sustainability]]
+  - power consumption is not the problem, fossil fuels are the problem
+    - what if we had [[nuclear fusion]] [[dyson spheres]] etc?
   - what can our role be?
     - sharing knowledge
+  - [[stellar]]
+    - non-profit
 
  
 
