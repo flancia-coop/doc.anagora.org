@@ -47,7 +47,7 @@
     - try to avoid monolithic labels
 - [[resonate]]
     - is there a [[video streaming coop]]?
-    - [[peertube]] is 
+    - [[peertube]] is there but UI is a bit clunky
  
 
 ## #push [[flancia-meet-2022-02-05]]
