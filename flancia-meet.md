@@ -47,6 +47,7 @@
     - try to avoid monolithic labels
 - [[resonate]]
     - is there a [[video streaming coop]]?
+        - [[means.tv]] perhaps?
     - [[peertube]] is there but UI is a bit clunky
     - [[invidious]] is to [[youtube]] like [[nitter]] is to [[twitter]]
         - [[meta]] there is a name/special syntax for the above
