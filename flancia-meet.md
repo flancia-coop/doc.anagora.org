@@ -8,6 +8,8 @@
 - [[fully automated luxury gay space communism]]
   - [[arcologies]]
   - [[four futures]]
+  - fearing a [[warring warlords]] future instead
+  - 
 
 ## #push [[flancia-meet-2022-02-05]]
 - attending: [[bouncepaw]], [[vera]]
