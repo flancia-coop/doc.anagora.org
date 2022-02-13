@@ -6,6 +6,9 @@
 
 ### episode 5 (13th Feb - 20th Feb)
 
+### [[node club tarot]] readings
+
+- [[simulacra]] / [[based]] / [[tarot]] / [[2020-05-02]] / -- [[Jayu]]
 
 ### episode 4 (6th Feb - 13th Feb)
 
