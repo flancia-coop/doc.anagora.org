@@ -6,9 +6,9 @@
 
 ### episode 5 (13th Feb - 20th Feb)
 
-### [[node club tarot]] readings
+#### [[node club tarot]] readings
 
-- [[simulacra]] / [[based]] / [[tarot]] / [[2020-05-02]] / -- [[Jayu]]
+- [[simulacra]] / [[based]] / [[tarot]] / [[2020-05-02]] / [[the bigger the bot hype grows the more apparent it becomes that when it comes to bots for now at]] / [[middle way]] -- [[Jayu]]
 
 ### episode 4 (6th Feb - 13th Feb)
 
