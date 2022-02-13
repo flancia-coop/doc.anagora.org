@@ -1,1 +1,2 @@
-- #pull https://fwfg.com/
+- #go https://fwfg.com/
+- [[2022-02]] https://fwfg.com/programs/yoga-calendar-february-2022-blossom?categoryId=106071&permalink=10-minute-yoga-for-self-care
