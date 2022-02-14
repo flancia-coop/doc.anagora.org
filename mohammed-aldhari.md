@@ -32,3 +32,4 @@ flancia You are the greatest person on earth
 thank you 
 
 I may not be able to prove my suffering.  But I am honest.  Maybe the poor are always liars and crooks in the eyes of the rich .
+Pain breaks me and makes me bend down and speak with fear and caution.
