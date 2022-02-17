@@ -9,7 +9,7 @@
 #### [[node club tarot]] readings
 
 - [[simulacra]] / [[based]] / [[tarot]] / [[2020-05-02]] / [[the bigger the bot hype grows the more apparent it becomes that when it comes to bots for now at]] / [[middle way]] -- [[Jayu]]
-- [[2003 09 24 commsdesign voip chip targets home gateways]] / [[computer vision week 4 main file]] / 
+- [[2003 09 24 commsdesign voip chip targets home gateways]] / [[computer vision week 4 main file]] / [[pasted image 20210622190553]] / [[while large corporations have the resources to do large cross cutting messages the profit motive]] / [[deleuze and guattari]] / [[anarcho syncretism]] -- [[neil]]
 
 ### episode 4 (6th Feb - 13th Feb)
 
