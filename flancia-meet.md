@@ -54,6 +54,7 @@
       - [[weirder earth]]
           - has a well maintained list but it seemed to have potential for false positives
       - [[will]] going back to [[browse as]], you could have the concept of adopting someone else's blocklist to trial it/help debug
+      - fascist vs shitposter
 - [[agora bot]]
 - 
 
