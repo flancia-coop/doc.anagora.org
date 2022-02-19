@@ -26,10 +26,11 @@
   - various actions could be available
   - e.g. [[marx]] should autopull [[karl marx]]
     - could have a persistent pull button, so next time agora knows to pull it
-    - works like a replay log- e.g. like RT on Twitter started as a user text based action that twitter then codified?
-    - stoa can provide a nice meta layer on top of people's digital gardens
-      - e.g. use pull in the stoa without having to use it in own garden
-      - 
+    - works like a replay log
+  - e.g. like RT on Twitter started as a user text based action that twitter then codified?
+  - stoa can provide a nice meta layer on top of people's digital gardens
+    - e.g. use pull in the stoa without having to use it in own garden
+  - it would work on trust on people not gaming the s
 - [[agora bot]]
 - 
 
