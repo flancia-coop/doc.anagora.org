@@ -2,6 +2,9 @@
 - We meet best-effort every Saturday.
 - This is where we could have community maintained notes :)
 
+# 2022-02-19
+
+
 ## #push [[flancia-meet-2022-02-12]]
 - attending [[vera]], [[flancian]], [[neil]]
 - [[pandemic relationships]]
