@@ -77,8 +77,8 @@
       - which actions, relationships, ranking of things will be converge on?
       - [[vera]] one thing we can do: write down which one we uprank/like and *why*
 - [[metanode]] or [[supernode]]
-    - a local graph of nodes/subnodes (alternative to not just defined by shared title)
-    - e.g. random/6
+  - a local graph of nodes/subnodes (alternative to not just defined by shared title)
+  - e.g. random/6
 
 
 ## #push [[flancia-meet-2022-02-12]]
