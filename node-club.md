@@ -6,6 +6,8 @@
 
 ### episode 5 (13th Feb - 20th Feb)
 
+- [[implicit feudalism]] -- [[neil]]
+
 #### [[node club tarot]] readings
 
 - [[simulacra]] / [[based]] / [[tarot]] / [[2020-05-02]] / [[the bigger the bot hype grows the more apparent it becomes that when it comes to bots for now at]] / [[middle way]] -- [[Jayu]]
