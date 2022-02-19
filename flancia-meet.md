@@ -39,7 +39,7 @@
   - could be a way of 'previewing' what it might be like before delegating something to someone else
   - also relates to curation which is currently undervalued in social media
   - lets you burst out of [[filter bubble]]
-- if agora stoa is o
+- agora stoa is fully open...
   - moderation policy needed
   - anyone can edit stoa, what if e.g. end up with fascist subnode
   - difference between authentication and authorization
@@ -72,13 +72,13 @@
   - or perhaps it could be a star or a bookmark
   - relative ranking is important
   - [[neil]] liked how [[ctzn]] did it -- you could apply any action to any resource
-      - it was emojis, but also arbitrary text comments that worked somewhat as [[tags]]
+      - it could include emojis, but also arbitrary text comments that worked somewhat as [[tags]]
       - you could then perhaps choose to 'show me this node ranked by this particular user-defined ranking'
   - [[neil]] takeaway: let's go into the [[stoa]] and start adding relationships between subnodes
       - which actions, relationships, ranking of things will be converge on?
       - [[vera]] one thing we can do: write down which one we uprank/like and *why*
 - [[metanode]] or [[supernode]]
-  - a local graph of nodes/subnodes (alternative to not just defined by shared title)
+  - a local graph of nodes/subnodes (where the link may not just be that they are defined by a shared title)
   - e.g. random/6
 - compatibility with [[mycomarkup]]?
     - [[vera]] right now the parser is outputting pandoc ast
