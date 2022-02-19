@@ -17,7 +17,10 @@
     - is [[logseq]] doing this?
       - they used to, but apparently this is now removed or at least not front and center
       - they may or may not use [[git]] for their planned hosting, actually we should check with them
-    - 
+- [[ranking]]
+  - reddit-style upvoting?
+  - action called uprank
+    - e.g. #uprank plus username
 - [[agora bot]]
 - 
 
