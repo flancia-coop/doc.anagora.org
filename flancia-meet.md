@@ -42,6 +42,8 @@
   - moderation policy needed
   - anyone can edit stoa, what if e.g. end up with fascist subnode
   - difference between authentication and authorization
+    - ‘authentication is boolean, authorization is a list of permissions’ — [[vera]]
+  - could possibly have two stoas? one open to public, one more limited to agora users
 - [[agora bot]]
 - 
 
