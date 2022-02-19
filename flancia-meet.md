@@ -74,6 +74,9 @@
   - [[neil]] liked how [[ctzn]] did it -- you could apply any action to any resource
       - it was emojis, but also arbitrary text comments that worked somewhat as [[tags]]
       - you could then perhaps choose to 'show me this node ranked by this particular user-defined ranking'
+  - [[neil]] takeaway: let's go into the [[stoa]] and start adding relationships between subnodes
+      - which actions, relationships, ranking of things will be converge on?
+      - [[vera]] one thing we can do: write down which one we uprank/like and *why*
 
 
 ## #push [[flancia-meet-2022-02-12]]
