@@ -79,6 +79,7 @@
 - [[metanode]] or [[supernode]]
   - a local graph of nodes/subnodes (alternative to not just defined by shared title)
   - e.g. random/6
+- compatability with MycoMarkup? 
 
 
 ## #push [[flancia-meet-2022-02-12]]
