@@ -69,7 +69,8 @@
     - push to subnode?
     - possible distinction between garden, stream, comment nodes
       - relates to agora.yaml
-  - 
+  - or perhaps it could be a star or a bookmark
+  - relative ranking is important
 
 
 ## #push [[flancia-meet-2022-02-12]]
