@@ -21,24 +21,25 @@
   - reddit-style upvoting?
   - action called uprank
     - e.g. #uprank [[@username]]
-    - could do it in the stoa
+  - could do it in the stoa
   - stoa could be a log, like an action log
-  - various actions could be available
+    - various actions could be available
+    - works like a replay log
   - e.g. [[marx]] should autopull [[karl marx]]
     - could have a persistent pull button, so next time agora knows to pull it
-    - works like a replay log
   - e.g. like RT on Twitter started as a user text based action that twitter then codified?
   - stoa can provide a nice meta layer on top of people's digital gardens
     - e.g. use pull in the stoa without having to use it in own garden
   - it would work on trust on people not gaming the stoa
     - trust based systems can be a good thing
     - e.g. look at problems of trustless blockchain projects
+    - if instances are kept small, this is OK
 - [[flancian]] has been thinking about [[browse as]]
   - related to concepts of [[liquid democracy]]
   - could be a way of 'previewing' what it might be like before delegating something to someone else
   - also relates to curation which is currently undervalued in social media
   - lets you burst out of [[filter bubble]]
-- agora follows stoa commands
+- if agora stoa is o
   - moderation policy needed
   - anyone can edit stoa, what if e.g. end up with fascist subnode
   - difference between authentication and authorization
