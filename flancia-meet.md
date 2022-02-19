@@ -56,8 +56,11 @@
       - [[will]] going back to [[browse as]], you could have the concept of adopting someone else's blocklist to trial it/help debug
       - fascist vs shitposter
 
--building "consensus" and group decision-making
-    - 
+- building "consensus" and group decision-making
+    - proposal and asking if anybody strongly disagrees
+    - [[zebras]] are experimenting with ~five types of governance tools
+    - consensus vs. consent
+    - upranking as a case study
 - [[agora bot]]
 - 
 
