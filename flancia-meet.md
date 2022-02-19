@@ -13,14 +13,14 @@
     - [[flancian]] happy to work on this with you if you need anything
     - [[flancian]] perhaps we could release the oauth sign in first?
     - once we have this, we could finally start dumping social data for users if they want it
-    - you get there own personal data store
+    - you get your own personal data store
     - is [[logseq]] doing this?
       - they used to, but apparently this is now removed or at least not front and center
       - they may or may not use [[git]] for their planned hosting, actually we should check with them
-- [[ranking]]
+- [[ranking]] in the agora
   - reddit-style upvoting?
   - action called uprank
-    - e.g. #uprank plus username
+    - e.g. #uprank [[@username]]
     - could do it in the stoa
   - stoa could be a log, like an action log
   - various actions could be available
