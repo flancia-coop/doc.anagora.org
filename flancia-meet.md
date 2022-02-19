@@ -55,14 +55,16 @@
           - has a well maintained list but it seemed to have potential for false positives
       - [[will]] going back to [[browse as]], you could have the concept of adopting someone else's blocklist to trial it/help debug
       - fascist vs shitposter
-
 - building "consensus" and group decision-making
     - proposal and asking if anybody strongly disagrees
     - [[zebras]] are experimenting with ~five types of governance tools
     - consensus vs. consent
     - upranking as a case study
+    - 
 - [[agora bot]]
-- 
+- [[upranking]]
+  - if you uprank something in your garden, maybe that means 'send it above me'
+  - or you might b
 
 
 ## #push [[flancia-meet-2022-02-12]]
