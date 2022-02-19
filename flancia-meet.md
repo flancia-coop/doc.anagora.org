@@ -45,6 +45,9 @@
     - ‘authentication is boolean, authorization is a list of permissions’ — [[vera]]
   - could possibly have two stoas? one open to public, one more limited to agora users
   - [[semi-permeable membrane]] in reference to commons.  some boundaries are OK (needed in fact) to not ruin a commons.
+  - [[reddy2go]] said we need [[bouncers]] and [[buddhas]] in communities
+    - bouncers repel violence
+    - buddhas try to 
 - [[agora bot]]
 - 
 
