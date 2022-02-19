@@ -71,6 +71,9 @@
       - relates to agora.yaml
   - or perhaps it could be a star or a bookmark
   - relative ranking is important
+  - [[neil]] liked how [[ctzn]] did it -- you could apply any action to any resource
+      - it was emojis, but also arbitrary text comments tha
+      - t worked sort of
 
 
 ## #push [[flancia-meet-2022-02-12]]
