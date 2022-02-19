@@ -3,9 +3,13 @@
 - This is where we could have community maintained notes :)
 
 # #push [[flancia-meet-2022-02-19]]
-- attending [[vera]], [[bouncepaw]], [[flancian]], [[will]]
+- attending [[vera]], [[bouncepaw]], [[flancian]], [[will]], [[neil]]
 - building on the [[stoa]]
-- 
+- [[vera]]
+    - [[git write flow]]
+    - [[agora api]]
+    - [[gitea oauth]]
+    - we will commit to user repos if they are logged in
 
 
 ## #push [[flancia-meet-2022-02-12]]
