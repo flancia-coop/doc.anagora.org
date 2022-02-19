@@ -27,6 +27,7 @@
    - e.g. [[marx]] should autopull [[karl marx]]
      - could have a persistent pull button, so next time agora knows to pull it
      - works like a replay log
+     - e.g. like RT on Twitter started as a user text based action?
 - [[agora bot]]
 - 
 
