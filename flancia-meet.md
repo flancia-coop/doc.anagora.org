@@ -34,6 +34,9 @@
     - trust based systems can be a good thing
     - e.g. look at problems of trustless blockchain projects
 - [[flancian]] has been thinking about [[browse as]]
+  - related to concepts of [[liquid democracy]]
+  - could be a way of 'previewing' what it might be like before delegating something to someone else
+  - also relates to curation which is currently undervalued in social media
 - [[agora bot]]
 - 
 
