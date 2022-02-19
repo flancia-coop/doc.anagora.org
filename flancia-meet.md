@@ -83,7 +83,7 @@
     - [[vera]] right now the parser is outputting pandoc ast
     - [[bouncepaw]] thinking of working on a spec
     - [[melanocarpa]] is the garden
-    - 
+    - add an API for checking hypha existence
 
 
 ## #push [[flancia-meet-2022-02-12]]
