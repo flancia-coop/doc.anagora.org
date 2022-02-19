@@ -72,8 +72,8 @@
   - or perhaps it could be a star or a bookmark
   - relative ranking is important
   - [[neil]] liked how [[ctzn]] did it -- you could apply any action to any resource
-      - it was emojis, but also arbitrary text comments tha
-      - t worked sort of
+      - it was emojis, but also arbitrary text comments that worked somewhat as [[tags]]
+      - you could then perhaps choose to 'show me this node ranked by this particular user-defined ranking'
 
 
 ## #push [[flancia-meet-2022-02-12]]
