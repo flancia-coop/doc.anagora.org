@@ -37,6 +37,10 @@
   - related to concepts of [[liquid democracy]]
   - could be a way of 'previewing' what it might be like before delegating something to someone else
   - also relates to curation which is currently undervalued in social media
+  - lets you burst out of [[filter bubble]]
+- agora follows stoa commands
+  - e.g. fascist subnode
+  - 
 - [[agora bot]]
 - 
 
