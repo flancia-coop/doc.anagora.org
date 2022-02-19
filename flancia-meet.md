@@ -64,7 +64,9 @@
 - [[agora bot]]
 - [[upranking]]
   - if you uprank something in your garden, maybe that means 'send it above me'
-  - or you might b
+  - or you might be saying that these two subnodes are related
+    - one is a comment or annotation of another?
+    - push to subnode?
 
 
 ## #push [[flancia-meet-2022-02-12]]
