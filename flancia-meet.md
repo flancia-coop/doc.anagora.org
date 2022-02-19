@@ -21,6 +21,11 @@
   - reddit-style upvoting?
   - action called uprank
     - e.g. #uprank plus username
+    - could do it in the stoa
+   - stoa could be a log, like an action log
+   - various actions could be available
+   - e.g. [[marx]] should autopull [[karl marx]]
+     - could have a persistent pull button, so next time agora knows to pull it
 - [[agora bot]]
 - 
 
