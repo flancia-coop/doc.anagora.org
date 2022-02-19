@@ -84,7 +84,6 @@
     - [[bouncepaw]] thinking of working on a spec
     - [[melanocarpa]] is the garden
     - add an API for checking hypha existence
-      - actually, no need to. 
 
 
 ## #push [[flancia-meet-2022-02-12]]
