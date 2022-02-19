@@ -67,6 +67,9 @@
   - or you might be saying that these two subnodes are related
     - one is a comment or annotation of another?
     - push to subnode?
+    - possible distinction between garden, stream, comment nodes
+      - relates to agora.yaml
+  - 
 
 
 ## #push [[flancia-meet-2022-02-12]]
