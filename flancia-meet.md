@@ -47,7 +47,8 @@
   - [[semi-permeable membrane]] in reference to commons.  some boundaries are OK (needed in fact) to not ruin a commons.
   - [[reddy2go]] said we need [[bouncers]] and [[buddhas]] in communities
     - bouncers repel violence
-    - buddhas try to 
+    - buddhas try to foster community
+    - [[neil]] likes the model of federation in mastodon -- you have a local timeline, and you can prioritize trusted instances you federate with -- but there's always the federated timeline, and also you have blocklists
 - [[agora bot]]
 - 
 
