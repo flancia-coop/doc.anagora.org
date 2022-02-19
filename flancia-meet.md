@@ -26,6 +26,7 @@
    - various actions could be available
    - e.g. [[marx]] should autopull [[karl marx]]
      - could have a persistent pull button, so next time agora knows to pull it
+     - works like a replay log
 - [[agora bot]]
 - 
 
