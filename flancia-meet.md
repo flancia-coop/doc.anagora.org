@@ -60,7 +60,6 @@
     - [[zebras]] are experimenting with ~five types of governance tools
     - consensus vs. consent
     - upranking as a case study
-    - 
 - [[agora bot]]
 - [[upranking]]
   - if you uprank something in your garden, maybe that means 'send it above me'
@@ -77,6 +76,7 @@
   - [[neil]] takeaway: let's go into the [[stoa]] and start adding relationships between subnodes
       - which actions, relationships, ranking of things will be converge on?
       - [[vera]] one thing we can do: write down which one we uprank/like and *why*
+- [[metanode]] or [[supernode]]
 
 
 ## #push [[flancia-meet-2022-02-12]]
