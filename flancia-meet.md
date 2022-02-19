@@ -2,7 +2,10 @@
 - We meet best-effort every Saturday.
 - This is where we could have community maintained notes :)
 
-# 2022-02-19
+# #push [[flancia-meet-2022-02-19]]
+- attending [[vera]], [[bouncepaw]], [[flancian]], [[will]]
+- building on the [[stoa]]
+- 
 
 
 ## #push [[flancia-meet-2022-02-12]]
