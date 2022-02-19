@@ -82,6 +82,8 @@
 - compatibility with [[mycomarkup]]?
     - [[vera]] right now the parser is outputting pandoc ast
     - [[bouncepaw]] thinking of working on a spec
+    - [[melanocarpa]] is the garden
+    - 
 
 
 ## #push [[flancia-meet-2022-02-12]]
