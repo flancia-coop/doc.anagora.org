@@ -10,6 +10,10 @@
     - [[agora api]]
     - [[gitea oauth]]
     - we will commit to user repos if they are logged in
+    - [[flancian]] happy to work on this with you if you need anything
+    - [[flancian]] perhaps we could release the oauth sign in first?
+- [[agora bot]]
+- 
 
 
 ## #push [[flancia-meet-2022-02-12]]
