@@ -39,8 +39,9 @@
   - also relates to curation which is currently undervalued in social media
   - lets you burst out of [[filter bubble]]
 - agora follows stoa commands
-  - e.g. fascist subnode
-  - 
+  - moderation policy needed
+  - anyone can edit stoa, what if e.g. end up with fascist subnode
+  - difference between authentication and authorization
 - [[agora bot]]
 - 
 
