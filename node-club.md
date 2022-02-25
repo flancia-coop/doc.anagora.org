@@ -4,6 +4,10 @@
 
 ## season 2
 
+### episode 6 (20th Feb - 27th Feb)
+
+-  
+
 ### episode 5 (13th Feb - 20th Feb)
 
 - [[implicit feudalism]] -- [[neil]]
