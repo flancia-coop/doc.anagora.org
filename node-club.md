@@ -6,7 +6,7 @@
 
 ### episode 6 (20th Feb - 27th Feb)
 
-- [[Revolution in the tw 21st century]] -- [[neil]]
+- [[Revolution in the twenty-first century]] -- [[neil]]
 
 ### episode 5 (13th Feb - 20th Feb)
 
