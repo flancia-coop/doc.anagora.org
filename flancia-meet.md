@@ -38,7 +38,7 @@
             - I don't like the way that [[gitea]] handles oauth login from mastodon, you have to hard code each allowed host manually which I'm not a fan of. There are plenty of mastodon api apps that let you sign in via any mastodon server, I'm tempted to create our own oauth layer that talks to gitea behind the scenes
                 - we *could* go back to last year's plan w.r.t. using [[moa]] for this: [[go/moa/git]].
                 - essentially add a [[git]] or [[gitea]] connector on top of twitter/mastodon
-                - we could also open a ticket with gitea to ask about 
+                - we could also open a ticket with gitea to ask about supporting arbitrary mastodon instances
         - adding text editor to agora website for logged in users
             - planning on using [[tinyMCE]] might use something else depending
             - this will talk to the code in agora-api that I mentioned above on submit
