@@ -47,6 +47,8 @@
     - [[agora bot matrix]]
     - also [[fix gitea]] (certificate)
     - look into [[git lfs]]
+    - #push [[sign in button]]
+        - just add a sign in button :)
 
 
 # #push [[flancia-meet-2022-02-19]]
