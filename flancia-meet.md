@@ -2,8 +2,8 @@
 - We meet best-effort every Saturday.
 - This is where we could have community maintained notes :)
 
-
 # #push [[flancia-meet-2022-02-26]]
+- attending [[vera]], [[flancian]]
 - New meeting time?
 - How does everyone like jitsi vs something else (not google meet)
 - [[vera]]
