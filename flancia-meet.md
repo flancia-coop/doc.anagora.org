@@ -22,9 +22,9 @@
     - #push [[do]]
         - we could do a [[matrix poll]]?
         - and/or [[mastodon]]/[[twitter]]?
-        - this reminds us of
+        - this reminds us of the idea about setting up a [[consolidated polling platform]] that 'fans out' to different platforms that support polling and 'collects' responses
 - How does everyone like jitsi vs something else (not google meet)
-    - 
+    - [[big blue button]] would be top alternative
 - [[vera]]
     - didn't get much done since last time; dealing with life
     - planning on making commit to [[agora-api]] to handle 
