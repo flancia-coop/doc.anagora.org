@@ -6,7 +6,9 @@
 # #push [[flancia-meet-2022-02-26]]
 - New meeting time?
 - How does everyone like jitsi vs something else (not google meet)
-- 
+- [[vera]]
+    - didn't get much done since last time dealing with life
+    - planning on making commit to agora-api to handle git file change stuff
 
 
 # #push [[flancia-meet-2022-02-19]]
