@@ -39,6 +39,11 @@
         - adding text editor to agora website for logged in users
             - planning on using [[tinyMCE]] might use something else depending
             - this will talk to the code in agora-api that I mentioned above on submit
+- [[flancian]]
+    - same here! :)
+    - my goal is to just go through the todo list I built last week :)
+    - [[agora bot matrix]]
+    - also [[fix gitea]] (certificate)
 
 
 # #push [[flancia-meet-2022-02-19]]
