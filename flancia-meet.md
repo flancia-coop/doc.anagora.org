@@ -7,13 +7,14 @@
 - New meeting time?
 - How does everyone like jitsi vs something else (not google meet)
 - [[vera]]
-    - didn't get much done since last time dealing with life
+    - didn't get much done since last time; dealing with life
     - planning on making commit to [[agora-api]] to handle 
         - git file change stuff, then tackling 
+            - ostensibly this will accept a POST/PUT request to api with user/node/data combo and then write changes to disk and then create a git commit with those changes and push to gitea server using users logged in credentials
         - oauth integration, then 
             - I don't like the way that [[gitea]] handles oauth login from mastodon, you have to hard code each allowed host manually which I'm not a fan of. There are plenty of mastodon api apps that let you sign in via any mastodon server, I'm tempted to create our own oauth layer that talks to gitea behind the scenes
         - adding text editor to agora website for logged in users
-            - palln
+            - planning on using [[tinyMCE]] might use something else depending
 
 
 # #push [[flancia-meet-2022-02-19]]
