@@ -46,6 +46,7 @@
     - my goal is to just go through the todo list I built last week :)
     - [[agora bot matrix]]
     - also [[fix gitea]] (certificate)
+    - look into [[git lfs]]
 
 
 # #push [[flancia-meet-2022-02-19]]
