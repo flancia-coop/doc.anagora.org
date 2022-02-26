@@ -7,7 +7,8 @@
 - [[ukraine war]]
     - :(
 - [[nazi harassment]] in the [[fediverse]]
-    - 
+    - :(
+    - [[blocklist]] thread you might be interested in:
 - New meeting time?
 - How does everyone like jitsi vs something else (not google meet)
 - [[vera]]
