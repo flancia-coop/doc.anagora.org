@@ -26,7 +26,9 @@
 - How does everyone like jitsi vs something else (not google meet)
     - [[big blue button]] would probably be top alternative: [[go/meet]] points to [[bbb]]
 - how is [[zebras]] going?
-    - 
+    - applied to a [[mentorship network]]
+    - [[rick tarosi]]
+        - a [[mondegreen]] of [[rick turoczy]]
 - [[vera]]
     - didn't get much done since last time; dealing with life
     - planning on making commit to [[agora-api]] to handle 
