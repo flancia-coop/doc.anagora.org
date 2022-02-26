@@ -49,6 +49,8 @@
     - look into [[git lfs]]
     - #push [[sign in button]]
         - just add a sign in button :)
+        - by default it redirects to a 'non implemented yet' page with a description :)
+        - perhaps then it only lets you sign in with [[mastodon]], then we add others
 
 
 # #push [[flancia-meet-2022-02-19]]
