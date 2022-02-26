@@ -4,6 +4,10 @@
 
 # #push [[flancia-meet-2022-02-26]]
 - attending [[vera]], [[flancian]]
+- [[ukraine war]]
+    - :(
+- [[nazi harassment]] in the [[fediverse]]
+    - 
 - New meeting time?
 - How does everyone like jitsi vs something else (not google meet)
 - [[vera]]
