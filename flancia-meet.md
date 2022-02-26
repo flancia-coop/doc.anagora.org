@@ -9,6 +9,7 @@
 - [[nazi harassment]] in the [[fediverse]]
     - :(
     - [[blocklist]] thread you might be interested in: https://social.coop/web/statuses/107784596903671329
+    - [[idea]] could the [[agora]] or something like it help people agree on blocklists more dynamically, 
 - New meeting time?
 - How does everyone like jitsi vs something else (not google meet)
 - [[vera]]
