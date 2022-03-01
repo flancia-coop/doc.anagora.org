@@ -1,4 +1,4 @@
-Flancia, or the loving kindness revolution
+Flancia, or the loving kindness revolution!
 
 ## What is loving kindness?
 [[Loving kindness]], or [[mettā]], is a [[meditation technique]] where you intentionally cultivate positive, happy, loving thoughts and feelings: thoughts of [[good will]] towards yourself and [[others]], and feelings of [[happiness]], unconditional love, joy, and care. Loving kindness is relatively easy, extremely enjoyable – even blissful – and it can genuinely [[change your life]].
@@ -14,5 +14,4 @@ Flancia, or the loving kindness revolution
 
 ## What is the loving kindness revolution?
 
-- [[flancian]]
-    - It is 
+- [[flancian]] It is essentially a theme I would love us to explore together: in which ways (ideally of increasing specificity?) would the world be different if we  
