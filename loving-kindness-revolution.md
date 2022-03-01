@@ -6,6 +6,9 @@ Flancia, or the loving kindness revolution!
 [[Tasshin]] is writing a book on loving kindness [here](https://tasshin.com/metta-book).
 
 - [[flancian]]: love it! Thank you for linking it here. I've noded it in [[the path of love]] and added it to my [[reading list]].
+    - Loved the beginning. Would you like to be friends?
+    - It is amazing that you studied with [[shinzen]]! I read him and sat with his app, but never attended a retreat.
+    - 
 
 ## How does [[Flancia]] relate to loving kindness?
 
