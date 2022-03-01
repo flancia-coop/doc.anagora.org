@@ -16,6 +16,6 @@ Flancia, or the loving kindness revolution!
 
 ## What is the loving kindness revolution?
 
-- [[flancian]] It is essentially a theme I would love us to explore together: in which ways (ideally of increasing specificity?) would the world be different if ever greater groups agreed to work towards the common good, leave their small selves behind, reach a state of mutual understanding -- not necessarily in that order? :)
+- [[flancian]] It is essentially a theme I would love us to explore together: in which ways (ideally of increasing specificity?) would the world be different if ever greater groups agreed to work incrementally towards the common good, leaving their small selves behind and reaching a state of mutual understanding -- not necessarily in that order? :)
     - In thinking of this I am inspired by [[systems thinking]] (you could say by my life experience), [[satyagraha]] (in being forceful, but not violent) and most of all by the [[bodhisattva path]] (in wanting to work for the benefit of all beings).
     - My current best known proposal such a [[revolution]] is described, mostly piecemeal, in this [[Agora]].
