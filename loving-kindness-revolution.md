@@ -9,7 +9,7 @@ Flancia, or the loving kindness revolution
 
 ## How does [[Flancia]] relate to loving kindness?
 
-- [[flancian]]: Flancia came about as an exploration of solidarity through meditation and towards ever greater loving kindness. It is influenced by Buddhist teachings and the philosophy of [[Peter Singer]] -- are you familiar with [[the expanding circle]]? The core idea of the b
+- [[flancian]]: You could say Flancia came about as an exploration of solidarity through meditation in general and loving kindness in particular. In general I like to think it is influenced (in the sense that some of the good in its sources remains?) by Buddhist teachings and philosophy, in particular the  of [[Peter Singer]] -- are you familiar with [[the expanding circle]]? The core idea of the book, which is well expressed through the metaphor in its title, reminds me of the progression that one practices in [[metta]].
 
 ## What is the loving kindness revolution?
 
