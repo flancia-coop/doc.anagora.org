@@ -14,4 +14,4 @@ Flancia, or the loving kindness revolution!
 
 ## What is the loving kindness revolution?
 
-- [[flancian]] It is essentially a theme I would love us to explore together: in which ways (ideally of increasing specificity?) would the world be different if we  
+- [[flancian]] It is essentially a theme I would love us to explore together: in which ways (ideally of increasing specificity?) would the world be different if ever greater groups agreed to work towards 
