@@ -4,10 +4,14 @@
 
 ## season 2
 
+### episode 7 (27th Feb - 6th March)
+
+- [[Dual power]] -- [[neil]]
+
 ### episode 6 (20th Feb - 27th Feb)
 
 - [[Revolution in the twenty-first century]] -- [[neil]], [[flancian]]
-- 
+ 
 
 ### episode 5 (13th Feb - 20th Feb)
 
