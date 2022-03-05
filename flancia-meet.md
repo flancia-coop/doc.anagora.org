@@ -6,7 +6,7 @@
 - ***Welcome to March!***
 - attending: [[vera]] [[flancian]]
     - [[git rerere]]
-    - smarter conflict resolution/merges?
+        - smarter conflict resolution/merges?
 - [[vera]]
     - got some code done on agora-ui -> gitea
         - \o/
