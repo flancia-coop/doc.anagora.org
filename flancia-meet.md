@@ -18,6 +18,8 @@
         - which ones can we develop/install/promote/run for others next?
             - [[telegram]]
             - [[peertube]]?
+    - [[matrix]] alternative instances
+        - #push [[fairydust]] https://fairydust.space is nice, used by [[vera]]
 
 # #push [[flancia-meet-2022-02-26]]
 - attending [[vera]], [[flancian]]
