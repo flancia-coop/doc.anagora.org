@@ -5,13 +5,15 @@
 # #push [[flancia-meet-2022-03-05]]
 - ***Welcome to March!***
 - attending: [[vera]] [[flancian]]
-- [g]
+    - [[git rerere]]
+    - smarter conflict resolution/merges?
 - [[vera]]
     - got some code done on agora-ui -> gitea
         - \o/
     - Currently writing to gitea api from agora-ui
-    - oauth tokens from signin flow not authenticating
-        - using personal app tokens in the meantime
+    - [[oauth tokens]] from signin flow not authenticating
+        - using personal [[app tokens]] in the meantime
+        - can be generated in https://git.anagora.org/user/settings/applications
     - added settings to settings page for app token and repo name since user -> repo relationship is one to many
     - 
 - [[flancian]]
