@@ -2,6 +2,10 @@
 - We meet best-effort every Saturday.
 - This is where we could have community maintained notes :)
 
+# #push [[flancia-meet-2022-03-05]]
+- ***Welcome to March!***
+- [[vera]]
+    - got some code done on 
 # #push [[flancia-meet-2022-02-26]]
 - attending [[vera]], [[flancian]]
 - [[ukraine war]]
