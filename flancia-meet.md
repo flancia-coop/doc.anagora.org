@@ -5,6 +5,7 @@
 # #push [[flancia-meet-2022-03-05]]
 - ***Welcome to March!***
 - attending: [[vera]] [[flancian]]
+- [g]
 - [[vera]]
     - got some code done on agora-ui -> gitea
         - \o/
