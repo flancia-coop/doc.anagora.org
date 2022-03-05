@@ -5,7 +5,11 @@
 # #push [[flancia-meet-2022-03-05]]
 - ***Welcome to March!***
 - [[vera]]
-    - got some code done on 
+    - got some code done on agora-ui -> gitea
+    - Currently writing to gitea api from agora-ui
+    - oauth tokens from signin flow not authenticating
+        - using personal app tokens in the meantime
+    - 
 # #push [[flancia-meet-2022-02-26]]
 - attending [[vera]], [[flancian]]
 - [[ukraine war]]
