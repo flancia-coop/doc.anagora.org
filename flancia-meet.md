@@ -30,6 +30,7 @@
     - [[matrix]] alternative instances
         - #push [[fairydust]] https://fairydust.space is nice, used by [[vera]]
         - [[nomadic identity]] would be great
+- [[therapy]]
 
 # #push [[flancia-meet-2022-02-26]]
 - attending [[vera]], [[flancian]]
