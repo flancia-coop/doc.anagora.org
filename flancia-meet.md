@@ -15,8 +15,13 @@
         - using personal [[app tokens]] in the meantime
         - can be generated in https://git.anagora.org/user/settings/applications
     - added settings to settings page for app token and repo name since user -> repo relationship is one to many
-    - 
+        - refactoring settings page as well
+    - editor supports creating new nodes
+    - [[pr]] for fixing assets
+        - merging now :)
 - [[flancian]]
+    - [[agora matrix bot]]
+        - now writes, will probably stop working on it for a bit
     - bridges!
         - which ones can we develop/install/promote/run for others next?
             - [[telegram]]
