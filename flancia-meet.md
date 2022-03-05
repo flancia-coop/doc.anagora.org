@@ -7,10 +7,18 @@
 - attending: [[vera]] [[flancian]]
 - [[vera]]
     - got some code done on agora-ui -> gitea
+        - \o/
     - Currently writing to gitea api from agora-ui
     - oauth tokens from signin flow not authenticating
         - using personal app tokens in the meantime
+    - added settings to settings page for app token and repo name since user -> repo relationship is one to many
     - 
+- [[flancian]]
+    - bridges!
+        - which ones can we develop/install/promote/run for others next?
+            - [[telegram]]
+            - [[peertube]]?
+
 # #push [[flancia-meet-2022-02-26]]
 - attending [[vera]], [[flancian]]
 - [[ukraine war]]
