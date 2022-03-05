@@ -22,6 +22,7 @@
 - [[flancian]]
     - [[agora matrix bot]]
         - now writes, will probably stop working on it for a bit
+        - [[maubot]] is cool but I haven't figured out the debugging flow for bot plugins, it's a bit hacky for now
     - bridges!
         - which ones can we develop/install/promote/run for others next?
             - [[telegram]]
