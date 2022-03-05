@@ -39,8 +39,10 @@
     - [[meditation practice]]
         - [[counting]]
         - [[factoring]]
+        - [[program counter]]
         - [[lossy encoding]] / [[checksum]]
 - [[checksums]] -> [[zooko wilcox]]
+- [[john perry barlow]]
 
 # #push [[flancia-meet-2022-02-26]]
 - attending [[vera]], [[flancian]]
