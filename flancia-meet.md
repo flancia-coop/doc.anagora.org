@@ -34,10 +34,13 @@
     - [[flancian]] want to get an appointment with one to talk [[efd]] mainly
 - [[war]]
     - [[vera]] was in [[tsunami response]] in [[indonesia]]
-- [[meditation practice]]
-    - [[counting]]
-    - [[factoring]]
-    - [[lossy encoding]] / [[checksum]]
+    - how to help?
+- [[yoga]]
+    - [[meditation practice]]
+        - [[counting]]
+        - [[factoring]]
+        - [[lossy encoding]] / [[checksum]]
+- [[checksums]] -> [[zooko wilcox]]
 
 # #push [[flancia-meet-2022-02-26]]
 - attending [[vera]], [[flancian]]
