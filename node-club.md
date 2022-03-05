@@ -6,7 +6,7 @@
 
 ### episode 7 (27th Feb - 6th March)
 
-- [[Dual power]] -- [[neil]]
+- [[Distributed action]] -- [[neil]]
 
 ### episode 6 (20th Feb - 27th Feb)
 
