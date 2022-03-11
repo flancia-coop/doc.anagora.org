@@ -4,6 +4,10 @@
 
 ## season 2
 
+### episode 8 (6th Mar - 13th March)
+
+- [[Dual power]] -- [[neil]]
+
 ### episode 7 (27th Feb - 6th March)
 
 - [[Distributed action]] -- [[neil]]
