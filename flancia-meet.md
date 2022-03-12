@@ -4,7 +4,7 @@
 
 # #push [[flancia-meet-2022-03-12]]
 - attending: [[j0lms]] [[neil]] [[flancian]]
-- 
+- no notes this time!
 
 # #push [[flancia-meet-2022-03-05]]
 - ***Welcome to March!***
