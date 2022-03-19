@@ -59,6 +59,9 @@
     - https://stackoverflow.com/questions/42485328/git-url-mapping-to-custom-domain
     - http://blog.questionable.services/article/custom-import-urls-github-pages-jekyll/
 - git push to all giteas
+- [[twin pages]] by [[b]]
+    - [[interwiki]]+[[webmentions]]
+    - a lost thread with [[neil]]
 
 # #push [[flancia-meet-2022-03-12]]
 - attending: [[j0lms]] [[neil]] [[flancian]]
