@@ -18,6 +18,9 @@
     - [[flancian]] works in google
     - [[bouncepaw]] is unsure, but will likely to agree, if it comes to that
     - [[IT]] people are lucky
+    - how to use our luck with high [[leverage]]
+        - option: we could make our own companies
+            - Flancia, Ltd.; Flancia Corporation
 
 # #push [[flancia-meet-2022-03-12]]
 - attending: [[j0lms]] [[neil]] [[flancian]]
