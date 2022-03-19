@@ -4,7 +4,10 @@
 
 # #push [[flancia-meet-2022-03-19]]
 - attending: [[bouncepaw]] [[flancian]]
-- 
+- [[university]]
+    - can opt into [[midterms]] to get better scores (and of course more learning)
+    - [[scholarships]] require very good grades and are only very few
+    - getting a scho
 
 # #push [[flancia-meet-2022-03-12]]
 - attending: [[j0lms]] [[neil]] [[flancian]]
