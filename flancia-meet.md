@@ -4,12 +4,14 @@
 
 # #push [[flancia-meet-2022-03-19]]
 - attending: [[bouncepaw]] [[flancian]]
-- [[university]]
-    - can opt into [[midterms]] to get better scores (and of course more learning)
+- [[university]] in [[russia]]
+    - can opt into [[midterms]] to get better scores (and of course more learning), depending on the teacher
     - [[scholarships]] require very good grades and are only very few
     - getting a scholarship after the beginning of the career is hard but it happens
     - a year of education costs [[1400 EUR]]
-    - 10 EUR/month 
+    - [[10 EUR]]/month for dorm
+    - [[350 EUR]]/month is a normal "regular worker" salary
+    - [[1300 EUR]]/month would be a normal [[it]] salary
 
 # #push [[flancia-meet-2022-03-12]]
 - attending: [[j0lms]] [[neil]] [[flancian]]
