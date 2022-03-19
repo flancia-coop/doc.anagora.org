@@ -7,7 +7,9 @@
 - [[university]]
     - can opt into [[midterms]] to get better scores (and of course more learning)
     - [[scholarships]] require very good grades and are only very few
-    - getting a scho
+    - getting a scholarship after the beginning of the career is hard but it happens
+    - a year of education costs [[1400 EUR]]
+    - 10 EUR/month 
 
 # #push [[flancia-meet-2022-03-12]]
 - attending: [[j0lms]] [[neil]] [[flancian]]
