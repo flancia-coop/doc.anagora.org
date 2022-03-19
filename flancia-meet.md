@@ -52,9 +52,12 @@
 - digital groups are a new kind of groups. Historically speaking, they are the newest+youngest, despite being ~50 yo.
     - [[counter anti disintermediation]]
 - [[golang]] package names have repo urls in them
-    - workaround with redirections?
-        - 
+    - workaround with redirections hosted on own domain name?
+        - a 'centralized' (but community owned) platform that offers redirects as a service might be helpful, make this
+        - https://pkg.go.dev/robpike.io/ivy
     - does it serve an HTTP redirect or proxy?
+    - https://stackoverflow.com/questions/42485328/git-url-mapping-to-custom-domain
+    - http://blog.questionable.services/article/custom-import-urls-github-pages-jekyll/
 
 # #push [[flancia-meet-2022-03-12]]
 - attending: [[j0lms]] [[neil]] [[flancian]]
