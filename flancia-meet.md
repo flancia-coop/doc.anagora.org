@@ -48,6 +48,7 @@
                     - "what is the point of joining an open source club -- the source is already open"
                         - you could [[lampshade]] this concern and make it into the pitch for the club
                         - https://tvtropes.org/pmwiki/pmwiki.php/Main/LampshadeHanging
+                        - could help the community migrate off centralized tools like [[github]]? or at least mirror
 - digital groups are a new kind of groups. Historically speaking, they are the newest+youngest, despite being ~50 yo.
     - [[counter anti disintermediation]]
 
