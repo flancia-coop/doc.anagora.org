@@ -27,8 +27,10 @@
                 - https://transjovian.org:1965/page/Bylaws
                 - #push [[read]] bylaws
             - start a [[cooperative]]
-            - start a [[collective]]
-            - 
+                - start a [[collective]]
+            - do [[altruism]]
+            - write a [[book]] / collect and spread [[memes]]
+            - start a [[religion]]
 
 # #push [[flancia-meet-2022-03-12]]
 - attending: [[j0lms]] [[neil]] [[flancian]]
