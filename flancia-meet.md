@@ -12,6 +12,10 @@
     - [[10 EUR]]/month for dorm
     - [[350 EUR]]/month is a normal "regular worker" salary
     - [[1300 EUR]]/month would be a normal [[it]] salary
+    - four years bachelors
+- curiosity: would you work for a [[faang]] or a company in that tier?
+    - [[flancian]] works in google
+    - 
 
 # #push [[flancia-meet-2022-03-12]]
 - attending: [[j0lms]] [[neil]] [[flancian]]
