@@ -30,11 +30,12 @@
                 - start a [[collective]]
             - do [[altruism]]
             - write a [[book]] / collect and spread [[memes]]
-            - start a [[religion]]
+            - start a [[religion]] / [[cult]]
                 - [[sikhism]]
                     - sikhs help people, and wear turbans that let others know who they are
                 - [[bahai]]
-                - [[jain]]
+                - [[jainism]]
+                - [[buddhist]] schools
 
 # #push [[flancia-meet-2022-03-12]]
 - attending: [[j0lms]] [[neil]] [[flancian]]
