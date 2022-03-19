@@ -39,6 +39,8 @@
                 - [[jainism]]
                 - [[buddhist]] schools
             - see also [[geek code]], [[glider]] symbol
+                - http://www.catb.org/hacker-emblem/ [[esr]]
+                - mushroom cult symbol in username: 🍄
 
 # #push [[flancia-meet-2022-03-12]]
 - attending: [[j0lms]] [[neil]] [[flancian]]
