@@ -33,9 +33,12 @@
             - start a [[religion]] / [[cult]]
                 - [[sikhism]]
                     - sikhs help people, and wear turbans that let others know who they are
+                        - wearing something/showing something to communicate values/goals seems like a good idea a priori
+                        - but it could lead to oppression. Everyone wears something specific, and someone does not, the latter is a freak
                 - [[bahai]]
                 - [[jainism]]
                 - [[buddhist]] schools
+            - see also [[geek code]], [[glider]] symbol
 
 # #push [[flancia-meet-2022-03-12]]
 - attending: [[j0lms]] [[neil]] [[flancian]]
