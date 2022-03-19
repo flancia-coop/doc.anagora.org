@@ -59,7 +59,7 @@
     - https://stackoverflow.com/questions/42485328/git-url-mapping-to-custom-domain
     - http://blog.questionable.services/article/custom-import-urls-github-pages-jekyll/
 - git push to all giteas
-- [[twin pages]] by [[b]]
+- [[twin pages]] by [[bill seitz]]
     - [[interwiki]]+[[webmentions]]
     - a lost thread with [[neil]]
 
