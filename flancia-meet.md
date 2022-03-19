@@ -21,6 +21,9 @@
     - how to use our luck with high [[leverage]]
         - option: we could make our own companies
             - Flancia, Ltd.; Flancia Corporation
+                - nah, it could be reasonable but not what we're after :)
+            - [[transjovian council]]: https://transjovian.org:1965/page/Introduction
+                - [[alex schroeder]] (sp?)
 
 # #push [[flancia-meet-2022-03-12]]
 - attending: [[j0lms]] [[neil]] [[flancian]]
