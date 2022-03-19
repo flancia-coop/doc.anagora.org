@@ -44,7 +44,7 @@
                 - [[mushroom cult]] symbol in username: 🍄
                     - and/or [[wikilinks]] :)
                 - [[bouncepaw]] likes organic metaphors, thought of [[silkworm club]] in 2021 because of silkworms producing silk, and [[silk]] feeling like a good metaphor for [[code]]
-                    - the club never happened
+                    - the club never happened as of [[2022-03-19]]
 - digital groups are a new kind of groups. Historically speaking, they are the newest+youngest, despite being ~50 yo.
     - [[counter anti disintermediation]]
 
