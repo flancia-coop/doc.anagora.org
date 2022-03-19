@@ -22,8 +22,9 @@
         - option: we could make our own companies
             - Flancia, Ltd.; Flancia Corporation
                 - nah, it could be reasonable but not what we're after :)
-            - [[transjovian council]]: https://transjovian.org:1965/page/Introduction
-                - [[alex schroeder]] (sp?)
+            - [[transjovian council]] by [[alex schroeder]]
+                - https://transjovian.org:1965/page/Introduction
+                - https://transjovian.org:1965/page/Bylaws
 
 # #push [[flancia-meet-2022-03-12]]
 - attending: [[j0lms]] [[neil]] [[flancian]]
