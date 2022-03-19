@@ -25,6 +25,10 @@
             - [[transjovian council]] by [[alex schroeder]]
                 - https://transjovian.org:1965/page/Introduction
                 - https://transjovian.org:1965/page/Bylaws
+                - #push [[read]] bylaws
+            - start a [[cooperative]]
+            - start a [[collective]]
+            - 
 
 # #push [[flancia-meet-2022-03-12]]
 - attending: [[j0lms]] [[neil]] [[flancian]]
