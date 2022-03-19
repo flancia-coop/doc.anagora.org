@@ -53,6 +53,8 @@
     - [[counter anti disintermediation]]
 - [[golang]] package names have repo urls in them
     - workaround with redirections?
+        - 
+    - does it serve an HTTP redirect or proxy?
 
 # #push [[flancia-meet-2022-03-12]]
 - attending: [[j0lms]] [[neil]] [[flancian]]
