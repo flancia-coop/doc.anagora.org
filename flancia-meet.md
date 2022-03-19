@@ -15,7 +15,8 @@
     - four years bachelors
 - curiosity: would you work for a [[faang]] or a company in that tier?
     - [[flancian]] works in google
-    - 
+    - [[bouncepaw]] is unsure, but will likely to agree, if it comes to that
+    - [[IT]]
 
 # #push [[flancia-meet-2022-03-12]]
 - attending: [[j0lms]] [[neil]] [[flancian]]
