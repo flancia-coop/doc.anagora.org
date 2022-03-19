@@ -51,6 +51,8 @@
                         - could help the community migrate off centralized tools like [[github]]? or at least mirror
 - digital groups are a new kind of groups. Historically speaking, they are the newest+youngest, despite being ~50 yo.
     - [[counter anti disintermediation]]
+- [[golang]] package names have repo urls in them
+    - workaround with redirections?
 
 # #push [[flancia-meet-2022-03-12]]
 - attending: [[j0lms]] [[neil]] [[flancian]]
