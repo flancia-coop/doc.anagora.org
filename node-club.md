@@ -6,7 +6,7 @@
 
 ### episode 9 (13th Mar - 20th March)
 
-- [[Institutional Analysis and Development]] -- [[neil]]
+- [[Markets after capitalism]] -- [[neil]]
 
 ### episode 8 (6th Mar - 13th March)
 
