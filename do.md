@@ -8,9 +8,12 @@ I think I'm going to start using the stoa in [[do]] to keep my top level todo li
 - code [[agora bridge]]
   - [x] [[agora bot replies to wikilinks from followers]]
   - [x] [[agora bot links wikilinked posts from followers]]
-  - [ ] [[agora bot]] links from [[matrix]]
+  - [x] [[agora bot]] links from [[matrix]]
   - [ ] [[agora bot stores messages for users]]
       - we are for now blocking on giving each user an independent (git) repository that stores their messages instead of using a centralized approach.
+      - it *does* do this for matrix messages by default though, as users have joined a room with an agora bot or have remained in its presence + used wikilinks, and the fact that this happens has been communicated
+          - let me know if you find it problematic though
+          - [ ] add support for #noxp tag, like [[moa]]
 - code [[auto pull]]
   - perhaps base it on inline transclusion like wikipedia/url pulls
   - this is partially implemented now, finally
