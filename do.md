@@ -5,7 +5,9 @@ I think I'm going to start using the stoa in [[do]] to keep my top level todo li
   - I think about this a lot but for some reason I never get to work on it
   - related to [[knowledge commons]] and [[protopoi]]
       - the [[commons]] aspect is probably top priority
-- code [[agora bridge]]
+- code [[agora server]] / default UI
+    - [ ] [[recursive]] experiment
+- code [[agora bridge]] / bots
   - [x] [[agora bot replies to wikilinks from followers]]
   - [x] [[agora bot links wikilinked posts from followers]]
   - [x] [[agora bot]] links from [[matrix]]
