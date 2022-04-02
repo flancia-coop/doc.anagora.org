@@ -4,7 +4,7 @@
 
 # #push [[flancia-meet-2022-04-02]]
 - attending: [[flancian]] :)
-    - 
+
 # #push [[flancia-meet-2022-03-19]]
 - attending: [[bouncepaw]] [[flancian]]
 - [[university]] in [[russia]]
