@@ -1,36 +1,35 @@
 From discussion in [[agora development]] in [[2022-04]], thank you all participating!
 
 4/10/2022, 11:41:41 AM - charismatic_shell 🍄: By the way, why is there the Google copyright in the code?
+
 4/10/2022, 2:00:21 PM - flancian 🍄: ahoy! yeah, so I went through the internal process to retain copyright on the Agora as a side project and I didn't get it. so all code (repos [[agora server]], [[agora bridge]]) has Google copyright notices.
-4/10/2022, 2:00:22 PM - An Agora: https://anagora.org/agora-server
-https://anagora.org/agora-bridge
+
 4/10/2022, 2:00:39 PM - flancian 🍄: the [[agora]] root repository does not as it's configuration + writing only. the same for [[flancia org]].
-4/10/2022, 2:00:40 PM - An Agora: https://anagora.org/agora
-https://anagora.org/flancia-org
+
 4/10/2022, 2:01:11 PM - flancian 🍄: IIUC it doesn't make a difference as I don't personally care about copyright. it only affects contributors as they need to sign a [[cla]] (one time only) to contribute to [[agora server]] or [[agora bridge]].
-4/10/2022, 2:01:11 PM - An Agora: https://anagora.org/cla
-https://anagora.org/agora-server
-https://anagora.org/agora-bridge
+
 4/10/2022, 2:01:18 PM - flancian 🍄: please let me know if it bothers you though! I want to know more.
+
 4/10/2022, 4:40:30 PM - charismatic_shell 🍄: <@flancian:matrix.org "ahoy! yeah, so I went through th..."> This is so [[Babylon]]
-4/10/2022, 4:40:30 PM - An Agora: https://anagora.org/Babylon
+
 4/10/2022, 4:41:10 PM - charismatic_shell 🍄: Yes, it bothers me, I do not want the good stuff and the personal stuff to be associated with Google
+
 4/10/2022, 4:42:51 PM - charismatic_shell 🍄: So, if I want to contribute to you, I have to sign a document with Google?
+
 4/10/2022, 5:06:50 PM - flancian 🍄: <@charismatic_shell:matrix.org "This is so [[Babylon]]"> you say [[babylon]], I say [[moloch]], I believe
-4/10/2022, 5:06:51 PM - An Agora: https://anagora.org/babylon
-https://anagora.org/moloch
+
 4/10/2022, 5:07:10 PM - flancian 🍄: together we'll defeat [[babylon]], we'll defeat [[moloch]]
-4/10/2022, 5:07:11 PM - An Agora: https://anagora.org/babylon
-https://anagora.org/moloch
+
 4/10/2022, 5:07:18 PM - flancian 🍄: that's what I believe and what I say
+
 4/10/2022, 5:07:52 PM - flancian 🍄: knowing this, I'd love to 1. understand your issues with the licensing/copyright scheme for the Agora, and 2. try to improve
+
 4/10/2022, 5:10:50 PM - flancian 🍄: this is what I think summarizes my position w.r.t. the [[entaglemente]] between [[google]] and the [[agora]]:
-4/10/2022, 5:10:51 PM - An Agora: https://anagora.org/entaglemente
-https://anagora.org/google
-https://anagora.org/agora
+
 4/10/2022, 5:11:18 PM - flancian 🍄: how many flancians are there working for \[\[google\]\]? -- I can prove there is at least one, and I think I can prove there are many
-4/10/2022, 5:11:18 PM - An Agora: https://anagora.org/google
+
 4/10/2022, 5:14:03 PM - moonlion.eth (vera) 🍄: the reason my github name is `fuck-capitalism` is so google has to accept code from that username heh
+
 4/10/2022, 5:38:08 PM - moonlion.eth (vera) 🍄: >DONE hmm, but there is low hanging fruit: the per-worker cache should not all expire in unison (!)
 
 >also I wasn't caching calls to G.node() (?).
