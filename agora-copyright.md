@@ -1,6 +1,6 @@
 From discussion in [[agora development]] in [[2022-04]], thank you all participating!
 
-4/10/2022, 11:41:41 AM - charismatic_shell 🍄: By the way, why is there the Google copyright in the code?
+```4/10/2022, 11:41:41 AM - charismatic_shell 🍄: By the way, why is there the Google copyright in the code?
 4/10/2022, 2:00:21 PM - flancian 🍄: ahoy! yeah, so I went through the internal process to retain copyright on the Agora as a side project and I didn't get it. so all code (repos [[agora server]], [[agora bridge]]) has Google copyright notices.
 4/10/2022, 2:00:22 PM - An Agora: https://anagora.org/agora-server
 https://anagora.org/agora-bridge
@@ -87,3 +87,23 @@ https://anagora.org/cla
 4/15/2022, 11:32:53 AM - An Agora: https://anagora.org/protopian
 4/15/2022, 11:34:41 AM - flancian 🍄: <@doubleloop:matrix.org "I'm also not a lawyer but I thin..."> thank you for this take! this could indeed be worrying -- it was my understanding, though, they could relicense but couldn't retroactively apply the new license, meaning the community could always fork the latest state that was apache licensed. does this map to your understanding?
 4/15/2022, 11:38:26 AM - flancian 🍄: <@doubleloop:matrix.org "That said, I kind of see Agora a..."> thank you! yes, I agree with this. if the Agora is valuable I think having different implementations, hopefully all capable of talking a common Agora protocol to each other, would be desirable. and the base implementation of an [[agora server]] is simple, given the file-based nature of it -- it took me one weekend to code a barebones version and get it serving, and I'm no great coder.
+/15/2022, 11:38:26 AM - An Agora: https://anagora.org/agora-server
+4/15/2022, 11:40:41 AM - flancian 🍄: this is why it seemed critical to me to keep the Agora root repository, which actually contains the base contract and links to all source repositories, detached from the actual server/bridge implementations.
+4/15/2022, 11:41:01 AM - flancian 🍄: unsure if it will be relevant or will just remain symbolic, but it seemed like the right thing to do.
+4/15/2022, 11:43:55 AM - doubleloop: <@flancian:matrix.org "thank you for this take! this co..."> Sounds plausible!  
+4/15/2022, 11:44:44 AM - flancian 🍄: <@doubleloop:matrix.org "Probably the biggest threat seem..."> yes, this is also my estimate. on the other hand, two possible flip sides: 1. some people might still have a *positive* (conditional?) disposition towards Google, although granted I'm not sure how many of them will be anarchists/commoners or have compatible goals -- then again the set can't be null as I exist :)
+4/15/2022, 11:45:05 AM - flancian 🍄: 2. this might actually motivate someone to start a second implementation not bound by these constraints.
+4/15/2022, 11:45:38 AM - flancian 🍄: of course the question then becomes whether the second implementation would seek to remain compatible or would break away in a way that makes cooperation unlikely, etc.
+4/15/2022, 11:48:03 AM - flancian 🍄: <@charismatic_shell:matrix.org "I guess, getting rid of the name..."> I get what you mean. I guess I'd ideally go further and define 'liberate' as getting rid of the notion of 'copyright' in the first place :)
+4/15/2022, 11:48:18 AM - flancian 🍄: copyright just essentially feels like a bunch of bullshit to me, I hope you don't mind the terminology.
+4/15/2022, 11:49:05 AM - flancian 🍄: if not intrinsically wrong (and it might be -- at least in this digital age), then pretty much completely corrupted.
+4/15/2022, 11:50:08 AM - flancian 🍄: this has something to do with my primary reaction to Google's decision -- I don't care for copyright, I'm not interested in holding copyrights, so essentially they can have it.
+4/15/2022, 11:50:38 AM - flancian 🍄: perhaps a naive position? unsure. hopefully not harmful.
+4/15/2022, 11:55:36 AM - doubleloop: Worth noding some of this in a stoa?    I'm sure it's not the first time it has come up, probably not the last, save you from having to explain it over and over?  Happy to pop it in somewhere if useful.
+4/15/2022, 11:56:46 AM - flancian 🍄: oh, that's a good idea! it's come up before but I think this is the fullest conversation on this topic yet -- before there wasn't much of a community to have a conversation with/in/as :)
+4/15/2022, 11:58:09 AM - flancian 🍄: I think we can use [[copyright]]?
+4/15/2022, 11:58:09 AM - An Agora: https://anagora.org/copyright
+4/15/2022, 11:58:12 AM - flancian 🍄: or [[agora copyright]]
+4/15/2022, 11:58:12 AM - An Agora: https://anagora.org/agora-copyright
+4/15/2022, 11:58:39 AM - flancian 🍄: the copyright node looks interesting already, nice -- its related nodes
+```
