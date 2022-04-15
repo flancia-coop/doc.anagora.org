@@ -1,6 +1,6 @@
 From discussion in [[agora development]] in [[2022-04]], thank you all participating!
 
-```4/10/2022, 11:41:41 AM - charismatic_shell 🍄: By the way, why is there the Google copyright in the code?
+4/10/2022, 11:41:41 AM - charismatic_shell 🍄: By the way, why is there the Google copyright in the code?
 4/10/2022, 2:00:21 PM - flancian 🍄: ahoy! yeah, so I went through the internal process to retain copyright on the Agora as a side project and I didn't get it. so all code (repos [[agora server]], [[agora bridge]]) has Google copyright notices.
 4/10/2022, 2:00:22 PM - An Agora: https://anagora.org/agora-server
 https://anagora.org/agora-bridge
@@ -106,4 +106,3 @@ https://anagora.org/cla
 4/15/2022, 11:58:12 AM - flancian 🍄: or [[agora copyright]]
 4/15/2022, 11:58:12 AM - An Agora: https://anagora.org/agora-copyright
 4/15/2022, 11:58:39 AM - flancian 🍄: the copyright node looks interesting already, nice -- its related nodes
-```
