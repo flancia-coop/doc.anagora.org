@@ -22,6 +22,8 @@
             - building connections
             - work comes after that, building on trust
         - [[interintellect salon]]
+            - [[republic of letters]]
+            - how to scale up groups, particularly online
 
 # #push [[flancia-meet-2022-04-02]]
 - attending: [[flancian]] :)
