@@ -30,10 +30,12 @@
         - [[reading]]
             - #push [[visakanv]]
                 - reading [[introspect]]
-                    - [[hero's journey]]
+                    - builds on the [[hero's journey]]
             - [[how to read a book]]
             - #push [[impro]]
                 - [[status]]
+        - [[tweets from]]
+            - nice
            
 
 # #push [[flancia-meet-2022-04-02]]
