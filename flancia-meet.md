@@ -24,6 +24,7 @@
         - [[interintellect salon]]
             - [[republic of letters]]
             - how to scale up groups, particularly online
+            - [[flancian]] was turned off by [[interintellect]] early on but I should really reconsider, check it out again -- thank you!
 
 # #push [[flancia-meet-2022-04-02]]
 - attending: [[flancian]] :)
