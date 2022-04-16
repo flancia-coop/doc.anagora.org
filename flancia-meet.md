@@ -6,7 +6,11 @@
 - attending: [[j0lms]] [[protopian]] [[flancian]] :)
 - [[flancian]]
     - away on holidays this upcoming week! in [[spain]] :)
-- 
+- [[protopian]]
+    - moving tomorrow, but nearby so not as stressful as it could be
+    - #push [[shamanic coders guild]]
+        - lots of potential overlap with [[flancia]]
+        - would recommend checking it out!
 
 # #push [[flancia-meet-2022-04-02]]
 - attending: [[flancian]] :)
