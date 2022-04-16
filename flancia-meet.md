@@ -32,7 +32,8 @@
                 - reading [[introspect]]
                     - [[hero's journey]]
             - [[how to read a book]]
-            - [[improv]]
+            - #push [[impro]]
+                - [[status]]
            
 
 # #push [[flancia-meet-2022-04-02]]
