@@ -38,6 +38,8 @@
             - [[to read list]]
                 - [[flancian]] [[the republic]] probably goes well with [[the open society and its enemies]]
             - interested in [[the network state]] / [[how to start a country]] by [[balaji srinivasan]]
+                - probably builds on top of [[how to start a new country]], the blog post from [[2019]]
+            - 
         - [[tweets from]] series
             - nice
            
