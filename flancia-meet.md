@@ -34,8 +34,10 @@
             - [[how to read a book]]
             - #push [[impro]]
                 - [[status]]
+                - [[flancian]] loved it
             - [[to read list]]
-        - [[tweets from]]
+                - [[flancian]] [[the republic]] probably goes well with [[the open society and its enemies]]
+        - [[tweets from]] series
             - nice
            
 
