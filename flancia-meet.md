@@ -2,6 +2,12 @@
 - We meet best-effort every Saturday.
 - This is where we could have community maintained notes :)
 
+# #push [[flancia-meet-2022-04-16]]
+- attending: [[j0lms]] [[protopian]] [[flancian]] :)
+- [[flancian]]
+    - away on holidays this upcoming week! in [[spain]] :)
+- 
+
 # #push [[flancia-meet-2022-04-02]]
 - attending: [[flancian]] :)
 
