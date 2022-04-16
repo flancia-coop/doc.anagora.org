@@ -17,6 +17,11 @@
     - #push [[vibecamp]]
         - was great, but maybe even better after the fact (stayed in [[austin]] for a bit with others)
         - [[5 people]] seemed to be about the sweet spot for conversations to really shine
+        - vibes:
+            - connecting with people
+            - building connections
+            - work comes after that, building on trust
+        - [[interintellect salon]]
 
 # #push [[flancia-meet-2022-04-02]]
 - attending: [[flancian]] :)
