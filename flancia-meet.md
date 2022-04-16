@@ -14,6 +14,9 @@
         - there's a [[discord lounge]], channels with 6-7 people in them
         - not lots of note taking yet but could happen?
         - links do get dumped in associated channels
+    - #push [[vibecamp]]
+        - was great, but maybe even better after the fact (stayed in [[austin]] for a bit)
+        - [[5 people]] seemed to be about the sweet spot for conversations to really shine
 
 # #push [[flancia-meet-2022-04-02]]
 - attending: [[flancian]] :)
