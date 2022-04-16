@@ -27,9 +27,13 @@
             - [[flancian]] was turned off by [[interintellect]] early on but I should really reconsider, check it out again -- thank you!
         - [[git]]
             - fixed garden import \o/
-        - [[visakanv]]
-            - [[introspect]]
-                - [[hero's]]
+        - [[reading]]
+            - #push [[visakanv]]
+                - reading [[introspect]]
+                    - [[hero's journey]]
+            - [[how to read a book]]
+            - [[improv]]
+           
 
 # #push [[flancia-meet-2022-04-02]]
 - attending: [[flancian]] :)
