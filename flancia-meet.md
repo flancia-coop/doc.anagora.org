@@ -39,7 +39,8 @@
                 - [[flancian]] [[the republic]] probably goes well with [[the open society and its enemies]]
             - interested in [[the network state]] / [[how to start a country]] by [[balaji srinivasan]]
                 - probably builds on top of [[how to start a new country]], the blog post from [[2019]]
-            - 
+            - Will/protopian says:
+https://discord.com/channels/903634676500017263/962930903619862548/963290301483585576
         - [[tweets from]] series
             - nice
            
