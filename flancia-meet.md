@@ -11,6 +11,9 @@
     - #push [[shamanic coders guild]]
         - lots of potential overlap with [[flancia]]
         - would recommend checking it out!
+        - there's a [[discord lounge]], channels with 6-7 people in them
+        - not lots of note taking yet but could happen?
+        - links do get dumped in associated channels
 
 # #push [[flancia-meet-2022-04-02]]
 - attending: [[flancian]] :)
