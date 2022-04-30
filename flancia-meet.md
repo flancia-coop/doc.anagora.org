@@ -34,6 +34,9 @@
             - [[vera]] [[affinity groups]]
         - [[protopian]] they seem interested in solving coordination problems
 - [[j0lms]] interested on opinions on this article: https://www.otherlife.co/pkm/
+    - this reads antagonistic at once, but in the end it could be an argument *for* the agora
+    - the tldr: [[pkm]] is a fad, actually has a great componet of [[status signaling]]
+        - but the Agora *hijacks* this self-interested pursuit in the
 - [[flancian]]
     - [[pkm book]]
     - [[shamanic coders guild]]
