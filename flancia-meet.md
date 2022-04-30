@@ -40,7 +40,7 @@
         - [[j0lms]] note that this aspect (towards collaboration) is what sold me on the agora
     - [[j0lms]] justin seems to think that intellectuals belong to a different class (paraphrasing)
         - #push [[justin murphy]]
-            - is into [[urbit]]
+            - is into [[urbit]]: https://www.otherlife.co/how-urbit-wins/
 - [[flancian]]
     - [[pkm book]]
     - [[shamanic coders guild]]
