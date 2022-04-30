@@ -23,6 +23,7 @@
     - [[pkm book]]
     - [[shamanic coders guild]]
     - [[murray bookchin]]
+    - [[podman]] / containers and new setup
 - [[elon]] buying twitter -> [[mastodon]] adoption uptick
     - [[bluesky]] is independent
 
