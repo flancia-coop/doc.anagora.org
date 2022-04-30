@@ -14,6 +14,10 @@
         - coordinating time
             - [[framadate]]
             - [[loomio]]
+        - would 9am Pacific work for you for a second meet, maybe [[agora meet]]?
+            - [[vera]] sounds good
+            - [[protopian]] could work some days, but not often
+            - 
 - [[vera]] 
     - [[gun]]
     - [[prs]]
