@@ -37,6 +37,7 @@
 - [[flancian]]
     - [[pkm book]]
     - [[shamanic coders guild]]
+        - run another instance of agora
     - [[murray bookchin]]
     - [[podman]] / containers and new setup
 - [[elon]] buying twitter -> [[mastodon]] adoption uptick
