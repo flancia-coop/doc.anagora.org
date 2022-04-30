@@ -30,7 +30,8 @@
         - [[flancian]] will review them today, thank you!
     - #push [[collaboration commons]]
         - https://bin.snopyta.org/?b1816b0a2a0ac4d3#8NnwC2e1N4rmkbCYDuy7WVWUMarjrVhr18bdJFGrJVb8
-    - 
+        - interesting that they say to avoid [[politics]] -- but also understandable
+            - [[vera]] [[affinity groups]]
 - [[j0lms]] interested on opinions on this article: https://www.otherlife.co/pkm/
 - [[flancian]]
     - [[pkm book]]
