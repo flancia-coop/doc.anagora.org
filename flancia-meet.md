@@ -52,7 +52,9 @@
     - [[murray bookchin]]
         - inspired [[ocalan]]
     - [[podman]] / containers and new setup
-- []
+- [[moa]]
+    - [[flancian]] portable social graph
+        - [[flanbook]]
 - [[j0lms]] it would be nice to have a [[code walkthrough]] to onboard contributors to [[agora]] and [[moa]]
 - [[elon]] buying twitter -> [[mastodon]] adoption uptick
     - [[bluesky]] is independent
