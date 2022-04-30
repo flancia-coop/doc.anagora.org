@@ -16,8 +16,8 @@
             - [[loomio]]
         - would 9am Pacific work for you for a second meet, maybe [[agora meet]]?
             - [[vera]] sounds good
-            - [[protopian]] could work some days, but not often
-            - 
+            - [[protopian]] could work some days, but not often, but earlier on Saturdays would be better
+            - [[j0lms]] that would be convenient on weekends but not weekdays
 - [[vera]] 
     - [[gun]]
     - [[prs]]
