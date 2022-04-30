@@ -23,7 +23,8 @@
     - [[pkm book]]
     - [[shamanic coders guild]]
     - [[murray bookchin]]
-- [[elon]] 
+- [[elon]] buying twitter -> [[mastodon]] adoption uptick
+    - [[bluesky]] is independent
 
 # #push [[flancia-meet-2022-04-16]]
 - attending: [[j0lms]] [[protopian]] [[flancian]] :)
