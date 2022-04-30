@@ -19,7 +19,10 @@
             - [[protopian]] could work some days, but not often, but earlier on Saturdays would be better
             - [[j0lms]] that would be convenient on weekends but not weekdays
 - [[vera]] 
-    - [[gun]]
+    - #push [[gun]]
+        - [[gun eco]]
+        - https://github.com/amark/gun
+        - https://gun.eco/
     - [[prs]]
     - [[collaborative commons]]: https://bin.snopyta.org/?b1816b0a2a0ac4d3#8NnwC2e1N4rmkbCYDuy7WVWUMarjrVhr18bdJFGrJVb8
     - 
