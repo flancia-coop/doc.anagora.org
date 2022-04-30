@@ -21,7 +21,7 @@
 - [[vera]] 
     - [[gun]]
     - [[prs]]
-    - [[collaborative commons]]
+    - [[collaborative commons]]: 
 - [[j0lms]] interested on opinions on this article: https://www.otherlife.co/pkm/
 - [[flancian]]
     - [[pkm book]]
