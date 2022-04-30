@@ -24,9 +24,11 @@
         - https://github.com/amark/gun
         - https://gun.eco/
         - [[faq]] https://gun.eco/docs/FAQ
+    - [[agora2]]
+        - two repos
     - [[prs]]
         - [[flancian]] will review them today, thank you!
-    - #push [[collaborative commons]]
+    - #push [[collaboration commons]]
         - https://bin.snopyta.org/?b1816b0a2a0ac4d3#8NnwC2e1N4rmkbCYDuy7WVWUMarjrVhr18bdJFGrJVb8
     - 
 - [[j0lms]] interested on opinions on this article: https://www.otherlife.co/pkm/
