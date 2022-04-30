@@ -48,7 +48,7 @@
     - [[pkm book]]
     - [[shamanic coders guild]]
         - run another instance of agora
-        - 
+        - [[agora discord bot]] or [[matrix bot]] plus bridge?
     - [[murray bookchin]]
         - inspired [[ocalan]]
     - [[podman]] / containers and new setup
