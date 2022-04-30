@@ -41,6 +41,8 @@
     - [[j0lms]] justin seems to think that intellectuals belong to a different class (paraphrasing)
         - #push [[justin murphy]]
             - is into [[urbit]]: https://www.otherlife.co/how-urbit-wins/
+    - [[flancian]] unsure [[urbit]] is "worth it" overall, will read all this though!
+    - [[flancian]] isn't activitypub enough? 
 - [[flancian]]
     - [[pkm book]]
     - [[shamanic coders guild]]
