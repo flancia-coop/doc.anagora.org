@@ -49,6 +49,7 @@
     - [[shamanic coders guild]]
         - run another instance of agora
     - [[murray bookchin]]
+        - inspired [[ocalan]]
     - [[podman]] / containers and new setup
 - [[elon]] buying twitter -> [[mastodon]] adoption uptick
     - [[bluesky]] is independent
