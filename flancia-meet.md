@@ -11,6 +11,9 @@
         - [[datatitian]]
         - [[non blockchain nfts]]
     - [[time]]
+        - coordinating time
+            - [[framadate]]
+            - [[loomio]]
 - [[vera]] 
     - [[gun]]
     - [[prs]]
@@ -20,6 +23,7 @@
     - [[pkm book]]
     - [[shamanic coders guild]]
     - [[murray bookchin]]
+- [[elon]] 
 
 # #push [[flancia-meet-2022-04-16]]
 - attending: [[j0lms]] [[protopian]] [[flancian]] :)
