@@ -2,6 +2,13 @@
 - We meet best-effort every Saturday.
 - This is where we could have community maintained notes :)
 
+# #push [[flancia-meet-2022-04-30]]
+- attending: [[j0lms]] [[protopian]] [[vera]] [[flancia]]
+- [[meta]] 
+    - [[jitsi]] UI
+    - [[immers space]] -- we could test next time
+    - [[time]]
+
 # #push [[flancia-meet-2022-04-16]]
 - attending: [[j0lms]] [[protopian]] [[flancian]] :)
 - [[flancian]]
