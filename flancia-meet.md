@@ -4,10 +4,15 @@
 
 # #push [[flancia-meet-2022-04-30]]
 - attending: [[j0lms]] [[protopian]] [[vera]] [[flancia]]
+- agenda follows (first few items, then we can freestyle)
 - [[meta]] 
     - [[jitsi]] UI
     - [[immers space]] -- we could test next time
     - [[time]]
+- [[vera]] 
+    - [[gun]]
+    - [[prs]]
+- [[j0lms]] interested on opinions on this article: https://www.otherlife.co/pkm/
 
 # #push [[flancia-meet-2022-04-16]]
 - attending: [[j0lms]] [[protopian]] [[flancian]] :)
