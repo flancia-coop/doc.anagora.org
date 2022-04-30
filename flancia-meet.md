@@ -36,7 +36,7 @@
 - [[j0lms]] interested on opinions on this article: https://www.otherlife.co/pkm/
     - this reads antagonistic at once, but in the end it could be an argument *for* the agora
     - the tldr: [[pkm]] is a fad, actually has a great componet of [[status signaling]]
-        - but the Agora *hijacks* this self-interested pursuit for a pro social
+        - but the Agora *hijacks* this self-interested pursuit for a pro  goal
 - [[flancian]]
     - [[pkm book]]
     - [[shamanic coders guild]]
