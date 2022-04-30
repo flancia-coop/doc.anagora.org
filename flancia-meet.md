@@ -8,6 +8,8 @@
 - [[meta]] 
     - [[jitsi]] UI
     - [[immers space]] -- we could test next time
+        - [[datatitian]]
+        - [[non blockchain nfts]]
     - [[time]]
 - [[vera]] 
     - [[gun]]
