@@ -38,6 +38,7 @@
     - the tldr: [[pkm]] is a fad, actually has a great componet of [[status signaling]]
         - but the Agora *hijacks* this self-interested pursuit for a pro  social goal
         - [[j0lms]] note that this aspect (towards collaboration) is what sold me on the agora
+    - [[j0lms]] justin seems to think that intellectuals belong to a different class (paraphrasing)
 - [[flancian]]
     - [[pkm book]]
     - [[shamanic coders guild]]
