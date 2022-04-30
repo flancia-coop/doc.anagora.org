@@ -12,7 +12,12 @@
 - [[vera]] 
     - [[gun]]
     - [[prs]]
+    - [[collaborative commons]]
 - [[j0lms]] interested on opinions on this article: https://www.otherlife.co/pkm/
+- [[flancian]]
+    - [[pkm book]]
+    - [[shamanic coders guild]]
+    - [[murray bookchin]]
 
 # #push [[flancia-meet-2022-04-16]]
 - attending: [[j0lms]] [[protopian]] [[flancian]] :)
