@@ -48,6 +48,7 @@
     - [[pkm book]]
     - [[shamanic coders guild]]
         - run another instance of agora
+        - 
     - [[murray bookchin]]
         - inspired [[ocalan]]
     - [[podman]] / containers and new setup
