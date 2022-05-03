@@ -1,5 +1,5 @@
 H2 {The Agora is a Social Knowledge Graph}
-[[flancian]]
+[[Flancian]]
 
 In this chapter we describe and analyze a device we call an **Agora**, being a **distributed knowledge graph** provisioned and maintained by a community, ideally as a [commons](https://anagora.org/commons). This Agora can also be said to be a **social knowledge graph** as the information it contains is produced in a social context and is contributed with a social intent.
 
