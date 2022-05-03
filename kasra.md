@@ -1,16 +1,2 @@
-> [@huggingpuppy](https://twitter.com/huggingpuppy)
-> [time=]
-
-# [TOC]
-
----
-# poetry
-
-# interests
-
-
-you! your art, want a poem?, how can i help you?, your expertise, your passion, who you might like, things you might like, your story especially your teenage years, your favorite ideas, what do you think about?
-
-teaching me, helping me, internship?, apprenticeship?, tweet about me?, my story, intellectual loneliness, precociousness, hubris, mentorships
-
-philosophy, ontology, epistemology, truth, knowledge, wisdom, existential fiction, rationalism, critical rationalism, entrepreneurship, passive income, business, open source, spirituality, ceremonial magic, paganism, chaos magic, spirit work, Steve Jobs, theology, god, pantheism, polytheism, monism, omnism, meditation, metta, enlightenment, imaginal meditation, mindfulness, non duality, beyond materialism, the water element, light language, sophrosyne, the play ethos, friendly ambitious nerds, wonder, curiosity, imagination, playful thinking, improv, puppies, Eternal Puppy, puppy energy, creativity, redundancy, redundancy, redundancy, history, Hellenism, post-modernism, transcendentalism, surrealism, people, hugs, strangers, my adventures with strangers, community, meatspace vs cyberspace, communication, neuroscience, avuncular, hubris, Steve Jobs, psychology, archetypal psychology, archetypes, utilizing placebo effect, collective unconscious, mania, Limitless, discomfort, conditioning, memes, pepperoni airplane, art, surrealism, mythology, my mythos, greek mythology, Theseus, Daedalus, Apollo, video art, video editing, VGX, propaganda, words, prose vs poetry, existential fiction, words with color, poetry, my poetry, imaginative poetry, mythological poetry, mythical poetry, Rumi, innovation, music, stories, storytelling, design, minimalism, Apple, alternative time-telling methods, myTime, technology, the future of technology, computing, Linux, coding, artificial intelligence, GPT3, algorithms, python, systems, shamanic coding, git, github, open source, intellegence, imagination, intelligence vs imagination, logic, note-making, note-taking, spreadsheets, Notion, rationality, critical rationalism, twitter, reply guy, vibecamp, post rats, coziness, self love, perception, reality, beauty, creativity, the Athenian principle, dreams, mimetic neurons, mastermind groups, feeling time, becoming imaginary, experiencing poetically, The Red Book by Carl Jung, Third Door by Alex Banyan, Steve Jobs, empathy, solipsism, Buddhism, focusing your time and energy on what you want to see more of, socratic inquiry, prayer, Computer 2, spaciousness, awareness, creative lineages, the afterlife, your vision, shadow work, life, the Muse, hypnosis, IFS, shamanic journeying, listening to music, flow, community-building, brands, lifestyle brands, transformation as a service, building, reinventing the wheel, natural alternative states of consciousness, energy, dancing, emotional intellgence, paradigms, weird tangents, stoicism, the edge of madness, comfort zones, abstractions, how we should treat children, emergence, communing, zeitgeists, problem solving, divine madness, mind expansion, transhumanism, the God within, the force of life, understanding, Richard Fenyman, lucid dreaming, critical thinking 
+> [@huggingpuppy (twitter)](https://twitter.com/huggingpuppy)
+> [time= today, probably]
