@@ -16,7 +16,7 @@
     - [[gopher]] -> [[gemini]]
 - [[j0lms]]
     - made a decision not to pursue a degree
-    - [[national open university]], distance learning
+    - #push [[national open university]], distance learning
         - https://www.unipage.net/en/4706/national_open_university
     - the problem that they were trying to solve is already solved by the internet
     - [[math major]]
@@ -32,7 +32,7 @@
             - [[the glass bead game]]
     - already have a bachelors in music (major in music, minor in composition)
         - that's cool!
-    - 
+- what are we working on?
 - [[vera]]
     - [[heisenbug]]
         - what if we uncached the render of the node and kept stuff that gets all subnodes on the system every time
