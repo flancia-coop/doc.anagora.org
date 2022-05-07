@@ -25,6 +25,7 @@
     - #q what's the downside with just continuing with the degree and finishing it?
     - #a the degree is just very long, and the university has taken a hit due to [[covid]]
     - [[flancian]] something between [[open university]] and [[world university]], or a self-assembled distributed [[study groups]]?
+        - [[university of bayes]]: https://www.reddit.com/r/University_of_Bayes/
         - [[agora university]]
         - studied for 9 years three different subjects, got no degree though
     - [[bouncepaw]]
