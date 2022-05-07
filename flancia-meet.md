@@ -80,6 +80,10 @@
     - [[shamanic agora]]
         - using [[podman]] / [[containers]] for this by default
         - [[bouncepaw]] have you looked into [[yunohost]]?
+    - [[three node agora]]
+    - [[building bridges]]
+- [[j0lms]]
+    - listened to a podcast related to pet project: [[music language identity thesis]]
 
 # #push [[flancia-meet-2022-04-30]]
 - attending: [[j0lms]] [[protopian]] [[vera]] [[flancia]]
