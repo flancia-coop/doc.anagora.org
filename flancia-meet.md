@@ -82,8 +82,11 @@
         - [[bouncepaw]] have you looked into [[yunohost]]?
     - [[three node agora]]
     - [[building bridges]]
+    - [[social coop]]
 - [[j0lms]]
-    - listened to a podcast related to pet project: [[music language identity thesis]]
+    - listened to a podcast related to pet project: [[music language]] [[identity thesis]]
+    - a critique by [[bakhtin]] can be applied here
+    - will write a blo
 
 # #push [[flancia-meet-2022-04-30]]
 - attending: [[j0lms]] [[protopian]] [[vera]] [[flancia]]
