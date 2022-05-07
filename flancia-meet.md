@@ -36,10 +36,13 @@
     - [[idea]]
         - teach people how to [[cheat]], in the sense of taking shortcuts/using new tools to unlock knowledge
         - e.g. someone who knows how to use [[wolfram alpha]], [[gpt-3]] would have a huge pragmatic advantage over most students taking the traditional way
-        - [[cyborg approach]] 
+        - [[cyborg approach]]
+        - interesting approach, provocative pitch 
     - looks like:
         - [[coordination problem]]
         - [[incentive problem]]
+    - post academic ethos
+        - what does it look to achieve a phd level of knowledge management (o)
 - what are we working on?
 - [[vera]]
     - [[heisenbug]]
