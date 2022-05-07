@@ -48,6 +48,8 @@
     - [[flancian]] can we help with anything?
         - [[j0lms]] would like to look for a job, something more fulfilling, currently doing essentially [[mechanical turk]] level
             - would like to exploit the [[cognitive capital]] they have
+        - part time work seems ideal
+            - [[bouncepaw]] know a guy who works around five hours a week (!), that's enough to live on and then work on personal projects
 - what are we working on?
 - [[vera]]
     - [[heisenbug]]
