@@ -3,7 +3,10 @@
 - This is where we could have community maintained notes :)
 
 # #push [[flancia-meet-2022-05-07]]
-- attending: [[vera]] [[bouncepaw]]
+- attending: [[vera]] [[bouncepaw]] [[j0lms]] [[flancian]]
+- [[bouncepaw]]
+    - back in hometown
+    - living in the dorm
 - [[vera]]
     - [[heisenbug]]
         - what if we uncached the render of the node and kept stuff that gets all subnodes on the system every time
