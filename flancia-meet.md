@@ -20,6 +20,8 @@
     - the problem that they were trying to solve is already solved by the internet
     - [[math major]]
         - how to find an [[incentive structure]] to study hard subjects which require an academic environment or strong motivations
+        - very good insight
+    - #q what's the downside with just continuing with the degree and
 - [[vera]]
     - [[heisenbug]]
         - what if we uncached the render of the node and kept stuff that gets all subnodes on the system every time
