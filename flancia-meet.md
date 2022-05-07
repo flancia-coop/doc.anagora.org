@@ -53,9 +53,12 @@
 - what are we working on?
 - [[bouncepaw]]
     - got a FR in March for an html attribute
-    - <body data-rrh-addr="/recent-changes">
-    
-</body>
+    ```
+    <body data-rrh-addr="/recent-changes">
+    ```
+    - added [[orphans]] feature: hyphae which have no backlinks
+        - https://melanocarpa.lesarbr.es/orphans is an example
+        - obsidian has this
 - [[vera]]
     - [[heisenbug]]
         - what if we uncached the render of the node and kept stuff that gets all subnodes on the system every time
