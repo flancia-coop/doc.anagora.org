@@ -81,12 +81,12 @@
         - using [[podman]] / [[containers]] for this by default
         - [[bouncepaw]] have you looked into [[yunohost]]?
     - [[three node agora]]
-    - [[building bridges]]
+    - [[building bridges]] [[blog post]]
     - [[social coop]]
 - [[j0lms]]
     - listened to a podcast related to pet project: [[music language]] [[identity thesis]]
     - a critique by [[bakhtin]] can be applied here
-    - will write a blo
+    - will write a [[blog post]] on this
 
 # #push [[flancia-meet-2022-04-30]]
 - attending: [[j0lms]] [[protopian]] [[vera]] [[flancia]]
