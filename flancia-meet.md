@@ -2,6 +2,10 @@
 - We meet best-effort every Saturday.
 - This is where we could have community maintained notes :)
 
+# #push [[flancia-meet-2022-05-07]]
+- attending: [[vera]]
+- 
+
 # #push [[flancia-meet-2022-04-30]]
 - attending: [[j0lms]] [[protopian]] [[vera]] [[flancia]]
 - agenda follows (first few items, then we can freestyle)
