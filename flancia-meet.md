@@ -14,6 +14,12 @@
         - [[xanagora]]
     - [[fidonet]]?
     - [[gopher]] -> [[gemini]]
+- [[j0lms]]
+    - made a decision not to pursue a degree
+    - [[national open university]], distance learning
+    - the problem that they were trying to solve is already solved by the internet
+    - [[math major]]
+        - how to find an [[incentive structure]] to study hard subjects which require an academic environment or strong motivations
 - [[vera]]
     - [[heisenbug]]
         - what if we uncached the render of the node and kept stuff that gets all subnodes on the system every time
