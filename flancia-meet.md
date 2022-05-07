@@ -84,6 +84,7 @@
     - [[building bridges]] [[blog post]]
     - [[social coop]]
     - perhaps I should set up to [[immers space]]
+    - set up [[code onboarding]] session for next weekend
 - [[j0lms]]
     - listened to a podcast related to pet project: [[music language]] [[identity thesis]]
     - a critique by [[bakhtin]] can be applied here
