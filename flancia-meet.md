@@ -35,7 +35,8 @@
         - that's cool!
     - [[idea]]
         - teach people how to [[cheat]], in the sense of taking shortcuts/using new tools to unlock knowledge
-        - e.g. someone who knows how to use [[wolfram alpha]], [[gpt-3]]
+        - e.g. someone who knows how to use [[wolfram alpha]], [[gpt-3]] would have a huge pragmatic advantage over most students taking the traditional way
+        - [[cyborg approach]] 
     - looks like:
         - [[coordination problem]]
         - [[incentive problem]]
