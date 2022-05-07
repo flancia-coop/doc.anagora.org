@@ -29,6 +29,7 @@
     - [[bouncepaw]]
         - [[hermann hesse]]
             - [[the glass bead game]]
+    - bachelors in music (major in music, minor in composition)
 - [[vera]]
     - [[heisenbug]]
         - what if we uncached the render of the node and kept stuff that gets all subnodes on the system every time
