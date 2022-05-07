@@ -62,7 +62,10 @@
     - [[flancian]] "six degrees of" would also be interesting
         - [[graphs]]
         - other interesting stuff: nodes in common between users; that in the nth degree
-    - [[flancian]] could 
+    - [[flancian]] how many [[mycorrhiza]] instances are there out there?
+        - [[bouncepaw]] would estimate ~tens of instances
+- [[flancian]]
+    - [[shamanic agora]]
 - [[vera]]
     - [[heisenbug]]
         - what if we uncached the render of the node and kept stuff that gets all subnodes on the system every time
