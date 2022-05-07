@@ -67,14 +67,15 @@
     - [[flancian]] any way to coordinate multi user edits, have a dialogue?
         - [[bouncepaw]] nothing built in; we might add [[page locks]] like in [[moinmoin]] times
     - [[javascript]] is kept minimal and optional in [[mycorrhiza]]
-- [[flancian]]
-    - [[shamanic agora]]
 - [[vera]]
     - [[heisenbug]]
         - what if we uncached the render of the node and kept stuff that gets all subnodes on the system every time
         - https://github.com/flancian/agora-server/pull/57/files
     - [[sqlite]] caching
         - https://github.com/fuck-capitalism/agora-bridge/blob/main/sql-import/app.js
+    - [[agora2]] experiment
+- - [[flancian]]
+    - [[shamanic agora]]
 
 # #push [[flancia-meet-2022-04-30]]
 - attending: [[j0lms]] [[protopian]] [[vera]] [[flancia]]
