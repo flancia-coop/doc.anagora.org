@@ -11,8 +11,10 @@
         - the internet as a federation of universities in the beginning (plus darpa)
 - if not the internet, an alternative would've conquered the world instead
     - [[xanadu]]?
+        - [[xanagora]]
     - [[fidonet]]?
-- - [[vera]]
+    - [[gopher]] -> [[gemini]]
+- [[vera]]
     - [[heisenbug]]
         - what if we uncached the render of the node and kept stuff that gets all subnodes on the system every time
     - [[sqlite]] caching
