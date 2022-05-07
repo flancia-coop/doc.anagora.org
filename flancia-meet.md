@@ -5,8 +5,8 @@
 # #push [[flancia-meet-2022-05-07]]
 - attending: [[vera]] [[bouncepaw]] [[j0lms]] [[flancian]]
 - [[bouncepaw]]
-    - back in hometown
-    - living in the dorm
+    - back in hometown for holidays (1st May, 9th May)
+    - living in the dorm in the uni
 - [[vera]]
     - [[heisenbug]]
         - what if we uncached the render of the node and kept stuff that gets all subnodes on the system every time
