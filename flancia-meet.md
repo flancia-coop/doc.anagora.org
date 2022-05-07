@@ -33,6 +33,12 @@
             - [[the glass bead game]]
     - already have a bachelors in music (major in music, minor in composition)
         - that's cool!
+    - [[idea]]
+        - teach people how to [[cheat]], in the sense of taking shortcuts/using new tools to unlock knowledge
+        - e.g. someone who knows how to use [[wolfram alpha]], [[gpt-3]]
+    - looks like:
+        - [[coordination problem]]
+        - [[incentive problem]]
 - what are we working on?
 - [[vera]]
     - [[heisenbug]]
