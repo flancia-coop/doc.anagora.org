@@ -59,6 +59,8 @@
     - added [[orphans]] feature: hyphae which have no backlinks
         - https://melanocarpa.lesarbr.es/orphans is an example
         - obsidian has this
+    - [[flancian]] "six degrees of" would also be interesting
+    - 
 - [[vera]]
     - [[heisenbug]]
         - what if we uncached the render of the node and kept stuff that gets all subnodes on the system every time
