@@ -44,6 +44,9 @@
     - post academic ethos
         - what does it look to achieve a phd level of knowledge management (or operating knowledge) without the phd?
         - [[short story]] idea
+        - [[bootstrap problem]]
+    - [[flancian]] can we help with anything?
+        - [[j0lms]] would like to look for a job
 - what are we working on?
 - [[vera]]
     - [[heisenbug]]
