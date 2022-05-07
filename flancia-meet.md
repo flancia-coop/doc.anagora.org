@@ -36,6 +36,7 @@
 - [[vera]]
     - [[heisenbug]]
         - what if we uncached the render of the node and kept stuff that gets all subnodes on the system every time
+        - https://github.com/flancian/agora-server/pull/57/files
     - [[sqlite]] caching
 
 # #push [[flancia-meet-2022-04-30]]
