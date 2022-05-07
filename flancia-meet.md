@@ -78,6 +78,8 @@
     - [[hashtags]] support
         - [[bouncepaw]] we should get [[sandra]] in here
     - [[shamanic agora]]
+        - using [[podman]] / [[containers]] for this by default
+        - [[bouncepaw]] have you looked into [[yunohost]]?
 
 # #push [[flancia-meet-2022-04-30]]
 - attending: [[j0lms]] [[protopian]] [[vera]] [[flancia]]
