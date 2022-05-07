@@ -17,6 +17,7 @@
 - [[j0lms]]
     - made a decision not to pursue a degree
     - [[national open university]], distance learning
+        - https://www.unipage.net/en/4706/national_open_university
     - the problem that they were trying to solve is already solved by the internet
     - [[math major]]
         - how to find an [[incentive structure]] to study hard subjects which require an academic environment or strong motivations
@@ -25,11 +26,13 @@
     - #a the degree is just very long, and the university has taken a hit due to [[covid]]
     - [[flancian]] something between [[open university]] and [[world university]], or a self-assembled distributed [[study groups]]?
         - [[agora university]]
-        - studied for 9 years, got no degree
+        - studied for 9 years three different subjects, got no degree though
     - [[bouncepaw]]
         - [[hermann hesse]]
             - [[the glass bead game]]
-    - bachelors in music (major in music, minor in composition)
+    - already have a bachelors in music (major in music, minor in composition)
+        - that's cool!
+    - 
 - [[vera]]
     - [[heisenbug]]
         - what if we uncached the render of the node and kept stuff that gets all subnodes on the system every time
