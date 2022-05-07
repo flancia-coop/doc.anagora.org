@@ -3,10 +3,10 @@
 - This is where we could have community maintained notes :)
 
 # #push [[flancia-meet-2022-05-07]]
-- attending: [[vera]]
+- attending: [[vera]] [[bouncepaw]]
 - [[vera]]
     - [[heisenbug]]
-        - what if we uncached the render of the node
+        - what if we uncached the render of the node and kept stuff that gets all subnodes on the system every time
     - [[sqlite]] caching
 
 # #push [[flancia-meet-2022-04-30]]
