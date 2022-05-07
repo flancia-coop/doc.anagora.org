@@ -26,7 +26,9 @@
     - [[flancian]] something between [[open university]] and [[world university]], or a self-assembled distributed [[study groups]]?
         - [[agora university]]
         - studied for 9 years, got no degree
-    - [[the glass bead game]]
+    - [[bouncepaw]]
+        - [[hermann hesse]]
+            - [[the glass bead game]]
 - [[vera]]
     - [[heisenbug]]
         - what if we uncached the render of the node and kept stuff that gets all subnodes on the system every time
