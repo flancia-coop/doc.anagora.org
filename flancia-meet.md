@@ -64,6 +64,8 @@
         - other interesting stuff: nodes in common between users; that in the nth degree
     - [[flancian]] how many [[mycorrhiza]] instances are there out there?
         - [[bouncepaw]] would estimate ~tens of instances
+    - [[flancian]] any way to coordinate multi user edits, have a dialogue?
+        - [[bouncepaw]] nothing built in; we might add [[page locks]] like in [[moinmoin]] times
 - [[flancian]]
     - [[shamanic agora]]
 - [[vera]]
