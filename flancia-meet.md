@@ -87,6 +87,7 @@
     - listened to a podcast related to pet project: [[music language]] [[identity thesis]]
     - a critique by [[bakhtin]] can be applied here
     - will write a [[blog post]] on this
+- 
 
 # #push [[flancia-meet-2022-04-30]]
 - attending: [[j0lms]] [[protopian]] [[vera]] [[flancia]]
