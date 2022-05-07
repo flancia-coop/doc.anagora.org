@@ -66,6 +66,7 @@
         - [[bouncepaw]] would estimate ~tens of instances
     - [[flancian]] any way to coordinate multi user edits, have a dialogue?
         - [[bouncepaw]] nothing built in; we might add [[page locks]] like in [[moinmoin]] times
+    - [[javascript]] is kept minimal and optional in [[mycorrhiza]]
 - [[flancian]]
     - [[shamanic agora]]
 - [[vera]]
