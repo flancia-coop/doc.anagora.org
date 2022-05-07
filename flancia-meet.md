@@ -25,7 +25,7 @@
     - #q what's the downside with just continuing with the degree and finishing it?
     - #a the degree is just very long, and the university has taken a hit due to [[covid]]
     - [[flancian]] something between [[open university]] and [[world university]], or a self-assembled distributed [[study groups]]?
-        - [[university of bayes]]: https://www.reddit.com/r/University_of_Bayes/
+        - [[university of bayes]]
         - [[agora university]]
         - studied for 9 years three different subjects, got no degree though
     - [[bouncepaw]]
@@ -51,6 +51,11 @@
         - part time work seems ideal
             - [[bouncepaw]] know a guy who works around five hours a week (!), that's enough to live on and then work on personal projects
 - what are we working on?
+- [[bouncepaw]]
+    - got a FR in March for an html attribute
+    - <body data-rrh-addr="/recent-changes">
+    
+</body>
 - [[vera]]
     - [[heisenbug]]
         - what if we uncached the render of the node and kept stuff that gets all subnodes on the system every time
