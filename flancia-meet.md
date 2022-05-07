@@ -4,7 +4,10 @@
 
 # #push [[flancia-meet-2022-05-07]]
 - attending: [[vera]]
-- 
+- [[vera]]
+    - [[heisenbug]]
+        - what if we uncached the render of the node
+    - [[sqlite]] caching
 
 # #push [[flancia-meet-2022-04-30]]
 - attending: [[j0lms]] [[protopian]] [[vera]] [[flancia]]
