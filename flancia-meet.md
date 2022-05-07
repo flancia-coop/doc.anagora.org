@@ -60,7 +60,9 @@
         - https://melanocarpa.lesarbr.es/orphans is an example
         - obsidian has this
     - [[flancian]] "six degrees of" would also be interesting
-    - 
+        - [[graphs]]
+        - other interesting stuff: nodes in common between users; that in the nth degree
+    - [[flancian]] could 
 - [[vera]]
     - [[heisenbug]]
         - what if we uncached the render of the node and kept stuff that gets all subnodes on the system every time
