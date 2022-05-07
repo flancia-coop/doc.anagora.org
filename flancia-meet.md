@@ -42,7 +42,7 @@
         - [[coordination problem]]
         - [[incentive problem]]
     - post academic ethos
-        - what does it look to achieve a phd level of knowledge management (o)
+        - what does it look to achieve a phd level of knowledge management (or operating knowledge) without the phd?
 - what are we working on?
 - [[vera]]
     - [[heisenbug]]
