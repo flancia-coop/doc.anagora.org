@@ -7,14 +7,15 @@
 - [[bouncepaw]]
     - back in hometown for holidays (1st May, 9th May)
     - living in the dorm in the uni
-- university experiences
-    - the internet as a federation of universities in the beginning (plus darpa)
-- [[vera]]
+    - university experiences
+        - the internet as a federation of universities in the beginning (plus darpa)
+- if not the internet, an alternative would've conquered the world instead
+    - [[xanadu]]?
+    - [[fidonet]]?
+- - [[vera]]
     - [[heisenbug]]
         - what if we uncached the render of the node and kept stuff that gets all subnodes on the system every time
     - [[sqlite]] caching
-- if not the internet, an alternative would've conquered the world instead
-    - 
 
 # #push [[flancia-meet-2022-04-30]]
 - attending: [[j0lms]] [[protopian]] [[vera]] [[flancia]]
