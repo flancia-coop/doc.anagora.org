@@ -74,7 +74,9 @@
     - [[sqlite]] caching
         - https://github.com/fuck-capitalism/agora-bridge/blob/main/sql-import/app.js
     - [[agora2]] experiment
-- - [[flancian]]
+- [[flancian]]
+    - [[hashtags]] support
+        - [[bouncepaw]] we should get [[sandra]] in here
     - [[shamanic agora]]
 
 # #push [[flancia-meet-2022-04-30]]
