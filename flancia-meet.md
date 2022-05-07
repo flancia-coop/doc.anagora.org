@@ -1,5 +1,5 @@
 # Flancia Meet
-- We meet best-effort every Saturday.
+- We meet best-effort every Saturday. when utc??
 - This is where we could have community maintained notes :)
 
 # #push [[flancia-meet-2022-05-07]]
