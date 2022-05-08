@@ -1,0 +1,2 @@
+- [[flancian]]
+    - [[symbiosis]] https://en.wikipedia.org/wiki/Symbiosis_in_lichens
