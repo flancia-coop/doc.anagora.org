@@ -3,9 +3,12 @@
 - This is where we could have community maintained notes :)
 
 # #push [[flancia-meet-2022-05-14]]
+- attending: [[vera]] [[bouncepaw]] [[flancian]]
 -  [[vera]]
     - [[webcrate]] [[deta]]
         - https://webcrate.vera.deta.app/crate/public/KhOSRtXQSpwNwmrW
+        - sort of like [[solid]], it's an ecosystem but it feels empty for now
+        - [[webcrate]] is an app in [[deta]]
     - [[krita]] [[gimp]] [[blender]] [[open source art]]
         - examples of world class open source art programs
     - I want to checkout [[adx]] 
@@ -13,6 +16,8 @@
             - https://github.com/bluesky-social/adx/pull/116
         - it has post edit functionality!!
         ![adx](https://i.imgur.com/ipwbKR3.png)
+- [[bouncepaw]]
+- [[flancian]]
         
         
 
