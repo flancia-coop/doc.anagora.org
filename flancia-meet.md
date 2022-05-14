@@ -22,7 +22,10 @@
         - published an [[ecosystem review]]
         - now actually publishing code?
         - see [[adx]] below
-    - [[krita]] [[gimp]] [[blender]] [[open source art]]
+    - [[krita]] [[gimp]] [[blender]] [[open source art
+        - vera says:
+https://imgur.com/a/1RPoNUV
+        - https://imgur.com/a/zUMI5Xg
         - examples of world class open source art programs
     - I want to checkout [[adx]] 
         - https://github.com/bluesky-social/adx
@@ -31,6 +34,7 @@
         ![adx](https://i.imgur.com/ipwbKR3.png)
 - [[bouncepaw]]
 - [[flancian]]
+    - I am engaging more with [[social coop]], now an admin and got 
         
         
 
