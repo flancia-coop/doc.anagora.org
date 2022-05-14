@@ -10,13 +10,18 @@
         - sort of like [[solid]], it's an ecosystem but it feels empty for now
         - [[webcrate]] is an app in [[deta]]
         - a "[[cloud computer]]"
-        - is it open source?
+        - is it open source? yes, it seems: https://github.com/deta
         - [[berlin]] based
             - [[bouncepaw]] -> [[dresden]] 
             - [[flancian]] :) [[slaughterhouse five]]
                 - [[john green]] https://www.youtube.com/watch?v=F6g7S2W27Kc
                 - Aliens, Time Travel, and Dresden - Slaughterhouse-Five Part 1
                 - [[flancian]] made me think of [[susan bauer]]
+    - [[bouncepaw]] what is [[bluesky]]?
+        - used to look like vaporware, but no longer
+        - published an [[ecosystem review]]
+        - now actually publishing code?
+        - see [[adx]] below
     - [[krita]] [[gimp]] [[blender]] [[open source art]]
         - examples of world class open source art programs
     - I want to checkout [[adx]] 
