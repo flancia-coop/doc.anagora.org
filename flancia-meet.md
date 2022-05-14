@@ -32,14 +32,22 @@ https://imgur.com/a/1RPoNUV
             - https://github.com/bluesky-social/adx/pull/116
         - it has post edit functionality!!
         ![adx](https://i.imgur.com/ipwbKR3.png)
-- [[bouncepaw]]
-    - 40 rubles for bread
+
 - [[flancian]]
     - I am engaging more with [[social coop]], now an admin and got root
     - [[social coop tech group]]
     - plan to try [[immers space]] this weekend!
     - [[phone to note]]
-        
+    - connecting agoras
+    - oauth for easy sign in
+- [[bouncepaw]]
+    - 40 rubles for bread
+    - on the wiki approach to interconnection
+        - [[interwiki]] links
+        - [[mycorrhiza]] will extend this
+        - been writing links with interliki support for months :) will forward spec/examples
+    - met someone, a missionary, invited to join a group.
+        - bought a book of his
         
 
 
