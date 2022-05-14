@@ -5,6 +5,7 @@
 # #push [[flancia-meet-2022-05-13]]
 -  [[vera]]
     - [[webcrate]] [[deta]]
+        - https://webcrate.vera.deta.app/crate/public/KhOSRtXQSpwNwmrW
     - [[krita]] [[gimp]] [[blender]] [[open source art]]
         - examples of world class open source art programs
     - I want to checkout [[adx]] 
