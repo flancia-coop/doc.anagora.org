@@ -3,7 +3,9 @@
 - This is where we could have community maintained notes :)
 
 # #push [[flancia-meet-2022-05-13]]
--  
+-  [[vera]]
+    -  [[webcrate]] [[deta]]
+        -  
 # #push [[flancia-meet-2022-05-07]]
 - attending: [[vera]] [[bouncepaw]] [[j0lms]] [[flancian]]
 - [[bouncepaw]]
