@@ -36,6 +36,7 @@ https://imgur.com/a/1RPoNUV
 - [[flancian]]
     - I am engaging more with [[social coop]], now an admin and got root
     - [[social coop tech group]]
+    - plan to try [[immers space]] this weekend!
         
         
 
