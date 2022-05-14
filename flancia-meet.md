@@ -10,6 +10,7 @@
         - examples of world class open source art programs
     - I want to checkout [[adx]] 
         - https://github.com/bluesky-social/adx
+            - https://github.com/bluesky-social/adx/pull/116
         - it has post edit functionality!!
         ![adx](https://i.imgur.com/ipwbKR3.png)
         
