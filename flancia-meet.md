@@ -14,7 +14,7 @@
         - [[berlin]] based
             - [[bouncepaw]] -> [[dresden]] 
             - [[flancian]] :) [[slaughterhouse five]]
-                - [[john greene]] https://www.youtube.com/watch?v=F6g7S2W27Kc
+                - [[john green]] https://www.youtube.com/watch?v=F6g7S2W27Kc
                 - Aliens, Time Travel, and Dresden - Slaughterhouse-Five Part 1
                 - [[flancian]] made me think of [[susan bauer]]
     - [[krita]] [[gimp]] [[blender]] [[open source art]]
