@@ -34,7 +34,8 @@ https://imgur.com/a/1RPoNUV
         ![adx](https://i.imgur.com/ipwbKR3.png)
 - [[bouncepaw]]
 - [[flancian]]
-    - I am engaging more with [[social coop]], now an admin and got 
+    - I am engaging more with [[social coop]], now an admin and got root
+    - [[social coop tech group]]
         
         
 
