@@ -11,6 +11,9 @@
         - [[webcrate]] is an app in [[deta]]
         - a "[[cloud computer]]"
         - is it open source?
+        - [[berlin]] based
+            - -> [[dresden]] 
+            - :) [[slaughterhouse five]]
     - [[krita]] [[gimp]] [[blender]] [[open source art]]
         - examples of world class open source art programs
     - I want to checkout [[adx]] 
