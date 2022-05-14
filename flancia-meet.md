@@ -12,12 +12,12 @@
         - a "[[cloud computer]]"
         - is it open source? yes, it seems: https://github.com/deta
         - [[berlin]] based
-            - [[bouncepaw]] -> [[dresden]] 
+            - [[bouncepaw]] visited [[dresden]] once
             - [[flancian]] :) [[slaughterhouse five]]
                 - [[john green]] https://www.youtube.com/watch?v=F6g7S2W27Kc
                 - Aliens, Time Travel, and Dresden - Slaughterhouse-Five Part 1
                 - [[flancian]] made me think of [[susan bauer]]
-    - [[bouncepaw]] what is [[bluesky]]?
+    - [[bouncepaw]] asks: what is [[bluesky]]?
         - used to look like vaporware, but no longer
         - published an [[ecosystem review]]
         - now actually publishing code?
@@ -47,6 +47,7 @@ https://imgur.com/a/1RPoNUV
         - [[mycorrhiza]] will extend this
         - been writing links with interwiki support for months :) will forward spec/examples
             - https://www.mediawiki.org/wiki/Manual:Interwiki
+            - Added later: [[interwiki for agora]]
     - met someone, a missionary, invited to join a group.
         - bought a book of his
         - a translation of an english language book
