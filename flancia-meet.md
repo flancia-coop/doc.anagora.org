@@ -45,9 +45,13 @@ https://imgur.com/a/1RPoNUV
     - on the wiki approach to interconnection
         - [[interwiki]] links
         - [[mycorrhiza]] will extend this
-        - been writing links with interliki support for months :) will forward spec/examples
+        - been writing links with interwiki support for months :) will forward spec/examples
+            - https://www.mediawiki.org/wiki/Manual:Interwiki
     - met someone, a missionary, invited to join a group.
         - bought a book of his
+        - a translation of an english language book
+        - dialogue between a [[bob]] and some [[guru]]
+        - [[vera]] is it [[bahai]]?
         
 
 
