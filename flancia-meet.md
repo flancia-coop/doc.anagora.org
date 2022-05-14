@@ -49,7 +49,7 @@ https://imgur.com/a/1RPoNUV
             - https://www.mediawiki.org/wiki/Manual:Interwiki
             - Added later: [[interwiki for agora]]
     - met someone, a missionary, invited to join a group.
-        - bought a book of his
+        - bought a book of his months ago
         - a translation of an english language book
         - dialogue between a [[bob]] and some [[guru]]
         - [[vera]] is it [[bahai]]?
