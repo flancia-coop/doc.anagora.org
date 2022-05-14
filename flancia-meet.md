@@ -33,6 +33,7 @@ https://imgur.com/a/1RPoNUV
         - it has post edit functionality!!
         ![adx](https://i.imgur.com/ipwbKR3.png)
 - [[bouncepaw]]
+    - 40 rubles for bread
 - [[flancian]]
     - I am engaging more with [[social coop]], now an admin and got root
     - [[social coop tech group]]
