@@ -7,6 +7,7 @@
     - [[webcrate]] [[deta]]
     - [[krita]] [[gimp]] [[blender]] [[open source art]]
         - examples of world class open source art programs
+    - I want to checkout 
     
 # #push [[flancia-meet-2022-05-07]]
 - attending: [[vera]] [[bouncepaw]] [[j0lms]] [[flancian]]
