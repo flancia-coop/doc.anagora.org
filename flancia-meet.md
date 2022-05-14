@@ -12,8 +12,10 @@
         - a "[[cloud computer]]"
         - is it open source?
         - [[berlin]] based
-            - -> [[dresden]] 
-            - :) [[slaughterhouse five]]
+            - [[bouncepaw]] -> [[dresden]] 
+            - [[flancian]] :) [[slaughterhouse five]]
+                - https://www.youtube.com/watch?v=F6g7S2W27Kc
+                - Aliens, Time Travel, and Dresden - Slaughterhouse-Five Part 1:
     - [[krita]] [[gimp]] [[blender]] [[open source art]]
         - examples of world class open source art programs
     - I want to checkout [[adx]] 
