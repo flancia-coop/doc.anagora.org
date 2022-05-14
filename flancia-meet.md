@@ -9,6 +9,8 @@
         - https://webcrate.vera.deta.app/crate/public/KhOSRtXQSpwNwmrW
         - sort of like [[solid]], it's an ecosystem but it feels empty for now
         - [[webcrate]] is an app in [[deta]]
+        - a "[[cloud computer]]"
+        - is it open source?
     - [[krita]] [[gimp]] [[blender]] [[open source art]]
         - examples of world class open source art programs
     - I want to checkout [[adx]] 
