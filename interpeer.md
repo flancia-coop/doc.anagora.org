@@ -1,6 +1,6 @@
 # Interpeer Project
 
-**The Interpeer Project’s mission is to enable a human centric next generation internet.**
+*The Interpeer Project’s mission is to enable a human centric next generation internet.*
 
 Computers have become ubiquitous. However, the most popular protocol connecting users to remote machines, HTTP, follows an obsolete philosophy:
 
@@ -21,7 +21,7 @@ What if instead users could simply instruct a printer to fetch the document on t
 
 **Peer-to-peer networking technology enables trust delegated machines to share data** directly and efficiently. While there are may P2P technologies available, almost none of them focus on efficiency.
 
-Our goal is to provide a secure and efficient peer-to-peer networking stack that will empower a human centric internet, circumventing the protocols of the past. The future is fully distributed.
+**Our goal is to provide a secure and efficient peer-to-peer networking stack** that will empower a human centric internet, circumventing the protocols of the past. The future is fully distributed.
 
 - [Interpeer Project Website](https://interpeer.io)
 - [Codeberg Page](https://codeberg.org/interpeer)
