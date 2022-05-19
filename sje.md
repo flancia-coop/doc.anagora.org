@@ -96,4 +96,4 @@
     - build conceptual outline
         - [[google doc]]?
         - [[node]] it?
-    - 
+- start an [[awesome foundation]] chapter?
