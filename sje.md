@@ -1,0 +1,5 @@
+- [[2022-05-19]]
+    - [[jerry michalski]]
+        - Grew up in [[Lima]] and then [[Buenos Aires]]!
+        - Buenos Aires in the 1960s!
+        - The status of [[South America]] and [[Africa]].
