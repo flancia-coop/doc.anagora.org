@@ -89,3 +89,9 @@
                 - https://dxos.org/
                 - https://github.com/dxos
             - [[codex editor]] == [[codex]] in the Agora
+- questions:
+    - chat platform: [[mattermost]] or something else?
+    - [[open]] by default or not?
+        - open
+    - build conceptual outline
+        - [[google doc]]?
