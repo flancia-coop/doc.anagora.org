@@ -8,7 +8,7 @@
             - [[curas tercermundistas]]
             - [[bergoglio]]
     - [[samuel klein]]
-        - brother lives in [[Santiago]] :)
+        - brother lives in [[Santiago]] :)  ([not my brother](https://jhoansebastiangrey.com/))
     - -> [[jerry's brain]] [[cybersin]] [[salvador allende]]
         - #book [[overthrow]]
 - how do we frame this conversation?
@@ -16,4 +16,9 @@
     - [[samuel klein]]
         - [[wikilinks everywhere]]
         - [[fellowship]]
-        - [[stress testing new technology]]
+        - [[stress testing new technology]] in this space
+- [[wikilinks everywhere]]
+    - [[jerry]] how we handle links seems very powerful
+        - "how can I be the [[chuck yeager]] of a the new platform"
+        - would love to get out of the current tool into something freer
+        - [[500000]] nodes, [[1000000]] links
