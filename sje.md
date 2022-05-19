@@ -73,4 +73,7 @@
             - [[matrix]] 
             - [[google groups]]
             - [[fellowship of the link]]
-        - [[excalidraw]] + [[obsidian]]
+        - [[zsolt]] did a [[excalidraw]] + [[obsidian]] mashup
+            - "https://www.linkedin.com/in/zsolt-viczian/ TheBrain-like graph-based navigation in Obsidian with Excalidraw, Dataview, and Hover Editor (V2)  https://www.youtube.com/watch?v=plYobK-VufM"
+            - [[metasj]]: [[bretv]]
+        - a healthy way forward is to have a series of design sessions
