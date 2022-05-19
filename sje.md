@@ -73,3 +73,4 @@
             - [[matrix]] 
             - [[google groups]]
             - [[fellowship of the link]]
+        - [[excalidraw]] + [[obsidian]]
