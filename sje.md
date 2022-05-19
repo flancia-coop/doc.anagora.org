@@ -44,4 +44,5 @@
     - Export is a [[json]] dump
         - Has imported it into a [[nosql]] database ~1y ago
         - Some thoughts are [[private]] though, which adds some complexity. Those need to be filtered out.
-    - 
+    - Would love to offer his brain to others to take a snapshot and start building on it.
+        - [[samuel]] [[huggingmind]]?
