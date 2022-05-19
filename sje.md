@@ -46,3 +46,10 @@
         - Some thoughts are [[private]] though, which adds some complexity. Those need to be filtered out.
     - Would love to offer his brain to others to take a snapshot and start building on it.
         - [[samuel]] [[huggingmind]]?
+            - [[content hash]] based tools have failed so far
+            - if you get into [[decentralized sharing]], there are:
+                - [[named based models]]
+                - [[content hash models]]
+                    - no clustering, no updates, need to solve equivalence and relationships in a different level (ipfs has ipdns)
+            - both of these are missing the higher level point: what humans want to share is [[concepts]]
+                - 
