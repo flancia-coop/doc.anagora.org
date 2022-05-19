@@ -56,3 +56,5 @@
                 - "you want to find a map of [[charging stations]]"
                     - it'd make sense to compose canonical lists at different levels (city, region, global)
                 - [[coordination problem]]
+                - [[hashtags]] as an example of grassroot technology
+                - 
