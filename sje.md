@@ -54,4 +54,5 @@
             - both of these are missing the higher level point: what humans want to share is [[concepts]]
                 - "you want the latest [[human genome]]"
                 - "you want to find a map of [[charging stations]]"
-                    - it'd make sense to compose canonical lists at different 
+                    - it'd make sense to compose canonical lists at different levels (city, region, global)
+                - [[coordination problem]]
