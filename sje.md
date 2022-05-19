@@ -100,3 +100,7 @@
     - meet again in 1w/2w? on https://meet.jit.si/fotl
 - start an [[awesome foundation]] chapter?
     - [[wikimedia]] has a grants program for experiments, but they are grant-like and larger
+    - [[public bounties]]?
+        - what's a good platform for bounties?
+        - [[samuel]] [[expensify]]?
+    - [[building bridges]]
