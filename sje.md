@@ -22,3 +22,9 @@
         - "how can I be the [[chuck yeager]] of a the new platform"
         - would love to get out of the current tool into something freer
         - [[500000]] nodes, [[1000000]] links
+            - [[flancian]] FYI the Agora is small but has 1:4 linking ratio currently
+        - "linking freely but not promiscuously helps find things later"
+        - [[note taking]] vs [[thebrain]]
+            - note taking does happen in the brain
+        - #push [[open global mind]] group, every Thu there is a check in call
+        - 
