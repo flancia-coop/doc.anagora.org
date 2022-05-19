@@ -80,3 +80,7 @@
         - [[jerry]] [[Rel8]] Use Cases: https://www.youtube.com/watch?v=bWkwOefBPZY
         - Jerry: "sharing our notes to fix civilization"
         - Replacing [[powerpoint]] with better storytelling tool
+            - [[prezi]] was great and then regressed :(
+            - there's an opportunity in this space
+            - [[powerpoint killers]]
+            - [[samuel]] [[h5p]]
