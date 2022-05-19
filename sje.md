@@ -96,4 +96,5 @@
     - build conceptual outline
         - [[google doc]]?
         - [[node]] it?
+    - think about [[diversity]]
 - start an [[awesome foundation]] chapter?
