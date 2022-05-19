@@ -33,9 +33,15 @@
             - wish: interop between tools that support every useful workflow
         - #push [[open global mind]] group, every Thu there is a check in call, as an example of taking notes here
             - ![](https://doc.anagora.org/uploads/upload_a6763abac582c19f6140b7f68bf880d0.png)
-        - [[thebrain]]
-            - Jerry's the
-
-- Freeing Jerry's Brain
-    - what else might we do with the structure that it's easy for him to capture / has been captured?
-    - Exploring migration to other platforms. 
+- [[thebrain]]
+    - Jerry's their largest user.
+    - Has never paid for it.
+    - Freeing Jerry's Brain
+        - what else might we do with the structure that it's easy for him to capture / has been captured?
+        - Exploring migration to other platforms. 
+    - Asked for an [[rss]] feed twenty years ago (!)
+    - No other tool seems to be up to the task of migrating to it.
+    - Export is a [[json]] dump
+        - Has imported it into a [[nosql]] database ~1y ago
+        - Some thoughts are [[private]] though, which adds some complexity. Those need to be filtered out.
+    - 
