@@ -82,5 +82,9 @@
         - Replacing [[powerpoint]] with better storytelling tool
             - [[prezi]] was great and then regressed :(
             - there's an opportunity in this space
-            - [[powerpoint killers]]
+            - [[powerpoint killers]][
             - [[samuel]] [[h5p]]
+        - [[jerry]] 
+            - #push [[dxos]]
+                - https://dxos.org/
+                - https://github.com/dxos
