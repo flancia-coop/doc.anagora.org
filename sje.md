@@ -3,3 +3,6 @@
         - Grew up in [[Lima]] and then [[Buenos Aires]]!
         - Buenos Aires in the 1960s!
         - The status of [[South America]] and [[Africa]].
+        - The role of the [[catholic church]] in the problems of the continent.
+            - [[liberation theology]]
+            - [[curas terce]]
