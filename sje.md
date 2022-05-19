@@ -9,7 +9,7 @@
             - [[bergoglio]]
     - [[samuel klein]]
         - brother lives in [[Santiago]] :)  ([not my brother](https://jhoansebastiangrey.com/))
-    - -> [[jerry's brain]] [[cybersin]] [[salvador allende]]
+    - -> [[jerry's brain]] [[cybersyn]] [[salvador allende]]
         - #book [[overthrow]]
 - how do we frame this conversation?
     - we have a lot of things we could talk about, what's a nice useful way to start this conversation?
@@ -28,7 +28,14 @@
             - note taking does happen in the brain
             - but Jerry doesn't actually use the notes field per se
             - it's not even outliner mode: it's an actual graph that Jerry navigates dynamically
-            - interop between tools that support every useful workflow
+                - what about the time dimension?
+                - [[thebrain]] timestamps everything, but it's not really retrievable via an API
+            - wish: interop between tools that support every useful workflow
         - #push [[open global mind]] group, every Thu there is a check in call, as an example of taking notes here
             - ![](https://doc.anagora.org/uploads/upload_a6763abac582c19f6140b7f68bf880d0.png)
-            - 
+        - [[thebrain]]
+            - Jerry's the
+
+- Freeing Jerry's Brain
+    - what else might we do with the structure that it's easy for him to capture / has been captured?
+    - Exploring migration to other platforms. 
