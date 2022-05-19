@@ -61,3 +61,6 @@
                     - [[metasj]] [[chatoyancy]]
                 - [[query based event addressing]]
                     - [[search engine company]] experimented with crowdsourced query editing
+                    - Jerry: "do you have any other [[vector]] into it"
+    - [[flancian]] have you done a [[mindmeld]] with someone else?
+        - Jerry knows one more advanced user, but []
