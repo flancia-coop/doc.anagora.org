@@ -97,4 +97,6 @@
         - [[google doc]]?
         - [[node]] it?
     - think about [[diversity]]
+    - meet again in 1w/2w? on https://meet.jit.si/fotl
 - start an [[awesome foundation]] chapter?
+    - [[wikimedia]] has a grants program for experiments, but they are grant-like and larger
