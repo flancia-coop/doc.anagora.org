@@ -67,3 +67,4 @@
         - the exported bag of [[json]] objects is available, people are interested
         - [[free jerry's brain]] group, meets Mondays at 1PM Pacific, part of [[open global mind]]
         - also [[mattermost]] has a channel dedicated to it
+        - [[peter kaminski]]
