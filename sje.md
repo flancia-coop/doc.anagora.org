@@ -10,4 +10,10 @@
     - [[samuel klein]]
         - brother lives in [[Santiago]] :)
     - -> [[jerry's brain]] [[cybersin]] [[salvador allende]]
-        - #book [[overthrow]] 
+        - #book [[overthrow]]
+- how do we frame this conversation?
+    - we have a lot of things we could talk about, what's a nice useful way to start this conversation?
+    - [[samuel klein]]
+        - [[wikilinks everywhere]]
+        - [[fellowship]]
+        - [[stress testing new technology]]
