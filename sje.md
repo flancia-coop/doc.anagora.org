@@ -68,5 +68,8 @@
         - [[free jerry's brain]] group, meets Mondays at 1PM Pacific, part of [[open global mind]]
         - also [[mattermost]] has a channel dedicated to it
         - [[peter kaminski]]
-        - https://chat.collectivesensecommons.org/agora/tips
-        - [[matrix]] 
+        - where to chat?
+            - https://chat.collectivesensecommons.org/agora/tips
+            - [[matrix]] 
+            - [[google groups]]
+            - [[fellowship of the link]]
