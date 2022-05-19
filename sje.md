@@ -5,4 +5,7 @@
         - The status of [[South America]] and [[Africa]].
         - The role of the [[catholic church]] in the problems of the continent.
             - [[liberation theology]]
-            - [[curas terce]]
+            - [[curas tercermundistas]]
+            - [[bergoglio]]
+    - [[samuel klein]]
+        - brother lives in [[Santiago]] :)
