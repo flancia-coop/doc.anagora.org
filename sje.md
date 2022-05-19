@@ -26,5 +26,9 @@
         - "linking freely but not promiscuously helps find things later"
         - [[note taking]] vs [[thebrain]]
             - note taking does happen in the brain
-        - #push [[open global mind]] group, every Thu there is a check in call
-        - 
+            - but Jerry doesn't actually use the notes field per se
+            - it's not even outliner mode: it's an actual graph that Jerry navigates dynamically
+            - interop between tools that support every useful workflow
+        - #push [[open global mind]] group, every Thu there is a check in call, as an example of taking notes here
+            - ![](https://doc.anagora.org/uploads/upload_a6763abac582c19f6140b7f68bf880d0.png)
+            - 
