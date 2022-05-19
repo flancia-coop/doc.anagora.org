@@ -52,4 +52,6 @@
                 - [[content hash models]]
                     - no clustering, no updates, need to solve equivalence and relationships in a different level (ipfs has ipdns)
             - both of these are missing the higher level point: what humans want to share is [[concepts]]
-                - 
+                - "you want the latest [[human genome]]"
+                - "you want to find a map of [[charging stations]]"
+                    - it'd make sense to compose canonical lists at different 
