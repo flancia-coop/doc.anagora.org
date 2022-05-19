@@ -102,5 +102,5 @@
     - [[wikimedia]] has a grants program for experiments, but they are grant-like and larger
     - [[public bounties]]?
         - what's a good platform for bounties?
-        - [[samuel]] [[expensify]]?
+        - [[samuel]] [[expensify]] is a good example
     - [[building bridges]]
