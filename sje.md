@@ -75,5 +75,6 @@
             - [[fellowship of the link]]
         - [[zsolt]] did a [[excalidraw]] + [[obsidian]] mashup
             - "https://www.linkedin.com/in/zsolt-viczian/ TheBrain-like graph-based navigation in Obsidian with Excalidraw, Dataview, and Hover Editor (V2)  https://www.youtube.com/watch?v=plYobK-VufM"
-            - [[metasj]]: [[bretv]]
-        - a healthy way forward is to have a series of design sessions
+            - [[metasj]]: [[bretv]] is great and would be a good addition to these conversations
+        - a healthy way forward is to have a series of design sessions for the interop ecosystem, identify components, identify the pieces that will make it easy for others to adopt the system and get value from it
+        - [[jerry]] Rel8 Use Cases: https://www.youtube.com/watch?v=bWkwOefBPZY
