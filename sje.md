@@ -57,4 +57,7 @@
                     - it'd make sense to compose canonical lists at different levels (city, region, global)
                 - [[coordination problem]]
                 - [[hashtags]] as an example of grassroot technology
-                - 
+                - [[wikilinks]] as acceptable search queries for whatever you're trying to store
+                    - [[metasj]] [[chatoyancy]]
+                - [[query based event addressing]]
+                    - [[search engine company]] experimented with crowdsourced query editing
