@@ -1,8 +1,10 @@
 
 
-[[2022-05-20]]
+- [[2022-05-20]]
+  - [[tech group]] session on [[password store]]: https://git.coop/social.coop/tech/pass
 
-    [[2022-05-13]]
+
+- [[2022-05-13]]
 
     Attending: akshay neil noah (redoak) eduardo (flancian) nick will (datatitian)
 
