@@ -7,8 +7,8 @@
             - [[liberation theology]]
             - [[curas tercermundistas]]
             - [[bergoglio]]
-    - [[samuel klein]]
-        - brother lives in [[Santiago]] :)  ([not my brother](https://jhoansebastiangrey.com/))
+    - [[sjk]]
+        - brother in [[Santiago]] :)  ([not my brother](https://jhoansebastiangrey.com/))
     - -> [[jerry's brain]] [[cybersyn]] [[salvador allende]]
         - #book [[overthrow]]
 - how do we frame this conversation?
