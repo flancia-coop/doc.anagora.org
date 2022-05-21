@@ -7,13 +7,13 @@
             - [[liberation theology]]
             - [[curas tercermundistas]]
             - [[bergoglio]]
-    - [[sjk]]
+    - [[sj]]
         - brother in [[Santiago]] :)  ([not my brother](https://jhoansebastiangrey.com/))
     - -> [[jerry's brain]] [[cybersyn]] [[salvador allende]]
         - #book [[overthrow]]
 - how do we frame this conversation?
     - we have a lot of things we could talk about, what's a nice useful way to start this conversation?
-    - [[samuel klein]]
+    - [[sj]]
         - [[wikilinks everywhere]]
         - [[fellowship]]
         - [[stress testing new technology]] in this space
@@ -45,7 +45,7 @@
         - Has imported it into a [[nosql]] database ~1y ago
         - Some thoughts are [[private]] though, which adds some complexity. Those need to be filtered out.
     - Would love to offer his brain to others to take a snapshot and start building on it.
-        - [[samuel]] [[huggingmind]]?
+        - [[sj]] [[huggingmind]]?
             - [[content hash]] based tools have failed so far
             - if you get into [[decentralized sharing]], there are:
                 - [[named based models]]
