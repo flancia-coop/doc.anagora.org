@@ -3,9 +3,7 @@
 
 
 [[the one]] likes [[flancian]] [[10/10]]
-
 [[the one]] estimates [[flancian]] likes [[the one]] [[10/10]]
-
 [[the_one]] is [[10/10]] confident in his estimation
 
 
