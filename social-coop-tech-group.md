@@ -8,6 +8,9 @@
       - don't work on Fridays, and yesterday was a holiday
       - [[wire swiss gmbh]]
       - [[mls]]
+  - [[flancian]]
+      - working for Google, [[meet]]
+  - [[flancian]] wdyt about [[matrix]]?
   - [[agenda]]
       - updates
   - [[later]]
