@@ -35,7 +35,9 @@
     - [[later]]
         - media issues?
             - one user reported them
-            - 
+            - [[akshay]] tusky sometimes show images as attachments
+            - [[flancian]] get 500s relatively often when trying to upload
+        - **how do we look at logs?**
 
 ## 2022-05-20
 - [[2022-05-20]]
