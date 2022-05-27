@@ -18,7 +18,10 @@
         - [[flancian]]
             - updates on ongoing work/learning
                 - did admin task for user who wanted to reactive account
-                - 
+                    - [[akshay]] did you document?
+                    - **[[flancian]] not in git.coop, will do that next :)**
+                - learning containers, got a container up nicely yesterday
+                - will keep poking at our setup and trying to understand the ansible recipes
         - stuff we could do next
             - **[[akshay mankar]] file bug in mastodon bug tracker for extra fields in the mastodon sign up form**
                 - how do we handle user data in the long term? user data handling policy, etc.
@@ -30,6 +33,9 @@
             - [[akshay]] the idea here would be to send a PR to upstream instead of forking/applying our own path.
             - **[[flancian]] this seems to raise the priority of updating the instance to latest mastodon**
     - [[later]]
+        - media issues?
+            - one user reported them
+            - 
 
 ## 2022-05-20
 - [[2022-05-20]]
