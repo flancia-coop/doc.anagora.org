@@ -37,7 +37,8 @@
             - one user reported them
             - [[akshay]] tusky sometimes show images as attachments
             - [[flancian]] get 500s relatively often when trying to upload
-        - **how do we look at logs?**
+            - **[[akshay]] images go to [[s3]] in [[digital ocean]]**
+            - **how do we look at logs?**
         - [[backups]] and [[restore]]
             - related to [[data management]] as well as we want to be careful/responsible with our user's data
             - where can we put these backups in? how do we extend the list of acceptable servers?
