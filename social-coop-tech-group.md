@@ -38,7 +38,10 @@
             - [[akshay]] tusky sometimes show images as attachments
             - [[flancian]] get 500s relatively often when trying to upload
         - **how do we look at logs?**
-        - [[backups]]
+        - [[backups]] and [[restore]]
+            - related to [[data management]] as well as we want to be careful/responsible with our user's data
+            - where can we put these backups in? how do we extend the list of acceptable servers?
+            - currently backups go to a [[s3]], but where to restore?
 
 ## 2022-05-20
 - [[2022-05-20]]
