@@ -8,11 +8,15 @@
         - don't work on Fridays, and yesterday was a holiday
         - [[wire swiss gmbh]]
         - [[mls]]
+            - open standard
+            - wire's implementation is based on [[haskell]]
     - [[flancian]]
         - working for Google, [[meet]]
     - [[flancian]] wdyt about [[matrix]]?
     - [[agenda]]
-        - updates
+        - [[flancian]]
+            - updates on ongoing work/learning
+        - 
     - [[later]]
 
 ## 2022-05-20
