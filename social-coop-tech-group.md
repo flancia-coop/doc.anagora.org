@@ -25,6 +25,8 @@
                     - [[flancian]] we might have this -- need to check containers and docs
                     - if not we should create it :)
                 - mastodon already probably supports a good way to store information you got in the signup request, we could adapt it -- perhaps encode
+            - [[akshay]] the idea here would be to send a PR to upstream instead of forking/applying our own path.
+            - 
     - [[later]]
 
 ## 2022-05-20
