@@ -42,6 +42,10 @@
             - related to [[data management]] as well as we want to be careful/responsible with our user's data
             - where can we put these backups in? how do we extend the list of acceptable servers?
             - currently backups go to a [[s3]], but where to restore?
+            - **how to make sure we don't mess up with the fediverse if we test restores?**
+            - also related to the issue of [[failover]] in mastodon -- how is it supposed to work?
+                - [[akshay]] you fail over the database, then frontends can all use the new primary
+                - you need to solve b
 
 ## 2022-05-20
 - [[2022-05-20]]
