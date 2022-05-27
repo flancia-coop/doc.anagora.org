@@ -10,6 +10,7 @@
         - [[mls]]
             - open standard
             - wire's implementation is based on [[haskell]]
+            - tree based optimization to group encryption
     - [[flancian]]
         - working for Google, [[meet]]
     - [[flancian]] wdyt about [[matrix]]?
