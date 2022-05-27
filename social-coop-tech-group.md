@@ -18,7 +18,9 @@
         - [[flancian]]
             - updates on ongoing work/learning
         - stuff we could do next
-            - [[akshay mankar]] file bug in mastodon bug tracker for 
+            - [[akshay mankar]] file bug in mastodon bug tracker for extra fields in the mastodon sign up form
+                - how do we handle user data in the long term? user data handling policy, etc.
+                - started writing the issue and 
     - [[later]]
 
 ## 2022-05-20
