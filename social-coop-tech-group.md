@@ -17,7 +17,8 @@
     - [[agenda]]
         - [[flancian]]
             - updates on ongoing work/learning
-        - 
+        - stuff we could do next
+            - [[akshay mankar]] file bug in mastodon bug tracker for 
     - [[later]]
 
 ## 2022-05-20
