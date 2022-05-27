@@ -17,8 +17,10 @@
     - [[agenda]]
         - [[flancian]]
             - updates on ongoing work/learning
+                - did admin task for user who wanted to reactive account
+                - 
         - stuff we could do next
-            - [[akshay mankar]] file bug in mastodon bug tracker for extra fields in the mastodon sign up form
+            - **[[akshay mankar]] file bug in mastodon bug tracker for extra fields in the mastodon sign up form**
                 - how do we handle user data in the long term? user data handling policy, etc.
                 - started writing the issue but then stopped to better understand how the solution would look like
                 - perhaps we should have an instance to experiment with
@@ -26,7 +28,7 @@
                     - if not we should create it :)
                 - mastodon already probably supports a good way to store information you got in the signup request, we could adapt it -- perhaps encode
             - [[akshay]] the idea here would be to send a PR to upstream instead of forking/applying our own path.
-            - 
+            - **[[flancian]] this seems to raise the priority of updating the instance to latest mastodon**
     - [[later]]
 
 ## 2022-05-20
