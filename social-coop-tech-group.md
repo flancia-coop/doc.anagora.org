@@ -50,6 +50,8 @@
     - [[akshay]] not attending the next one
         - attending [[zurihack]]!
         - let's meet!
+    - [[flancian]] sent update in chat room: ![](https://doc.anagora.org/uploads/upload_ad643dbf540e732ff8232559bb9973dd.png)
+
 
 ## 2022-05-20
 - [[2022-05-20]]
