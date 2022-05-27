@@ -45,7 +45,7 @@
             - **how to make sure we don't mess up with the fediverse if we test restores?**
             - also related to the issue of [[failover]] in mastodon -- how is it supposed to work?
                 - [[akshay]] you fail over the database, then frontends can all use the new primary
-                - you need to solve b
+                - you need to solve balancing for the frontend or manually fail over that as well
 
 ## 2022-05-20
 - [[2022-05-20]]
