@@ -5,7 +5,9 @@
   - attending: [[giacomo sansoni]] [[flancian]] [[akshay mankar]]
   - [[akshay]]
       - long holiday in Berlin, very nice!
-      - don't work
+      - don't work on Fridays, and yesterday was a holiday
+      - [[wire swiss gmbh]]
+      - [[mls]]
   - [[agenda]]
       - updates
   - [[later]]
