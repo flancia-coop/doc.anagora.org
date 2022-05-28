@@ -20,6 +20,8 @@
     - [[carbon sequestration]]
     - [[rhizome]]
         - [[deleuze and guattari]]
+            - [[trees]] and [[consciousness]]
+            
 
 # #push [[flancia-meet-2022-05-14]]
 - attending: [[vera]] [[bouncepaw]] [[flancian]]
