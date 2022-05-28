@@ -21,7 +21,7 @@
     - [[rhizome]]
         - [[deleuze and guattari]]
             - [[trees]] and [[consciousness]]
-            - videos of plants reacting to injury
+            - videos of plants reacting to injury: https://www.youtube.com/watch?v=LeLSyU_iI9o
 
 # #push [[flancia-meet-2022-05-14]]
 - attending: [[vera]] [[bouncepaw]] [[flancian]]
