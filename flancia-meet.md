@@ -24,6 +24,10 @@
             - videos of plants reacting to injury: https://www.youtube.com/watch?v=LeLSyU_iI9o
         - [[santiago theory]]
             - [[autopoiesis]]
+    - [[polis]]
+        - [[federation]]
+        - [[murray bookchin]]
+        - [[flancia]]
 
 # #push [[flancia-meet-2022-05-14]]
 - attending: [[vera]] [[bouncepaw]] [[flancian]]
