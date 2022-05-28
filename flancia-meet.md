@@ -28,6 +28,8 @@
         - [[federation]]
         - [[murray bookchin]]
         - [[flancia]]
+        - [[astropolis]]
+            - [[arcology]]
 
 # #push [[flancia-meet-2022-05-14]]
 - attending: [[vera]] [[bouncepaw]] [[flancian]]
