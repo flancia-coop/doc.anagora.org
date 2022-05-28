@@ -12,6 +12,9 @@
 - [[socialized healthcare]]
     - [[state of oregon]]
     - visiting [[portland]] around 24 - 27 June
+    - before that in [[north carolina]] and [[seattle]]
+    - [[vera]] used to live in [[south carolina]]
+        - [[atlanta]] is pretty progressive
 
 # #push [[flancia-meet-2022-05-14]]
 - attending: [[vera]] [[bouncepaw]] [[flancian]]
