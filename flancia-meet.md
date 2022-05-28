@@ -15,6 +15,11 @@
     - before that in [[north carolina]] and [[seattle]]
     - [[vera]] used to live in [[south carolina]]
         - [[atlanta]] is pretty progressive
+- [[soil]]
+    - [[permaculture]]
+    - [[carbon sequestration]]
+    - [[rhizome]]
+        - [[deleuze and guattari]]
 
 # #push [[flancia-meet-2022-05-14]]
 - attending: [[vera]] [[bouncepaw]] [[flancian]]
