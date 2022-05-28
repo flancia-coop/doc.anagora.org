@@ -7,7 +7,10 @@
 - [[vera]]
     - attended [[drum and bass]] show
 - [[flancian]] 
-    - switched 
+    - switched to [[wiki vim]]
+    - starting therapy on Tuesday
+- [[socialized healthcare]]
+    - [[state of oregon]]
 
 # #push [[flancia-meet-2022-05-14]]
 - attending: [[vera]] [[bouncepaw]] [[flancian]]
