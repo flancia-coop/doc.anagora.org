@@ -3,6 +3,11 @@
 - This is where we could have community maintained notes :)
 
 # #push [[flancia-meet-2022-05-14]]
+- attending: [[vera]] [[flancian]]
+- [[vera]]
+    - attended [[drum and bass]] show
+    -  
+# #push [[flancia-meet-2022-05-14]]
 - attending: [[vera]] [[bouncepaw]] [[flancian]]
 -  [[vera]]
     - [[webcrate]] [[deta]]
