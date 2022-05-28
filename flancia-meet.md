@@ -11,6 +11,7 @@
     - starting therapy on Tuesday
 - [[socialized healthcare]]
     - [[state of oregon]]
+    - visiting [[portland]]
 
 # #push [[flancia-meet-2022-05-14]]
 - attending: [[vera]] [[bouncepaw]] [[flancian]]
