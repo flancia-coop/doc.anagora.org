@@ -6,7 +6,9 @@
 - attending: [[vera]] [[flancian]]
 - [[vera]]
     - attended [[drum and bass]] show
-    -  
+- [[flancian]] 
+    - switched 
+
 # #push [[flancia-meet-2022-05-14]]
 - attending: [[vera]] [[bouncepaw]] [[flancian]]
 -  [[vera]]
