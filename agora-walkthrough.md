@@ -10,6 +10,7 @@
                 - [[agora bot]]
                     - more platforms, perhaps via moa? or sharing code
             - [[repositories]]
+                - [[go/agora]]
                 - [[go/agora bridge]]
-                - [[go/]]
+                - [[go/agora server]]
     
