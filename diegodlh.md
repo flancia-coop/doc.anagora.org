@@ -20,3 +20,6 @@
     - "como [[kaleidoscopio personal]]"
     - [[pull]] and [[push]]
     - [[peter hagen]]
+- [[web annotations]]
+    - [[lindy learn]]
+    - on the difficulty of taking [[public notes]] or [[public annotations]]
