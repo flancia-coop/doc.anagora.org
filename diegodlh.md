@@ -17,4 +17,4 @@
     - eventual consistency/convergence versus organized/planned taxonomies
     - [[wikidata]] approach
 - [[agora]]
-    - como [[kaleidoscopio personal]]
+    - "como [[kaleidoscopio personal]]"
