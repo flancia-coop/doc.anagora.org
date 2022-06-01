@@ -4,4 +4,4 @@
     - how it works
     - what work for a coop feels like
     - [[revolution]] :)
-        - [[nathan schneider]]
+    - [[nathan schneider]]
