@@ -14,4 +14,5 @@
     - Used [[foam]] before
         - [[foam lite]] also exists
     - Eduardo uses [[logseq]], [[wiki vim]]
-    
+    - eventual consistency/convergence versus organized/planned taxonomies
+    - [[wikidata]] approach
