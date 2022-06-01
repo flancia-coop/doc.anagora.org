@@ -3,8 +3,12 @@
 - [[social coop]]
     - how it works
     - what work for a coop feels like
-    - [[revolution]] :)
     - [[working groups]] 
         - [[nathan schneider]] is part of it
+- [[revolution]] :)
     - [[soviet revolution]]
     - [[china revolution]]
+        - [[china a century of revolution]]
+- [[note taking]]
+    - Diego uses [[athens]]
+    
