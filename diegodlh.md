@@ -18,3 +18,5 @@
     - [[wikidata]] approach
 - [[agora]]
     - "como [[kaleidoscopio personal]]"
+    - [[pull]] and [[push]]
+    - [[peter hagen]]
