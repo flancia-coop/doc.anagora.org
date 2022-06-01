@@ -4,4 +4,6 @@
     - how it works
     - what work for a coop feels like
     - [[revolution]] :)
-    - [[nathan schneider]]
+    - [[working groups]] 
+        - [[nathan schneider]] is part of it
+    
