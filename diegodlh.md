@@ -23,3 +23,7 @@
 - [[web annotations]]
     - [[lindy learn]]
     - on the difficulty of taking [[public notes]] or [[public annotations]]
+    - [[chilling effects]]
+    - on self-criticism vs the criticism of others
+    - [[safe spaces]]
+    -
