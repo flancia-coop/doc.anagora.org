@@ -11,4 +11,7 @@
         - [[china a century of revolution]]
 - [[note taking]]
     - Diego uses [[athens]]
+    - Used [[foam]] before
+        - [[foam lite]] also exists
+    - Eduardo uses [[logseq]], [[wiki vim]]
     
