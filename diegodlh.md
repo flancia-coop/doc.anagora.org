@@ -6,4 +6,5 @@
     - [[revolution]] :)
     - [[working groups]] 
         - [[nathan schneider]] is part of it
-    
+    - [[soviet revolution]]
+    - [[china revolution]]
