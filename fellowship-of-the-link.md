@@ -52,7 +52,8 @@
             - how can we take all these tools and build an architecture that supports progressive enhancement?
             - we start with plain text as the base, then you can add things like markdown/html, then you add photos/media
         - [[flancian]] problems and opportunities:
-            - lossiness as you interop through plains
+            - exploring hub architecture vs full graph integration
+            - lossiness as you interop through tools, playns
             - complexity of integrations
                 - [[chris aldrich]] pairwise compatibility is a nightmare
         - [[translation as a service]]
@@ -85,7 +86,6 @@
         - [[delicious]]
             - #c19 == [[19th century]]
         - [[technorati]]
-- [[flancian]] exploring hub architecture vs full graph integration
 - [[lists]] we could assemble:
     - people in this space
         - the above
