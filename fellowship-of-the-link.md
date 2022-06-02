@@ -79,6 +79,9 @@
         - [[indieweb]] has examples of this working
             - [[acid test]] of interoperability
             - [[swat0]] https://www.w3.org/2005/Incubator/federatedsocialweb/wiki/SWAT0
+        - search engine for tagged/linked trusted content
+            - http://en.wikipedia.org/wiki/Commonplace_book
+            - intimacy gradient
 - [[flancian]] exploring hub architecture vs full graph integration
 - [[lists]] we could assemble:
     - people in this space
