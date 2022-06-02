@@ -51,7 +51,9 @@
             - https://en.wikipedia.org/wiki/Progressive_enhancement
             - how can we take all these tools and build an architecture that supports progressive enhancement?
             - we start with plain text as the base, then you can add things like markdown/html, then you add photos/media
-        - [[flancian]] 
+        - [[flancian]] problems and opportunities:
+            - lossiness as you interop through plains
+            - complexity of integrations
 - [[fellowship of the link]] as it relates to other projects
 - [[flancian]] exploring hub architecture vs full graph integration
 - 
