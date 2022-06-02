@@ -62,6 +62,7 @@
         - [[mapping tools for thinking]] in [[jerry's brain]]
         - also an amazing list of people
         - book: [[the extended mind]]
+    - interest in the [[crystallization]] of what we know together
 - [[fellowship of the link]] as it relates to other projects
 - [[flancian]] exploring hub architecture vs full graph integration
 - 
