@@ -82,6 +82,8 @@
         - search engine for tagged/linked trusted content
             - http://en.wikipedia.org/wiki/Commonplace_book
             - intimacy gradient
+        - [[delicious]]
+            - #c19 == [[19th century]]
 - [[flancian]] exploring hub architecture vs full graph integration
 - [[lists]] we could assemble:
     - people in this space
@@ -89,5 +91,6 @@
     - recurrent calls in this space
         - https://lu.ma/toolsforthoughtrocks
     - possible [[lingua francas]]
+- [[chris aldrich]] "The world lost so much because Vannevar Bush didn't use the word commonplace book in his article As We May Think."
 - https://bra.in/3vGWLa
 - https://bra.in/7v2NRe
