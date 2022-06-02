@@ -7,7 +7,7 @@
 - Relationships locally and globally
 - Jerry: [[open global mind]] meeting just before
     - Send email to sociate@gmail.com to sign up :)
-- ([[chris aldrich]] joined)
+- ([[chris aldrich]] joined, introductions)
     - [[jerry michalski]]
         - [[the brain]]
         - [[chris]] any shares in the company?
@@ -15,5 +15,8 @@
         - do you have backups?
         - occasionally :) but the format is a big bag of [[json]] objects, not bery interoperable
             - wishlist: [[open global mind]] platform instead
+    - [[diego de la hera]]
+        - hypothes.is user, contributor as the maintainer of the unofficial extension for firefox; working with [[wikimedia foundation]]:w
+        - met Chris through hypothes.is
 - [[fellowship of the link]]
 - 
