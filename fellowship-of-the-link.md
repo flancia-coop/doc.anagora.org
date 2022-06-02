@@ -7,5 +7,13 @@
 - Relationships locally and globally
 - Jerry: [[open global mind]] meeting just before
     - Send email to sociate@gmail.com to sign up :)
+- ([[chris aldrich]] joined)
+    - [[jerry michalski]]
+        - [[the brain]]
+        - [[chris]] any shares in the company?
+        - not anymore
+        - do you have backups?
+        - occasionally :) but the format is a big bag of [[json]] objects, not bery interoperable
+            - wishlist: [[open global mind]] platform instead
 - [[fellowship of the link]]
 - 
