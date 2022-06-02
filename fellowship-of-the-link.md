@@ -35,5 +35,6 @@
         - bought https://www.playnz.dev
     - [[kumu]] == https://kumu.io
         - is it open source?
+    - [[jupyter notebooks]] are an inspiration
 - [[fellowship of the link]] as it relates to other projects
 - 
