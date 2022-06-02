@@ -68,8 +68,6 @@
         - [[diego de la hera]] the relationship between these efforts and [[wikimedia]] projects
             - [[intermingle]] / preservation of voices
             - [[ward cunningham]]! [[fedwiki]]
-            - https://bra.in/3vGWLa
-            - https://bra.in/7v2NRe
             - Ward's calls
         - [[chris aldrich]] we should invite [[mark bernstein]], [[tinderbox]]
 - [[fellowship of the link]] as it relates to other projects
@@ -78,6 +76,9 @@
     - [[web mentions]]
         - http://en.wikipedia.org/wiki/Webmention
         - https://brid.gy/
+        - [[indieweb]] has examples of this working
+            - [[acid test]] of interoperability
+            - https://www.w3.org/2005/Incubator/federatedsocialweb/wiki/SWAT0
 - [[flancian]] exploring hub architecture vs full graph integration
 - [[lists]] we could assemble:
     - people in this space
@@ -85,3 +86,5 @@
     - recurrent calls in this space
         - https://lu.ma/toolsforthoughtrocks
     - possible [[lingua francas]]
+- https://bra.in/3vGWLa
+- https://bra.in/7v2NRe
