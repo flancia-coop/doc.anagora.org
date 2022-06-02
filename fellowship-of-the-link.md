@@ -45,8 +45,13 @@
         - wiki like and otherwise
         - ...but as long as these platforms provide this data in a documented way, do we need a central tool? wouldn't collaboration emerge even without a central tool?
         - [[jerry]] +1 -- the big fungus is a metaphor for the result of this collaboration. But [[playnz]] might be an [[mvp]]/[[demo]] or just an experiment/playground for interoperability.
-        - [[flancian]] exploring hub architecture vs full graph integration
         - are these tools perhaps already playns?
             - they might be, yes.
+        - [[chris aldrich]] [[progressive enhancement]] is key
+            - https://en.wikipedia.org/wiki/Progressive_enhancement
+            - how can we take all these tools and build an architecture that supports progressive enhancement?
+            - we start with plain text as the base, then you can add things like markdown/html, then you add photos/media
+        - [[flancian]] 
 - [[fellowship of the link]] as it relates to other projects
+- [[flancian]] exploring hub architecture vs full graph integration
 - 
