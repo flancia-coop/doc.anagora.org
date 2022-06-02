@@ -44,6 +44,8 @@
         - closed and open
         - wiki like and otherwise
         - ...but as long as these platforms provide this data in a documented way, do we need a central tool? wouldn't collaboration emerge even without a central tool?
-        - [[jerry]]
+        - [[jerry]] +1 -- the big fungus is a metaphor for the result of this collaboration. But [[playnz]] might be an [[mvp]]/[[demo]] or just an experiment/playground for interoperability.
+        - [[flancian]] exploring hub architecture vs full graph integration
+    - 
 - [[fellowship of the link]] as it relates to other projects
 - 
