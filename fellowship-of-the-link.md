@@ -78,3 +78,6 @@
     - people in this space
     - projects in this space (knowledge tools)
     - recurrent calls in this space
+        - https://lu.ma/toolsforthoughtrocks
+    - possible [[lingua francas]]
+        - [[html is the lingua franca of our time]]
