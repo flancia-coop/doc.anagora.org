@@ -6,4 +6,4 @@
     - Eduardo de Buenos Aires, ahora en Suiza
 - Relationships locally and globally
 - Jerry: [[open global mind]] meeting just before
-    - Send email to sociate@gmail.com
+    - Send email to sociate@gmail.com to sign up :)
