@@ -63,6 +63,8 @@
         - also an amazing list of people
         - book: [[the extended mind]]
     - interest in the [[crystallization]] of what we know together
+        - contributing to the same lists -> [[collective action]]
+        - [[diego de la hera]] the relationship between these efforts and [[wikimedia]] 
 - [[fellowship of the link]] as it relates to other projects
 - [[flancian]] exploring hub architecture vs full graph integration
 - 
