@@ -18,5 +18,11 @@
     - [[diego de la hera]]
         - hypothes.is user, contributor as the maintainer of the unofficial extension for firefox; working with [[wikimedia foundation]]:w
         - met Chris through hypothes.is
+    - [[chris aldrich]]
+        - background: biomedical and electrical engineer, been on the web since the early 90s
+        - [[indieweb]] / https://indieweb.org
+        - [[open web backup]], strong belief in owning your own domain, your own data, your own identity
+        - done work on genetics, but germane: spent a lot of time in the [[entertainment industry]] as it overlaps with the open web
+        - massive amount of data 
 - [[fellowship of the link]]
 - 
