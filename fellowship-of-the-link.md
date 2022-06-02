@@ -36,5 +36,10 @@
     - [[kumu]] == https://kumu.io
         - is it open source?
     - [[jupyter notebooks]] are an inspiration
+    - https://thebigfungus.org
+        - [[leaf cutting ants]]
+        - ([[diego de la hera]] worked with them)
+        - [[symbiotic relationship]] with the fungus
+        - 
 - [[fellowship of the link]] as it relates to other projects
 - 
