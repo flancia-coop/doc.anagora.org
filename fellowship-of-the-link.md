@@ -73,6 +73,11 @@
             - Ward's calls
         - [[chris aldrich]] we should invite [[mark bernstein]], [[tinderbox]]
 - [[fellowship of the link]] as it relates to other projects
+- [[diego de la hera]] isn't the web as a whole what we need? :)
+    - [[html is the lingua franca of our time]]
+    - [[web mentions]]
+        - http://en.wikipedia.org/wiki/Webmention
+        - https://brid.gy/
 - [[flancian]] exploring hub architecture vs full graph integration
 - [[lists]] we could assemble:
     - people in this space
@@ -80,4 +85,3 @@
     - recurrent calls in this space
         - https://lu.ma/toolsforthoughtrocks
     - possible [[lingua francas]]
-        - [[html is the lingua franca of our time]]
