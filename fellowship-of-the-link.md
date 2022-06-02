@@ -31,6 +31,9 @@
     - sometimes you change tools as you shift what you need to do (they are good at different modes of thinking)
     - [[planes]]
         - [[multi plane camera]], [[disney history]]
-        - similar to layers in photoshop/gimp
+            - similar to layers in photoshop/gimp
+        - bought https://www.playnz.dev
+    - [[kumu]] == https://kumu.io
+        - is it open source?
 - [[fellowship of the link]] as it relates to other projects
 - 
