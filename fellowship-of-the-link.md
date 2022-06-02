@@ -91,13 +91,14 @@
         - the above
         - [[tantek Çelik]]
         - "how can we build this with as little technology as possible"
-        - how can we take open tools like [[logseq]], or semi-open like [[obsidian]], and create a reusable store
-        - [[blot]] == https://blot.im
     - projects in this space (knowledge tools)
     - recurrent calls in this space
         - https://lu.ma/toolsforthoughtrocks
     - possible [[lingua francas]]
 - [[chris aldrich]] "The world lost so much because Vannevar Bush didn't use the word commonplace book in his article As We May Think."
+    - how can we take open tools like [[logseq]], or semi-open like [[obsidian]], and create a reusable store
+    - [[blot]] == https://blot.im
+    - [[granary]] == https://granary.io/
 
 - https://bra.in/3vGWLa
 - https://bra.in/7v2NRe
