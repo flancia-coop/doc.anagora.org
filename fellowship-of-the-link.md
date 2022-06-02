@@ -26,6 +26,11 @@
         - massive amount of data
         - history, culture as intertwined with knowledge tools
         - current focus on wikis and note taking tools
-- [[jerry michalski]] wishful think
+- [[jerry michalski]] wishful thinking for a design in this space
+    - it should allow all users to view data through their chosen tools
+    - sometimes you change tools as you shift what you need to do (they are good at different modes of thinking)
+    - [[planes]]
+        - [[multi plane camera]], [[disney history]]
+        - similar to layers in photoshop/gimp
 - [[fellowship of the link]] as it relates to other projects
 - 
