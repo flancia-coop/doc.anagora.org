@@ -99,6 +99,5 @@
     - how can we take open tools like [[logseq]], or semi-open like [[obsidian]], and create a reusable store
     - [[blot]] == https://blot.im
     - [[granary]] == https://granary.io/
-
 - https://bra.in/3vGWLa
 - https://bra.in/7v2NRe
