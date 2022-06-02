@@ -40,6 +40,10 @@
         - [[leaf cutting ants]]
         - ([[diego de la hera]] worked with them)
         - [[symbiotic relationship]] with the fungus
-        - 
+    - [[diego de la hera]] we mentioned a diversity of tools here:
+        - closed and open
+        - wiki like and otherwise
+        - ...but as long as these platforms provide this data in a documented way, do we need a central tool? wouldn't collaboration emerge even without a central tool?
+        - [[jerry]]
 - [[fellowship of the link]] as it relates to other projects
 - 
