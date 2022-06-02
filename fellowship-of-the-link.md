@@ -84,6 +84,7 @@
             - intimacy gradient
         - [[delicious]]
             - #c19 == [[19th century]]
+        - [[technorati]]
 - [[flancian]] exploring hub architecture vs full graph integration
 - [[lists]] we could assemble:
     - people in this space
