@@ -1,5 +1,5 @@
 ## 2022-06-02
-- Attending: [[jerry michalski]], [[diego de la hera]], [[flancian]], ...
+- Attending: [[jerry michalski]], [[diego de la hera]], [[flancian]], [[chris aldrich]]
 - Our personal history
     - Diego en Córdoba
     - Jerry Michalski pasos por sudamérica, ahora en Portland
@@ -7,3 +7,5 @@
 - Relationships locally and globally
 - Jerry: [[open global mind]] meeting just before
     - Send email to sociate@gmail.com to sign up :)
+- [[fellowship of the link]]
+- 
