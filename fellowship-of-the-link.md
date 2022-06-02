@@ -70,6 +70,10 @@
             - [[ward cunningham]]! [[fedwiki]]
             - https://bra.in/3vGWLa
             - https://bra.in/7v2NRe
+            - Ward's calls
+        - https:[[mark bernstein]] [[tinderbox]]
 - [[fellowship of the link]] as it relates to other projects
 - [[flancian]] exploring hub architecture vs full graph integration
-- 
+- [[lists]] we could assemble:
+    - people in this space
+    - projects in this space (knowledge tools)
