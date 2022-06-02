@@ -58,6 +58,7 @@
             - [[pandoc]]
             - [[chris aldrich]] [[paas]] == [[pandoc as a service]]
         - [[markdown as lingua franca]]
+    - [[the extended mind]]
 - [[fellowship of the link]] as it relates to other projects
 - [[flancian]] exploring hub architecture vs full graph integration
 - 
