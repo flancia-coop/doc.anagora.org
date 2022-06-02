@@ -54,6 +54,10 @@
         - [[flancian]] problems and opportunities:
             - lossiness as you interop through plains
             - complexity of integrations
+        - [[translation as a service]]
+            - [[pandoc]]
+            - [[chris aldrich]] [[paas]] == [[pandoc as a service]]
+        - [[markdown as lingua franca]]
 - [[fellowship of the link]] as it relates to other projects
 - [[flancian]] exploring hub architecture vs full graph integration
 - 
