@@ -78,7 +78,7 @@
         - https://brid.gy/
         - [[indieweb]] has examples of this working
             - [[acid test]] of interoperability
-            - https://www.w3.org/2005/Incubator/federatedsocialweb/wiki/SWAT0
+            - [[swat0]] https://www.w3.org/2005/Incubator/federatedsocialweb/wiki/SWAT0
 - [[flancian]] exploring hub architecture vs full graph integration
 - [[lists]] we could assemble:
     - people in this space
