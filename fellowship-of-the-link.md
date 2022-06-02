@@ -92,6 +92,7 @@
         - [[tantek Çelik]]
         - "how can we build this with as little technology as possible"
         - how can we take open tools like [[logseq]], or semi-open like [[obsidian]], and create a reusable store
+        - [[blot]] == https://blot.im
     - projects in this space (knowledge tools)
     - recurrent calls in this space
         - https://lu.ma/toolsforthoughtrocks
