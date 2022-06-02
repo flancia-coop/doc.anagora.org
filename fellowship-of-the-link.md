@@ -54,6 +54,7 @@
         - [[flancian]] problems and opportunities:
             - lossiness as you interop through plains
             - complexity of integrations
+                - [[chris aldrich]] pairwise compatibility is a nightmare
         - [[translation as a service]]
             - [[pandoc]]
             - [[chris aldrich]] [[paas]] == [[pandoc as a service]]
@@ -67,6 +68,8 @@
         - [[diego de la hera]] the relationship between these efforts and [[wikimedia]] projects
             - [[intermingle]] / preservation of voices
             - [[ward cunningham]]! [[fedwiki]]
+            - https://bra.in/3vGWLa
+            - https://bra.in/7v2NRe
 - [[fellowship of the link]] as it relates to other projects
 - [[flancian]] exploring hub architecture vs full graph integration
 - 
