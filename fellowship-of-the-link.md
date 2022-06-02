@@ -64,7 +64,9 @@
         - book: [[the extended mind]]
     - interest in the [[crystallization]] of what we know together
         - contributing to the same lists -> [[collective action]]
-        - [[diego de la hera]] the relationship between these efforts and [[wikimedia]] 
+        - [[diego de la hera]] the relationship between these efforts and [[wikimedia]] projects
+            - [[intermingle]] / preservation of voices
+            - [[ward cunningham]]! [[fedwiki]]
 - [[fellowship of the link]] as it relates to other projects
 - [[flancian]] exploring hub architecture vs full graph integration
 - 
