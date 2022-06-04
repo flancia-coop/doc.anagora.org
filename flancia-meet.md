@@ -9,7 +9,7 @@
     - [[venezuelan architecture]]
     - [[work search]] as it interacts with identity
     - how would our [[Wikipedia article]] look like? :)
-    - [[lovecraft]]
+        - [[lovecraft]] wrote [[10000 letters]]
 
 # #push [[flancia-meet-2022-05-28]]
 - attending: [[vera]] [[flancian]]
