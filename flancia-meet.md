@@ -47,8 +47,9 @@
             - 2. async process keeps git repository in that directory up to date
             - 3. async process mirrors git repository to git.anagora.org
             - 4. [[gitea]] elsewhere (podman in hypatia) mirrors git.anagora.org
-        - [[building bridges]]
-        - [[an open letter to an agora]]
+        - [[open letters]]
+            - [[building bridges]]
+            - [[an open letter to an agora]]
 
 # #push [[flancia-meet-2022-05-28]]
 - attending: [[vera]] [[flancian]]
