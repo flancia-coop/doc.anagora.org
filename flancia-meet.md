@@ -4,9 +4,12 @@
 
 # #push [[flancia-meet-2022-06-04]]
 - attending: [[j0lms]] [[flancian]]
-- [[coffee]] in [[venezuela]]
-- [[venezuelan architecture]]
-- [[work search]]
+- [[j0lms]]
+    - [[coffee]] in [[venezuela]]
+    - [[venezuelan architecture]]
+    - [[work search]] as it interacts with identity
+    - how would our [[Wikipedia article]] look like? :)
+    - [[lovecraft]]
 
 # #push [[flancia-meet-2022-05-28]]
 - attending: [[vera]] [[flancian]]
