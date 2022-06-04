@@ -13,10 +13,15 @@
     - "la conclusión lógica del individualismo es el marxismo" -- [[marx]] sobre [[max stirner]]
         - [[individualism]] vs [[socialism]], a fake dichotomy?
         - [[anarcho capitalism]] vs [[anarcho socialism]], something to explore?
-        - [[node club]] 
+        - [[node club]] on [[utopian socialism]] and the above?
 - [[flancian]]
     - I am a bit self promotional
-    - [[node club]]
+    - [[node club]] (as per the above)
+    - for this weekend:
+        - [[add oauth]]
+        - [[opt in writes]]
+        - [[building bridges]]
+        - [[an open letter to an agora]]
 
 # #push [[flancia-meet-2022-05-28]]
 - attending: [[vera]] [[flancian]]
