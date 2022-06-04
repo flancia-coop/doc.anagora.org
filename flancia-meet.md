@@ -40,6 +40,7 @@
                 - [[phoenix wright]]
     - for this weekend:
         - [[add oauth]]
+            - [[j0lms]] un poco de sesgo en contra de autenticación
         - [[opt in writes]]
         - [[building bridges]]
         - [[an open letter to an agora]]
