@@ -14,6 +14,8 @@
         - [[individualism]] vs [[socialism]], a fake dichotomy?
         - [[anarcho capitalism]] vs [[anarcho socialism]], something to explore?
         - [[node club]] on [[utopian socialism]] and the above?
+    - [[j0lms]] background
+        - grew up with
 - [[flancian]]
     - I am a bit self promotional
     - [[node club]] (as per the above)
