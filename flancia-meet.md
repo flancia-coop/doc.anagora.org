@@ -43,6 +43,7 @@
             - [[j0lms]] un poco de sesgo en contra de autenticación, que sólo fuera un link a git fue una atracción
             - [ ] [[flancian]] you are right, thank you! we need to finish the 'add repository' automatic flow first.
         - [[opt in writes]]
+            - 1. write message to file per user ()
         - [[building bridges]]
         - [[an open letter to an agora]]
 
