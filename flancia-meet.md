@@ -40,7 +40,7 @@
                 - [[phoenix wright]]
     - for this weekend:
         - [[add oauth]]
-            - [[j0lms]] un poco de sesgo en contra de autenticación
+            - [[j0lms]] un poco de sesgo en contra de autenticación, que sólo fuera un link a git fue una atracción
         - [[opt in writes]]
         - [[building bridges]]
         - [[an open letter to an agora]]
