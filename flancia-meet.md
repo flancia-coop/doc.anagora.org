@@ -10,9 +10,13 @@
     - [[work search]] as it interacts with identity
     - how would our [[Wikipedia article]] look like? :)
         - [[lovecraft]] wrote [[10000 letters]]
-    - "la conclusión lógica del individualismo es el marxismo" -- 
+    - "la conclusión lógica del individualismo es el marxismo" -- [[marx]] sobre [[max stirner]]
+        - [[individualism]] vs [[socialism]], a fake dichotomy?
+        - [[anarcho capitalism]] vs [[anarcho socialism]], something to explore?
+        - [[node club]] 
 - [[flancian]]
     - I am a bit self promotional
+    - [[node club]]
 
 # #push [[flancia-meet-2022-05-28]]
 - attending: [[vera]] [[flancian]]
