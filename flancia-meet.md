@@ -25,6 +25,7 @@
             - [[j0lms]]
                 - [[laclau]] https://en.wikipedia.org/wiki/Ernesto_Laclau
                     - vs [[zizek]]
+                - [[liberalism]]
     - for this weekend:
         - [[add oauth]]
         - [[opt in writes]]
