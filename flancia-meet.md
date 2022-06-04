@@ -26,6 +26,9 @@
                 - [[laclau]] https://en.wikipedia.org/wiki/Ernesto_Laclau
                     - vs [[zizek]]
                 - [[liberalism]] vs [[totalitarism]]
+                    - controversial argument:
+                        - 1. totalitarianism doesn't exist
+                        - 2. if it existed, tech corporations would be the most successful totalitarian entities in the history of human kind.
     - for this weekend:
         - [[add oauth]]
         - [[opt in writes]]
