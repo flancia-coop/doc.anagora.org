@@ -5,6 +5,7 @@
 # #push [[flancia-meet-2022-06-04]]
 - attending: [[j0lms]] [[flancian]]
 - [[coffee]] in [[venezuela]]
+- [[venezuelan architecture]]
 
 # #push [[flancia-meet-2022-05-28]]
 - attending: [[vera]] [[flancian]]
