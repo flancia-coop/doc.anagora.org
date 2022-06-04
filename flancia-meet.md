@@ -34,6 +34,8 @@
                         - 2. if it existed, tech corporations would be the most successful totalitarian entities in the history of human kind.
                 - #push [[santiago armesilla]] "los anarcocapitalistas son socialistas"
                     - [[diego fusaro]] https://www.youtube.com/watch?v=3v81ee6_I1Q
+                - #push [[hugo chavez]]
+                    - [[norberto ceresole]]
     - for this weekend:
         - [[add oauth]]
         - [[opt in writes]]
