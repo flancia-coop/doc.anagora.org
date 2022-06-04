@@ -20,6 +20,10 @@
         - [[utopian socialism]]
             - [[j0lms]] interesting! to explore: how does this fit into the controversy between [[anarchism]] and [[marxism]]
             - the notion of [[utopia]] is intertwined with the abolition of the [[state]] (we might not be able to abolish the state without going through utopian thinking)
+            - [[flancian]]
+                - [[murray bookchin]]
+            - [[j0lms]]
+                - [[laclau]] https://en.wikipedia.org/wiki/Ernesto_Laclau
     - for this weekend:
         - [[add oauth]]
         - [[opt in writes]]
