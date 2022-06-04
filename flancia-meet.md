@@ -37,6 +37,7 @@
                 - #push [[hugo chavez]]
                     - [[norberto ceresole]], anti semitic
                 - [[enrique krauze]]
+                - [[phoenix wright]]
     - for this weekend:
         - [[add oauth]]
         - [[opt in writes]]
