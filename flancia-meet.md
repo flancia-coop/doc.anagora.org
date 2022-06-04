@@ -9,7 +9,7 @@
     - [[venezuelan architecture]]
     - [[work search]] as it interacts with identity
     - how would our [[Wikipedia article]] look like? :)
-        - [[lovecraft]] wrote [[10000 letters]] (actually 100000!! )
+        - [[lovecraft]] wrote more than [[10000 letters]] 
     - "la conclusión lógica del individualismo es el marxismo"  
      - [[marx]] sobre [[max stirner]]
         - [[individualism]] vs [[socialism]], a fake dichotomy?
