@@ -15,7 +15,8 @@
         - [[anarcho capitalism]] vs [[anarcho socialism]], something to explore?
         - [[node club]] on [[utopian socialism]] and the above?
     - [[j0lms]] background
-        - grew up with
+        - grew up with an anti-marxist skew due to family influences
+        - first read [[marx]] as a kind of anti-bible (hiding), discovered something completely unexpected
 - [[flancian]]
     - I am a bit self promotional
     - [[node club]] (as per the above)
