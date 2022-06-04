@@ -35,7 +35,8 @@
                 - #push [[santiago armesilla]] "los anarcocapitalistas son socialistas"
                     - [[diego fusaro]] https://www.youtube.com/watch?v=3v81ee6_I1Q
                 - #push [[hugo chavez]]
-                    - [[norberto ceresole]]
+                    - [[norberto ceresole]], anti semitic
+                - [[enrique krauze]]
     - for this weekend:
         - [[add oauth]]
         - [[opt in writes]]
