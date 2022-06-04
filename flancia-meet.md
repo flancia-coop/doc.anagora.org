@@ -43,7 +43,10 @@
             - [[j0lms]] un poco de sesgo en contra de autenticación, que sólo fuera un link a git fue una atracción
             - [ ] [[flancian]] you are right, thank you! we need to finish the 'add repository' automatic flow first.
         - [[opt in writes]]
-            - 1. write message to file per user ()
+            - 1. write message to file per user (user == directory)
+            - 2. async process keeps git repository in that directory up to date
+            - 3. async process mirrors git repository to git.anagora.org
+            - 4. [[gitea]] elsewhere (podman in hypatia) mirrors git.anagora.org
         - [[building bridges]]
         - [[an open letter to an agora]]
 
