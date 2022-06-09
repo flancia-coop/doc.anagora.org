@@ -46,6 +46,8 @@
                     - [[stephen toulmin]] -> [[toulmin model of argument]]
                 - [[the big fungus]] == https://thebigfungus.org
                 - interested in the scaffolding, infrastructure to share ideas
+            - [[think camp]] funds startups in this space
+                - "profitable businesses that feed the [[commons]]"
         - read an interesting article today, conservative point of view with good arguments even though some disagreeable premises
             - how do we put this article up to scrutiny and learn from it together?
                 - -> [[web annotations]]?
@@ -59,8 +61,11 @@
         - make the systems be easy to use
         - make something that is as simple to understand as facebook?
         - "the [[stream]] flows by too fast"
-            - 
+            - turning streams into gardens
+            - [[neil]] from the Agora has great writing on streams vs gardens, how they relate to each other - https://doubleloop.net/
 
+- [[john borthwick]] at Betaworks has funding for small projects 
+- Watch parties
 Agenda!
 
     - Timing
