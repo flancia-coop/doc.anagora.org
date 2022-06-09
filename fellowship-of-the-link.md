@@ -41,11 +41,15 @@
                 - 8am pacific, standing call for [[ogm]]
             - [[rel8]]
                 - why is it so hard to share, integrate notes -- build arguments?
-                    - -> [[argument mapping]] ?
+                    - -> [[argument mapping]]?
                 - [[the big fungus]] == https://thebigfungus.org
                 - interested in the scaffolding, infrastructure to share ideas
         - read an interesting article today, conservative point of view with good arguments even though some disagreeable premises
-            - how do we put this article up to scrutiny and learn f
+            - how do we put this article up to scrutiny and learn from it together?
+                - -> [[web annotations]]?
+        - wishlist for [[fotl]]: how do these parts fit together?
+            - how do we make it so that our notes provide maximum utility, spread through the big fungus
+    - 
 
 Agenda!
 
