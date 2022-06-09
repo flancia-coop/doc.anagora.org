@@ -60,6 +60,7 @@
         - make it all work together
         - make the systems be easy to use
         - make something that is as simple to understand as facebook?
+        - I'd like to see [[commonplace books]] that can "talk" to each other.
         - "the [[stream]] flows by too fast"
             - turning streams into gardens
             - [[neil]] from the Agora has great writing on streams vs gardens, how they relate to each other - https://doubleloop.net/
@@ -69,8 +70,15 @@
     - [[connection series]]
         - watch these, take notes/diagrams and share/interop
         - -> [[books, paintings, movies, ideas that shaped many people's lives]]
+            - https://bra.in/5pxdW6
     - [[dan whaley]] youtube annotations are a side project / hobby
         - [[docdrop]] https://docdrop.org/
+- [[diego de la hera]]
+    - web annotations were mentioned; thought of two connections
+        - [[peter hagen]] -> [[lindylearn]] https://lindylearn.io/
+            - social platform where you would find what other people are annotating and join the conversation
+        - provides a discovery l
+        - [[worldbrain]], [[memex]]?
 - Timing
 -
 
