@@ -58,6 +58,8 @@
         - make it all work together
         - make the systems be easy to use
         - make something that is as simple to understand as facebook?
+        - "the [[stream]] flows by too fast"
+            - 
 
 Agenda!
 
