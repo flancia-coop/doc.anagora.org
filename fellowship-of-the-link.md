@@ -29,7 +29,10 @@
             - [[chris aldrich]] you need either a lot of time or people motivated because they're building business
             - [[peter kaminski]] introduced [[jerry michalski]] to [[obsidian]]
             - on straightforward vs powerful tools
-            - []]]
+            - [[diego de la hera]] on the power of forks
+                - e.g. [[chris aldrich]]'s setup is something we could fork to bootstrap a new user's environment
+                - people have copy/pasted Chris's website already, full pages at a time :)
+            - 
         [[flancian]] [[map of the fediverse]]
 - Timing
 -
