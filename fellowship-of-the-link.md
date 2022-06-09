@@ -42,6 +42,8 @@
             - [[rel8]]
                 - why is it so hard to share, integrate notes -- build arguments?
                     - -> [[argument mapping]]?
+                    - [[argumentation theory]]
+                    - [[stephen toulmin]] -> [[toulmin model of argument]]
                 - [[the big fungus]] == https://thebigfungus.org
                 - interested in the scaffolding, infrastructure to share ideas
         - read an interesting article today, conservative point of view with good arguments even though some disagreeable premises
