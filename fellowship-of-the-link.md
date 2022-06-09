@@ -18,9 +18,15 @@
         - got stuck in [[choosing an instance]]
             - [[diego de la hera]] mastodon.social could be seen as the default
             - (instance delegation could be interesting, web of trust like)
-        - [[diego de la hera]] lack of defaults as a hindrance to adoption her
-        - [[jerry michalski]] [[barry schwartz]]
+        - [[diego de la hera]] lack of defaults as a hindrance to adoption here, in the indieweb as well
+        - [[jerry michalski]] [[barry schwartz]] 
+            - [[the tyranny of choice]]
+            - [[schelling point]]
+        - [[chris aldrich]] with more choice you usually get increasing complexity
+            - you are given so much choice it's almost too much (in the indieweb)
+            - 9/10 
 - Timing
+-
 
 
 
