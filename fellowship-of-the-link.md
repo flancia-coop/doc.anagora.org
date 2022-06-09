@@ -18,14 +18,18 @@
         - got stuck in [[choosing an instance]]
             - [[diego de la hera]] mastodon.social could be seen as the default
             - (instance delegation could be interesting, web of trust like)
+            - http://www.unmung.com/mastoview is a tool for helping to choose Mastondon instances
         - [[diego de la hera]] lack of defaults as a hindrance to adoption here, in the indieweb as well
-        - [[jerry michalski]] [[barry schwartz]] 
+        - [[jerry michalski]] [[barry schwartz]] https://bra.in/4jXVP2
             - [[the tyranny of choice]]
             - [[schelling point]]
         - [[chris aldrich]] with more choice you usually get increasing complexity
             - you are given so much choice it's almost too much (in the indieweb)
             - [[jerry michalski]] templates, walkthroughs add a lot of value
             - [[chris aldrich]] you need either a lot of time or people motivated because they're building business
+            - [[peter kaminski]] introduced [[jerry michalski]] to [[obsidian]]
+            - on straightforward vs powerful tools
+            - []]]
         [[flancian]] [[map of the fediverse]]
 - Timing
 -
