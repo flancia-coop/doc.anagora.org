@@ -50,10 +50,14 @@
             - how do we put this article up to scrutiny and learn from it together?
                 - -> [[web annotations]]?
                 - [[gyuri lajos]]
-                    - [[jerry michalski]] let's have a group sync with Gyuri?
+                    - **[[jerry michalski]] let's have a group sync with Gyuri?**
+                    - [[chris aldrich]] trails are related to [[vannevar bush]]'s
         - wishlist for [[fotl]]: how do these parts fit together?
             - how do we make it so that our notes provide maximum utility, spread through the big fungus
-    - 
+    - [[chris aldrich]] would like to focus on how to
+        - make it all work together
+        - make the systems be easy to use
+        - make something that is as simple to understand as facebook?
 
 Agenda!
 
