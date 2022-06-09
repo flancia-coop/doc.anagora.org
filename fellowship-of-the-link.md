@@ -2,6 +2,7 @@
 - Attending: [[jerry michalski]], [[diego de la hera]], [[flancian]], [[chris aldrich]]
 - Inviting others
     - [[flancian]] 
+- Timing
 
 ## 2022-06-02
 - Attending: [[jerry michalski]], [[diego de la hera]], [[flancian]], [[chris aldrich]]
