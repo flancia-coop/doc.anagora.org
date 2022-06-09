@@ -1,8 +1,14 @@
 ## 2022-06-09
 - Attending: [[jerry michalski]], [[diego de la hera]], [[flancian]], [[chris aldrich]]
 - Inviting others
-    - [[flancian]] 
+    - [[flancian]] been inviting people already, but would be like to use some kind of policy?
+    - [[jerry michalski]] suggest to use the Mattermost to coordinate; use this space to consider together our goals and attract others like this
+    - [[mattermost]] https://chat.collectivesensecommons.org/agora/tips
 - Timing
+
+
+Mattermost space for the conversation as well. Link?
+
 
 ## 2022-06-02
 - Attending: [[jerry michalski]], [[diego de la hera]], [[flancian]], [[chris aldrich]]
