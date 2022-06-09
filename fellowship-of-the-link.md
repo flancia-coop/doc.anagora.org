@@ -64,11 +64,14 @@
             - turning streams into gardens
             - [[neil]] from the Agora has great writing on streams vs gardens, how they relate to each other - https://doubleloop.net/
 
-- [[john borthwick]] at Betaworks has funding for small projects 
+- [[john borthwick]] at Betaworks has funding for small projects [[think camp]]
 - Watch parties
-Agenda!
-
-    - Timing
+    - [[connection series]]
+        - watch 
+    - [[dan whaley]] youtube annotations are a side project / hobby
+        - [[docdrop]] https://docdrop.org/
+        
+- Timing
 -
 
 
