@@ -1,3 +1,8 @@
+## 2022-06-09
+- Attending: [[jerry michalski]], [[diego de la hera]], [[flancian]], [[chris aldrich]]
+- Inviting others
+    - [[flancian]] 
+
 ## 2022-06-02
 - Attending: [[jerry michalski]], [[diego de la hera]], [[flancian]], [[chris aldrich]]
 - Our personal history
