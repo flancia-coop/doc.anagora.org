@@ -32,9 +32,18 @@
             - [[diego de la hera]] on the power of forks
                 - e.g. [[chris aldrich]]'s setup is something we could fork to bootstrap a new user's environment
                 - people have copy/pasted Chris's website already, full pages at a time :)
-            - 
-        [[flancian]] [[map of the fediverse]]
-- Timing
+       - [[flancian]] [[map of the fediverse]]
+- longer term goals / brainstorming / dream sharing
+    - [[jerry michalski]]
+        - series of projects revolving around these issues
+            - [[open global mind]], started 2y ago
+                - part of a [[flotilla]] with other organizations
+                - 8am pacific, standing call for [[ogm]]
+            - [[rel8]]
+
+Agenda!
+
+    - Timing
 -
 
 
