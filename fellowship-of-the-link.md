@@ -24,7 +24,9 @@
             - [[schelling point]]
         - [[chris aldrich]] with more choice you usually get increasing complexity
             - you are given so much choice it's almost too much (in the indieweb)
-            - 9/10 
+            - [[jerry michalski]] templates, walkthroughs add a lot of value
+            - [[chris aldrich]] you need either a lot of time or people motivated because they're building business
+        [[flancian]] [[map of the fediverse]]
 - Timing
 -
 
