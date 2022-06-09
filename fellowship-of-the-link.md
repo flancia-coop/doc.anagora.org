@@ -75,9 +75,11 @@
         - [[docdrop]] https://docdrop.org/
 - [[diego de la hera]]
     - web annotations were mentioned; thought of two connections
-        - [[peter hagen]] -> [[lindylearn]] https://lindylearn.io/
+        - [[peter hagen]] -> [[lindylearn]] https://lindylearn.io/ and specifically https://annotations.lindylearn.io/new/
             - social platform where you would find what other people are annotating and join the conversation
-        - provides a discovery l
+        - [[chrome]] is also tackling this
+        - provides a discovery layer for what others are reading and thinking about
+        - it seems like here we want to work more on the level of how to connect different annotation tools at a (federated?) layer
         - [[worldbrain]], [[memex]]?
 - Timing
 -
