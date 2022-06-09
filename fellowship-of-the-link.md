@@ -40,6 +40,12 @@
                 - part of a [[flotilla]] with other organizations
                 - 8am pacific, standing call for [[ogm]]
             - [[rel8]]
+                - why is it so hard to share, integrate notes -- build arguments?
+                    - -> [[argument mapping]] ?
+                - [[the big fungus]] == https://thebigfungus.org
+                - interested in the scaffolding, infrastructure to share ideas
+        - read an interesting article today, conservative point of view with good arguments even though some disagreeable premises
+            - how do we put this article up to scrutiny and learn f
 
 Agenda!
 
