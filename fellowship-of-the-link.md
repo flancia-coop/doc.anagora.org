@@ -10,6 +10,11 @@
 - [[jerry michalski]]
     - [[web]] https://www.fellowshipofthelink.org/
     - who wants admin? :)
+        - 0@flancia.org
+        - delahera@gmail.com
+        - christopherjaldrich@gmail.com
+    - we could also start groups in social networks, e.g. linkedin
+        - [[flancian]] [[mastodon]]?
 - Timing
 
 
