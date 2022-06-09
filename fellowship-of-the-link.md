@@ -49,6 +49,8 @@
         - read an interesting article today, conservative point of view with good arguments even though some disagreeable premises
             - how do we put this article up to scrutiny and learn from it together?
                 - -> [[web annotations]]?
+                - [[gyuri lajos]]
+                    - [[jerry michalski]] let's have a group sync with Gyuri?
         - wishlist for [[fotl]]: how do these parts fit together?
             - how do we make it so that our notes provide maximum utility, spread through the big fungus
     - 
