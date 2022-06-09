@@ -15,6 +15,8 @@
         - christopherjaldrich@gmail.com
     - we could also start groups in social networks, e.g. linkedin
         - [[flancian]] [[mastodon]]?
+        - got stuck in [[choosing an instance]]
+            - [[diego de la hera]] mastodon.social could be seen as the 
 - Timing
 
 
