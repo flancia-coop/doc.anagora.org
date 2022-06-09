@@ -5,7 +5,11 @@
     - [[jerry michalski]] suggest to use the Mattermost to coordinate; use this space to consider together our goals and attract others like this
        - [[mattermost]] https://chat.collectivesensecommons.org/agora/channels/ogm-fellowship-of-the-link
     - let's use the list of people in the [[doc]] https://docs.google.com/document/d/1RAourQe_MKh0uWomLsS_V5ea3zm30g8paE49X56jIHs/edit
-        - to brianstor
+        - to brainstorm on who to invite if you want to discuss a priori
+    - [[flancian]] invited Dan because of his interested in the space + his experience with web standards
+- [[jerry michalski]]
+    - [[web]] https://www.fellowshipofthelink.org/
+    - who wants admin? :)
 - Timing
 
 
