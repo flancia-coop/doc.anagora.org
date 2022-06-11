@@ -83,7 +83,7 @@
         - it seems like here we want to work more on the level of how to connect different annotation tools at a (federated?) layer
             - perhaps what we need is an integration device at this layer, e.g. [[wikilinks]]
 - Timing
--
+- After the event, [[Mathew Lowry]]: https://doc.anagora.org/Kz1qvywQRjq9nZ-ElXlHUg?view
 
 
 
