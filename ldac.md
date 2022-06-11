@@ -1,0 +1,2 @@
+- a [[codec]].
+    - [[sony]] headphones seem to prefer it.
