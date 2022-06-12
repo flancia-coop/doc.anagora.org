@@ -1,6 +1,6 @@
-hacker rank
-Code Signal?
-Umberto eco
-multiverse
-probabilities
-singing
+- hacker rank
+- Code Signal?
+- Umberto eco
+- multiverse
+- probabilities
+- singing
