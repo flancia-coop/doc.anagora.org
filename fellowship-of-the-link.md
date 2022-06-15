@@ -85,6 +85,18 @@
 - Timing
 - After the event, [[Mathew Lowry]]: https://doc.anagora.org/Kz1qvywQRjq9nZ-ElXlHUg?view
 
+Matterbridge site for group communication: https://chat.collectivesensecommons.org/agora/tips
+
+https://collectivesensecommons.org/
+
+Mathew Lowry mentioned [[Mysilio]] 
+- [https://github.com/mysilio-co](https://github.com/mysilio-co)
+- (https://mysilio.com/) a "thinking tool"/platform that uses [[Solid]] - funded by [[Foundation for the Web]]; has a social media tool and a digital garden
+
+[[David McRaney]] ([twitter](https://twitter.com/davidmcraney)) has several books: 
+- [[How Minds Change]] #books/wanttoread/2 
+- [[You're Not So Smart]] #books/wanttoread/2
+- [[You are Now Less Dumb]]
 
 
 
