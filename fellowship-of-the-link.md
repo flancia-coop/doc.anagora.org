@@ -68,12 +68,12 @@
             - maybe yields a metric w.r.t. resiliency to losing
         - composed effects of higher efficiency in cooperation, [[coordination problem]]
    - chat
-        unschooling, regenerative agriculture, traffic calming... 
-        ice:bootstrapping: ways to make people vectors for a new approach 
-        patterning: process for helping people abstract their work to its full potential extent 
-        which will usually overlap w/ the full-extent of other existing/smaller patterns 
-        matchmaking: people who could work on the same vectors 
-        https://www.clearerthinking.org/
+        - unschooling, regenerative agriculture, traffic calming... 
+        - ice:bootstrapping: ways to make people vectors for a new approach 
+        - patterning: process for helping people abstract their work to its full potential extent 
+        - which will usually overlap w/ the full-extent of other existing/smaller patterns 
+        - matchmaking: people who could work on the same vectors 
+        - https://www.clearerthinking.org/
 - [[action items]]
     - [[flancian]]
         - [ ] upload past recording to youtube
