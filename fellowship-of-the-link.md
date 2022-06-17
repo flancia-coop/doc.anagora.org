@@ -27,8 +27,11 @@
             - [[liberating structures]]
                 - https://www.liberatingstructures.com/1-1-2-4-all/
             - ...
-            - chat bots: [[five wh]]
+            - chat bots: [[five whys]]
         - ...and turn them into [[commons]] shared materials and instrument
+        - [[pattern languages]] == [[distilled wisdom]]
+        - from patterns to praxis
+        - a platform for pattern languages: this was tried on top of [[mediawiki]]
 - [[action items]]
     - [[flancian]]
         - [ ] upload past recording to youtube
