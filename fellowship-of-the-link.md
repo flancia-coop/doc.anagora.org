@@ -42,7 +42,14 @@
         - [[jerry michalski]] [[engelbart]] struggled with this
         - a strategy to make everybody facilitating facilitations a better facilitator
         - leads to a global memory artifact
-    -  
+    - [[mathew]] what's the end goal of this envisioning/scoping exercise?
+        - [[metasj]] a couple of measures of scope:
+            - proportion of total human societal interaction affected in a given year
+            - reflect  
+    - [[flancian]]
+        - [[complementary cognitive artifacts]]
+        - [[anti disintermediation]]
+        - composed effects of higher efficiency in cooperation
 - [[action items]]
     - [[flancian]]
         - [ ] upload past recording to youtube
