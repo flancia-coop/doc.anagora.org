@@ -22,7 +22,13 @@
         - how to [[interlink]]?
 - [[metasj]]
     - take a global commons that you care aobut, and scope out its potential full extent
-    - [[jerry michalski]] take a [[pattern language]] that already exists
+    - [[jerry michalski]] take a [[pattern language]] that already exist
+        - (lists three)
+            - [[liberating structures]]
+                - https://www.liberatingstructures.com/1-1-2-4-all/
+            - ...
+            - chat bots: [[five wh]]
+        - ...and turn them into [[commons]] shared materials and instrument
 - [[action items]]
     - [[flancian]]
         - [ ] upload past recording to youtube
