@@ -12,13 +12,17 @@
     - [[web annotation standard]]
     - [[activitypub]] 
     - [[activitypub]] to [[web annotation standard]] bridge?
+    - [[jerry michalski]] [[nuggets]] in the [[big fungus]]
+    - [[mathew lowry]] [[nuggets]] as cross-linked executive summaries 
 - [[fediverse]]
     - [[jerry michalski]] what's the simplest possible example to get going on comments and annotations on the fediverse?
     - what would be the mvp?
         - [[mastodon]] server?
         - [[mattermost]] channel
         - how to [[interlink]]?
-        
+- [[metasj]]
+    - take a global commons that you care aobut, and scope out its potential full extent
+    - [[jerry michalski]] take a [[pattern language]] that already exists
 - [[action items]]
     - [[flancian]]
         - [ ] upload past recording to youtube
