@@ -26,7 +26,8 @@
         - (lists three)
             - [[liberating structures]]
                 - https://www.liberatingstructures.com/1-1-2-4-all/
-            - ...
+            - Peeragogy
+            - Wise Democracy Pattern Language
             - chat bots: [[five whys]]
         - ...and turn them into [[commons]] shared materials and instrument
         - [[pattern languages]] == [[distilled wisdom]]
