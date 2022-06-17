@@ -17,8 +17,11 @@
     - what would be the mvp?
         - [[mastodon]] server?
         - [[mattermost]] channel
+        - how to [[interlink]]?
+        
 - [[action items]]
-    - 
+    - [[flancian]]
+        - [ ] upload past recording to youtube
 
 
 ## 2022-06-09
