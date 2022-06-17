@@ -62,7 +62,7 @@
         - people/pattern router
         - alternatives.org
     - [[flancian]]
-        - [[anti disintermediation]] leading back to distributed systems and liquid democracy
+        - [[counter anti disintermediation]] leading back to distributed systems and liquid democracy
             - maybe could yield a metric w.r.t. degree of distrubution of structures of power
         - [[complementary cognitive artifacts]]
             - maybe yields a metric w.r.t. resiliency to losing
