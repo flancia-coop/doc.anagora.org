@@ -67,6 +67,56 @@
         - [[complementary cognitive artifacts]]
             - maybe yields a metric w.r.t. resiliency to losing
         - composed effects of higher efficiency in cooperation, [[coordination problem]]
+   - mathew
+mathew dice:tools to better capture knowledge produced from conferences/workshops and share it with the world 
+14:00
+Jerry Michalski
+Jerry Michalski dice:yup 
+Jerry Michalski dice:where every thinking interaction can improve the Commons 
+14:00
+~SJ
+~SJ dice:what are the largest commonses we want to influence?  and how is that going 
+14:00
+Jerry Michalski
+Jerry Michalski dice:for me: the idea commons 
+Jerry Michalski dice:including delusional belief systems 
+Jerry Michalski dice:
+pastors.com
+ 
+Jerry Michalski dice:weird: my hand went down on its own 
+14:02
+mathew
+mathew dice:improving conversations = pretty large commons 
+14:03
+~SJ
+~SJ dice:++ also good realization of persuasion at scale 
+~SJ dice:sth like SermonCentral 
+~SJ dice:
+https://www.sermoncentral.com/
+ 
+~SJ dice:Lasting Q: I'm compiling a map of these [full-scaled commons], suggestions of existing maps to merge with or places to do the mapping? 
+14:06
+Jerry Michalski
+Jerry Michalski dice:send me links, I'll add them 
+Jerry Michalski dice:and then let's figure out where the Big Fungus is 
+14:07
+~SJ
+~SJ dice:😃 
+~SJ dice:good to see you all ... 
+14:08
+Jerry Michalski
+Jerry Michalski dice:unschooling, regenerative agriculture, traffic calming... 
+Jerry Michalski dice:I think jitsi lowers your hand when it hears your mic active 
+14:12
+~SJ
+~SJ dice:bootstrapping: ways to make people vectors for a new approach 
+~SJ dice:patterning: process for helping people abstract their work to its full potential extent 
+~SJ dice:[which will usually overlap w/ the full-extent of other existing/smaller patterns] 
+~SJ dice:matchmaking: people who could work on the same vectors 
+14:13
+Jerry Michalski
+https://www.clearerthinking.org/
+ 
 - [[action items]]
     - [[flancian]]
         - [ ] upload past recording to youtube
