@@ -85,6 +85,7 @@
         - [[diego de la hera]]
         - there is an extension that makes them worked well together
         - how does the community moderate annotations?
+        - [[flancian]] default: the site sets the default ranking function for annotations. and perhaps some annotations are community owned, wiki like?
 
 
 ## 2022-06-09
