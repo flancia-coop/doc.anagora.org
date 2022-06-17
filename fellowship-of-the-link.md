@@ -51,6 +51,8 @@
         - used in [[occupy movement]]
         - other gestures used: disagree, blocking, speak louder
         - [[flancian]] related: [[free, fair and alive]] [[anarchist cybernetics]]
+        - [[reading club]] on [[dawn of everything]] in [[ogm]]
+            - -> [[node club]]
     - [[flancian]]
         - [[anti disintermediation]] leading back to distributed systems and liquid democracy
             - maybe could yield a metric w.r.t. degree of distrubution of structures of power
