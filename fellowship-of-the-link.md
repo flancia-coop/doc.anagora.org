@@ -31,7 +31,9 @@
         - ...and turn them into [[commons]] shared materials and instrument
         - [[pattern languages]] == [[distilled wisdom]]
         - from patterns to praxis
-        - a platform for pattern languages: this was tried on top of [[mediawiki]]
+        - a platform for pattern languages: this was tried on top of [[mediawiki]] [[smw]]
+            - [[metasj]] [[wikibase]] >> [[smw]]
+        - [[instrumentalize]]?
 - [[action items]]
     - [[flancian]]
         - [ ] upload past recording to youtube
