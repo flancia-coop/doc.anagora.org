@@ -59,8 +59,8 @@
         - pastors.com is where a lot of evangelical preachers get what they say on Sundays (!)
         - open source sermon central
     - [[flancian]] 
-        - people/pattern router
-        - alternatives.org
+        - pattern repository, people router
+        - alternatives
     - [[flancian]]
         - [[counter anti disintermediation]] leading back to distributed systems and liquid democracy
             - maybe could yield a metric w.r.t. degree of distrubution of structures of power
