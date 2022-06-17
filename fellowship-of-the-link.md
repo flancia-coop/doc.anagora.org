@@ -1,3 +1,8 @@
+## 2022-06-17
+- Attending: [[jerry michalski]], [[metasj]], [[mathew lowry]], [[flancian]]
+- (joined late)
+- [[jerry michalski]] and [[mathew]] on [[medium]]
+
 ## 2022-06-09
 - Attending: [[jerry michalski]], [[diego de la hera]], [[flancian]], [[chris aldrich]]
 - Inviting others
