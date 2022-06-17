@@ -33,7 +33,13 @@
         - from patterns to praxis
         - a platform for pattern languages: this was tried on top of [[mediawiki]] [[smw]]
             - [[metasj]] [[wikibase]] >> [[smw]]
-        - [[instrumentalize]]?
+        - [[instrumentalize]] > [[instrument]]?
+            - Integrate 
+            - Arborize 
+            - what's the verb when mycelium sprouts a mushroom? 
+            - [[fruiting]] 
+        - [[metasj]] tried to put [[ward]] and [[alexander]] in contact to discuss agreeing on a platform
+        - [[jerry michalski]] [[engelbart]] struggled with this
 - [[action items]]
     - [[flancian]]
         - [ ] upload past recording to youtube
