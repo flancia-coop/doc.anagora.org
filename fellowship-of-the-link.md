@@ -1,7 +1,14 @@
 ## 2022-06-17
 - Attending: [[jerry michalski]], [[metasj]], [[mathew lowry]], [[flancian]]
-- (joined late)
+- (joined late) (chat history)
+    - https://socialhub.activitypub.rocks/t/semmy-social-knowledge-fabrics/2248
+    - https://www.youtube.com/watch?v=plYobK-VufM
+    - https://docs.ipfs.io/how-to/pin-files/
+    - https://bra.in/3vPgD9
 - [[jerry michalski]] and [[mathew]] on [[medium]]
+- #push [[mathew lowry's chapter]] for [[pkg book]]
+    - https://mathewlowry.medium.com/from-personal-to-social-knowledge-graphs-a-vision-statement-draft-fc86ef4f7022
+
 
 ## 2022-06-09
 - Attending: [[jerry michalski]], [[diego de la hera]], [[flancian]], [[chris aldrich]]
