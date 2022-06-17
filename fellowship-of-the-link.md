@@ -49,11 +49,14 @@
             - empowering people
     - [[jerry michalski]] [[applause in sign language]]
         - used in [[occupy movement]]
-        - other gestures: disagree, blo
+        - other gestures used: disagree, blocking, speak louder
+        - [[flancian]] related: [[free, fair and alive]] [[anarchist cybernetics]]
     - [[flancian]]
         - [[anti disintermediation]] leading back to distributed systems and liquid democracy
+            - maybe could yield a metric w.r.t. degree of distrubution of structures of power
         - [[complementary cognitive artifacts]]
-        - composed effects of higher efficiency in cooperation
+            - maybe yields a metric w.r.t. resiliency to losing
+        - composed effects of higher efficiency in cooperation, [[coordination problem]]
 - [[action items]]
     - [[flancian]]
         - [ ] upload past recording to youtube
