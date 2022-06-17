@@ -8,6 +8,12 @@
 - [[jerry michalski]] and [[mathew]] on [[medium]]
 - #push [[mathew lowry's chapter]] for [[pkg book]]
     - https://mathewlowry.medium.com/from-personal-to-social-knowledge-graphs-a-vision-statement-draft-fc86ef4f7022
+    - outsourcing commenting to [[hypothesis]]
+    - [[web annotation standard]]
+    - [[activitypub]] 
+    - [[activitypub]] to [[web annotation standard]] bridge?
+- [[fediverse]]
+    - [[jerry michalski]] what' s the simplest possible example to get go
 
 
 ## 2022-06-09
