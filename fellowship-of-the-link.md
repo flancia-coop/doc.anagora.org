@@ -13,7 +13,12 @@
     - [[activitypub]] 
     - [[activitypub]] to [[web annotation standard]] bridge?
 - [[fediverse]]
-    - [[jerry michalski]] what' s the simplest possible example to get go
+    - [[jerry michalski]] what's the simplest possible example to get going on comments and annotations on the fediverse?
+    - what would be the mvp?
+        - [[mastodon]] server?
+        - [[mattermost]] channel
+- [[action items]]
+    - 
 
 
 ## 2022-06-09
