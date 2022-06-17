@@ -21,7 +21,7 @@
         - [[mattermost]] channel
         - how to [[interlink]]?
 - [[metasj]]
-    - take a global commons that you care aobut, and scope out its potential full extent
+    - challenge: take a [[global commons]] that you care aobut, and scope out its potential full extent
     - [[jerry michalski]] take a [[pattern language]] that already exist
         - (lists three)
             - [[liberating structures]]
@@ -40,6 +40,9 @@
             - [[fruiting]] 
         - [[metasj]] tried to put [[ward]] and [[alexander]] in contact to discuss agreeing on a platform
         - [[jerry michalski]] [[engelbart]] struggled with this
+        - a strategy to make everybody facilitating facilitations a better facilitator
+        - leads to a global memory artifact
+    -  
 - [[action items]]
     - [[flancian]]
         - [ ] upload past recording to youtube
