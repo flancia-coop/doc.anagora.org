@@ -81,6 +81,10 @@
     - [[building bridges]], [[wormholes]]
     - [[workshops]] and [[facilitating]] of world building
     - [[future casting]] -> [[incepting]]
+    - [[wikimedia]] + [[web annotations]]
+        - [[diego de la hera]]
+        - there is an extension that makes them worked well together
+    - how 
 
 
 ## 2022-06-09
