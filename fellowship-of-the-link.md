@@ -80,7 +80,7 @@
 - [[metasj]] and [[flancian]] 1:1
     - [[building bridges]], [[wormholes]]
     - [[workshops]] and [[facilitating]] of world building
-    - [[future casting]]
+    - [[future casting]] -> [[incepting]]
 
 
 ## 2022-06-09
