@@ -84,7 +84,7 @@
     - [[wikimedia]] + [[web annotations]]
         - [[diego de la hera]]
         - there is an extension that makes them worked well together
-    - how 
+        - how does the community moderate annotations?
 
 
 ## 2022-06-09
