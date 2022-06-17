@@ -57,8 +57,10 @@
         - tools to better capture knowledge produced from conferences/workshops and share it with the world 
     - [[jerry michalski]] [[idea commons]]
         - pastors.com is where a lot of evangelical preachers get what they say on Sundays (!)
+        - open source sermon central
     - [[flancian]] 
-        - people router
+        - people/pattern router
+        - alternatives.org
     - [[flancian]]
         - [[anti disintermediation]] leading back to distributed systems and liquid democracy
             - maybe could yield a metric w.r.t. degree of distrubution of structures of power
