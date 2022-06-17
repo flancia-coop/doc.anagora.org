@@ -53,6 +53,10 @@
         - [[flancian]] related: [[free, fair and alive]] [[anarchist cybernetics]]
         - [[reading club]] on [[dawn of everything]] in [[ogm]]
             - -> [[node club]]
+    - [[mathew lowry]]
+        - tools to better capture knowledge produced from conferences/workshops and share it with the world 
+    - [[jerry michalski]] [[idea commons]]
+    - [[flancian]] people router
     - [[flancian]]
         - [[anti disintermediation]] leading back to distributed systems and liquid democracy
             - maybe could yield a metric w.r.t. degree of distrubution of structures of power
