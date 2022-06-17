@@ -45,10 +45,14 @@
     - [[mathew]] what's the end goal of this envisioning/scoping exercise?
         - [[metasj]] a couple of measures of scope:
             - proportion of total human societal interaction affected in a given year
-            - reflect  
+            - [[jerry michalski]] (ways of measuring global impact)
+            - empowering people
+    - [[jerry michalski]] [[applause in sign language]]
+        - used in [[occupy movement]]
+        - other gestures: disagree, blo
     - [[flancian]]
+        - [[anti disintermediation]] leading back to distributed systems and liquid democracy
         - [[complementary cognitive artifacts]]
-        - [[anti disintermediation]]
         - composed effects of higher efficiency in cooperation
 - [[action items]]
     - [[flancian]]
