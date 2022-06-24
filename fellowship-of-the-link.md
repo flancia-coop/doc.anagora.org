@@ -47,13 +47,13 @@
             - [[flancian]]
                 - [[adversarial interoperability]]
                 - [[catalog of missing devices]]
-                
-Jerry Michalski dice:transclusion 
-Chris Aldrich dice:How to create a Read Fork Write Merge Web? 
-https://www.eff.org/deeplinks/2019/10/adversarial-interoperability
-https://www.eff.org/missing-devices
-https://pluralistic.net/2021/01/13/two-decades/
- doctorow's method 
+- from chat unprocesssed
+    - Jerry Michalski dice:transclusion 
+    - Chris Aldrich dice:How to create a Read Fork Write Merge Web? 
+    - https://www.eff.org/deeplinks/2019/10/adversarial-interoperability
+    - https://www.eff.org/missing-devices
+    - https://pluralistic.net/2021/01/13/two-decades/
+    - doctorow's method 
 
 ## 2022-06-17
 - Attending: [[jerry michalski]], [[metasj]], [[mathew lowry]], [[flancian]]
