@@ -41,6 +41,12 @@
             - problem or potential?
             - [[tbl]] simplified [[sgml]] and made it break gracefully
             - [[resiliency]]
+        - [[cory doctorow]] on the [[tragedy of the commons]]
+            - [[modus operandi]] and [[throughput]] amazing
+            - [[chris aldrich]] he has a [[common book]] essentially
+            - [[flancian]]
+                - [[adversarial interoperability]]
+                - [[repository of missing devices]]
 
 ## 2022-06-17
 - Attending: [[jerry michalski]], [[metasj]], [[mathew lowry]], [[flancian]]
