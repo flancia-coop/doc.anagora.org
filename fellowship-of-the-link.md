@@ -2,10 +2,12 @@
 - Attending: [[jerry michalski]] [[chris aldrich]] [[flancian]]
 - Discussion of [[go links]]
     - Demo in anagora.org :)
-    - [[go/fotl/chat]] and [[go/fellowship of the link/chat]] both nowwork
+    - [[go/fotl/chat]] and [[go/fellowship of the link/chat]] both now work
 - Time?
     - 11am Pacific on Fridays?
+        - Could conflict with date nights in Europe :)
     - [[11am Pacific on Thursdays]]?
+        - Let's try this!
 - [[shared resources]]
     - [[chris aldrich]] putting up something in the site
         - add a go link :)
@@ -18,6 +20,9 @@
 - [[jerry michalski]]
     - how to build a "webring" for meetings, documents about projects
     - [[obsidian]] with [[excalidraw]] done by a friend
+    - [[open global mind]] ~ [[ogm]]
+        
+        - [[multi plane camera]]
 
 ## 2022-06-17
 - Attending: [[jerry michalski]], [[metasj]], [[mathew lowry]], [[flancian]]
