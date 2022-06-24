@@ -47,7 +47,7 @@
             - [[flancian]]
                 - [[adversarial interoperability]]
                 - [[catalog of missing devices]]
-- from chat unprocesssed
+- sfrom chat unprocesssed
     - Jerry Michalski dice:transclusion 
     - Chris Aldrich dice:How to create a Read Fork Write Merge Web? 
     - https://www.eff.org/deeplinks/2019/10/adversarial-interoperability
