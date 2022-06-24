@@ -1,3 +1,7 @@
+## 2022-06-24
+
+
+
 ## 2022-06-17
 - Attending: [[jerry michalski]], [[metasj]], [[mathew lowry]], [[flancian]]
 - (joined late) (chat history)
