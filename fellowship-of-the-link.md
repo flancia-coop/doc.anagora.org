@@ -21,8 +21,10 @@
     - how to build a "webring" for meetings, documents about projects
     - [[obsidian]] with [[excalidraw]] done by a friend
     - [[open global mind]] ~ [[ogm]]
-        
+        - [[flotilla]] -> [[federation]]
+        - what do you see from the top of your mast?
         - [[multi plane camera]]
+        - [[map of the future]] ~ [[mosaic]]
 
 ## 2022-06-17
 - Attending: [[jerry michalski]], [[metasj]], [[mathew lowry]], [[flancian]]
