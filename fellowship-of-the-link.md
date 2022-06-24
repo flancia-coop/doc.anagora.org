@@ -1,7 +1,13 @@
 ## 2022-06-24
 - Discussion of [[go links]]
+    - Demo in anagora.org :)
 - Time?
-    - 11am Pacific on Fridays
+    - 11am Pacific on Fridays?
+    - [[11am Pacific on Thursdays]]?
+- [[shared resources]]
+    - [[chrisputting up something in the site
+        - add a go link :)
+    - here's what we're doing, here's where we're going, here is how to join
 
 
 ## 2022-06-17
