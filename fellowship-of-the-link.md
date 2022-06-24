@@ -1,13 +1,17 @@
 ## 2022-06-24
+- Attending: [[jerry michalski]] [[chris aldrich]] [[flancian]]
 - Discussion of [[go links]]
     - Demo in anagora.org :)
 - Time?
     - 11am Pacific on Fridays?
     - [[11am Pacific on Thursdays]]?
 - [[shared resources]]
-    - [[chrisputting up something in the site
+    - [[chris aldrich]] putting up something in the site
         - add a go link :)
     - here's what we're doing, here's where we're going, here is how to join
+    - let's use [[chat]] for coordinating
+- what's a high leverage topic for the three of us?
+    - what's pareto optimal?
 
 
 ## 2022-06-17
