@@ -2,6 +2,7 @@
 - Attending: [[jerry michalski]] [[chris aldrich]] [[flancian]]
 - Discussion of [[go links]]
     - Demo in anagora.org :)
+    - [[go/fotl/chat]] and [[go/fellowship of the link/chat]] both nowwork
 - Time?
     - 11am Pacific on Fridays?
     - [[11am Pacific on Thursdays]]?
@@ -14,8 +15,9 @@
     - [[chris aldrich]] what's pareto optimal/the 20% we could tackle first?
     - [[jerry michalski]] has been working on a [[shared vision]]
     - [[flancian]] [[2025]]
-- how to build a "webring for meetings
-
+- [[jerry michalski]]
+    - how to build a "webring" for meetings, documents about projects
+    - [[obsidian]] with [[excalidraw]] done by a friend
 
 ## 2022-06-17
 - Attending: [[jerry michalski]], [[metasj]], [[mathew lowry]], [[flancian]]
