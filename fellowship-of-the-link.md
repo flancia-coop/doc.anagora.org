@@ -20,6 +20,7 @@
 - [[jerry michalski]]
     - how to build a "webring" for meetings, documents about projects
     - [[obsidian]] with [[excalidraw]] done by a friend
+        - diagrams.net is also good
     - [[open global mind]] ~ [[ogm]]
         - [[flotilla]] -> [[federation]]
         - what do you see from the top of your mast?
