@@ -31,6 +31,12 @@
         - [[oembed]]?
         - tools tends to target one tool only, lots of duplication
         - [[activitypub]]
+            - [[chri]]
+        - [[jerry michalski]] [[least common denominator]]
+            - problem or potential?
+            - [[tbl]] simplified [[sgml]] and made it break gracefully
+            - [[resiliency]]
+         
 
 ## 2022-06-17
 - Attending: [[jerry michalski]], [[metasj]], [[mathew lowry]], [[flancian]]
