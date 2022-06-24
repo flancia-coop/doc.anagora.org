@@ -37,7 +37,6 @@
                 - we can bridge to mastodon or pleroma, do not need to reimplement it
             - what about [[rss]]?
                 - [[jerry michalski]] does this not break transclusion?
-            
         - [[jerry michalski]] [[least common denominator]]
             - problem or potential?
             - [[tbl]] simplified [[sgml]] and made it break gracefully
