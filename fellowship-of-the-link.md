@@ -31,12 +31,16 @@
         - [[oembed]]?
         - tools tends to target one tool only, lots of duplication
         - [[activitypub]]
-            - [[chri]]
+            - [[chris aldrich]] over designed it, over specified it, few people understand it completely
+                - [[aaron parecki]]
+            - [[mastodon]] as the de facto standard
+                - we can bridge to mastodon
+            - what about [[rss]]?
+            
         - [[jerry michalski]] [[least common denominator]]
             - problem or potential?
             - [[tbl]] simplified [[sgml]] and made it break gracefully
             - [[resiliency]]
-         
 
 ## 2022-06-17
 - Attending: [[jerry michalski]], [[metasj]], [[mathew lowry]], [[flancian]]
