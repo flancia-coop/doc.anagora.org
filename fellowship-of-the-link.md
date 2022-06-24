@@ -27,7 +27,10 @@
         - [[multi plane camera]]
         - [[map of the future]] ~ [[mosaic]]
     - [[flancian]] [[agora]] plus iframes for mvp of the above
-    - [[[[chris aldrich]]
+    - [[chris aldrich]] standard based, using each item as a block
+        - [[oembed]]?
+        - tools tends to target one tool only, lots of duplication
+        - [[activitypub]]
 
 ## 2022-06-17
 - Attending: [[jerry michalski]], [[metasj]], [[mathew lowry]], [[flancian]]
