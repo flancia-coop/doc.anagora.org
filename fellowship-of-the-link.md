@@ -26,6 +26,8 @@
         - what do you see from the top of your mast?
         - [[multi plane camera]]
         - [[map of the future]] ~ [[mosaic]]
+    - [[flancian]] [[agora]] plus iframes for mvp of the above
+    - [[[[chris aldrich]]
 
 ## 2022-06-17
 - Attending: [[jerry michalski]], [[metasj]], [[mathew lowry]], [[flancian]]
