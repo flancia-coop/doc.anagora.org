@@ -11,7 +11,10 @@
     - here's what we're doing, here's where we're going, here is how to join
     - let's use [[chat]] for coordinating
 - what's a high leverage topic for the three of us?
-    - what's pareto optimal?
+    - [[chris aldrich]] what's pareto optimal/the 20% we could tackle first?
+    - [[jerry michalski]] has been working on a [[shared vision]]
+    - [[flancian]] [[2025]]
+- how to build a "webring for meetings
 
 
 ## 2022-06-17
