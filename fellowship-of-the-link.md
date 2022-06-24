@@ -1,5 +1,5 @@
 ## 2022-06-24
-
+- Discussion of go links
 
 
 ## 2022-06-17
