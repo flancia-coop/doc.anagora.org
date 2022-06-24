@@ -1,5 +1,7 @@
 ## 2022-06-24
-- Discussion of go links
+- Discussion of [[go links]]
+- Time?
+    - 11am Pacific on Fridays
 
 
 ## 2022-06-17
