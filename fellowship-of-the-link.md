@@ -34,7 +34,7 @@
             - [[chris aldrich]] over designed it, over specified it, few people understand it completely
                 - [[aaron parecki]]
             - [[mastodon]] as the de facto standard
-                - we can bridge to mastodon
+                - we can bridge to mastodon or pleroma, do not need to r
             - what about [[rss]]?
             
         - [[jerry michalski]] [[least common denominator]]
