@@ -37,24 +37,22 @@
                 - we can bridge to mastodon or pleroma, do not need to reimplement it
             - what about [[rss]]?
                 - [[jerry michalski]] does this not break transclusion?
-                - How can we prevent the unproductive RSS/Atom wars of the early
+                - How can we prevent the unproductive RSS/Atom wars of the early blogosphere? 
         - [[jerry michalski]] [[least common denominator]]
             - problem or potential?
             - [[tbl]] simplified [[sgml]] and made it break gracefully
             - [[resiliency]]
         - [[cory doctorow]] on the [[tragedy of the commons]]
             - [[modus operandi]] and [[throughput]] amazing
-            - [[chris aldrich]] he has a [[common book]] essentially
+            - [[chris aldrich]]: cory has a [[commonplace book]] essentially, see https://pluralistic.net/2021/01/13/two-decades/
             - [[flancian]]
-                - [[adversarial interoperability]]
+                - [[adversarial interoperability]] https://www.eff.org/deeplinks/2019/10/adversarial-interoperability
                 - [[catalog of missing devices]]
-- sfrom chat unprocesssed
+- from chat unprocesssed
     - Jerry Michalski dice:transclusion 
     - Chris Aldrich dice:How to create a Read Fork Write Merge Web? 
-    - https://www.eff.org/deeplinks/2019/10/adversarial-interoperability
-    - https://www.eff.org/missing-devices
-    - https://pluralistic.net/2021/01/13/two-decades/
-    - doctorow's method 
+    - 
+
 
 ## 2022-06-17
 - Attending: [[jerry michalski]], [[metasj]], [[mathew lowry]], [[flancian]]
