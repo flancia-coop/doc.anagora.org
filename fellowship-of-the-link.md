@@ -33,10 +33,11 @@
         - [[activitypub]]
             - [[chris aldrich]] over designed it, over specified it, few people understand it completely
                 - [[aaron parecki]]
-            - [[mastodon]] as the de facto standard
+            - [[mastodon]] as the de facto standard rather than ActivityPub itself
                 - we can bridge to mastodon or pleroma, do not need to reimplement it
             - what about [[rss]]?
                 - [[jerry michalski]] does this not break transclusion?
+                - How can we prevent the unproductive RSS/Atom wars of the early
         - [[jerry michalski]] [[least common denominator]]
             - problem or potential?
             - [[tbl]] simplified [[sgml]] and made it break gracefully
