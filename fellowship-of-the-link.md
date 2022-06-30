@@ -54,6 +54,7 @@
        - [[jerry michalski]]
        - #push [[nuggets, remedies and pov]]
            - [[nuggetization]] https://www.youtube.com/watch?v=EmId2x6JSQE&feature=related
+       - [[public]] vs [[private]] as a default
 - [[minimum viable format]]
     - text
 - [[goals]]
