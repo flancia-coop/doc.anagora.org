@@ -1,3 +1,6 @@
+## 2022-06-30
+- Attending: [[jerry michalski]] [[chris aldrich]] [[diego de la hera]] [[chris aldric]]
+
 ## 2022-06-24
 - Attending: [[jerry michalski]] [[chris aldrich]] [[flancian]]
 - Discussion of [[go links]]
