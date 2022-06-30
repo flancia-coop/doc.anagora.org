@@ -55,6 +55,9 @@
        - #push [[nuggets, remedies and pov]]
            - [[nuggetization]] https://www.youtube.com/watch?v=EmId2x6JSQE&feature=related
        - [[public]] vs [[private]] as a default
+           - [[public]] as default seems better to seemingly most of us
+       - [[chris aldrich]] mostly these days notes start in [[hypothes.is]]
+           - periodically gets feedback about how cool it is to work in public
 - [[minimum viable format]]
     - text
 - [[goals]]
