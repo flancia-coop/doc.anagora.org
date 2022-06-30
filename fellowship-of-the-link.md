@@ -13,6 +13,8 @@
         - import [[jerry's brain]] from [[json]] into [[obsidian]] and [[excalidraw]]
             - [[jolt]] is interested in doing this
         - what do we put on [[rel8]]?
+            - a list of formats/processes that are sufficient for us to 'store our brain' comfortably?
+            
 - [[goals]]
 
 ## 2022-06-24
