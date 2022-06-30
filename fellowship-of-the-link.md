@@ -44,7 +44,9 @@
            - medium: you produce information, content but someone else pays the [[admin tax]] (you contribute to an instance)
            - (spectrum)
            - no technical expertise
-       - #push [[blog.im]] is very useful
+           - #push [[blot im]] is very useful, imports from whenever you want
+               - [[flancian]] nice, and it's open source: https://github.com/davidmerfield/blot
+               - wanted to do this for the Agora so this is super helpful
 - [[minimum viable format]]
 - [[goals]]
 
