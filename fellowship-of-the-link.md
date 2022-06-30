@@ -15,8 +15,13 @@
         - what do we put on [[rel8]]?
             - a list of formats/processes that are sufficient for us to 'store our brain' comfortably?
             - [[mathew lowry]] user requirements exercise
-        - [[flancian]] on an architecture
-            
+        - [[flancian]] on a hub architecture for integrating brains and negotiating exchange (format conversion)
+        - [[mathew lowry]] decentralized or centralized?
+            - decentralized is the idea (or distributed)
+        - [[mathew lowry]] what should we be using as way of standards to create this?
+        - [[chris aldrich]] text -> markdown -> html
+            - shared by default is convenient but can be problematic
+- [[minimum viable format]]
 - [[goals]]
 
 ## 2022-06-24
