@@ -72,9 +72,12 @@
            - [[jerry michalski]]
                - [[apple's]] [[knowledge navigator]] video back in 1986
        - [[adversarial interoperability]]
-       - [[]]
+       - [[myhub]]
+       - [[having a somewhere]]
+           - [[knowledge contexts]] as a service
        - [[chris aldrich]]
-           - have ome
+           - [[writing toolkit]]
+           - [[social reader]] tracks, breaks down and integrates feeds
 - [[minimum viable formats]]
     - text
     - diagrams
