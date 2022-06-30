@@ -1,5 +1,10 @@
 ## 2022-06-30
-- Attending: [[jerry michalski]] [[chris aldrich]] [[diego de la hera]] [[chris aldric]]
+- Attending: [[jerry michalski]] [[chris aldrich]] [[diego de la hera]] [[chris aldrich]]
+- [[jerry michalski]] 
+    - #push [[rel8]] 
+        - #go https://www.rel8.dev
+            - (a [[google site]])
+    - https://www.rel8.dev/wiki is embedded above
 
 ## 2022-06-24
 - Attending: [[jerry michalski]] [[chris aldrich]] [[flancian]]
