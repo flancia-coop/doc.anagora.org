@@ -63,7 +63,12 @@
        - [[diego de la hera]]
            - going back to what we have in mind and where our ideas overlap
            - not really sure what he's expecting here, but a tool that would be interesting would be like this:
-               - 
+               - like the agora, where you could see it from two different perspectives
+                   - as a personal tool, where an individual user decides which graphs converge on the agora
+                   - "mix and match" feeds and gardens, an aggregator
+                   - like an [[agora view]]
+               - another agora is closer to anagora.org, where you push many graphs to a place but where the owners of the repos decided that in advance
+         
 - [[minimum viable format]]
     - text
 - [[goals]]
