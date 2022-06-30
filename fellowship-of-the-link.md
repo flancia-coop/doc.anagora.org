@@ -20,7 +20,11 @@
             - decentralized is the idea (or distributed)
         - [[mathew lowry]] what should we be using as way of standards to create this?
         - [[chris aldrich]] text -> markdown -> html
-            - shared by default is convenient but can be problematic
+            - (shared by default is convenient but can be problematic)
+            - text as the basic standard
+            - then add links, e.g. markdown or org mode
+            - then html, microformats, json, yaml can be layered on top
+            - exchanged p2p (distributed) or via hubs
 - [[minimum viable format]]
 - [[goals]]
 
