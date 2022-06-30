@@ -40,9 +40,11 @@
            - text as the standard makes it easy to use actually as users can write text wherever they want, a priori
            - focusing on making existing tools and ecosystems easier to use/onboard to
        - [[chris aldrich]]
-           - (...)
+           - high tech skills: you set up your own mastodon instance, agora, etc.
+           - medium: you produce information, content but someone else pays the [[admin tax]] (you contribute to an instance)
            - (spectrum)
-           - 
+           - no technical expertise
+       - #push [[blog.im]] is very useful
 - [[minimum viable format]]
 - [[goals]]
 
