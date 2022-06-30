@@ -72,7 +72,10 @@
            - [[jerry michalski]]
                - [[apple's]] [[knowledge navigator]] video back in 1986
        - [[adversarial interoperability]]
+           - [[chris aldrich]] For the [[adversarial interoperability]] fans: https://granary.io/
+           - [[mathew lowry]] [[mysilio]]
        - [[myhub]]
+           - writing aids to get from notes to defined outputs
        - [[having a somewhere]]
            - [[knowledge contexts]] as a service
        - [[chris aldrich]]
@@ -86,6 +89,9 @@
        - [[jerry michalski]]
            - [[intimacy gradient]] is a pattern in [[a pattern language]]
            - [[the view master]]
+               - how do we generalize and integrate the superpowers that each tool gives?
+       - [[diego de la hera]]
+           - would like to highlight the link aspect of how information pieces relate to
 - [[minimum viable formats]]
     - text
     - diagrams
