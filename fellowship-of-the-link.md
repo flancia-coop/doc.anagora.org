@@ -47,7 +47,11 @@
            - #push [[blot im]] is very useful, imports from whenever you want
                - [[flancian]] nice, and it's open source: https://github.com/davidmerfield/blot
                - wanted to do this for the Agora so this is super helpful
+       - [[mathew lowry]]
+           - who are we building this for?
+           - "instagram user" might be too wide a net?
 - [[minimum viable format]]
+    - text
 - [[goals]]
 
 ## 2022-06-24
