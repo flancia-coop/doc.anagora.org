@@ -77,16 +77,22 @@
            - [[knowledge contexts]] as a service
        - [[chris aldrich]]
            - [[writing toolkit]]
-           - [[social reader]] tracks, breaks down and integrates feeds
+           - #push [[social reader]] tracks, breaks down and integrates feeds
+               - #go https://indieweb.org/social_reader
            - https://indieweb.org/Microsub
            - [[micro.blog]] is great
            - [[refbacks]]
                - https://notes.andymatuschak.org/z2QvtE9w5zs49x7WUeG8Ut1vywHDLiG2Wkm9p pinged his site
+       - [[jerry michalski]]
+           - [[intimacy gradient]] is a pattern in [[a pattern language]]
+           - [[the view master]]
 - [[minimum viable formats]]
     - text
     - diagrams
 - [[goals]]
-    - define our [[wheres]]
+    - define our [[wheres]] (from [[having a somewhere]])
+        - [[the big fungus]]
+        - [[agora]]
     - define minimum viable formats for storing our brains
 
 ## 2022-06-24
