@@ -78,6 +78,8 @@
        - [[chris aldrich]]
            - [[writing toolkit]]
            - [[social reader]] tracks, breaks down and integrates feeds
+           - https://indieweb.org/Microsub
+           - [[micro.blog]] is great
 - [[minimum viable formats]]
     - text
     - diagrams
