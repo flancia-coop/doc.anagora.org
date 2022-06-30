@@ -25,6 +25,11 @@
             - then add links, e.g. markdown or org mode
             - then html, microformats, json, yaml can be layered on top
             - exchanged p2p (distributed) or via hubs
+        - [[mathew lowry]] interested on web mentions, fediverse as they exist in the data exchange ecosystem
+        - [[chris aldrich]] how can you design a minimum building block that is interoperable with other pieces?
+            - [[web mentions]] takes the older ideas of pingback/trackback, strips them down to the essentials. it's a notification system via [[post]] requests.
+            - [[mastodon]] could support web mentions (there was talk about this a few years back)
+            - 
 - [[minimum viable format]]
 - [[goals]]
 
