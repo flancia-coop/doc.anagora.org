@@ -50,6 +50,9 @@
        - [[mathew lowry]]
            - who are we building this for?
            - "instagram user" might be too wide a net?
+           - disconnect from building a knowledge graph and writing for others
+       - [[nuggets, remedies and points of view]]
+           - [[nuggetization]] https://www.youtube.com/watch?v=EmId2x6JSQE&feature=related
 - [[minimum viable format]]
     - text
 - [[goals]]
