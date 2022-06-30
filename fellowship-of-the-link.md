@@ -7,6 +7,11 @@
             - https://www.rel8.dev/wiki is embedded above
         - "relating ideas, documents, perspectives and people"
     - (Jerry is using [[obsidian]] plus [[obsidian sync]] for this)
+    - [[short term]], [[medium term]] and [[long term]] goals for [[rel8]]
+    - [[short term]]
+        - define: how do we share notes?
+        - import [[jerry's brain]] from [[json]] into [[obsidian]] and [[excalidraw]]
+            - [[jolt]] is interested in doing this
 - [[goals]]
 
 ## 2022-06-24
