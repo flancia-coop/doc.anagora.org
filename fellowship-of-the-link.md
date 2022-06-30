@@ -80,6 +80,8 @@
            - [[social reader]] tracks, breaks down and integrates feeds
            - https://indieweb.org/Microsub
            - [[micro.blog]] is great
+           - [[refbacks]]
+               - https://notes.andymatuschak.org/z2QvtE9w5zs49x7WUeG8Ut1vywHDLiG2Wkm9p pinged his site
 - [[minimum viable formats]]
     - text
     - diagrams
