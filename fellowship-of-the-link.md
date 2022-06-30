@@ -4,7 +4,10 @@
     - #push [[rel8]] 
         - #go https://www.rel8.dev
             - (a [[google site]])
-    - https://www.rel8.dev/wiki is embedded above
+            - https://www.rel8.dev/wiki is embedded above
+        - "relating ideas, documents, perspectives and people"
+    - (Jerry is using [[obsidian]] plus [[obsidian sync]] for this)
+- [[goals]]
 
 ## 2022-06-24
 - Attending: [[jerry michalski]] [[chris aldrich]] [[flancian]]
