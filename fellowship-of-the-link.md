@@ -68,7 +68,7 @@
                    - "mix and match" feeds and gardens, an aggregator
                    - like an [[agora view]]
                - another agora is closer to anagora.org, where you push many graphs to a place but where the owners of the repos decided that in advance
-         
+           - an extension or tool could be written so that the nodes you see could be actual URLs, and incoming/outgoing links would be those around your internet context (social graph, feeds)
 - [[minimum viable format]]
     - text
 - [[goals]]
