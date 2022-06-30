@@ -34,6 +34,8 @@
             - Y receives the notification, can do some spot checks (does the call refer to a post that actually has the expected link), and then does whatever it wants with it
             - [[activitypub]] could take advantage of [[webmentions]] as a building block, but it mostly doesn't
                 - [[kevin marks]] (sp?) added microformats to [[mastodon]]
+       - [[flancian]] decentralized vs distributed approach, web3 and all
+       - [[jerry michalski]] technical details vs ease of use
 - [[minimum viable format]]
 - [[goals]]
 
