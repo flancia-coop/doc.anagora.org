@@ -71,9 +71,16 @@
            - an extension or tool could be written so that the nodes you see could be actual URLs, and incoming/outgoing links would be those around your internet context (social graph, feeds)
            - [[jerry michalski]]
                - [[apple's]] [[knowledge navigator]] video back in 1986
-- [[minimum viable format]]
+       - [[adversarial interoperability]]
+       - [[]]
+       - [[chris aldrich]]
+           - have ome
+- [[minimum viable formats]]
     - text
+    - diagrams
 - [[goals]]
+    - define our [[wheres]]
+    - define minimum viable formats for storing our brains
 
 ## 2022-06-24
 - Attending: [[jerry michalski]] [[chris aldrich]] [[flancian]]
