@@ -91,7 +91,11 @@
            - [[the view master]]
                - how do we generalize and integrate the superpowers that each tool gives?
        - [[diego de la hera]]
-           - would like to highlight the link aspect of how information pieces relate to
+           - would like to highlight the link aspect of how information pieces relate to each other
+           - which links are mentioned in that tweet, that post?
+           - about the [[great fungus]]
+               - still thinking of this as an individual app customized by the user
+               - [[personalized fungus]]? [[fungus view]]
 - [[minimum viable formats]]
     - text
     - diagrams
