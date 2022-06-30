@@ -16,6 +16,7 @@
             - a list of formats/processes that are sufficient for us to 'store our brain' comfortably?
             - [[mathew lowry]] user requirements exercise
         - [[flancian]] on a hub architecture for integrating brains and negotiating exchange (format conversion)
+            - [[underlay]], [[interlay]], [[overlay]] as per [[metasj]]
         - [[mathew lowry]] decentralized or centralized?
             - decentralized is the idea (or distributed)
         - [[mathew lowry]] what should we be using as way of standards to create this?
@@ -29,7 +30,8 @@
         - [[chris aldrich]] how can you design a minimum building block that is interoperable with other pieces?
             - [[web mentions]] takes the older ideas of pingback/trackback, strips them down to the essentials. it's a notification system via [[post]] requests.
             - [[mastodon]] could support web mentions (there was talk about this a few years back)
-            - 
+            - if X writes a post about URL A by Y, Y will be pinged
+            - Y receives the notification, can do some spot checks (does the call refer to a post that actually has the expected link), and then does whatever it wants with it
 - [[minimum viable format]]
 - [[goals]]
 
