@@ -69,6 +69,8 @@
                    - like an [[agora view]]
                - another agora is closer to anagora.org, where you push many graphs to a place but where the owners of the repos decided that in advance
            - an extension or tool could be written so that the nodes you see could be actual URLs, and incoming/outgoing links would be those around your internet context (social graph, feeds)
+           - [[jerry michalski]]
+               - [[apple's]] [[knowledge navigator]] video back in 1986
 - [[minimum viable format]]
     - text
 - [[goals]]
