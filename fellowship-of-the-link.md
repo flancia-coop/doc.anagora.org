@@ -36,6 +36,13 @@
                 - [[kevin marks]] (sp?) added microformats to [[mastodon]]
        - [[flancian]] decentralized vs distributed approach, web3 and all
        - [[jerry michalski]] technical details vs ease of use
+       - [[flancian]] two directions we could go in:
+           - text as the standard makes it easy to use actually as users can write text wherever they want, a priori
+           - focusing on making existing tools and ecosystems easier to use/onboard to
+       - [[chris aldrich]]
+           - (...)
+           - (spectrum)
+           - 
 - [[minimum viable format]]
 - [[goals]]
 
