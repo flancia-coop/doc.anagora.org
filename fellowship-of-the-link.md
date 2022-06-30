@@ -32,6 +32,8 @@
             - [[mastodon]] could support web mentions (there was talk about this a few years back)
             - if X writes a post about URL A by Y, Y will be pinged
             - Y receives the notification, can do some spot checks (does the call refer to a post that actually has the expected link), and then does whatever it wants with it
+            - [[activitypub]] could take advantage of [[webmentions]] as a building block, but it mostly doesn't
+                - [[kevin marks]] (sp?) added microformats to [[mastodon]]
 - [[minimum viable format]]
 - [[goals]]
 
