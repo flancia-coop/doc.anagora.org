@@ -58,6 +58,12 @@
            - [[public]] as default seems better to seemingly most of us
        - [[chris aldrich]] mostly these days notes start in [[hypothes.is]]
            - periodically gets feedback about how cool it is to work in public
+       - [[jerry michalski]] [[fedwiki]]
+           - [[twitter]] user 509 here (!)
+       - [[diego de la hera]]
+           - going back to what we have in mind and where our ideas overlap
+           - not really sure what he's expecting here, but a tool that would be interesting would be like this:
+               - 
 - [[minimum viable format]]
     - text
 - [[goals]]
