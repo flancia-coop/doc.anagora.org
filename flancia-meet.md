@@ -29,7 +29,8 @@
     - [[wikimedia]]'s role
 - [[fellowship of the link]]
     - [[wikimedia]] and [[web annotations]]
-        - feedback: annotations wouldn't add too much for existing editors. average users won't probably know what to do with t
+        - feedback: annotations wouldn't add too much for existing editors. average users won't probably know what to do with them/what they are.
+            - UX could be made not very intrusive? marginalia like.
       
 
 # #push [[flancia-meet-2022-06-04]]
