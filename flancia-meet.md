@@ -19,7 +19,8 @@
     - [[pandunia]]
         - http://www.pandunia.info/english/index.html 
     - [[lidepla]] ~ [[lingwa de planeta]]
-    
+- [[chinese wikipedia]]
+    - it's blocked in [[china]] it seems
       
 
 # #push [[flancia-meet-2022-06-04]]
