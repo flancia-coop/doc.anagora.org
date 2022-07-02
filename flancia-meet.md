@@ -29,7 +29,7 @@
     - [[wikimedia]]'s role
 - [[fellowship of the link]]
     - [[wikimedia]] and [[web annotations]]
-        - feedback: annotations wouldn't add too much for existing editors. average users won't 
+        - feedback: annotations wouldn't add too much for existing editors. average users won't probably know what to do with t
       
 
 # #push [[flancia-meet-2022-06-04]]
