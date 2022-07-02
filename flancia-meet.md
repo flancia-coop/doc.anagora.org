@@ -2,6 +2,12 @@
 - We meet best-effort every Saturday. when utc??
 - This is where we could have community maintained notes :)
 
+# #push [[flancia-meet-2022-07-02]]
+- attending: [[bouncepaw]] [[flancian]]
+- backgr
+- [[west is dead]] print
+- [[esperanto]] flag
+
 # #push [[flancia-meet-2022-06-04]]
 - attending: [[j0lms]] [[flancian]]
 - [[j0lms]]
