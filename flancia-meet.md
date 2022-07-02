@@ -26,6 +26,8 @@
 - [[wikipedia]]
     - editing is getting harder
     - markup is relatively complex
+    - [[wikimedia]]'s role
+- [[fellowship of the link]]
       
 
 # #push [[flancia-meet-2022-06-04]]
