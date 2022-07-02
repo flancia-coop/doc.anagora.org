@@ -28,6 +28,8 @@
     - markup is relatively complex
     - [[wikimedia]]'s role
 - [[fellowship of the link]]
+    - [[wikimedia]] and [[web annotations]]
+        - feedback: annotations wouldn't add too much for existing editors. average users won't 
       
 
 # #push [[flancia-meet-2022-06-04]]
