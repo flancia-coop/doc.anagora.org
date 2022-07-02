@@ -16,6 +16,9 @@
             - you can not write them, adding letter h (ch gh hh jx sj u (sic!))
             - or you can replace diacritics with x (cx gx hx jx sx ux)
     - [[interlingua]]
+    - [[pandunia]]
+        - http://www.pandunia.info/english/index.html 
+    - [[lidepla]] ~ [[lingua de planeta]] == [[lingwa de planeta]]
       
 
 # #push [[flancia-meet-2022-06-04]]
