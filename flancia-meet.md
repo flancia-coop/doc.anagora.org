@@ -33,6 +33,9 @@
             - UX could be made not very intrusive? marginalia like.
     - [[wikimedia]] agora?
         - [[bouncepaw]] it could be good for the Agora but it could also change it
+- [[index]] vs [[home]]
+    - we both chose it quickly while developing :)
+    - but [[home]] is the default for a lot of wiki engines
       
 
 # #push [[flancia-meet-2022-06-04]]
