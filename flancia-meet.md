@@ -10,6 +10,11 @@
         - [[latino sine flexione]]
         - grammar of esperanto is easy, lexicon should also be easy
     - [[omniglot]] website
+    - [[esperanto]]
+        - issue of diacritics
+            - th
+            - you can not write them, adding letter h
+            - or you can replace diacritics with x
       
 
 # #push [[flancia-meet-2022-06-04]]
