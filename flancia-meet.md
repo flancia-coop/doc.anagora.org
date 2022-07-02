@@ -7,8 +7,8 @@
 - background
     - [[west is dead]] print
     - [[esperanto]] flag
-        - [[latino sine flexione]]
         - grammar of esperanto is easy, lexicon should also be easy
+    - [[latino sine flexione]]
     - [[omniglot]] website
     - [[esperanto]]
         - issue of diacritics
@@ -19,6 +19,7 @@
     - [[pandunia]]
         - http://www.pandunia.info/english/index.html 
     - [[lidepla]] ~ [[lingwa de planeta]]
+    
       
 
 # #push [[flancia-meet-2022-06-04]]
