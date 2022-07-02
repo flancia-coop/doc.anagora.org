@@ -23,7 +23,9 @@
     - it's blocked in [[china]] it seems
     - [[scots wikipedia]]
     - alternate history
-- 
+- [[wikipedia]]
+    - editing is getting harder
+    - markup is relatively complex
       
 
 # #push [[flancia-meet-2022-06-04]]
