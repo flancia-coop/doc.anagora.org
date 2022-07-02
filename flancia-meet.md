@@ -12,9 +12,10 @@
     - [[omniglot]] website
     - [[esperanto]]
         - issue of diacritics
-            - th
-            - you can not write them, adding letter h
-            - or you can replace diacritics with x
+            - the affected letters: ĉ, ĝ, ĥ, ĵ, ŝ and ŭ.
+            - you can not write them, adding letter h (ch gh hh jx sj u (sic!))
+            - or you can replace diacritics with x (cx gx hx jx sx ux)
+    - [[interlingua]]
       
 
 # #push [[flancia-meet-2022-06-04]]
