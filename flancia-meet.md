@@ -18,7 +18,7 @@
     - [[interlingua]]
     - [[pandunia]]
         - http://www.pandunia.info/english/index.html 
-    - [[lidepla]] ~ [[lingua de planeta]] == [[lingwa de planeta]]
+    - [[lidepla]] ~ [[lingwa de planeta]]
       
 
 # #push [[flancia-meet-2022-06-04]]
