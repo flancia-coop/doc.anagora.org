@@ -38,7 +38,7 @@
     - but [[home]] is the default for a lot of wiki engines
     - [[sources.yaml]] could specific which is the home page for a particular source
     - [[agora.yaml]]
-        - [[bouncepa]]
+        - [[bouncepaw]] this could be served in a well known URL (/.well-known/agora.yaml) for arbitrary sites, wikis, and other non git sources
 - 
       
 
