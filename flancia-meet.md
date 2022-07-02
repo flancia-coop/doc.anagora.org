@@ -4,9 +4,13 @@
 
 # #push [[flancia-meet-2022-07-02]]
 - attending: [[bouncepaw]] [[flancian]]
-- backgr
-- [[west is dead]] print
-- [[esperanto]] flag
+- background
+    - [[west is dead]] print
+    - [[esperanto]] flag
+        - [[latino sine flexione]]
+        - grammar of esperanto is easy, lexicon should also be easy
+    - [[omniglot]] website
+      
 
 # #push [[flancia-meet-2022-06-04]]
 - attending: [[j0lms]] [[flancian]]
