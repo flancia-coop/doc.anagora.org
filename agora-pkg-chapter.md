@@ -16,18 +16,19 @@
     - An Agora [[node]] contains the set of all known resources *about* (or *related* to) the entity described by the node id, defaulting to its name as an arbitrary length unicode string. 
         - (But potentially overrided or extended with provided metadata and annotations.)
         - In this paper each such resource attached to node `N` is called a **subnode** `N_s`. 
-    - Note that because links can be arbitrarily annotated (as they can be considered named according to . nearby #tags and [[wikilinks]]), the Agora graph can be seen to be a **hypergraph**.
-    - (...and thus is believed to be generally sufficient to efficiently encode any data structure.)
+    - Note that because links can be arbitrarily annotated (as they can be considered named according to . nearby #tags and [[wikilinks]]), the Agora graph can be seen to be a **hypergraph** [^hypegraph].
+
+[^hypergraph]: And thus may be sufficient to efficiently encode any data structure as per Wolfram et al.
 
 ## Data format
-- Plain text as layer 0.
+- Layer 0: [[plain text]].
     - Plain text is ubiquituous.
     - It is not only a common standard for all tools in the knowledge space, which simplifies interoperability; it is a common standard for thought as shown by thousands of years of preserved culture.
     - It can trivially encode outlines.
         - It can be made to encode trees, like in this example.
     - It generalizes to binary data.
         - It can be made to encode arbitrary data via application of uuencode or other encoding conventions.
-- Markup formats and conventions for referencing and linking as layer 1.
+- Layer 1: markup formats and conventions for referencing and linking as layer 1.
     - Markdown, org mode, HTML or other rich markups building on top of plain text belong to this layer.
     - [[wikilinks]] and #hashtags seem like sensible cross-format extensions for semantic linking.
     - More generally, a [[metadata]] layer. The above are just relatively unobstrusive generally available implicit standards that inline well.
