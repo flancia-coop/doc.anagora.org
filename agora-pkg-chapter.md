@@ -19,11 +19,10 @@ Being a graph, an Agora can be defined as a set of vertices or **nodes** `N` (en
     - It is not only a common standard for all tools in the knowledge space, which simplifies interoperability; it is a common standard for thought as shown by thousands of years of preserved culture.
     - It can be made to encode trees
     - (It can be made to encode arbitrary data through uuencoding and other derived formats.)
-- Conventions for referencing and linking as layer 1.
-    - [[wikilinks]] and #hashtags seem like sensible defaults.
+- Markup and conventions for referencing and linking as layer 1.
+    - Markdown, org mode, HTML or other rich markups building on top of plain text belong to this layer.
+    - [[wikilinks]] and #hashtags seem like sensible extensions for semantic linking.
     - More generally, a [[metadata]] layer. The above are just relatively unobstrusive generally available implicit standards that inline well.
-- Markdown, org mode, HTML or other rich markups as layer 2.
-    - (TODO: Might be better conflated as a generalization of layer 1?)
 - JSON, EDN, RDF, protobufs and other data exchange formats as layer 3.
 
 
