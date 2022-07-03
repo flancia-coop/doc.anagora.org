@@ -12,7 +12,9 @@ The free and open source reference Agora provides a minimum viable implementatio
 
 ## Data format
 
-## Federation protocol
+## Agora protocol
+
+## Federation
 
 ## Applications
 
@@ -24,6 +26,6 @@ The free and open source reference Agora provides a minimum viable implementatio
 
 ## Thanks
 
-To [[Flancia Collective]], [[Agora Discuss]] and the [[Fellowship of the Link]] for discussion and inspiration.
+To [[Flancia Collective]], [[Agora Discuss]] and the [[Fellowship of the Link]] for the discussion and inspiration.
 
-To all my friends (included those in the groups above) for the inspiration.
+To my friends (included those in the groups above) for the support.
