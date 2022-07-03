@@ -20,9 +20,9 @@ Being a graph, an Agora can be defined as a set of vertices or **nodes** `N` (en
 - Conventions for referencing and linking as layer 1.
     - [[wikilinks]] and #hashtags seem like sensible defaults.
     - More generally, a [[metadata]] layer. The above are just relatively unobstrusive generally available implicit standards that inline well.
-- Markdown, org mode, HTML or other markups as layer 2.
+- Markdown, org mode, HTML or other rich markups as layer 2.
     - 
-- JSON, EDN, RDF and other rich semantic formats as layer 3.
+- JSON, EDN, RDF, protobufs and other rich semantic formats as layer 3.
 
 
 - (Generalizes to binary objects trivially through uuencoding.)
