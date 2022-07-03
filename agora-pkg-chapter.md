@@ -31,7 +31,7 @@
 - Layer 1: [[markup]] and conventions for cross-referencing and linking.
     - Markdown, org mode, HTML or other rich markups building on top of plain text belong to this layer.
     - [[wikilinks]] and #hashtags seem like sensible cross-format extensions for semantic linking.
-    - More generally, a [[inline metadata]] layer. The above are just relatively unobstrusive generally available implicit standards that inline well.
+    - More generally, this is an [[inline metadata]] layer. The above are just relatively unobstrusive generally available implicit standards that inline well.
 - Layer 3: JSON, EDN, RDF, protobufs.
     - In general, data exchange formats.
     
@@ -39,9 +39,9 @@
 - Users can contribute individual resources to an Agora.
     - To do so, as of the time of writing, they can:
         - Submit a URL plus a set of relevant nodes the resource should be attached to.
-        - Interact with an Agora system account (i.e. bot) in supported platforms like social media while indic
+        - Interact with an Agora system account (i.e. bot) in supported platforms like social media while indicating relevant nodes using a Layer 1 convention.
 - Users can contribute repositories to an Agora.
-    - To do so, they 
+    - To do so, they publish their resources to a repository they control and then they let an Agora know of their intention to integrate, a desired username and their agreement with an AGora
 
 ## Protocol
 
