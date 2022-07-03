@@ -11,7 +11,9 @@ This chapter describes a set of [[protocols]], [[contracts]] and [[goals]] that 
 The free and open source reference Agora provides a minimum viable implementation of the [underlay](https://anagora.org/underlay), **interlay**, **overlay** components of a **distributed knowledge graph** based on off-the-shelf components. Individual Agora instances are expected to **federate** and organize into a greater **Agora network**. We describe how this network can integrate with the wider internet ecosystem and how it could be used to run experiments on distributed thought.
 
 ## Graph definition 
-Being a graph, an Agora can be defined as a set of vertices or **nodes** `N` (entities) and **edges** `E` (known links between entities, optionally annotated). An Agora node contains the set of all known resources about or otherwise relevant to the entity described by the node title or any provided metadata. Each such resource is called a **subnode**. Note that because links can be arbitrarily annotated (as they can be considered named according to . nearby #tags and [[wikilinks]]), the Agora graph can be seen to be a **hypergraph** and thus is believed to be gener
+- Being built around a knowledge graph, an Agora can be defined as a set of vertices or **nodes** `N` (each mapping to an entity in a knowledge base) and **edges** `E` (each mapping to a relationship between entities, optionally annotated). 
+    - An Agora [[node]] contains the set of all known resources about or otherwise relevant to the entity described by the node title or any provided metadata. Each such resource is called a **subnode**. 
+    - Note that because links can be arbitrarily annotated (as they can be considered named according to . nearby #tags and [[wikilinks]]), the Agora graph can be seen to be a **hypergraph** and thus is believed to be generally sufficient to efficiently encode any data structure.
 
 ## Data format
 - Plain text as layer 0.
