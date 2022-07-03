@@ -17,7 +17,8 @@ Being a graph, an Agora can be defined as a set of vertices or **nodes** `N` (en
 - Plain text as layer 0.
     - Plain text is ubiquituous.
     - It is not only a common standard for all tools in the knowledge space, which simplifies interoperability; it is a common standard for thought as shown by thousands of years of preserved culture.
-- [[wikilinks]] and #hashtags as layer 1.
+- Conventions for referencing and linking as layer 1.
+    - [[wikilinks]] and #hashtags seem like sensible defaults.
     - More generally, a [[metadata]] layer. The above are just relatively unobstrusive generally available implicit standards that inline well.
 - Markdown, org mode, HTML or other markups as layer 2.
     - 
