@@ -11,3 +11,19 @@ The free and open source reference Agora provides a minimum viable implementatio
 ## Introduction
 
 ## Data format
+
+## Federation protocol
+
+## Applications
+
+### Collaboration
+
+### Counter anti disintermediation
+
+### Adversarial interoperability
+
+## Thanks
+
+To [[Flancia Collective]], [[Agora Discuss]] and the [[Fellowship of the Link]] for discussion and inspiration.
+
+To all my friends (included those in the groups above) for the inspiration.
