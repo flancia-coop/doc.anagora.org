@@ -14,16 +14,17 @@ The free and open source reference Agora provides a minimum viable implementatio
 Being a graph, an Agora can be defined as a set of vertices or **nodes** `N` (entities) and **edges** `E` (known links between entities, optionally annotated). An Agora node contains the set of all known resources about or otherwise relevant to the entity described by the node title or any provided metadata. Each such resource is called a **subnode**. Note that because links can be arbitrarily annotated (i.e. #tagged or qualified by other nearby links) and have multiplicity, the Agora is in fact a **hypergraph**.
 
 ## Data format
-- (TODO: consider splitting the following into two axis)
 - Plain text as layer 0.
     - Plain text is ubiquituous.
     - It is not only a common standard for all tools in the knowledge space, which simplifies interoperability; it is a common standard for thought as shown by thousands of years of preserved culture.
-    - Generalizes to binary objects through uuencoding.
 - [[wikilinks]] and #hashtags as layer 1.
     - More generally, a [[metadata]] layer. The above are just relatively unobstrusive generally available implicit standards that inline well.
 - Markdown, org mode, HTML or other markups as layer 2.
     - 
 - JSON, EDN, RDF and other rich semantic formats as layer 3.
+
+
+- (Generalizes to binary objects trivially through uuencoding.)
 
 ## Protocol
 
