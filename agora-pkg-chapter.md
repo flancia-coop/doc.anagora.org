@@ -5,14 +5,18 @@ The Agora differs from other projects in the knowledge space in a few ways: wher
 
 Whereas links in a personal knowledge graph or wiki usually have a single target, **Agora links fan out by default** and can be thought of as mapping to collections. Finally, **the reference Agora tries to remain tool, format and platform agnostic**, the guiding principle being to build first on general conventions common to many tools and platforms in the knowledge space with the aim of achieving greater inclusivity and diversity.
 
-Being a graph, an Agora can be defined as a set of vertices or **nodes** `N` (entities) and **edges** `E` (known links between entities, optionally annotated). An Agora node contains the set of all known resources about or otherwise relevant to the entity described by the node title or any provided metadata. Each such resource is called a **subnode**. Note that because links can be arbitrarily annotated (i.e. #tagged or qualified by other nearby links) and have multiplicity, the Agora is in fact a **hypergraph**.
 
 This chapter describes a set of [[protocols]], [[contracts]] and [[goals]] that can be said to define an Agora. It also covers a reference implementation of such a construct as free software, and potential applications of a network built around such a platform in the [[knowledge]] and [[social]] domains.
 
 The free and open source reference Agora provides a minimum viable implementation of the [underlay](https://anagora.org/underlay), **interlay**, **overlay** components of a **distributed knowledge graph** based on off-the-shelf components. Individual Agora instances are expected to **federate** and organize into a greater **Agora network**. We describe how this network can integrate with the wider internet ecosystem and how it could be used to run experiments on distributed thought.
 
+## Graph definition 
+Being a graph, an Agora can be defined as a set of vertices or **nodes** `N` (entities) and **edges** `E` (known links between entities, optionally annotated). An Agora node contains the set of all known resources about or otherwise relevant to the entity described by the node title or any provided metadata. Each such resource is called a **subnode**. Note that because links can be arbitrarily annotated (i.e. #tagged or qualified by other nearby links) and have multiplicity, the Agora is in fact a **hypergraph**.
+
 ## Data format
-- Plain text as layer 0
+- Plain text as layer 0.
+    - Plain text is ubiquituous.
+    - It is not only a common standard for all tools in the knowledge space; it is a common standard for thought as shown by thousands of years of preserved culture.
 - [[wikilinks]] and #hashtags as layer 1.
 - Markdown as layer 2.
 - HTML, XML and other rich formats as layer 3.
