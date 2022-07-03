@@ -37,6 +37,9 @@
     
 ## Data model
 - Users can contribute individual resources to an Agora.
+    - To do so, as of the time of writing, they can:
+        - Submit a URL plus a set of relevant nodes the resource should be attached to.
+        - Interact with an Agora system account (i.e. bot) in supported platforms like social media while indic
 - Users can contribute repositories to an Agora.
     - To do so, they 
 
