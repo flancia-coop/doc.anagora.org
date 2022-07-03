@@ -13,8 +13,8 @@ The free and open source reference Agora provides a minimum viable implementatio
 ## Graph definition 
 - Being built around a knowledge graph, an Agora can be defined as a set of vertices or **nodes** `N` (each mapping to an entity in a knowledge base) and **edges** `E` (each mapping to a relationship between entities, optionally annotated). 
     - An Agora [[node]] contains the set of all known resources *about* (or *related* to) the entity described by the node id, defaulting to its name as an arbitrary length unicode string. 
-        - (But potentially overridable with provided metadata and annotations. 
-        - Each such resource is called a **subnode**. 
+        - (But potentially overrided or extended with provided metadata and annotations.)
+        - In this paper each such resource attached to node `N` is called a **subnode** `N_s`. 
     - Note that because links can be arbitrarily annotated (as they can be considered named according to . nearby #tags and [[wikilinks]]), the Agora graph can be seen to be a **hypergraph** and thus is believed to be generally sufficient to efficiently encode any data structure.
 
 ## Data format
