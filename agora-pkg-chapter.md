@@ -16,8 +16,9 @@ Being a graph, an Agora can be defined as a set of vertices or **nodes** `N` (en
 ## Data format
 - Plain text as layer 0.
     - Plain text is ubiquituous.
-    - It is not only a common standard for all tools in the knowledge space; it is a common standard for thought as shown by thousands of years of preserved culture.
+    - It is not only a common standard for all tools in the knowledge space, which simplifies interoperability; it is a common standard for thought as shown by thousands of years of preserved culture.
 - [[wikilinks]] and #hashtags as layer 1.
+    - More generally, a [[metadata]] layer. The above are just relatively unobstrusive 
 - Markdown as layer 2.
 - HTML, XML and other rich formats as layer 3.
 
