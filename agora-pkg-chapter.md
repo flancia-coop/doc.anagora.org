@@ -7,14 +7,17 @@
     - Finally, **the reference Agora tries to remain tool, format and platform agnostic**, the guiding principle being to build first on general conventions common to many tools and platforms in the knowledge space with the aim of achieving greater inclusivity and diversity.
 - This chapter describes a set of [[protocols]], [[contracts]] and [[goals]] that can be said to define an Agora. It also covers a reference implementation of such a construct as free software, and potential applications of a network built around such a platform in the [[knowledge]] and [[social]] domains.
 - We also cover details of a free and open source reference Agora which provides a minimum viable implementation of the [underlay](https://anagora.org/underlay), **interlay**, **overlay** components of a **distributed knowledge graph**.
-    - This reference system on off-the-shelf components. Individual Agora instances are expected to **federate** and organize into a greater **Agora network**. We describe how this network can integrate with the wider internet ecosystem and how it could be used to run experiments on distributed thought.
+    - This reference system is based on off-the-shelf components like Markdown and git. 
+    - Individual Agora instances are expected to **federate** and organize into a greater **Agora network**. 
+    - We describe how this network can integrate with the wider internet ecosystem and how it could be used to run experiments on distributed thought.
 
 ## Graph definition 
 - Being built around a knowledge graph, an Agora can be defined as a set of vertices or **nodes** `N` (each mapping to an entity in a knowledge base) and **edges** `E` (each mapping to a relationship between entities, optionally annotated). 
     - An Agora [[node]] contains the set of all known resources *about* (or *related* to) the entity described by the node id, defaulting to its name as an arbitrary length unicode string. 
         - (But potentially overrided or extended with provided metadata and annotations.)
         - In this paper each such resource attached to node `N` is called a **subnode** `N_s`. 
-    - Note that because links can be arbitrarily annotated (as they can be considered named according to . nearby #tags and [[wikilinks]]), the Agora graph can be seen to be a **hypergraph** and thus is believed to be generally sufficient to efficiently encode any data structure.
+    - Note that because links can be arbitrarily annotated (as they can be considered named according to . nearby #tags and [[wikilinks]]), the Agora graph can be seen to be a **hypergraph**.
+    - (...and thus is believed to be generally sufficient to efficiently encode any data structure.)
 
 ## Data format
 - Plain text as layer 0.
