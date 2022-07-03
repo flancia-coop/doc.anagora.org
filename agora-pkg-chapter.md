@@ -28,15 +28,17 @@
         - It can be made to encode trees, like in this example.
     - It generalizes to binary data.
         - It can be made to encode arbitrary data via application of uuencode or other encoding conventions.
-- Layer 1: markup formats and conventions for referencing and linking as layer 1.
+- Layer 1: [[markup]] and conventions for cross-referencing and linking.
     - Markdown, org mode, HTML or other rich markups building on top of plain text belong to this layer.
     - [[wikilinks]] and #hashtags seem like sensible cross-format extensions for semantic linking.
-    - More generally, a [[metadata]] layer. The above are just relatively unobstrusive generally available implicit standards that inline well.
-- JSON, EDN, RDF, protobufs as layer 3.
+    - More generally, a [[inline metadata]] layer. The above are just relatively unobstrusive generally available implicit standards that inline well.
+- Layer 3: JSON, EDN, RDF, protobufs.
     - In general, data exchange formats.
     
-## Repository definition
-- A data is 
+## Data model
+- Users can contribute individual resources to an Agora.
+- Users can contribute repositories to an Agora.
+    - To do so, they 
 
 ## Protocol
 
