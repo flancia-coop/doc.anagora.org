@@ -10,6 +10,10 @@ Being a graph, an Agora can be defined as a set of vertices or **nodes** `N` (en
 The free and open source reference Agora provides a minimum viable implementation of the [underlay](https://anagora.org/underlay), **interlay**, **overlay** components of a **distributed knowledge graph** based on off-the-shelf components. Individual Agora instances are expected to **federate** and organize into a greater **Agora network**. We describe how this network can integrate with the wider internet ecosystem and how it could be used to run experiments on distributed thought.
 
 ## Data format
+- Plain text as layer 0
+- [[wikilinks]] and #hashtags as layer 1.
+- Markdown as layer 2.
+- HTML, XML and other rich formats as layer 3.
 
 ## Protocol
 
