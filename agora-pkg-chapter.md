@@ -17,14 +17,18 @@ Being a graph, an Agora can be defined as a set of vertices or **nodes** `N` (en
 - Plain text as layer 0.
     - Plain text is ubiquituous.
     - It is not only a common standard for all tools in the knowledge space, which simplifies interoperability; it is a common standard for thought as shown by thousands of years of preserved culture.
-    - (It can be made to encode trees, like in this example.)
-    - (It can be made to encode arbitrary data via encoding conventions.)
+    - It can trivially encode outlines.
+        - It can be made to encode trees, like in this example.
+    - It generalizes to binary data.
+        - It can be made to encode arbitrary data via application of uuencode or other encoding conventions.
 - Markup formats and conventions for referencing and linking as layer 1.
     - Markdown, org mode, HTML or other rich markups building on top of plain text belong to this layer.
     - [[wikilinks]] and #hashtags seem like sensible cross-format extensions for semantic linking.
     - More generally, a [[metadata]] layer. The above are just relatively unobstrusive generally available implicit standards that inline well.
 - JSON, EDN, RDF, protobufs as layer 3.
     - In general, data exchange formats.
+    
+## Data exchange
 
 ## Protocol
 
