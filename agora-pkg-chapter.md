@@ -44,7 +44,7 @@
 
 - The reference Agora is a simple distributed architecture based on off the shelf components.
     - (Here we follow terminology by the [[knowledge futures group]]).
-    - [[agora root]] is a git repository containing the Agora definition, meaning a base [[contract]] which sets the tone and high level goals of the Agora and an [[interlay]] definition: a list of data sources to be recurringly integrated.
+    - [[agora root]] is a git repository containing the Agora definition, meaning a base [[contract]] which sets the tone and high level goals of the Agoralist of data sources to be recurringly integrated.
     - [[agora bridge]] is a git repository containing the [[underlay]], meaning connectors and importers for supported data sources.
         - User controlled [[git]] repositories are the default data source.
     - [[agora server]] provides an [[overlay]].
