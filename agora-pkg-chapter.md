@@ -53,7 +53,6 @@
     - [[agora bridge]] is a git repository containing connectors and importers for supported data sources.
         - User controlled [[git]] repositories are the default data source.
     - [[agora server]] provides a UI supporting querying and composition and [[json]], [[rss]], [[rdf]] endpoints.
-- (TODO: introduce terminology by the [[knowledge futures group]]).
     
 ### Protocol
 - The Agora network should be built on a federated protocol to limit the negative impact of diasporas. Groups might temporarily diverge in their views enough to want to run separate Agoras, but ideally Agoras should be able to cooperate on problems and solutions for which there is enough ideological alignment, and eventually merge back.
