@@ -72,14 +72,14 @@ The Agora should be built on a federated protocol to limit the harmfulness of di
 ### Adversarial interoperability
 - An Agora can be used to let users regain control of their data from entities which by default are not proactive enough or flexible enough when stewarding or relinquishing control of user data.
 
-### Basic income
+### Network flow
 
 - We bootstrap a Universal Basic Income experiment using the Agora with a set of simple rules:
     - If you consider yourself under-privileged, you sign up to receive an income.
     - If you consider yourself over-privileged, you sign up to donate an income.
-    - Incomes are recurring donations for a number of months.
-    - Optional virality rule: the person receiving the income (can|must) elect to forward N% of it to someone less privileged than them.
-- The virality rule both pushes network growth and constructively exploits asymmetry of information: an under-privileged person is closer in the world to a more severely under-privileged person than the initial donor, so can more efficiently allocate the resources. This also empowers under-privileged people to also make ethical decisions.
+    - Incomes are recurring donations for a set number of months.
+- Optional virality rule: the person receiving the income should elect to forward e.g. 10% of the sum received to someone less privileged than them.
+    - The virality rule both pushes network growth and constructively exploits wealth inequality and asymmetry of information: an under-privileged person is closer in the world to a more severely under-privileged person than the initial donor, so can more efficiently allocate the resources. This also empowers under-privileged people to also make ethical decisions.
 - The Agora will try to implement default policies for matching donors and receivers, but participating users can probably hand-pick if desired.
 
 ## Thanks
