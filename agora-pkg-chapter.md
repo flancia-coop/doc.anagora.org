@@ -29,10 +29,21 @@
     - Markdown, org mode, HTML or other rich markups building on top of plain text belong to this layer.
     - [[wikilinks]] and #hashtags seem like sensible cross-format extensions for semantic linking.
     - More generally, this is an [[inline metadata]] layer. The above are just relatively unobstrusive generally available implicit standards that inline well.
+    - [[example]] 
 - Layer 3: JSON, EDN, RDF, protobufs.
     - In general, data exchange formats.
     
-## Data model
+## Reference implementation
+- Here we cover details of a free and open source reference Agora which provides a minimum viable implementation of the [underlay](https://anagora.org/underlay), **interlay**, **overlay** components of a **distributed knowledge graph**.
+    - This reference system is based on off-the-shelf components like Markdown and git. 
+    - Individual Agora instances are expected to **federate** and organize into a greater **Agora network**. 
+    - We describe how this network can integrate with the wider internet ecosystem and how it could be used to run experiments on distributed thought.
+- The Agora network should be built on a federated protocol to limit the negative impact of diasporas. Groups might temporarily diverge in their views enough to want to run separate Agoras, but different Agoras should be able to cooperate on problems and solutions for which there is enough ideological alignment, and eventually merge back.
+
+### Protocol
+- See https://anagora.org/go/agora-protocol.
+
+### Data model
 - Users can contribute individual [[resources]] to an Agora.
     - To do so, as of the time of writing, they can:
         - Submit a URL plus a set of relevant nodes the resource should be attached to.
@@ -40,20 +51,8 @@
 - Users can contribute [[repositories]] to an Agora.
     - To do so, they publish their resources to a repository they control and then they let an Agora know of their intention to integrate, a desired username and their agreement with an Agora's contract.
 
-## Protocol
-- See https://anagora.org/go/agora-protocol.
-
-## Federation
-
-The Agora should be built on a federated protocol to limit the negative impact of diasporas. Groups might temporarily diverge in their views enough to want to run separate Agoras, but different Agoras should be able to cooperate on problems and solutions for which there is enough ideological alignment, and eventually merge back.
 
 ## Applications
-- We also cover details of a free and open source reference Agora which provides a minimum viable implementation of the [underlay](https://anagora.org/underlay), **interlay**, **overlay** components of a **distributed knowledge graph**.
-    - This reference system is based on off-the-shelf components like Markdown and git. 
-    - Individual Agora instances are expected to **federate** and organize into a greater **Agora network**. 
-    - We describe how this network can integrate with the wider internet ecosystem and how it could be used to run experiments on distributed thought.
-
-
 ### Collaborative problem solving
 
 - One of the best possible uses for such a network would be to use it to pro-socially maintain a distributed knowledge graph tailored specifically to the goal of solving problems: those of its users and society at large.
