@@ -35,14 +35,16 @@
     - More generally, this is an [[inline metadata]] layer. The above are just relatively unobstrusive generally available implicit standards that inline well.
 - Layer 3: JSON, EDN, RDF, protobufs.
     - In general, data exchange formats.
-    - The Agora reference implementation currently provides JSON and RDF output.
+    - The Agora reference implementation currently provides JSON and RDF endpoints.
     
 ## Reference implementation
-- Here we cover details of a free and open source reference Agora which provides a minimum viable implementation of the [underlay](https://anagora.org/underlay), **interlay**, **overlay** components of a **distributed knowledge graph**.
+- Here we cover some details of the provided free and open source reference Agora which provides a minimum viable implementation of the [[underlay]][^kfg], **interlay**, and **overlay** components of a **distributed knowledge graph**[^kfg].
     - This reference system is based on off-the-shelf components like Markdown and git. 
     - Individual Agora instances are expected to **federate** and organize into a greater **Agora network**. 
     - We describe how this network can integrate with the wider internet ecosystem and how it could be used to run experiments on distributed thought.
 - The Agora network should be built on a federated protocol to limit the negative impact of diasporas. Groups might temporarily diverge in their views enough to want to run separate Agoras, but different Agoras should be able to cooperate on problems and solutions for which there is enough ideological alignment, and eventually merge back.
+
+[^kfg]: https://
 
 ### Architecture
 ![agora architecture](https://social-coop-media.ams3.cdn.digitaloceanspaces.com/media_attachments/files/108/346/148/636/771/913/original/9ffcfe84fe738daf.jpeg)
