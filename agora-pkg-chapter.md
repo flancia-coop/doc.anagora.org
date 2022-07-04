@@ -43,10 +43,9 @@
 ![agora architecture](https://social-coop-media.ams3.cdn.digitaloceanspaces.com/media_attachments/files/108/346/148/636/771/913/original/9ffcfe84fe738daf.jpeg)
 
 - The reference Agora is a simple distributed architecture based on off the shelf components.
-    - [[git]] repositories are the default data source.
-    -  ([[underlay]]).
     - [[agora root]] is a git repository containing the [[interlay]] definition.
-    - [[agora bridge]]
+    - [[agora bridge]] is a git repository containing the [[underlay]], meaning connectors and importers for supported sources.
+    - User controlled [[git]] repositories are the default data source.
     
 
 ### Protocol
