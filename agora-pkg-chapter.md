@@ -65,13 +65,16 @@
 - Users that agree on their defined subsets can then efficiently collaborate on solutions as they become available by pooling of resources.
 - We apply some good old recursivity and seed the Agora with the problem of how to build itself. That is, how to build a system that allows participating users and entities to collaborate optimally in the face of adversity (such as biases, irrationality and even actual ill intent)1.
 
+### Coordination problems
+- A workAgora is a [[schelling point]].
+
 ### Counter anti disintermediation
 - An Agora can be used to solve coordination problems like those at the heart of enabling users to leave walled gardens and other systems whose design causes anti disintermediation.
 
 ### Adversarial interoperability
 - An Agora can be used to let users regain control of their data from entities which by default are not proactive enough or flexible enough when stewarding or relinquishing control of user data.
 
-### Network flow
+### Flow problems 
 - We bootstrap a Universal Basic Income experiment using the Agora with a set of simple rules:
     - If you consider yourself under-privileged, you sign up to receive an income.
     - If you consider yourself over-privileged, you sign up to donate an income.
