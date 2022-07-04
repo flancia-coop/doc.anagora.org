@@ -94,7 +94,7 @@
 ### Coordination problems
 - A working Agora is a [[schelling point]] built around the [[principle of charity]].
 
-### Counter anti disintermediation through adversarial interoperability
+### [[Counter anti disintermediation]] through [[adversarial interoperability]]
 - An Agora can be used to solve coordination problems like those we need to solve to enable users to leave walled gardens and protect the [[commons]] against [[enclosure]] by [[anti disintermediating]] parties.
     - An Agora provides free [[bridges]] to escape [[walled gardens]] with your friends.
     - An Agora can help people regain and maintain control of their data, including their [[social graphs]].
