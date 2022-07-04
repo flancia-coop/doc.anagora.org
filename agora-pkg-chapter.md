@@ -1,16 +1,12 @@
 ## Introduction
 
 - In this chapter we describe an **Agora**, a **social knowledge graph** provisioned and maintained by a community as a [commons](https://anagora.org/commons).
-    - An Agora is designed to be cooperative platform that integrates and complements personal knowledge graphs with minimal effort.
+    - An Agora is designed to be a cooperative platform that integrates and complements both personal knowledge graphs and social networks with minimal effort.
 - The Agora differs from other projects in the knowledge space in a few ways: 
     - Whereas a **personal knowledge graph** usually contains resources authored or collected by a single person, and a **wiki** usually contains resources produced by a group, an Agora contains and integrates both personal and group resources and tries to interlink them liberally by default. 
     - Whereas links in a personal knowledge graph or wiki usually have a single target, **Agora links fan out by default** and its targets can be thought of as mapping to collections. 
-    - Whereas some tools in the personal knowledge graph space are exploring collaborative editing in an idiosyncratic way, **the reference Agora tries to remain tool, format and platform agnostic**, the guiding principle being to build first on general conventions common to many tools and platforms in the knowledge space with the aim of achieving greater inclusivity and diversity.
-- This chapter describes a set of [[conventions]], [[protocols]], and [[contracts]] that can be said to define an Agora. It also covers a reference implementation as free software, and potential applications of a network built around such a platform in the [[knowledge]] and [[social]] domains.
-- We also cover details of a free and open source reference Agora which provides a minimum viable implementation of the [underlay](https://anagora.org/underlay), **interlay**, **overlay** components of a **distributed knowledge graph**.
-    - This reference system is based on off-the-shelf components like Markdown and git. 
-    - Individual Agora instances are expected to **federate** and organize into a greater **Agora network**. 
-    - We describe how this network can integrate with the wider internet ecosystem and how it could be used to run experiments on distributed thought.
+    - Whereas some tools in the personal knowledge graph space are exploring collaborative editing in an idiosyncratic way, **the reference Agora tries to remain tool, format and platform agnostic**, the guiding principle being to build first on general conventions common to many tools and platforms in the knowledge space with the aim of achieving maximal inclusivity and diversity.
+- This chapter describes a set of [[conventions]], [[protocols]], and [[contracts]] that can be said to define an Agora. It also covers a work-in-progress reference implementation developed as free software, and potential applications of a network built around such a platform in the [[knowledge]] and [[social]] domains.
 
 ## Graph definition 
 - Being built around a knowledge graph, an Agora can be defined as a set of vertices or **nodes** `N` (each mapping to an entity in a knowledge base) and **edges** `E` (each mapping to a relationship between entities, annotated by context). 
@@ -52,6 +48,11 @@
 The Agora should be built on a federated protocol to limit the negative impact of diasporas. Groups might temporarily diverge in their views enough to want to run separate Agoras, but different Agoras should be able to cooperate on problems and solutions for which there is enough ideological alignment, and eventually merge back.
 
 ## Applications
+- We also cover details of a free and open source reference Agora which provides a minimum viable implementation of the [underlay](https://anagora.org/underlay), **interlay**, **overlay** components of a **distributed knowledge graph**.
+    - This reference system is based on off-the-shelf components like Markdown and git. 
+    - Individual Agora instances are expected to **federate** and organize into a greater **Agora network**. 
+    - We describe how this network can integrate with the wider internet ecosystem and how it could be used to run experiments on distributed thought.
+
 
 ### Collaborative problem solving
 
