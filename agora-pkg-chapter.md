@@ -43,11 +43,11 @@
 ![agora architecture](https://social-coop-media.ams3.cdn.digitaloceanspaces.com/media_attachments/files/108/346/148/636/771/913/original/9ffcfe84fe738daf.jpeg)
 
 - The reference Agora is a simple distributed architecture based on off the shelf components.
-    - (Here we follow terminology by the [[knowledge futures group]]).
-    - [[agora root]] is a git repository containing the Agora definition, meaning a base [[contract]] which sets the tone and high level goals of the Agoralist of data sources to be recurringly integrated.
-    - [[agora bridge]] is a git repository containing the [[underlay]], meaning connectors and importers for supported data sources.
+    - [[agora root]] is a git repository containing the Agora definition, meaning a base [[contract]] which sets the tone and high level goals of the Agora, and a list of data sources to be recurringly integrated.
+    - [[agora bridge]] is a git repository containing connectors and importers for supported data sources.
         - User controlled [[git]] repositories are the default data source.
-    - [[agora server]] provides an [[overlay]].
+    - [[agora server]] provides a UI supporting aggregation, queries and actions.
+- (TODO: introduce terminology by the [[knowledge futures group]]).
     
 
 ### Protocol
