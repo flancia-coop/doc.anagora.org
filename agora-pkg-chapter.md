@@ -42,7 +42,6 @@
     - The reference system is based on off-the-shelf components like git and Markdown. 
     - Individual Agora instances, initially provisioned and maintained by like-minded groups but later moving to a fully distributed model, are expected to **federate** and organize into a greater [[Agora network]]. 
     - We describe how this network can integrate with the wider internet ecosystem and how it could be used to run experiments on distributed thought.
-- The Agora network should be built on a federated protocol to limit the negative impact of diasporas. Groups might temporarily diverge in their views enough to want to run separate Agoras, but different Agoras should be able to cooperate on problems and solutions for which there is enough ideological alignment, and eventually merge back.
 
 [^kfg]: https://www.knowledgefutures.org/
 
@@ -57,15 +56,16 @@
 - (TODO: introduce terminology by the [[knowledge futures group]]).
     
 ### Protocol
+- The Agora network should be built on a federated protocol to limit the negative impact of diasporas. Groups might temporarily diverge in their views enough to want to run separate Agoras, but ideally Agoras should be able to cooperate on problems and solutions for which there is enough ideological alignment, and eventually merge back.
 - #pull [[agora protocol]]
 
 ### Data model
-- Users can contribute individual [[resources]] to an Agora.
-    - To do so, as of the time of writing, they can:
-        - Submit a URL plus a set of relevant nodes the resource should be attached to.
-        - Interact with an Agora system account (i.e. bot) in supported platforms like social media while indicating relevant nodes using a Layer 1 convention.
 - Users can contribute [[repositories]] to an Agora.
     - To do so, they publish their resources to a repository they control and then they let an Agora know of their intention to integrate, a desired username and their agreement with an Agora's contract.
+    - [[git]] repositories are the default data source, with other repository providers ([[http]], [[ipfs]], [[drive]], [[dropbox]]) to follow.
+- Users can contribute individual [[resources]] to an Agora.
+    - As of the time of writing they can interact with an Agora system account (i.e. bot) in supported platforms like [[twitter]] and [[mastodon]] while indicating nodes they want to using a Layer 1 convention.
+    - They can Submit a URL plus a set of relevant nodes the resource should be attached to.
 
 ## Applications
 
