@@ -5,8 +5,10 @@
 - The Agora stands out from many other projects in knowledge graph space in a few ways: 
     - Whereas a **personal knowledge graph** usually contains resources authored or collected by a single person, and a **wiki** usually contains resources produced by a group, an Agora is meant to integrate both personal and group resources and interlink them liberally by default. 
     - Whereas links in a personal knowledge graph or wiki usually have a single target, **Agora links fan out by default** and its targets can be thought of as mapping to collections of resources. 
-    - Whereas several tools in the personal knowledge graph space are exploring collaborative editing, **the reference Agora tries to remain tool, format and platform agnostic**, the guiding principle being to build first on general conventions common to many tools and platforms in the knowledge space with the aim of achieving maximal inclusivity and diversity.
-- This chapter describes a set of [[conventions]], [[protocols]], and [[contracts]] that can be said to define an Agora. It also covers a work-in-progress reference implementation developed as free software, and potential applications of a network built around such a platform in the [[knowledge]] and [[social]] domains.
+    - Whereas several tools in the personal knowledge graph space are exploring collaborative editing in their individual way, **the reference Agora tries to be tool, format and platform agnostic** to maximize interoperability and data exchange.
+- This chapter describes a set of [[conventions]], [[protocols]], and [[contracts]] that can be said to define an Agora. 
+    - It also covers a work-in-progress reference implementation developed as free software, and potential applications of a network built around such a platform in the [[knowledge]] and [[social]] domains. 
+    - The guiding principle being to build first on general conventions common to as many tools and platforms as it is possible with the aim to achieve maximal inclusivity and diversity.
 
 ## Graph definition 
 - Being built around a knowledge graph, an Agora can be defined as a set of vertices or **nodes** `N` (each mapping to an entity in a knowledge base) and **edges** `E` (each mapping to a relationship between entities, annotated by context). 
