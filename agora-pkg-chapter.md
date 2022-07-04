@@ -1,8 +1,8 @@
 ## Introduction
 
 - In this chapter we describe an **Agora**, a **social knowledge graph** provisioned and maintained by a community as a [commons](https://anagora.org/commons).
-    - An Agora is designed to be a cooperative platform that integrates and complements both personal knowledge graphs and social networks with minimal effort.
-- The Agora differs from other projects in the knowledge space in a few ways: 
+    - An Agora is designed to be a cooperative platform that integrates and complements both [[personal knowledge graphs]] and [[social networks]] with minimal effort.
+- The Agora differs from many other projects in knowledge graph space in a few ways: 
     - Whereas a **personal knowledge graph** usually contains resources authored or collected by a single person, and a **wiki** usually contains resources produced by a group, an Agora contains and integrates both personal and group resources and tries to interlink them liberally by default. 
     - Whereas links in a personal knowledge graph or wiki usually have a single target, **Agora links fan out by default** and its targets can be thought of as mapping to collections. 
     - Whereas some tools in the personal knowledge graph space are exploring collaborative editing in an idiosyncratic way, **the reference Agora tries to remain tool, format and platform agnostic**, the guiding principle being to build first on general conventions common to many tools and platforms in the knowledge space with the aim of achieving maximal inclusivity and diversity.
@@ -103,4 +103,4 @@
 
 ## Thanks
 
-To [[Flancia Collective]], [[Agora Discuss]] and [[Fellowship of the Link]] for discussion and inspiration. To my friends for the support.
+To [[Flancia Collective]], [[Agora Discuss]] and the [[Fellowship of the Link]] for discussion and inspiration. To my [[friends]] for their support.
