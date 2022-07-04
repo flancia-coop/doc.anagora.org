@@ -41,20 +41,31 @@
         - Submit a URL plus a set of relevant nodes the resource should be attached to.
         - Interact with an Agora system account (i.e. bot) in supported platforms like social media while indicating relevant nodes using a Layer 1 convention.
 - Users can contribute repositories to an Agora.
-    - To do so, they publish their resources to a repository they control and then they let an Agora know of their intention to integrate, a desired username and their agreement with an AGora
+    - To do so, they publish their resources to a repository they control and then they let an Agora know of their intention to integrate, a desired username and their agreement with an Agora's contract.
 
 ## Protocol
-
 
 ## Federation
 
 ## Applications
 
-### Collaboration
+### Patterning
 
 ### Counter anti disintermediation
 
 ### Adversarial interoperability
+
+### Collaboration
+
+#### Basic income
+
+- We bootstrap a Universal Basic Income experiment using the Agora with a set of simple rules:
+    - If you consider yourself under-privileged, you sign up to receive an income.
+    - If you consider yourself over-privileged, you sign up to donate an income.
+    - Incomes are recurring donations for a number of months.
+    - Optional virality rule: the person receiving the income (can|must) elect to forward N% of it to someone less privileged than them.
+- The virality rule both pushes network growth and constructively exploits asymmetry of information: an under-privileged person is closer in the world to a more severely under-privileged person than the initial donor, so can more efficiently allocate the resources. This also empowers under-privileged people to also make ethical decisions.
+- The Agora will try to implement default policies for matching donors and receivers, but participating users can probably hand-pick if desired.
 
 ## Thanks
 
