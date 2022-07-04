@@ -95,14 +95,14 @@
 ### Coordination problems
 - A working Agora is a [[schelling point]] built around the [[principle of charity]].
 
-### Counter anti disintermediation
-- An Agora can be used to solve coordination problems like those we need to solve to enable users to leave walled gardens and other enclosures of the commons achieved through [[anti disintermediation]].
-
-### Adversarial interoperability
-- An Agora can be used to let users regain control of their data from entities which by default are not proactive enough or flexible enough when stewarding or relinquishing control of user data.
+### Counter anti disintermediation through adversarial interoperability
+- An Agora can be used to solve coordination problems like those we need to solve to enable users to leave walled gardens or protect the [[commons]] against [[enclosures]] achieved by [[anti disintermediating]] parties.
+- An Agora provides free [[bridges]] to escape [[walled gardens]] with your friends.
+- An Agora helps people regain and maintain control of their data, including their [[social graphs]].
 
 ### Flow problems 
-- We bootstrap a Universal Basic Income experiment using the Agora with a set of simple rules:
+- #pull [[liquid democracy]]
+- We bootstrap a Universal Basic Income experiment using an Agora with a set of simple rules:
     - If you consider yourself under-privileged, you sign up to receive an income.
     - If you consider yourself over-privileged, you sign up to donate an income.
     - Incomes are recurring donations for a set number of months.
