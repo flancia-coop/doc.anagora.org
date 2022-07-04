@@ -16,7 +16,7 @@
     - An Agora [[node]] contains the set of all known resources *about* (or *related* to) the entity described by the node id, defaulting to its name as an arbitrary length unicode string. 
         - (But potentially overrided or extended with provided metadata and annotations.)
         - In this paper each such resource attached to node `N` is known as a **subnode** `N_s`. 
-    - Note that because links can be arbitrarily annotated (as they can be considered named according to nearby #tags and [[wikilinks]]), the Agora graph can be seen to be a **hypergraph** [^hypergraph].
+    - Note that because links can be arbitrarily annotated (as they can be considered according to nearby #tags and [[wikilinks]]), the Agora graph can be seen to be a **hypergraph** [^hypergraph].
 
 [^hypergraph]: And thus may be sufficient to efficiently encode any data structure as per Wolfram et al.
 
