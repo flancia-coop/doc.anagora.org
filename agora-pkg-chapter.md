@@ -54,6 +54,12 @@
 
 ### Building meaning best effort
 - An Agora supports taxonomies in principle but mostly provides a set of basic tools to converge on meaning best effort through social processes.
+    - (cover:
+        - [[agora actions]]
+        - #push and #pull
+        - #go links
+        - subnode ranking)
+
 
 ### Collaborative problem solving
 - One of the best possible uses for such a network would be to use it to pro-socially maintain a distributed knowledge graph tailored specifically to the goal of solving problems: those of its users and society at large.
