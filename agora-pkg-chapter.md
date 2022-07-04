@@ -52,28 +52,29 @@ The Agora should be built on a federated protocol to limit the harmfulness of di
 ## Applications
 
 ### Patterning
+- An Agora can be seen 
 
 - One of the best possible uses for such a network would be to use it to pro-socially maintain a distributed knowledge graph tailored specifically to the goal of solving problems: those of its users and society at large.
-
-Its users, as a cooperative group, could by default take a naive but rational approach to problem solving:
-
-- For each problem in the set P of all problems:
-    - Describe it as thoroughly as possible.
-    - Maintain a set of known or argued possible solutions, S(P).
-- For each solution in S(P):
-    - Describe it as thoroughly as possible.
-    - Maintain a set of resources (people, time, attention, money) needed to implement it, R(S).
-- Individual users could also declare their views on the state of the world explicitly: they define which subsets of P, S and R they agree with, in the sense that they believe they are feasible, true, interesting.
+- Its users, as a cooperative group, could by default take a naive but rational approach to problem solving:
+    - For each problem in the set P of all problems:
+        - Describe it as thoroughly as possible.
+        - Maintain a set of known or argued possible solutions, S(P).
+    - For each solution in S(P):
+        - Describe it as thoroughly as possible.
+        - Maintain a set of resources (people, time, attention, money) needed to implement it, R(S).
+    - Individual users could also declare their views on the state of the world explicitly: they define which subsets of P, S and R they agree with, in the sense that they believe they are feasible, true, interesting.
 - Users that agree on their defined subsets can then efficiently collaborate on solutions as they become available by pooling of resources.
 - We apply some good old recursivity and seed the Agora with the problem of how to build itself. That is, how to build a system that allows participating users and entities to collaborate optimally in the face of adversity (such as biases, irrationality and even actual ill intent)1.
 
 ### Counter anti disintermediation
+- An Agora can be used to solve coordination problems.
 
 ### Adversarial interoperability
+- An Agora can be used to let users regain control of their data from entities which by default are not proactive enough or flexible enough when stewarding or relinquishing control of user data.
 
 ### Collaboration
 
-#### Basic income
+### Basic income
 
 - We bootstrap a Universal Basic Income experiment using the Agora with a set of simple rules:
     - If you consider yourself under-privileged, you sign up to receive an income.
