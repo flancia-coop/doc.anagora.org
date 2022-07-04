@@ -39,6 +39,9 @@
     - We describe how this network can integrate with the wider internet ecosystem and how it could be used to run experiments on distributed thought.
 - The Agora network should be built on a federated protocol to limit the negative impact of diasporas. Groups might temporarily diverge in their views enough to want to run separate Agoras, but different Agoras should be able to cooperate on problems and solutions for which there is enough ideological alignment, and eventually merge back.
 
+### Architecture
+![agora architecture](https://social-coop-media.ams3.cdn.digitaloceanspaces.com/media_attachments/files/108/346/148/636/771/913/original/9ffcfe84fe738daf.jpeg)
+
 ### Protocol
 - See https://anagora.org/go/agora-protocol.
 
