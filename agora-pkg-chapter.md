@@ -29,7 +29,6 @@
     - Markdown, org mode, HTML or other rich markups building on top of plain text belong to this layer.
     - [[wikilinks]] and #hashtags seem like sensible cross-format extensions for semantic linking.
     - More generally, this is an [[inline metadata]] layer. The above are just relatively unobstrusive generally available implicit standards that inline well.
-    - [[example]] 
 - Layer 3: JSON, EDN, RDF, protobufs.
     - In general, data exchange formats.
     
@@ -51,10 +50,9 @@
 - Users can contribute [[repositories]] to an Agora.
     - To do so, they publish their resources to a repository they control and then they let an Agora know of their intention to integrate, a desired username and their agreement with an Agora's contract.
 
-
 ## Applications
-### Collaborative problem solving
 
+### Collaborative problem solving
 - One of the best possible uses for such a network would be to use it to pro-socially maintain a distributed knowledge graph tailored specifically to the goal of solving problems: those of its users and society at large.
 - Its users, as a cooperative group, could by default take a naive but rational approach to problem solving:
     - For each problem in the set P of all problems:
