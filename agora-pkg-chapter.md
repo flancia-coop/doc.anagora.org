@@ -7,9 +7,9 @@
     - Whereas a **personal knowledge graph** usually contains resources and links authored or collected by a single person, and a **wiki** usually contains resources provisioned by a group in (a priori) a shared voice, an Agora tries to integrate and interlink both personal and group resources into a [[chorus of voices]].
     - Whereas as of the time of writing several tools in the personal knowledge graph space are exploring collaborative editing in their individual way, **the reference Agora tries to be tool, format and platform agnostic** to maximize interoperability and data exchange.
 - This [[chapter]] describes a set of [[conventions]], [[protocols]], and [[contracts]] that can be said to define an Agora. 
-- It also covers a work-in-progress reference implementation developed as free software
+- It also covers a work-in-progress reference implementation developed as free software built on those.
     - Its guiding architectural principle being to build as much as possible on already existing conventions common to as many tools and platforms as it is possible with the aim to achieve maximal inclusivity and diversity.
-- Finally, we cover potential applications of a network built around such a platform in the [[knowledge]] and [[social]] domains in the form of several short essays. 
+- Finally, we cover potential applications of a network built around such a platform in the [[knowledge]] and [[social]] domains in the form of short exploratory essays.
 
 ## Graph definition 
 - Being built around a knowledge graph, an Agora can be defined as a set of vertices or **nodes** `N` (each mapping to an entity in a knowledge base) and **edges** `E` (each mapping to a relationship between entities, annotated by context). 
@@ -30,10 +30,12 @@
         - It can be made to encode arbitrary data via application of uuencode or other encoding conventions.
 - Layer 1: [[markup]] and conventions for cross-referencing and linking.
     - Markdown, org mode, HTML or other rich markups building on top of plain text belong to this layer.
-    - [[wikilinks]] and #hashtags seem like sensible cross-format extensions for semantic linking.
+    - [[wikilinks]] and #hashtags seem like sensible cross-format extensions for semantic linking. 
+    - Markdown plus [[wikilinks]] is the default Agora layer 1 format.
     - More generally, this is an [[inline metadata]] layer. The above are just relatively unobstrusive generally available implicit standards that inline well.
 - Layer 3: JSON, EDN, RDF, protobufs.
     - In general, data exchange formats.
+    - The Agora reference implementation currently provides JSON and RDF output.
     
 ## Reference implementation
 - Here we cover details of a free and open source reference Agora which provides a minimum viable implementation of the [underlay](https://anagora.org/underlay), **interlay**, **overlay** components of a **distributed knowledge graph**.
