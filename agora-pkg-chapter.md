@@ -93,10 +93,10 @@
     - That is, we are tasked with solving the problem of building a system that allows participating users and entities to collaborate optimally in the face of adversity (such as biases and irrationality, but perhaps assuming good intent).
 
 ### Coordination problems
-- A working Agora is a [[schelling point]] built .
+- A working Agora is a [[schelling point]] built around the [[principle of charity]].
 
 ### Counter anti disintermediation
-- An Agora can be used to solve coordination problems like those at the heart of enabling users to leave walled gardens and other systems whose design causes anti disintermediation.
+- An Agora can be used to solve coordination problems like those we need to solve to enable users to leave walled gardens and other enclosures of the commons achieved through [[anti disintermediation]].
 
 ### Adversarial interoperability
 - An Agora can be used to let users regain control of their data from entities which by default are not proactive enough or flexible enough when stewarding or relinquishing control of user data.
