@@ -57,7 +57,7 @@
 - Its users, as a cooperative group, could by default take a naive but rational and constructive approach to problem solving:
     - For each problem in the set `P` of all problems:
         - Describe it as thoroughly as possible.
-        - Maintain a set of known or argued possible solutions, S(P).
+        - Maintain a set of known and supported possible solutions, `S(P)`.
     - For each solution in `S(P)`:
         - Describe it thoroughly as an algorithm, a dependency graph or both.
         - Maintain a set of resources (people, time, attention, wealth) needed to implement it, `R(S(P))`.
