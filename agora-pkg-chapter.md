@@ -54,13 +54,13 @@
 
 ### Collaborative problem solving
 - One of the best possible uses for such a network would be to use it to pro-socially maintain a distributed knowledge graph tailored specifically to the goal of solving problems: those of its users and society at large.
-- Its users, as a cooperative group, could by default take a naive but rational approach to problem solving:
-    - For each problem in the set P of all problems:
+- Its users, as a cooperative group, could by default take a naive but rational and constructive approach to problem solving:
+    - For each problem in the set `P` of all problems:
         - Describe it as thoroughly as possible.
         - Maintain a set of known or argued possible solutions, S(P).
-    - For each solution in S(P):
-        - Describe it as thoroughly as possible.
-        - Maintain a set of resources (people, time, attention, money) needed to implement it, R(S).
+    - For each solution in `S(P)`:
+        - Describe it thoroughly as an algorithm, a dependency graph or both.
+        - Maintain a set of resources (people, time, attention, wealth) needed to implement it, `R(S(P))`.
     - Individual users could also declare their views on the state of the world explicitly: they define which subsets of P, S and R they agree with, in the sense that they believe they are feasible, true, interesting.
 - Users that agree on their defined subsets can then efficiently collaborate on solutions as they become available by pooling of resources.
 - We apply some good old recursivity and seed the Agora with the problem of how to build itself. That is, how to build a system that allows participating users and entities to collaborate optimally in the face of adversity (such as biases, irrationality and even actual ill intent)1.
