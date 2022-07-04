@@ -46,12 +46,11 @@
     - [[agora root]] is a git repository containing the Agora definition, meaning a base [[contract]] which sets the tone and high level goals of the Agora, and a list of data sources to be recurringly integrated.
     - [[agora bridge]] is a git repository containing connectors and importers for supported data sources.
         - User controlled [[git]] repositories are the default data source.
-    - [[agora server]] provides a UI supporting aggregation, queries and actions.
+    - [[agora server]] provides a UI supporting querying and composition and [[json]], [[rss]], [[rdf]] endpoints.
 - (TODO: introduce terminology by the [[knowledge futures group]]).
     
-
 ### Protocol
-- See https://anagora.org/go/agora-protocol.
+- #pull [[agora protocol]]
 
 ### Data model
 - Users can contribute individual [[resources]] to an Agora.
