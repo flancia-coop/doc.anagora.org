@@ -64,8 +64,8 @@
     - To do so, they publish their resources to a repository they control and then they let an Agora know of their intention to integrate, a desired username and their agreement with an Agora's contract.
     - [[git]] repositories are the default data source, with other repository providers ([[http]], [[ipfs]], [[drive]], [[dropbox]]) to follow.
 - Users can contribute individual [[resources]] to an Agora.
-    - As of the time of writing they can interact with an Agora system account (i.e. bot) in supported platforms like [[twitter]] and [[mastodon]] while indicating nodes they want to using a Layer 1 convention.
-    - They can Submit a URL plus a set of relevant nodes the resource should be attached to.
+    - As of the time of writing they can interact with an Agora system account (i.e. bot) in supported platforms like [[twitter]] and [[mastodon]] while indicating nodes they want to attach to using a Layer 1 convention.
+    - (Soon they will be able to submit this information directly on the [[agora server]] provided interface.)
 
 ## Applications
 
@@ -75,12 +75,13 @@
         - [[agora actions]]
         - #push and #pull
         - #go links
-        - subnode ranking)
-
+        - open source ranking)
 
 ### Collaborative problem solving
-- One of the best possible uses for such a network would be to use it to pro-socially maintain a distributed knowledge graph tailored specifically to the goal of solving problems: those of its users and society at large.
-- Its users, as a cooperative group, could by default take a naive but rational and constructive approach to problem solving:
+
+- We seek to provision and maintain a distributed knowledge graph tailored specifically to the goal of solving problems: those of its users and society at large.
+    - This [[knowledge graph]] will be a [[commons]].
+- Its users, as a cooperative group, are promped to take a naive but rational and constructive approach to problem solving by default:
     - For each problem in the set `P` of all problems:
         - Describe it as thoroughly as possible.
         - Maintain a set of known and supported possible solutions, `S(P)`.
