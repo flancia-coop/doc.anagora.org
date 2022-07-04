@@ -5,7 +5,7 @@
     - Whereas a **personal knowledge graph** usually contains resources authored or collected by a single person, and a **wiki** usually contains resources produced by a group, an Agora contains and integrates both personal and group resources and aims to interlink them liberally by default. 
     - Whereas links in a personal knowledge graph or wiki usually have a single target, **Agora links fan out by default** and can be thought of as mapping to collections. 
     - Finally, **the reference Agora tries to remain tool, format and platform agnostic**, the guiding principle being to build first on general conventions common to many tools and platforms in the knowledge space with the aim of achieving greater inclusivity and diversity.
-- This chapter describes a set of [[protocols]], [[contracts]] and [[goals]] that can be said to define an Agora. It also covers a reference implementation of such a construct as free software, and potential applications of a network built around such a platform in the [[knowledge]] and [[social]] domains.
+- This chapter describes a set of [[data structures]], [[protocols]], a [[contracts]] and [[goals]] that can be said to define an Agora. It also covers a reference implementation of such a construct as free software, and potential applications of a network built around such a platform in the [[knowledge]] and [[social]] domains.
 - We also cover details of a free and open source reference Agora which provides a minimum viable implementation of the [underlay](https://anagora.org/underlay), **interlay**, **overlay** components of a **distributed knowledge graph**.
     - This reference system is based on off-the-shelf components like Markdown and git. 
     - Individual Agora instances are expected to **federate** and organize into a greater **Agora network**. 
@@ -36,11 +36,11 @@
     - In general, data exchange formats.
     
 ## Data model
-- Users can contribute individual resources to an Agora.
+- Users can contribute individual [[resources]] to an Agora.
     - To do so, as of the time of writing, they can:
         - Submit a URL plus a set of relevant nodes the resource should be attached to.
         - Interact with an Agora system account (i.e. bot) in supported platforms like social media while indicating relevant nodes using a Layer 1 convention.
-- Users can contribute repositories to an Agora.
+- Users can contribute [[repositories]] to an Agora.
     - To do so, they publish their resources to a repository they control and then they let an Agora know of their intention to integrate, a desired username and their agreement with an Agora's contract.
 
 ## Protocol
