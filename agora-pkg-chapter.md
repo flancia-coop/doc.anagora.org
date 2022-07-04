@@ -44,7 +44,7 @@
     - To do so, they publish their resources to a repository they control and then they let an Agora know of their intention to integrate, a desired username and their agreement with an Agora's contract.
 
 ## Protocol
-
+- See https://anagora.org/go/agora-protocol.
 
 ## Federation
 
