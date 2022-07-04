@@ -2,7 +2,7 @@
 
 - In this chapter we describe an **Agora**, a **social knowledge graph** provisioned and maintained by a community as a [commons](https://anagora.org/commons).
     - An Agora is designed to be a cooperative platform that integrates and complements both [[personal knowledge graphs]] and [[social networks]] with minimal effort.
-- The Agora stands out from many other projects in knowledge graph space in a few ways: 
+- An Agora stands out from many other projects in knowledge graph space in a few ways: 
     - Whereas links in a personal knowledge graph or wiki usually have a single target, **Agora links fan out by default** and its targets can be thought of as mapping to collections of resources. 
     - Whereas a **personal knowledge graph** usually contains resources and links authored or collected by a single person, and a **wiki** usually contains resources provisioned by a group in (a priori) a shared voice, an Agora tries to integrate and interlink both personal and group resources into a [[chorus of voices]].
     - Whereas as of the time of writing several tools in the personal knowledge graph space are exploring collaborative editing in their individual way, **the reference Agora tries to be tool, format and platform agnostic** to maximize interoperability and data exchange.
@@ -16,9 +16,9 @@
     - An Agora [[node]] is a collection; it contains the set of all known resources *about* (or *related* to) the entity described by the node id, defaulting to its name as an arbitrary length unicode string. 
         - (But potentially overrided or extended with provided metadata and annotations.)
         - In this paper each such resource attached to node `N` is known as a **subnode** `N_s`. 
-    - Note that because links can be arbitrarily annotated (as they can be considered according to nearby #tags and [[wikilinks]]), the Agora graph can be seen to be a **hypergraph** [^hypergraph].
+    - Note that because links can be annotated by context (as they can be considered to be by nearby #tags and [[wikilinks]]), an Agora graph can be said to be a **hypergraph** [^hypergraph].
 
-[^hypergraph]: And thus may be sufficient to efficiently encode any data structure as per Wolfram et al.
+[^hypergraph]: "Wolfram likes them."
 
 ## Data format
 - Layer 0: [[plain text]].
