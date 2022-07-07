@@ -15,7 +15,9 @@
     - [[queries as addresses]]
 - Phone service vs Internet service analogy: https://boffosocko.com/2022/07/05/economic-models-in-social-media-and-a-better-way-forward/
 - Let's onboard everybody to the [[fediverse]]!
-    - [[mastodon]] app is actually good
+    - [[mastodon]] app is actually good to bootstrap/choose an instance
+- Dump your ActivityPub IDs here ;)
+    - @flancian@social.coop
 
 
 ## 2022-07-07
