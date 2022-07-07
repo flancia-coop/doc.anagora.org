@@ -35,7 +35,10 @@
     - [[flancian]] let's all push our projects onto a shared space and talk by default about interlinking and integrating them?
     - [[chris aldrich]] let's start a list of resources and repositories? 
         - this may help to bootstrap a [[commons]]
-    - [[mycelium]]
+        - [[jerry michalski]] [[mycelium]]
+- [[jerry michalski]]
+    - [[liberating voices pattern language]]
+        - [[1 2 4 all]] ~ [[one two four all]]
 - [[bouncepaw]]
     - [[mycorrhiza]]
     - [[hypha]]
