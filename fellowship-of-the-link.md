@@ -18,8 +18,11 @@
     - [[zettelkasten]], [[commonplace books]], [[tools for thought]], [[personal knowledge graphs]], [[interlays]]
     - [[chris aldrich]] lots of projects in this space are trying to sell something; but we care most about the [[commons]]
     - how do we take idea capturing and generating and link them into a healthy [[knowledge commons]]?
-- [[logseq]] 
-    
+- [[logseq]] model as it relates to the commons
+    - taking VC money seems slightly worrying as they'll want to be repayed
+    - https://boffosocko.com/2022/07/05/economic-models-in-social-media-and-a-better-way-forward/
+    - [[logseq]] looks close to [[obsidian]]
+        - do we have enough variety of approaches?
 
 ## 2022-06-30
 - Attending: [[jerry michalski]] [[chris aldrich]] [[diego de la hera]] [[flancian]]
