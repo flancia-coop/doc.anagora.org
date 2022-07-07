@@ -67,7 +67,6 @@
     - (that we want to integrate/cross reference/discuss)
 - [[affordances]]
     - [[wikilinks]] and [[metadata]] as key to the [[commons]]
-    - 
  
  
 
