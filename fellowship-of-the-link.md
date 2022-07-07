@@ -13,6 +13,7 @@
         - https://context.center/
         - https://github.com/AramZS/contexter
         - https://fightwithtools.dev/projects/context-pages/
+    - Fediverse: https://indieweb.social/@Chronotope 
     - interested in solving [[misinformation]] and [[archival]]
     - for note taking, [[markdown]] on [[git]]
         - [[flancian]] https://anagora.org
@@ -33,7 +34,8 @@
         - [[jerry michalski]] [[rel8 pioneers]]
     - [[flancian]] let's all push our projects onto a shared space and talk by default about interlinking and integrating them?
     - [[chris aldrich]] let's start a list of resources and repositories? 
-        - this may help to bootstrap a commons
+        - this may help to bootstrap a [[commons]]
+    - [[mycelium]]
 - [[bouncepaw]]
     - [[mycorrhiza]]
     - [[hypha]]
