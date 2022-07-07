@@ -1,3 +1,7 @@
+This document is world writable and has been seeded with a copy of what I ([[flancian]]) sent to the [[editors]] in an intermediate deadline. Feel free to make it your own! That is, edit and expand this to fit your vision of what the Agora should be like.
+
+Have fun!
+
 ## Introduction
 
 - In this chapter we describe an **Agora**, a **social knowledge graph** provisioned and maintained by a community as a [commons](https://anagora.org/commons).
