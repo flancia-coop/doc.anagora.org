@@ -5,6 +5,7 @@
     - [[chris aldrich]] something that has worked for indieweb is having people who join show a token of interest; e.g. try to improve something for someone
         - i.e. we can talk all day, but improvements to real systems are what we should be shooting towards
         - we could focus here on integrating systems that already exist (the ones we're building or fostering individually) as a group
+    - [[flancian]] let's try to spot patterns
 
 ## 2022-06-30
 - Attending: [[jerry michalski]] [[chris aldrich]] [[diego de la hera]] [[flancian]]
