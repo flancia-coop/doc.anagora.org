@@ -22,6 +22,7 @@
 - What do we see as our long term goal?
     - [[flancian]] let's integrate repositories and tools and write [[science fiction]] together :) how could our tools, platforms, the internet, the world at large look like by [[2025]], [[2030]]?
     - [[mathew lowry]] is focusing on producing the [[pkg book]] chapter and would love to do research and writing in this space
+    - [[jerry michalski]] would like to participate in exploration and prototyping; illustrate and broadcast interesting ideas for others to pick up; analyze what it will take to deliver this by the next decade; organize activities
 
 ## 2022-07-07
 - Attending: [[jerry michalski]] [[chris aldrich]] [[flancian]] [[aram zucker-scharff]] [[mathew lowry]] [[bouncepaw]]
