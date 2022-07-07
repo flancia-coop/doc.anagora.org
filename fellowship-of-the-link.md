@@ -3,7 +3,12 @@
     - [[repositories]]
     - [[tools]]
     - [[projects]]
-- 
+- People who need access to the repo (github usernames): 
+    - flancian
+    - aramzs
+    - bouncepaw
+    - chrisaldrich
+    - https://github.com/mathewlowry
 
 ## 2022-07-07
 - Attending: [[jerry michalski]] [[chris aldrich]] [[flancian]] [[aram zucker-scharff]] [[mathew lowry]] [[bouncepaw]]
@@ -20,7 +25,7 @@
         - https://context.center/
         - https://github.com/AramZS/contexter
         - https://fightwithtools.dev/projects/context-pages/
-    - Fediverse: https://indieweb.social/@Chronotope 
+    - [Fediverse](https://indieweb.social/@Chronotope) 
     - interested in solving [[misinformation]] and [[archival]]
     - for note taking, [[markdown]] on [[git]]
         - [[flancian]] https://anagora.org
@@ -56,6 +61,7 @@
     - [[tools]]
     - [[projects]]
     - (that we want to integrate/cross reference)
+ 
  
 
 ## 2022-06-30
