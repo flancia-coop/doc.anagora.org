@@ -23,6 +23,7 @@
     - https://boffosocko.com/2022/07/05/economic-models-in-social-media-and-a-better-way-forward/
     - [[logseq]] looks close to [[obsidian]]
         - do we have enough variety of approaches?
+    - paying for services is fine
 
 ## 2022-06-30
 - Attending: [[jerry michalski]] [[chris aldrich]] [[diego de la hera]] [[flancian]]
