@@ -4,12 +4,13 @@
     - [[tools]]
     - [[projects]]
     - (that we want to integrate/cross reference/discuss)
-- People who need access to the repo (github usernames): 
+- People who need access to the repo (github usernames):
     - flancian
     - aramzs
     - bouncepaw
     - chrisaldrich
     - mathewlowry
+- Let's talk about [[search engines]]
 
 ## 2022-07-07
 - Attending: [[jerry michalski]] [[chris aldrich]] [[flancian]] [[aram zucker-scharff]] [[mathew lowry]] [[bouncepaw]]
