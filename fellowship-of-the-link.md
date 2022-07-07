@@ -27,6 +27,8 @@
         - do we have enough variety of approaches?
     - paying for services is fine
 - [[agenda]]
+    - [[rel8]]
+        - [[rel8 pioneers]]
  
 
 ## 2022-06-30
