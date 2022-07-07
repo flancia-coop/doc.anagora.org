@@ -18,6 +18,9 @@
     - [[mastodon]] app is actually good to bootstrap/choose an instance
 - Dump your ActivityPub IDs here ;)
     - @flancian@social.coop
+    - @chrisaldrich@boffosocko.com 
+- What do we see as our long term goal?
+    - [[flancian]] let's 
 
 
 ## 2022-07-07
