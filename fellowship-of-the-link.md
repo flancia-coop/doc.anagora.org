@@ -42,6 +42,8 @@
 - [[bouncepaw]]
     - [[mycorrhiza]]
     - [[hypha]]
+- [[flancian]] let's build an [[agora]]? :)
+    - this seems to be what we're trying to achieve this, regardless of the name?
  
 
 ## 2022-06-30
