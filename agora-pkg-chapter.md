@@ -1,4 +1,6 @@
-This document is world writable and has been seeded with a copy of what I ([[flancian]]) sent to the [[editors]] in an intermediate deadline. Feel free to make it your own! That is, edit and expand this to fit your vision of what the Agora should be like.
+This document is world writable and has been seeded with a copy of what I ([[flancian]]) sent to the [[editors]] in an intermediate deadline. Feel free to make it your own! That is, edit and expand this to fit your vision of what the [[Agora]] should be like.
+
+Feel free to also contribute your own subnodes to this node by tweeting/tooting [[agora pkg graph]] (and following [[agora bot]]) or by joining this Agora, which is just [[an agora]], and contributes your notes.
 
 Have fun!
 
