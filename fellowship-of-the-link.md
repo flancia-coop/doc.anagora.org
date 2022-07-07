@@ -1,3 +1,10 @@
+## 2022-07-14
+- Let's discuss what we wrote to [[rel8]], our lists of:
+    - [[repositories]]
+    - [[tools]]
+    - [[projects]]
+- 
+
 ## 2022-07-07
 - Attending: [[jerry michalski]] [[chris aldrich]] [[flancian]] [[aram zucker-scharff]] [[mathew lowry]] [[bouncepaw]]
 - Where to track a recurring agenda/our goals?
@@ -48,7 +55,7 @@
     - [[repositories]]
     - [[tools]]
     - [[projects]]
-    - (that we want to integrate)
+    - (that we want to integrate/cross reference)
  
 
 ## 2022-06-30
