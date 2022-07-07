@@ -68,7 +68,11 @@
 - [[affordances]]
     - [[wikilinks]] and [[metadata]] as key to the [[commons]]
 - [[meta]] about chat
-    - let's prefer the mattermost
+    - let's prefer the [[mattermost]] to [[jitsi chat]]
+- [[jerrymichalski]] what's the difference between [[indieweb]] vs [[fediverse]]
+    - [[chris aldrich]] [[fediverse]] is a subset of [[indieweb]]
+    - [[chris aldrich]] [[indieweb]] is based around the notion of having your own website and building your identity around it
+    - [[chris aldrich]] [[fediverse]] is based around the notion of your identity being hosted in an instance like [[mastodon.social]]
  
  
 
