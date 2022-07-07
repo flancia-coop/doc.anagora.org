@@ -11,6 +11,8 @@
     - chrisaldrich
     - mathewlowry
 - Let's talk about [[search engines]]
+    - https://warmedal.se/~bjorn/posts/2022-07-02-providing-meaningful-search-results-without-own-index.html 
+    - [[queries as addresses]]
 
 ## 2022-07-07
 - Attending: [[jerry michalski]] [[chris aldrich]] [[flancian]] [[aram zucker-scharff]] [[mathew lowry]] [[bouncepaw]]
