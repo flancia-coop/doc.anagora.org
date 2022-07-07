@@ -33,7 +33,10 @@
         - [[jerry michalski]] [[rel8 pioneers]]
     - [[flancian]] let's all push our projects onto a shared space and talk by default about interlinking and integrating them?
     - [[chris aldrich]] let's start a list of resources and repositories? 
-        - this will bootstrap a commons
+        - this may help to bootstrap a commons
+- [[bouncepaw]]
+    - [[mycorrhiza]]
+    - [[hypha]]
  
 
 ## 2022-06-30
