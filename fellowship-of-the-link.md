@@ -16,7 +16,9 @@
     - interested in solving [[misinformation]] and [[archival]]
 - [[fellowship of the link]], a crowdsourced introduction :)
     - [[zettelkasten]], [[commonplace books]], [[tools for thought]], [[personal knowledge graphs]], [[interlays]]
-    - lots of projects in this space are trying to sell something; but we care most about the [[commons]]
+    - [[chris aldrich]] lots of projects in this space are trying to sell something; but we care most about the [[commons]]
+    - how do we take idea capturing and generating and link them into a healthy [[knowledge commons]]?
+- [[logseq]] 
     
 
 ## 2022-06-30
