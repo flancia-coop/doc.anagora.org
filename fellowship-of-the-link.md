@@ -1,5 +1,5 @@
 ## 2022-07-07
-- Attending: [[jerry michalski]] [[chris aldrich]] [[flancian]] [[aram zucker-scharff]] [[mathew lowry]]
+- Attending: [[jerry michalski]] [[chris aldrich]] [[flancian]] [[aram zucker-scharff]] [[mathew lowry]] [[bouncepaw]]
 - Where to track a recurring agenda/our goals?
     - [[jerry michalski]] https://wiki.rel8.dev
     - [[chris aldrich]] something that has worked for indieweb is having people who join show a token of interest; e.g. try to improve something for someone
@@ -30,9 +30,10 @@
 - [[agenda]]
     - #push [[rel8]]
         - https://wiki.rel8.dev
-        - [[rel8 pioneers]]
+        - [[jerry michalski]] [[rel8 pioneers]]
     - [[flancian]] let's all push our projects onto a shared space and talk by default about interlinking and integrating them?
-     
+    - [[chris aldrich]] let's start a list of resources and repositories? 
+        - this will bootstrap a commons
  
 
 ## 2022-06-30
