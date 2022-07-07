@@ -1,5 +1,9 @@
+## 2022-07-07
+- Attending: [[jerry michalski]] [[chris aldrich]] [[flancian]] [[aram zucker-scharff]]
+- Where to track a recurring agenda/ourhttps://wiki.rel8.dev
+
 ## 2022-06-30
-- Attending: [[jerry michalski]] [[chris aldrich]] [[diego de la hera]] [[chris aldrich]]
+- Attending: [[jerry michalski]] [[chris aldrich]] [[diego de la hera]] [[flancian]]
 - [[jerry michalski]] 
     - #push [[rel8]] 
         - #go https://www.rel8.dev
