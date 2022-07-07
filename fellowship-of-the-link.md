@@ -3,12 +3,13 @@
     - [[repositories]]
     - [[tools]]
     - [[projects]]
+    - (that we want to integrate/cross reference/discuss)
 - People who need access to the repo (github usernames): 
     - flancian
     - aramzs
     - bouncepaw
     - chrisaldrich
-    - https://github.com/mathewlowry
+    - mathewlowry
 
 ## 2022-07-07
 - Attending: [[jerry michalski]] [[chris aldrich]] [[flancian]] [[aram zucker-scharff]] [[mathew lowry]] [[bouncepaw]]
@@ -60,8 +61,10 @@
     - [[repositories]]
     - [[tools]]
     - [[projects]]
-    - (that we want to integrate/cross reference)
-- [[wikilinks]] and [[m]]
+    - (that we want to integrate/cross reference/discuss)
+- [[affordances]]
+    - [[wikilinks]] and [[metadata]] as key to the [[commons]]
+    - 
  
  
 
