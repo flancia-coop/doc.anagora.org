@@ -26,7 +26,8 @@
     - [[chris aldrich]] appreciate the idea of [[shared wikis]] that can communicate back and forth with each other
         - [[flancian]] we should invite [[ward cunningham]]!
         - [[chris aldrich]] history of the medium
-        - [[songlines]] 
+        - [[jerry michalski]] [[songlines: the power and promise]] 
+            - [[chris aldrich]] [[third archive]]
 
 ## 2022-07-07
 - Attending: [[jerry michalski]] [[chris aldrich]] [[flancian]] [[aram zucker-scharff]] [[mathew lowry]] [[bouncepaw]]
