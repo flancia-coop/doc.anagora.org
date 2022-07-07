@@ -44,7 +44,11 @@
     - [[hypha]]
 - [[flancian]] let's build an [[agora]]? :)
     - this seems to be what we're trying to achieve this, regardless of the name?
-    - 
+- let's bring to the next meeting -- a list of:
+    - [[repositories]]
+    - [[tools]]
+    - [[projects]]
+    - (that we want to integrate)
  
 
 ## 2022-06-30
