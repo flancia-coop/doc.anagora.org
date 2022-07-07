@@ -26,9 +26,13 @@
     - [[logseq]] looks close to [[obsidian]]
         - do we have enough variety of approaches?
     - paying for services is fine
+- [[you need a wiki]]
 - [[agenda]]
-    - [[rel8]]
+    - #push [[rel8]]
+        - https://wiki.rel8.dev
         - [[rel8 pioneers]]
+    - [[flancian]] let's all push our projects onto a shared space and talk by default about interlinking and integrating them?
+     
  
 
 ## 2022-06-30
