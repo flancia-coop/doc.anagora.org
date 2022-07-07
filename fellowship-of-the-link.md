@@ -10,7 +10,14 @@
     - works for the [[The Washington Post]]
     - developed [[pressforward]], a tool for [[wordpress]]- http://pressforward.org/
     - building easy to use websites, archives -- in a way that allows them to interact with each other
+        - https://context.center/
+        - https://github.com/AramZS/contexter
+        - https://fightwithtools.dev/projects/context-pages/
     - interested in solving [[misinformation]] and [[archival]]
+- [[fellowship of the link]], a crowdsourced introduction :)
+    - [[zettelkasten]], [[commonplace books]], [[tools for thought]], [[personal knowledge graphs]], [[interlays]]
+    - lots of projects in this space are trying to sell something; but we care most about the [[commons]]
+    
 
 ## 2022-06-30
 - Attending: [[jerry michalski]] [[chris aldrich]] [[diego de la hera]] [[flancian]]
