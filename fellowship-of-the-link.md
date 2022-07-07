@@ -13,6 +13,10 @@
 - Let's talk about [[search engines]]
     - https://warmedal.se/~bjorn/posts/2022-07-02-providing-meaningful-search-results-without-own-index.html 
     - [[queries as addresses]]
+- Phone service vs Internet service analogy: https://boffosocko.com/2022/07/05/economic-models-in-social-media-and-a-better-way-forward/
+- Let's onboard everybody to the [[fediverse]]!
+    - [[mastodon]] app is actually good
+
 
 ## 2022-07-07
 - Attending: [[jerry michalski]] [[chris aldrich]] [[flancian]] [[aram zucker-scharff]] [[mathew lowry]] [[bouncepaw]]
@@ -69,7 +73,7 @@
     - [[wikilinks]] and [[metadata]] as key to the [[commons]]
 - [[meta]] about chat
     - let's prefer the [[mattermost]] to [[jitsi chat]]
-- [[jerrymichalski]] what's the difference between [[indieweb]] vs [[fediverse]]
+- [[jerry michalski]] what's the difference between [[indieweb]] vs [[fediverse]]
     - [[chris aldrich]] [[fediverse]] is a subset of [[indieweb]]
     - [[chris aldrich]] [[indieweb]] is based around the notion of having your own website and building your identity around it
     - [[chris aldrich]] [[fediverse]] is based around the notion of your identity being hosted in an instance like [[mastodon.social]]
