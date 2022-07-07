@@ -25,7 +25,7 @@
         - https://context.center/
         - https://github.com/AramZS/contexter
         - https://fightwithtools.dev/projects/context-pages/
-    - [Fediverse](https://indieweb.social/@Chronotope) 
+    - [Aram on the Fediverse](https://indieweb.social/@Chronotope) 
     - interested in solving [[misinformation]] and [[archival]]
     - for note taking, [[markdown]] on [[git]]
         - [[flancian]] https://anagora.org
@@ -61,6 +61,7 @@
     - [[tools]]
     - [[projects]]
     - (that we want to integrate/cross reference)
+- [[wikilinks]] and [[m]]
  
  
 
