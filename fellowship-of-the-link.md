@@ -14,6 +14,8 @@
         - https://github.com/AramZS/contexter
         - https://fightwithtools.dev/projects/context-pages/
     - interested in solving [[misinformation]] and [[archival]]
+    - for note taking, [[markdown]] on [[git]]
+        - [[flancian]] https://anagora.org
 - [[fellowship of the link]], a crowdsourced introduction :)
     - [[zettelkasten]], [[commonplace books]], [[tools for thought]], [[personal knowledge graphs]], [[interlays]]
     - [[chris aldrich]] lots of projects in this space are trying to sell something; but we care most about the [[commons]]
@@ -24,6 +26,8 @@
     - [[logseq]] looks close to [[obsidian]]
         - do we have enough variety of approaches?
     - paying for services is fine
+- [[agenda]]
+ 
 
 ## 2022-06-30
 - Attending: [[jerry michalski]] [[chris aldrich]] [[diego de la hera]] [[flancian]]
