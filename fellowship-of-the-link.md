@@ -18,7 +18,8 @@
     - [[mastodon]] app is actually good to bootstrap/choose an instance
 - Dump your ActivityPub IDs here ;)
     - @flancian@social.coop
-    - @chrisaldrich@boffosocko.com 
+    - @chrisaldrich@boffosocko.com
+    - @bouncepaw@lor.sh 
 - What do we see as our long term goal?
     - [[flancian]] let's integrate repositories and tools and write [[science fiction]] together :) how could our tools, platforms, the internet, the world at large look like by [[2025]], [[2030]]?
     - [[mathew lowry]] is focusing on producing the [[pkg book]] chapter and would love to do research and writing in this space
