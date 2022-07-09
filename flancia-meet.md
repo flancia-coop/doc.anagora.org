@@ -49,6 +49,8 @@
         - [[numbers]]
         - [[meditation technique]]
         - [[braids]]
+    - [[waking up]] by [[sam harris]]
+        - [[medito]] is open source
 
 
 # #push [[flancia-meet-2022-07-02]]
