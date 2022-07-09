@@ -107,6 +107,8 @@
     - [[tim berners lee]]
         - [[revolution]]
         - cos@timbl.com
+    - [[agora protocol]]
+        - is this confusing?
 
 # #push [[flancia-meet-2022-07-02]]
 - attending: [[bouncepaw]] [[flancian]]
