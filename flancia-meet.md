@@ -97,10 +97,10 @@
         - [[yoga festival]]
     - [[one year old todos]]
 - [[twin pages]]
-    - [[flux garden]]
+    - [[flux garden]] is paid
     - [[agora]]
     - [[sister pages]]
-    - [[bouncepaw]] thinking about how to improve the user experience
+    - [[bouncepaw]] thinking about how to improve the user experience of sister pages
         - [[bound hyphae]]
             - like [[twin pages]] but not automatic
 
