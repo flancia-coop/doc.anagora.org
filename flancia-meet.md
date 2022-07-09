@@ -99,7 +99,10 @@
 - [[twin pages]]
     - [[flux garden]]
     - [[agora]]
-    - [[siste]]
+    - [[sister pages]]
+    - [[bouncepaw]] thinking about how to improve the user experience
+        - [[bound hyphae]]
+            - like [[twin pages]] but not automatic
 
 # #push [[flancia-meet-2022-07-02]]
 - attending: [[bouncepaw]] [[flancian]]
