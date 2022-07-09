@@ -29,6 +29,10 @@
         - [[housing first]]
     - [[flancia]]
         - [[protopian]] everybody's basic needs should be met
+        - [[portland]]
+- [[religious]] positions?
+    - [[agnostic]]
+    - [[atheist]]
 
 
 # #push [[flancia-meet-2022-07-02]]
