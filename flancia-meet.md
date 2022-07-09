@@ -18,7 +18,8 @@
             - [[uxn]]
         - [[dynamic subnodes]] generating art/animation is one idea
         - [[phil jones]] -> [[thoughtstorms]] might have something like this: http://thoughtstorms.info/view/HelloWorld
-            - [[bi]]
+            - [[bill seitz]] [[twin pages]]
+            - http://webseitz.fluxent.com/wiki/titlesearch?q=twinpages
 
 
 # #push [[flancia-meet-2022-07-02]]
