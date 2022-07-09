@@ -1,6 +1,13 @@
 # Flancia Meet
-- We meet best-effort every Saturday. when utc??
+- We meet best-effort every Saturday. UTC?
 - This is where we could have community maintained notes :)
+
+
+# #push [[flancia-meet-2022-07-09]]
+- [[bouncepaw]]
+    - [[sleep schedule]]
+    - [[x files]]
+    - [[script]]
 
 # #push [[flancia-meet-2022-07-02]]
 - attending: [[bouncepaw]] [[flancian]]
