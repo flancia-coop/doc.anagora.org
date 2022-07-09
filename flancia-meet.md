@@ -16,6 +16,8 @@
         - programmatic drawing, which language is good for digital art?
             - [[racket]]
             - [[uxn]]
+        - [[dynamic subnodes]] generating art/animation is one idea
+        - [[phil jones]] -> [[thoughtstorms]] might have something like this: http://thoughtstorms.info/view/HelloWorld
 
 
 # #push [[flancia-meet-2022-07-02]]
