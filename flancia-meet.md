@@ -51,8 +51,15 @@
         - [[braids]]
     - [[waking up]] by [[sam harris]]
         - [[medito]] is open source
+        - [[making sense]] with [[sam harris]]
+            - [[dan dennett]]
+            - [[peter singer]]
+            - [[william macaskill]]
     - [[bouncepaw]]
         - [[avatar the last airbender]]
+            - should I watch it?
+                - yes
+                - it has traits of both american
 
 
 # #push [[flancia-meet-2022-07-02]]
