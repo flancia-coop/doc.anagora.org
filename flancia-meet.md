@@ -6,8 +6,12 @@
 # #push [[flancia-meet-2022-07-09]]
 - [[bouncepaw]]
     - [[sleep schedule]]
+    - [[drawing]]
     - [[x files]]
-    - [[script]]
+    - [[scripts]]
+- [[flancian]]
+    - question: programmatic drawing, which 
+
 
 # #push [[flancia-meet-2022-07-02]]
 - attending: [[bouncepaw]] [[flancian]]
