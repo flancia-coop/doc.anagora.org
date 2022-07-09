@@ -21,6 +21,8 @@
         - [[phil jones]] -> [[thoughtstorms]] might have something like this: http://thoughtstorms.info/view/HelloWorld
             - [[bill seitz]] [[twin pages]]
             - http://webseitz.fluxent.com/wiki/titlesearch?q=twinpages
+- [[us]]
+    - [[homelessness]]
 
 
 # #push [[flancia-meet-2022-07-02]]
