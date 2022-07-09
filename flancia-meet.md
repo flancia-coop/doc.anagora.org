@@ -104,6 +104,8 @@
         - [[bound hyphae]]
             - like [[twin pages]] but not automatic
     - [[foaf]] ~ [[friend of a friend]]
+    - [[tim berners lee]]
+        - [[revolution]]
 
 # #push [[flancia-meet-2022-07-02]]
 - attending: [[bouncepaw]] [[flancian]]
