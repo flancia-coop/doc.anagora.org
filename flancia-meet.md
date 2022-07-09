@@ -63,6 +63,8 @@
                 - doesn't have some of anime's tropes
                 - yes
                 - also a sequel about his granddaughter, [[korra]]
+     - [[shows]]
+         - [[sci fi]]
 
 
 # #push [[flancia-meet-2022-07-02]]
