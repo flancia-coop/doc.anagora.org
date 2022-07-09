@@ -79,7 +79,7 @@
     - [[in praise of idleness]] by [[bertrand russell]]
     - [[bullshit jobs]] pairs well likely
     - [[protopian]] just finished [[david graeber]]'s latest
-        - 
+        - recently finished [[the pathless path]]
 
 # #push [[flancia-meet-2022-07-02]]
 - attending: [[bouncepaw]] [[flancian]]
