@@ -68,6 +68,10 @@
              - [[expanse]]
          - [[comedy]]
              - [[good place]] 
+             - [[broad city]]
+             - [[peep show]]
+             - [[seinfeld]]
+             - [[ted lasso]]
 
 # #push [[flancia-meet-2022-07-02]]
 - attending: [[bouncepaw]] [[flancian]]
