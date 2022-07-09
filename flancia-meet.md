@@ -76,6 +76,10 @@
 - [[how many people are depressed]]
     - (w.r.t. [[severance]])
     - how many people are happy with their jobs?
+    - [[in praise of idleness]] by [[bertrand russell]]
+    - [[bullshit jobs]] pairs well likely
+    - [[protopian]] just finished [[david graeber]]'s latest
+        - 
 
 # #push [[flancia-meet-2022-07-02]]
 - attending: [[bouncepaw]] [[flancian]]
