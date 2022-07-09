@@ -51,6 +51,8 @@
         - [[braids]]
     - [[waking up]] by [[sam harris]]
         - [[medito]] is open source
+    - [[bouncepaw]]
+        - [[avatar the last airbender]]
 
 
 # #push [[flancia-meet-2022-07-02]]
