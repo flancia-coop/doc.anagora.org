@@ -91,9 +91,10 @@
         - [[sign in]]
     - [[bouncepaw]]
         - going with the flow :)
-        - some
+        - sometimes streams working/learning
     - [[will]]
         - [[yoga festival]]
+    - [[one year old todos]]
 
 # #push [[flancia-meet-2022-07-02]]
 - attending: [[bouncepaw]] [[flancian]]
