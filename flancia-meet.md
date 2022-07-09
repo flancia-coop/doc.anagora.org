@@ -39,6 +39,10 @@
     - [[ideologies]]
         - [[ontologies]]
             - [[ontoshift]] -> [[free, fair and alive]]
+- [[protopian]]
+    - [[readwise]]
+        - does [[spaced repetition]] with it
+        - 
 
 
 # #push [[flancia-meet-2022-07-02]]
