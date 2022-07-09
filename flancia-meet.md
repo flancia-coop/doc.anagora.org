@@ -33,6 +33,9 @@
 - [[religious]] positions?
     - [[agnostic]]
     - [[atheist]]
+    - [[worldview]] multiplicity?
+        - believing in [[god]] on [[sundays]]
+        - [[photography]] as a metaphor here, lenses
 
 
 # #push [[flancia-meet-2022-07-02]]
