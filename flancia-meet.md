@@ -84,6 +84,7 @@
     - [[searchhut]]
 - [[you.com]], [[search engine]]
     - https://seirdy.one/posts/2021/03/10/search-engines-with-own-indexes/ by [[Rohan Kumar]]
+    - https://www.theverge.com/2021/11/9/22770614/you-salesforce-startup-search-engine-privacy-information-control
 - [[working in public]]
     - [[flancian]] 
         - [[agora pkg chapter]]
