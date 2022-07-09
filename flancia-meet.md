@@ -109,6 +109,7 @@
         - cos@timbl.com
     - [[agora protocol]]
         - is this confusing?
+        - will try to make it less so :)
 
 # #push [[flancia-meet-2022-07-02]]
 - attending: [[bouncepaw]] [[flancian]]
