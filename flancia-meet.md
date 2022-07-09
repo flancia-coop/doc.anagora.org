@@ -106,6 +106,7 @@
     - [[foaf]] ~ [[friend of a friend]]
     - [[tim berners lee]]
         - [[revolution]]
+        - cos@timbl.com
 
 # #push [[flancia-meet-2022-07-02]]
 - attending: [[bouncepaw]] [[flancian]]
