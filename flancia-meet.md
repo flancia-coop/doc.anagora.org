@@ -82,6 +82,8 @@
         - also recently finished [[the pathless path]] (seems to have overlap with [[bullshit jobs]] and [[in praise of idleness]])
 - [[drew devault]]
     - [[searchhut]]
+- [[you.com]]
+    - https://seirdy.one/posts/2021/03/10/search-engines-with-own-indexes/ by [[Rohan Kumar]]
 
 # #push [[flancia-meet-2022-07-02]]
 - attending: [[bouncepaw]] [[flancian]]
