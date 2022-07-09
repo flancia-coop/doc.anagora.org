@@ -38,7 +38,7 @@
         - [[photography]] as a metaphor here, lenses
     - [[ideologies]]
         - [[ontologies]]
-            - [[ontoshift]] -> [[fr]]
+            - [[ontoshift]] -> [[free, fair and alive]]
 
 
 # #push [[flancia-meet-2022-07-02]]
