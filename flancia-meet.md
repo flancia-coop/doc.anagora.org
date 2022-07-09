@@ -18,6 +18,7 @@
             - [[uxn]]
         - [[dynamic subnodes]] generating art/animation is one idea
         - [[phil jones]] -> [[thoughtstorms]] might have something like this: http://thoughtstorms.info/view/HelloWorld
+            - [[bi]]
 
 
 # #push [[flancia-meet-2022-07-02]]
