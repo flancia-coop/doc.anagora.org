@@ -73,6 +73,9 @@
              - [[peep show]]
              - [[seinfeld]]
              - [[ted lasso]]
+- [[how many people are depressed]]
+    - (w.r.t. [[severance]])
+    - how many people are happy with their jobs?
 
 # #push [[flancia-meet-2022-07-02]]
 - attending: [[bouncepaw]] [[flancian]]
