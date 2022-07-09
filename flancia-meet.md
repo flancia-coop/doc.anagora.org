@@ -42,7 +42,8 @@
 - [[protopian]]
     - [[readwise]]
         - does [[spaced repetition]] with it
-        - 
+- [[flancian]]
+    - [[mind palace]]
 
 
 # #push [[flancia-meet-2022-07-02]]
