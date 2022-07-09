@@ -65,7 +65,9 @@
                 - also a sequel about his granddaughter, [[korra]]
      - [[shows]]
          - [[sci fi]]
-
+             - [[expanse]]
+         - [[comedy]]
+             - [[good place]] 
 
 # #push [[flancia-meet-2022-07-02]]
 - attending: [[bouncepaw]] [[flancian]]
