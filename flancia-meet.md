@@ -21,8 +21,14 @@
         - [[phil jones]] -> [[thoughtstorms]] might have something like this: http://thoughtstorms.info/view/HelloWorld
             - [[bill seitz]] [[twin pages]]
             - http://webseitz.fluxent.com/wiki/titlesearch?q=twinpages
+        - [[federation]] protocol progress
+            - not much :)
 - [[us]]
     - [[homelessness]]
+        - [[addiction management]]
+        - [[housing first]]
+    - [[flancia]]
+        - [[protopian]] everybody's basic needs should be met
 
 
 # #push [[flancia-meet-2022-07-02]]
