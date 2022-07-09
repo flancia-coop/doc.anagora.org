@@ -78,8 +78,10 @@
     - how many people are happy with their jobs?
     - [[in praise of idleness]] by [[bertrand russell]]
     - [[bullshit jobs]] pairs well likely
-    - [[protopian]] just finished [[david graeber]]'s latest
-        - recently finished [[the pathless path]]
+    - [[protopian]] just finished [[david graeber]]'s latest [[the dawn of everything]]
+        - also recently finished [[the pathless path]] (seems to have overlap with [[bullshit jobs]] and [[in praise of idleness]])
+- [[drew devault]]
+    - [[searchhut]]
 
 # #push [[flancia-meet-2022-07-02]]
 - attending: [[bouncepaw]] [[flancian]]
