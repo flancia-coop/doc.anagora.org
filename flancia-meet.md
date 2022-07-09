@@ -36,6 +36,9 @@
     - [[worldview]] multiplicity?
         - believing in [[god]] on [[sundays]]
         - [[photography]] as a metaphor here, lenses
+    - [[ideologies]]
+        - [[ontologies]]
+            - [[ontoshift]] -> [[fr]]
 
 
 # #push [[flancia-meet-2022-07-02]]
