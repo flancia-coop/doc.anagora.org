@@ -44,6 +44,11 @@
         - does [[spaced repetition]] with it
 - [[flancian]]
     - [[mind palace]]
+        - like a creativity engine
+        - number counting
+        - [[numbers]]
+        - [[meditation technique]]
+        - [[braids]]
 
 
 # #push [[flancia-meet-2022-07-02]]
