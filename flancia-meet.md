@@ -10,7 +10,12 @@
     - [[x files]]
     - [[scripts]]
 - [[flancian]]
-    - question: programmatic drawing, which 
+    - questions: 
+        - digital art?
+            - like it but do not prefer it
+        - programmatic drawing, which language is good for digital art?
+            - [[racket]]
+            - [[uxn]]
 
 
 # #push [[flancia-meet-2022-07-02]]
