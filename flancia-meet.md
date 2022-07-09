@@ -103,6 +103,7 @@
     - [[bouncepaw]] thinking about how to improve the user experience of sister pages
         - [[bound hyphae]]
             - like [[twin pages]] but not automatic
+    - [[foaf]] ~ 
 
 # #push [[flancia-meet-2022-07-02]]
 - attending: [[bouncepaw]] [[flancian]]
