@@ -59,7 +59,10 @@
         - [[avatar the last airbender]]
             - should I watch it?
                 - yes
-                - it has traits of both american
+                - it has traits of both american and asian cartoons
+                - doesn't have some of anime's tropes
+                - yes
+                - also a sequel about his granddaughter, [[korra]]
 
 
 # #push [[flancia-meet-2022-07-02]]
