@@ -6,3 +6,15 @@
 
 ## Public Accounts
 
+- Masto: [@jonny](https://social.coop/@jonny/)
+- Twitter: [@json_dirs](https://twitter.com/json_dirs)
+
+## Subpages
+
+- [[jonny|add to wiki]]
+
+## Fa
+
+- [[sorry anagora]]
+- 
+
