@@ -13,8 +13,8 @@
 
 - [[jonny|add to wiki]]
 
-## Fa
+## Beloved Nodes
 
 - [[sorry anagora]]
-- 
+- [[wikilinks everywhere]]
 
