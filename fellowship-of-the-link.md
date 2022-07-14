@@ -1,4 +1,9 @@
 ## 2022-07-14
+
+
+
+
+
 - Let's discuss what we wrote to [[rel8]], our lists of:
     - [[repositories]]
     - [[tools]]
