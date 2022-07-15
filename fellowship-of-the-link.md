@@ -4,36 +4,7 @@
 
 
 
-- Let's discuss what we wrote to [[rel8]], our lists of:
-    - [[repositories]]
-    - [[tools]]
-    - [[projects]]
-    - (that we want to integrate/cross reference/discuss)
-- People who need access to the repo (github usernames):
-    - flancian
-    - aramzs
-    - bouncepaw
-    - chrisaldrich
-    - mathewlowry
-- Let's talk about [[search engines]]
-    - https://warmedal.se/~bjorn/posts/2022-07-02-providing-meaningful-search-results-without-own-index.html 
-    - [[queries as addresses]]
-- Phone service vs Internet service analogy: https://boffosocko.com/2022/07/05/economic-models-in-social-media-and-a-better-way-forward/
-- Let's onboard everybody to the [[fediverse]]!
-    - [[mastodon]] app is actually good to bootstrap/choose an instance
-- Dump your ActivityPub IDs here ;)
-    - @flancian@social.coop
-    - @chrisaldrich@boffosocko.com
-    - @bouncepaw@lor.sh 
-- What do we see as our long term goal?
-    - [[flancian]] let's integrate repositories and tools and write [[science fiction]] together :) how could our tools, platforms, the internet, the world at large look like by [[2025]], [[2030]]?
-    - [[mathew lowry]] is focusing on producing the [[pkg book]] chapter and would love to do research and writing in this space
-    - [[jerry michalski]] would like to participate in exploration and prototyping; illustrate and broadcast interesting ideas for others to pick up; analyze what it will take to deliver this by the next decade; organize activities
-    - [[chris aldrich]] appreciate the idea of [[shared wikis]] that can communicate back and forth with each other
-        - [[flancian]] we should invite [[ward cunningham]]!
-        - [[chris aldrich]] history of the medium
-        - [[jerry michalski]] [[songlines: the power and promise]] 
-            - [[chris aldrich]] [[third archive]]
+
 
 ## 2022-07-07
 - Attending: [[jerry michalski]] [[chris aldrich]] [[flancian]] [[aram zucker-scharff]] [[mathew lowry]] [[bouncepaw]]
@@ -95,7 +66,36 @@
     - [[chris aldrich]] [[indieweb]] is based around the notion of having your own website and building your identity around it
     - [[chris aldrich]] [[fediverse]] is based around the notion of your identity being hosted in an instance like [[mastodon.social]]
  
- 
+ - Let's discuss what we wrote to [[rel8]], our lists of:
+    - [[repositories]]
+    - [[tools]]
+    - [[projects]]
+    - (that we want to integrate/cross reference/discuss)
+- People who need access to the repo (github usernames):
+    - flancian
+    - aramzs
+    - bouncepaw
+    - chrisaldrich
+    - mathewlowry
+- Let's talk about [[search engines]]
+    - https://warmedal.se/~bjorn/posts/2022-07-02-providing-meaningful-search-results-without-own-index.html 
+    - [[queries as addresses]]
+- Phone service vs Internet service analogy: https://boffosocko.com/2022/07/05/economic-models-in-social-media-and-a-better-way-forward/
+- Let's onboard everybody to the [[fediverse]]!
+    - [[mastodon]] app is actually good to bootstrap/choose an instance
+- Dump your ActivityPub IDs here ;)
+    - @flancian@social.coop
+    - @chrisaldrich@boffosocko.com
+    - @bouncepaw@lor.sh 
+- What do we see as our long term goal?
+    - [[flancian]] let's integrate repositories and tools and write [[science fiction]] together :) how could our tools, platforms, the internet, the world at large look like by [[2025]], [[2030]]?
+    - [[mathew lowry]] is focusing on producing the [[pkg book]] chapter and would love to do research and writing in this space
+    - [[jerry michalski]] would like to participate in exploration and prototyping; illustrate and broadcast interesting ideas for others to pick up; analyze what it will take to deliver this by the next decade; organize activities
+    - [[chris aldrich]] appreciate the idea of [[shared wikis]] that can communicate back and forth with each other
+        - [[flancian]] we should invite [[ward cunningham]]!
+        - [[chris aldrich]] history of the medium
+        - [[jerry michalski]] [[songlines: the power and promise]] 
+            - [[chris aldrich]] [[third archive]]
 
 ## 2022-06-30
 - Attending: [[jerry michalski]] [[chris aldrich]] [[diego de la hera]] [[flancian]]
