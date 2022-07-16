@@ -19,28 +19,16 @@ Jerry and Chris stayed late to talk about note taking related topics.
 
 [Flow Immersive Tricast](https://flowimmersive.com/tricast) is the app that Jerry uses to put his face into a small highlight while he shares his screen 
 
-## To Do / Follow up
+### Chat log
+Jerry Michalski: our real chat is over here: [https://chat.collectivesensecommons.org/agora/channels/ogm-fellowship-of-the-link](https://chat.collectivesensecommons.org/agora/channels/ogm-fellowship-of-the-link)
 
-## Video
+11:13 Aram Zucker-Scharff: Here's the link to that - [W3C group on sustainability](https://www.w3.org/community/sustainability/)
 
+11:20 Jerry Michalski:[https://www.linkedin.com/in/ryankspangler/](https://www.linkedin.com/in/ryankspangler/) ?
 
-## Chat log
+11:31 Aram Zucker-Scharff:[Trophy](https://rrchnm.org/portfolio-item/tropy/)
 
-Jerry Michalski says: our real chat is over here: [https://chat.collectivesensecommons.org/agora/channels/ogm-fellowship-of-the-link](https://chat.collectivesensecommons.org/agora/channels/ogm-fellowship-of-the-link)
-
-11:13 Aram Zucker-Scharff says: Here's the link to that - [https://www.w3.org/community/sustainability/](https://www.w3.org/community/sustainability/)
-
-11:20 Jerry Michalski says:[https://www.linkedin.com/in/ryankspangler/](https://www.linkedin.com/in/ryankspangler/) ?
-
-11:31 Aram Zucker-Scharff says:[Trophy](https://rrchnm.org/portfolio-item/tropy/)
-
-11:53 Marshall says: Gotta run! Thanks all!
-
-11:54 Jerry Michalski says:[https://flowimmersive.com/tricast](https://flowimmersive.com/tricast)
-
-
-
-
+11:53 Marshall: Gotta run! Thanks all!
 
 
 ## 2022-07-07
