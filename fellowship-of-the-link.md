@@ -16,7 +16,7 @@
     - [[punch cards]]
     - [[beatrice webb]] https://en.wikipedia.org/wiki/Beatrice_Webb
     - [[niklas luhmann]] was born the year after she published
-    - [[konrad gessner]] (sp?)
+    - [[conrad gessner]]
     - [[ramon llull]] 
         - the [[catalan]]
     - [[herman hollerith]]
@@ -39,8 +39,6 @@
 
 ### Action items / #TODO
 
-
-s
 - [ ] invite others
     - who?
     - if we write it down in a canonical place we can distribute this (useful, social) work
@@ -49,6 +47,9 @@ s
         - full disclosure: I'm also writing a chapter :)
         - Always glad to read and make suggestions! - [[Aram Zucker-Scharff]]
 - What else might we publish? Potentially on the site
+- [ ] [[let's share notes]]
+    - [ ] start integrating pattern languages
+        - [ ] [[meta pattern language]]
 
 
 ## 2022-07-14
