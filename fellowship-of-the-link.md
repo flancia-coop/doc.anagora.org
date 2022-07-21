@@ -44,6 +44,11 @@
 - [[jerry michalski]]
     - #push [[rel8]]
         - https://wiki.rel8.dev/rel8_pioneers
+- [[mathew lowry]]
+    - [[chris aldrich]] asked for examples of model [[zettelkasten]] outputs
+        - hasn't gotten many :)
+        - #push [[zettelkasten]]
+            - [[model examples of zettelkasten output processes]] https://boffosocko.com/2022/07/12/call-for-model-examples-of-zettelkasten-output-processes/
 
 
 ### Action items / #TODO
