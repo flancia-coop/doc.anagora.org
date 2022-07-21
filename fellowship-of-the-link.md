@@ -17,6 +17,7 @@
     - [[beatrice webb]] https://en.wikipedia.org/wiki/Beatrice_Webb
     - [[niklas luhmann]] was born the year after she published
     - [[conrad gessner]]
+        - [[flancian]] likely the namesake for [[gessnerallee]], and I didn't know him!
     - [[ramon llull]] 
         - the [[catalan]]
     - [[herman hollerith]]
@@ -34,6 +35,7 @@
 - [[jerry michalski]] is an [[economics undergrad]]
     - taking [[pattern languages]] and [[extending]] them and [[integrating]] them 
     - [[open source pattern language]] of [[re(generative) commons]]
+    - how to share notes with each other, into myhub, agora and other platforms?
 - https://anagora.org/node/ontoshift
 
 
@@ -49,7 +51,7 @@
 - What else might we publish? Potentially on the site
 - [ ] [[let's share notes]]
     - [ ] start integrating pattern languages
-        - [ ] [[meta pattern language]]
+        - [ ] build a [[meta pattern language]]
 
 
 ## 2022-07-14
