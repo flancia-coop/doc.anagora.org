@@ -27,7 +27,10 @@
     - [[doughnut economics]]
         - [[flancian]] [[ontoshift]] in [[free, fair and alive]]
         - [[aram zucker-scharff]] reported on economics back in the day
-            - "[[economics]] is more sociology than it is mathematics"
+            - "[[economics]] is more [[sociology]] than it is [[mathematics]]"
+            - [[chris aldrich]] there's interesting work in [[complexity economics]] that goes beyond [[clockwork models]]
+                - [[santa fe institute]]
+                    - [[cognitive artifacts]]
 - [[jerry michalski]] is an [[economics undergrad]]
 
 ### Action items / #TODOs
