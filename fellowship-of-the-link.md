@@ -67,6 +67,7 @@
            - [[chris aldrich]] [[zettelkasten origin myth]]
        - [[aram zucker-scharff]] confusion of technique with presentation layer
            - [[trello]] is inspired by [[getting things done]]
+       - [[chris aldrich]] the ability to reuse what you've already written is key to every productive academic; the means of doing this is critical to productivity
 
 
 ### Action items / #TODO
