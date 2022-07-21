@@ -79,6 +79,11 @@
     - [[jerry michalski]] the [[zoom problem]]: information does not make sense at all distances
         - [[the brain]] always seems to work for [[jerry]] in this sense
         - adding [[clusters]] to link existing nodes is critical for keeping it manageable
+        - [[yellow]] means cluster
+            - [[types]]
+        - [[purple]] means opinion
+            - [[enumerated wisdom]]
+            - [[cialdini's six principles]]
 
 
 ### Action items / #TODO
