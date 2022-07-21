@@ -37,6 +37,8 @@
     - [[open source pattern language]] of [[re(generative) commons]]
     - how to share notes with each other, into myhub, agora and other platforms?
 - https://anagora.org/node/ontoshift
+- Formats and protocols to exchange and connect knowledge 
+- 
 
 
 ### Action items / #TODO
