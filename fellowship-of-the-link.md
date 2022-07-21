@@ -72,8 +72,10 @@
 - going back to the [[flatten]] problem (going from n notes to a long form text)
     - [[flancian]] two possible approaches
         - define a [[dsl]] for flattening/assembling (transclusion helps; pull, push in the Agora goes in this direction)
-            - [[planarity]] as first target when processing a high dimensional 
         - train and use large language models with notes being part of prompts
+    - [[dimensionality problem]]
+        - [[planarity]] as first target when processing a high dimensional graph
+        - then [[linearity]] closer to text?
     - [[jerry michalski]] the [[zoom problem]]: information does not make sense at all distances
         - [[the brain]] always seems to work for [[jerry]]
 
