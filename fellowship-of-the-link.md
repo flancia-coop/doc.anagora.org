@@ -41,6 +41,7 @@
     - [[flancian]] thinks of Anagora as a reference implementation of [[agora protocol]], which is this protocol
     - What are the standard objects that move back and forth on this protocol? What is the shapes and how can they enable information exchange and connection? 
         - Does this connect with ActivityPub? Could we send objects and federate "brains" in this way?
+    - A schema for everything(?) https://schema.org/
 - [[jerry michalski]]
     - #push [[rel8]]
         - https://wiki.rel8.dev/rel8_pioneers
@@ -51,7 +52,10 @@
             - [[model examples of zettelkasten output processes]] https://boffosocko.com/2022/07/12/call-for-model-examples-of-zettelkasten-output-processes/
             - conceptualization: we can all take small notes, interlink them ([[jerry michalski]] calls them [[nuggets]])
                 - [[jerry michalski]] [[nuggets, narratives and points of view]] https://www.youtube.com/watch?v=EmId2x6JSQE&feature=related
-            - 
+            - how can I pull up 2, 3 nodes that bring up a certain number of text blocks that can then be assembled into long form text or some other format that is fit for consumption by others?
+                - linear version is one output format, likely the most useful one
+                - interactive experience as an alternative?
+                - closest UI that exists might be [[devonthink]]
 
 
 ### Action items / #TODO
