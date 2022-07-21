@@ -59,10 +59,12 @@
                 - [[mathew lowry]] akin to what script writers assemble
                     - [[aram]] that is called [[murder board]] / [[scrub down]]
                     - [[chris aldrich]] [[anacapa]] charts / [[anacapa charts]]
-   - [[jerry michalski]] question about [[zettelkasten]]
-       - why would the numbering system be useful nowadays?
-           - unclear
-       - is the fandom in a [[blind alley]] because of the focus on form?
+   - #push [[zettelkasten]]
+       - [[jerry michalski]] question about [[zettelkasten]]
+           - why would the numbering system be useful nowadays?
+               - unclear
+           - is the fandom in a [[blind alley]] because of the focus on form?
+           - [[chris aldrich]] [[zettelkasten origin myth]]
 
 
 ### Action items / #TODO
