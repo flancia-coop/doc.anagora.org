@@ -7,12 +7,14 @@
 [[Mathew Lowry]]
 
 - The book Mathew is working on: https://personalknowledgegraphs.com/#/page/Personal%20Knowledge%20Graphs
+    - working with [[wireframes]]
 - [[chris aldrich]]
     - [[punch cards]]
     - [[beatrice webb]] https://en.wikipedia.org/wiki/Beatrice_Webb
     - [[niklas luhmann]] was born the year after she published
     - [[konrad gessner]] (sp?)
-    - [[llull]] the [[catalan]]
+    - [[ramon llull]] 
+        - the [[catalan]]
 
 
 
