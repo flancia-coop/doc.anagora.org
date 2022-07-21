@@ -4,8 +4,9 @@
 [[Chris Aldrich]]
 [[Aram Zucker-Scharff]]
 [[flancian]]
+[[Mathew Lowry]]
 
-
+The book Mathew is working on: https://personalknowledgegraphs.com/#/page/Personal%20Knowledge%20Graphs
 
 
 
