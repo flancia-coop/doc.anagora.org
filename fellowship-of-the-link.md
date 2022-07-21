@@ -8,8 +8,11 @@
 
 - The book Mathew is working on: https://personalknowledgegraphs.com/#/page/Personal%20Knowledge%20Graphs
 - [[chris aldrich]]
-    - [[beatrice webb]]
-    - [[punch ]]
+    - [[punch cards]]
+    - [[beatrice webb]] https://en.wikipedia.org/wiki/Beatrice_Webb
+    - [[niklas luhmann]] was born the year after she published
+    - [[konrad gessner]] (sp?)
+    - [[llull]] the [[catalan]]
 
 
 
