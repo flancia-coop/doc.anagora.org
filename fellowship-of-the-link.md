@@ -32,8 +32,9 @@
                 - [[santa fe institute]]
                     - [[cognitive artifacts]]
 - [[jerry michalski]] is an [[economics undergrad]]
-- https://anagora.org/node/onto
-
+    - taking [[pattern languages]] and [[extending]] them and [[integrating]] them 
+    - [[open source pattern language]] of [[re(generative) commons]]
+- https://anagora.org/node/ontoshift
 
 
 ### Action items / #TODO
