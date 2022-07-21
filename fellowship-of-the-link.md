@@ -8,6 +8,8 @@
 [[flancian]] (who says: thank you so much for taking notes last time!!!)
 [[Mathew Lowry]]
 
+### Notes
+
 - The book Mathew is working on: https://personalknowledgegraphs.com/#/page/Personal%20Knowledge%20Graphs
     - working with [[wireframes]]
 - [[chris aldrich]]
@@ -19,7 +21,13 @@
         - the [[catalan]]
     - [[herman hollerith]]
     - [[roland barthes]] (look into previous week's notes)
+    - [[aristotle]]
+        - influenced the [[great chain of being]]
 
+### Action items / #TODOs
+- invite others
+    - who?
+    - if we write it down in a canonical place we can distribute this (useful, social)
 
 
 ## 2022-07-14
