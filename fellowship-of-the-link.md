@@ -49,6 +49,9 @@
         - hasn't gotten many :)
         - #push [[zettelkasten]]
             - [[model examples of zettelkasten output processes]] https://boffosocko.com/2022/07/12/call-for-model-examples-of-zettelkasten-output-processes/
+            - conceptualization: we can all take small notes, interlink them ([[jerry michalski]] calls them [[nuggets]])
+                - [[jerry michalski]] [[nuggets, narratives and points of view]] https://www.youtube.com/watch?v=EmId2x6JSQE&feature=related
+            - 
 
 
 ### Action items / #TODO
