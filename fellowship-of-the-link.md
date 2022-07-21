@@ -70,7 +70,10 @@
        - [[chris aldrich]] the ability to reuse what you've already written is key to every productive academic; the means of doing this is critical to productivity
            - [[luhmann]] kept changing, improving his technique
 - going back to the [[flatten]] problem (going from n notes to a long form text)
-    - 
+    - [[flancian]] two possible approaches
+        - define a [[dsl]] for flattening/assembling (transclusion helps; pull, push in the Agora goes in this direction)
+        - train and use large language models with notes being part of prompts
+    - [[jerry ]]
 
 
 ### Action items / #TODO
