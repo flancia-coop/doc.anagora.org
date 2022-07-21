@@ -77,7 +77,8 @@
         - [[planarity]] as first target when processing a high dimensional graph
         - then [[linearity]] closer to text?
     - [[jerry michalski]] the [[zoom problem]]: information does not make sense at all distances
-        - [[the brain]] always seems to work for [[jerry]]
+        - [[the brain]] always seems to work for [[jerry]] in this sense
+        - adding [[clusters]] to link existing nodes is critical for keeping it manageable
 
 
 ### Action items / #TODO
