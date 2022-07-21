@@ -68,6 +68,9 @@
        - [[aram zucker-scharff]] confusion of technique with presentation layer
            - [[trello]] is inspired by [[getting things done]]
        - [[chris aldrich]] the ability to reuse what you've already written is key to every productive academic; the means of doing this is critical to productivity
+           - [[luhmann]] kept changing, improving his technique
+- going back to the [[flatten]] problem (going from n notes to a long form text)
+    - 
 
 
 ### Action items / #TODO
