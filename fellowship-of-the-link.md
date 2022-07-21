@@ -32,8 +32,14 @@
                 - [[santa fe institute]]
                     - [[cognitive artifacts]]
 - [[jerry michalski]] is an [[economics undergrad]]
+- https://anagora.org/node/onto
 
-### Action items / #TODOs
+
+
+### Action items / #TODO
+
+
+s
 - [ ] invite others
     - who?
     - if we write it down in a canonical place we can distribute this (useful, social) work
