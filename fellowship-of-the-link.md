@@ -1,3 +1,14 @@
+## 2022-07-21
+### Attending: 
+[[Jerry Michalski]]
+[[Chris Aldrich]]
+[[Aram Zucker-Scharff]]
+[[flancian]]
+
+
+
+
+
 ## 2022-07-14
 ### Attending: 
 [[Jerry Michalski]]
