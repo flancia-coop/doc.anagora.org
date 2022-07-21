@@ -1,9 +1,11 @@
 ## 2022-07-21
+
 ### Attending: 
+
 [[Jerry Michalski]]
 [[Chris Aldrich]]
 [[Aram Zucker-Scharff]]
-[[flancian]] (thank you so much for taking notes last time!!!)
+[[flancian]] (who says: thank you so much for taking notes last time!!!)
 [[Mathew Lowry]]
 
 - The book Mathew is working on: https://personalknowledgegraphs.com/#/page/Personal%20Knowledge%20Graphs
@@ -15,11 +17,15 @@
     - [[konrad gessner]] (sp?)
     - [[ramon llull]] 
         - the [[catalan]]
+    - [[herman hollerith]]
+    - [[roland barthes]] (look into previous week's notes)
 
 
 
 ## 2022-07-14
+
 ### Attending: 
+
 [[Jerry Michalski]]
 [[Chris Aldrich]]
 [[Aram Zucker-Scharff]]
