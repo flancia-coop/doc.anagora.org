@@ -56,6 +56,10 @@
                 - linear version is one output format, likely the most useful one
                 - interactive experience as an alternative?
                 - closest UI that exists might be [[devonthink]]
+                - [[mathew lowry]] akin to what script writers assemble
+                    - [[aram]] that is called [[murder board]] / [[scrub down]]
+                    - [[chris aldrich]] [[anacapa]] charts / [[anacapa charts]]
+           - [[jerry michalski]] question about [[zet]]
 
 
 ### Action items / #TODO
