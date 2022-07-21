@@ -38,7 +38,9 @@
     - how to share notes with each other, into myhub, agora and other platforms?
 - https://anagora.org/node/ontoshift
 - Formats and protocols to exchange and connect knowledge 
-- 
+    - [[flancian]] thinks of Anagora as a reference implementation of [[agora protocol]], which is this protocol
+    - What are the standard objects that move back and forth on this protocol? What is the shapes and how can they enable information exchange and connection? 
+        - Does this connect with ActivityPub?
 
 
 ### Action items / #TODO
@@ -54,6 +56,9 @@
 - [ ] [[let's share notes]]
     - [ ] start integrating pattern languages
         - [ ] build a [[meta pattern language]]
+
+
+### 
 
 
 ## 2022-07-14
