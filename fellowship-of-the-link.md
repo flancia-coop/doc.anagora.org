@@ -65,7 +65,8 @@
                - unclear
            - is the fandom in a [[blind alley]] because of the focus on form?
            - [[chris aldrich]] [[zettelkasten origin myth]]
-       - [[aram zucker-scharff]] confusion of content presentation and
+       - [[aram zucker-scharff]] confusion of technique with presentation layer
+           - [[trello]] is inspired by [[getting things done]]
 
 
 ### Action items / #TODO
