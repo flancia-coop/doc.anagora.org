@@ -23,11 +23,16 @@
     - [[roland barthes]] (look into previous week's notes)
     - [[aristotle]]
         - influenced the [[great chain of being]]
+    - [[sky woman]] vs [[adam and eve]]
 
 ### Action items / #TODOs
 - invite others
     - who?
-    - if we write it down in a canonical place we can distribute this (useful, social)
+    - if we write it down in a canonical place we can distribute this (useful, social) work
+- set up cross-review?
+    - [[flancian]] would be willing and glad to review other people's writing, perhaps we could do this as a group?
+        - full disclosure: I'm also writing a chapter :)
+        - Always glad to read and make suggestions! - [[Aram Zucker-Scharff]]
 
 
 ## 2022-07-14
