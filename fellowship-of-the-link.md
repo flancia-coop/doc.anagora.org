@@ -3,10 +3,13 @@
 [[Jerry Michalski]]
 [[Chris Aldrich]]
 [[Aram Zucker-Scharff]]
-[[flancian]]
+[[flancian]] (thank you so much for taking notes last time!!!)
 [[Mathew Lowry]]
 
-The book Mathew is working on: https://personalknowledgegraphs.com/#/page/Personal%20Knowledge%20Graphs
+- The book Mathew is working on: https://personalknowledgegraphs.com/#/page/Personal%20Knowledge%20Graphs
+- [[chris aldrich]]
+    - [[beatrice webb]]
+    - [[punch ]]
 
 
 
