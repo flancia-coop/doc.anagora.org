@@ -46,6 +46,8 @@
             - [[tristan harris]]
                 - [[center for humane technology]]
         - [[sugar problem]] [[saccharin problem]]
+        - misalignment between short and long term incentives
+        - another example is fossil fuels vs renewables
 
 
 # #push [[flancia-meet-2022-07-16]]
