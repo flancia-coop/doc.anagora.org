@@ -20,6 +20,9 @@
 - [[reading]]
     - [[the dawn of everything]] (last time)
     - [[gödel, escher, bach]]
+        - formal systems can be a bit much
+        - interested in where it's going to
+        - [[daniel dennett]] is friends with [[hofstadter]]
 - [[writing]]
 
 # #push [[flancia-meet-2022-07-16]]
