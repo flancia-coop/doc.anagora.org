@@ -23,8 +23,10 @@
         - formal systems can be a bit much
         - interested in where it's going to
         - [[daniel dennett]] is friends with [[hofstadter]]
-        - [[i am a strange loop]] is supposed to be a "better
+        - [[i am a strange loop]] is supposed to be a "better introduction", updated
 - [[writing]]
+    - [[letters]]
+        - [[flancian]] thought of writing to [[hofstadter]], [[dennett]]
 
 # #push [[flancia-meet-2022-07-16]]
 - It seems it didn't happen ([[flancian]] had friends visiting).
