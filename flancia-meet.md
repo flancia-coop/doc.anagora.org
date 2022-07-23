@@ -37,6 +37,7 @@
             - [[interintellect]] [[salon]] at [[vibecamp]]: https://interintellect.com/salon/interintellect-vibecamp-materializing-the-new-republic-of-letters/
         - [[letters of note]]
         - [[open letters]]
+        - [[reading alexander]]
 
 
 # #push [[flancia-meet-2022-07-16]]
