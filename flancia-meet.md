@@ -46,6 +46,7 @@
             - [[tristan harris]]
                 - [[center for humane technology]]
         - [[sugar problem]] [[saccharine problem]]
+            - [[replacement therapy]]
         - misalignment between short and long term incentives
         - another example is fossil fuels vs renewables
         - market vs commons
