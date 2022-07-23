@@ -10,7 +10,7 @@
     - then met new people
 - [[protopian]]
     - new job, trying to divert litigation to mediation
-    - 
+    - (about credit score)
 
 # #push [[flancia-meet-2022-07-16]]
 - It seems it didn't happen ([[flancian]] had friends visiting).
