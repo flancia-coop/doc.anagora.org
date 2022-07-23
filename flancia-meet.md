@@ -38,6 +38,7 @@
         - [[letters of note]]
         - [[open letters]]
             - motivated by [[reading alexander]] and [[christopher alexander]] dying recently
+   - [[agora pkg chapter]]
 
 
 # #push [[flancia-meet-2022-07-16]]
