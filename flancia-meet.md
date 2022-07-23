@@ -56,6 +56,11 @@
             - [[long now]] foundation
         - [[paternalism]]
             - protection vs sovereignty
+        - converting [[individual work]] into [[social work]]
+            - one user flips notification settings to be more user friendly, their friends get the new defaults (or are notified of those?)
+            - [[moderation]]
+                - the [[fediverse]] really needs this?
+            - 
 
 
 # #push [[flancia-meet-2022-07-16]]
