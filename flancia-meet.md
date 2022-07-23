@@ -48,6 +48,9 @@
         - [[sugar problem]] [[saccharin problem]]
         - misalignment between short and long term incentives
         - another example is fossil fuels vs renewables
+        - market vs commons
+        - [[longetermism]]
+            - [[long now]] foundation
 
 
 # #push [[flancia-meet-2022-07-16]]
