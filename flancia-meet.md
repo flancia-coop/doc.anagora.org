@@ -32,7 +32,9 @@
         - [[recursivity game]]
             - [[recursivity]] in social groups
                 - [[tpot]]
-        - [[republic of letters]]
+        - #push [[republic of letters]]
+            - [[protopian]] said [[visakanv]] mentioned this
+            - [[interintellect]] [[salon]] : https://interintellect.com/salon/interintellect-vibecamp-materializing-the-new-republic-of-letters/
         - [[letters of note]]
 
 - [[recursivity]]
