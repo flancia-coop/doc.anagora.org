@@ -12,6 +12,8 @@
     - new job, trying to divert litigation to mediation
     - (about credit score)
     - [[london]]
+        - summer 2011
+        - [[flancian]] summer 2012
     - [[lisbon]]
         - https://en.wikipedia.org/wiki/Pastel_de_nata
     - [[weddings]]
