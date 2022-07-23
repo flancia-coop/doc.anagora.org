@@ -17,6 +17,10 @@
     - [[lisbon]]
         - https://en.wikipedia.org/wiki/Pastel_de_nata
     - [[weddings]]
+- [[reading]]
+    - [[the dawn of everything]] (last time)
+    - [[gödel, escher, bach]]
+- [[writing]]
 
 # #push [[flancia-meet-2022-07-16]]
 - It seems it didn't happen ([[flancian]] had friends visiting).
