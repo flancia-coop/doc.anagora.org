@@ -64,6 +64,8 @@
         - open [[moderation]], open [[ranking]], enabled by network effects on top of [[interop]]
 - question about the Agora
     - what connects to nodes?
+    - say x = [[hofstadter]] and y = [[gödel, escher, bach]]
+    - how to describe a type for their relationship?
 
 
 # #push [[flancia-meet-2022-07-16]]
