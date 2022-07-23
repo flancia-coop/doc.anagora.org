@@ -11,6 +11,9 @@
 - [[protopian]]
     - new job, trying to divert litigation to mediation
     - (about credit score)
+    - [[london]]
+        - [[lisbon]]
+        - https://en.wikipedia.org/wiki/Pastel_de_nata
 
 # #push [[flancia-meet-2022-07-16]]
 - It seems it didn't happen ([[flancian]] had friends visiting).
