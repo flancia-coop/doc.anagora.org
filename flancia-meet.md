@@ -3,7 +3,12 @@
 - This is where we have community maintained notes :)
 
 # #push [[flancia-meet-2022-07-23]]
-- [[protopian]] [[]]
+- [[protopian]] [[flancian]]
+- how was the week?
+- [[flancian]]
+    - 
+- [[protopian]]
+    - new job, trying to divert litigation to mediation
 
 # #push [[flancia-meet-2022-07-16]]
 - It seems it didn't happen ([[flancian]] had friends visiting).
