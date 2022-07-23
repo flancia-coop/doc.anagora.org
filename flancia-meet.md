@@ -6,9 +6,11 @@
 - [[protopian]] [[flancian]]
 - how was the week?
 - [[flancian]]
-    - 
+    - friends were over last week
+    - then met new people
 - [[protopian]]
     - new job, trying to divert litigation to mediation
+    - 
 
 # #push [[flancia-meet-2022-07-16]]
 - It seems it didn't happen ([[flancian]] had friends visiting).
