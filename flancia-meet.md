@@ -28,6 +28,11 @@
     - [[letters]]
         - [[flancian]] thought of writing to [[hofstadter]], [[dennett]]
 
+- [[recursivity]]
+    - mirrors
+    - computer loops
+- [[james webb telescope]]
+    - photons
 # #push [[flancia-meet-2022-07-16]]
 - It seems it didn't happen ([[flancian]] had friends visiting).
 
