@@ -60,7 +60,7 @@
             - one user flips notification settings to be more user friendly, their friends get the new defaults (or are notified of those?)
             - [[moderation]]
                 - the [[fediverse]] really needs this?
-            - 
+                - [[fake news]]
 
 
 # #push [[flancia-meet-2022-07-16]]
