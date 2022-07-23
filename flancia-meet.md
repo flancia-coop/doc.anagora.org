@@ -43,7 +43,8 @@
     - [[social media]]
         - lack of tools to self-regulate our behaviour
         - [[protopian]] conflict of interested of companies and those of the users
-            - 
+            - [[tristan harris]]
+                - [[center for humane technology]]
 
 
 # #push [[flancia-meet-2022-07-16]]
