@@ -39,6 +39,11 @@
         - [[open letters]]
             - motivated by [[reading alexander]] and [[christopher alexander]] dying recently
    - [[agora pkg chapter]]
+- [[procrastination]]
+    - [[social media]]
+        - lack of tools to self-regulate our behaviour
+        - [[protopian]] conflict of interested of companies and those of the users
+            - 
 
 
 # #push [[flancia-meet-2022-07-16]]
