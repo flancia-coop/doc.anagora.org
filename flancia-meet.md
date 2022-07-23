@@ -33,6 +33,7 @@
             - [[recursivity]] in social groups
                 - [[tpot]]
         - [[republic of letters]]
+        - [[letters of note]]
 
 - [[recursivity]]
     - mirrors
