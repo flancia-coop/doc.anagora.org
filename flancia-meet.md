@@ -66,6 +66,7 @@
     - what connects to nodes?
     - say x = [[hofstadter]] and y = [[gödel, escher, bach]]
     - how to describe a type for their relationship?
+    - -> [[hypergraph]]
 
 
 # #push [[flancia-meet-2022-07-16]]
