@@ -61,6 +61,7 @@
             - [[moderation]]
                 - the [[fediverse]] really needs this?
                 - [[fake news]]
+        - open [[moderation]], open [[ranking]], enabled by network effects on top of [[interop]]
 
 
 # #push [[flancia-meet-2022-07-16]]
