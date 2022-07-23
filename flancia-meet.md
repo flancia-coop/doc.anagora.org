@@ -47,12 +47,15 @@
                 - [[center for humane technology]]
         - [[sugar problem]] [[saccharine problem]]
             - [[replacement therapy]]
+            - intercepting dopamine loops for good / for our own processes?
         - misalignment between short and long term incentives
         - another example is fossil fuels vs renewables
         - market vs commons
             - especially [[tragedy of the commons]]
         - [[longetermism]]
             - [[long now]] foundation
+        - [[paternalism]]
+            - protection vs sovereignty
 
 
 # #push [[flancia-meet-2022-07-16]]
