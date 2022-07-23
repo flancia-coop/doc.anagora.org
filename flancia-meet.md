@@ -27,6 +27,12 @@
 - [[writing]]
     - [[letters]]
         - [[flancian]] thought of writing to [[hofstadter]], [[dennett]]
+        - [[recursivity]] of the [[self]]
+        - [[video camera experiments]]
+        - [[recursivity game]]
+            - [[recursivity]] in social groups
+                - [[tpot]]
+        - [[republic of letters]]
 
 - [[recursivity]]
     - mirrors
