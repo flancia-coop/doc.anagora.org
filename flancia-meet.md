@@ -45,10 +45,11 @@
         - [[protopian]] conflict of interested of companies and those of the users
             - [[tristan harris]]
                 - [[center for humane technology]]
-        - [[sugar problem]] [[saccharin problem]]
+        - [[sugar problem]] [[saccharine problem]]
         - misalignment between short and long term incentives
         - another example is fossil fuels vs renewables
         - market vs commons
+            - especially [[tragedy of the commons]]
         - [[longetermism]]
             - [[long now]] foundation
 
