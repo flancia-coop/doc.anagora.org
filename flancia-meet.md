@@ -52,7 +52,7 @@
         - another example is fossil fuels vs renewables
         - market vs commons
             - especially [[tragedy of the commons]]
-        - [[longetermism]]
+        - [[longtermism]]
             - [[long now]] foundation
         - [[paternalism]]
             - protection vs sovereignty
