@@ -1,7 +1,9 @@
 # Flancia Meet
 - We meet best-effort every Saturday. UTC?
-- This is where we could have community maintained notes :)
+- This is where we have community maintained notes :)
 
+# #push [[flancia-meet-2022-07-16]]
+- It seems it didn't happen ([[flancian]] had friends visiting).
 
 # #push [[flancia-meet-2022-07-09]]
 - [[protopian]] [[bouncepaw]] [[flancian]]
