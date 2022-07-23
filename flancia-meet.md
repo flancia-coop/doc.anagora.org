@@ -36,12 +36,9 @@
             - [[protopian]] said [[visakanv]] mentioned this
             - [[interintellect]] [[salon]] at [[vibecamp]]: https://interintellect.com/salon/interintellect-vibecamp-materializing-the-new-republic-of-letters/
         - [[letters of note]]
+        - [[open letters]]
 
-- [[recursivity]]
-    - mirrors
-    - computer loops
-- [[james webb telescope]]
-    - photons
+
 # #push [[flancia-meet-2022-07-16]]
 - It seems it didn't happen ([[flancian]] had friends visiting).
 
