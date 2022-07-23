@@ -34,7 +34,7 @@
                 - [[tpot]]
         - #push [[republic of letters]]
             - [[protopian]] said [[visakanv]] mentioned this
-            - [[interintellect]] [[salon]] : https://interintellect.com/salon/interintellect-vibecamp-materializing-the-new-republic-of-letters/
+            - [[interintellect]] [[salon]] at [[vibecamp]]: https://interintellect.com/salon/interintellect-vibecamp-materializing-the-new-republic-of-letters/
         - [[letters of note]]
 
 - [[recursivity]]
