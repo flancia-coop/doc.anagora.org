@@ -37,7 +37,9 @@
     - [[Mathew Lowry]]: Something I want to add to MyHub
         - Imagine you are creating another piece of content in the same zone - remember you asked this question to yourself 5 months ago?
     - [[Aram Zucker-Scharff]]: Recently worked on a timeline learning tool - where you get a package of articles in a timeline and it tracks your reading of each article. I wonder if it works with the automated summization content to create learning cards?
-    - Narrative TV
+    - [[Mathew Lowery]]: It might be interesting to see about giving people different orders of articles than just date saved, that they store so they can build narratives out of those cards. 
+    - [[Aram Zucker-Scharff]]: You can pull date from metadata btw. Also: Narrative creation by ordering cards is really interesting. One example of this is Will Wright's tool for Current TV - https://hacktext.com/2011/02/crowd-sourced-television-goes-to-the-next-level-with-bar-karma-and-storymaker-477/
+    - [[Jerry Michalski]]: Found
 
 
 ## 2022-07-21
