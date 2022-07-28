@@ -1,3 +1,6 @@
+## 2022-08-04
+### A
+
 ## 2022-07-28
 
 ### Attending
@@ -84,6 +87,9 @@
         - https://growthlab.cid.harvard.edu/
 - Reminds me of - https://github.com/Quartz/Chartbuilder
 - Cesar Hidalgo - https://centerforcollectivelearning.org/
+- What do we take on next:
+    - How to explain the shared memory concept? 
+    - A
 
 ## 2022-07-21
 
