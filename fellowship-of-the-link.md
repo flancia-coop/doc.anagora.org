@@ -70,7 +70,10 @@
     - then built an app that let me shunt it all into databases 
     - Went back to Zotero yesterday
         - Couldn't get it to work and it doesn't work the way I want it to. 
+    - [yes](https:yes.com) 
 - Aram - I liked endnote when someone else was paying for it. 
+- [[Chris Aldrich]]: 
+    - Mendeley seems to be shutting down
 
 ## 2022-07-21
 
