@@ -49,6 +49,11 @@
         - Review 
     - [[Mathew Lowery]]: Do you have a set of pre-generated questions that you can slot specific things into or is it more freeform? (To Chris)
     - [[Chris Aldrich]]: [[Cloze]] process where, when you are writing it/taking up the notes you use brackets that mean you are already writing the card. 
+        - Have to make sure the questions are not too open ended. 
+        - Usually one or two sentences with only a few things missing. 
+        - I use it very sparingly because I have other methods I prefer to [[Spaced Repetition]]
+        - Actively linking notes also helps a great deal. 
+        - 
 
 
 ## 2022-07-21
