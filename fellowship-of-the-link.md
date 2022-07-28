@@ -9,7 +9,11 @@
 
 ### Notes
 
-- 
+- [[Anagora]] shared notes 
+- Commonplace books 
+    - Passed down
+    - Example: Darwin 
+    - 
 
 
 ## 2022-07-21
