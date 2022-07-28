@@ -54,6 +54,7 @@
         - I use it very sparingly because I have other methods I prefer to [[Spaced Repetition]]
         - Actively linking notes also helps a great deal. 
     - book: Memory Craft: Improve Your Memory with the Most Powerful Methods in History (2019)
+- [[Jerry Michalski]] AR projects seem to lack informational, helper, curational stuff. 
 
 
 ## 2022-07-21
