@@ -61,7 +61,13 @@
     - background in philosophy 
     - for past 30 years writing about the ways in which technology effects the ways we think about things. Focused on Machine Learning for the past 5 years. 
     - Working at Google on Ethics and AI
-
+- [[David Weinberger]] - Writing Notes Process
+    - Hobbiest programmer
+    - Wrote app that lets me take notes in plain old aski
+    - biblio info at top
+        - page number, note and tag
+    - took notes on a ton of info that way
+    - then built an app that let me shunt it all into databases 
 
 ## 2022-07-21
 
