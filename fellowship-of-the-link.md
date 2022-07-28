@@ -12,7 +12,9 @@
 - [[Anagora]] shared notes 
 - Commonplace books 
     - Passed down
-    - Example: Darwin 
+    - Example: [[Darwin]] 
+    - Easier to do now on the web while active, harder to preserve 
+        - https://indieweb.org/longevity
     - 
 
 
