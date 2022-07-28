@@ -18,9 +18,12 @@
 - Context.center 
     - [Timelines at work](https://fightwithtools.dev/projects/context-timelines/) - I find timelines to be really useful on understanding and progressing things and finding pattersn and understanding causes.
 - Logging git work and developing in public to make reference easier. 
-    - https://paulfrazee.medium.com/building-in-the-open-70ac9dccf1aa 
-    - fightwithtools.dev - stream of thought developer notes linked to git commits (still in progress)
-    - 
+    - [[Paul Frazee]] - works on Beaker and other Hyper projects. 
+        - Really cool logging of code work linked with live streaming -  https://paulfrazee.medium.com/building-in-the-open-70ac9dccf1aa 
+    - fightwithtools.dev - stream of thought developer notes linked to git commits (still in progress). Trying to make my work more approachable. 
+- [[Spaced Repetition]]
+    - memonic medium (sp?)
+    - https://app.thebrain.com/brains/3d80058c-14d8-5361-0b61-a061f89baf87/thoughts/6900f8c3-d117-94dc-4996-39241bd989e0/ 
 
 
 ## 2022-07-21
