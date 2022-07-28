@@ -71,9 +71,13 @@
     - Went back to Zotero yesterday
         - Couldn't get it to work and it doesn't work the way I want it to. 
     - [yes](https:yes.com) 
-- Aram - I liked endnote when someone else was paying for it. 
+- Aram 
+    - I liked endnote when someone else was paying for it. 
+    - Zotero is great, not for me really, but lots of great ways to plug in to it to make it for me.
 - [[Chris Aldrich]]: 
     - Mendeley seems to be shutting down
+    - Zotero is useful for annotating PDFs 
+- 
 
 ## 2022-07-21
 
