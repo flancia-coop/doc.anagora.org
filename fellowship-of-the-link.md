@@ -16,9 +16,10 @@
     - Easier to do now on the web while active, harder to preserve 
         - https://indieweb.org/longevity
 - Context.center 
-- Logging git work
+    - [Timelines at work](https://fightwithtools.dev/projects/context-timelines/) - I find timelines to be really useful on understanding and progressing things and finding pattersn and understanding causes.
+- Logging git work and developing in public to make reference easier. 
     - https://paulfrazee.medium.com/building-in-the-open-70ac9dccf1aa 
-    - fightwithtools.dev
+    - fightwithtools.dev - stream of thought developer notes linked to git commits (still in progress)
     - 
 
 
