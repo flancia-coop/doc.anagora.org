@@ -68,6 +68,9 @@
         - page number, note and tag
     - took notes on a ton of info that way
     - then built an app that let me shunt it all into databases 
+    - Went back to Zotero yesterday
+        - Couldn't get it to work and it doesn't work the way I want it to. 
+- Aram - I liked endnote when someone else was paying for it. 
 
 ## 2022-07-21
 
