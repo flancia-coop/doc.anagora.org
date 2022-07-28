@@ -1,9 +1,15 @@
 ## 2022-07-28
+
 ### Attending
+
+[[Jerry Michalski]]
+[[Chris Aldrich]]
+[[Aram Zucker-Scharff]]
+[[David Weinberger]]
 
 ### Notes
 
-
+- 
 
 
 ## 2022-07-21
