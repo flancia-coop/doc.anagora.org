@@ -71,14 +71,16 @@
     - Went back to Zotero yesterday
         - Couldn't get it to work and it doesn't work the way I want it to. 
     - [yes](https:yes.com) 
-- Aram 
+- [[Aram Zucker-Scharff]] 
     - I liked endnote when someone else was paying for it. 
     - Zotero is great, not for me really, but lots of great ways to plug in to it to make it for me.
     - For arguing on the web, that's what I use context.center for. 
 - [[Chris Aldrich]]: 
     - Mendeley seems to be shutting down
     - Zotero is useful for annotating PDFs 
-- 
+- [[Jerry Michalski]] big charts and zooming in and out of them is one of the problems we need to take on. 
+- [[Mathew Lowry]] 
+    - [[Harvard Growth Lab]] has an amazing infographic about economics
 
 ## 2022-07-21
 
