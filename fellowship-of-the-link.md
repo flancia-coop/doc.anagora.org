@@ -41,11 +41,14 @@
     - [[Aram Zucker-Scharff]]: You can pull date from metadata btw. Also: Narrative creation by ordering cards is really interesting. One example of this is Will Wright's tool for Current TV - https://hacktext.com/2011/02/crowd-sourced-television-goes-to-the-next-level-with-bar-karma-and-storymaker-477/
     - [[Jerry Michalski]]: Founder of https://redforester.com/ is working on something similar that takes elements and can organize them in different ways. I recommended animation to different forks. 
     - [[Chris Aldrich]]: Taking notes then reviewing them - asking yourself a question that forces you to give yourself an answer. Example: [[Cornell Notes]] https://en.wikipedia.org/wiki/Cornell_Notes 
-    - Five Rs of Note Taking: Recite
-Record
-Reduce
-Reflect
-Review 
+    - [[Jerry Michalski]]: Five Rs of Note Taking: 
+        - Recite
+        - Record
+        - Reduce
+        - Reflect
+        - Review 
+    - [[Mathew Lowery]]: Do you have a set of pre-generated questions that you can slot specific things into or is it more freeform? (To Chris)
+    - [[Chris Aldrich]]: [[Cloze]] process where, when you are writing it/taking up the notes you use brackets that mean you are already writing the card. 
 
 
 ## 2022-07-21
