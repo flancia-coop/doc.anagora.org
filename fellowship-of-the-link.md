@@ -56,6 +56,10 @@
     - book: Memory Craft: Improve Your Memory with the Most Powerful Methods in History (2019)
 - [[Jerry Michalski]] AR projects seem to lack informational, helper, curational stuff. 
 - Useful concept memory palaces: losi(sp?)
+- [[David Weinberger]] 
+    - background in philosophy 
+    - for past 30 years writing about the ways in which technology effects the ways we think about things. Focused on Machine Learning for the past 5 years. 
+    - Working at Google on Ethics and AI
 
 
 ## 2022-07-21
