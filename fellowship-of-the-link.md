@@ -55,6 +55,7 @@
         - Actively linking notes also helps a great deal. 
     - book: Memory Craft: Improve Your Memory with the Most Powerful Methods in History (2019)
 - [[Jerry Michalski]] AR projects seem to lack informational, helper, curational stuff. 
+- Useful concept memory palaces: losi(sp?)
 
 
 ## 2022-07-21
