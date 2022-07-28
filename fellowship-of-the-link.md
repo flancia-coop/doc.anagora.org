@@ -16,6 +16,9 @@
     - Easier to do now on the web while active, harder to preserve 
         - https://indieweb.org/longevity
 - Context.center 
+- Logging git work
+    - https://paulfrazee.medium.com/building-in-the-open-70ac9dccf1aa 
+    - fightwithtools.dev
     - 
 
 
