@@ -27,6 +27,8 @@
     - https://app.thebrain.com/brains/3d80058c-14d8-5361-0b61-a061f89baf87/thoughts/6900f8c3-d117-94dc-4996-39241bd989e0/ 
     - [Piotr Woźniak](https://en.wikipedia.org/wiki/Piotr_Wo%C5%BAniak_(researcher))
     - [[mnemonic reading]]
+    - https://www.enki.com/ ? 
+    - Duolingo
 
 
 ## 2022-07-21
