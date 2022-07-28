@@ -74,6 +74,7 @@
 - Aram 
     - I liked endnote when someone else was paying for it. 
     - Zotero is great, not for me really, but lots of great ways to plug in to it to make it for me.
+    - For arguing on the web, that's what I use context.center for. 
 - [[Chris Aldrich]]: 
     - Mendeley seems to be shutting down
     - Zotero is useful for annotating PDFs 
