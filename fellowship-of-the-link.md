@@ -165,7 +165,14 @@ Jerry Michalski: our real chat is over here: [https://chat.collectivesensecommon
 
 
 ## 2022-07-07
-- Attending: [[jerry michalski]] [[chris aldrich]] [[flancian]] [[aram zucker-scharff]] [[mathew lowry]] [[bouncepaw]]
+### Attending: 
+[[jerry michalski]] [[chris aldrich]] [[flancian]] [[aram zucker-scharff]] [[mathew lowry]] [[bouncepaw]]
+
+### Video
+In 2 pieces. here's segment one https://youtu.be/41bA7oHG__c and two https://youtu.be/n1hS6sADgaw  
+with my Brain notes here: https://bra.in/8px4ZK
+
+### Notes
 - Where to track a recurring agenda/our goals?
     - [[jerry michalski]] https://wiki.rel8.dev
     - [[chris aldrich]] something that has worked for indieweb is having people who join show a token of interest; e.g. try to improve something for someone
