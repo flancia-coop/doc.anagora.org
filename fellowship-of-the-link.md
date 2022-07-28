@@ -36,6 +36,7 @@
     - [[David Weinberger]] Automated summerization could play a role here? 
     - [[Mathew Lowry]]: Something I want to add to MyHub
         - Imagine you are creating another piece of content in the same zone - remember you asked this question to yourself 5 months ago?
+    - [[Aram Zucker-Scharff]]: Recently worked on a timeline learning tool - where you get a package of articles in a timeline and it tracks your reading of each article. I wonder if it work
 
 
 ## 2022-07-21
