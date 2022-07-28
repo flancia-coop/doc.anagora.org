@@ -1,5 +1,7 @@
 ## 2022-08-04
-### A
+### Agenda
+- Shared memory / collective learning
+- 
 
 ## 2022-07-28
 
@@ -89,7 +91,11 @@
 - Cesar Hidalgo - https://centerforcollectivelearning.org/
 - What do we take on next:
     - How to explain the shared memory concept? 
-    - A
+    - A lot of different answers. 
+    - Maybe understanding what the technical format is for a "memory" so it can be shared effectively. 
+- Where are the YouTube listings of our calls?
+    - In Jerry's brain 
+    - In the Mattermost chat 
 
 ## 2022-07-21
 
