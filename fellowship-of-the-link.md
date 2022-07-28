@@ -16,23 +16,26 @@
     - Example: [[Darwin]] 
     - Easier to do now on the web while active, harder to preserve 
         - https://indieweb.org/longevity
-- Context.center 
-    - [Timelines at work](https://fightwithtools.dev/projects/context-timelines/) - I find timelines to be really useful on understanding and progressing things and finding pattersn and understanding causes.
-- Logging git work and developing in public to make reference easier. 
-    - [[Paul Frazee]] - works on Beaker and other Hyper projects. 
-        - Really cool logging of code work linked with live streaming -  https://paulfrazee.medium.com/building-in-the-open-70ac9dccf1aa 
-    - fightwithtools.dev - stream of thought developer notes linked to git commits (still in progress). Trying to make my work more approachable. 
-- [[Spaced Repetition]]
+- [[Aram Zucker-Scharff]]
+    - Context.center 
+        - [Timelines at work](https://fightwithtools.dev/projects/context-timelines/) - I find timelines to be really useful on understanding and progressing things and finding pattersn and understanding causes.
+    - Logging git work and developing in public to make reference easier. 
+        - [[Paul Frazee]] - works on Beaker and other Hyper projects. 
+            - Really cool logging of code work linked with live streaming -  https://paulfrazee.medium.com/building-in-the-open-70ac9dccf1aa 
+        - fightwithtools.dev - stream of thought developer notes linked to git commits (still in progress). Trying to make my work more approachable. 
+- [[Mathew Lowry]]: What about [[Spaced Repetition]]
     - mnemonic reading
-    - https://app.thebrain.com/brains/3d80058c-14d8-5361-0b61-a061f89baf87/thoughts/6900f8c3-d117-94dc-4996-39241bd989e0/ 
-    - [Piotr Woźniak](https://en.wikipedia.org/wiki/Piotr_Wo%C5%BAniak_(researcher))
+    - [[Jerry Michalski]]: https://app.thebrain.com/brains/3d80058c-14d8-5361-0b61-a061f89baf87/thoughts/6900f8c3-d117-94dc-4996-39241bd989e0/ 
+    - Chris Aldrich: [Piotr Woźniak](https://en.wikipedia.org/wiki/Piotr_Wo%C5%BAniak_(researcher))
     - [[mnemonic reading]]
     - https://www.enki.com/ ? 
     - Duolingo
     - A useful version of this is active notetaking while reading articles - perhaps combined
         - Refrence to Genius and other web highlighting/note-taking layers that exist 
     - https://www.sorenbjornstad.com/writing/ 
-    - Automated summerization could play a role here? 
+    - [[David Weinberger]] Automated summerization could play a role here? 
+    - [[Mathew Lowry]]: Something I want to add to MyHub
+        - Imagine you are creating another piece of content in the same zone - remember you asked this question to yourself 5 months ago?
 
 
 ## 2022-07-21
