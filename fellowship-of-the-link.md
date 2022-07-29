@@ -82,14 +82,14 @@
     - For arguing on the web, that's what I use context.center for. 
 - [[Chris Aldrich]]: 
     - Mendeley seems to be shutting down
-    - Zotero is useful for annotating PDFs and now does export of notes from .d
+    - Zotero is useful for annotating PDFs and now does export of notes from .pdfs as of version 6.0
 - [[Jerry Michalski]] big charts and zooming in and out of them is one of the problems we need to take on. 
 - [[Mathew Lowry]] 
     - [[Harvard Growth Lab]] has an amazing infographic about economics
         - https://growthlab.cid.harvard.edu/
 - Reminds me of - https://github.com/Quartz/Chartbuilder
-- Cesar Hidalgo - https://centerforcollectivelearning.org/
-- What do we take on next:
+- [[Cesar Hidalgo]] - https://centerforcollectivelearning.org/
+- What do we take on next? Agenda for next week:
     - How to explain the shared memory concept? 
     - A lot of different answers. 
     - Maybe understanding what the technical format is for a "memory" so it can be shared effectively. 
