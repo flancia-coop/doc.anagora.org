@@ -18,7 +18,7 @@
 - [[Anagora]] shared notes 
 - Commonplace books 
     - Passed down
-    - Example: [[Darwin]] 
+    - Example: [[Erasmus Darwin]]'s was left to his family 
     - Easier to do now on the web while active, harder to preserve 
         - https://indieweb.org/longevity
 - [[Aram Zucker-Scharff]]
