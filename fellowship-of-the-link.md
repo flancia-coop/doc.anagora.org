@@ -18,22 +18,22 @@
 - [[Anagora]] shared notes 
 - Commonplace books 
     - Passed down
-    - Example: [[Erasmus Darwin]]'s was left to his family 
+    - Example: [[Erasmus Darwin]]'s was left to his family. [[Charles Darwin]] used it and passed it down; it's now in a library
     - Easier to do now on the web while active, harder to preserve 
         - https://indieweb.org/longevity
 - [[Aram Zucker-Scharff]]
     - Context.center 
         - [Timelines at work](https://fightwithtools.dev/projects/context-timelines/) - I find timelines to be really useful on understanding and progressing things and finding pattersn and understanding causes.
     - Logging git work and developing in public to make reference easier. 
-        - [[Paul Frazee]] - works on Beaker and other Hyper projects. 
+        - [[Paul Frazee]] - works on [[Beaker]] and other [[Hyper]] projects. 
             - Really cool logging of code work linked with live streaming -  https://paulfrazee.medium.com/building-in-the-open-70ac9dccf1aa 
         - fightwithtools.dev - stream of thought developer notes linked to git commits (still in progress). Trying to make my work more approachable. 
 - [[Mathew Lowry]]: What about [[Spaced Repetition]]
-    - mnemonic reading
+    - [[mnemonic medium]]
     - [[Jerry Michalski]]: https://app.thebrain.com/brains/3d80058c-14d8-5361-0b61-a061f89baf87/thoughts/6900f8c3-d117-94dc-4996-39241bd989e0/ 
     - Chris Aldrich: [Piotr Woźniak](https://en.wikipedia.org/wiki/Piotr_Wo%C5%BAniak_(researcher))
     - [[mnemonic reading]]
-    - https://apps.ankiweb.net/ 
+    - [[Anki]] https://apps.ankiweb.net/ 
     - Duolingo
     - A useful version of this is active notetaking while reading articles - perhaps combined
         - Refrence to Genius and other web highlighting/note-taking layers that exist 
