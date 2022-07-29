@@ -37,15 +37,15 @@
     - Duolingo
     - A useful version of this is active notetaking while reading articles - perhaps combined
         - Refrence to Genius and other web highlighting/note-taking layers that exist 
-    - https://www.sorenbjornstad.com/writing/ 
-    - [[David Weinberger]] Automated summerization could play a role here? 
+    - [[Soren Bjornstad]] formerly of Anki and now at Remnote has lots of work on spaced repetition https://www.sorenbjornstad.com/writing/ 
+    - [[David Weinberger]] [[automated summarization]] could play a role here? 
     - [[Mathew Lowry]]: Something I want to add to MyHub
         - Imagine you are creating another piece of content in the same zone - remember you asked this question to yourself 5 months ago?
     - [[Aram Zucker-Scharff]]: Recently worked on a timeline learning tool - where you get a package of articles in a timeline and it tracks your reading of each article. I wonder if it works with the automated summization content to create learning cards?
     - [[Mathew Lowery]]: It might be interesting to see about giving people different orders of articles than just date saved, that they store so they can build narratives out of those cards. 
     - [[Aram Zucker-Scharff]]: You can pull date from metadata btw. Also: Narrative creation by ordering cards is really interesting. One example of this is Will Wright's tool for Current TV - https://hacktext.com/2011/02/crowd-sourced-television-goes-to-the-next-level-with-bar-karma-and-storymaker-477/
     - [[Jerry Michalski]]: Founder of https://redforester.com/ is working on something similar that takes elements and can organize them in different ways. I recommended animation to different forks. 
-    - [[Chris Aldrich]]: Taking notes then reviewing them - asking yourself a question that forces you to give yourself an answer. Example: [[Cornell Notes]] https://en.wikipedia.org/wiki/Cornell_Notes 
+    - [[Chris Aldrich]]: Taking notes then reviewing them - asking yourself a question that forces you to produce an answer . Example: [[Cornell Notes]] https://en.wikipedia.org/wiki/Cornell_Notes 
     - [[Jerry Michalski]]: Five Rs of Note Taking: 
         - Recite
         - Record
