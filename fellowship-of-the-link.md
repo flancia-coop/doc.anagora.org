@@ -45,7 +45,7 @@
     - [[Mathew Lowery]]: It might be interesting to see about giving people different orders of articles than just date saved, that they store so they can build narratives out of those cards. 
     - [[Aram Zucker-Scharff]]: You can pull date from metadata btw. Also: Narrative creation by ordering cards is really interesting. One example of this is Will Wright's tool for Current TV - https://hacktext.com/2011/02/crowd-sourced-television-goes-to-the-next-level-with-bar-karma-and-storymaker-477/
     - [[Jerry Michalski]]: Founder of https://redforester.com/ is working on something similar that takes elements and can organize them in different ways. I recommended animation to different forks. 
-    - [[Chris Aldrich]]: Taking notes then reviewing them - asking yourself a question that forces you to produce an answer . Example: [[Cornell Notes]] https://en.wikipedia.org/wiki/Cornell_Notes 
+    - [[Chris Aldrich]]: Taking notes then reviewing them - asking yourself a question that forces you to produce an answer is a far better method of review that simply re-reading material. Example: [[Cornell Notes]] https://en.wikipedia.org/wiki/Cornell_Notes 
     - [[Jerry Michalski]]: Five Rs of Note Taking: 
         - Recite
         - Record
@@ -58,7 +58,7 @@
         - Usually one or two sentences with only a few things missing. 
         - I use it very sparingly because I have other methods I prefer to [[Spaced Repetition]]
         - Actively linking notes also helps a great deal. 
-    - book: Memory Craft: Improve Your Memory with the Most Powerful Methods in History (2019)
+    - book: Memory Craft: Improve Your Memory with the Most Powerful Methods in History (2019) by [[Lynne Kelly]]
 - [[Jerry Michalski]] AR projects seem to lack informational, helper, curational stuff. 
 - Useful concept memory palaces: loci
     - https://en.wikipedia.org/wiki/Method_of_loci
@@ -67,9 +67,9 @@
     - for past 30 years writing about the ways in which technology effects the ways we think about things. Focused on Machine Learning for the past 5 years. 
     - Working at Google on Ethics and AI
 - [[David Weinberger]] - Writing Notes Process
-    - Hobbiest programmer
-    - Wrote app that lets me take notes in plain old aski
-    - biblio info at top
+    - Hobbyist programmer
+    - Wrote app that lets me take notes in plain old [[ascii]] (text)
+    - bibliographic info at top
         - page number, note and tag
     - took notes on a ton of info that way
     - then built an app that let me shunt it all into databases 
@@ -77,12 +77,12 @@
         - Couldn't get it to work and it doesn't work the way I want it to. 
     - [yes](https:yes.com) 
 - [[Aram Zucker-Scharff]] 
-    - I liked endnote when someone else was paying for it. 
+    - I liked [[Endnote]] when someone else was paying for it. 
     - [[Zotero]] is great, not for me really because I'm no longer an academic, but lots of great ways to plug in to it to make it for me.
     - For arguing on the web, that's what I use context.center for. 
 - [[Chris Aldrich]]: 
     - Mendeley seems to be shutting down
-    - Zotero is useful for annotating PDFs 
+    - Zotero is useful for annotating PDFs and now does export of notes from .d
 - [[Jerry Michalski]] big charts and zooming in and out of them is one of the problems we need to take on. 
 - [[Mathew Lowry]] 
     - [[Harvard Growth Lab]] has an amazing infographic about economics
