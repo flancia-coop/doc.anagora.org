@@ -1,5 +1,6 @@
-## AIs
-- invite indieweb people
+## AIs ~ [[action items]]
+- invite [[indieweb people]]
+- re-invite [[dan whaley]]
 
 ## 2022-08-04
 ### Agenda
@@ -117,7 +118,7 @@
                     - [[bonfire]] https://bonfirenetworks.org/
                     - #push [[agora]]
                         - is about [[resolving]] with [[trust]]
-                - [[ai]]
+                - [[ai]] ~ [[artificial intelligence]]
                     - communities building corpora
                     - [[mathew lowry]] and setting up a [[dao]] to steer resulting models
                     - or [[disco]]
@@ -125,6 +126,7 @@
                     - tweets if they were connected more tightly with the internet
                         - they could embed anchor data / use a mechanism like hypothes.is 
                 - [[chris aldrich]] https://twitter.com/search?q=filter%3Afollows%20-filter%3Areplies&src=typed_query&f=live
+                    - AI(flancian): add it to the Agora as one of the search "providers" :)
 
 ## 2022-07-28
 
