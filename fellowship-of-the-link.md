@@ -89,13 +89,15 @@
                     - [[schelling point]]
                         - where would we go in the internet if we couldn't pass information about the place?
                 - which places, which formats?
-                - [[permalinks]] and [[wikilinks everywhere]]
+                - [[chris aldrich]] [[permalinks]] and [[wikilinks everywhere]]
                     - negotiating equivalence between wikilinks in different repositories
                     - -> [[agora]]
                     - [[peter hagen]]
-                        - [[lindy annotations]]
-                    - [[crowdwise]]
-
+                        - #push [[lindy annotations]]
+                            - https://annotations.lindylearn.io/new/
+                    - #push [[crowdwise]]
+                        - https://chrome.google.com/webstore/detail/crowdwise/hogoebkpcnajkkjdidfhojkljppfalip
+                        
 
 ## 2022-07-28
 
