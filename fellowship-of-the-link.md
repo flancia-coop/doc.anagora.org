@@ -9,7 +9,12 @@
 - [[internet slowness]]
     - [[van jacobson]]
     - https://en.wikipedia.org/wiki/Van_Jacobson_TCP/IP_Header_Compression
-- [[lower caps]] vs [[initial caps]]
+- on [[conventions]]
+    - [[lower caps]] vs [[initial caps]]
+        - eventual fixup
+        - eventual convergence :)
+    - inclusivity aspect of it: be liberal w.r.t. what you take
+    - [[mathew lowry]] myhub does 
 - Shared memory / collective learning
 
 ## 2022-07-28
