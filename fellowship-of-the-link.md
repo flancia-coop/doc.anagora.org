@@ -155,7 +155,7 @@
         - [[commons culture]] / [[startup culture]]
         - [[chris aldrich]] it would help to offer a wiki and tools for thought introduction/historical context
             - -> [[rel8 tiles]] ~ https://wiki.rel8.dev/tiles
-            - (built on [[massive wiki]] which is git based)
+            - (built on [[massive wiki]] which is git based) -> https://github.com/OpenGlobalMind/rel8-wiki
     
 
 ## 2022-07-28
