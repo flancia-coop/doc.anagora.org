@@ -6,6 +6,7 @@
     - [[chris aldrich]] https://twitter.com/search?q=filter%3Afollows%20-filter%3Areplies&src=typed_query&f=live
 - sync about approach / instructions for [[betaworks]] [[2022-08-16]] event
     - -> https://wiki.rel8.dev/scribing_tools_for_thinking
+- AI(jerry michalski): give access to gith
 
 ## 2022-08-04
 ### Agenda
