@@ -127,6 +127,7 @@
                         - they could embed anchor data / use a mechanism like hypothes.is 
                 - [[chris aldrich]] https://twitter.com/search?q=filter%3Afollows%20-filter%3Areplies&src=typed_query&f=live
                     - AI(flancian): add it to the Agora as one of the search "providers" :)
+                    - [[mellow twitter]] https://twitter.com/search?f=tweets&q=filter%3Afollows%20-filter%3Aretweets%20-filter%3Areplies%20-filter%3Alinks&src=typd
 
 ## 2022-07-28
 
