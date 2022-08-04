@@ -175,7 +175,7 @@
 ### Notes
 
 - [[Anagora]] shared notes 
-- Commonplace books 
+- #push [[Commonplace books]]
     - Passed down
     - Example: [[Erasmus Darwin]]'s was left to his family. [[Charles Darwin]] used it and passed it down; it's now in a library
     - Easier to do now on the web while active, harder to preserve 
