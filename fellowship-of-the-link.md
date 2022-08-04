@@ -20,7 +20,10 @@
         - [[initial caps]]
             - more readable
             - the cost of writing caps is helped by tools like [[obsidian]] auto completing links once you type \[\[
-        - [[chris aldrich]] about unicode coalescing (there's a better word fin both directions, pros and cons
+        - [[chris aldrich]] about unicode coalescing (there's a better word for this) in both directions, pros and cons
+            - (...)
+            - very used to writing in caps anyway
+            - ex: platforms like instagram show how people "exploit" hashtags by using many similar ones
 - Shared memory / collective learning
 
 ## 2022-07-28
