@@ -105,7 +105,8 @@
                     - [[mathew lowry]]
                         - fedwiki for working on convergent links/pages
                         - [[chris aldrich]] creating [[red links]] (in wiki terms), it would be nice to be able to get resolution paths whenever one is clicked (resolve this in X, Y or Z)
-                        - [[jerry michalski]] the autocomplete in obsidian could be extended to resolve in expand
+                        - [[jerry michalski]] the autocomplete in obsidian could be extended to resolve in expanding circles
+                            - [[intimacy gradient]]
 
 ## 2022-07-28
 
