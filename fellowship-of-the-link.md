@@ -1,6 +1,7 @@
 ## AIs ~ [[action items]]
 - invite [[indieweb people]]
 - re-invite [[dan whaley]]
+- sync about approach / instructions for [[betaworks]] [[2022-08-16]] event
 
 ## 2022-08-04
 ### Agenda
@@ -128,9 +129,12 @@
                 - [[chris aldrich]] https://twitter.com/search?q=filter%3Afollows%20-filter%3Areplies&src=typed_query&f=live
                     - AI(flancian): add it to the Agora as one of the search "providers" :)
                     - [[mellow twitter]] https://twitter.com/search?f=tweets&q=filter%3Afollows%20-filter%3Aretweets%20-filter%3Areplies%20-filter%3Alinks&src=typd
-- 
+- next actions for [[betaworks]] conference
     - -> [[fotl mattermost chat]]
-    - [[mathew lowry]] which visu
+    - [[mathew lowry]] which visual language do you envision here?
+    - [[jerry michalski]]
+        - [[caret]] ~ [[>]]
+        - cloud means private
 
 ## 2022-07-28
 
