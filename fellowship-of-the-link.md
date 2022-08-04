@@ -102,7 +102,10 @@
                         - a context in which to resolve wikilinks to permalinks
                     - [[optimistic linking]]
                         - wishful thinking with dangling links
-                        
+                    - [[mathew lowry]]
+                        - fedwiki for working on convergent links/pages
+                        - [[chris aldrich]] creating [[red links]] (in wiki terms), it would be nice to be able to get resolution paths whenever one is clicked (resolve this in X, Y or Z)
+                        - [[jerry michalski]] the autocomplete in obsidian could be extended to resolve in expand
 
 ## 2022-07-28
 
