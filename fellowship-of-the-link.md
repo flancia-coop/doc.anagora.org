@@ -55,6 +55,7 @@
                 - hypothes.is reads the tags and uses it for presenting annotations/highlights
                 - https://www.w3.org/annotation/
                 - https://www.w3.org/TR/annotation-vocab/
+                - AI(flancian) - let's invite [[dan whaley]] here again?
 
 
 ## 2022-07-28
