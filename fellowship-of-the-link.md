@@ -86,8 +86,9 @@
                     - [[media fragments]] to dig into text, video, audio
             - [[rel8 pioneers]]
                 - where to [[meet]] in this notion of [[idea sex]]?
+                    - [[schelling point]]
+                    - where would 
                 - which places, which formats?
-                - 
 
 
 ## 2022-07-28
