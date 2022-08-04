@@ -87,8 +87,14 @@
             - [[rel8 pioneers]]
                 - where to [[meet]] in this notion of [[idea sex]]?
                     - [[schelling point]]
-                    - where would 
+                        - where would we go in the internet if we couldn't pass information about the place?
                 - which places, which formats?
+                - [[permalinks]] and [[wikilinks everywhere]]
+                    - negotiating equivalence between wikilinks in different repositories
+                    - -> [[agora]]
+                    - [[peter hagen]]
+                        - [[lindy annotations]]
+                    - [[crowdwise]]
 
 
 ## 2022-07-28
