@@ -1,8 +1,12 @@
 ## AIs ~ [[action items]]
 - invite [[indieweb people]]
 - re-invite [[dan whaley]]
+- AI(flancian): post about [[adversarial interoperability]] in [[ogm]]
+- AI(flancian): add the following to the Agora as one of the search "providers" :)
+    - [[chris aldrich]] https://twitter.com/search?q=filter%3Afollows%20-filter%3Areplies&src=typed_query&f=live
 - sync about approach / instructions for [[betaworks]] [[2022-08-16]] event
     - -> https://wiki.rel8.dev/scribing_tools_for_thinking
+    
 
 ## 2022-08-04
 ### Agenda
@@ -817,7 +821,6 @@ with my Brain notes here: https://bra.in/8px4ZK
         - "the [[stream]] flows by too fast"
             - turning streams into gardens
             - [[neil]] from the Agora has great writing on streams vs gardens, how they relate to each other - https://doubleloop.net/
-
 - [[john borthwick]] at [[betaworks]] has funding for small projects [[think camp]]
 - Watch parties
     - [[connection series]]
