@@ -154,10 +154,12 @@
                 - separate data from (apps?)
     - [[john borthwick]]
         - [[commons culture]] / [[startup culture]]
+        - [[civilizational commons]]
         - [[chris aldrich]] it would help to offer a wiki and tools for thought introduction/historical context
             - -> [[rel8 tiles]] ~ https://wiki.rel8.dev/tiles
             - (built on [[massive wiki]] which is git based) -> https://github.com/OpenGlobalMind/rel8-wiki
-- "in a breakfast of ham and eggs, the chicken is involved, the pig is committed."
+    - "in a breakfast of ham and eggs, the chicken is [[involved]], the pig is [[committed]]."
+        - building lightweight [[bridges]] between tools.
     
 
 ## 2022-07-28
