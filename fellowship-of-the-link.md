@@ -133,8 +133,11 @@
     - -> [[fotl mattermost chat]]
     - [[mathew lowry]] which visual language do you envision here?
     - [[jerry michalski]]
-        - [[caret]] ~ [[>]]
-        - cloud means private
+        - in this private language:
+            - [[caret]] ~ [[>]] means incorporate into brain
+            - cloud means private
+        - but there's many views that make sense for different context, different people
+        - the all singing, all dancing platform lets you choose your own view based on what you need and shift between them
 
 ## 2022-07-28
 
