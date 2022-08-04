@@ -42,7 +42,9 @@
 - [[jerry michalski]] operationalizing communal note taking in preparation for [[betaworks]]
     - how do you do note taking?
         - [[chris aldrich]] almost on git but not currently
-            - most of the publis stuff is in hypothes.is
+            - most of the public stuff starts in hypothes.is
+            - notes in hypothes.is have permalinks
+            - actually have two 
 
 
 ## 2022-07-28
