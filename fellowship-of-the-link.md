@@ -1,10 +1,14 @@
 ## 2022-08-04
 ### Agenda
-- Attending: [[jerry michalski]] [[mathew lowry]] [[flancian]]
+- Attending: [[jerry michalski]] [[mathew lowry]] [[flancian]] [[chris aldrich]]
 - [[jerry michalski]]
     - [[betaworks]] render event next week
         - [[nyc]]
     - how to get a [[posse]] working together
+    - [[chorus of voices]]
+- [[internet slowness]]
+    - [[van jacobson]]
+    - https://en.wikipedia.org/wiki/Van_Jacobson_TCP/IP_Header_Compression
 - Shared memory / collective learning
 
 ## 2022-07-28
