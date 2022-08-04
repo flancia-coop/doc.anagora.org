@@ -14,7 +14,13 @@
         - eventual fixup
         - eventual convergence :)
     - inclusivity aspect of it: be liberal w.r.t. what you take
-    - [[mathew lowry]] myhub does the same, lowercase by default everywhere
+    - [[mathew lowry]] myhub does the same, lowercase by default everywhere. Based on my (poor) experience with Roam.
+    - arguments for/against
+        - [[lower caps]]
+        - [[initial caps]]
+            - more readable
+            - the cost of writing caps is helped by tools like [[obsidian]] auto completing links once you type \[\[
+        - [[chris aldrich]] about unicode coalescing (there's a better word fin both directions, pros and cons
 - Shared memory / collective learning
 
 ## 2022-07-28
