@@ -60,6 +60,9 @@
 - [[jerry michalski]] on 
     - #push [[how people think]]
         - https://www.collaborativefund.com/blog/think/
+    - how could we bridge these numbered 1 .. 17 aspects with:
+        - notes about the same in other note taking systems
+        - hypothes.is annotations on those sections
 
 
 ## 2022-07-28
