@@ -1,4 +1,5 @@
-## 
+## AIs
+- invite indieweb people
 
 ## 2022-08-04
 ### Agenda
@@ -116,6 +117,7 @@
                     - [[bonfire]] https://bonfirenetworks.org/
                     - #push [[agora]]
                         - is about [[resolving]] with [[trust]]
+                    - 
 
 ## 2022-07-28
 
