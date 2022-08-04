@@ -72,7 +72,9 @@
                 - [[stretch text]] ~ [[StretchText]] (1967)
                 - [[hypertext fiction]]
                 - AI(flancian): tell [[armengol]] about this, he was working on something related.
-            - Q: is there typing i
+            - Q: is there typing in [[thebrain]] or some other way to distinguish nuggets from e.g. full resources?
+                - it could encode this but the way Jerry uses it loses this information
+                - Jerry does not use some features just because they slow him down / they take a lot of time
 
 
 ## 2022-07-28
