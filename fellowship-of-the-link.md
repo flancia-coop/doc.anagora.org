@@ -79,7 +79,10 @@
             - [[chris aldrich]] the labels/wikilinks that you used for these are unlikely to be the same other people use.
                 - (but once these are known to all be in a particular resource...)
                 - [[google search]] including fragment lookup in search results in some sites
-                - (on stri)
+                    - engineering focused solution
+                - (on striping tracking data from URLs)
+                - [[building blocks]]
+                    - if it's online, there'a permalin
 
 
 ## 2022-07-28
