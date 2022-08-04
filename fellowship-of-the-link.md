@@ -14,7 +14,7 @@
         - eventual fixup
         - eventual convergence :)
     - inclusivity aspect of it: be liberal w.r.t. what you take
-    - [[mathew lowry]] myhub does 
+    - [[mathew lowry]] myhub does the same, lowercase by default everywhere
 - Shared memory / collective learning
 
 ## 2022-07-28
