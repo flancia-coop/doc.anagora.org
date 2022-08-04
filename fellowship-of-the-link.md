@@ -48,7 +48,10 @@
                     - one for the page/resource you annotated followed by a trigger for hypothes.is to open and show the annotation in context
                     - one in the hypothes.is domain which refers to the actual annotation proper
                     - "[[js;dr]] problem"
-                - 
+                - [[jerry michalski]]
+                    - you can share a highlight to a passage using the current #~ (or similar) convention
+                - https://indieweb.org/media_fragment (thanks!)
+                - hypothes.is reads the tags and uses it for presenting annotations/highlights
 
 
 ## 2022-07-28
