@@ -82,7 +82,12 @@
                     - engineering focused solution
                 - (on striping tracking data from URLs)
                 - [[building blocks]]
-                    - if it's online, there'a permalin
+                    - if it's online, there'a permalink to it somewhere; that's a starting point
+                    - [[media fragments]] to dig into text, video, audio
+            - [[rel8 pioneers]]
+                - where to [[meet]] in this notion of [[idea sex]]?
+                - which places, which formats?
+                - 
 
 
 ## 2022-07-28
