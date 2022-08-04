@@ -2,6 +2,7 @@
 - invite [[indieweb people]]
 - re-invite [[dan whaley]]
 - sync about approach / instructions for [[betaworks]] [[2022-08-16]] event
+    - -> https://wiki.rel8.dev/scribing_tools_for_thinking
 
 ## 2022-08-04
 ### Agenda
