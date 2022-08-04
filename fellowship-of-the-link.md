@@ -76,7 +76,10 @@
                 - it could encode this but the way Jerry uses it loses this information
                 - Jerry does not use some features just because they slow him down / they take a lot of time
                 - [[Mark Trexler]] uses more of these features and is a [[climate change]] expert.
-            - [[chris aldrich]] the wiki
+            - [[chris aldrich]] the labels/wikilinks that you used for these are unlikely to be the same other people use.
+                - (but once these are known to all be in a particular resource...)
+                - [[google search]] including fragment lookup in search results in some sites
+                - (on stri)
 
 
 ## 2022-07-28
