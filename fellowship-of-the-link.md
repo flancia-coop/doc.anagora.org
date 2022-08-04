@@ -53,6 +53,8 @@
                 - https://indieweb.org/media_fragment (thanks!)
                 - https://www.w3.org/TR/media-frags/
                 - hypothes.is reads the tags and uses it for presenting annotations/highlights
+                - https://www.w3.org/annotation/
+                - https://www.w3.org/TR/annotation-vocab/
 
 
 ## 2022-07-28
