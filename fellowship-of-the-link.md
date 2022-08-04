@@ -122,7 +122,9 @@
                     - [[mathew lowry]] and setting up a [[dao]] to steer resulting models
                     - or [[disco]]
                 - [[jerry michalski]]
-                    - tweets if they were connected 
+                    - tweets if they were connected more tightly with the internet
+                        - they could embed anchor data / use a mechanism like hypothes.is 
+                - [[chris aldrich]] https://twitter.com/search?q=filter%3Afollows%20-filter%3Areplies&src=typed_query&f=live
 
 ## 2022-07-28
 
