@@ -138,6 +138,14 @@
             - cloud means private
         - but there's many views that make sense for different context, different people
         - the all singing, all dancing platform lets you choose your own view based on what you need and shift between them
+        - how to solve this?
+            - [[flancian]] assume it will work and then make it work :)
+                - gather resources of many different types/mental models, all about the same entity/event/thing
+                - then try to make them coalesce and translate between each other
+            - [[chris aldrich]] 
+            - [[jerry michalski]] [[unix model]]
+                - composability
+                - separate data from (apps?)
 
 ## 2022-07-28
 
