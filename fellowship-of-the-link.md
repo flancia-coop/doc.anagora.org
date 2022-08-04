@@ -75,6 +75,8 @@
             - Q: is there typing in [[thebrain]] or some other way to distinguish nuggets from e.g. full resources?
                 - it could encode this but the way Jerry uses it loses this information
                 - Jerry does not use some features just because they slow him down / they take a lot of time
+                - [[Mark Trexler]] uses more of these features and is a [[climate change]] expert.
+            - [[chris aldrich]] the wiki
 
 
 ## 2022-07-28
