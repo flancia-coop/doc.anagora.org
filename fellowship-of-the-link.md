@@ -9,6 +9,7 @@
 - [[internet slowness]]
     - [[van jacobson]]
     - https://en.wikipedia.org/wiki/Van_Jacobson_TCP/IP_Header_Compression
+- [[lower caps]] vs [[initial caps]]
 - Shared memory / collective learning
 
 ## 2022-07-28
