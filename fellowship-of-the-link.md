@@ -63,6 +63,11 @@
     - how could we bridge these numbered 1 .. 17 aspects with:
         - notes about the same in other note taking systems
         - hypothes.is annotations on those sections
+    - [[mathew lowry]] which level of granularity do you use for your notes? resource/concept/etc. 
+        - how to map one to the other?
+        - [[jerry michalski]] call this the [[nugget problem]]
+        - [[chris aldrich]] [[nugget size]] vs [[zoom levels]]
+        - [[jerry michalski]] 
 
 
 ## 2022-07-28
