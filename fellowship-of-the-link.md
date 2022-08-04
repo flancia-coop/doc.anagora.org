@@ -1,3 +1,5 @@
+## 
+
 ## 2022-08-04
 ### Agenda
 - Shared memory / collective learning
@@ -110,7 +112,10 @@
                                 - #127 [[intimacy gradient]]
                     - [[mathew lowry]] "a tool that lets me curate my content according to my social network" would be super powerful
                     - [[chris aldrich]] [[google plus circles]]
-                        - [[bonfire]] https://bonfirenetworks.org/
+                        - how to incentivize a company into a non profit motive, or a low profit motive, so they can be trusted
+                    - [[bonfire]] https://bonfirenetworks.org/
+                    - #push [[agora]]
+                        - is about [[resolving]] with [[trust]]
 
 ## 2022-07-28
 
