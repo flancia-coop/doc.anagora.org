@@ -1,6 +1,12 @@
 ## 2022-08-04
 ### Agenda
-- Attending: [[jerry michalski]] [[mathew lowry]] [[flancian]] [[chris aldrich]]
+- Shared memory / collective learning
+- how the agora has an
+
+### Attending
+[[jerry michalski]] [[mathew lowry]] [[flancian]] [[chris aldrich]]
+
+### Notes
 - [[jerry michalski]]
     - [[betaworks]] render event next week
         - [[nyc]]
@@ -26,8 +32,8 @@
             - ex: platforms like instagram show how people "exploit" hashtags by using many similar ones to have greater reach
             - a platform could actually coalesce hashtags
                 - [[triangle thinking]] ~ [[combinatorial creativity]]
-        - [[wikilinks everywhere]] <-> 
-- Shared memory / collective learning
+- [[wikilinks everywhere]] <-> [[hashtags everywhere]]
+
 
 ## 2022-07-28
 
