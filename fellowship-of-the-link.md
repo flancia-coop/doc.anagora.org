@@ -142,7 +142,8 @@
             - [[flancian]] assume it will work and then make it work :)
                 - gather resources of many different types/mental models, all about the same entity/event/thing
                 - then try to make them coalesce and translate between each other
-            - [[chris aldrich]] 
+            - [[chris aldrich]] solving the general problem is hard, start with subproblems
+                - (someone who solved a related problem)
             - [[jerry michalski]] [[unix model]]
                 - composability
                 - separate data from (apps?)
