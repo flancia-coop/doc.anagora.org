@@ -117,7 +117,12 @@
                     - [[bonfire]] https://bonfirenetworks.org/
                     - #push [[agora]]
                         - is about [[resolving]] with [[trust]]
-                    - 
+                - [[ai]]
+                    - communities building corpora
+                    - [[mathew lowry]] and setting up a [[dao]] to steer resulting models
+                    - or [[disco]]
+                - [[jerry michalski]]
+                    - tweets if they were connected 
 
 ## 2022-07-28
 
