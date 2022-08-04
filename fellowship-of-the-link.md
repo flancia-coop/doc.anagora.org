@@ -97,7 +97,9 @@
                             - https://annotations.lindylearn.io/new/
                     - #push [[crowdwise]]
                         - https://chrome.google.com/webstore/detail/crowdwise/hogoebkpcnajkkjdidfhojkljppfalip
-                        
+                    - personal [[agoras]]
+                        - providing entity resolution, entity coalescing, annotations
+                        - a contenxt in which to resolve wikilinks to permalinks
 
 ## 2022-07-28
 
