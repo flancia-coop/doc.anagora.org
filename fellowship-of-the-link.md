@@ -39,6 +39,10 @@
             - ex: platforms like instagram show how people "exploit" hashtags by using many similar ones to have greater reach
             - a platform could actually coalesce hashtags
                 - [[triangle thinking]] ~ [[combinatorial creativity]]
+- [[jerry michalski]] operationalizing communal note taking in preparation for [[betaworks]]
+    - how do you do note taking?
+        - [[chris aldrich]] almost on git but not currently
+            - most of the publis stuff is in hypothes.is
 
 
 ## 2022-07-28
