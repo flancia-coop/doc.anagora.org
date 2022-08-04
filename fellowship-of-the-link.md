@@ -153,6 +153,8 @@
                 - separate data from (apps?)
     - [[john borthwick]]
         - [[commons culture]] / [[startup culture]]
+        - [[chris aldrich]] it would help to offer a wiki and tools for thought introduction/historical context
+            - -> [[rel8 tiles]]
     
 
 ## 2022-07-28
