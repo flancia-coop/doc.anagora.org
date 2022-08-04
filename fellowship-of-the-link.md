@@ -4,6 +4,9 @@
     - [[collective knowledge]] [[shared knowledge]]
 - how the agora has an advantage over platforms (Flancian)
     - [[wikilinks everywhere]] <-> [[hashtags everywhere]]
+    - [[adversarial interoperability]]
+    - -> AI(flancian): post about this in [[ogm]]
+        - [[jerry michalski]] do the simplest thing that can possibly work sounds good
 - [[meta]] how to have a more structured agenda
 
 ### Attending
@@ -11,8 +14,9 @@
 
 ### Notes
 - [[jerry michalski]]
-    - [[betaworks]] render event next week
+    - [[betaworks]] render event next week about [[tools for thought]] [[2022-08-16]]
         - [[nyc]]
+        - https://render.betaworks.com/thinkcamp-a-betaworks-accelerator-program-for-tools-for-thinking-de7e18bf5682
     - how to get a [[posse]] working together
     - [[chorus of voices]]
 - [[internet slowness]]
