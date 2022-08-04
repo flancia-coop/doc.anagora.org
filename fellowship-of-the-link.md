@@ -1,7 +1,10 @@
 ## 2022-08-04
 ### Agenda
 - Shared memory / collective learning
-- how the agora has an
+    - [[collective knowledge]] [[shared knowledge]]
+- how the agora has an advantage over platforms (Flancian)
+    - [[wikilinks everywhere]] <-> [[hashtags everywhere]]
+- [[meta]] how to have a more structured agenda
 
 ### Attending
 [[jerry michalski]] [[mathew lowry]] [[flancian]] [[chris aldrich]]
@@ -32,7 +35,6 @@
             - ex: platforms like instagram show how people "exploit" hashtags by using many similar ones to have greater reach
             - a platform could actually coalesce hashtags
                 - [[triangle thinking]] ~ [[combinatorial creativity]]
-- [[wikilinks everywhere]] <-> [[hashtags everywhere]]
 
 
 ## 2022-07-28
