@@ -106,8 +106,11 @@
                         - fedwiki for working on convergent links/pages
                         - [[chris aldrich]] creating [[red links]] (in wiki terms), it would be nice to be able to get resolution paths whenever one is clicked (resolve this in X, Y or Z)
                         - [[jerry michalski]] the autocomplete in obsidian could be extended to resolve in expanding circles
-                            - [[intimacy gradient]]
-                            - 
+                            - #push [[patterns]]
+                                - #127 [[intimacy gradient]]
+                    - [[mathew lowry]] "a tool that lets me curate my content according to my social network" would be super powerful
+                    - [[chris aldrich]] [[google plus circles]]
+                        - [[bonfire]] https://bonfirenetworks.org/
 
 ## 2022-07-28
 
