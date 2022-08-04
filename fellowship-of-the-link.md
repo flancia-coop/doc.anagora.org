@@ -7,6 +7,7 @@
     - [[adversarial interoperability]]
     - -> AI(flancian): post about this in [[ogm]]
         - [[Jerry Michalski]] do the simplest thing that can possibly work sounds good
+    - AI(flancian): let's invite [[dan whaley]] here again?
 - [[meta]] how to have a more structured agenda
 
 ### Attending
@@ -55,7 +56,10 @@
                 - hypothes.is reads the tags and uses it for presenting annotations/highlights
                 - https://www.w3.org/annotation/
                 - https://www.w3.org/TR/annotation-vocab/
-                - AI(flancian) - let's invite [[dan whaley]] here again?
+                - Research on various annotation implementations created by Hypothes.is: https://docs.google.com/spreadsheets/d/1f86L7vgHUW9wSLNNSunhjmtxtg6KlCOVpHGKbqUzW-Y/edit#gid=0
+- [[jerry michalski]] on 
+    - #push [[how people think]]
+        - https://www.collaborativefund.com/blog/think/
 
 
 ## 2022-07-28
