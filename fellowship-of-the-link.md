@@ -68,6 +68,11 @@
         - [[jerry michalski]] call this the [[nugget problem]]
         - [[chris aldrich]] [[nugget size]] vs [[zoom levels]]
         - [[jerry michalski]] 
+            - [[ted nelson]]
+                - [[stretch text]] ~ [[StretchText]] (1967)
+                - [[hypertext fiction]]
+                - AI(flancian): tell [[armengol]] about this, he was working on something related.
+            - Q: is there typing i
 
 
 ## 2022-07-28
