@@ -1,7 +1,11 @@
 ## 2022-08-04
 ### Agenda
+- Attending: [[jerry michalski]] [[mathew lowry]] [[flancian]]
+- [[jerry michalski]]
+    - [[betaworks]] render event next week
+        - [[nyc]]
+    - how to get a [[posse]] working together
 - Shared memory / collective learning
-- 
 
 ## 2022-07-28
 
