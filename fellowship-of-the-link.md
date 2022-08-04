@@ -99,7 +99,10 @@
                         - https://chrome.google.com/webstore/detail/crowdwise/hogoebkpcnajkkjdidfhojkljppfalip
                     - personal [[agoras]]
                         - providing entity resolution, entity coalescing, annotations
-                        - a contenxt in which to resolve wikilinks to permalinks
+                        - a context in which to resolve wikilinks to permalinks
+                    - [[optimistic linking]]
+                        - wishful thinking with dangling links
+                        
 
 ## 2022-07-28
 
