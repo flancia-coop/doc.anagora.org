@@ -44,7 +44,11 @@
         - [[chris aldrich]] almost on git but not currently
             - most of the public stuff starts in hypothes.is
             - notes in hypothes.is have permalinks
-            - actually have two 
+                - actually have two URLs:
+                    - one for the page/resource you annotated followed by a trigger for hypothes.is to open and show the annotation in context
+                    - one in the hypothes.is domain which refers to the actual annotation proper
+                    - "[[js;dr]] problem"
+                - 
 
 
 ## 2022-07-28
