@@ -9,6 +9,9 @@
     - looking into tools to create [[shared context]].
     - [[ryan singer]] [[shape up]]: synthesis only occurs when you can cover a breadth of topics quickly.
     - increasing [[information density]]
-    - [[frances miller]] (sp): [[organizing knowledge]] as a paper that starts with a one page representation of itself.
+    - [[francis miller]] 
+        - #push [[organizing knowledge]] as a paper that starts with a one page representation of itself.
+            - https://www.francismiller.com/organising_knowledge_paper.pdf
+    - [[compression facilitates synthesis]]
    
        
