@@ -32,6 +32,16 @@
 
 - Q ([[boris mann]]): how to make these tools and processes accessible to less technical / non expert users?
     - [[rob haisfield]]: [[smart defaults]]
+- Q ([[robert haisfield]]):
+    - [[roles of synthesis]], how could they be divided?
+        - curator
+        - connector
+        - educator
+        - researcher
+        - new knowledge provider / creator
+        - debater / contrarian
+        - mediator
+        - ([[bono's hats]])
 
                 
             
