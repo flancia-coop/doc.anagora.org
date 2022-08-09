@@ -23,6 +23,8 @@
             - people often defer structure to later
             - even autosuggest is context switching
             - [[formality considered harmful]]
+- Q: how to make these tools and processes accessible to less technical / non expert users?
+    - [[smart defaults]]
                 
             
    
