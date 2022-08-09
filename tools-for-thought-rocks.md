@@ -13,5 +13,9 @@
         - #push [[organizing knowledge]] as a paper that starts with a one page representation of itself.
             - https://www.francismiller.com/organising_knowledge_paper.pdf
     - [[compression facilitates synthesis]]
+- key findings / suggestions stemming from the research
+    - [[find or create shared context]]
+        - [[how do you scale and distribute synthesis]]
+    - [[design mechanisms to quickly bring people up to speed]]
    
        
