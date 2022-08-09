@@ -18,5 +18,8 @@
         - [[how do you scale and distribute synthesis]]
     - [[design mechanisms to quickly bring people up to speed]]
         - [[interactive intent modeling]]
+        - [[filters]] as in [[roam research]]
+        - lowering the barrier to add structure to notes
+            - [[people often defer structure to later]]
    
        
