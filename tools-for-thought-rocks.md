@@ -17,5 +17,6 @@
     - [[find or create shared context]]
         - [[how do you scale and distribute synthesis]]
     - [[design mechanisms to quickly bring people up to speed]]
+        - [[interactive intent modeling]]
    
        
