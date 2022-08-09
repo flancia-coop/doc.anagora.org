@@ -23,12 +23,15 @@
             - people often defer structure to later
             - even autosuggest is context switching
             - [[formality considered harmful]]
+    - [[incremental formalization]]
+        - [[twemex]]
+        - [[thread helper]]
+        - [[roamgames]]
+    - [[search as a primitive]]
+
 - Q ([[boris mann]]): how to make these tools and processes accessible to less technical / non expert users?
     - [[rob haisfield]]: [[smart defaults]]
-- [[incremental formalization]]
-    - [[twemex]]
-    - [[thread helper]]
-    - [[roamgames]]
+
                 
             
    
