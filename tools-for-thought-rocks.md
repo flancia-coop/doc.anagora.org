@@ -31,6 +31,8 @@
         - queries with composition
     - (...)
         - [[tummling]]
+    - #push [[boundary object]]
+        - [[joel chan]] a powerful concept that influences my thinking is "boundary object” - some artifact/structure that is just structured enough to facilitate coordination and collaboration across social worlds, but not so restrictive that it stifles local variation and thinking that is different in each world. https://scalar.usc.edu/works/boundary-objects-guide/index 
 
 - Q ([[boris mann]]): how to make these tools and processes accessible to less technical / non expert users?
     - [[rob haisfield]]: [[smart defaults]]
