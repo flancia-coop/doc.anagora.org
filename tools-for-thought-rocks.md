@@ -5,6 +5,7 @@
        - [[daniel kahneman]] 
    - subjectively, the feeling where "everything comes together"
     - the [[framing problem]]
-- [[bmann]]: 
+- [[synthesis]] is hard with people who don't share context with you.
+    - looking into tools to create [[shared context]].
    
        
