@@ -25,9 +25,9 @@
             - [[formality considered harmful]]
 - Q ([[boris mann]]): how to make these tools and processes accessible to less technical / non expert users?
     - [[rob haisfield]]: [[smart defaults]]
-- (...)
+- [[incremental formalization]]
     - [[twemex]]
-    - 
+    - [[thread helper]]
     - [[roamgames]]
                 
             
