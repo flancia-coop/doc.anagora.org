@@ -7,5 +7,8 @@
     - the [[framing problem]]
 - [[synthesis]] is hard with people who don't share context with you.
     - looking into tools to create [[shared context]].
+    - [[ryan singer]] [[shape up]]: synthesis only occurs when you can cover a breadth of topics quickly.
+    - increasing [[information density]]
+    - [[frances miller]] (sp): [[organizing knowledge]] as a paper that starts with a one page representation of itself.
    
        
