@@ -20,6 +20,10 @@
         - [[interactive intent modeling]]
         - [[filters]] as in [[roam research]]
         - lowering the barrier to add structure to notes
-            - [[people often defer structure to later]]
+            - people often defer structure to later
+            - even autosuggest is context switching
+            - 
+                
+            
    
        
