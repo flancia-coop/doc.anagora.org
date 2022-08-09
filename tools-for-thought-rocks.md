@@ -28,6 +28,7 @@
         - [[thread helper]]
         - [[roamgames]]
     - [[search as a primitive]]
+        - queries with composition
 
 - Q ([[boris mann]]): how to make these tools and processes accessible to less technical / non expert users?
     - [[rob haisfield]]: [[smart defaults]]
