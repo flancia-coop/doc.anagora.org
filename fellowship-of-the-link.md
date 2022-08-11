@@ -118,7 +118,11 @@
     - Grapiphic facilitation at conferences 
     - Point back at stuff that was written on the wall from a previous day. 
     - What would The Brain look like as the file system for an operating system. 
-
+    - synecure
+- Aram
+    - Archiving as a regular personal practice 
+- Chris
+    - References of people who value their knowledge so they protect against it being lost 
 
 ## 2022-08-04
 ### Agenda
