@@ -27,6 +27,8 @@
         - This is a very specific use case, with a business model, for decentralised sharing. And the social benefit is real, because it would set up a decentralised alternative to the big press agencies and allow stories which they will never pick up to travel across borders and find new audiences. 
 - [[Aram Zucker-Scharff]]
     - https://restofworld.org/ 
+    - Old version of Zemanta
+        - A blog post "enhanced" by Zemanta - https://hacktext.com/2011/02/what-is-a-text-and-how-do-i-hack-it-521/ 
 
 ## 2022-08-04
 ### Agenda
