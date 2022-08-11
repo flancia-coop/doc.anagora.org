@@ -185,7 +185,8 @@
     - Not everyone wants to use notes for creation, some are just collectors. 
 - Chris
     - Some people have collect a lot of stuff as the only goal and then the assumption is that magic happens, but that isn't really the case. 
-
+- People find a system and then want to sell it and that can be a problem
+    - GTD is an example here
 
 
 
