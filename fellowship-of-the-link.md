@@ -19,7 +19,11 @@
 - [[Mathew Lowry]]
     - WordPress plugin to syndicate news orgs from multiple sites of different languages 
     - Would be useful to give publishers more to cite and a better understanding  
-    - 
+    - A type of shared memory 
+    - Hard to get journalists to adopt the tool
+    - A bunch of different organizations sharing the tools for mutral benifit. 
+    - From Mattermost:
+        - 
 
 ## 2022-08-04
 ### Agenda
