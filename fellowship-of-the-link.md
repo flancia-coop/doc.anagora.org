@@ -113,7 +113,11 @@
 - Aram
     - Reminds me of 3d desktops
         - ![](https://doc.anagora.org/uploads/upload_43742f2c6167180e0f75a72217f54e4e.png)
-    - 
+- Jerry
+    - Songlines on the desktop 
+    - Grapiphic facilitation at conferences 
+    - Point back at stuff that was written on the wall from a previous day. 
+    - What would The Brain look like as the file system for an operating system. 
 
 
 ## 2022-08-04
