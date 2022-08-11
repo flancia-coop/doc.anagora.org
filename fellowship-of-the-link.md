@@ -8,8 +8,7 @@
     - -> https://wiki.rel8.dev/scribing_tools_for_thinking
 - AI(jerry michalski): give access to github repo?
 
-- Scaling Synthesis - Multiplayer TFT https://lu.ma/9a21amd7 from 2022-08-09 video should be available shortly from [[Boris Mann]] et al.
-- [[collective intelligence]] within the [[big history]] framing
+
 
 
 ## 2022-08-11
@@ -84,7 +83,7 @@
     - Local populations carefully crafting things and being overwritten by colonization. 
 - The Biggest Estate on Earth: How the Aborigines Made Australia (2011) 
 - Chris
-    - David Christian on collective intelligence: The beginning of collective knowledge and intellegence as the marker for the beginning of human history. 
+    - [[David Christian]] on [[collective intelligence]]: The beginning of collective knowledge and intellegence as the marker for the beginning of human history. 
 -  Jerry
     - Christian talked about how there are not hooks in the work to be able to pull his data out of his finished thesis. 
     - Humans are really good at killing themselves off and then passed down the ways they learned not to. 
@@ -127,6 +126,7 @@
 - Jerry
     - Tools for thinking - https://app.thebrain.com/brains/3d80058c-14d8-5361-0b61-a061f89baf87/thoughts/4bfe6526-9884-4b6d-9548-23659da7811e/ 
 - https://scalingsynthesis.com/
+- Scaling Synthesis - Multiplayer TFT https://lu.ma/9a21amd7 from 2022-08-09 video should be available shortly from [[Boris Mann]] et al.
 - Should we write a database of these things or should we poll people and publish interviews? What tools do people recommend?
     - Good example: https://indieweb.org/commonplace_book 
     - Would be good to hear from people: 
@@ -152,6 +152,13 @@
 - Jerry
     - Patern Languages of Pattern Languages
         - https://www.hillside.net/plop/2022/ 
+    - Chatbots maybe a solution?
+        - Hey I'm intersted in Starting with Tools for Thinking
+
+
+
+
+
 
 ## 2022-08-04
 ### Agenda
