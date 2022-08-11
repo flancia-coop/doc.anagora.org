@@ -165,9 +165,16 @@
     - It seem swe have to interview people first and get them to talk us through it. 
     - Do we need a questionaire? 
 - Jerry
-    - a smorgasbord of thinking tool users' preferences  
+    - a smorgasbord of thinking tool users' preferences
     - There is some skill required to pull people out of their over-complexity.
 - [ ] questionnaire for thinking tool users? 
+    - What are you using this tool for and why? 
+    - What did you wish your tool suite did? 
+    - In the note taking space a lot of people don't think out the longg term value 
+    - Creating one or two notes a day over a year before the big affordances become obvious 
+    - what is the long term value of your tool suite and process? 
+- Chris
+    - Very few people get to the 
 
 
 
