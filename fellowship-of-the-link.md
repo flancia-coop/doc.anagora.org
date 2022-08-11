@@ -8,7 +8,10 @@
     - -> https://wiki.rel8.dev/scribing_tools_for_thinking
 - AI(jerry michalski): give access to github repo?
 
-- Scaling Synthesis - Multiplayer TFT 
+- Scaling Synthesis - Multiplayer TFT https://lu.ma/9a21amd7 from 2022-08-09 video should be available shortly
+
+
+
 ## 2022-08-11
 
 ### Attending
@@ -31,6 +34,8 @@
     - Old version of Zemanta
         - A blog post "enhanced" by Zemanta https://hacktext.com/2011/02/what-is-a-text-and-how-do-i-hack-it-521/ 
         - https://static.packt-cdn.com/products/9781849511407/graphics/1407_02_15.jpg 
+        - Eventually purchased by Outbrain and killed
+    - https://www.distributedmedialab.com/publishers 
 - Potential space for this WordCamp for Publishers (https://twitter.com/wcpublishers/)
 
 
