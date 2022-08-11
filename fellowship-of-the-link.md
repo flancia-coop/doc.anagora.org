@@ -76,6 +76,14 @@
 - Smallest Federated Wiki 
 - IPFS but pinning is an issue. 
 - Collective intellegence - what that means for spread and maintenance 
+- Songlines Are the Original Blockchain - https://bra.in/5jQYgm
+- Jerry
+    - A lot of ways of remembering were intentionally destroyed by colonization 
+    - Songlines are an example of that
+    - but it turns out that these ways of handling it are important.
+    - Local populations carefully crafting things and being overwritten by colonization. 
+- The Biggest Estate on Earth: How the Aborigines Made Australia (2011) 
+- Chris
     - 
 
 ## 2022-08-04
