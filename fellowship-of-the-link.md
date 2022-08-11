@@ -147,6 +147,7 @@
         - http://en.wikipedia.org/wiki/Pattern_language
     - Ex: Light from Two Walls can become a shorthand for talking about loose rules that trigger understand and contextualization. 
     - Ex: [[1 2 4 all]]
+        - [Jerry write up of instrumenting](https://wiki.rel8.dev/tile_-_1-2-4-all_zoom_app)
 - Mathew
     - Is there a syntax or thesouras for pattern languages
 - Jerry
@@ -183,7 +184,7 @@
     - We need to use the 5 why technique - we need to ask why a lot
     - Not everyone wants to use notes for creation, some are just collectors. 
 - Chris
-    - Some people have collect a lot 
+    - Some people have collect a lot of stuff as the only goal and then the assumption is that magic happens, but that isn't really the case. 
 
 
 
