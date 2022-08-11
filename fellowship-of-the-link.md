@@ -13,7 +13,13 @@
 ### Attending
 [[Jerry Michalski]] [[Mathew Lowry]] [[flancian]] [[Chris Aldrich]] [[Aram Zucker-Scharff]]
 
+### Notes
+
 - https://www.betaworks.com/event/render-tools-for-thinking
+- [[Mathew Lowry]]
+    - WordPress plugin to syndicate news orgs from multiple sites of different languages 
+    - Would be useful to give publishers more to cite and a better understanding  
+    - 
 
 ## 2022-08-04
 ### Agenda
