@@ -95,8 +95,11 @@
     - Greeks overvalued it and that was the end point of oral learning. 
 - What does a non-literary method look like here? 
 - Aram:
-    - https://queensmemory.org/ 
-- 
+    - Queehttps://queensmemory.org/ - Podcasts as a method of oral history 
+    - Memes and emoji as inconographic languages 
+- Jerry
+    - There are others as well like NPR's project here that do podcasts for oral histories 
+    - [[The Alphabet Versus the Goddess: The Conflict Between Word and Image]] (1998) 
 
 ## 2022-08-04
 ### Agenda
