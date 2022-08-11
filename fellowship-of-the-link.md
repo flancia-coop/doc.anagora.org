@@ -65,10 +65,15 @@
     - Gravestones are very useful for history. Also potery. 
     - Tiny differences in gravestones over time are fashion trends that are time indicators. 
 - Aram
-    - I think in terms of preservation we can look at Activity Pub. When you federate with another server it pulls and replicates and distrubutes stuff. It would be great if we cao
-    - Open 
-    - Federation 
-    - 
+    - I think in terms of preservation we can look at Activity Pub. When you federate with another server it pulls and replicates and distrubutes stuff. It would be great if we could get that done with archives. 
+    - Open sourcing is good as well
+- Mathew 
+    - If you link to something you automatically make a backup is a good idea
+    - What does this have to do with content sharing? 
+        - https://en.wikipedia.org/wiki/Content-addressable_storage
+        - http://open-content.net/caw
+        - One peice of content can be shared out replicated and shares an address across many locations.
+- Smallest Federated Wiki 
 
 ## 2022-08-04
 ### Agenda
