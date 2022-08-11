@@ -95,11 +95,18 @@
     - Greeks overvalued it and that was the end point of oral learning. 
 - What does a non-literary method look like here? 
 - Aram:
-    - Queehttps://queensmemory.org/ - Podcasts as a method of oral history 
+    - [Queens Memory](https://queensmemory.org/) - Podcasts as a method of oral history 
     - Memes and emoji as inconographic languages 
 - Jerry
     - There are others as well like NPR's project here that do podcasts for oral histories 
     - [[The Alphabet Versus the Goddess: The Conflict Between Word and Image]] (1998) 
+- Aram
+    - https://en.wikipedia.org/wiki/Linguistic_relativity
+    - http://en.wikipedia.org/wiki/Sapir-Whorf_hypothesis
+- Chris
+    - Interesting project to 'write' coreography in a way that isn't the standard way of transmitting coreography
+    - https://en.wikipedia.org/wiki/Dance_notation
+    - Different ways to lay out colors an images to annotate video - how could you have a recorded record that could be 
 
 ## 2022-08-04
 ### Agenda
