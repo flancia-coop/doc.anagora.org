@@ -136,6 +136,11 @@
         - and this is how I turn it into outputs? 
     - Looking at how people use their information graphs and how they visualize information 
     - It would be really valuable to me to know if I want a good graph this is what it looks like 
+    - Why isn't there more documentation of these tools and how could it lead to interoperability 
+- Chris
+    - Even the history of the tree space isn't as well known or broadly distributed.... 
+    - Lima, Manuel. The Book of Trees: Visualizing Branches of Knowledge, 2014. 
+        - https://papress.com/products/the-book-of-trees-visualizing-branches-of-knowledge 
 
 ## 2022-08-04
 ### Agenda
