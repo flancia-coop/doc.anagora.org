@@ -57,7 +57,7 @@
     - Just like [POSSE](https://indieweb.org/POSSE) there should also be link once and archive yourselv 
     - These systems should be able to talk to each other and share and replicate their resources
 - Jerry
-    - How does this survive though? My harddrives don't survive me 
+    - How does this survive though? My hard drives don't survive me 
 - Chris
     - We have this problem with music - we saw how a lot of that music got lost.
     - Tip of the iceburg - so much history is lost 
@@ -196,7 +196,6 @@
 - Critiques of Learning Styles https://bra.in/2q5oKV
 - designfromtrust.com 
     - Universal Benefit 
-- 
  
 
 
