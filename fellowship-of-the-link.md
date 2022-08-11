@@ -114,7 +114,7 @@
     - Reminds me of 3d desktops
         - ![](https://doc.anagora.org/uploads/upload_43742f2c6167180e0f75a72217f54e4e.png)
 - Jerry
-    - Songlines on the desktop 
+    - [[Songlines]] on the desktop 
     - Grapiphic facilitation at conferences 
     - Point back at stuff that was written on the wall from a previous day. 
     - What would The Brain look like as the file system for an operating system. 
@@ -139,12 +139,13 @@
     - Why isn't there more documentation of these tools and how could it lead to interoperability 
 - Chris
     - Even the history of the tree space isn't as well known or broadly distributed.... 
-    - Lima, Manuel. The Book of Trees: Visualizing Branches of Knowledge, 2014. 
+    - Lima, Manuel. [[The Book of Trees]]: Visualizing Branches of Knowledge, 2014. 
         - https://papress.com/products/the-book-of-trees-visualizing-branches-of-knowledge 
         - Jerry: in my brain - https://app.thebrain.com/brains/3d80058c-14d8-5361-0b61-a061f89baf87/thoughts/cff5e4d0-94af-70a0-d710-d324cbdd55e6/ 
 - Jerry
-    - Could we have a pattern language for this? 
-    - Ex: Light from Two Walls can become a shorthand for talking about loose rules 
+    - Could we have a [[pattern language]] for this? 
+    - Ex: Light from Two Walls can become a shorthand for talking about loose rules that trigger understand and contextualization. 
+    - Ex: [[1 2 4 all]]
 
 ## 2022-08-04
 ### Agenda
