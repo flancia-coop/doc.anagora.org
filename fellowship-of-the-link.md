@@ -106,7 +106,8 @@
 - Chris
     - Interesting project to 'write' coreography in a way that isn't the standard way of transmitting coreography
     - https://en.wikipedia.org/wiki/Dance_notation
-    - Different ways to lay out colors an images to annotate video - how could you have a recorded record that could be 
+    - Different ways to lay out colors an images to annotate video - how could you have a recorded record that could be used to recreate a movie from the notes. 
+    - 
 
 ## 2022-08-04
 ### Agenda
