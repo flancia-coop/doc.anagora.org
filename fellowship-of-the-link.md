@@ -189,6 +189,9 @@
     - GTD is an example here
     - https://www.linkingyourthinking.com/
 - https://en.wikipedia.org/wiki/Mnemonic_major_system
+- https://boffosocko.com/2022/06/10/reframing-and-simplifying-the-idea-of-how-to-keep-a-zettelkasten/
+- Critiques of Learning Styles https://bra.in/2q5oKV
+ 
 
 
 ## 2022-08-04
