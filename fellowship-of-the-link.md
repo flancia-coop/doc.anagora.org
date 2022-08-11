@@ -52,7 +52,7 @@
     - The future digital anthropoligsts what will they find?
 - Aram
     - Archiving should be something anyone can do and have on their own site 
-    - Just like POSSE there should also be link once and archive yourselv 
+    - Just like [POSSE](https://indieweb.org/POSSE) there should also be link once and archive yourselv 
     - These systems should be able to talk to each other and share and replicate their resources
 - Jerry
     - How does this survive though? My harddrives don't survive me 
@@ -79,7 +79,7 @@
 - Songlines Are the Original Blockchain - https://bra.in/5jQYgm
 - Jerry
     - A lot of ways of remembering were intentionally destroyed by colonization 
-    - Songlines are an example of that
+    - [[Songlines]] are an example of that
     - but it turns out that these ways of handling it are important.
     - Local populations carefully crafting things and being overwritten by colonization. 
 - The Biggest Estate on Earth: How the Aborigines Made Australia (2011) 
@@ -144,8 +144,14 @@
         - Jerry: in my brain - https://app.thebrain.com/brains/3d80058c-14d8-5361-0b61-a061f89baf87/thoughts/cff5e4d0-94af-70a0-d710-d324cbdd55e6/ 
 - Jerry
     - Could we have a [[pattern language]] for this? 
+        - http://en.wikipedia.org/wiki/Pattern_language
     - Ex: Light from Two Walls can become a shorthand for talking about loose rules that trigger understand and contextualization. 
     - Ex: [[1 2 4 all]]
+- Mathew
+    - Is there a syntax or thesouras for pattern languages
+- Jerry
+    - Patern Languages of Pattern Languages
+        - https://www.hillside.net/plop/2022/ 
 
 ## 2022-08-04
 ### Agenda
