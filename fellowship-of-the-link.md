@@ -107,7 +107,14 @@
     - Interesting project to 'write' coreography in a way that isn't the standard way of transmitting coreography
     - https://en.wikipedia.org/wiki/Dance_notation
     - Different ways to lay out colors an images to annotate video - how could you have a recorded record that could be used to recreate a movie from the notes. 
+- Graphic facilitators 
+- Mathew
+    - volcano model for desktop information - starts in the center and slowly flows towards the sides until it falls off the desktop. 
+- Aram
+    - Reminds me of 3d desktops
+        - ![](https://doc.anagora.org/uploads/upload_43742f2c6167180e0f75a72217f54e4e.png)
     - 
+
 
 ## 2022-08-04
 ### Agenda
