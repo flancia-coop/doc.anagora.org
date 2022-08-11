@@ -46,7 +46,10 @@
     - Photos are not fully backed up there
     - 2 decades of working on the problem and not everything is backed up. 
 - Mathew
-    - 
+    - The European Commission relies on the Internet Archive for websites they no longer wish to maintain. 
+- Jerry
+    - YouTube has its own storage problems stuff is not well archived. It is remarkable that they even capture what they can. 
+    - The future digital anthropoligsts what will they find?
 
 ## 2022-08-04
 ### Agenda
