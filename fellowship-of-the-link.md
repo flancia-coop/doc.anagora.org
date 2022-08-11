@@ -129,7 +129,13 @@
 - https://scalingsynthesis.com/
 - Should we write a database of these things or should we poll people and publish interviews? What tools do people recommend?
     - Good example: https://indieweb.org/commonplace_book 
-    - Would be good to hear from people - I have this practice - this  is how I use it - this is what it looks like - and this is how I turn it into outputs? 
+    - Would be good to hear from people: 
+        - I have this practice 
+        - this  is how I use it 
+        - this is what it looks like 
+        - and this is how I turn it into outputs? 
+    - Looking at how people use their information graphs and how they visualize information 
+    - It would be really valuable to me to know if I want a good graph this is what it looks like 
 
 ## 2022-08-04
 ### Agenda
