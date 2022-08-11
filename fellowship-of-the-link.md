@@ -124,7 +124,9 @@
 - Chris
     - References of people who value their knowledge so they protect against it being lost to history. 
         - These bound books over here with all my notes take them out of the house 
-        - 
+- Jerry
+    - Tools for thinking - https://app.thebrain.com/brains/3d80058c-14d8-5361-0b61-a061f89baf87/thoughts/4bfe6526-9884-4b6d-9548-23659da7811e/ 
+- https://scalingsynthesis.com/
 
 ## 2022-08-04
 ### Agenda
