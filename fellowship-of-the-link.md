@@ -1,5 +1,7 @@
 ## Agenda
-[[2022-0818]] (or just after): recap of 
+[[2022-0818]] (or just after): recap of Render Conference for Tools for Thinking https://www.betaworks.com/event/render-tools-for-thinking
+
+
 
 ## AIs ~ [[action items]]
 - invite [[indieweb people]]
@@ -19,7 +21,7 @@
 
 ### Notes
 
-- https://www.betaworks.com/event/render-tools-for-thinking
+- [[betaworks]] conference: https://www.betaworks.com/event/render-tools-for-thinking
 - [[Mathew Lowry]]
     - WordPress plugin to syndicate news orgs from multiple sites of different languages 
     - Would be useful to give publishers more to cite and a better understanding  
@@ -33,7 +35,7 @@
         - ![](https://doc.anagora.org/uploads/upload_f52edad0579e3a487bf2d8b201765b49.jpg)
 - [[Aram Zucker-Scharff]]
     - https://restofworld.org/ 
-    - Old version of Zemanta
+    - Old version of [[Zemanta]]
         - A blog post "enhanced" by Zemanta https://hacktext.com/2011/02/what-is-a-text-and-how-do-i-hack-it-521/ 
         - https://static.packt-cdn.com/products/9781849511407/graphics/1407_02_15.jpg 
         - Eventually purchased by Outbrain and killed
