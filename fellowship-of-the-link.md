@@ -42,7 +42,7 @@
     - Great event, highly recommend! - Aram
 - There's the https://knightlab.northwestern.edu/projects/ that is really great. 
 - [[Chris Aldrich]]
-    - The NYT has a digital archive team. 
+    - The NYT has a digital archive team of about 3
     - Photos are not fully backed up there
     - 2 decades of working on the problem and not everything is backed up. 
 - Mathew
@@ -59,10 +59,16 @@
 - Chris
     - We have this problem with music - we saw how a lot of that music got lost.
     - Tip of the iceburg - so much history is lost 
+    - music notation didn't exist in printed forms until about 11th century
 - Jerry
+    - In Small Things Forgotten 
     - Gravestones are very useful for history. Also potery. 
     - Tiny differences in gravestones over time are fashion trends that are time indicators. 
-- 
+- Aram
+    - I think in terms of preservation we can look at Activity Pub. When you federate with another server it pulls and replicates and distrubutes stuff. It would be great if we cao
+    - Open 
+    - Federation 
+    - 
 
 ## 2022-08-04
 ### Agenda
