@@ -38,10 +38,10 @@
         - https://static.packt-cdn.com/products/9781849511407/graphics/1407_02_15.jpg 
         - Eventually purchased by Outbrain and killed
     - https://www.distributedmedialab.com/publishers 
-- Potential space for this WordCamp for Publishers (https://twitter.com/wcpublishers/)
+- Potential space for this [[WordCamp for Publishers]] https://twitter.com/wcpublishers/
     - Great event, highly recommend! - Aram
 - There's the https://knightlab.northwestern.edu/projects/ that is really great. 
-- [[Chris Aldrich]]
+- Chris
     - The NYT has a digital archive team of about 3
     - Photos are not fully backed up there
     - 2 decades of working on the problem and not everything is backed up. 
@@ -52,7 +52,7 @@
     - The future digital anthropoligsts what will they find?
 - Aram
     - Archiving should be something anyone can do and have on their own site 
-    - Just like [POSSE](https://indieweb.org/POSSE) there should also be link once and archive yourselv 
+    - Just like [POSSE](https://indieweb.org/POSSE) there should also be link once and archive yourself 
     - These systems should be able to talk to each other and share and replicate their resources
 - Jerry
     - How does this survive though? My hard drives don't survive me 
