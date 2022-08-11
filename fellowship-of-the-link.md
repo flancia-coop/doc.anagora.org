@@ -154,7 +154,13 @@
         - https://www.hillside.net/plop/2022/ 
     - Chatbots maybe a solution?
         - Hey I'm intersted in Starting with Tools for Thinking
-
+- Aram
+    - Maybe just a question and answer page?
+- Jerry
+    - And then you could feed it into a Chat Bot
+- Mathew
+    - How do we help people find the right tool for them
+    - How do we help people find the right pattern langugage for them. 
 
 
 
