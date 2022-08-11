@@ -122,7 +122,9 @@
 - Aram
     - Archiving as a regular personal practice 
 - Chris
-    - References of people who value their knowledge so they protect against it being lost 
+    - References of people who value their knowledge so they protect against it being lost to history. 
+        - These bound books over here with all my notes take them out of the house 
+        - 
 
 ## 2022-08-04
 ### Agenda
