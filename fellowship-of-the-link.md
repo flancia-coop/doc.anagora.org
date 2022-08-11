@@ -84,7 +84,13 @@
     - Local populations carefully crafting things and being overwritten by colonization. 
 - The Biggest Estate on Earth: How the Aborigines Made Australia (2011) 
 - Chris
-    - 
+    - David Christian on collective intelligence: The beginning of collective knowledge and intellegence as the marker for the beginning of human history. 
+-  Jerry
+    - Christian talked about how there are not hooks in the work to be able to pull his data out of his finished thesis. 
+    - Humans are really good at killing themselves off and then passed down the ways they learned not to. 
+- How practices spread and disceminate? 
+- We overvalue the written world - Jerry. 
+- 
 
 ## 2022-08-04
 ### Agenda
