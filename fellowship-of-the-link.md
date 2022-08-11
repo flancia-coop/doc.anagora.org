@@ -191,6 +191,9 @@
 - https://en.wikipedia.org/wiki/Mnemonic_major_system
 - https://boffosocko.com/2022/06/10/reframing-and-simplifying-the-idea-of-how-to-keep-a-zettelkasten/
 - Critiques of Learning Styles https://bra.in/2q5oKV
+- designfromtrust.com 
+    - Universal Benefit 
+- 
  
 
 
