@@ -50,6 +50,10 @@
 - Jerry
     - YouTube has its own storage problems stuff is not well archived. It is remarkable that they even capture what they can. 
     - The future digital anthropoligsts what will they find?
+- Aram
+    - Archiving should be something anyone can do and have on their own site 
+    - Just like POSSE there should also be link once and archive yourselv 
+    - T
 
 ## 2022-08-04
 ### Agenda
