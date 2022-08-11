@@ -8,6 +8,13 @@
     - -> https://wiki.rel8.dev/scribing_tools_for_thinking
 - AI(jerry michalski): give access to github repo?
 
+## 2022-08-11
+
+### Attending
+[[Jerry Michalski]] [[Mathew Lowry]] [[flancian]] [[Chris Aldrich]] [[Aram Zucker-Scharff]]
+
+- https://www.betaworks.com/event/render-tools-for-thinking
+
 ## 2022-08-04
 ### Agenda
 - Shared memory / collective learning
