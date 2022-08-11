@@ -187,7 +187,8 @@
     - Some people have collect a lot of stuff as the only goal and then the assumption is that magic happens, but that isn't really the case. 
 - People find a system and then want to sell it and that can be a problem
     - GTD is an example here
-
+    - https://www.linkingyourthinking.com/
+- https://en.wikipedia.org/wiki/Mnemonic_major_system
 
 
 ## 2022-08-04
