@@ -8,14 +8,14 @@
     - -> https://wiki.rel8.dev/scribing_tools_for_thinking
 - AI(jerry michalski): give access to github repo?
 
-- Scaling Synthesis - Multiplayer TFT https://lu.ma/9a21amd7 from 2022-08-09 video should be available shortly
-
+- Scaling Synthesis - Multiplayer TFT https://lu.ma/9a21amd7 from 2022-08-09 video should be available shortly from [[Boris Mann]] et al.
+- [[collective intelligence]] within the [[big history]] framing
 
 
 ## 2022-08-11
 
 ### Attending
-[[Jerry Michalski]] [[Mathew Lowry]] [[flancian]] [[Chris Aldrich]] [[Aram Zucker-Scharff]]
+[[Jerry Michalski]] [[Mathew Lowry]] [[Chris Aldrich]] [[Aram Zucker-Scharff]]
 
 ### Notes
 
@@ -29,6 +29,9 @@
     - From Mattermost - https://chat.collectivesensecommons.org/agora/pl/gbonf7z177yquffqz59mu8uino :
         - The basic idea was to create CMS plug-ins for newsrooms which would allow journalists in different participating newsrooms to access each other's content, both published and otherwise (ie, drafts, notes, etc.), via their CMS. The  participating newsrooms essentially become a sort of decentralised press agency. This is particularly interesting in Europe, where every newsroom cannot have a journalist in every country. Hence the system would incorporate machine translation, autocategorisation and autosummary. Obviously, every time newsroom A used newsroom B's content - ie A translated and republished B's article into their own language for their own audience - newsroom B would earn credit. And every time B used A's, they would spend that credit.
         - This is a very specific use case, with a business model, for decentralised sharing. And the social benefit is real, because it would set up a decentralised alternative to the big press agencies and allow stories which they will never pick up to travel across borders and find new audiences. 
+        - ![](https://doc.anagora.org/uploads/upload_f52edad0579e3a487bf2d8b201765b49.jpg)
+        - ![](https://doc.anagora.org/uploads/upload_93d18a7e1ef02e22c9e6482dd39300c8.jpg)
+
 - [[Aram Zucker-Scharff]]
     - https://restofworld.org/ 
     - Old version of Zemanta
