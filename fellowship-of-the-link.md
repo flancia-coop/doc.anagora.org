@@ -127,6 +127,9 @@
 - Jerry
     - Tools for thinking - https://app.thebrain.com/brains/3d80058c-14d8-5361-0b61-a061f89baf87/thoughts/4bfe6526-9884-4b6d-9548-23659da7811e/ 
 - https://scalingsynthesis.com/
+- Should we write a database of these things or should we poll people and publish interviews? What tools do people recommend?
+    - Good example: https://indieweb.org/commonplace_book 
+    - Would be good to hear from people - I have this practice - this  is how I use it - this is what it looks like - and this is how I turn it into outputs? 
 
 ## 2022-08-04
 ### Agenda
