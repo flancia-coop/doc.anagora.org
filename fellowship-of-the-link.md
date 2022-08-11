@@ -90,6 +90,12 @@
     - Humans are really good at killing themselves off and then passed down the ways they learned not to. 
 - How practices spread and disceminate? 
 - We overvalue the written world - Jerry. 
+- Mathew
+    - An overvalue of memorization 
+    - Greeks overvalued it and that was the end point of oral learning. 
+- What does a non-literary method look like here? 
+- Aram:
+    - https://queensmemory.org/ 
 - 
 
 ## 2022-08-04
