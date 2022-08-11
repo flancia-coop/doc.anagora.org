@@ -40,7 +40,13 @@
     - https://www.distributedmedialab.com/publishers 
 - Potential space for this WordCamp for Publishers (https://twitter.com/wcpublishers/)
     - Great event, highly recommend! - Aram
-- 
+- There's the https://knightlab.northwestern.edu/projects/ that is really great. 
+- [[Chris Aldrich]]
+    - The NYT has a digital archive team. 
+    - Photos are not fully backed up there
+    - 2 decades of working on the problem and not everything is backed up. 
+- Mathew
+    - 
 
 ## 2022-08-04
 ### Agenda
