@@ -1,3 +1,6 @@
+## Agenda
+[[2022-0818]] (or just after): recap of 
+
 ## AIs ~ [[action items]]
 - invite [[indieweb people]]
 - re-invite [[dan whaley]]
@@ -7,8 +10,6 @@
 - sync about approach / instructions for [[betaworks]] [[2022-08-16]] event
     - -> https://wiki.rel8.dev/scribing_tools_for_thinking
 - AI(jerry michalski): give access to github repo?
-
-
 
 
 ## 2022-08-11
