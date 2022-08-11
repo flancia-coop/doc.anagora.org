@@ -74,6 +74,9 @@
         - http://open-content.net/caw
         - One peice of content can be shared out replicated and shares an address across many locations.
 - Smallest Federated Wiki 
+- IPFS but pinning is an issue. 
+- Collective intellegence - what that means for spread and maintenance 
+    - 
 
 ## 2022-08-04
 ### Agenda
