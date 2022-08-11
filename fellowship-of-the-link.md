@@ -1,8 +1,6 @@
 ## Agenda
 [[2022-0818]] (or just after): recap of Render Conference for Tools for Thinking https://www.betaworks.com/event/render-tools-for-thinking
 
-
-
 ## AIs ~ [[action items]]
 - invite [[indieweb people]]
 - re-invite [[dan whaley]]
@@ -187,11 +185,11 @@
     - We need to use the 5 why technique - we need to ask why a lot
     - Not everyone wants to use notes for creation, some are just collectors. 
 - Chris
-    - Some people have collect a lot of stuff as the only goal and then the assumption is that magic happens, but that isn't really the case. 
+    - Some people have collect a lot of stuff as the only goal and then the assumption is that [[note taking magic]] happens, but that isn't really the case. 
 - People find a system and then want to sell it and that can be a problem
-    - GTD is an example here
+    - [[GTD]] aka [[getting things done]] is an example here
     - [[nick milo]] and [[linking your thinking]] https://www.linkingyourthinking.com/
-- [[Memory]] and [[major system]] https://en.wikipedia.org/wiki/Mnemonic_major_system
+- [[Memory]] and [[major system]] https://en.wikipedia.org/wiki/Mnemonic_major_system as a historical example of people selling intellectual systems or frameworks. This is playing itself out again with note taking tools.
 - https://boffosocko.com/2022/06/10/reframing-and-simplifying-the-idea-of-how-to-keep-a-zettelkasten/
 - Critiques of Learning Styles https://bra.in/2q5oKV
 - [[design from trust]] designfromtrust.com 
