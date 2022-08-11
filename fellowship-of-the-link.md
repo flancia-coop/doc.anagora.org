@@ -161,6 +161,13 @@
 - Mathew
     - How do we help people find the right tool for them
     - How do we help people find the right pattern langugage for them. 
+- Aram
+    - It seem swe have to interview people first and get them to talk us through it. 
+    - Do we need a questionaire? 
+- Jerry
+    - a smorgasbord of thinking tool users' preferences  
+    - There is some skill required to pull people out of their over-complexity.
+- [ ] questionnaire for thinking tool users? 
 
 
 
