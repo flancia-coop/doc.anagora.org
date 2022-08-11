@@ -173,9 +173,17 @@
     - In the note taking space a lot of people don't think out the longg term value 
     - Creating one or two notes a day over a year before the big affordances become obvious 
     - what is the long term value of your tool suite and process? 
+    - create a 3 minute video of your most typical use case 
+        - UX Studies Practice here ?
+            - Narrate yourself through the proceess and what you are thinking 
 - Chris
-    - Very few people get to the 
-
+    - Very few people get to the 3 or 4 month mark where they see pay off from notetaking.
+    - Not many people are writing about it as a benefit either. 
+- Mathew
+    - We need to use the 5 why technique - we need to ask why a lot
+    - Not everyone wants to use notes for creation, some are just collectors. 
+- Chris
+    - Some people have collect a lot 
 
 
 
