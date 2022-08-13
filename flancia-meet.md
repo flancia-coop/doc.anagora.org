@@ -2,8 +2,18 @@
 - We meet best-effort every Saturday. UTC?
 - This is where we have community maintained notes :)
 
+# #push [[flancia-meet-2022-08-13]]
+- Attending: [[flancian]]
+- [[flancian]]
+    - Working on [[agora pkg chapter]] this weekend.
+    - Missing working on other things though -- like adding features to the [[agora]] and fixing bugs!
+
+# #push [[flancia-meet-2022-08-06]]
+- didn't happen?
+- [[flancian]] was travelling with family.
+
 # #push [[flancia-meet-2022-07-30]]
-- 
+- didn't happen?
 
 # #push [[flancia-meet-2022-07-23]]
 - [[protopian]] [[flancian]]
