@@ -1,10 +1,2 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="utf-8">
-<title>Error</title>
-</head>
-<body>
-<pre>Internal Server Error</pre>
-</body>
-</html>
+- [[flancian]]
+  - One of my favourite songs. By [[vashti bunyan]]. Surprised I didn't have a [[node]] on it!

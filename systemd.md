@@ -1,10 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="utf-8">
-<title>Error</title>
-</head>
-<body>
-<pre>Internal Server Error</pre>
-</body>
-</html>
+Suddenly `systemctl --user status agora-bot mastodon` replies:
+
+```
+Warning: Journal has been rotated since unit was started. Log output is incompl
+```

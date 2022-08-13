@@ -1,10 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="utf-8">
-<title>Error</title>
-</head>
-<body>
-<pre>Internal Server Error</pre>
-</body>
-</html>
+- Mi mamá no puede abrir el [[Listerine]], se frustra. Rompe las medidas de seguridad con un cuchillo.
+- [[nepomuk]]
+    - [[bridge]] [[glatbrugg]]
+- [[Charlemagne]]
