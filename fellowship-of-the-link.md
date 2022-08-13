@@ -10,7 +10,7 @@
 - sync about approach / instructions for [[betaworks]] [[2022-08-16]] event
     - -> https://wiki.rel8.dev/scribing_tools_for_thinking
 - AI(jerry michalski): give access to github repo?
-
+- We should create a survey about uses of tools for thought and note taking? (discussed [[2022-08-11]])
 
 ## 2022-08-11
 
