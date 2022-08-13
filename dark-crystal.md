@@ -1,5 +1,10 @@
-[[dark crystal]]: https://darkcrystal.pw
-
-"Backup your secrets using the [[trust]] in your social fabric"
-
-h/t [[vera]]
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Internal Server Error</pre>
+</body>
+</html>

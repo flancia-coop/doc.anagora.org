@@ -1,1 +1,10 @@
-[[art movement]] coined by [[bouncepaw]] similar to [[solarpunk]] but more pipes
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Internal Server Error</pre>
+</body>
+</html>

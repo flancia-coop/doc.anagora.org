@@ -1,9 +1,10 @@
-cookie clicker
-FUCK YOU 
-no you 
-Ugle poop face 
-you shut the fuck up bich fuck 
-you muther fucker.
-
-
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Internal Server Error</pre>
+</body>
+</html>

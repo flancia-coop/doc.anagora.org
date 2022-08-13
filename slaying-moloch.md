@@ -1,3 +1,10 @@
-Please feel free to list here your reasons for [[slaying moloch]].
-
-[[flancian]] https://twitter.com/flancian/status/1456330094327308291
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Internal Server Error</pre>
+</body>
+</html>

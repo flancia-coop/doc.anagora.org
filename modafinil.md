@@ -1,1 +1,10 @@
-Modafinil, sold under the brand name Provigil among others, is a medication to treat sleepiness due to narcolepsy, shift work sleep disorder, and obstructive sleep apnea.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Internal Server Error</pre>
+</body>
+</html>

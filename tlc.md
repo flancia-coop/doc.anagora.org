@@ -1,1 +1,10 @@
-- [[yoga]] #go https://www.youtube.com/watch?v=uIfX-EqwWcM&list=PLui6Eyny-Uzyp5P3Vcuv5qCHQOC8W6grN&index=29
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Internal Server Error</pre>
+</body>
+</html>

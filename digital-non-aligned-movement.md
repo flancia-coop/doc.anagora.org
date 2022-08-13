@@ -1,2 +1,10 @@
-On a document with the same title which you might find relevant (https://www.opendemocracy.net/en/oureconomy/case-digital-non-aligned-movement/0)
-    And a broader collective working on these matters: https://nonalignedtech.net/index.php?title=Main_Page 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Internal Server Error</pre>
+</body>
+</html>

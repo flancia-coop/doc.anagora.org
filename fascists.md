@@ -1,7 +1,10 @@
-Hello my friend!
-
-Would you like to discuss [[fascists]] and [[fascism]] with me?
-
-I know it's a tricky topic -- but I'm interested in having an honest discussion with you.
-
-You can sign your text like this: - [[flancian]].
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Internal Server Error</pre>
+</body>
+</html>

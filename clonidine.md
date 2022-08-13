@@ -1,1 +1,10 @@
-Clonidine, sold under the brand name Catapres among others, is an α2-adrenergic agonist[7] medication used to treat high blood pressure, attention deficit hyperactivity disorder, drug withdrawal (alcohol, opioids, or nicotine), [menopausal flushing](https://anagora.org/menopausal-flushing), diarrhea, spasticity and certain pain conditions.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Internal Server Error</pre>
+</body>
+</html>

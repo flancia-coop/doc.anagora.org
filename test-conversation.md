@@ -1,1 +1,10 @@
-#go https://matrix.to/#/!WhilafaLxfJNoigHCj:matrix.org/$o0rxy8MjCoscxPznispYOSkDfhajKCNnP_xTeDF2W1s?via=matrix.org&via=t2bot.io&via=occult.institute
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Internal Server Error</pre>
+</body>
+</html>

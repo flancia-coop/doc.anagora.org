@@ -1,4 +1,10 @@
-opposite of dystopia
-
-https://medium.com/@hanzifreinacht/protopia-beyond-utopia-8200a20b2c43 h/t [[will]]
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Internal Server Error</pre>
+</body>
+</html>

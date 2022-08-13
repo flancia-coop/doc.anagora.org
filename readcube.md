@@ -1,1 +1,10 @@
-ReadCube is a technology company developing software for researchers, publishers, academic and commercial organizations. ReadCube’s product line includes the reference manager ReadCube Papers, Anywhere Access and custom services for publishers.[1] It is part of the Digital Science's portfolio.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Internal Server Error</pre>
+</body>
+</html>

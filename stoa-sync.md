@@ -1,3 +1,10 @@
-I like the fact that, after changing the default to edit, you need only pull the stoa (and wait a few seconds :) to [[start writing]].
-
-Cool!
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Internal Server Error</pre>
+</body>
+</html>

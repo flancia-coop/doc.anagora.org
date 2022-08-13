@@ -1,1 +1,10 @@
-I asked "What are your thoughts on Murray Bookchin?" here -> https://social.coop/@neil/107036385645933025
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Internal Server Error</pre>
+</body>
+</html>

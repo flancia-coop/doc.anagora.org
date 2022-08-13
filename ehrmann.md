@@ -1,2 +1,10 @@
-- [[protein pudding]]
-  - [[go]] https://www.ehrmann.de/produkte/high-protein/pudding-dessert-pudding-schoko-im-becher-200-g/
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Internal Server Error</pre>
+</body>
+</html>

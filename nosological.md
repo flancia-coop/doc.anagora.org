@@ -1,1 +1,10 @@
-Nosology (from Ancient Greek νόσος (nosos) 'disease', and -λογία (-logia) 'study of') is the branch of medical science that deals with the classification of diseases.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Internal Server Error</pre>
+</body>
+</html>

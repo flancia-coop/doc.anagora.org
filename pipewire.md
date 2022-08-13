@@ -1,1 +1,10 @@
-- [[flancian]] basically installing [[libspa-0.2-bluetooth]] did it, as per https://wiki.debian.org/BluetoothUser/a2dp#PipeWire
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Internal Server Error</pre>
+</body>
+</html>

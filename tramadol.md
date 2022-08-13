@@ -1,1 +1,10 @@
-Tramadol, sold under the brand name Ultram among others,[1] is an opioid pain medication used to treat moderate to moderately severe pain.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Internal Server Error</pre>
+</body>
+</html>

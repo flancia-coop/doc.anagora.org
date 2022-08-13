@@ -1,1 +1,10 @@
-- #pull [[agora tarot]] [[node club tarot]] [[tarot for thought]]
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Internal Server Error</pre>
+</body>
+</html>

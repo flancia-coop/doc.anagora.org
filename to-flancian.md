@@ -1,3 +1,10 @@
-- [[to/flancian]] and [[to/@flancian]] and probably #push [[@flancian]] should all also work :)
-    - but for now please feel free to write anything you would like me to read here in node [[to flancian]].
-    - thank you!
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Internal Server Error</pre>
+</body>
+</html>

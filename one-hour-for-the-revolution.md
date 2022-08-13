@@ -1,1 +1,10 @@
-![](https://doc.anagora.org/uploads/upload_5ca9464a782d66c67b2d914c334862cf.png)
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Internal Server Error</pre>
+</body>
+</html>

@@ -1,2 +1,10 @@
-- #push [[ann brela y sus cuerdas]] 
-    - #go https://music.youtube.com/playlist?list=OLAK5uy_lVYE-omd_qR88lzFa200I72EgInYa4cxo&feature=share
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Internal Server Error</pre>
+</body>
+</html>

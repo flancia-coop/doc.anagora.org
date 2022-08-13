@@ -1,1 +1,10 @@
-I'm super stoked this links to the [[Aaron Swartz]] wiki page. RIP 🪦
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Internal Server Error</pre>
+</body>
+</html>

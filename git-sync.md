@@ -1,1 +1,10 @@
-- [[flancian]] I coded a very simple [[autopush.sh]]
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Internal Server Error</pre>
+</body>
+</html>

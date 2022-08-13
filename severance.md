@@ -1,2 +1,10 @@
-- a [[show]].
-  - #go https://en.m.wikipedia.org/wiki/Severance_(TV_series)
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Internal Server Error</pre>
+</body>
+</html>

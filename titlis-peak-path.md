@@ -1,2 +1,10 @@
-- https://www.titlis.ch/en/activity/detail/hiking/4485/60325
-- [[maps]] [[titlis peak path]]
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Internal Server Error</pre>
+</body>
+</html>

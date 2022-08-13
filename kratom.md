@@ -1,1 +1,10 @@
-ooo looks like [[flancian]] put in hedgedoc into the stoa section. Me likey -- [[vera]]
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Internal Server Error</pre>
+</body>
+</html>

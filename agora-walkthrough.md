@@ -1,16 +1,10 @@
-- [[2022-05-29]]
-    - #pull [[agora diagram]] [[agora architecture]]
-    - [[underlay]] [[interlay]] [[overlay]] vs https://social.coop/@flancian/108346148663576473
-    - [[possible starter projects]]
-        - [[moa]]
-            - [[instagram api]], see bug with link to interesting library
-            - [[save to git]], someone is already interested / could be a nice pair project
-        - [[agora]]
-            - [[agora bridge]]
-                - [[agora bot]]
-                    - more platforms, perhaps via moa? or sharing code
-            - [[repositories]]
-                - [[go/agora]]
-                - [[go/agora bridge]]
-                - [[go/agora server]]
-    
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Internal Server Error</pre>
+</body>
+</html>

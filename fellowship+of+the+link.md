@@ -1,11 +1,10 @@
-Fellowship of the Link on June 9, 2022
-
-## Attendees
-[[chris aldrich]]
-[[flancian]]
-[[jerry michalski]]
-[[diego]]
-
-Inviting others
-
--> https://doc.anagora.org/fellowship-of-the-link
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Internal Server Error</pre>
+</body>
+</html>

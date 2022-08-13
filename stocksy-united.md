@@ -1,1 +1,10 @@
-Stocksy United, also referred to as Stocksy or Stocksy United Photography, is a Victoria, British Columbia based platform cooperative[1] that accepts and provides royalty-free stock photography and stock video. Stocksy uses a curated editing approach to select useful and authentic photos.[2] The co-op differs from other stock photography firms by its stated focus on fair pay and creating sustainable careers for its members.[2][3]
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Internal Server Error</pre>
+</body>
+</html>

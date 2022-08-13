@@ -1,3 +1,10 @@
-- 16. April 2022
-- 13. Mai 2022
-- 17. Juni 2022
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Internal Server Error</pre>
+</body>
+</html>

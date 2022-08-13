@@ -1,3 +1,10 @@
-How would you [[solve poverty]]?
-
-Please tell me. You can write here; this is an open document.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Internal Server Error</pre>
+</body>
+</html>
