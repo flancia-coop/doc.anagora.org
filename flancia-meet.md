@@ -2,6 +2,9 @@
 - We meet best-effort every Saturday. UTC?
 - This is where we have community maintained notes :)
 
+# #push [[flancia-meet-2022-07-30]]
+- 
+
 # #push [[flancia-meet-2022-07-23]]
 - [[protopian]] [[flancian]]
 - how was the week?
