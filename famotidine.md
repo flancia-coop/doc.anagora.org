@@ -1,10 +1,1 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="utf-8">
-<title>Error</title>
-</head>
-<body>
-<pre>Internal Server Error</pre>
-</body>
-</html>
+Famotidine, sold under the brand name Pepcid among others, is a histamine H2 receptor antagonist medication that decreases stomach acid production.

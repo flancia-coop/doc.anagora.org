@@ -1,10 +1,1 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="utf-8">
-<title>Error</title>
-</head>
-<body>
-<pre>Internal Server Error</pre>
-</body>
-</html>
+Anybody who wants to contribute something to the Agora without having to sign up can write in any of the world writable documents associated with a node in the Agora -- like this one :)

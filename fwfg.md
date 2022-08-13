@@ -1,10 +1,2 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="utf-8">
-<title>Error</title>
-</head>
-<body>
-<pre>Internal Server Error</pre>
-</body>
-</html>
+- #go https://fwfg.com/
+- [[2022-02]] https://fwfg.com/programs/yoga-calendar-february-2022-blossom?categoryId=106071&permalink=10-minute-yoga-for-self-care

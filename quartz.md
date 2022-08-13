@@ -1,10 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="utf-8">
-<title>Error</title>
-</head>
-<body>
-<pre>Internal Server Error</pre>
-</body>
-</html>
+- a [[tool]].
+    - [[digital garden]] [[hosting]]
+    - #go https://quartz.jzhao.xyz/
+    - [[darlim]] == [[@darlim]] told me about it

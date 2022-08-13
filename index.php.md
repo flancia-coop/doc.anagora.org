@@ -1,10 +1,1 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="utf-8">
-<title>Error</title>
-</head>
-<body>
-<pre>Internal Server Error</pre>
-</body>
-</html>
+The first Agora was a [[MediaWiki]] install; some links around the web still point to index.php. Sorry for breaking it but it got taken over by spammers essentially, and it had no users other than me ([[flancian]]); I might bring it up at some point in time :)

@@ -1,10 +1,2 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="utf-8">
-<title>Error</title>
-</head>
-<body>
-<pre>Internal Server Error</pre>
-</body>
-</html>
+- [[flancian]]
+    - [[symbiosis]] https://en.wikipedia.org/wiki/Symbiosis_in_lichens

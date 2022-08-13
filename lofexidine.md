@@ -1,10 +1,1 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="utf-8">
-<title>Error</title>
-</head>
-<body>
-<pre>Internal Server Error</pre>
-</body>
-</html>
+Lofexidine, sold under the brand name Lucemyra among others,[1] is a medication historically used to treat high blood pressure; today, it is more commonly used to help with the physical symptoms of opioid withdrawal

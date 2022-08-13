@@ -1,10 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="utf-8">
-<title>Error</title>
-</head>
-<body>
-<pre>Internal Server Error</pre>
-</body>
-</html>
+- [[flancian]]:
+    - What do you think about the Agora?
+    - If you write in this document, I'll always read it gladly :)
+    - [[pull]] [[what do I think about the agora?]]

@@ -1,10 +1,1 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="utf-8">
-<title>Error</title>
-</head>
-<body>
-<pre>Internal Server Error</pre>
-</body>
-</html>
+Justification (also called epistemic justification) is a concept in epistemology used to describe reasons that someone holds a rationally admissible belief (although the term is also sometimes applied to other propositional attitudes such as doubt).[1] Epistemologists are concerned with various epistemic features of belief, which include the ideas of [[warrant and proper function|warrant]] (a proper justification for holding a belief), knowledge, rationality, and probability, among others.

@@ -1,10 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="utf-8">
-<title>Error</title>
-</head>
-<body>
-<pre>Internal Server Error</pre>
-</body>
-</html>
+This is a world writable document. You can write here, whatever you want.
+
+Please observe the [[Principle of Charity]].
+
+If you write here, you'll tell [an Agora](https://anagora.org/an-agora).

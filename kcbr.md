@@ -1,10 +1,1 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="utf-8">
-<title>Error</title>
-</head>
-<body>
-<pre>Internal Server Error</pre>
-</body>
-</html>
+- #go https://www.tagesanzeiger.ch/naechtliche-sprayaktion-am-beruehmtesten-kamin-zuerichs-918637415826

@@ -1,10 +1,1 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="utf-8">
-<title>Error</title>
-</head>
-<body>
-<pre>Internal Server Error</pre>
-</body>
-</html>
+Promethazine is a first-generation antihistamine and antipsychotic used to treat allergies, insomnia, and nausea. It was once widely used as an antipsychotic, although it is generally not used for this purpose now.

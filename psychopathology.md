@@ -1,10 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="utf-8">
-<title>Error</title>
-</head>
-<body>
-<pre>Internal Server Error</pre>
-</body>
-</html>
+Psychopathology is the study of abnormal cognition, behaviour and experiences which differs according to social norms and rests upon a number of constructs that are deemed to be the social norm at any particular era.
+
+#cognition
+#behavior
+#experience

@@ -1,10 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="utf-8">
-<title>Error</title>
-</head>
-<body>
-<pre>Internal Server Error</pre>
-</body>
-</html>
+reentry
+
+Itroduced by [[George Spencer-Brown]] in [[Laws of Form]], chapter 11.
+Influnced the work of [[Heinz von Foerster]], [[Humberto Maturana]], [[Francisco Varela]], [[Louis Kauffman]], [[William Bricken]], [[Niklas Luhmann]],  and [[Dirk Baecker]].

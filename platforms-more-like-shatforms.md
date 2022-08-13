@@ -1,10 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="utf-8">
-<title>Error</title>
-</head>
-<body>
-<pre>Internal Server Error</pre>
-</body>
-</html>
+# Platforms More Like Shatforms
+
+because i don't like the [[Platform]] model, and "[[shatforms]]" sort of sounds like a very cool type of [[alien]] or [[monster]] [[or something]].

@@ -1,10 +1,1 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="utf-8">
-<title>Error</title>
-</head>
-<body>
-<pre>Internal Server Error</pre>
-</body>
-</html>
+Dihydrocodeine is a semi-synthetic opioid analgesic prescribed for pain or severe [dyspnea](https://anagora.org/dyspnea), or as an [antitussive](https://anagora.org/antitussive), either alone or compounded with paracetamol (acetaminophen) (as in co-dydramol) or aspirin.

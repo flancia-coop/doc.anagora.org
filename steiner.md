@@ -1,10 +1,2 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="utf-8">
-<title>Error</title>
-</head>
-<body>
-<pre>Internal Server Error</pre>
-</body>
-</html>
+- [[push]] [[saer]] [[bolaño]]
+    - usar categorías de [[steiner]] como headings de los subapartados

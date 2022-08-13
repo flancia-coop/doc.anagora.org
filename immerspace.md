@@ -1,10 +1,2 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="utf-8">
-<title>Error</title>
-</head>
-<body>
-<pre>Internal Server Error</pre>
-</body>
-</html>
+- a [[mondegreen]] of [[immers space]]
+    - #go https://hub.immers.space/GzWW3RD/accomplished-sharp-roundtable

@@ -1,10 +1,6 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="utf-8">
-<title>Error</title>
-</head>
-<body>
-<pre>Internal Server Error</pre>
-</body>
-</html>
+Pharmacotherapy is therapy using pharmaceutical drugs,[1] as distinguished from therapy using surgery (surgical therapy), radiation (radiation therapy), movement (physical therapy), or other modes.
+
+#therapy
+#surgery
+#radiation
+#movement
