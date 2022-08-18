@@ -330,21 +330,21 @@ Part way into their build of the product they realized they were building a web 
 #### Q+A 
 4:50 PM – 5:03 PM
 
-=== Idea Dimensionality and Representing Semantic Meaning === 
+### Idea Dimensionality and Representing Semantic Meaning
 * 5:04 PM – 5:30 PM
 > How do ideas - and the human brains that make and hold them - interact?  Get prepared for meta! Esther Dyson and Jerry Michalski, will discuss the idea of how people work together to shape, compare, intertwine and ultimately produce multi-faceted ideas and multi-dimensional idea spaces.  As David Waltz (Thinking Machines) once said, “Words are not in themselves carriers of meaning, but merely pointers to shared understanding.” Watch and lob questions as the two of them try to build and share the idea of how better ideas can be developed through collaboration.
 
-==== Q+A ====
+#### Q+A
 * 5:30 PM – 5:50 PM
 
 Jerry is a fan of https://en.wikipedia.org/wiki/Hans_Monderman
 
 
-=== Closing and Happy Hour === 
+### Closing and Happy Hour 
 5:45 PM – 7:00 PM
 
 
-== See Also ==
+## See Also
 * [[commonplace books]]
 * [[digital gardens]]
 * [[zettelkasten]]
