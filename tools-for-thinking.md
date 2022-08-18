@@ -8,6 +8,7 @@
 ## What would it take to make the internet a useful thinking tool?
 Sensemaking crisis during planetwide crisis.
 We didnt get a global brain from the internet because "apps trap thoughts" - caused by fundamental internet architectural idea: "same origin security model": each app its own Universe.
+Needed: protocol for thoughts.
 
 
 
