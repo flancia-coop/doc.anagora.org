@@ -55,7 +55,6 @@ Out of the box he's including following, so content published by people you foll
 
 # Group Notes
 Orginaally from https://etherpad.indieweb.org/ToolsForThinking
-Welcome to Etherpad!
 
 Please note that all contributions to this pad and other IndieWebCamp documents are considered to be released under the public domain according to CC0.
 
@@ -67,21 +66,21 @@ https://betaworkss-fabulous-project.webflow.io/event/render-tools-for-thinking
 [[2022-08-16]]
 video: https://player.vimeo.com/video/739652984?h=ecdefd58ba
 
-== Speakers ==
+## Speakers
 * Neel Baronia (Introduction)
 * John Borthwick
 * Jerry Michalski
 * [[Daniel Doyon]] & [[Tristan Homsi]] ([[Readwise]])
 * Gordon Brander
 
-== Participants ==
-* [[Chris Aldrich]] (CJA)
+## Participants
+* [[Chris Aldrich]]
 * Natasha Mott
-* {{capjamesg}} - Hi James! -Chris :)
+* {{capjamesg}}
 * {{kevinmarks}}
 * {{campegg}}
 
-== Notes ==
+## Notes
 [[Kevin Marks]] live notes: https://www.kevinmarks.com/toolsforthinking.html
 - via noterlive.com
 - Twitter Thread starts here: https://twitter.com/kevinmarks/status/1559567010287206400
@@ -89,7 +88,7 @@ video: https://player.vimeo.com/video/739652984?h=ecdefd58ba
 Noted times are being changed to actual as the day progresses.
 
 
-=== How Do We Define Tools for Thinking and Why Do They Matter? ===
+### How Do We Define Tools for Thinking and Why Do They Matter?
 * 12:10 PM – 12:20 PM
 > Join [[Jerry Michalski]] and [[John Borthwick]] as they talk about their interest in tools for thinking, and what excites them the most about the future of the category.
 
@@ -97,7 +96,7 @@ Noted times are being changed to actual as the day progresses.
 ** Hit the half million mark this year for ideas
 
 
-=== Inflection Points for Tools for Thinking === 
+### Inflection Points for Tools for Thinking  
 * 12:23 PM – 1:04 PM
 > What are the key inflection points that will supercharge Tools for Thinking in the near future? How will new technologies, user metaphors, and funding models change how people build these tools? John Borthwick will be discussing how the landscape is changing with the co-founders of [[Readwise]], [[Daniel Doyon]] & [[Tristan Homsi]].
 
@@ -217,13 +216,9 @@ CJA: Even major platforms like television and radio now don't serve as automatic
 How to create trusted social networks of information?
 
 Mike Caulfield: SIFT acronym for information literacy: https://hapgood.us/2019/06/19/sift-the-four-moves/
-
     * Stop
-
     * Investigate the source
-
     * Find better coverage
-
     * Trace claims, quotes, and media back to the original context
 
 
@@ -231,7 +226,7 @@ Mike Caulfield: SIFT acronym for information literacy: https://hapgood.us/2019/0
 
 (2:39 PM) Deliberative polling
 
-==== Q+A ====
+#### Q+A
 2:35 PM – 3:00 PM
 
 Q: Why would strangers give knowledge away to others (for free)? (broadly unanswered)
