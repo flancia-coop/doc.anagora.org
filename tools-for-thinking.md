@@ -21,9 +21,12 @@ Needed: protocol for thoughts.
 * change hilstory a la git
 * cross-app transclusions & backlinks
 * user-owned data backpack - take your data with you
-* self-soverign social graph - 
-* lots of copies to keep stuff safe
+* self-soverign social graph - you own what you put into it
+* lots of copies to keep stuff safe (content addressing)
 
+Layering onto [[ipfs]]:
+* human friendly names
+* 
 
 
 
