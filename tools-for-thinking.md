@@ -96,7 +96,7 @@ Noted times are being changed to actual as the day progresses.
 ** Hit the half million mark this year for ideas
 
 
-### Inflection Points for Tools for Thinking  
+### Inflection Points for Tools for Thinking 
 * 12:23 PM – 1:04 PM
 > What are the key inflection points that will supercharge Tools for Thinking in the near future? How will new technologies, user metaphors, and funding models change how people build these tools? John Borthwick will be discussing how the landscape is changing with the co-founders of [[Readwise]], [[Daniel Doyon]] & [[Tristan Homsi]].
 
@@ -109,7 +109,7 @@ Noted times are being changed to actual as the day progresses.
 - Borthwick: SaaS services tend to silo information and data
 
 
-==== Q+A ====
+#### Q+A
 * 12:30 PM – 1:03 PM
 Q: Is there an inverse of [[spaced repetition]] for Readwise: Example: Could one use Anki for writing?
 A: People putting their writing into their Readwise review where they improve each "highlight"/paragraph and work on it in a spaced repetition manner. After refining they then put a full essay together from their building blocks.
@@ -150,7 +150,7 @@ Q: Thoughts on moving Readwise into the educational sphere?
 A: They've never had success in the eduction envrionment. Their users are more auto-didacts. They'd love to do more of it.
 
 
-=== Demo: Protocol Design for Tools for Thinking === 
+### Demo: Protocol Design for Tools for Thinking 
 * 1:04 PM – 1:20 PM (5 minutes over)
 > [[Gordon Brander]] will be presenting a brief demo on [[Subconscious]] and the [[Noosphere]], products he and his team are working on to allow Tools for Thinking to become interoperable and better connected.
 
@@ -174,12 +174,12 @@ follower/following model built in
 They've got a Discord channel for Subconscious and Noosphere: https://discord.com/invite/wyHPzGraBh
 
 
-=== Lunch and Networking === 
+### Lunch and Networking 
 * 1:20 PM – 2:00 PM
 
 
 
-===  The History and Future of Software as Tools for Thinking === 
+### The History and Future of Software as Tools for Thinking 
 * 2:00 PM – 3:00 PM
 > Some of the earliest examples of software explored by pioneers like Doug Engelbart, JCR Licklider, Alan Turing, and others were at their core technologies that help magnify, inspect, and spread our ideas. Jerry Michalski will be sitting down (virtually) with [[Howard Rheingold]], author of Tools for Thought, to explore the history and future of "mind-amplifying technology".
 
@@ -255,12 +255,12 @@ A: No, but recalled a time when students were taking psychedelics and chatting o
 [[Mind Amplifier]] by Howard Rheingold  
 http://rheingold.com/texts/Mind_Amplifier.pdf  
 
-=== Tools for Thinking Product Demos === 
+### Tools for Thinking Product Demos 
 * 3:00 PM – 4:00 PM
 > We’ll hear from builders and thinkers deep in the space and get to take a look at what they’re working on. We’ll be checking out Plexus, Re:Collect, Jerry’s Brain, Subconscious and more. 
 
 
-==== Plexus ====
+#### Plexus
 3:00 - 3:14 pm
 Davey Morse, founder of [[Plexus]], went to Williams College
 Created note taking tool for himself
@@ -275,7 +275,7 @@ https://render.plexus.earth/p/render
 https://williamsrecord.com/168916/features/students-create-alternative-note-taking-app/
 
 
-==== Re:Collect ====
+#### Re:Collect
 3:14 - 3:26 PM 
 AliceAlbrecht, Founder + CEO, re:collect
 academic, in cognitive neuroscience, machine learning
@@ -290,13 +290,13 @@ anxiety relating to your ideas (storing, finding)
 web app and web extension
 card-based infinite canvas
 
-==== Jerry’s Brain ====
+#### Jerry’s Brain
 3:27 - 3:37
 [[Jerry Michalski]], Founder [[Open Global Mind]]
 @jerrymichalski
 idea sex
 
-==== Subconscious ====
+#### Subconscious
 3:38 - 12:48 PM 
 LinusLee, Independent Researcher, @thesephist
 Sentence gradients
@@ -314,7 +314,7 @@ Looks a bit like Robin Sloan's AI Writing experiments https://www.robinsloan.com
 @linuslee: we want to encapsulate ideas and be able to do algebra on ideas
 ^^ this sounds a lot like Leibnitz's idea for Universal Languages back in the day
 
-==== Readwise ====
+#### Readwise
 3:49 - 3:59 PM 
 Superhuman email client
 Twitter threads have emerged as a new form of blogging.
@@ -323,11 +323,11 @@ Readwise allows one to highlight images, something not currently available in ot
 Part way into their build of the product they realized they were building a web  browser
 
 
-===  Leveraging AI and ML in Building New Tools for Thinking ===
+### Leveraging AI and ML in Building New Tools for Thinking
 * 4:17 PM – 4:50PM 
 > Alice Albrecht and Linus Lee will be sitting down with Chris Pedregal to discuss their work in leveraging AI and Machine Learning for creating new kinds of tools for thinking.
 
-==== Q+A ====
+#### Q+A 
 4:50 PM – 5:03 PM
 
 === Idea Dimensionality and Representing Semantic Meaning === 
