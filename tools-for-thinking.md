@@ -37,6 +37,10 @@ Layering onto [[ipfs]]:
     * any filetype
     * [[UCAN]] signed: cryptographic protocol
         * authorises data management
+        * self-sovereign security model: you own your keys, your identity, take it with you
+            * works with wallets and passkey paradigm
+
+
 
 
 
