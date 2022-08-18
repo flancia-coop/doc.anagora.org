@@ -25,8 +25,11 @@ Needed: protocol for thoughts.
 * lots of copies to keep stuff safe (content addressing)
 
 Layering onto [[ipfs]]:
-* human friendly names
-* 
+* human friendly names for ipfs hashtags: @sphere/
+* versioning
+* signing with UCAN-authorized key
+
+
 
 
 
