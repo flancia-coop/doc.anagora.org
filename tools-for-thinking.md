@@ -13,7 +13,7 @@ We didnt get a global brain from the internet because "apps trap thoughts" - cau
 Needed: protocol for thoughts.
 ### what is Noosphere: 
 * Open source project, cofunded by mozilla and ipfs.
-* Ambition: create low-level infrastructure, like http
+* Ambition: create low-level p2p infrastructure, like http
 * decentralised over [[ifps]]
 * priotises user ownership, yet multiplayer
 * belongs to everyone: you can do whatever you want
@@ -46,9 +46,8 @@ Needed: protocol for thoughts.
 * personal ipfs gateway
 * bridges to web
 * synch with personal devides
-*
 
-
+## Myhub on Noosphere?
 
 
 
