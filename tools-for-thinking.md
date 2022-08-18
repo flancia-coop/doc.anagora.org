@@ -7,7 +7,8 @@
 * I won't be summarising What He Said - rather, riffing off it in search of insights meaningful to me as I explore this space, write a chapter in [[Ivo Velithckov]]'s book on Personal Knowledge Graphs, and develop my ideas for [myhub.ai](myhub.ai)
 ## What would it take to make the internet a useful thinking tool?
 Sensemaking crisis during planetwide crisis.
-We didnt get a global brain from the internet because of the fragmentation
+We didnt get a global brain from the internet because "apps trap thoughts" - caused by fundamental internet architectural idea: "same origin security model": each app its own Universe.
+
 
 
 
