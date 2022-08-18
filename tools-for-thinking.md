@@ -20,7 +20,9 @@ Needed: protocol for thoughts.
 * local first file sync
 * change hilstory a la git
 * cross-app transclusions & backlinks
-* user-pwn
+* user-owned data backpack - take your data with you
+* self-soverign social graph - 
+* lots of copies to keep stuff safe
 
 
 
