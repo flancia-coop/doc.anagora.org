@@ -49,7 +49,8 @@ Needed: protocol for thoughts.
 
 ## Myhub and Noosphere?
 Hugely interesting. Possibly too ambitious for me.
-Out of the box he's including following
+Out of the box he's including following, so content published by people you follow comes to you. But instead of the link to content published at a URL, it's the content itself which comes to you as content is "gossipped around the web".
+
 
 
 
