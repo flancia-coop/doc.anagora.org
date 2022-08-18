@@ -28,8 +28,10 @@ Layering onto [[ipfs]]:
 * human friendly names for ipfs hashtags: @sphere/path
     * @sphere is your username, derefernces into a public key
     * paths point to memos:
-        * ipfs meta envelopes
-        * gene
+        * generic protocol
+        * ipfs meta envelope: header + body (pointer to a ipfs file) + parent (pointer to previous version, hence version control)
+        * an
+        * 
 * versioning
 * signing with UCAN-authorized key
 
