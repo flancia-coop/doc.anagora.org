@@ -6,13 +6,14 @@
 * I've been enjoying [[Gordon Brander]]'s enewsletter for a while, so I'm really looking forward to his demo. I'm way behind properly processing his content, tho - everything I LikeThinkDo tagged [[Gordon Brander]]: https://myhub.ai/@mathewlowry/?tags=gordon+brander
 * I won't be summarising What He Said - rather, riffing off it in search of insights meaningful to me as I explore this space, write a chapter in [[Ivo Velithckov]]'s book on Personal Knowledge Graphs, and develop my ideas for [myhub.ai](myhub.ai)
 ## Noosphere: worldwide PKG
-Open source project, cofunded by mozilla and ipfs
+
 ### What would it take to make the internet a useful thinking tool?
 Sensemaking crisis during planetwide crisis.
 We didnt get a global brain from the internet because "apps trap thoughts" - caused by fundamental internet architectural idea: "same origin security model": each app its own Universe.
 Needed: protocol for thoughts.
 ### what is Noosphere: 
-* permissionless protocol
+* Open source project, cofunded by mozilla and ipfs.
+* Ambition: create low-level infrastructure, like http
 * decentralised over [[ifps]]
 * priotises user ownership, yet multiplayer
 * belongs to everyone: you can do whatever you want
@@ -41,9 +42,11 @@ Needed: protocol for thoughts.
         * self-sovereign security model: you own your keys, your identity, take it with you
             * works with wallets and passkey paradigm
 
-**Sphere servers: personal ipfs gateways**
-
-
+**Sphere servers**
+* personal ipfs gateway
+* bridges to web
+* synch with personal devides
+*
 
 
 
