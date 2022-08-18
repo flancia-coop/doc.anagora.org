@@ -25,15 +25,18 @@ Needed: protocol for thoughts.
 * lots of copies to keep stuff safe (content addressing)
 
 Layering onto [[ipfs]]:
-* human friendly names for ipfs hashtags: @sphere/path
-    * @sphere is your username, derefernces into a public key
-    * paths point to memos:
-        * generic protocol
-        * ipfs meta envelope: header + body (pointer to a ipfs file) + parent (pointer to previous version, hence version control)
-        * an
-        * 
+* human friendly names for ipfs hashtags:
 * versioning
 * signing with UCAN-authorized key
+
+**@sphere/path:**
+* @sphere is your username, derefernces into a public key
+* paths point to memos:
+    * generic protocol
+    * ipfs meta envelope: header + body (pointer to a ipfs file) + parent (pointer to previous version, hence version control)
+    * any filetype
+    * [[UCAN]] signed: cryptographic protocol
+        * authorises data management
 
 
 
