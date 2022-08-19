@@ -100,7 +100,14 @@ TK
                            - [[jerry michalski]] reinventing [[xanadu]] in a way
                        - [[jerry michalski]]
                            - the large pot of money (a risk in itself, but) can be distributed
-                           - [[dan whaley]]
+                           - [[dan whaley]] it's a flow
+                           - like mycellian nutrients
+                           - [[flancian]] meta on the metaphor
+                           - [[chris aldrich]] [[redwood trees]] network roots to be able to stand up taller
+                               - for most trees, they tend to be mirror images
+                               - not so redwoods
+                       - [[data trust]]
+                         - [[chris]]  
                
 
 
