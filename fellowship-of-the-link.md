@@ -1,18 +1,17 @@
 ## High level agenda, can be recurring or next items
-- [[flancian]]
-    - 1. [[names]] for the project that has already started :)
-    - 2. where are you [[feeds]]?
-        - mine is in https://anagora.org/journals which is an aggregation of daily posts by all users, if you tell me about your feeds I could add them there (like everything Agora related, everything is optional always and offered as a token of friendship!)
-    - 3. my proposal is, well, you know what it is :)
+- your topic here
+- [[names]] for the project that has already started :)
+    - [[flancian]] my proposal is, well, you know what I call it :)
         - would love to discuss [[agora protocol]] with you
             - is the heart of the [[Agora]]
             - it is what you and me define it to be :)
-            - I have bootstrapped it to be markdown plus wikilinks, wikilinks being descriptions of entities in a free knowledge graph as common [[language]]
             - feedback welcome :)
-
-
-
+- where are you [[feeds]] and [[gardens]]?
+    - [[flancian]] my feed shos up as part of https://anagora.org/journals which is an aggregation of daily posts by all users, 
+    - if you tell me about your feeds and gardens I could add them (like everything Agora related, everything is optional always and offered as a token of friendship!)
+- [[commonplace books]]
 - [[2022-08-19]] (or just after): recap of Render Conference for Tools for Thinking https://www.betaworks.com/event/render-tools-for-thinking
+    - done!
 
 ## AIs ~ [[action items]]
 - invite [[indieweb people]]
