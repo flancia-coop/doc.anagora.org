@@ -19,6 +19,10 @@
             CJA: What are the building blocks and affordances they provide so one can have a progressively improved/complex experience
 - solving for [[sustainability]] / [[viability]] of a healthy knowledge ecosystem
     - funding, donations between readers and writers
+    - nested conversations, how to solve for:
+        - [[communities]]
+        - [[startups]] / companies
+            - [[jerry michalski]] camp
 - People we should invite here!
 - [[2022-08-19]] (or just after): recap of Render Conference for Tools for Thinking https://www.betaworks.com/event/render-tools-for-thinking
     - done!
