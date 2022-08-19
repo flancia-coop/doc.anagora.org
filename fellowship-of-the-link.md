@@ -121,7 +121,14 @@ TK
                                  - on the following relationship
                                  - as leading to flows -> (of attention, of funding)
                              - [[flancian]] hypothes.is integrations with [[feeds]]? it already provides feeds, how important they seem to you
-                                 - [[dan whaley]] we provide feeds
+                                 - [[dan whaley]] we provide feeds but are not currently looking at providing more
+                                 - focusing on providing arbitrary annotation for arbitrary web resources
+                             - [[chris aldrich]] how do you also not aggregate streams only, but how do you turn those feeds into something feedin a [[garden]]
+                                 - [[how to feed the garden]]
+                                 - [[robin sloan]] (...) (sp?)
+                                 - [[mike oldfield]] [[technopastoral]]
+                             - how do you pick out "tweets" and curate them into something?
+                                 - -> you start by linking them more 
 
 
 
