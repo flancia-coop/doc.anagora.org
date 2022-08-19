@@ -1,5 +1,4 @@
 ## High level agenda, can be recurring or next items
-- your topic here
 - [[names]] for the project that has already started :)
     - [[flancian]] my proposal is, well, you know what I call it :)
         - would love to discuss [[agora protocol]] with you
@@ -10,6 +9,9 @@
     - [[flancian]] my feed shos up as part of https://anagora.org/journals which is an aggregation of daily posts by all users, 
     - if you tell me about your feeds and gardens I could add them (like everything Agora related, everything is optional always and offered as a token of friendship!)
 - [[commonplace books]]
+- [[mathew lowry]] let's create some distributed map of thinking tools
+    - #jm https://bra.in/5qeDMg
+- People we should invite here!
 - [[2022-08-19]] (or just after): recap of Render Conference for Tools for Thinking https://www.betaworks.com/event/render-tools-for-thinking
     - done!
 
@@ -203,6 +205,8 @@ TK
             - [[student notes]] passing through the ages
             - [[marginalia]]
             - [[torah]] annotations
+        - [[scrapbook]] flipped in meaning
+            - [[commonplace books]]
 
 ### Agenda
 - Tools for Thinking Recap https://www.betaworks.com/event/render-tools-for-thinking
