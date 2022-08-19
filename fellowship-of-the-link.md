@@ -157,7 +157,12 @@ TK
                              - [[jerry michalski]] writing linked content, sharing using emergent conventions
                                  - a path to help and prototype together
                                  - [[networked scribing]]
-                                 - we're in the ea
+                                 - we're in the early days of cinema, we're still looking for the [[dolly]]
+                                 - the web is stuck on web 1 metaphors
+                                 - corporations hve been trying to centralize and define the asthetics and the ethics of the system
+                                 - [[chris aldrich]] song lines from indiginal (sp?) cultures
+                                     - they inform who we are today, but we mostly ignore this
+                                     - a space in this new space to bring us closer to the spoken word and new ways of communicati
  
 
 
