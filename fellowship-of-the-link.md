@@ -27,6 +27,7 @@ TK
         - is the heart of the [[Agora]]
         - it is what you and me define it to be :)
         - I have bootstrapped it to be markdown plus wikilinks, wikilinks being descriptions of entities in a free knowledge graph as common [[language]]
+        - feedback welcome 
 
 
 ### Notes
