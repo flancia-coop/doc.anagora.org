@@ -174,14 +174,10 @@ TK
                                  - [[dan whaley]] https://www.youtube.com/watch?v=GThr77PbJ4w ->  https://docdrop.org/video/GThr77PbJ4w/
                                      - [[flancian]] [[agora]] the right spirit, not the right software yet :)
                                      - [[ward cunningham]] [[fedwiki]] 
-                                     - []
                                      - [[roam]] et al is very proprietary
                                          - the opportunity is fully distributed, they don't seem to get it
                                          - [[mathew]] reminds me of the twitter missed opportunity 10 years ago
- 
- 
-
-
+                                     - [[obsidian]] could be nudged in the right direction
 
 ### Agenda
 - Tools for Thinking Recap https://www.betaworks.com/event/render-tools-for-thinking
