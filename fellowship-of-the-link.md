@@ -162,7 +162,16 @@ TK
                                  - corporations hve been trying to centralize and define the asthetics and the ethics of the system
                                  - [[chris aldrich]] song lines from indiginal (sp?) cultures
                                      - they inform who we are today, but we mostly ignore this
-                                     - a space in this new space to bring us closer to the spoken word and new ways of communicati
+                                     - a space in this new space to bring us closer to the spoken word and new ways of communicating
+                                     - the web becoming more visual / photo centric anyway
+                                     - what about the music, the dance, the art
+                                         -> [[flancian]] [[bolo bolo]]
+                                 - [[dan whaley]] agree with this
+                                     - [[i annotate]] talk on the future of note taking
+                                     - [[ward cunningham]] was there
+                                     - folks from [[logseq]] were there
+                                 - [[dan whaley]] developed [[docdrop]] to annotate youtube videos
+                                 - 
  
 
 
