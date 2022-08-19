@@ -1,5 +1,7 @@
-## Agenda
-[[2022-0818]] (or just after): recap of Render Conference for Tools for Thinking https://www.betaworks.com/event/render-tools-for-thinking
+## High level agenda, can be recurring or next items
+- [[flancian]]
+    - [[names]] for the project that has already started :)
+- [[2022-08-19]] (or just after): recap of Render Conference for Tools for Thinking https://www.betaworks.com/event/render-tools-for-thinking
 
 ## AIs ~ [[action items]]
 - invite [[indieweb people]]
