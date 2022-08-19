@@ -20,6 +20,11 @@
 [[Jerry Michalski]]
 [[Mathew Lowry]] 
 [[Dan Whaley]]
+
+### Video
+TK
+
+### Notes
 - [[jerry michalski]]
     - [[render]] ~ [[tools for thinking]]
 - [[flancian]]
@@ -35,6 +40,7 @@
   - how does this interact with the global [[knowledge commons]]?
       - [[annotations]] -> the knowledge is in the annotation you take
       - but the annotation is layered on preexisting on knowledge
+      - it's about protocols and things but also about seeding [[communities]]
   - [[hypothesis]] cares about the user having access to the underlying knowledge
       - regardless of whether it's because it's free or they happen to have (exclusive?) access
       - this knowledge could be resolved in a federated network
@@ -43,15 +49,23 @@
           - and the fairness of said markets.
           - IMHO [[commons]] should [[embed]] markets
           - [[dan whaley]] the knowledge is what's "out there" right now, we try to pass no judgment and support the existing models
-              - 
-      - it's about protocols and things but also about seeding [[communities]]
+              - most universities have access to [[json]], but most others don't
+              - the [[nyt]] is not free
+                  - > paywalls
+              - some content might always be gated
+              - the world may be moving towards [[free access]] but that will happen on its own terms?
+              - [[hypothesis]] thinks there's a sustainable path for them; charging for institutional usage maybe but making the conversation available to everybody
+                  - not doing ads
+                  - -> [[reality distortion matrix]]
+                  - trying to [[monetize attention]]
+                  - 
       
 
-### Video
-TK
+
 
 ### Agenda
 - Tools for Thinking Recap https://www.betaworks.com/event/render-tools-for-thinking
+    - https://etherpad.indieweb.org/ToolsForThinking
 - [[flancian]]
     - where are you [[feeds]]?
     - mine is in https://anagora.org/journals which is an aggregation of daily posts by all users, if you tell me about your feeds I could add them there (like everything Agora related, everything is optional always and offered as a token of friendship!)
@@ -62,7 +76,6 @@ TK
         - feedback welcome :)
 
 
-### Notes
 
 
 
@@ -75,7 +88,6 @@ TK
 today's FoTL call is up, Unlisted: 
 https://youtu.be/fBOfMKtBpss and 
 https://youtu.be/i0Tty7TIaWI 
-
 
 ### Notes
 Jerry's brain for this session: https://bra.in/6p63ZP
