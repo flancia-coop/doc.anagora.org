@@ -12,6 +12,20 @@
 - AI(jerry michalski): give access to github repo?
 - We should create a survey about uses of tools for thought and note taking? (discussed [[2022-08-11]])
 
+## 2022-08-19
+
+### Attending
+
+### Video
+TK
+### Agenda
+- Tools for Thinking Recap https://www.betaworks.com/event/render-tools-for-thinking
+
+
+### Notes
+
+
+
 ## 2022-08-11
 
 ### Attending
