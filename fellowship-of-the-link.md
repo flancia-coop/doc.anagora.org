@@ -20,6 +20,9 @@
 TK
 ### Agenda
 - Tools for Thinking Recap https://www.betaworks.com/event/render-tools-for-thinking
+- [[flancian]]
+    - where are you [[feeds]]?
+    - mine is in https://anagora.org/journals, if you tell me about your feeds I could add them there.
 
 
 ### Notes
