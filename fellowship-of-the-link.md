@@ -702,7 +702,12 @@ with my Brain notes here: https://bra.in/8px4ZK
             - [[Chris Aldrich]] [[third archive]]
 
 ## 2022-06-30
-- Attending: [[Jerry Michalski]] [[Chris Aldrich]] [[diego de la hera]] [[flancian]]
+### Attending: [[Jerry Michalski]] [[Chris Aldrich]] [[diego de la hera]] [[flancian]]
+
+### Video
+https://www.youtube.com/watch?v=x8pkNRRncTc
+
+### Notes
 - [[Jerry Michalski]] 
     - #push [[rel8]] 
         - #go https://www.rel8.dev
