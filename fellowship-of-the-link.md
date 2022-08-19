@@ -85,6 +85,15 @@ TK
                        - (!)
                    - is there one ambitious funding project that could be explored for maximum benefit here?
                    - could we fund the [[idea commons]] on some large, ambitious scale?
+                       - [[flancian]] using the commons, regulating markets, to disrupt the market for public good
+                   - [[dan whaley]] what is the change we want to make?
+                       - you could imagine all kinds of things
+                           - one idea: how could you incentivize people to make annotations professionally?
+                           - meaning high quality "trailblazers"
+                           - proposed legislation
+                           - pre annotating bills!
+                           - what would it take to be able to fund this
+                       - concept of [[reddit gold]]
                
 
 
