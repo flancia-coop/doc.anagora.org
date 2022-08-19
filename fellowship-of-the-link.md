@@ -150,7 +150,9 @@ TK
                                      - [[flancian]] #do tell [[st]]
                                      - transformation is something people could want to pay; new formats for resources
                                      - "follow the flow into new stock"
-                                         -> [[flancian]] hub
+                                         -> [[flancian]] the advantage of the hub aspect of an integrated system, efficiency
+                             - [[dan whaley]] delighted to have been able to meet! hope to be able to continue to participate.
+                                 - Congratulations!!!
  
 
 
