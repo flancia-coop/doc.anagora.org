@@ -139,6 +139,13 @@ TK
                                      - https://medium.com/the-mission/why-you-need-a-personal-content-strategy-ff05c84fccfd
                                      - [[gardens, not graves]]
                                  - http://www.wsj.com/articles/the-future-of-the-internet-is-flow-1443796858
+                                 - [[jerry michalski]] the issue with preventing remixes and other limitations on creativity
+                                     - -> [[everything is a remix]]
+                                 - [[dan whaley]] whole advertising industry is based and capitalizes on [[flow]]
+                                     - no ads on [[stocks]]
+                                     - fresh content mesmerizes us
+                                     - the fascination of time
+                                         -> [[flancian]] claiming posts/items from a feed and storing them filed, with a human readable permalink, anchors them; brings them out of the [[flow]], 
  
 
 
