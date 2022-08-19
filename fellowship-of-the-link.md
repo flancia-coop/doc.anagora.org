@@ -72,7 +72,12 @@ TK
                - [[flancian]]
                    - may not there be a difference in the long term? :)
                - in terms of influencing AI
-      
+                   - (... saw something in chat :))
+               - mathew: valuable content layered on top of layered content.
+                   - -> sentiment analysis and meta sentiment analysis
+                   - people benefiting from the AI they train instead of the current status quo
+               - [[dan whaley]] very privileged to 
+               
 
 
 
