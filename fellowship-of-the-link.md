@@ -24,7 +24,12 @@
     - [[render]] ~ [[tools for thinking]]
 - [[flancian]]
     - great introduction
-    - 
+    - great conversation with [[howard rheingold]]
+    - amazing announcement by [[gordon brander]]: [[noosphere]]
+        - it is [[an agora]], done very well!
+- [[jerry michalski]] welcomes [[dan whaley]]!
+  - [[dan whaley]]
+      - Fridays are much better meeting wise!
 
 ### Video
 TK
