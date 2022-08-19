@@ -809,7 +809,11 @@ with my Brain notes here: https://bra.in/8px4ZK
     - define minimum viable formats for storing our brains
 
 ## 2022-06-24
-- Attending: [[Jerry Michalski]] [[Chris Aldrich]] [[flancian]]
+### Attending: [[Jerry Michalski]] [[Chris Aldrich]] [[flancian]]
+### Video
+https://www.youtube.com/watch?v=K9aRBtTqLjw
+
+### Notes
 - Discussion of [[go links]]
     - Demo in anagora.org :)
     - [[go/fotl/chat]] and [[go/fellowship of the link/chat]] both now work
