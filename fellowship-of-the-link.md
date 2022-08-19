@@ -107,7 +107,12 @@ TK
                                - for most trees, they tend to be mirror images
                                - not so redwoods
                        - [[data trust]]
-                         - [[chris]]  
+                         - [[chris aldrich]] how to get good quality data in general  
+                             - [[twitter]] is already a great repository of annotations in a sense, but you have to sift through a lot more stuff to go to the gems
+                             - [[jerry michalski]] [[nugget ratio]] is very high if you curate your follows
+                             - -> the social network is what encodes the most information
+                             - [[jerry michalski]] why are [[tools for conversation]] not [[tools for thinking]]?
+                                 - the lack of permalinks in 
                
 
 
