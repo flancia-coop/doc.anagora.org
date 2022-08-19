@@ -110,15 +110,16 @@ TK
                          - [[chris aldrich]] how to get good quality data in general  
                              - [[twitter]] is already a great repository of annotations in a sense, but you have to sift through a lot more stuff to go to the gems
                              - [[jerry michalski]] [[nugget ratio]] is very high if you curate your follows
-                             - [[flancian]] -> the social network is what encodes the most information
+                             - [[flancian]] -> the [[social network]] is what encodes the most information
                                  - the importance of [[open ranking]], [[open filtering]], [[open algorithms]] -> [[open ais]]
                              - [[jerry michalski]] why are [[tools for conversation]] not [[tools for thinking]]?
                                  - the lack of good permalinks in interesting answers in random forums
                                      - walled gardens
                                  - one of the nice things about hypothes.is is that it's got a great signal to noise ratio and you can easily link to full contexts
                              - [[indieweb]] is important here
-                             - [[mathew lowry]] [[myhumb]] is part of [[indieweb]]
-               
+                             - [[mathew lowry]] [[myhub]] is part of [[indieweb]]
+                                 - on the following relationship
+                                 - as leading to flows -> (of attention, of funding)
 
 
 
