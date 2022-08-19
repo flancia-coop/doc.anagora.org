@@ -15,6 +15,9 @@
     - #jm https://bra.in/5qeDMg
     - #jm [[spider charts]]
         - looks like a [[polar chart]]
+        - what are the axes? visualization, openness, artificial intelligence, etc.
+            ML: also the different notetaking techniques
+            CJA: What are the building blocks and affordances they provide so one can have a progressively imp
 - People we should invite here!
 - [[2022-08-19]] (or just after): recap of Render Conference for Tools for Thinking https://www.betaworks.com/event/render-tools-for-thinking
     - done!
@@ -213,6 +216,9 @@ TK
             - [[commonplace books]]
     - [[jerry michalski]]
         - [[spider charts]]
+        - [[chris aldrich]] data visualization/rendering services
+            - [[flancian]] in a federated network
+        - [[mathew lowry]] identifying complementary tools
 
 ### Agenda
 - Tools for Thinking Recap https://www.betaworks.com/event/render-tools-for-thinking
