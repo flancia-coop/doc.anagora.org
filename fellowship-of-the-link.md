@@ -120,6 +120,8 @@ TK
                              - [[mathew lowry]] [[myhub]] is part of [[indieweb]]
                                  - on the following relationship
                                  - as leading to flows -> (of attention, of funding)
+                             - [[flancian]] hypothes.is integrations with [[feeds]]? it already provides feeds, how important they seem to you
+                                 - [[dan whaley]] we provide feeds
 
 
 
