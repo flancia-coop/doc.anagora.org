@@ -127,9 +127,19 @@ TK
                                  - [[how to feed the garden]]
                                  - [[robin sloan]] (...) (sp?)
                                  - [[mike oldfield]] [[technopastoral]]
+                                 - #push [[technopastoral]]
+                                     - https://myhub.ai/items/the-garden-and-the-stream-a-technopastoral-hapgood
+                                     - https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/
                              - how do you pick out "tweets" and curate them into something?
-                                 - -> you start by linking them more
-                                 - [[wikilinks]]`
+                                 - [[flancian]] -> you start by linking them more
+                                     - [[wikilinks]]`
+                                 - [[jerry michalski]]
+                                     - balance the [[stocks]] and [[flows]]
+                                 - [[mathew]]
+                                     - https://medium.com/the-mission/why-you-need-a-personal-content-strategy-ff05c84fccfd
+                                     - [[gardens, not graves]]
+                                 - http://www.wsj.com/articles/the-future-of-the-internet-is-flow-1443796858
+ 
 
 
 
