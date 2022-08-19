@@ -153,6 +153,11 @@ TK
                                          -> [[flancian]] the advantage of the hub aspect of an integrated system, efficiency
                              - [[dan whaley]] delighted to have been able to meet! hope to be able to continue to participate.
                                  - Congratulations!!!
+                             - [[mathew lowry]] annotating on annotations, transforming 
+                             - [[jerry michalski]] writing linked content, sharing using emergent conventions
+                                 - a path to help and prototype together
+                                 - [[networked scribing]]
+                                 - we're in the ea
  
 
 
