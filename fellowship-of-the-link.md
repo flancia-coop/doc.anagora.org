@@ -31,7 +31,14 @@ TK
 ### Attending
 [[Jerry Michalski]] [[Mathew Lowry]] [[Chris Aldrich]] [[Aram Zucker-Scharff]]
 
+### Video
+today's FoTL call is up, Unlisted: 
+https://youtu.be/fBOfMKtBpss and 
+https://youtu.be/i0Tty7TIaWI 
+
+
 ### Notes
+Jerry's brain for this session: https://bra.in/6p63ZP
 
 - [[betaworks]] conference: https://www.betaworks.com/event/render-tools-for-thinking
 - [[Mathew Lowry]]
