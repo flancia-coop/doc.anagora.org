@@ -11,13 +11,12 @@
 - [[commonplace books]]
 - [[mathew lowry]] let's create some distributed map of thinking tools: https://chat.collectivesensecommons.org/agora/pl/78gprua18frkpc6shrxabricqo
 ![](https://doc.anagora.org/uploads/upload_888c6fbb5753be41ddb48290c35d505d.png)
-
     - #jm https://bra.in/5qeDMg
     - #jm [[spider charts]]
         - looks like a [[polar chart]]
         - what are the axes? visualization, openness, artificial intelligence, etc.
             ML: also the different notetaking techniques
-            CJA: What are the building blocks and affordances they provide so one can have a progressively imp
+            CJA: What are the building blocks and affordances they provide so one can have a progressively improved/complex experience
 - People we should invite here!
 - [[2022-08-19]] (or just after): recap of Render Conference for Tools for Thinking https://www.betaworks.com/event/render-tools-for-thinking
     - done!
