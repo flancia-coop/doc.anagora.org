@@ -455,7 +455,14 @@
 [[flancian]] (who says: thank you so much for taking notes last time!!!)
 [[Mathew Lowry]]
 
+### Video
+July 21, in 2 parts:
+- https://youtu.be/P6Ge5-DAXF0  and 
+- https://youtu.be/oaWi86wUHLE
+
 ### Notes
+
+Jerry's Notes on this session: https://bra.in/8vm4JJ
 
 - The book Mathew is working on: https://personalknowledgegraphs.com/#/page/Personal%20Knowledge%20Graphs
     - working with [[wireframes]]
