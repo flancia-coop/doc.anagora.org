@@ -6,11 +6,12 @@
             - it is what you and me define it to be :)
             - feedback welcome :)
 - where are you [[feeds]] and [[gardens]]?
-    - [[flancian]] my feed shos up as part of https://anagora.org/journals which is an aggregation of daily posts by all users, 
+    - [[flancian]] note my daily feed shows up as part of https://anagora.org/journals which is an aggregation of daily posts by all users, 
     - if you tell me about your feeds and gardens I could add them (like everything Agora related, everything is optional always and offered as a token of friendship!)
 - [[commonplace books]]
 - [[mathew lowry]] let's create some distributed map of thinking tools
     - #jm https://bra.in/5qeDMg
+    
 - People we should invite here!
 - [[2022-08-19]] (or just after): recap of Render Conference for Tools for Thinking https://www.betaworks.com/event/render-tools-for-thinking
     - done!
