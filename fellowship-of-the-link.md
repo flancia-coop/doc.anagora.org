@@ -128,7 +128,8 @@ TK
                                  - [[robin sloan]] (...) (sp?)
                                  - [[mike oldfield]] [[technopastoral]]
                              - how do you pick out "tweets" and curate them into something?
-                                 - -> you start by linking them more 
+                                 - -> you start by linking them more
+                                 - [[wikilinks]]`
 
 
 
