@@ -56,9 +56,17 @@ TK
               - the world may be moving towards [[free access]] but that will happen on its own terms?
               - [[hypothesis]] thinks there's a sustainable path for them; charging for institutional usage maybe but making the conversation available to everybody
                   - not doing ads
-                  - -> [[reality distortion matrix]]
-                  - trying to [[monetize attention]]
-                  - 
+                      - -> [[reality distortion matrix]]
+                      - silos trying to [[monetize attention]]
+                  - constructive ways of funding
+                  - open [[saas]]
+       - [[mathew lowry]] have you watched [[render]] / [[tools for thinking]]
+           - [[dan whaley]] not yet!
+           - [[mathew lowry]] interesting ai potential exploration
+           - what are your thoughts on integrating AI with hypothesis?
+               - "here is what your friends think about X in the web" vs "here is what an AI thinks about X in the web"
+               - [[flancian]]
+                   - may not t
       
 
 
