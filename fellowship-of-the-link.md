@@ -578,7 +578,13 @@ Jerry Michalski says: https://wiki.rel8.dev/rel8_pioneers
 [[Marshall Kirkpatrick]]
 [[Timur Ismaligov]]
 
+### Video
+https://youtu.be/OlIxzH23ee0
+
+
 ### Notes
+Jerry's Brain for this session: https://bra.in/5p7LJJ
+
 Flancian had family conflict and couldn't attend
 
 [[Marshall Kirkpatrick]] 
