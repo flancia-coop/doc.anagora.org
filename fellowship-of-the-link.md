@@ -361,7 +361,12 @@
 [[David Weinberger]]
 [[Mathew Lowry]]
 
+### Video
+https://youtu.be/aLZ9a70lw2g
+
+
 ### Notes
+Jerry's brainf for this meeting: and https://bra.in/7j3ewE
 
 - [[Anagora]] shared notes 
 - #push [[Commonplace books]]
