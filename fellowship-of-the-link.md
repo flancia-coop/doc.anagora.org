@@ -1,6 +1,17 @@
 ## High level agenda, can be recurring or next items
 - [[flancian]]
-    - [[names]] for the project that has already started :)
+    - 1. [[names]] for the project that has already started :)
+    - 2. where are you [[feeds]]?
+        - mine is in https://anagora.org/journals which is an aggregation of daily posts by all users, if you tell me about your feeds I could add them there (like everything Agora related, everything is optional always and offered as a token of friendship!)
+    - 3. my proposal is, well, you know what it is :)
+        - would love to discuss [[agora protocol]] with you
+            - is the heart of the [[Agora]]
+            - it is what you and me define it to be :)
+            - I have bootstrapped it to be markdown plus wikilinks, wikilinks being descriptions of entities in a free knowledge graph as common [[language]]
+            - feedback welcome :)
+
+
+
 - [[2022-08-19]] (or just after): recap of Render Conference for Tools for Thinking https://www.betaworks.com/event/render-tools-for-thinking
 
 ## AIs ~ [[action items]]
@@ -190,7 +201,9 @@ TK
         - people would keep their own commonplace book and go in the will to someone else
         - [[the book nobody read]] about [[copernicus]] and [[revolutions]]
             - [[flancian]] -> [[david deutsch]]
-            - 
+            - [[student notes]] passing through the ages
+            - [[marginalia]]
+            - [[torah]] annotations
 
 ### Agenda
 - Tools for Thinking Recap https://www.betaworks.com/event/render-tools-for-thinking
