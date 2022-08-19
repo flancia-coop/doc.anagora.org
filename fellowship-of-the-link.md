@@ -76,7 +76,15 @@ TK
                - mathew: valuable content layered on top of layered content.
                    - -> sentiment analysis and meta sentiment analysis
                    - people benefiting from the AI they train instead of the current status quo
-               - [[dan whaley]] very privileged to 
+               - [[dan whaley]] very privileged to have access to this data, and to steer a new paradigm
+                   - find revenues that can sustain this while being pro social is critical
+                   - only will explore what will be beneficial
+               - [[jerry michalski]]
+                   - [[douglas tomkins]] (sp?) and [[x]] from [[patagonia]]
+                   - building land tracts and are trying to turn it into a trust
+                       - (!)
+                   - is there one ambitious funding project that could be explored for maximum benefit here?
+                   - could we fund the [[idea commons]] on some large, ambitious scale?
                
 
 
