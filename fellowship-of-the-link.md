@@ -94,6 +94,13 @@ TK
                            - pre annotating bills!
                            - what would it take to be able to fund this
                        - concept of [[reddit gold]]
+                           - chip in to providing high quality contributions?
+                       - fixing the [[newspaper subcription model]]
+                           - you put 10 bucks in, it goes to the authors of the things you read
+                           - [[jerry michalski]] reinventing [[xanadu]] in a way
+                       - [[jerry michalski]]
+                           - the large pot of money (a risk in itself, but) can be distributed
+                           - [[dan whaley]]
                
 
 
