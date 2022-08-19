@@ -180,6 +180,17 @@ TK
                                          - the opportunity is fully distributed, they don't seem to get it
                                          - [[mathew]] reminds me of the twitter missed opportunity 10 years ago
                                      - [[obsidian]] could be nudged in the right direction
+- "we're trying to start a project"
+    - what if we already started it? see agenda for next time :)
+    - [[jerry michalski]] ~ #jm
+        - registered [[the big fungus]]
+    - [[flancian]] you know what I'm going to propose :)
+    - [[chris aldrich]] [[commonplace books]]
+        - #jm were they only personal or also social objects?
+        - people would keep their own commonplace book and go in the will to someone else
+        - [[the book nobody read]] about [[copernicus]] and [[revolutions]]
+            - [[flancian]] -> [[david deutsch]]
+            - 
 
 ### Agenda
 - Tools for Thinking Recap https://www.betaworks.com/event/render-tools-for-thinking
