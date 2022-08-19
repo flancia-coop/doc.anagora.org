@@ -40,7 +40,12 @@
       - this knowledge could be resolved in a federated network
           - clients using open protocols like [[web annotations]] can participate in this network
       - [[flancian]] how does this relate to [[markets]]?
-          - IMHO [[commons]] should [[embed]] ma
+          - and the fairness of said markets.
+          - IMHO [[commons]] should [[embed]] markets
+          - [[dan whaley]] the knowledge is what's "out there" right now, we try to pass no judgment and support the existing models
+              - 
+      - it's about protocols and things but also about seeding [[communities]]
+      
 
 ### Video
 TK
