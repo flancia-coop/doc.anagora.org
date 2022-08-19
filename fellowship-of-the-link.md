@@ -15,10 +15,20 @@
 ## 2022-08-19
 
 ### Attending
-
+[[Flancian]]
+[[Chris Aldrich]]
+[[Jerry Michalski]]
+[[Mathew Lowry]] 
+[[Dan Whaley]]
+- [[jerry michalski]]
+    - [[render]] ~ [[tools for thinking]]
+- [[flancian]]
+    - great introduction
+    - 
 
 ### Video
 TK
+
 ### Agenda
 - Tools for Thinking Recap https://www.betaworks.com/event/render-tools-for-thinking
 - [[flancian]]
