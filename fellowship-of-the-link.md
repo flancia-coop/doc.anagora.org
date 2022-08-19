@@ -33,7 +33,14 @@
       - very busy but 
       - [[14 million dollars]] investment from [[ithaka]] and [[jstor]] https://web.hypothes.is/blog/say-hello-to-anno/
   - how does this interact with the global [[knowledge commons]]?
-      - [[annotations]] -> the knowledge is the annotation yo
+      - [[annotations]] -> the knowledge is in the annotation you take
+      - but the annotation is layered on preexisting on knowledge
+  - [[hypothesis]] cares about the user having access to the underlying knowledge
+      - regardless of whether it's because it's free or they happen to have (exclusive?) access
+      - this knowledge could be resolved in a federated network
+          - clients using open protocols like [[web annotations]] can participate in this network
+      - [[flancian]] how does this relate to [[markets]]?
+          - IMHO [[commons]] should [[embed]] ma
 
 ### Video
 TK
