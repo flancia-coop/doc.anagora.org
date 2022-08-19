@@ -145,7 +145,12 @@ TK
                                      - no ads on [[stocks]]
                                      - fresh content mesmerizes us
                                      - the fascination of time
-                                         -> [[flancian]] claiming posts/items from a feed and storing them filed, with a human readable permalink, anchors them; brings them out of the [[flow]], 
+                                         -> [[flancian]] claiming posts/items from a feed and storing them filed, with a human readable permalink, anchors them; brings them out of the [[flow]], makes them [[evergreen]]
+                                 - [[mathew lowry]] exploring this in the [[pkg chapter]]: how to build a [[pipeline]]
+                                     - [[flancian]] #do tell [[st]]
+                                     - transformation is something people could want to pay; new formats for resources
+                                     - "follow the flow into new stock"
+                                         -> [[flancian]] hub
  
 
 
