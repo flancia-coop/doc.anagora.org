@@ -30,6 +30,10 @@
 - [[jerry michalski]] welcomes [[dan whaley]]!
   - [[dan whaley]]
       - Fridays are much better meeting wise!
+      - very busy but 
+      - [[14 million dollars]] investment from [[ithaka]] and [[jstor]] https://web.hypothes.is/blog/say-hello-to-anno/
+  - how does this interact with the global [[knowledge commons]]?
+      - [[annotations]] -> the knowledge is the annotation yo
 
 ### Video
 TK
