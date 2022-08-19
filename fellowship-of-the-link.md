@@ -65,8 +65,13 @@ TK
            - [[mathew lowry]] interesting ai potential exploration
            - what are your thoughts on integrating AI with hypothesis?
                - "here is what your friends think about X in the web" vs "here is what an AI thinks about X in the web"
+               - [[dan whaley]]
+                   - AI is super interesting as created by humans for humans
+                   - a force for good to help us navigate the world more powerfully
+                   - but of course there are negative use cases, so we need to set the right incentives
                - [[flancian]]
-                   - may not t
+                   - may not there be a difference in the long term? :)
+               - in terms of influencing AI
       
 
 
@@ -74,6 +79,7 @@ TK
 ### Agenda
 - Tools for Thinking Recap https://www.betaworks.com/event/render-tools-for-thinking
     - https://etherpad.indieweb.org/ToolsForThinking
+    - Jess Martin's notes: https://jessmart.in/articles/render-recap
 - [[flancian]]
     - where are you [[feeds]]?
     - mine is in https://anagora.org/journals which is an aggregation of daily posts by all users, if you tell me about your feeds I could add them there (like everything Agora related, everything is optional always and offered as a token of friendship!)
