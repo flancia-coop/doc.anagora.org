@@ -23,7 +23,9 @@
 - on the difference/transition between subnodes / hypha and articles
     - [[melanocarpa]] is meant to be coherent :)
     - [[cyberrachel]] is more bullet point based [[киберрахиль]] (kiberraxil)
-    - [[optimistic linking]]
+    - [[optimistic linking]] comes natural to us
+        - but too many red links can have downsides?
+        - -> 
     - how to decide where you start writing?
         - into [[cyberrachel]] :)
             - diary
@@ -35,6 +37,11 @@
            - drawings I want to share
            - text I want to share
            - collections of links that someone would appreciate seeing
+               - might depublish them
+               - :(
+               - the reasoning being that would like to have a higher average interestingness for random pages
+       - [[flancian]] defaulting public/private
+           - 
     
 
 # #push [[flancia-meet-2022-08-13]]
