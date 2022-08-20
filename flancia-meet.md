@@ -20,7 +20,10 @@
     - there's a place where pagans still thrive
 - [[melanocarpa]] (public) vs [[cyberrachel]] (private) קיבררחל
     - [[rakhil]] is cooler sounding -- agree completely
-- on the difference/transition between subnodes / hypha
+- on the difference/transition between subnodes / hypha and articles
+    - [[melanocarpa]] is meant to be coherent :)
+    - [[cyberrachel]] is more bullet point based [[киберрахиль]] (/kiberraxil/)
+    - [[optimistic linking]]
     
 
 # #push [[flancia-meet-2022-08-13]]
