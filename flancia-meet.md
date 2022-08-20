@@ -46,6 +46,8 @@
        - [[weights]]
            - [[hyphae]] are categorized
                - [[hypha stages]]
+       - [[lapin]] -> [[quadrat]]
+           - [[lapin]] has an [[agora]] drawing
     
 
 # #push [[flancia-meet-2022-08-13]]
