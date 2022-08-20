@@ -8,8 +8,14 @@
     - Working on [[agora pkg chapter]] this weekend.
     - Missing working on other things though -- like adding features to the [[agora]] and fixing bugs!
 - [[bouncepaw]] 
-    - last weekend in hometown 
-    - going back to [[tatarstan]]
+    - last weekend in hometown ([[ufa]]) in [[bashkortostan]]
+    - going back to [[kazan]] in [[tatarstan]]
+- [[jules verne]]
+    - [[miguel strogoff]]
+    - read as a kid
+- [[paul theroux]]
+    - account of a [[transsiberian]] trip 
+    - I can recommend Paul Theroux if you are interested in travelling
 
 # #push [[flancia-meet-2022-08-13]]
 - Attending: [[flancian]]
