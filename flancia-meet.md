@@ -73,6 +73,7 @@
         - [[hypothes.is]] usage in schools
             - [[jstor]] investment is new there
         - [[scihub]]
+        - [[metasj]] is trying a social network approach
     
 
 # #push [[flancia-meet-2022-08-13]]
