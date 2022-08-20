@@ -74,6 +74,7 @@
             - [[jstor]] investment is new there
         - [[scihub]]
         - [[metasj]] is trying a social network approach
+    - [[sophomore]]
     
 
 # #push [[flancia-meet-2022-08-13]]
