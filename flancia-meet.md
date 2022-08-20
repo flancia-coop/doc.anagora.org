@@ -7,7 +7,7 @@
 - [[flancian]]
     - Working on [[agora pkg chapter]] this weekend.
     - Missing working on other things though -- like adding features to the [[agora]] and fixing bugs!
-- [[bouncepaw]] 
+- [[bouncepaw]]
     - last weekend in hometown ([[ufa]]) in [[bashkortostan]]
     - going back to [[kazan]] in [[tatarstan]]
 - [[jules verne]]
@@ -18,8 +18,10 @@
     - I can recommend Paul Theroux if you are interested in travelling
 - [[bouncepaw]] been to [[moscow]], [[st petersburg]], and a few stans only
     - there's a place where pagans still thrive
-- [[melanocarpa]] vs [[cyberrachel]] קיבררחל
+- [[melanocarpa]] (public) vs [[cyberrachel]] (private) קיבררחל
     - [[rakhil]] is cooler sounding -- agree completely
+- on the difference/transition between subnodes / hypha
+    
 
 # #push [[flancia-meet-2022-08-13]]
 - Attending: [[flancian]]
