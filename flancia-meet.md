@@ -83,6 +83,7 @@
 - [[agora pkg chapter]]
 - [[time]] and [[scheduling]]
     - [[liminal days]]
+        - nice framing
     
 
 # #push [[flancia-meet-2022-08-13]]
