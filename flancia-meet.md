@@ -3,13 +3,13 @@
 - This is where we have community maintained notes :)
 
 # #push [[flancia-meet-2022-08-20]]
-- Attending: [[flancian]] [[bouncepaw]]
+- Attending: [[bouncepaw]] [[flancian]]
 - [[flancian]]
     - Working on [[agora pkg chapter]] this weekend.
     - Missing working on other things though -- like adding features to the [[agora]] and fixing bugs!
-- [[bouncepaw]]
-
-#
+- [[bouncepaw]] 
+    - last weekend in hometown 
+    - going back to [[tatarstan]]
 
 # #push [[flancia-meet-2022-08-13]]
 - Attending: [[flancian]]
