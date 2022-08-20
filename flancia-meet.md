@@ -25,7 +25,7 @@
     - [[cyberrachel]] is more bullet point based [[киберрахиль]] (kiberraxil)
     - [[optimistic linking]] comes natural to us
         - but too many red links can have downsides?
-        - -> 
+        - -> [[autolinking]] with [[weights]]?
     - how to decide where you start writing?
         - into [[cyberrachel]] :)
             - diary
@@ -41,7 +41,10 @@
                - :(
                - the reasoning being that would like to have a higher average interestingness for random pages
        - [[flancian]] defaulting public/private
-           - 
+           - interested in these default policies
+       - [[devine lu linvega]]'s garden: https://wiki.xxiivv.com
+       - [[weights]]
+           - [[hypha
     
 
 # #push [[flancia-meet-2022-08-13]]
