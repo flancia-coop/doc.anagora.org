@@ -44,7 +44,8 @@
            - interested in these default policies
        - [[devine lu linvega]]'s garden: https://wiki.xxiivv.com
        - [[weights]]
-           - [[hypha
+           - [[hyphae]] are categorized
+               - [[hypha stages]]
     
 
 # #push [[flancia-meet-2022-08-13]]
