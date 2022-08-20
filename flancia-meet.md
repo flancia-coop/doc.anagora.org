@@ -66,7 +66,10 @@
     - [[agora protocol]] progress
         - how to coalesce nodes / all conventions / is this part of the protocol?
             - [[bouncepaw]] [[bill seitz]] probably knows a lot about this
-    - [[noosphere]] was announced 
+    - [[noosphere]] was announced in [[tools for thinking]]
+    - [[st]] reached out about [[agora]] and [[edtech]]
+        - [[bouncepaw]] similar thing happened in Germany, wikis were used a lot in education but then the project failed
+        - nobody seemed to understand the benefit of wikis for 
     
 
 # #push [[flancia-meet-2022-08-13]]
