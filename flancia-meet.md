@@ -60,6 +60,7 @@
 - [[national libraries]]
     - [[buenos aires]]
     - [[kazan]]
+- [[flancian]] news from the week
     
 
 # #push [[flancia-meet-2022-08-13]]
