@@ -77,6 +77,9 @@
 - [[sophomore]] year
     - [[sophomore slump]] exists (?)
     - [[scholarship]] as it related to motivation
+    - [[bouncepaw]] wanted to be a programmer since he was 9
+- new thing in [[russia]]
+    - if you have an [[it diploma]] you can skip serving in the army
     
 
 # #push [[flancia-meet-2022-08-13]]
