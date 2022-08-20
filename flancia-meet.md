@@ -50,8 +50,11 @@
            - [[lapin]] has an [[agora]] drawing
    - #push [[agora plan]] 
        - [[interwiki links]] ~ [[interwiki for agora]]
-       - [[mycomarkup]]
-           - is a 
+       - [[mycomarkup]] https://github.com/bouncepaw/mycomarkup
+           - is a library in go
+           - but also a binary :)
+           - [[agora]] could run [[mycomarkup]] to render this
+               - https://anagora.org/interwiki_for_agora as example
 - [[national libraries]]
     - [[buenos aires]]
     - [[kazan]]
