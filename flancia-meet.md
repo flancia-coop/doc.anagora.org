@@ -55,6 +55,7 @@
            - but also a binary :)
            - [[agora]] could run [[mycomarkup]] to render this
                - https://anagora.org/interwiki_for_agora as example
+           - we already do something similar with [[pandoc]] and [[org mode]]
 - [[national libraries]]
     - [[buenos aires]]
     - [[kazan]]
