@@ -60,6 +60,8 @@
 - [[national libraries]]
     - [[buenos aires]]
     - [[kazan]]
+- [[multiple desks]]
+    - multiple computers
 - [[flancian]] news from the week
     - [[agora protocol]] progress
         - how to coalesce nodes / all conventions / is this part of the protocol?
