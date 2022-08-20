@@ -52,7 +52,7 @@
        - [[interwiki links]] ~ [[interwiki for agora]]
        - #push [[mycomarkup]] 
            - #git https://github.com/bouncepaw/mycomarkup
-           - is a library in go
+           - is a library in [[go]]
            - but also a binary :)
            - [[agora]] could run [[mycomarkup]] to render this
                - https://anagora.org/interwiki_for_agora as example
@@ -61,12 +61,12 @@
     - [[buenos aires]]
     - [[kazan]]
 - [[multiple desks]]
-    - multiple computers
+    - multiple computers, multiple workspaces, etc.
 - [[flancian]] news from the week
     - [[agora protocol]] progress
         - how to coalesce nodes / all conventions / is this part of the protocol?
             - [[bouncepaw]] [[bill seitz]] probably knows a lot about this
-        - 
+    - [[noosphere]] was announced 
     
 
 # #push [[flancia-meet-2022-08-13]]
