@@ -71,6 +71,8 @@
         - [[bouncepaw]] similar thing happened in Germany, wikis were used a lot in education but then the project failed
         - nobody seemed to understand the benefit of wikis for education
         - [[hypothes.is]] usage in schools
+            - [[jstor]] investment is new there
+        - [[scihub]]
     
 
 # #push [[flancia-meet-2022-08-13]]
