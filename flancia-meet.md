@@ -48,7 +48,13 @@
                - [[hypha stages]]
        - [[lapin]] -> [[quadrat]]
            - [[lapin]] has an [[agora]] drawing
-   - [[interwiki links]] ~ [[interwiki for agora]]
+   - #push [[agora plan]] 
+       - [[interwiki links]] ~ [[interwiki for agora]]
+       - [[mycomarkup]]
+           - is a 
+- [[national libraries]]
+    - [[buenos aires]]
+    - [[kazan]]
     
 
 # #push [[flancia-meet-2022-08-13]]
