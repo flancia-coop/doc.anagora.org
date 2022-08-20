@@ -16,6 +16,10 @@
 - [[paul theroux]]
     - account of a [[transsiberian]] trip 
     - I can recommend Paul Theroux if you are interested in travelling
+- [[bouncepaw]] been to [[moscow]], [[st petersburg]], and a few stans only
+    - there's a place where pagans still thrive
+- [[melanocarpa]] vs [[cyberrachel]] קיבררחל
+    - [[rakhil]] is cooler sounding -- agree completely
 
 # #push [[flancia-meet-2022-08-13]]
 - Attending: [[flancian]]
