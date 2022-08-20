@@ -22,8 +22,19 @@
     - [[rakhil]] is cooler sounding -- agree completely
 - on the difference/transition between subnodes / hypha and articles
     - [[melanocarpa]] is meant to be coherent :)
-    - [[cyberrachel]] is more bullet point based [[киберрахиль]] (/kiberraxil/)
+    - [[cyberrachel]] is more bullet point based [[киберрахиль]] (kiberraxil)
     - [[optimistic linking]]
+    - how to decide where you start writing?
+        - into [[cyberrachel]] :)
+            - diary
+            - people I know and don't want to leak
+            - opinions I don't want to share
+            - personal relationships
+            - some things you should never publish
+       - into [[melanocarpa]]
+           - drawings I want to share
+           - text I want to share
+           - collections of links that someone would appreciate seeing
     
 
 # #push [[flancia-meet-2022-08-13]]
