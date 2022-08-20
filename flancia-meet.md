@@ -48,6 +48,7 @@
                - [[hypha stages]]
        - [[lapin]] -> [[quadrat]]
            - [[lapin]] has an [[agora]] drawing
+   - [[interwiki links]] ~ [[interwiki for agora]]
     
 
 # #push [[flancia-meet-2022-08-13]]
