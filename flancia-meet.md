@@ -64,6 +64,7 @@
     - [[agora protocol]] progress
         - how to coalesce nodes / all conventions / is this part of the protocol?
             - [[bouncepaw]] [[bill seitz]] probably knows a lot about this
+        - 
     
 
 # #push [[flancia-meet-2022-08-13]]
