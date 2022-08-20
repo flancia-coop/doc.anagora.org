@@ -81,6 +81,8 @@
 - new thing in [[russia]]
     - if you have an [[it diploma]] you can skip serving in the army
 - [[agora pkg chapter]]
+- [[time]] and [[scheduling]]
+    - [[liminal days]]
     
 
 # #push [[flancia-meet-2022-08-13]]
