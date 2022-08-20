@@ -80,6 +80,7 @@
     - [[bouncepaw]] wanted to be a programmer since he was 9
 - new thing in [[russia]]
     - if you have an [[it diploma]] you can skip serving in the army
+- [[agora pkg chapter]]
     
 
 # #push [[flancia-meet-2022-08-13]]
