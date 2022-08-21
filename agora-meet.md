@@ -25,3 +25,5 @@
     - [[blog engine]] in [[ruby]]
         - [[flancian]] do you know [[why the lucky stiff]]?
             - [[bouncepaw]] no
+        - [[money]] -> [[sapiens]]
+            - -> [[homo deus]]
