@@ -21,4 +21,4 @@
         - #pull [[2022-06-11_instead]]
 - [[bouncepaw]] repos to migrate:
     - migrated the game engine yesterday
-
+    - [[static site]] generator in [[crystal]]
