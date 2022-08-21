@@ -3,7 +3,7 @@
 - [[working in public]] agenda:
     - [[bouncepaw]]:
         - Review PR for [[Mycorrhiza]] -> requested for changes
-        - Migrate older [[GitHub]] repos to [[SourceHut]] -> moved 2017 repos
+        - Migrate older [[GitHub]] repos to [[SourceHut]] -> moved repos from 2017
         - Fix issue for [[Mycorrhiza]] -> fixed
     - [[flancian]]:
         - [[poetry]] PR
