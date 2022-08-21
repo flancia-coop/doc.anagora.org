@@ -2,6 +2,12 @@
 ### Under each week add some nodes you think other people will be interested in. We can study them together.
 #### join us on matrix #anagora:matrix.org
 
+## season 3
+
+### august special
+
+- [[Revolution]]
+
 ## season 2
 
 ### episode 9 (13th Mar - 20th March)
