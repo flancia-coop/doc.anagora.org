@@ -30,6 +30,7 @@
     - a [[telegram bot]] to help with some school assignment ([[dependabot]] found 14 vulnerabilities)
     - an API wrapper for [[telegra.ph]]
     - a [[s-expression]] [[HTML]] templating language
+    - source for my old blog
 - potential [[project]]: script/tool that makes it easy to migrate off [[github]] to [[gitea]], [[sourcehut]], [[gitlab]]
 - [[nishtyak]] ~ [[good thing]]
 - "written in [[x]] sadly"
