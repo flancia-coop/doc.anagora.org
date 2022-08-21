@@ -27,3 +27,5 @@
             - [[bouncepaw]] no
         - [[money]] -> [[sapiens]]
             - -> [[homo deus]]
+    - a [[telegram bot]] to help with some school assignment ([[dependabot]] found 14 vulnerabilities)
+    - 
