@@ -4,7 +4,7 @@
     - [[bouncepaw]]:
         - Review PR for [[Mycorrhiza]] -> requested for changes
         - Migrate older [[GitHub]] repos to [[SourceHut]] -> moved 2017 repos
-        - Fix issue for [[Mycorrhiza]]
+        - Fix issue for [[Mycorrhiza]] -> fixed
     - [[flancian]]:
         - [[poetry]] PR
             - hmm, where is this again? maybe I already merged it in a branch.
