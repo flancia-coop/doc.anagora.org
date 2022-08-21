@@ -7,4 +7,8 @@
     - [[flancian]]:
         - [[poetry]] PR
         - [[flight]] branch for opt in code 
+- what happens to the Agora copyright if [[flancian]] leaves [[Google]]?
+    - unclear?
+    - but it can be forked
+  
   
