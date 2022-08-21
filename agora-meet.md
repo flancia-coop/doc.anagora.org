@@ -40,3 +40,6 @@
     - what about [[rust]]?
         - it's kind of fun and funny
         - [[noosphere]] is in rust it seems
+- [[indieweb]] meetup?
+    - invite [[chris aldrich]] to talk?
+- [[feediverse]] as an easy way to push to [[activitypub]]
