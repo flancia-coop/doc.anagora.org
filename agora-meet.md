@@ -47,3 +47,4 @@
 - [[feediverse]] as an easy way to push to [[activitypub]]
 - #push [[git]]
     - [[bouncepaw]] has separate concepts for [[author]] and [[committer]]
+- [[hackerspace]] near university?
