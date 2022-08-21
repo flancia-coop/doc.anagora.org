@@ -1,7 +1,10 @@
-= Agora Meet 2022-08-21
+## Agora Meet 2022-08-21
 - Attending: [[flancian]] [[bouncepaw]]
-- [[working in public]] agenda:]
+- [[working in public]] agenda:
     - [[bouncepaw]]:
-        - Review PR for [[mycorrhiza]]
-    - 
+        - Review PR for [[Mycorrhiza]]
+        - Migrate older [[GitHub]] repos to [[SourceHut]]
+    - [[flancian]]:
+        - [[poetry]] PR
+        - [[flight]] branch for opt in code 
   
