@@ -14,5 +14,7 @@
 - what happens to the Agora copyright if [[flancian]] leaves [[Google]]?
     - unclear?
     - but it can be forked
-- 
-  
+- [[bouncepaw]] on [[game engines]]
+    - coded one but never actually used it
+    - site generator written in [[crystal]] is like [[ruby]] but [[typed]] and [[compiled]]
+    - use [[instead]] instead
