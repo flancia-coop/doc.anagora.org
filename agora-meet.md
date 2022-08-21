@@ -32,3 +32,7 @@
     - a [[s-expression]] [[HTML]] templating language
 - potential [[project]]: script/tool that makes it easy to migrate off [[github]] to [[gitea]], [[sourcehut]], [[gitlab]]
 - [[nishtyak]] ~ [[good thing]]
+- "written in [[x]] sadly"
+    - [[python]]
+    - [[go]]
+    - what about [[hare]]? https://harelang.org
