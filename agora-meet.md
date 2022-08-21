@@ -2,7 +2,7 @@
 - Attending: [[flancian]] [[bouncepaw]]
 - [[working in public]] agenda:
     - [[bouncepaw]]:
-        - Review PR for [[Mycorrhiza]]
+        - Review PR for [[Mycorrhiza]] -> requested for changes
         - Migrate older [[GitHub]] repos to [[SourceHut]]
     - [[flancian]]:
         - [[poetry]] PR
