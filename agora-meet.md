@@ -28,4 +28,6 @@
         - [[money]] -> [[sapiens]]
             - -> [[homo deus]]
     - a [[telegram bot]] to help with some school assignment ([[dependabot]] found 14 vulnerabilities)
+    - an API wrapper for [[telegra.ph]]
+    - a [[s-expression]] [[HTML]] templating language
     - 
