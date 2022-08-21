@@ -37,3 +37,6 @@
     - [[python]]
     - [[go]]
     - what about [[hare]]? https://harelang.org
+    - what about [[rust]]?
+        - it's kind of fun and funny
+        - [[noosphere]] is in rust it seems
