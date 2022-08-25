@@ -1,5 +1,5 @@
 - This version can be edited by anyone by clicking on the pencil on the top right :)
-- - a [[table]]
+- a [[table]]
   - by [[caterine perizol]] (sp?)
   - three parts: [[fear]], [[anger]], [[sadness]].
   - #push [[sadness]]
