@@ -102,13 +102,15 @@
                     - lots of tools target [[mastodon]] as it supports some core things well
                 - [[aram zucker]]
                     - guide to [[activitypub]]: https://tinysubversions.com/notes/reading-activitypub/
-                - [[x clone]] in the [[fediverse]]
+                - #push [[fotl agenda]] 
+                    - the field of [[x clone]] in the [[fediverse]]
                     - no single AP client that supports all features
-                    - [[lemmy]] as an interesting example of new platform
+                    - [[lemmy]] as an interesting example of new platform built on [[activitypub]]
                     - [[goodreads]] functionality
+                        - #ca https://indieweb.org/personal_library#Silo_Examples
     - back to meta level here?
-        - on mapping of the fediverse, of 
-            - 
+        - on mapping of the fediverse, of tools?
+        - or [[spider charts]]
     - [[solid]] and [[solid like]]
         - [[mathew lowry]] ~ #ml
         - [[mysilio]] https://github.com/mysilio-co
