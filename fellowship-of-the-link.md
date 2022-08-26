@@ -117,7 +117,7 @@
                 - #f [[assertion feeds]]
                 - #jm spreadsheet is easily embeddable to begin with
                 - #ml publishing markdown/resources to repositories and sharing that
-            - #f [[gardens]] and [[feeds]]
+            - #f [[gardens]] and [[feeds]]? :)
     - [[solid]] and [[solid like]]
         - [[mathew lowry]] ~ #ml
         - [[mysilio]] https://github.com/mysilio-co
