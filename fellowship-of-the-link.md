@@ -40,6 +40,7 @@
 
 ## 2022-08-26
 - Attending: [[Gene]] [[Jerry Michalski]] [[Flancian]] [[Chris Aldrich]] [[Bentley]]
+    - Late: [[Aram Zucker-Scharff]]
 - Introductions!
 - [[jerry michalski]] ~ #jm
     - on previous calls
@@ -98,6 +99,9 @@
                 - #f how does this interact with [[activitypub]]?
                     - #ca it fits in this model but it's a steeper learning curve
                     - in most of the AP space, if you don't interop with [[mastodon]], you don't exist
+                    - lots of tools target [[mastodon]] as it supports some core things well
+                - [[aram zucker]]
+                    - guide to [[activitypub]]: https://tinysubversions.com/notes/reading-activitypub/
     - [[solid]] and [[solid like]]
         - [[mathew lowry]] ~ #ml
         - [[mysilio]] https://github.com/mysilio-co
