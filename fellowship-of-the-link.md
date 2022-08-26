@@ -106,12 +106,13 @@
                     - no single AP client that supports all features
                     - [[lemmy]] as an interesting example of new platform
                     - [[goodreads]] functionality
+    - back to meta level here?
+        - on mapping of the fediverse, of 
+            - 
     - [[solid]] and [[solid like]]
         - [[mathew lowry]] ~ #ml
         - [[mysilio]] https://github.com/mysilio-co
-
 - (A copy of the default Agenda goes below)
-
 - [[names]] for the project that has already started :)
     - [[flancian]] my proposal is, well, you know what I call it :)
         - would love to discuss [[agora protocol]] with you
