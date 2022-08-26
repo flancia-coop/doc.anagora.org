@@ -138,6 +138,7 @@
                     - [[anthropology]] [[history]] background
                 - [[andy matuschak]]
                 - [[cory doctorow]]
+                - #list https://twitter.com/i/lists/1437865198346379264/members
 - (A copy of the default Agenda goes below)
 - [[names]] for the project that has already started :)
     - [[flancian]] my proposal is, well, you know what I call it :)
