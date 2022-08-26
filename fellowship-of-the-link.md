@@ -40,6 +40,8 @@
 
 ## 2022-08-19
 
+## 2022-08-19
+
 ### Attending
 [[Flancian]]
 [[Chris Aldrich]]
