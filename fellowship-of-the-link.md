@@ -68,6 +68,9 @@
     - reusable ethical services might be a competitive advantage of tools in the [[commons]]
     - commercial tools seem to have an advantage in the current market -- they get the backing of the market "leads" (VC, etc.) which lets them out-compete freer options
         - uber is not a [[fair marketplace]], yet it outcompeted more ethical alternatives
+        - on the [[hypocrisy]] of "fake markets" -- platforms that behave like markets but are controlled by a single entity
+    - [[chris aldrich]] if we did [[spider graphs]], how do you select axis to focus on?
+        - how do we present this information in a way that prioritizes the ethical aspect, and perhaps helps tool developers prioritize
 - [[names]] for the project that has already started :)
     - [[flancian]] my proposal is, well, you know what I call it :)
         - would love to discuss [[agora protocol]] with you
