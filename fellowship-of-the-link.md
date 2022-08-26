@@ -118,6 +118,7 @@
                 - #jm spreadsheet is easily embeddable to begin with
                 - #ml publishing markdown/resources to repositories and sharing that
             - #f [[gardens]] and [[feeds]]? :)
+            - #ml can we add domains/repositories to what is searching?
     - [[solid]] and [[solid like]]
         - [[mathew lowry]] ~ #ml
         - [[mysilio]] https://github.com/mysilio-co
