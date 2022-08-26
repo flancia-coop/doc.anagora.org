@@ -95,7 +95,15 @@
                     - then the website has the know how on how to publish to feeds
                     - [[bookmark service]] is the [[hello world]] here
                 - [[medium]] could rewrite its backend to support [[micropub]] and it would let you cross post to many other sites
+                - #f how does this interact with [[activitypub]]?
+                    - #ca it fits in this model but it's a steeper learning curve
+                    - in most of the AP space, if you don't interop with [[mastodon]], you don't exist
+    - [[solid]] and [[solid like]]
+        - [[mathew lowry]] ~ #ml
+        - [[mysilio]] https://github.com/mysilio-co
+
 - (A copy of the default Agenda goes below)
+
 - [[names]] for the project that has already started :)
     - [[flancian]] my proposal is, well, you know what I call it :)
         - would love to discuss [[agora protocol]] with you
