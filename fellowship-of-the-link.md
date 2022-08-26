@@ -38,7 +38,37 @@
 - AI(jerry michalski): give access to github repo?
 - We should create a survey about uses of tools for thought and note taking? (discussed [[2022-08-11]])
 
-## 2022-08-19
+## 2022-08-26
+- Attending: [[Gene]] [[Jerry Michalski]] [[Flancian]]
+- Introductions!
+- [[jerry michalski]] ~ #jm
+    - on previous calls
+    - on having 
+- [[names]] for the project that has already started :)
+    - [[flancian]] my proposal is, well, you know what I call it :)
+        - would love to discuss [[agora protocol]] with you
+            - is the heart of the [[Agora]]
+            - it is what you and me define it to be :)
+            - feedback welcome :)
+- where are you [[feeds]] and [[gardens]]?
+    - [[flancian]] note my daily feed shows up as part of https://anagora.org/journals which is an aggregation of daily posts by all users, 
+    - if you tell me about your feeds and gardens I could add them (like everything Agora related, everything is optional always and offered as a token of friendship!)
+- [[commonplace books]]
+- [[mathew lowry]] let's create some distributed map of thinking tools: https://chat.collectivesensecommons.org/agora/pl/78gprua18frkpc6shrxabricqo
+![](https://doc.anagora.org/uploads/upload_888c6fbb5753be41ddb48290c35d505d.png)
+    - #jm https://bra.in/5qeDMg
+    - #jm [[spider charts]]
+        - looks like a [[polar chart]]
+        - what are the axes? visualization, openness, artificial intelligence, etc.
+            ML: also the different notetaking techniques
+            CJA: What are the building blocks and affordances they provide so one can have a progressively improved/complex experience
+- solving for [[sustainability]] / [[viability]] of a healthy knowledge ecosystem
+    - funding, donations between readers and writers
+    - nested conversations, how to solve for:
+        - [[communities]]
+        - [[startups]] / companies
+            - [[jerry michalski]] camp
+- People we should invite here?
 
 ## 2022-08-19
 
