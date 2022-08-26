@@ -83,6 +83,7 @@
         - #ca #push [[indieweb]] they have built a structure on a two prong idea:
             - you own your own domain name
                 - [[flancian]] ~ #f what about weakening this into "you own some URL space"
+                - #ca it's possible, but at the end of the day you want to own what a URL resolves to
             - you have control over your data
 - (A copy of the default Agenda goes below)
 - [[names]] for the project that has already started :)
