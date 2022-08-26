@@ -121,6 +121,10 @@
             - #ml can we add domains/repositories to what is searching?
                 - #f yes
             - [[aram zucker-scharff]] ~ [[az]]
+            - #jm [[noosphere]]
+            - #ca most of the big commercial offerings allow people to store data on [[dropbox]] or [[google drive]]
+                - [[agora]] could enable people to move from [[dropbox]] to [[git]] based workflows
+                - micropub spec ostensibly could be used for moving from platform [[x]] to platform [[y]]
     - [[solid]] and [[solid like]]
         - [[mathew lowry]] ~ #ml
         - [[mysilio]] https://github.com/mysilio-co
