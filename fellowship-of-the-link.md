@@ -40,7 +40,7 @@
 
 ## 2022-08-26
 - Attending: [[Gene]] [[Jerry Michalski]] [[Flancian]] [[Chris Aldrich]] [[Bentley]]
-    - Late: [[Aram Zucker-Scharff]] 
+    - Late: [[Aram Zucker-Scharff]], [[mathew lowry]]
 - Introductions!
 - [[jerry michalski]] ~ #jm
     - on previous calls
@@ -113,7 +113,11 @@
         - or [[spider charts]]
             - #f [[go/t4t radar]] points to the chart (- and + also work for spaces)
                 - which categories do we want here?
-                - linking articles to support scores/opinio
+                - linking articles to support scores/opinions
+                - #f [[assertion feeds]]
+                - #jm spreadsheet is easily embeddable to begin with
+                - #ml publishing markdown/resources to repositories and sharing that
+            - #f [[gardens]] and [[feeds]]
     - [[solid]] and [[solid like]]
         - [[mathew lowry]] ~ #ml
         - [[mysilio]] https://github.com/mysilio-co
