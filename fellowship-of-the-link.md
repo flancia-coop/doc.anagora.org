@@ -128,6 +128,9 @@
     - [[solid]] and [[solid like]]
         - [[mathew lowry]] ~ #ml
         - [[mysilio]] https://github.com/mysilio-co
+    - [[jerry michalski]] will host a [[podcast]]
+        - default topics:
+            - [[startups]] to motivate a [[bootcamp]]
 - (A copy of the default Agenda goes below)
 - [[names]] for the project that has already started :)
     - [[flancian]] my proposal is, well, you know what I call it :)
