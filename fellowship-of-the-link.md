@@ -50,7 +50,12 @@
     - [[numenta]]
         - would like to jump into a "digested format"
         - [[prediction framework]]
-        
+            - as [[society of mind]]
+- #push [[Gene]] and [[Jerry Michalski]] go way back
+    - [[system thinker]] -> [[storyteller]]
+    - #go https://bra.in/8vGe9q
+    - married and divorced [[the brain]] multiple times
+    - [[napkin]]
 - (A copy of the default Agenda goes below)
 - [[names]] for the project that has already started :)
     - [[flancian]] my proposal is, well, you know what I call it :)
