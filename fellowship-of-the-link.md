@@ -80,7 +80,10 @@
             - but even in that case it seems you could move to other players which are more open
     - [[bentley]] implemented [[filtering]] in [[spider graphs]] (demo)
     - #jm what is [[indieweb]]'s perspective on convincing people to build openly?
-        - #ca they
+        - #ca #push [[indieweb]] they have built a structure on a two prong idea:
+            - you own your own domain name
+                - [[flancian]] ~ #f what about weakening this into "you own some URL space"
+            - you have control over your data
 - (A copy of the default Agenda goes below)
 - [[names]] for the project that has already started :)
     - [[flancian]] my proposal is, well, you know what I call it :)
