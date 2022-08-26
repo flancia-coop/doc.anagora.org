@@ -84,7 +84,12 @@
             - you own your own domain name
                 - [[flancian]] ~ #f what about weakening this into "you own some URL space"
                 - #ca it's possible, but at the end of the day you want to own what a URL resolves to
+                - the ecosystem is developing in the direction of letting you redirect between domains
             - you have control over your data
+            - #jm what about separating data from apps, e.g. storing on github?
+                - as in, you map any new tool to the same existent dataset
+                - #ca you can point tools in [[indieweb]] to repositories of data
+                - #ca [[micropub]] is a spec; a data plug board
 - (A copy of the default Agenda goes below)
 - [[names]] for the project that has already started :)
     - [[flancian]] my proposal is, well, you know what I call it :)
