@@ -139,6 +139,9 @@
                 - [[andy matuschak]]
                 - [[cory doctorow]]
                 - #list https://twitter.com/i/lists/1437865198346379264/members
+            - [[commons]]
+                - [[knowledge commons]]
+                - #ml [[global commons]] usually means [[global english commons]], although that can be generalized with AI
 - (A copy of the default Agenda goes below)
 - [[names]] for the project that has already started :)
     - [[flancian]] my proposal is, well, you know what I call it :)
