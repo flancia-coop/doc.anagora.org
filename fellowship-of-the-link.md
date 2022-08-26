@@ -45,6 +45,10 @@
     - on previous calls
     - on sometimes having overlap in different dimensions but not having shared clarity/understanding
     - sharing clarity vs rambling
+    - happens even at the organizational level when you're trying to set up a mission statement
+        - [[motherhood statements]] ~ "we believe in X", "we believe in Y"
+    - [[numenta]]
+        - would like to jump into a "digesti
 - (A copy of the default Agenda goes below)
 - [[names]] for the project that has already started :)
     - [[flancian]] my proposal is, well, you know what I call it :)
