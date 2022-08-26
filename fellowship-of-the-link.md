@@ -119,6 +119,8 @@
                 - #ml publishing markdown/resources to repositories and sharing that
             - #f [[gardens]] and [[feeds]]? :)
             - #ml can we add domains/repositories to what is searching?
+                - #f yes
+            - [[aram zucker-scharff]] ~ [[az]]
     - [[solid]] and [[solid like]]
         - [[mathew lowry]] ~ #ml
         - [[mysilio]] https://github.com/mysilio-co
