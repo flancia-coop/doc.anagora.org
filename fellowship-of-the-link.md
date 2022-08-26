@@ -149,6 +149,7 @@
         - [[Lifeboat]]: A History of Courage, Cravenness, and Survival at Sea (2003) 
         - For more on pacific islanders' migration: [[Life on the Rim]] (as in Pacific rim) 
     - #meta #ml let's set up a [[doodle]]?
+    - ([[flancian]] dropped here.)
 - (A copy of the default Agenda goes below)
 - [[names]] for the project that has already started :)
     - [[flancian]] my proposal is, well, you know what I call it :)
