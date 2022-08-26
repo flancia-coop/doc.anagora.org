@@ -63,14 +63,20 @@
         - https://www.youtube.com/watch?v=4rvXUHI331k
         - [[umberto eco]] https://www.youtube.com/watch?v=Czc_KjWji8E
         - [[library tours]]
-- (A copy of the default Agenda goes below)
 - Spider chart example
     - reusable ethical services might be a competitive advantage of tools in the [[commons]]
     - commercial tools seem to have an advantage in the current market -- they get the backing of the market "leads" (VC, etc.) which lets them out-compete freer options
         - uber is not a [[fair marketplace]], yet it outcompeted more ethical alternatives
         - on the [[hypocrisy]] of "fake markets" -- platforms that behave like markets but are controlled by a single entity
-    - [[chris aldrich]] if we did [[spider graphs]], how do you select axis to focus on?
-        - how do we present this information in a way that prioritizes the ethical aspect, and perhaps helps tool developers prioritize
+    - [[chris aldrich]] ~ #ca if we did [[spider graphs]], how do you select axis to focus on?
+        - how do we present this information in a way that prioritizes the ethical aspect, and perhaps helps tool developers prioritize lacking dimensions?
+        - #jm selecting dimensions in different contexts
+        - #jm finding which tools are missing, which tools are complementary
+            - "which tools play well with each other"
+        - #ca another thing which is important to people in this space: even though [[obsidian]] is not open source, people find it easy to develop against it and it's got open source extensions
+            - so it seems unlikely they will turn into a new Twitter
+            - 
+- (A copy of the default Agenda goes below)
 - [[names]] for the project that has already started :)
     - [[flancian]] my proposal is, well, you know what I call it :)
         - would love to discuss [[agora protocol]] with you
