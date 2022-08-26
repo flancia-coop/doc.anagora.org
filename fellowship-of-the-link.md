@@ -102,6 +102,10 @@
                     - lots of tools target [[mastodon]] as it supports some core things well
                 - [[aram zucker]]
                     - guide to [[activitypub]]: https://tinysubversions.com/notes/reading-activitypub/
+                - [[x clone]] in the [[fediverse]]
+                    - no single AP client that supports all features
+                    - [[lemmy]] as an interesting example of new platform
+                    - [[goodreads]] functionality
     - [[solid]] and [[solid like]]
         - [[mathew lowry]] ~ #ml
         - [[mysilio]] https://github.com/mysilio-co
