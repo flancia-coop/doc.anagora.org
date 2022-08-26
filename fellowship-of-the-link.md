@@ -131,6 +131,13 @@
     - [[jerry michalski]] will host a [[podcast]]
         - default topics:
             - [[startups]] to motivate a [[bootcamp]]
+            - [[chris aldrich]]
+            - who else should we invite?
+                - [[anne laure]]
+                - [[maggie appleton]]
+                    - [[anthropology]] [[history]] background
+                - [[andy matuschak]]
+                - [[cory doctorow]]
 - (A copy of the default Agenda goes below)
 - [[names]] for the project that has already started :)
     - [[flancian]] my proposal is, well, you know what I call it :)
