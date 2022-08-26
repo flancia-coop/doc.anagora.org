@@ -89,7 +89,11 @@
             - #jm what about separating data from apps, e.g. storing on github?
                 - as in, you map any new tool to the same existent dataset
                 - #ca you can point tools in [[indieweb]] to repositories of data
-                - #ca [[micropub]] is a spec; a data plug board
+                - #ca [[micropub]] is a spec; a "data plug board" that allows people to easily write apps that publish events to different consumers
+                    - a post goes first to your website
+                    - then the website has the know how on how to publish to feeds
+                    - [[bookmark service]] is the [[hello world]] here
+                - [[medium]] could rewrite its backend to 
 - (A copy of the default Agenda goes below)
 - [[names]] for the project that has already started :)
     - [[flancian]] my proposal is, well, you know what I call it :)
