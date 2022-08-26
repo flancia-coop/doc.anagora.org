@@ -40,7 +40,7 @@
 
 ## 2022-08-26
 - Attending: [[Gene]] [[Jerry Michalski]] [[Flancian]] [[Chris Aldrich]] [[Bentley]]
-    - Late: [[Aram Zucker-Scharff]]
+    - Late: [[Aram Zucker-Scharff]] 
 - Introductions!
 - [[jerry michalski]] ~ #jm
     - on previous calls
@@ -111,7 +111,9 @@
     - back to meta level here?
         - on mapping of the fediverse, of tools?
         - or [[spider charts]]
-            - #f [[go/t4t radar]]
+            - #f [[go/t4t radar]] points to the chart (- and + also work for spaces)
+                - which categories do we want here?
+                - linking articles to support scores/opinio
     - [[solid]] and [[solid like]]
         - [[mathew lowry]] ~ #ml
         - [[mysilio]] https://github.com/mysilio-co
