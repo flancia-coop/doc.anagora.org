@@ -43,7 +43,9 @@
 - Introductions!
 - [[jerry michalski]] ~ #jm
     - on previous calls
-    - on having 
+    - on sometimes having overlap in different dimensions but not having shared clarity/understanding
+    - sharing clarity vs rambling
+- (A copy of the default Agenda goes below)
 - [[names]] for the project that has already started :)
     - [[flancian]] my proposal is, well, you know what I call it :)
         - would love to discuss [[agora protocol]] with you
