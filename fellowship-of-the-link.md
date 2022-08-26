@@ -39,7 +39,7 @@
 - We should create a survey about uses of tools for thought and note taking? (discussed [[2022-08-11]])
 
 ## 2022-08-26
-- Attending: [[Gene]] [[Jerry Michalski]] [[Flancian]]
+- Attending: [[Gene]] [[Jerry Michalski]] [[Flancian]] [[Chris Aldrich]] [[Bentley]]
 - Introductions!
 - [[jerry michalski]] ~ #jm
     - on previous calls
@@ -60,6 +60,9 @@
     - #push [[richard macksey]]
         - [[library background]]
         - https://app.thebrain.com/brains/3d80058c-14d8-5361-0b61-a061f89baf87/thoughts/34f84a89-4bc2-46f5-ac9b-b3ba8e8bff11/notes
+        - https://www.youtube.com/watch?v=4rvXUHI331k
+        - [[umberto eco]] https://www.youtube.com/watch?v=Czc_KjWji8E
+        - [[library tours]]
 - (A copy of the default Agenda goes below)
 - [[names]] for the project that has already started :)
     - [[flancian]] my proposal is, well, you know what I call it :)
