@@ -23,7 +23,7 @@
         - [[communities]]
         - [[startups]] / companies
             - [[jerry michalski]] camp
-- People we should invite here!
+- People we should invite here?
 - [[2022-08-19]] (or just after): recap of Render Conference for Tools for Thinking https://www.betaworks.com/event/render-tools-for-thinking
     - done!
 
