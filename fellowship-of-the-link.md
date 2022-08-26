@@ -142,6 +142,7 @@
             - [[commons]]
                 - [[knowledge commons]]
                 - #ml [[global commons]] usually means [[global english commons]], although that can be generalized with AI
+                - "[[The Eighth Coalition]]" http://en.wikipedia.org/wiki/Hundred_Days
 - (A copy of the default Agenda goes below)
 - [[names]] for the project that has already started :)
     - [[flancian]] my proposal is, well, you know what I call it :)
