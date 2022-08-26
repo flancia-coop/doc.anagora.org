@@ -65,8 +65,9 @@
         - [[library tours]]
 - (A copy of the default Agenda goes below)
 - Spider chart example
-    - reusable ethical services
-    - 
+    - reusable ethical services might be a competitive advantage of tools in the [[commons]]
+    - commercial tools seem to have an advantage in the current market -- they get the backing of the market "leads" (VC, etc.) which lets them out-compete freer options
+        - uber is not a [[fair marketplace]], yet it outcompeted more ethical alternatives
 - [[names]] for the project that has already started :)
     - [[flancian]] my proposal is, well, you know what I call it :)
         - would love to discuss [[agora protocol]] with you
