@@ -55,7 +55,11 @@
     - [[system thinker]] -> [[storyteller]]
     - #go https://bra.in/8vGe9q
     - married and divorced [[the brain]] multiple times
-    - [[napkin]]
+    - uses [[napkin]]
+    - [[richard maxis]] ~ [[richard macksey]] library
+    - #push [[richard macksey]]
+        - [[library background]]
+        - https://app.thebrain.com/brains/3d80058c-14d8-5361-0b61-a061f89baf87/thoughts/34f84a89-4bc2-46f5-ac9b-b3ba8e8bff11/notes
 - (A copy of the default Agenda goes below)
 - [[names]] for the project that has already started :)
     - [[flancian]] my proposal is, well, you know what I call it :)
