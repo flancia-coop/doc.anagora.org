@@ -111,6 +111,7 @@
     - back to meta level here?
         - on mapping of the fediverse, of tools?
         - or [[spider charts]]
+            - #f [[go/t4t radar]]
     - [[solid]] and [[solid like]]
         - [[mathew lowry]] ~ #ml
         - [[mysilio]] https://github.com/mysilio-co
