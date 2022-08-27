@@ -35,6 +35,7 @@
     - invite [[indieweb people]]
     - re-invite [[dan whaley]]
 
+
 ## AIs ~ [[action items]]
 - AI(flancian): post about [[adversarial interoperability]] in [[ogm]]
 - AI(flancian): add the following to the Agora as one of the search "providers" :)
@@ -45,9 +46,16 @@
 - Create a survey about uses of tools for thought and note taking? 
     - (discussed [[2022-08-11]])
 
+
 ## 2022-08-26
-- Attending: [[Gene]] [[Jerry Michalski]] [[Flancian]] [[Chris Aldrich]] [[Bentley]]
-    - Late: [[Aram Zucker-Scharff]], [[mathew lowry]]
+## Attending: 
+- [[Gene]] [[Jerry Michalski]] [[Flancian]] [[Chris Aldrich]] [[Bentley]]
+- Late: [[Aram Zucker-Scharff]], [[mathew lowry]]
+
+
+### Videos
+
+### Notes
 - Introductions!
 - [[jerry michalski]] ~ #jm
     - on previous calls
@@ -185,6 +193,8 @@
         - [[startups]] / companies
             - [[jerry michalski]] camp
 - People we should invite here?
+
+
 
 ## 2022-08-19
 
