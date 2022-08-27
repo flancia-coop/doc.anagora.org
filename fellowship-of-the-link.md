@@ -64,7 +64,7 @@
     - #go https://bra.in/8vGe9q
     - married and divorced [[the brain]] multiple times
     - uses [[napkin]]
-    - [[richard maxis]] ~ [[richard macksey]] library
+    - [[richard maxis]] ~ [[richard macksey]], former Johns Hopkins University professor with a large personal library
     - #push [[richard macksey]]
         - [[library background]]
         - https://app.thebrain.com/brains/3d80058c-14d8-5361-0b61-a061f89baf87/thoughts/34f84a89-4bc2-46f5-ac9b-b3ba8e8bff11/notes
