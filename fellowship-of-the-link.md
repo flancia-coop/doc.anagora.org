@@ -1,4 +1,5 @@
 ## High level agenda, can be recurring or next items
+
 - [[names]] for the project that has already started :)
     - [[flancian]] my proposal is, well, you know what I call it :)
         - would love to discuss [[agora protocol]] with you
@@ -18,6 +19,7 @@
         - what are the axes? visualization, openness, artificial intelligence, etc.
             ML: also the different notetaking techniques
             CJA: What are the building blocks and affordances they provide so one can have a progressively improved/complex experience
+        - See start of this at https://docs.google.com/spreadsheets/d/1hY2V5NoSS713R2wzcjBE2q5KZIlfMOPFtL9g6Gaop_o/edit#gid=0
 - solving for [[sustainability]] / [[viability]] of a healthy knowledge ecosystem
     - funding, donations between readers and writers
     - nested conversations, how to solve for:
@@ -25,8 +27,7 @@
         - [[startups]] / companies
             - [[jerry michalski]] camp
 - People we should invite here?
-- [[2022-08-19]] (or just after): recap of Render Conference for Tools for Thinking https://www.betaworks.com/event/render-tools-for-thinking
-    - done!
+
 
 ## AIs ~ [[action items]]
 - invite [[indieweb people]]
@@ -190,7 +191,10 @@
 [[Dan Whaley]]
 
 ### Video
-TK
+
+### Agenda 
+- [[2022-08-19]]: recap of Render Conference for Tools for Thinking https://www.betaworks.com/event/render-tools-for-thinking
+    - done!
 
 ### Notes
 - [[jerry michalski]]
