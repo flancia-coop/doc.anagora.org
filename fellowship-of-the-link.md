@@ -9,8 +9,9 @@
     - [[flancian]] note my daily feed shows up as part of https://anagora.org/journals which is an aggregation of daily posts by all users, 
     - if you tell me about your feeds and gardens I could add them (like everything Agora related, everything is optional always and offered as a token of friendship!)
 - [[commonplace books]]
-- [[mathew lowry]] let's create some distributed map of thinking tools: https://chat.collectivesensecommons.org/agora/pl/78gprua18frkpc6shrxabricqo
-![](https://doc.anagora.org/uploads/upload_888c6fbb5753be41ddb48290c35d505d.png)
+- [[mathew lowry]] let's create some distributed map of thinking tools: 
+    - https://chat.collectivesensecommons.org/agora/pl/78gprua18frkpc6shrxabricqo
+    ![](https://doc.anagora.org/uploads/upload_888c6fbb5753be41ddb48290c35d505d.png)
     - #jm https://bra.in/5qeDMg
     - #jm [[spider charts]]
         - looks like a [[polar chart]]
