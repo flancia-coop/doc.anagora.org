@@ -2,6 +2,11 @@
 - Attending: [[flancian]] your_name_here :)
 - [[working in public]]
     - [[agora pkg chapter]]
+        - [x] edit
+        - [ ] edit
+        - [ ] write
+        - [ ] export to docs
+    - [[agora docs import]]?
 
 ## Agora Meet [[2022-08-21]]
 - Attending: [[flancian]] [[bouncepaw]]
