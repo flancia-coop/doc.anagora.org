@@ -2,14 +2,15 @@
 - Attending: [[flancian]] your_name_here :)
 - [[working in public]]
     - [[agora pkg chapter]]
-        - [x] edit
+        - [x] [[edit]]
         - [x] edit
         - [ ] edit <- now working
         - [ ] write
         - [ ] export to docs
     - [[agora docs import]]?
         - sounds like a detour but productive, and it *is* needed to make editing of the chapter later (if it gets accepted) Agora-compatible
-        - [ ]
+        - [ ] code
+            - [ ] [[hardcode]]
 
 ## Agora Meet [[2022-08-21]]
 - Attending: [[flancian]] [[bouncepaw]]
