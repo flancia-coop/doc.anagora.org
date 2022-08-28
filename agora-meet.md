@@ -4,13 +4,17 @@
     - [[agora pkg chapter]]
         - [x] [[edit]]
         - [x] edit
-        - [ ] edit <- now working
-        - [ ] write
+        - [x] edit <- now working
+        - [x] write
         - [ ] export to docs
-    - [[agora docs import]]?
+            - footnotes don't export well by copy/pasting :)
+            - might be a good ocassion to do it properly
+    - #push [[agora docs import]]
         - sounds like a detour but productive, and it *is* needed to make editing of the chapter later (if it gets accepted) Agora-compatible
         - [ ] code
-            - [ ] [[hardcode]]
+            - [[docs]] -> [[agora]]
+                - [ ] [[hardcode]] fetching the [[agora doc]] URL to begin with
+                - [ ] then generalize
 - [[neil]]
     - [[noding]]
         - [[revolution]]
