@@ -1,4 +1,9 @@
-## Agora Meet 2022-08-21
+## Agora Meet [[2022-08-28]]
+- Attending: [[flancian]] your_name_here :)
+- [[working in public]]
+    - [[agora pkg chapter]]
+
+## Agora Meet [[2022-08-21]]
 - Attending: [[flancian]] [[bouncepaw]]
 - [[working in public]] agenda:
     - [[bouncepaw]]:
