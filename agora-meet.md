@@ -15,6 +15,9 @@
             - [[docs]] -> [[agora]]
                 - [ ] [[hardcode]] fetching the [[agora doc]] URL to begin with
                 - [ ] then generalize
+            - [[agora]] -> [[docs]]
+                - maybe add an endpoints to [[agora server]] which exports the rendered subnode as [[html]]?
+                - this was something we wanted for other purposes already I think
 - [[neil]]
     - [[noding]]
         - [[revolution]]
