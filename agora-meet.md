@@ -1,5 +1,5 @@
 ## Agora Meet [[2022-08-28]]
-- Attending: [[flancian]] your_name_here :)
+- Attending: [[flancian]] [[ladee]] [[neil]] your_name_here :)
 - [[working in public]]
     - [[agora pkg chapter]]
         - [x] [[edit]]
@@ -11,6 +11,9 @@
         - sounds like a detour but productive, and it *is* needed to make editing of the chapter later (if it gets accepted) Agora-compatible
         - [ ] code
             - [ ] [[hardcode]]
+- [[neil]]
+    - [[noding]]
+        - [[revolution]]
 
 ## Agora Meet [[2022-08-21]]
 - Attending: [[flancian]] [[bouncepaw]]
