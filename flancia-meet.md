@@ -4,7 +4,8 @@
 
 # #push [[flancia-meet-2022-09-09]]
 - Attending: [[bouncepaw]] [[flancian]]
-- 
+- Working on [[agora doc]]
+    - https://docs.google.com/document/d/1DXJRDh9Ss5VCRBi3oirDw9d7yjn3H2hMqfN2ETTyjIc/edit
 
 # #push [[flancia-meet-2022-08-20]]
 - Attending: [[bouncepaw]] [[flancian]]
