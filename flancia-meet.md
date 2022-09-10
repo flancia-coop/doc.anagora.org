@@ -6,6 +6,7 @@
 - Attending: [[bouncepaw]] [[flancian]]
 - Working on [[agora doc]]
     - https://docs.google.com/document/d/1DXJRDh9Ss5VCRBi3oirDw9d7yjn3H2hMqfN2ETTyjIc/edit
+    - 2 hours 20 minutes editing session
 
 # #push [[flancia-meet-2022-08-20]]
 - Attending: [[bouncepaw]] [[flancian]]
