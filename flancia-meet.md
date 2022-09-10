@@ -6,7 +6,7 @@
 - Attending: [[bouncepaw]] [[flancian]]
 - Working on [[agora doc]]
     - 2 hours 20 minutes editing session
-    - Thank you so much, Tymur!
+    - Thank you so much, Timur!
 
 # [[flancia meet 2022-09-02]]
 - Didn't happen, [[flancian]] was travelling.
