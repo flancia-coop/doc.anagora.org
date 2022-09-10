@@ -2,6 +2,10 @@
 - We meet best-effort every Saturday. UTC?
 - This is where we have community maintained notes :)
 
+# #push [[flancia-meet-2022-09-09]]
+- Attending: [[bouncepaw]] [[flancian]]
+- 
+
 # #push [[flancia-meet-2022-08-20]]
 - Attending: [[bouncepaw]] [[flancian]]
 - [[flancian]]
