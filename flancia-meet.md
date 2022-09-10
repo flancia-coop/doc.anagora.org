@@ -5,8 +5,14 @@
 # #push [[flancia-meet-2022-09-09]]
 - Attending: [[bouncepaw]] [[flancian]]
 - Working on [[agora doc]]
-    - https://docs.google.com/document/d/1DXJRDh9Ss5VCRBi3oirDw9d7yjn3H2hMqfN2ETTyjIc/edit
     - 2 hours 20 minutes editing session
+    - Thank you so much, Tymur!
+
+# [[flancia meet 2022-09-02]]
+- Didn't happen, [[flancian]] was travelling.
+
+# [[flancia meet 2022-08-27]]
+- Attending: [[flancian]], doing planning for the weekend and the upcoming trip.
 
 # #push [[flancia-meet-2022-08-20]]
 - Attending: [[bouncepaw]] [[flancian]]
