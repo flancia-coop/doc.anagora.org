@@ -76,6 +76,10 @@
   - #ml wdyt about [[you are not so smart]]?
       - [[marc antoine]] loved [[the enigma of reason]] #2017 
       - #jm https://bra.in/6qzdab
+  - [[shared purpose]] as a prerequisite for collective meaning
+      - "why do you believe this"
+      - [[stacey]] flexibility: it's important to not have to attach something in precisely the right point
+      - also: when you put the arguments in the map, I'm answering some
       
  
 
