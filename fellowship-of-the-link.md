@@ -98,6 +98,10 @@
       - [[stacey druss]] looked into the cases behind the claim, case by case, and found that there were cases were people were being hurt and that we could have helped
   - #jm my notes for this call: https://bra.in/3qaEeE 
       - https://sfpeace.org/
+  - #map
+      - [[deliberate polling]]
+      - [[the enigma of reason]] -- when people talk together, we get better results
+      - recursive approach
  
   
       
