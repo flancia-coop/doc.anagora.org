@@ -79,7 +79,11 @@
   - [[shared purpose]] as a prerequisite for collective meaning
       - "why do you believe this"
       - [[stacey]] flexibility: it's important to not have to attach something in precisely the right point
-      - also: when you put the arguments in the map, I'm answering some
+      - also: when you put the arguments in the map, I'm answering an abstract position (represented in the map) that is not necessarily that of a particular person (so it gets defused)
+  - #jm [[fake lie detector]] in [[the wire]]
+      - it might be possible to identify what someone is saying in real time
+      - reduce the delay between utterance and fact check
+      - live scoring would help
       
  
 
