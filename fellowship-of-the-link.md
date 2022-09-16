@@ -61,8 +61,9 @@
           - list of functional features
   - [[jerry michalski]] argumentation or debate as a view in an environment that facilitates collection, tagging and eventually policy making
       - grid making / dimensionality of the space we're exploring
-      - [[flancian]] a [[hypergraph]] as the target common data structure / exchange convention?
+      - [[flancian]] exploring a [[hypergraph]] as the target common data structure / exchange convention?
           - start with no typing, define required typing within the hypergraph (it's meta)
+  - 
 
 ## 2022-08-26
 ## Attending: 
