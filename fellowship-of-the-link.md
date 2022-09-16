@@ -63,10 +63,12 @@
       - grid making / dimensionality of the space we're exploring
       - [[flancian]] exploring a [[hypergraph]] as the target common data structure / exchange convention?
           - start with no typing, define required typing within the hypergraph (it's meta)
+          - #push [[hyperknowledge]] https://hyperknowledge.org/hyperknowledge-components-1.html
   - classification / the meta problem
       - high dimensionality matrix 
       - [[mathew]] but who will want to do that kind of work? defining the dimensions, then actually filling in that sort of space
       - https://docs.google.com/spreadsheets/d/17cnrfNVwh_ETZDbfCIw-XV_t2zmwP2jJHCKUJIY0nGg/edit?usp=sharing
+      - [[]]
  
 
 ## 2022-08-26
