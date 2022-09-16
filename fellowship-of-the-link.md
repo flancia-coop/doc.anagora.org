@@ -72,7 +72,9 @@
   - [[syntax]] for modeling
       - paraphrasing each other
       - [[flancianization]]
-      - [[change my mind]] analysis
+      - [[mathew lowry]]
+      - [[change my mind]] analysis, [[change my mind reddit]]
+      
  
 
 ## 2022-08-26
