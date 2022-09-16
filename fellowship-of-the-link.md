@@ -86,6 +86,12 @@
       - live scoring would help
       - #ml [[ministry of truth]] ~ [[map]] as a risk
       - #map [[cdl]]'s plan is to organize claim information; #map wants to provide a sort of [[claim overlay]]
+  - truth roots
+  - adversaries, [[drake equation]]
+  - #push [[canonical debate lab]]
+      - [[white paper]] https://github.com/canonical-debate-lab/paper/blob/master/README.mediawiki
+      - [[democracy earth foundation]]
+  
       
  
 
