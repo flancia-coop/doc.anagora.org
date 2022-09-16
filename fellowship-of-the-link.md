@@ -46,6 +46,8 @@
 - Create a survey about uses of tools for thought and note taking? 
     - (discussed [[2022-08-11]])
 
+## 2022-09-16
+- Attending: [[jerry michalski]] [[marc antoine]] [[mathew]] [[stacey druss]]
 
 ## 2022-08-26
 ## Attending: 
