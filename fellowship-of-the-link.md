@@ -93,7 +93,7 @@
       - [[democracy earth foundation]]
   - [[forgiveness]]
       - [[building bridges]]
-      - #jm [[reconciliation commission]] for companies
+      - #jm [[reconciliation commission]] for companies, [[truth and reconciliation]] process
   
       
  
