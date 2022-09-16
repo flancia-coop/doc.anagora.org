@@ -96,6 +96,9 @@
       - #jm [[reconciliation commission]] for companies, [[truth and reconciliation]] process
   - [[election fraud]] claims
       - [[stacey druss]] looked into the cases behind the claim, case by case, and found that there were cases were people were being hurt and that we could have helped
+  - #jm my notes for this call: https://bra.in/3qaEeE 
+      - https://sfpeace.org/
+ 
   
       
  
