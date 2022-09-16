@@ -50,15 +50,16 @@
 - Attending: [[jerry michalski]] [[marc antoine]] [[mathew]] [[stacey druss]]
 - #push [[canonical debate lab]]
   - [[marc antoine parent]] presents
-  - [[argument technologies]]
+  - [[argument technologies]] https://docs.google.com/spreadsheets/d/1wQShF0J3lGmIFACTvt5FLQWnKc1YdRaaCEDvRJlcUT8/edit?usp=sharing
       - map of [[tools for thinking]]
       - [[airtable]] approach, preferred structured to unstructured
       - knowledge management definition plan
       - [[jerry michalski]]
           - spider diagram
-      - [[CI features and goals]] document
+      - [[CI features and goals]] document: https://docs.google.com/document/d/1AY6y-uHUQE82zfLgwZLk29VPTaI1P5AMo6HT8zz1WDU/edit
           - seven dimensions
           - list of functional features
+  - [[jerry michalski]] argumentation or debate as a view in an environment that facilitates collection, tagging and eventually policy making
 
 ## 2022-08-26
 ## Attending: 
