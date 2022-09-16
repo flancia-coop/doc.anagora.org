@@ -91,6 +91,9 @@
   - #push [[canonical debate lab]]
       - [[white paper]] https://github.com/canonical-debate-lab/paper/blob/master/README.mediawiki
       - [[democracy earth foundation]]
+  - [[forgiveness]]
+      - [[building bridges]]
+      - #jm [[reconciliation commission]] for companies
   
       
  
