@@ -85,7 +85,7 @@
       - reduce the delay between utterance and fact check
       - live scoring would help
       - #ml [[ministry of truth]] ~ [[map]] as a risk
-      - #map [[cdl]]'s plan is 
+      - #map [[cdl]]'s plan is to organize claim information; #map wants to provide a sort of [[claim overlay]]
       
  
 
