@@ -101,7 +101,7 @@
   - #map
       - [[deliberate polling]]
       - [[the enigma of reason]] -- when people talk together, we get better results
-      - recursive approach
+      - recursive approach, exploit alpha/delta
  
   
       
