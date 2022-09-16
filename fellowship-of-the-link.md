@@ -69,6 +69,9 @@
       - [[mathew]] but who will want to do that kind of work? defining the dimensions, then actually filling in that sort of space
       - https://docs.google.com/spreadsheets/d/17cnrfNVwh_ETZDbfCIw-XV_t2zmwP2jJHCKUJIY0nGg/edit?usp=sharing
       - [[]]
+  - [[syntax]] for modeling
+      - paraphrasing each other
+      - 
  
 
 ## 2022-08-26
