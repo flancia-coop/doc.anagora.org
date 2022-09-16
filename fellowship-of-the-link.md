@@ -56,6 +56,7 @@
       - knowledge management definition plan
       - [[jerry michalski]]
           - spider diagram
+      - [[CI features and goals]] document
 
 ## 2022-08-26
 ## Attending: 
