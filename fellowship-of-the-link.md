@@ -72,8 +72,10 @@
   - [[syntax]] for modeling
       - paraphrasing each other
       - [[flancianization]]
-      - [[mathew lowry]]
-      - [[change my mind]] analysis, [[change my mind reddit]]
+      - [[mathew lowry]] [[change my mind]] analysis, [[change my mind reddit]]
+  - #ml wdyt about [[you are not so smart]]?
+      - [[marc antoine]] loved [[the enigma of reason]] #2017 
+      - #jm https://bra.in/6qzdab
       
  
 
