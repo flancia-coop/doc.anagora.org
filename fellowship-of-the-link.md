@@ -48,6 +48,14 @@
 
 ## 2022-09-16
 - Attending: [[jerry michalski]] [[marc antoine]] [[mathew]] [[stacey druss]]
+- #push [[canonical debate lab]]
+  - [[marc antoine parent]] presents
+  - [[argument technologies]]
+      - map of [[tools for thinking]]
+      - [[airtable]] approach, preferred structured to unstructured
+      - knowledge management definition plan
+      - [[jerry michalski]]
+          - spider diagram
 
 ## 2022-08-26
 ## Attending: 
