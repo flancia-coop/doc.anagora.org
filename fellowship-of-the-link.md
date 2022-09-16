@@ -33,7 +33,7 @@
 
 - People we should invite to join?
     - invite [[indieweb people]]
-    - re-invite [[dan whaley]]
+    - [x] re-invite [[dan whaley]]
 
 
 ## AIs ~ [[action items]]
@@ -57,6 +57,8 @@
       - [[jerry michalski]]
           - spider diagram
       - [[CI features and goals]] document
+          - seven dimensions
+          - list of functional features
 
 ## 2022-08-26
 ## Attending: 
