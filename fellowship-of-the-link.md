@@ -71,7 +71,8 @@
       - [[]]
   - [[syntax]] for modeling
       - paraphrasing each other
-      - 
+      - [[flancianization]]
+      - [[change my mind]] analysis
  
 
 ## 2022-08-26
