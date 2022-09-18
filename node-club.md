@@ -4,6 +4,8 @@
 
 ## season 3
 
+### episode 1 (11th - 18)
+
 ### august special
 
 - [[Revolution]]
