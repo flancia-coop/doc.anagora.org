@@ -4,7 +4,9 @@
 
 ## season 3
 
-### episode 1 (11th - 18)
+### episode 1 (11th September - 18th September)
+
+- [[Mish-Mash Ecologism]] and [[The Great Unfettering]] - [[neil]]
 
 ### august special
 
