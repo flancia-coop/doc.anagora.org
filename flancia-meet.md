@@ -57,8 +57,9 @@
         - https://docs.python.org/3/library/urllib.parse.html
         - 'hello world' -> 'hello+world'
     - [[punycode]]
-        - ü -> tda (transliterated )
-        - α -> mxa
+        - ü -> tda (transliterated as ue)
+        - α -> mxa (alpha? alf?)
+        - 'To prevent hyphens in non-international domain names from triggering a Punycode decoding, the string xn-- is prepended to Punycode sequences in internationalized domain names. This is called ACE (ASCII Compatible Encoding). Thus the domain name "bücher.tld" would be represented in ASCII as "xn--bcher-kva.tld"'.
 - [[strugatsky brothers]]
 
 # #push [[flancia-meet-2022-09-09]]
