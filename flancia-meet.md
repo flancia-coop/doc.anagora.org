@@ -76,7 +76,10 @@
         - filaments in mycellium
     - [[sibling hyphae]]
         - implemented in the sidebar
-        - design mistake
+        - design mistake (maybe, in hindsight)
+        - this encouraged a certain user behaviour, where top level hyphae are category-like
+        - taxonomy / folksonomy
+        - the platonic problem of ontology
 - [[strugatsky brothers]]
 
 # #push [[flancia-meet-2022-09-09]]
