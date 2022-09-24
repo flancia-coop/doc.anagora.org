@@ -13,6 +13,7 @@
         - -> bring up one API method, likely to write to a node (so agora server ui can write through the api)
     - [[agora server]]
         - [[canonical nodes]] -> move to + / urlencoded across the board (would like to discuss)
+        - fix bug with wikipedia [[autopull]] (do not pull if the user has pulled already, I knew this didn't work but I coded it lazily anyway)
     - [[agora]]
         - update [[hypatia]] (agor.ai)
         - bring up another Agora (which one? shamanic? but I don't have repositories for that from the group yet? zero precedent maybe, or [[ogm]] as there's [[Jerry's Brain]])
