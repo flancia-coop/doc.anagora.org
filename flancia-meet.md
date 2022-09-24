@@ -60,8 +60,12 @@
         - ü -> tda (transliterated as ue)
         - α -> mxa (alpha? alf?)
         - 'To prevent hyphens in non-international domain names from triggering a Punycode decoding, the string xn-- is prepended to Punycode sequences in internationalized domain names. This is called ACE (ASCII Compatible Encoding). Thus the domain name "bücher.tld" would be represented in ASCII as "xn--bcher-kva.tld"'.
-- @syntax
-    - [[https://example.com/somewhere else]]
+- Syntax ambiguities:
+    - @syntax
+    - URLs
+        - [[https://example.com/somewhere else]]
+        - https://example.com/somewhere else
+    - [[go/somewhere else]] same thing
 - [[strugatsky brothers]]
 
 # #push [[flancia-meet-2022-09-09]]
