@@ -80,6 +80,9 @@
         - this encouraged a certain user behaviour, where top level hyphae are category-like
         - taxonomy / folksonomy
         - the platonic problem of ontology
+        - [[banana]]: a [[tree]] and a [[fruit]]. where does it go?
+        - This happens:
+            - We have a hypha called [[keyboard/microsof]]
 - [[strugatsky brothers]]
 
 # #push [[flancia-meet-2022-09-09]]
