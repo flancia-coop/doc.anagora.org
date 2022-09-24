@@ -92,7 +92,7 @@
         - [[1]], [[2]], [[3]]
         - new model (talking about events that are 6 months old or so) in mycorrhiza is more graph like
 - [[strugatsky brothers]]
-- https://mycorrhiza.wiki/hypha/mycorrhiza_wiki
+- https://melanocarpa.lesarbr.es/hypha/quadrat_48
 
 # #push [[flancia-meet-2022-09-09]]
 - Attending: [[bouncepaw]] [[flancian]]
