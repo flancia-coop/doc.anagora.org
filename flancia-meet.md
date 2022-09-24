@@ -12,11 +12,12 @@
         - -> fix twitter bot, refactor (ideally with code sharing between [[mastodon]] and [[twitter]])
         - -> bring up one API method, likely to write to a node (so agora server ui can write through the api)
     - [[agora server]]
-        - [[canonical nodes]] -> move to + / urlencoded across the board
+        - [[canonical nodes]] -> move to + / urlencoded across the board (would like to discuss)
     - [[agora]]
         - update [[hypatia]] (agor.ai)
         - bring up another Agora (which one? shamanic? but I don't have repositories for that from the group yet? zero precedent maybe, or [[ogm]] as there's [[Jerry's Brain]])
-    - 
+    - [[stoa]]
+        - oauth for hedgedoc?
 
 # #push [[flancia-meet-2022-09-09]]
 - Attending: [[bouncepaw]] [[flancian]]
