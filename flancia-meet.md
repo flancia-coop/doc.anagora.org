@@ -68,6 +68,7 @@
     - [[go/somewhere else]] same thing
     - with urlencoded canonical nodes, [[https://example.com/somewhere else]] -> [[https://example.com/somewhere else]]
     - https://anagora.org/https://example.com/somewhere-else <- broken lib
+    - if we urlencoded, that would be: https://anagora.org/https%3A%2F%2Fexample.com%2Fsomewhere+else -- which still doesn't work, although I'm surprised about it
 - [[strugatsky brothers]]
 
 # #push [[flancia-meet-2022-09-09]]
