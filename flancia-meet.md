@@ -30,7 +30,9 @@
         - there is 1:1 mapping between Agora nodes and HedgeDoc, because HedgeDoc uses slugs
         - same with Jitsi Meet, flancia-meet works as well
     - Disadvantages are:
-        - information loss
+        - information loss, it is lossy by design
+        - for example: [[free, fair and alive: the insurgent power of the commons]] -> [[free-fair-and-alive-the-insurgent-power-of-the-commons]]
+    - 
 - [[strugatsky brothers]]
 
 # #push [[flancia-meet-2022-09-09]]
