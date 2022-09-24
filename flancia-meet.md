@@ -82,7 +82,12 @@
         - the platonic problem of ontology
         - [[banana]]: a [[tree]] and a [[fruit]]. where does it go?
         - This happens:
-            - We have a hypha called [[keyboard/microsof]]
+            - We have a hypha called ‘keyboard/microsoft ergonomic 4000’
+            - Then we link it: [[keyboard/microsoft ergonomic 4000]]
+            - We don't like how it looks in the resulting text, so we change the displayed text:
+            - [[keyboard/microsoft ergonomic 4000 | microsoft ergonomic 4000]]
+            - you mean: [[microsoft ergonomic 4000]]
+            - you could say: [[microsoft ergonomic 4000]] ~ [[keyboard/microsoft ergonomic 4000]]
 - [[strugatsky brothers]]
 
 # #push [[flancia-meet-2022-09-09]]
