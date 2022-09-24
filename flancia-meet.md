@@ -37,7 +37,11 @@
         - cons:
             - in a non latin script (like cyrillic)
         - pros:
-            - https://www.rfc-editor.org/rfc/rfc3987
+            - https://www.rfc-editor.org/rfc/rfc3987 / IRIs
+    - Alternative: remain with slugs for most URLs, but preserve full query information in a query parameter
+        - /free-fair-and-alive?q="Free, Fair and Alive"
+        - [[agora search]]
+            - you want a GET method -> /search?q=what%2
 - [[strugatsky brothers]]
 
 # #push [[flancia-meet-2022-09-09]]
