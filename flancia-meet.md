@@ -73,7 +73,7 @@
     - but it seems like we could easily make them compatible
 - [[infinitely nested hyphae]]
     - a cool idea
-        - filaments in mycellium
+        - filaments in [[mycelium]]
     - [[sibling hyphae]]
         - implemented in the sidebar
         - design mistake (maybe, in hindsight)
@@ -88,6 +88,7 @@
             - [[keyboard/microsoft ergonomic 4000 | microsoft ergonomic 4000]]
             - you mean: [[microsoft ergonomic 4000]]
             - you could say: [[microsoft ergonomic 4000]] ~ [[keyboard/microsoft ergonomic 4000]]
+        - in the Agora you could write [[microsoft ergonomic 4000]] and because the node view is actually always a collection / search results list (in a way), you would get [[keyboard/microsoft ergonomic 4000]] 
 - [[strugatsky brothers]]
 
 # #push [[flancia-meet-2022-09-09]]
