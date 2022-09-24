@@ -66,6 +66,8 @@
         - [[https://example.com/somewhere else]]
         - https://example.com/somewhere else
     - [[go/somewhere else]] same thing
+    - with urlencoded canonical nodes, [[https://example.com/somewhere else]] -> [[https://example.com/somewhere else]]
+    - https://anagora.org/https://example.com/somewhere-else <- broken lib
 - [[strugatsky brothers]]
 
 # #push [[flancia-meet-2022-09-09]]
