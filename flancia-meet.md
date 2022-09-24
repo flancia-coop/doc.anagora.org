@@ -41,7 +41,8 @@
     - Alternative: remain with slugs for most URLs, but preserve full query information in a query parameter
         - /free-fair-and-alive?q="Free, Fair and Alive"
         - [[agora search]]
-            - you want a GET method -> /search?q=what%2
+            - you want a GET method -> /search?q=what%20you%20want
+            - redirects to the above
 - [[strugatsky brothers]]
 
 # #push [[flancia-meet-2022-09-09]]
