@@ -32,7 +32,12 @@
     - Disadvantages are:
         - information loss, it is lossy by design
         - for example: [[free, fair and alive: the insurgent power of the commons]] -> [[free-fair-and-alive-the-insurgent-power-of-the-commons]]
-    - 
+    - Alternative: urlencoding
+        - %20 and such
+        - cons:
+            - in a non latin script (like cyrillic)
+        - pros:
+            - https://www.rfc-editor.org/rfc/rfc3987
 - [[strugatsky brothers]]
 
 # #push [[flancia-meet-2022-09-09]]
