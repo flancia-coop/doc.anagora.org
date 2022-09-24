@@ -43,6 +43,10 @@
         - [[agora search]]
             - you want a GET method -> /search?q=what%20you%20want
             - redirects to the above
+         - [[go/whatever you want here]]
+             - -> anagora.org/whatever-you-want-here?q=whatever%20you%20want%20here
+    - Are [[IRIs]] not working in browsers? they seem to mostly work nowadays?
+    - https://ru.wikipedia.org/wiki/Заглавная_страница
 - [[strugatsky brothers]]
 
 # #push [[flancia-meet-2022-09-09]]
