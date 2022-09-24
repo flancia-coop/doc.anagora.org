@@ -89,6 +89,7 @@
             - you mean: [[microsoft ergonomic 4000]]
             - you could say: [[microsoft ergonomic 4000]] ~ [[keyboard/microsoft ergonomic 4000]]
         - in the Agora you could write [[microsoft ergonomic 4000]] and because the node view is actually always a collection / search results list (in a way), you would get [[keyboard/microsoft ergonomic 4000]] 
+        - [[1]], [[2]], [[3]]
 - [[strugatsky brothers]]
 
 # #push [[flancia-meet-2022-09-09]]
