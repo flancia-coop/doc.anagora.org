@@ -94,6 +94,7 @@
 - [[strugatsky brothers]]
 - https://melanocarpa.lesarbr.es/hypha/quadrat_48
 - https://github.com/bouncepaw/mycorrhiza/blob/master/static/shortcuts.js
+- https://github.com/madrobby/zepto [[zepto]] is a drop-in replacement for [[jquery]]
 
 # #push [[flancia-meet-2022-09-09]]
 - Attending: [[bouncepaw]] [[flancian]]
