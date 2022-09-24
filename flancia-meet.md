@@ -23,7 +23,14 @@
             - There was supposed to be a plugin (or fork?) of [[etherpad]] supporting [[wikilinks]] but I never found it.
 - [[slugging]]
     - 'Hello World!' -> 'hello-world'
-    - s/[ !\?^/-/
+    - s/[ !\?^]+/-/g
+    - [[Flancia meet]] is https://anagora.org/flancia-meet
+    - I liked this a lot when starting, made things easier. The advantages are:
+        - mapping between web apps
+        - there is 1:1 mapping between Agora nodes and HedgeDoc, because HedgeDoc uses slugs
+        - same with Jitsi Meet, flancia-meet works as well
+    - Disadvantages are:
+        - information loss
 - [[strugatsky brothers]]
 
 # #push [[flancia-meet-2022-09-09]]
