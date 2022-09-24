@@ -71,6 +71,12 @@
     - if we urlencoded, that would be: https://anagora.org/https%3A%2F%2Fexample.com%2Fsomewhere+else -- which still doesn't work, although I'm surprised about it
 - [[x/y]] in [[mycorrhiza]] and [[agora]] behaves very differently
     - but it seems like we could easily make them compatible
+- [[infinitely nested hyphae]]
+    - a cool idea
+        - filaments in mycellium
+    - [[sibling hyphae]]
+        - implemented in the sidebar
+        - design mistake
 - [[strugatsky brothers]]
 
 # #push [[flancia-meet-2022-09-09]]
