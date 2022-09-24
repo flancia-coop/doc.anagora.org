@@ -6,6 +6,13 @@
 - Attending: [[bouncepaw]] [[flancian]]
 - [[computer typesetting]]
     - [[latex]] ~ [[LaTeX]]
+- [[planning]]
+    - [[agora bridge]]
+        - -> fix twitter bot, refactor (ideally with code sharing between mastodon and twitter)
+        - -> bring up one API method, likely to write to a node (so agora server ui can write through the api)
+    - [[agora server]]
+        - [[canonical nodes]]
+        - 
 
 # #push [[flancia-meet-2022-09-09]]
 - Attending: [[bouncepaw]] [[flancian]]
