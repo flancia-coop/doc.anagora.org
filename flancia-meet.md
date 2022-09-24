@@ -21,6 +21,7 @@
         - oauth for hedgedoc?
         - I sometimes miss the simplicity of [[etherpad]] (also thinking of Microsoft Word / [[WYSIWYG]])
             - There was supposed to be a plugin (or fork?) of [[etherpad]] supporting [[wikilinks]] but I never found it.
+- [[strugatsky brothers]]
 
 # #push [[flancia-meet-2022-09-09]]
 - Attending: [[bouncepaw]] [[flancian]]
