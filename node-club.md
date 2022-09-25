@@ -4,6 +4,10 @@
 
 ## season 3
 
+### episode 2 (18th September - 25th September)
+
+- [[Moving towards an ecological Leninism]] - [[neil]]
+
 ### episode 1 (11th September - 18th September)
 
 - [[Mish-Mash Ecologism]] and [[The Great Unfettering]] - [[neil]]
