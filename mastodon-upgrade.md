@@ -2,6 +2,8 @@
 
 This is a short writeup on how the [[social.coop]] [[tech working group]] could upgrade and improve our Mastodon instance as of [[Q4 2022]].
 
+Self: anagora.org/mastodon-upgrade.
+
 ## Objectives
 
 - Detail how we plan to perform a Mastodon minor version upgrade safely, and how we plan to keep our instance up to date.
@@ -20,4 +22,4 @@ This is a short writeup on how the [[social.coop]] [[tech working group]] could 
 
 ## Hometown
 
-We would like to run [[Hometown as a]]
+We would like to run [[Hometown]] as a separate instance, as an experiment. Ideally this would still be done in a way that we can import our existing instance data into it without disrupting federation.
