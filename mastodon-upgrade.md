@@ -2,7 +2,7 @@
 
 This is a short writeup on how the [[social.coop]] [[tech working group]] could upgrade and improve our Mastodon instance as of [[Q4 2022]].
 
-Self: anagora.org/mastodon-upgrade.
+Canonical URL: https://anagora.org/mastodon-upgrade.
 
 ## Objectives
 
