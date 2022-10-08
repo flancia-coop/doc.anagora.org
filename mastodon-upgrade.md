@@ -4,17 +4,24 @@ This is a short writeup on how the [[social.coop]] [[tech working group]] could 
 
 Canonical URL: https://anagora.org/mastodon-upgrade.
 
-## Objectives
+# Goals
 
-- Detail how we plan to perform a Mastodon minor version upgrade safely, and how we plan to keep our instance up to date.
+- Detail how we plan to perform a Mastodon minor version upgrade safely, and how we plan to keep our instance up to date after that.
 - Detail how we plan to experiment with new versions and mods without disrupting the social.coop community unnecessarily.
-- Consider adopting [[Hometown]], a promising Mastodon fork.
+- Detail how we could adopt [[Hometown]], a promising [[Mastodon]] fork.
+  - #todo There is a new promising fork that was recently boosted, look up the name and include it here as an option.
+  
+# Plan
 
-## Upgrade
+## Minor upgrade
 
 - Link to existing upgrade procedures here.
     - Mastodon Official.
     - Those gotten from our predecessors :)
+
+## Recurring update schedule
+- 
+
 
 ## Backups and restores
 
