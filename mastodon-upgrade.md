@@ -17,7 +17,7 @@ Canonical URL: https://anagora.org/mastodon-upgrade.
 
 - We will create a proposal in [[loomio]] to spend a monthly sum paying for a [[secondary server]] to  [[runko]].
 
-## Minor upgrade
+## Mastodon upgrades
 
 - Link to existing upgrade procedures here.
     - Mastodon Official.
@@ -40,6 +40,12 @@ These are a prerequisite to safely running social.coop for the community. We mus
 
 #todo Link to the procedures, stress the current source of truth.
 
-## Hometown
+## Experiments
+
+### Hometown
 
 We would like to run [[Hometown]] as a separate instance, as an experiment. Ideally this would still be done in a way that we can import our existing instance data into it without disrupting federation.
+
+### Matrix
+
+There has been interest in running a [[Matrix]] instance (#todo link). If we had a secondary server and thus could achieve a reasonable primary/secondary hot spare setup for arbitrary services, we'd be more comfortable running more services for the community.
