@@ -21,8 +21,8 @@ Canonical URL: https://anagora.org/mastodon-upgrade.
 
 - #todo Link to existing upgrade procedures here.
   - Those we found in the [[twg]].
-  - Mastodon Official.
-  - Those gotten from our predecessors :)
+  - The Mastodon Official ones.
+  - Those gotten from our predecessors through the social.coop thread :)
 
 ## Recurring update schedule
 
@@ -32,6 +32,8 @@ It's a loop of:
 - Maybe upgrade [[postgres]] or another dependency.
 - Put the instance in [[maintenance mode]].
 - Upgrade the instance proper.
+
+The [[work schedule]] we got from the previous members of the [[twg]] is at https://git.coop/social.coop/tech/operations/-/wikis/jobs.
 
 #todo look at the Mastodon/Hometown update cadence and plan accordingly; if it's roughly monthly schedule a monthly run.
 
