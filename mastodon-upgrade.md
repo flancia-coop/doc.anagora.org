@@ -32,6 +32,9 @@ Our highest user-visible priority is to keep the [[Mastodon]] instance behind ht
   - Those we found in the [[twg]].
     -> https://git.coop/social.coop/tech/operations#mastodon-upgrade-notes
   - The Mastodon Official ones.
+    -> https://github.com/mastodon/mastodon/releases
+      - As of the time of writing, https://social.coop is running version [[3.4.6]].
+      - As of the time of writing, the latest Mastodon release is version [[3.5.3]].
   - Those gotten from our predecessors through the social.coop thread :)
 
 ### Recurring update schedule
