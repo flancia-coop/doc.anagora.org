@@ -4,7 +4,7 @@ This is a writeup on how the [[social coop tech group]] plans to upgrade and imp
 
 Canonical URL: https://anagora.org/mastodon-upgrade.
 
-For more documentation from the working group, please refer to node [[TWG]] or.
+For more documentation from the working group, please refer to node [[TWG]] or [[social coop tech group]].
 
 # Goals
 
@@ -54,9 +54,10 @@ Linking is sparse for now; https://git.coop/social.coop/tech/operations#mastodon
 
 ## Backups and restores
 
-Our highest priority is to test backups and restores. These are a prerequisite to make any changes to our setup, and indeed for safely running https://social.coop for the community. We must maintain a reasonable certainty that we would be able to bootstrap a replacement setup with minimal data loss in a bounded amount of time.
+Our highest overall priority is to test backups and restores. These are a prerequisite to make any changes to our setup, and indeed for safely running https://social.coop for the community. We must maintain a reasonable certainty that we would be able to bootstrap a replacement setup with minimal data loss in a bounded amount of time.
 
-#todo Link to the procedures, state the current source of truth for procedures.
+Tech procedures are kept mainly in the [[go/twg/wiki]].
+
 
 ## Experiments
 
