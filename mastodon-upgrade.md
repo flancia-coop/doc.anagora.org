@@ -60,11 +60,15 @@ In addition to keeping the lights out, we would like to explore possible [[impro
 
 We would like to run [[Hometown]] as a separate instance (defining this), as an experiment. 
 
-We could do this on e.g. https://town.social.coop, bootstrapping a read only instance at first off database restores.
+We could do this on e.g. https://town.social.coop, bootstrapping an instance. This could be done in two ways:
 
-Ideally in the medium term users could:
+- Set up a read only instance off database restores, read only meaning also with federation off.
+- Set up a new instance where users can sign up for independent profiles to test drive the 
 
-- Vote on whether we want to move to [[Hometown]] as ourchoose whether their host their profile 
+In the medium term (after a set experimentation phase) users could:
+
+- Vote on whether we want to move to [[Hometown]] as the software serving their social.coop [[Fediverse]] profiles (easy-ish).
+- Choose whether to host their profile on Mastodon or Hometown (hard, maybe too convoluted).
 
 This would of course need to be done in a way that preserves instance data. Easier: run it as read only, federation off, off a database restore. Ideally in the long term users might be able to choose whether they host their @social.coop profile in Mastodon or 
 
