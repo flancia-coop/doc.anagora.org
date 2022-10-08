@@ -25,15 +25,20 @@ Canonical URL: https://anagora.org/mastodon-upgrade.
 
 ## Recurring update schedule
 
-- It's a loop of: 
-  - Testing backups.
-  - Maybe upgrading [[postgres]] or another dependency.
-  - Bri
+It's a loop of: 
 
+- Test backups.
+- Maybe upgrade [[postgres]] or another dependency.
+- Put the instance in [[maintenance mode]].
+- Upgrade the instance proper.
+
+#todo look at the Mastodon/Hometown update cadence and plan accordingly; if it's roughly monthly schedule a monthly run.
 
 ## Backups and restores
 
-- Link to those procedures as well.
+These are a prerequisite to safely running social.coop for the community. We must maintain a reasonable certainty that we would be able to bootstrap a replacement setup with minimal data loss in a bounded amount of time.
+
+#todo Link to the procedures, stress the current source of truth.
 
 ## Hometown
 
