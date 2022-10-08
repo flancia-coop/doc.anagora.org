@@ -13,6 +13,10 @@ Canonical URL: https://anagora.org/mastodon-upgrade.
   
 # Plan
 
+## Organizational
+
+- We will create a proposal in [[loomio]] to spend a monthly sum paying for a [[secondary server]] to  [[runko]].
+
 ## Minor upgrade
 
 - Link to existing upgrade procedures here.
@@ -20,7 +24,11 @@ Canonical URL: https://anagora.org/mastodon-upgrade.
     - Those gotten from our predecessors :)
 
 ## Recurring update schedule
-- 
+
+- It's a loop of: 
+  - Testing backups.
+  - Maybe upgrading [[postgres]] or another dependency.
+  - Bri
 
 
 ## Backups and restores
