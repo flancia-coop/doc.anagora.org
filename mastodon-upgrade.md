@@ -10,9 +10,9 @@ For more documentation from the working group, please refer to node [[TWG]].
 
 - Detail how we plan to perform Mastodon minor version upgrades safely, and how we plan to keep our instance up to date after that.
 - Detail how we plan to experiment with new versions and mods without unnecessarily disrupting the [[social.coop]] community.
-- Detail how we could evaluate and potentially adopt [[Hometown]], a promising [[Mastodon]] fork, or some other like .
-  - #todo There is a new promising fork that was recently boosted, look up the name and include it here as an option.
-- Detail how the [[social coop tech group]] plans to run this project and others like it.
+- Detail how we could evaluate and potentially adopt [[Hometown]], a promising [[Mastodon]] fork.
+  - Extend this to other promising forks like [[Smalltown]], or alternate codebases such as [[Pleroma]].
+- (Meta) Communicate to the community how the [[social coop tech group]] plans to run this project and others like it.
   
 # Plan
 
@@ -21,7 +21,8 @@ For more documentation from the working group, please refer to node [[TWG]].
 This section covers prerequisites for the work being undertaken below coming to fruition. Our intention is to do the needful to ensure that our community's well being and stated preferences are prioritized.
 
 - We will create a proposal in [[loomio]] to spend a monthly sum paying for a [[secondary server]] to  [[runko]].
-- We will define [[sources of truth]] for shared projects undertaken by the [[twg]], including [[channels]] to communicate with members of the [[social coop tech group]] and otherwise influencing the process.
+- We will define [[sources of truth]] for shared projects undertaken by the [[TWG]], including [[channels]] to communicate with members of the [[social coop tech group]] and otherwise influencing the process.
+- We will report back to the community on progress, by default [[monthly]].
 
 ## Mastodon upgrades
 
