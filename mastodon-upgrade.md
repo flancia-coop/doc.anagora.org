@@ -58,11 +58,15 @@ In addition to keeping the lights out, we would like to explore possible [[impro
 
 ### Hometown
 
-We would like to run [[Hometown]] as a separate instance, as an experiment. 
+We would like to run [[Hometown]] as a separate instance (defining this), as an experiment. 
 
-We could do this by running something like https://alpha.social.coop, which would be the 'bleeding edge' (what we plan to ship to users by default at some later point). 
+We could do this on e.g. https://town.social.coop, bootstrapping a read only instance at first off database restores.
 
-This would of course need to be done in a way that preserves instance data. Easier: run it as read only, federation off, off a database restore. import our existing instance data into it without disrupting federation. Ideally
+Ideally in the medium term users could:
+
+- Vote on whether we want to move to [[Hometown]] as ourchoose whether their host their profile 
+
+This would of course need to be done in a way that preserves instance data. Easier: run it as read only, federation off, off a database restore. Ideally in the long term users might be able to choose whether they host their @social.coop profile in Mastodon or 
 
 ### Matrix
 
