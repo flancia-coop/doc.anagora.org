@@ -56,16 +56,15 @@ Linking is sparse for now; https://git.coop/social.coop/tech/operations#mastodon
 
 Our highest overall priority is to test backups and restores. These are a prerequisite to make any changes to our setup, and indeed for safely running https://social.coop for the community. We must maintain a reasonable certainty that we would be able to bootstrap a replacement setup with minimal data loss in a bounded amount of time.
 
-Tech procedures are kept mainly in the [[go/twg/wiki]].
-
+Tech procedures are kept mainly in [[go/twg/wiki]].
 
 ## Experiments
 
-In addition to keeping the lights out, we would like to explore possible [[improvements]] to the services run by and for [[social coop]].
+In addition to keeping the lights out, we would like to explore other possible [[upgrades]] and [[improvements]] to the services run by and for [[social coop]].
 
 ### Hometown
 
-We would like to run [[Hometown]] as a separate instance (defining this), as an experiment.  
+We would like to trial [[Hometown]] as an improvement over the default [[Mastodon]] experience. We could start by running it as a separate instance. The rest of this section tries to detail how we would go  as an experiment. 
 
 We could do this on e.g. https://town.social.coop, bootstrapping a parallel instance. This could be done in two ways:
 
