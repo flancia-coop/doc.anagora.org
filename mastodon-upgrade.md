@@ -16,12 +16,14 @@ Canonical URL: https://anagora.org/mastodon-upgrade.
 
 ## Organizational, meta
 
-This section covers prerequisites for the work being undertaken below coming to fruition. Our intention is to do the needful to ensure that our community's well being and stapreferences are prioritized.
+This section covers prerequisites for the work being undertaken below coming to fruition. Our intention is to do the needful to ensure that our community's well being and stated preferences are prioritized.
 
 - We will create a proposal in [[loomio]] to spend a monthly sum paying for a [[secondary server]] to  [[runko]].
-- We will define a [[source of truth]] for shared projects understaken by the [[twg]] like this one.
+- We will define [[sources of truth]] for shared projects undertaken by the [[twg]], including [[channels]] to communicate with members of the [[social coop tech group]] and otherwise influencing the process.
 
 ## Mastodon upgrades
+
+Our highest user-visible priority is to keep the [[Mastodon]] instance behind https://social.coop running smoothly.
 
 - #todo Link to existing upgrade procedures here; then integrate them into a single source of truth, inline or linked.
   - Those we found in the [[twg]].
@@ -29,7 +31,7 @@ This section covers prerequisites for the work being undertaken below coming to 
   - The Mastodon Official ones.
   - Those gotten from our predecessors through the social.coop thread :)
 
-## Recurring update schedule
+### Recurring update schedule
 
 It's a loop of: 
 
@@ -46,11 +48,13 @@ Linking is sparse for now; https://git.coop/social.coop/tech/operations#mastodon
 
 ## Backups and restores
 
-These are a prerequisite to safely running social.coop for the community. We must maintain a reasonable certainty that we would be able to bootstrap a replacement setup with minimal data loss in a bounded amount of time.
+Our highest priority is to test backups and restores. These are a prerequisite to make any changes to our setup, and indeed for safely running https://social.coop for the community. We must maintain a reasonable certainty that we would be able to bootstrap a replacement setup with minimal data loss in a bounded amount of time.
 
-#todo Link to the procedures, stress the current source of truth.
+#todo Link to the procedures, state the current source of truth for procedures.
 
 ## Experiments
+
+In addition to keeping the lights out, 
 
 ### Hometown
 
