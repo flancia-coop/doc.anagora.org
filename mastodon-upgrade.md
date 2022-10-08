@@ -19,9 +19,10 @@ Canonical URL: https://anagora.org/mastodon-upgrade.
 
 ## Mastodon upgrades
 
-- Link to existing upgrade procedures here.
-    - Mastodon Official.
-    - Those gotten from our predecessors :)
+- #todo Link to existing upgrade procedures here.
+  - Those we found in the [[twg]].
+  - Mastodon Official.
+  - Those gotten from our predecessors :)
 
 ## Recurring update schedule
 
