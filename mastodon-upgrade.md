@@ -10,17 +10,20 @@ Canonical URL: https://anagora.org/mastodon-upgrade.
 - Detail how we plan to experiment with new versions and mods without disrupting the social.coop community unnecessarily.
 - Detail how we could adopt [[Hometown]], a promising [[Mastodon]] fork.
   - #todo There is a new promising fork that was recently boosted, look up the name and include it here as an option.
+- Declare how the [[social coop tech group]] plans to run this project and others like it.
   
 # Plan
 
 ## Organizational
 
 - We will create a proposal in [[loomio]] to spend a monthly sum paying for a [[secondary server]] to  [[runko]].
+- We will define a [[source of truth]] for shared projects understaken by the [[twg]] like this one.
 
 ## Mastodon upgrades
 
-- #todo Link to existing upgrade procedures here.
+- #todo Link to existing upgrade procedures here; then integrate them into a single source of truth, inline or linked.
   - Those we found in the [[twg]].
+    -> https://git.coop/social.coop/tech/operations#mastodon-upgrade-notes
   - The Mastodon Official ones.
   - Those gotten from our predecessors through the social.coop thread :)
 
@@ -34,6 +37,8 @@ It's a loop of:
 - Upgrade the instance proper.
 
 The [[work schedule]] we got from the previous members of the [[twg]] is at https://git.coop/social.coop/tech/operations/-/wikis/jobs.
+
+Linking is sparse for now; https://git.coop/social.coop/tech/operations#mastodon-upgrade-notes exists, for example, but the link to [[mastodon upgrade]] in the link above leads nowhere.
 
 #todo look at the Mastodon/Hometown update cadence and plan accordingly; if it's roughly monthly schedule a monthly run.
 
