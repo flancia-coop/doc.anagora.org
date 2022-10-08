@@ -54,11 +54,15 @@ Our highest priority is to test backups and restores. These are a prerequisite t
 
 ## Experiments
 
-In addition to keeping the lights out, 
+In addition to keeping the lights out, we would like to explore possible [[improvements]] to the services run by and for [[social coop]].
 
 ### Hometown
 
-We would like to run [[Hometown]] as a separate instance, as an experiment. Ideally this would still be done in a way that we can import our existing instance data into it without disrupting federation.
+We would like to run [[Hometown]] as a separate instance, as an experiment. 
+
+We could do this by running something like https://alpha.social.coop, which would be the 'bleeding edge' (what we plan to ship to users by default at some later point). 
+
+This would of course need to be done in a way that preserves instance data. Easier: run it as read only, federation off, off a database restore. import our existing instance data into it without disrupting federation. Ideally
 
 ### Matrix
 
