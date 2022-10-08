@@ -47,17 +47,15 @@ It's a loop of:
 - Put the instance in [[maintenance mode]].
 - Upgrade the instance proper.
 
-The [[work schedule]] we got from the previous members of the [[twg]] is at https://git.coop/social.coop/tech/operations/-/wikis/jobs.
+The [[work schedule]] we got from the previous members of the [[twg]] is at https://git.coop/social.coop/tech/operations/-/wikis/jobs. Linking is sparse for now; https://git.coop/social.coop/tech/operations#mastodon-upgrade-notes exists, for example, but the link to [[mastodon upgrade]] leads nowhere currently.
 
-Linking is sparse for now; https://git.coop/social.coop/tech/operations#mastodon-upgrade-notes exists, for example, but the link to [[mastodon upgrade]] in the link above leads nowhere.
-
-#todo look at the Mastodon/Hometown update cadence and plan accordingly; if it's roughly monthly schedule a monthly run.
+We should look at the Mastodon/Hometown update cadence and plan accordingly; if it's roughly monthly on average, schedule a monthly run. As detailed in the section above, we are currently eight months behind on releases.
 
 ## Backups and restores
 
-Our highest overall priority is to test backups and restores. These are a prerequisite to make any changes to our setup, and indeed for safely running https://social.coop for the community. We must maintain a reasonable certainty that we would be able to bootstrap a replacement setup with minimal data loss in a bounded amount of time.
+Our highest overall priority is actually to test backups and restores. These are a prerequisite to make any changes to our setup, and indeed for safely running https://social.coop for the community. We must maintain a reasonable certainty that we would be able to bootstrap a replacement setup with minimal data loss in a bounded amount of time.
 
-Tech procedures are kept mainly in [[go/twg/wiki]].
+Tech procedures are kept mainly in [[go/twg/wiki]]. 
 
 ## Experiments
 
