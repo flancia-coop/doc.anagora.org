@@ -1,6 +1,6 @@
 # Mastodon Upgrade Plan
 
-This is a short writeup on how the [[social.coop]] [[tech working group]] could upgrade and improve our Mastodon instance as of [[Q4 2022]].
+This is a writeup on how the [[social.coop]] [[tech working group]] could upgrade and improve our Mastodon instance, and potentially offer the community  new services as of [[Q4 2022]].
 
 Canonical URL: https://anagora.org/mastodon-upgrade.
 
@@ -58,19 +58,14 @@ In addition to keeping the lights out, we would like to explore possible [[impro
 
 ### Hometown
 
-We would like to run [[Hometown]] as a separate instance (defining this), as an experiment. 
+We would like to run [[Hometown]] as a separate instance (defining this), as an experiment.  
 
-We could do this on e.g. https://town.social.coop, bootstrapping an instance. This could be done in two ways:
+We could do this on e.g. https://town.social.coop, bootstrapping a parallel instance. This could be done in two ways:
 
-- Set up a read only instance off database restores, read only meaning also with federation off.
-- Set up a new instance where users can sign up for independent profiles to test drive the 
+- Set up a read only instance off database restores, read only meaning also with federation off. Let users play with it and reach a conclusion on whether they are interested in the change.
+- Set up a new instance where users can sign up for independent profiles to fully test drive [[Hometown]] also as a writing/local collaboration/governance platform.
 
-In the medium term (after a set experimentation phase) users could:
-
-- Vote on whether we want to move to [[Hometown]] as the software serving their social.coop [[Fediverse]] profiles (easy-ish).
-- Choose whether to host their profile on Mastodon or Hometown (hard, maybe too convoluted).
-
-This would of course need to be done in a way that preserves instance data. Easier: run it as read only, federation off, off a database restore. Ideally in the long term users might be able to choose whether they host their @social.coop profile in Mastodon or 
+In the medium term (after a set experimentation phase) users would vote on whether they want to move to [[Hometown]] as the software serving their social.coop [[Fediverse]] profiles.
 
 ### Matrix
 
