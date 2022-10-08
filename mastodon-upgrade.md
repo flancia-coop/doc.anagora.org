@@ -1,10 +1,10 @@
-# Social Upgrade Plan
+# Mastodon Upgrade Plan
 
-This is a writeup on how the [[social.coop]] [[tech working group]] could upgrade and improve our Mastodon instance, and potentially offer the community new services, as of the time of writing ([[Q4 2022]]).
+This is a writeup on how the [[social coop tech group]] plans to upgrade and improve our Mastodon instance, and potentially offer the community new services, as of the time of writing ([[Q4 2022]]).
 
 Canonical URL: https://anagora.org/mastodon-upgrade.
 
-For more documentation from the working group, please refer to node [[TWG]].
+For more documentation from the working group, please refer to node [[TWG]] or.
 
 # Goals
 
@@ -35,7 +35,7 @@ Our highest user-visible priority is to keep the [[Mastodon]] instance behind ht
     -> https://github.com/mastodon/mastodon/releases
       - As of the time of writing, https://social.coop is running version [[3.4.6]] (eight months old). Latest is [[3.5.3]].
   - Those gotten from our predecessors through the social.coop thread :)
-    -> https://social.coop/web/statuses/109080658507991367
+    -> https://social.coop/web/statuses/109080658507991367 points to https://git.coop/social.coop/tech/operations#mastodon-upgrade-notes, so we found what we have it seems :)
 
 ### Recurring update schedule
 
