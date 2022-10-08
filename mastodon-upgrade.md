@@ -10,11 +10,13 @@ Canonical URL: https://anagora.org/mastodon-upgrade.
 - Detail how we plan to experiment with new versions and mods without disrupting the social.coop community unnecessarily.
 - Detail how we could adopt [[Hometown]], a promising [[Mastodon]] fork.
   - #todo There is a new promising fork that was recently boosted, look up the name and include it here as an option.
-- Declare how the [[social coop tech group]] plans to run this project and others like it.
+- Detail how the [[social coop tech group]] plans to run this project and others like it.
   
 # Plan
 
-## Organizational
+## Organizational, meta
+
+This section covers prerequisites for the work being undertaken below coming to fruition. Our intention is to do the needful to ensure that our community's well being and stapreferences are prioritized.
 
 - We will create a proposal in [[loomio]] to spend a monthly sum paying for a [[secondary server]] to  [[runko]].
 - We will define a [[source of truth]] for shared projects understaken by the [[twg]] like this one.
