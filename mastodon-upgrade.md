@@ -1,14 +1,16 @@
-# Mastodon Upgrade Plan
+# Social Upgrade Plan
 
-This is a writeup on how the [[social.coop]] [[tech working group]] could upgrade and improve our Mastodon instance, and potentially offer the community  new services as of [[Q4 2022]].
+This is a writeup on how the [[social.coop]] [[tech working group]] could upgrade and improve our Mastodon instance, and potentially offer the community new services, as of the time of writing ([[Q4 2022]]).
 
 Canonical URL: https://anagora.org/mastodon-upgrade.
 
+For more documentation from the working group, please refer to node [[TWG]].
+
 # Goals
 
-- Detail how we plan to perform a Mastodon minor version upgrade safely, and how we plan to keep our instance up to date after that.
-- Detail how we plan to experiment with new versions and mods without disrupting the social.coop community unnecessarily.
-- Detail how we could adopt [[Hometown]], a promising [[Mastodon]] fork.
+- Detail how we plan to perform Mastodon minor version upgrades safely, and how we plan to keep our instance up to date after that.
+- Detail how we plan to experiment with new versions and mods without unnecessarily disrupting the [[social.coop]] community.
+- Detail how we could evaluate and potentially adopt [[Hometown]], a promising [[Mastodon]] fork, or some other like .
   - #todo There is a new promising fork that was recently boosted, look up the name and include it here as an option.
 - Detail how the [[social coop tech group]] plans to run this project and others like it.
   
