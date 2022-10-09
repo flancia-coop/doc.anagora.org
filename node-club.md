@@ -4,6 +4,10 @@
 
 ## season 3
 
+### episode 4 (2nd October - 9th October)
+
+- [[The Utopian Internet, Computing, Communication, and Concrete Utopias]] - [[neil]]
+
 ### episode 2 (18th September - 25th September)
 
 - [[Moving towards an ecological Leninism]] - [[neil]]
