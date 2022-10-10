@@ -78,6 +78,8 @@ There has been interest in running a [[Matrix]] instance (#todo link). If we had
 
 # Alternatives considered
 
-## [[coop cloud]]
+## [[Coop Cloud]]
 
-- We could
+We could build on top of https://coopcloud.tech/ instead of running our own stack. This requires further exploration.
+
+It could be a good idea to run an experiment on Coop Cloud and trying to provide one of the additional services being considered, like [[Matrix]].
