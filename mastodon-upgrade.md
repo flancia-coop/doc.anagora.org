@@ -53,9 +53,9 @@ We should look at the Mastodon/Hometown update cadence and plan accordingly; if 
 
 ## Backups and restores
 
-Our highest overall priority is actually to test backups and restores. These are a prerequisite to make any changes to our setup, and indeed for safely running https://social.coop for the community. We must maintain a reasonable certainty that we would be able to bootstrap a replacement setup with minimal data loss in a bounded amount of time (low T)
+Our highest overall priority is actually to test backups and restores. These are a prerequisite to make any changes to our setup, and indeed for safely running https://social.coop for the community. We must maintain a reasonable certainty that we would be able to bootstrap a replacement setup with minimal data loss in a bounded amount of time (low *Time To Restore*.)
 
-Tech procedures are kept mainly in [[go/twg/wiki]]. 
+Tech procedures are kept mainly in [[go/twg/wiki]].
 
 ## Experiments
 
