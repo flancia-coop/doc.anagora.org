@@ -75,3 +75,9 @@ In the medium term (after a set experimentation phase) users would vote on wheth
 ### Matrix
 
 There has been interest in running a [[Matrix]] instance (#todo link). If we had a secondary server and thus could achieve a reasonable primary/secondary hot spare setup for arbitrary services, we'd be more comfortable running more services for the community.
+
+# Alternatives considered
+
+## [[coop cloud]]
+
+- We could
