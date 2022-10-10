@@ -5,7 +5,7 @@ This is a writeup on how the [[social coop tech group]] plans to upgrade and imp
 For more documentation from the working group, please refer to node [[TWG]] or [[social coop tech group]].
 
 - Canonical URL: https://anagora.org/mastodon-upgrade.
-- Authors: [[flancian]], your_name_here (this document is open to the public).
+- Authors: [[flancian]], [[edsu]], your_name_here (this document is open to the public).
 
 # Goals
 
@@ -82,4 +82,4 @@ There has been interest in running a [[Matrix]] instance (#todo link). If we had
 
 We could build on top of https://coopcloud.tech/ instead of running our own stack. This requires further exploration.
 
-It could be a good idea to run an experiment on Coop Cloud and trying to provide one of the additional services being considered, like [[Matrix]].
+If we go this way, it could be a good idea to experiment first with one of the additional services being considered, like [[Matrix]], instead of trying to replace already-core functionality.
