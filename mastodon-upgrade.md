@@ -82,4 +82,4 @@ There has been interest in running a [[Matrix]] instance (#todo link). If we had
 
 We could build on top of https://coopcloud.tech/ instead of running our own stack. This requires further exploration.
 
-If we go this way, it could be a good idea to experiment first with one of the additional services being considered, like [[Matrix]], instead of trying to replace already-core functionality.
+If we go this way, it could be a good idea to experiment first on this stack with one of the additional services being considered, like [[Matrix]], instead of trying to replace already-core functionality like Mastodon.
