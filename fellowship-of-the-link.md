@@ -56,6 +56,9 @@
         - [[work]]
         - [[flancia]]
             - [[agora]]
+                - [[pkg book]]
+                    - [[chris aldrich]]
+                        - about the terms of the book
 
 
 
