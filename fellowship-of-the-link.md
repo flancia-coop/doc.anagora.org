@@ -56,10 +56,11 @@
         - [[work]]
         - [[flancia]]
             - [[agora]]
-                - [[pkg book]]
+                - [[pkg book]] -- just got back feedback 
                     - [[chris aldrich]]
                         - About the terms of the book: they're using an academic publishing model, very little benefit for the writers
                         - Looks like the publisher is https://exapt.press
+                    - #jm if you were to create a version of this book that was more interesting, what would it look like?
 
 
 
