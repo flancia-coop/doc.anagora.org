@@ -59,8 +59,10 @@
                 - [[pkg book]] -- just got back feedback 
                     - [[chris aldrich]]
                         - About the terms of the book: they're using an academic publishing model, very little benefit for the writers
-                        - Looks like the publisher is https://exapt.press
+                        - (Looks like the publisher is https://exapt.press)
+                        - Chris is likely dropping out
                     - #jm if you were to create a version of this book that was more interesting, what would it look like?
+                        - [[aram]] maybe doctorow-like?
 
 
 
