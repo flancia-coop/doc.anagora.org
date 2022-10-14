@@ -65,7 +65,10 @@
                         - [[aram]] maybe doctorow-like?
                 - [[agora]] 2nd anniversary on [[2022-11-15]]
     - [[chris aldrich]]
+        - interested in [[cosma]]
+            - (this led to a very interesting overview of promising tools)
     - [[bentley]]
+        - list of [[tools for thought ]]
 
 
 
