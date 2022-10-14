@@ -67,8 +67,18 @@
     - [[chris aldrich]]
         - interested in [[cosma]]
             - (this led to a very interesting overview of promising tools)
+        - [[kosmik]]
+        - [[fermat]]
+        - [[codex editor]] ~ [[standoff properties]]
+        - [[tana]]
+          - [[open enough]] as a risk
+          - #jm vs [[plausible promise]] of [[open source]]
     - [[bentley]]
-        - list of [[tools for thought ]]
+        - list of [[tools for thought]]
+        - [[canonical debate lab]]
+            - [[debate tools]] ~ [[tools for thought]] in some perspective
+    - [[jerry michalski]]
+        - one week in a conference called [[unfinished]]
 
 
 
