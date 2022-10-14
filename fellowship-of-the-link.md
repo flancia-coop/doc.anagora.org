@@ -85,6 +85,10 @@
         - [[policy keys]] is trying to gamify policy discussions
             - deconstructing arguments into pros and cons
             - [[bottleneck issues]], [[hot issues]]
+    - [[aram zucker scharff]]
+        - mostly real life work since last time :)
+        - work in the privacy space; GDPR, Virginia and California privacy regulations. Have been reading lots of documents.
+        - spotted an interesting project
 
 
 
