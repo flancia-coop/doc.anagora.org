@@ -58,7 +58,7 @@
             - [[agora]]
                 - [[pkg book]]
                     - [[chris aldrich]]
-                        - about the terms of the book
+                        - about the terms of the book: they're using an academic publishing model, very little benefit for the writers
 
 
 
