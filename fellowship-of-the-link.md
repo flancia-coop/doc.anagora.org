@@ -92,6 +92,8 @@
         - working on an archival tool for tweets, dealing with the issue that [[an increasing amount of people are deleting old tweets]], and also with styling issues
         - [[flancian]] maybe check out [[nitter]] code
         - wdyt about [[threader]] (app)?
+- possible time/day of the week for the next call?
+    - [[aram]] Friday at 
 
 
 
