@@ -89,6 +89,7 @@
         - mostly real life work since last time :)
         - work in the privacy space; GDPR, Virginia and California privacy regulations. Have been reading lots of documents.
         - spotted an interesting project
+        - working on an archival tool for tweets, dealing with the issue that [[an increasing amount of people are deleting old tweets]]
 
 
 
