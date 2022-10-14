@@ -63,6 +63,9 @@
                         - Chris is likely dropping out
                     - #jm if you were to create a version of this book that was more interesting, what would it look like?
                         - [[aram]] maybe doctorow-like?
+                - [[agora]] anniversary
+    - [[chris aldrich]]
+    - [[bentley]]
 
 
 
