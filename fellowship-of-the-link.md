@@ -63,7 +63,7 @@
                         - Chris is likely dropping out
                     - #jm if you were to create a version of this book that was more interesting, what would it look like?
                         - [[aram]] maybe doctorow-like?
-                - [[agora]] 2nd anniversary on [[2022-11-15]]
+                - [[agora]] 2nd anniversary on ~[[2022-11-15]]
     - [[chris aldrich]]
         - interested in [[cosma]]
             - (this led to a very interesting overview of promising tools)
@@ -79,6 +79,9 @@
             - [[debate tools]] ~ [[tools for thought]] in some perspective
     - [[jerry michalski]]
         - one week in a conference called [[unfinished]]
+          - very interesting Brazilians, including [[Macul]]
+          - [[keynote]] [[trust is the only way forward]]
+        - [[lithuania]]
 
 
 
