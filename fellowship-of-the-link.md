@@ -47,6 +47,8 @@
     - (discussed [[2022-08-11]])
 
 ## 2022-09-16
+
+## 2022-09-16
 - Attending: [[jerry michalski]] [[marc antoine]] [[mathew]] [[stacey druss]]
 - #push [[canonical debate lab]]
   - [[marc antoine parent]] presents
