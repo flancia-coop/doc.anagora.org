@@ -67,12 +67,6 @@
     - [[chris aldrich]]
         - interested in [[cosma]]
             - (this led to a very interesting overview of promising tools)
-        - [[kosmik]]
-        - [[fermat]]
-        - [[codex editor]] ~ [[standoff properties]]
-        - [[tana]]
-          - [[open enough]] as a risk
-          - #jm vs [[plausible promise]] of [[open source]]
     - [[bentley]]
         - list of [[tools for thought]]
         - [[canonical debate lab]]
@@ -93,7 +87,10 @@
         - [[flancian]] maybe check out [[nitter]] code
         - wdyt about [[threader]] (app)?
 - possible time/day of the week for the next call?
-    - [[aram]] Friday at 
+    - Wed at 10?
+        - Aram: 11am better
+    - Thu?
+    -> Mattermost
 
 
 
