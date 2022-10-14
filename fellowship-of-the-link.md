@@ -46,7 +46,11 @@
 - Create a survey about uses of tools for thought and note taking? 
     - (discussed [[2022-08-11]])
 
-## 2022-09-16
+## 2022-10-14
+- The band is back together! After a while :)
+- Attending: [[jerry michlski]] [[aram zucker scharff]] [[chris aldrich]] [[flancian]]
+- [[jerry michalski]]
+    - hope to see [[fotl]] be a guiding project for [[rel8]]
 
 ## 2022-09-16
 - Attending: [[jerry michalski]] [[marc antoine]] [[mathew]] [[stacey druss]]
