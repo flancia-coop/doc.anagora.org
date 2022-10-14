@@ -90,6 +90,8 @@
         - work in the privacy space; GDPR, Virginia and California privacy regulations. Have been reading lots of documents.
         - spotted an interesting project
         - working on an archival tool for tweets, dealing with the issue that [[an increasing amount of people are deleting old tweets]], and also with styling issues
+        - [[flancian]] maybe check out [[nitter]] code
+        - wdyt about [[threader]] (app)?
 
 
 
