@@ -51,6 +51,13 @@
 - Attending: [[jerry michlski]] [[aram zucker scharff]] [[chris aldrich]] [[flancian]]
 - [[jerry michalski]]
     - hope to see [[fotl]] be a guiding project for [[rel8]]
+- [[check ins]] / what are we up to?
+    - [[flancian]]
+        - [[work]]
+        - [[flancia]]
+            - [[agora]]
+
+
 
 ## 2022-09-16
 - Attending: [[jerry michalski]] [[marc antoine]] [[mathew]] [[stacey druss]]
