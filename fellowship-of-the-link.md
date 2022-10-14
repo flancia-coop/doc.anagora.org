@@ -88,10 +88,9 @@
         - wdyt about [[threader]] (app)?
 - possible time/day of the week for the next call?
     - Wed at 10?
-        - Aram: 11am better
+        - Aram: **11am** better
     - Thu?
     -> Mattermost
-
 
 
 ## 2022-09-16
