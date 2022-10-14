@@ -48,7 +48,7 @@
 
 ## 2022-10-14
 - The band is back together! After a while :)
-- Attending: [[jerry michlski]] [[aram zucker scharff]] [[chris aldrich]] [[flancian]]
+- Attending: [[jerry michlski]] [[aram zucker scharff]] [[chris aldrich]] [[flancian]] [[bentley]]
 - [[jerry michalski]]
     - hope to see [[fotl]] be a guiding project for [[rel8]]
 - [[check ins]] / what are we up to?
@@ -63,7 +63,7 @@
                         - Chris is likely dropping out
                     - #jm if you were to create a version of this book that was more interesting, what would it look like?
                         - [[aram]] maybe doctorow-like?
-                - [[agora]] anniversary
+                - [[agora]] 2nd anniversary on [[2022-11-15]]
     - [[chris aldrich]]
     - [[bentley]]
 
