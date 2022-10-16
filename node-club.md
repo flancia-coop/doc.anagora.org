@@ -4,6 +4,9 @@
 
 ## season 3
 
+### episode 5 (9th October - 16th October)
+
+- [[]]
 ### episode 4 (2nd October - 9th October)
 
 - [[The Utopian Internet, Computing, Communication, and Concrete Utopias]] - [[neil]]
