@@ -6,8 +6,8 @@
 
 ### episode 5 (9th October - 16th October)
 
-- [[Communicative Capitalism and Class Struggle]] -- [[neil]]
-- [[Digital Ecosocialism: Breaking the power of Big Tech]] -- [[neil]]
+- [[Communicative capitalism]] / [[Communicative Capitalism and Class Struggle]] -- [[neil]]
+- [[Digital Tech Deal]] / [[Digital Ecosocialism: Breaking the power of Big Tech]] -- [[neil]]
 
 ### episode 4 (2nd October - 9th October)
 
