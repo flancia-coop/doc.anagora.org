@@ -83,3 +83,7 @@ There has been interest in running a [[Matrix]] instance (#todo link). If we had
 We could build on top of https://coopcloud.tech/ instead of running our own stack. This requires further exploration.
 
 If we go this way, it could be a good idea to experiment first on this stack with one of the additional services being considered, like [[Matrix]], instead of trying to upgrade or replace already-core functionality like Mastodon.
+
+## [[VPS]]
+
+For the purpose of running a secondary server, it might very well be that VPSs as offered by Hetzner or Digital Ocean are sufficient and more cost-effective. We need to explore this as an option and report back to the community.
