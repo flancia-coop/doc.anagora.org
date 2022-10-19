@@ -53,7 +53,7 @@
         - [[chris aldrich]] on the recent controversy in US politics with racially charged comments by politicians
             - #map [[dao]] and [[smart contracts]] -- enforced accountability
             - #jm [[lexon]] as a human readable [[dsl]] for contracts
-          
+        - #map working on a plan and a prototype for [[hyperknowledge]]
 
 ## 2022-10-14
 - The band is back together! After a while :)
