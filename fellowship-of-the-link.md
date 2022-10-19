@@ -30,7 +30,10 @@
         - preconditions:
             - backlinks
             - supple many:many relationships between anchor text and meaning
-        - [[]]
+        - [[agora]]
+            - [[interlinking]]
+            - [[push]] [[pull]] [[go]]
+        - [[deep backlinks]]
 
 ## 2022-10-14
 - The band is back together! After a while :)
