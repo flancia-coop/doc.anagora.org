@@ -10,6 +10,7 @@
 - [[Classification axis]] for [[tools for thought]]
     - [[Peter Kaminski]] -> [[massive wiki]] for this
     - [[Mathew Lowry]] is working on the particular dimensions
+    - [[Marc-Antoine Parent]]'s doc with dimensions: https://docs.google.com/document/d/1AY6y-uHUQE82zfLgwZLk29VPTaI1P5AMo6HT8zz1WDU/edit
 
 ## 2022-10-14
 - The band is back together! After a while :)
