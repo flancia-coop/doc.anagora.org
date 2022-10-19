@@ -33,7 +33,9 @@
         - [[agora]]
             - [[interlinking]]
             - [[push]] [[pull]] [[go]]
-        - [[deep backlinks]]
+        - [[marc antoine parent]] focusing on the differences:
+            - [[deep backlinks]]
+        - any single idea will be in millions of contexts, how to keep the graph "readable" 
 
 ## 2022-10-14
 - The band is back together! After a while :)
