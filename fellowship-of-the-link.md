@@ -59,6 +59,7 @@
             - self organization around a shared goal in a self-selected group
             - coordinated action in a very large scale
 
+
 ## 2022-10-14
 - The band is back together! After a while :)
 - Attending: [[jerry michlski]] [[aram zucker scharff]] [[chris aldrich]] [[flancian]] [[bentley]]
