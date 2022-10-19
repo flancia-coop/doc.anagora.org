@@ -572,3 +572,221 @@ Chris Aldrich says:Tantek is definitely in the center and on a daily basis.
 19:58
 Jerry Michalski
 Jerry Michalski says:schweet! 
+
+
+
+
+Chat and Polls
+Chat
+Polls
+Jerry Michalski
+Jerry Michalski says:Ida Josefiina 
+20:05
+Marc-Antoine Parent
+Marc-Antoine Parent says:that's a lot of us 😃 
+20:05
+Peter Kaminski
+Peter Kaminski says:
+https://uk.linkedin.com/in/ida-josefiina-40824a75
+ 
+Peter Kaminski says:"X-Risk"
+https://mitpress.mit.edu/9781913029845/x-risk/
+ 
+20:06
+Marc-Antoine Parent
+Marc-Antoine Parent says:
+https://www.supermind.design/database
+ 
+20:07
+Jerry Michalski
+Jerry Michalski says:Supermind in my Brain: 
+https://bra.in/4qEXDK
+ 
+20:07
+Peter Kaminski
+Peter Kaminski says:
+https://en.wikipedia.org/wiki/Signal_strength_and_readability_report
+ 
+Peter Kaminski says:
+https://en.wikipedia.org/wiki/Apgar_score
+ (1952) 
+20:10
+Jerry Michalski
+Jerry Michalski says:Apgar Score (1952 Appearance, Pulse, Grimace, Activity, Respiration) 
+20:10
+Peter Kaminski
+Peter Kaminski says:
+https://eastgate.com/Tinderbox/
+ 
+20:10
+Jerry Michalski
+Jerry Michalski says:
+https://en.wikipedia.org/wiki/Tinderbox_(application_software)
+ 
+Jerry Michalski says:Mark Bernstein 
+Jerry Michalski says:who wrote this in 1988: 
+http://www.eastgate.com/garden/Enter.html
+  ! 
+20:11
+Peter Kaminski
+Peter Kaminski says:
+http://www.eastgate.com/storyspace/index.html
+ 
+20:14
+Jerry Michalski
+Jerry Michalski says:
+https://en.wikipedia.org/wiki/Storyspace
+ 
+20:14
+Peter Kaminski
+Peter Kaminski says:"Familiar hypertext tools support calligraphic hypertext, hypertext that begins without links and lets the writer link things that should be connected. Storyspace 3 adds sculptural hypertext tools as well. Sculptural hypertext begins with densely linked bundles like decks of cards, from which the reader might select pages in any sequence. But Storyspace hypertexts aren’t just random: writers can remove links and enforce constraints so the hypertext organizes itself. Sculptural hypertext encourages painterly narrative in which the writer controls what she knows to be necessary while relaxing control over the reader when control might not be needed." 
+20:14
+Fellow Jitster
+Fellow Jitster says:(taking notes in 
+https://doc.anagora.org/fellowship-of-the-link
+, but I started late) 
+20:18
+Marc-Antoine Parent
+Marc-Antoine Parent says:
+https://docs.google.com/document/d/1AY6y-uHUQE82zfLgwZLk29VPTaI1P5AMo6HT8zz1WDU/edit
+ 
+20:18
+Jerry Michalski
+Jerry Michalski says:this is the spreadsheet where we tested the radar chart, with some dimensions: 
+https://docs.google.com/spreadsheets/d/1hY2V5NoSS713R2wzcjBE2q5KZIlfMOPFtL9g6Gaop_o/edit#gid=0
+ 
+20:19
+Peter Kaminski
+Peter Kaminski says:Here is our project planning/coordination wiki (short-term URL, obviously): "Project plan - Mapping the thinking tool landscape with collective intelligence"
+https://dainty-sable-264aa3.netlify.app/project/project_plan
+ 
+20:19
+Jerry Michalski
+Jerry Michalski says:Flancian is on a roller coaster! 
+20:20
+me says:haha, joined from the office today so away from my better tested equipment 😉 
+20:20
+Peter Kaminski
+Peter Kaminski says:
+https://www.scrintal.com/
+ 
+20:22
+jackpark
+jackpark says:
+https://docs.google.com/document/d/1m56SHPGgeFfB_3ToO9-VB9Yu266wtS5-9xlwaFeJ68k/edit?usp=sharing
+ is a link to a user's manual for LiteNet which is a topic map-based pkm - I don't push it because it needs more work. 
+jackpark says:scrintal just sent me an invite to join 
+20:23
+Marc-Antoine Parent
+Marc-Antoine Parent says:
+https://lu.ma/tftrocks-oct22
+ 
+20:23
+Jerry Michalski
+Jerry Michalski says:T4T interop 
+20:25
+jackpark
+jackpark says:By way of the superminds youtube, discovered this 
+https://www.gyanai.com/
+ 
+20:26
+Jerry Michalski
+Jerry Michalski says:Gyan founder is Joy Dasgupta 
+Jerry Michalski says:one version of Marc-Antoine explaining HyperKnowledge: 
+https://hyperknowledge.org/HyperKnowledge.mp4
+ 
+20:29
+jackpark
+jackpark says:
+https://www.linkedin.com/in/joy-dasgupta-67722833/
+ 
+20:29
+Chris Aldrich
+Chris Aldrich says:Who needs word police when we can go "full Humpty Dumpty": "When I use a word, it means just what I choose it to mean – neither more or less."—H. Dumpty (via Lewis Carroll) 
+20:29
+Jerry Michalski
+Jerry Michalski says:Calvinball for words! 
+20:29
+Chris Aldrich
+Chris Aldrich says:
+https://boffosocko.com/2011/08/16/meaning-according-to-humpty-dumpty/
+ 
+20:30
+Peter Kaminski
+Peter Kaminski says:non sequitur, Nick Milo has had two really good PKM / LYT conferences this year (consider getting on one of his mailing lists to hear about more). The conferences are free and have recordings. 
+Peter Kaminski says:
+https://www.linkingyourthinking.com/conference
+ 
+Peter Kaminski says:
+https://www.linkingyourthinking.com/idea-exchange-conference
+ 
+20:30
+jackpark
+jackpark says:
+https://twitter.com/the_LYT_way
+ 
+20:33
+Chris Aldrich
+Chris Aldrich says:For [[deep backlinks]], [[Kevin Marks]] has some interesting/useful prior art that is working in a few places on the web: 
+https://indieweb.org/fragmention
+ 
+20:39
+Jerry Michalski
+Jerry Michalski says:I kept misreading it as "fragmentation"   it's frag mention! 
+Jerry Michalski says:tx, Chris 
+Jerry Michalski says:superforecasters 😃 
+Jerry Michalski says:rating assertions over time for their accuracy 
+Jerry Michalski says:including the cost of lives lost 
+Jerry Michalski says:actuarial? 
+Jerry Michalski says:heresy! hashtags are not enough 
+20:50
+me says:lexon 
+20:59
+Jerry Michalski
+Jerry Michalski says:
+http://lexon.tech/
+ 
+20:59
+Marc-Antoine Parent
+Marc-Antoine Parent says:
+http://www.lexon.tech/
+ 
+20:59
+Jerry Michalski
+Jerry Michalski says:more precise, hidden speech 
+Jerry Michalski says:codes 
+Jerry Michalski says:coded speech 
+Jerry Michalski says:what's the right term for coded speech? I'm not finding the right things 
+Jerry Michalski says:Coded Language? 
+21:04
+Marc-Antoine Parent
+Marc-Antoine Parent says:how is it different from dog whistle? 
+21:04
+Jerry Michalski
+Jerry Michalski says:dog whistle is a type of this more general term 
+Jerry Michalski says:the recording stopped spontaneously at the hour. I have a file w the recording here. but no notice, etc. 😦 
+21:07
+Chris Aldrich
+Chris Aldrich says:there's also [[code switching]] which is a cultural identity flavor of this 
+21:08
+Jerry Michalski
+Jerry Michalski says:well, that didn't work. it stopped on its own, almost immediately 
+Jerry Michalski says:guess we can't record >60 mins 
+Jerry Michalski says:or maybe it takes two different users 
+Jerry Michalski says:and my Brain! and my Brain! 
+21:10
+me says:I'm working on 
+ogm.agor.ai
+ 😉 
+21:10
+Jerry Michalski
+Jerry Michalski says:I get site can't be reached there 
+21:11
+me says:it's not up yet ,sorry -- but I do have 
+agor.ai
+, the idea is to run different agoras in different subdomains 
+21:11
+Jerry Michalski
+Jerry Michalski says:aaah 
+21:11
+Type a message
