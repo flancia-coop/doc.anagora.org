@@ -18,7 +18,8 @@
 - [[Marc-Antoine Parent]]
     - [[Fermat]]
     - [[Tools for thought rocks]] https://lu.ma/tftrocks-oct22
- 
+- [[flancian]]
+    - what could we do with what we already know, e
 
 
 ## 2022-10-14
