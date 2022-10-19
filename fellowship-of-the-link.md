@@ -13,7 +13,13 @@
     - [[Mathew Lowry]] is working on the particular dimensions
     - [[Marc-Antoine Parent]]'s doc with dimensions: https://docs.google.com/document/d/1AY6y-uHUQE82zfLgwZLk29VPTaI1P5AMo6HT8zz1WDU/edit
     - Previous [[radar chart]]: https://docs.google.com/spreadsheets/d/1hY2V5NoSS713R2wzcjBE2q5KZIlfMOPFtL9g6Gaop_o/edit#gid=0
-- [[Peter Kaminski]] on a tool called 
+- [[Peter Kaminski]] on a tool called Squintle (sp?)
+- [[Jack Park]] [[LiteNet]] https://docs.google.com/document/d/1m56SHPGgeFfB_3ToO9-VB9Yu266wtS5-9xlwaFeJ68k/edit
+- [[Marc-Antoine Parent]]
+    - [[Fermat]]
+    - [[Tools for thought rocks]] https://lu.ma/tftrocks-oct22
+ 
+
 
 ## 2022-10-14
 - The band is back together! After a while :)
