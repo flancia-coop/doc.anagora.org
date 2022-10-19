@@ -45,6 +45,8 @@
             - should this ideally disqualify them? 
             - #map ~ [[marc antoine parent]] we want to qualify belief by track record, e.g. the work of [[superforecasters]]
             - distinguish empty claims from testable claims
+        - what's the minimum set of coordinated actions we could take to maximize the chances this great crowdsourcing effort happens?
+            - hashtags/wikilinks as one way to coordinate -- but might not be enough?
 
 ## 2022-10-14
 - The band is back together! After a while :)
