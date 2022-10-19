@@ -4,7 +4,11 @@
 ## 2022-10-19
 - First call on [[Wednesday]].
 - (joined late.)
-
+- [[Supermind]]
+- [[Tinderbox]]
+    - [[Mark Bernstein]]
+- [[Classification axis]] for [[tools for thought]]
+    - [[Peter Kaminski]] -> [[massive wiki]] for this
 
 ## 2022-10-14
 - The band is back together! After a while :)
