@@ -54,6 +54,7 @@
             - #map [[dao]] and [[smart contracts]] -- enforced accountability
             - #jm [[lexon]] as a human readable [[dsl]] for contracts
         - #map working on a plan and a prototype for [[hyperknowledge]]
+        - [[chris aldrich]] how to push actors towards more precise speech (to counteract Trump's style of not saying anything but convincing some people he is aligned with them, even in the centre left initially)
 
 ## 2022-10-14
 - The band is back together! After a while :)
