@@ -2,6 +2,7 @@
 
 
 ## 2022-10-19
+- attending: [[Jerry Michalski]], [[Flancian]], [[Chris Aldich]] [[Mark-Antoine Parent]] [[Peter Kaminski]] [[Jack Park]]
 - First call on [[Wednesday]].
 - (joined late.)
 - [[Supermind]]
