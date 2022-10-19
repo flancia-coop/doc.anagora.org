@@ -41,7 +41,9 @@
         - [[jerry michalski]] deck of patterns for cognitive biases
             - swipe right / swipe left? :)
         - [[jerry michalski]] real world example
-        -  
+            - half of the republicans running now *say* that the election was stolen
+            - should this ideally disqualify them? 
+            - #map ~ [[marc antoine parent]] we want to qualify belief by track record, e.g. the work of [[superforecasters
 
 ## 2022-10-14
 - The band is back together! After a while :)
