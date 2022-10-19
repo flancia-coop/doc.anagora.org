@@ -5,12 +5,15 @@
 - First call on [[Wednesday]].
 - (joined late.)
 - [[Supermind]]
+- [[Storyspace]] https://en.wikipedia.org/wiki/Storyspace
 - [[Tinderbox]]
-    - [[Mark Bernstein]]
+    - [[Mark Bernstein]] http://www.eastgate.com/garden/Enter.html
 - [[Classification axis]] for [[tools for thought]]
-    - [[Peter Kaminski]] -> [[massive wiki]] for this
+    - [[Peter Kaminski]] -> [[massive wiki]] for this: https://dainty-sable-264aa3.netlify.app/project/project_plan
     - [[Mathew Lowry]] is working on the particular dimensions
     - [[Marc-Antoine Parent]]'s doc with dimensions: https://docs.google.com/document/d/1AY6y-uHUQE82zfLgwZLk29VPTaI1P5AMo6HT8zz1WDU/edit
+    - Previous [[radar chart]]: https://docs.google.com/spreadsheets/d/1hY2V5NoSS713R2wzcjBE2q5KZIlfMOPFtL9g6Gaop_o/edit#gid=0
+- [[Peter Kaminski]] on a tool called 
 
 ## 2022-10-14
 - The band is back together! After a while :)
