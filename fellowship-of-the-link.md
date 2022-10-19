@@ -43,7 +43,8 @@
         - [[jerry michalski]] real world example
             - half of the republicans running now *say* that the election was stolen
             - should this ideally disqualify them? 
-            - #map ~ [[marc antoine parent]] we want to qualify belief by track record, e.g. the work of [[superforecasters
+            - #map ~ [[marc antoine parent]] we want to qualify belief by track record, e.g. the work of [[superforecasters]]
+            - distinguish empty claims from testable claims
 
 ## 2022-10-14
 - The band is back together! After a while :)
