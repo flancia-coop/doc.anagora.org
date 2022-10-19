@@ -36,6 +36,10 @@
         - [[marc antoine parent]] focusing on the differences:
             - [[deep backlinks]]
         - any single idea will be in millions of contexts, how to keep the graph "readable" 
+        - attribution/degree of belief
+            - surface surprising beliefs, beliefs that could be questioned
+        - [[jerry michalski]] deck of patterns for cognitive biases
+            - swipe right / swipe
 
 ## 2022-10-14
 - The band is back together! After a while :)
