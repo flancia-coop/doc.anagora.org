@@ -39,7 +39,9 @@
         - attribution/degree of belief
             - surface surprising beliefs, beliefs that could be questioned
         - [[jerry michalski]] deck of patterns for cognitive biases
-            - swipe right / swipe
+            - swipe right / swipe left? :)
+        - [[jerry michalski]] real world example
+        -  
 
 ## 2022-10-14
 - The band is back together! After a while :)
