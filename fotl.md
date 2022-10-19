@@ -41,6 +41,211 @@
     - (discussed [[2022-08-11]])
 
 
+## 2022-06-09
+- Attending: [[Jerry Michalski]], [[diego de la hera]], [[flancian]], [[Chris Aldrich]]
+- Inviting others
+    - [[flancian]] been inviting people already, but would be like to use some kind of policy?
+    - [[Jerry Michalski]] suggest to use the Mattermost to coordinate; use this space to consider together our goals and attract others like this
+       - [[mattermost]] https://chat.collectivesensecommons.org/agora/channels/ogm-fellowship-of-the-link
+    - let's use the list of people in the [[doc]] https://docs.google.com/document/d/1RAourQe_MKh0uWomLsS_V5ea3zm30g8paE49X56jIHs/edit
+        - to brainstorm on who to invite if you want to discuss a priori
+    - [[flancian]] invited Dan because of his interested in the space + his experience with web standards
+- [[Jerry Michalski]]
+    - [[web]] https://www.fellowshipofthelink.org/
+    - who wants admin? :)
+        - 0@flancia.org
+        - delahera@gmail.com
+        - christopherjaldrich@gmail.com
+    - we could also start groups in social networks, e.g. linkedin
+        - [[flancian]] [[mastodon]]?
+        - got stuck in [[choosing an instance]]
+            - [[diego de la hera]] mastodon.social could be seen as the default
+            - (instance delegation could be interesting, web of trust like)
+            - http://www.unmung.com/mastoview is a tool for helping to choose Mastondon instances
+        - [[diego de la hera]] lack of defaults as a hindrance to adoption here, in the indieweb as well
+        - [[Jerry Michalski]] [[barry schwartz]] https://bra.in/4jXVP2
+            - [[the tyranny of choice]]
+            - [[schelling point]]
+        - [[Chris Aldrich]] with more choice you usually get increasing complexity
+            - you are given so much choice it's almost too much (in the indieweb)
+            - [[Jerry Michalski]] templates, walkthroughs add a lot of value
+            - [[Chris Aldrich]] you need either a lot of time or people motivated because they're building business
+            - [[peter kaminski]] introduced [[Jerry Michalski]] to [[obsidian]]
+            - on straightforward vs powerful tools
+            - [[diego de la hera]] on the power of forks
+                - e.g. [[Chris Aldrich]]'s setup is something we could fork to bootstrap a new user's environment
+                - people have copy/pasted Chris's website already, full pages at a time :)
+       - [[flancian]] [[map of the fediverse]]
+- longer term goals / brainstorming / dream sharing
+    - [[Jerry Michalski]]
+        - series of projects revolving around these issues
+            - [[open global mind]], started 2y ago
+                - part of a [[flotilla]] with other organizations
+                - 8am pacific, standing call for [[ogm]]
+            - [[rel8]]
+                - why is it so hard to share, integrate notes -- build arguments?
+                    - -> [[argument mapping]]?
+                    - [[argumentation theory]]
+                    - [[stephen toulmin]] -> [[toulmin model of argument]]
+                - [[the big fungus]] == https://thebigfungus.org
+                - interested in the scaffolding, infrastructure to share ideas
+            - [[think camp]] funds startups in this space
+                - "profitable businesses that feed the [[commons]]"
+        - read an interesting article today, conservative point of view with good arguments even though some disagreeable premises
+            - how do we put this article up to scrutiny and learn from it together?
+                - -> [[web annotations]]?
+                - [[gyuri lajos]]
+                    - **[[Jerry Michalski]] let's have a group sync with Gyuri?**
+                    - [[Chris Aldrich]] trails are related to [[vannevar bush]]'s
+        - wishlist for [[fotl]]: how do these parts fit together?
+            - how do we make it so that our notes provide maximum utility, spread through the big fungus
+    - [[Chris Aldrich]] would like to focus on how to
+        - make it all work together
+        - make the systems be easy to use
+        - make something that is as simple to understand as facebook?
+        - I'd like to see [[commonplace books]] that can "talk" to each other.
+        - "the [[stream]] flows by too fast"
+            - turning streams into gardens
+            - [[neil]] from the Agora has great writing on streams vs gardens, how they relate to each other - https://doubleloop.net/
+- [[john borthwick]] at [[betaworks]] has funding for small projects [[think camp]]
+- Watch parties
+    - [[connection series]]
+        - watch these, take notes/diagrams and share/interop
+        - -> [[books, paintings, movies, ideas that shaped many people's lives]]
+            - https://bra.in/5pxdW6
+    - [[dan whaley]] youtube annotations are a side project / hobby
+        - [[docdrop]] https://docdrop.org/
+- [[diego de la hera]]
+    - web annotations were mentioned; thought of two connections
+        - [[peter hagen]] -> [[lindylearn]] https://lindylearn.io/ and specifically https://annotations.lindylearn.io/new/
+            - social platform where you would find what other people are annotating and join the conversation
+            - provides a discovery layer for what others are reading and thinking about
+        - [[chrome]] is also tackling annotations
+        - [[worldbrain]], [[memex]]?
+        - it seems like here we want to work more on the level of how to connect different annotation tools at a (federated?) layer
+            - perhaps what we need is an integration device at this layer, e.g. [[wikilinks]]
+- Timing
+- After the event, [[Mathew Lowry]]: https://doc.anagora.org/Kz1qvywQRjq9nZ-ElXlHUg?view
+
+Matterbridge site for group communication: https://chat.collectivesensecommons.org/agora/tips
+
+https://collectivesensecommons.org/
+
+Mathew Lowry mentioned [[Mysilio]] 
+- [https://github.com/mysilio-co](https://github.com/mysilio-co)
+- (https://mysilio.com/) a "thinking tool"/platform that uses [[Solid]] - funded by [[Foundation for the Web]]; has a social media tool and a digital garden
+
+[[David McRaney]] ([twitter](https://twitter.com/davidmcraney)) has several books: 
+- [[How Minds Change]] #books/wanttoread/2 
+- [[You're Not So Smart]] #books/wanttoread/2
+- [[You are Now Less Dumb]]
+
+
+## 2022-06-02
+- Attending: [[Jerry Michalski]], [[diego de la hera]], [[flancian]], [[Chris Aldrich]]
+- Our personal history
+    - Diego en Córdoba
+    - Jerry Michalski pasos por sudamérica, ahora en Portland
+    - Eduardo de Buenos Aires, ahora en Suiza
+- Relationships locally and globally
+- Jerry: [[open global mind]] meeting just before
+    - Send email to sociate@gmail.com to sign up :)
+- ([[Chris Aldrich]] joined, introductions)
+    - [[Jerry Michalski]]
+        - [[the brain]]
+        - [[chris]] any shares in the company?
+        - not anymore
+        - do you have backups?
+        - occasionally :) but the format is a big bag of [[json]] objects, not bery interoperable
+            - wishlist: [[open global mind]] platform instead
+    - [[diego de la hera]]
+        - hypothes.is user, contributor as the maintainer of the unofficial extension for firefox; working with [[wikimedia foundation]]
+        - met Chris through hypothes.is
+    - [[Chris Aldrich]]
+        - background: biomedical and electrical engineer, been on the web since the early 90s
+        - [[indieweb]] / https://indieweb.org
+        - [[open web backup]], strong belief in owning your own domain, your own data, your own identity
+        - done work on genetics, but germane: spent a lot of time in the [[entertainment industry]] as it overlaps with the open web
+        - massive amount of data
+        - history, culture as intertwined with knowledge tools
+        - current focus on wikis and note taking tools
+- [[Jerry Michalski]] wishful thinking for a design in this space
+    - it should allow all users to view data through their chosen tools
+    - sometimes you change tools as you shift what you need to do (they are good at different modes of thinking)
+    - [[planes]]
+        - [[multi plane camera]], [[disney history]]
+            - similar to layers in photoshop/gimp
+        - bought https://www.playnz.dev
+    - [[kumu]] == https://kumu.io
+        - is it open source?
+    - [[jupyter notebooks]] are an inspiration
+    - https://thebigfungus.org
+        - [[leaf cutting ants]]
+        - ([[diego de la hera]] worked with them)
+        - [[symbiotic relationship]] with the fungus
+    - [[diego de la hera]] we mentioned a diversity of tools here:
+        - closed and open
+        - wiki like and otherwise
+        - ...but as long as these platforms provide this data in a documented way, do we need a central tool? wouldn't collaboration emerge even without a central tool?
+        - [[jerry]] +1 -- the big fungus is a metaphor for the result of this collaboration. But [[playnz]] might be an [[mvp]]/[[demo]] or just an experiment/playground for interoperability.
+        - are these tools perhaps already playns?
+            - they might be, yes.
+        - [[Chris Aldrich]] [[progressive enhancement]] is key
+            - https://en.wikipedia.org/wiki/Progressive_enhancement
+            - how can we take all these tools and build an architecture that supports progressive enhancement?
+            - we start with plain text as the base, then you can add things like markdown/html, then you add photos/media
+        - [[flancian]] problems and opportunities:
+            - exploring hub architecture vs full graph integration
+            - lossiness as you interop through tools, playns
+            - complexity of integrations
+                - [[Chris Aldrich]] pairwise compatibility is a nightmare
+        - [[translation as a service]]
+            - [[pandoc]]
+            - [[Chris Aldrich]] [[paas]] == [[pandoc as a service]]
+        - [[markdown as lingua franca]]
+    - [[Jerry Michalski]]
+        - [[mapping tools for thinking]] in [[jerry's brain]]
+        - also an amazing list of people
+        - book: [[the extended mind]]
+    - interest in the [[crystallization]] of what we know together
+        - contributing to the same lists -> [[collective action]]
+        - [[diego de la hera]] the relationship between these efforts and [[wikimedia]] projects
+            - [[intermingle]] / preservation of voices
+            - [[ward cunningham]]! [[fedwiki]]
+            - Ward's calls
+        - [[Chris Aldrich]] we should invite [[mark bernstein]], [[tinderbox]]
+- [[fellowship of the link]] as it relates to other projects
+- [[diego de la hera]] isn't the web as a whole what we need? :)
+    - [[html is the lingua franca of our time]]
+    - [[web mentions]]
+        - http://en.wikipedia.org/wiki/Webmention
+        - https://brid.gy/
+        - [[indieweb]] has examples of this working
+            - [[acid test]] of interoperability
+            - [[swat0]] https://www.w3.org/2005/Incubator/federatedsocialweb/wiki/SWAT0
+        - search engine for tagged/linked trusted content
+            - http://en.wikipedia.org/wiki/Commonplace_book
+            - intimacy gradient
+        - [[delicious]]
+            - #c19 == [[19th century]]
+        - [[technorati]]
+- [[lists]] we could assemble:
+    - people in this space
+        - the above
+        - [[tantek Çelik]]
+        - "how can we build this with as little technology as possible"
+    - projects in this space (knowledge tools)
+    - recurrent calls in this space
+        - https://lu.ma/toolsforthoughtrocks
+    - possible [[lingua francas]]
+- [[Chris Aldrich]] "The world lost so much because Vannevar Bush didn't use the word commonplace book in his article As We May Think."
+    - how can we take open tools like [[logseq]], or semi-open like [[obsidian]], and create a reusable store
+    - [[blot]] == https://blot.im
+    - [[granary]] == https://granary.io/ for translating between silo formats as well as feed formats [[rss]], [[atom]], [[h-feed]], [[JSONfeed]], etc.
+- https://bra.in/3vGWLa
+- https://bra.in/7v2NRe
+
+
 Jerry Michalski
 Jerry Michalski says:
 https://www.rel8.dev/
