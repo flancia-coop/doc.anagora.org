@@ -19,7 +19,12 @@
     - [[Fermat]]
     - [[Tools for thought rocks]] https://lu.ma/tftrocks-oct22
 - [[flancian]]
-    - what could we do with what we already know, e
+    - what could we do with what we already know, even with an incomplete map?
+    - [[marc antoine]] [[hyperknowledge maps]]
+        - we want:
+        - [[deep hyperlinks]]
+        - deep [[anchoring]] (new, a la [[web annotations]])
+        - many to many relationships between anchors and entities
 
 
 ## 2022-10-14
