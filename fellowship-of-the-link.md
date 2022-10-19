@@ -20,12 +20,15 @@
     - [[Tools for thought rocks]] https://lu.ma/tftrocks-oct22
 - [[flancian]]
     - what could we do with what we already know, even with an incomplete map?
-    - [[marc antoine]] [[hyperknowledge maps]]
+    - [[marc antoine]] [[hyperknowledge maps]] https://hyperknowledge.org/HyperKnowledge.mp4
         - we want:
-        - [[deep hyperlinks]]
-        - deep [[anchoring]] (new, a la [[web annotations]])
-        - many to many relationships between anchors and entities
-
+            - [[deep hyperlinks]]
+            - deep [[anchoring]] (new, a la [[web annotations]])
+            - many to many relationships between anchors and entities
+        - [[flancian]] we probably want this second level map for projects that are trying to work on interlinking 
+        - preconditions:
+            - backlinks
+            - supple many:many relationships between anchor text and meaning
 
 ## 2022-10-14
 - The band is back together! After a while :)
