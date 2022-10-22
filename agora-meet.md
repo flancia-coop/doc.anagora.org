@@ -4,6 +4,11 @@
     - deletes old/less than strictly great posts in mastodon, e.g. https://lor.sh/bouncepaw
     - https://melanocarpa.lesarbr.es/hypha/удалённое_из_мастодонта
     - [[expirator]] workflow also has ingestion/curation aspects
+    - tinder-like swipe right swipe left ui idiom
+- What are we missing to prototype some automation?
+    - Consciousness/taste emulation
+        -> ML something (this is labelling)
+    - ludditic
 
 ## Agora Meet [[2022-08-28]]
 - Attending: [[flancian]] [[ladee]] [[neil]] your_name_here :)
