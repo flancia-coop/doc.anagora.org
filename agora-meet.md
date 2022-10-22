@@ -16,6 +16,8 @@
 - [[agora doc]] deadline is on Wed (!)
 - [[fellowship of the link]]
     - [[agora]]
+    - [[massive wiki]]
+    - [[marc antoine parent]] -> [[canonical debate lab]]
 
 ## Agora Meet [[2022-08-28]]
 - Attending: [[flancian]] [[ladee]] [[neil]] your_name_here :)
