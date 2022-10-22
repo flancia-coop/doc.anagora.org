@@ -9,6 +9,7 @@
     - Consciousness/taste emulation
         -> ML something (this is labelling)
     - ludditic
+    - [[anthropocentrism]]
 
 ## Agora Meet [[2022-08-28]]
 - Attending: [[flancian]] [[ladee]] [[neil]] your_name_here :)
