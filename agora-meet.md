@@ -2,7 +2,8 @@
 - Attending: [[flancian]] [[bouncepaw]] 
 - #push [[bouncepaw]]
     - deletes old/less than strictly great posts in mastodon, e.g. https://lor.sh/bouncepaw
-    - https://melanocarpa.lesarbr.es/hypha/%D1%83%D0%B4%D0%B0%D0%BB%D1%91%D0%BD%D0%BD%D0%BE%D0%B5_%D0%B8%D0%B7_%D0%BC%D0%B0%D1%81%D1%82%D0%BE%D0%B4%D0%BE%D0%BD%D1%82%D0%B0
+    - https://melanocarpa.lesarbr.es/hypha/удалённое_из_мастодонта
+    - [[expirator]] workflow also has ingestion/curation aspects
 
 ## Agora Meet [[2022-08-28]]
 - Attending: [[flancian]] [[ladee]] [[neil]] your_name_here :)
