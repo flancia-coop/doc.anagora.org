@@ -1,6 +1,6 @@
 ## Agora Meet [[2022-10-22]]
 - Attending: [[flancian]] [[bouncepaw]] 
-- [[bouncepaw]]
+- #push [[bouncepaw]]
     - deletes old/less than strictly great posts in mastodon, e.g. https://lor.sh/bouncepaw
 
 ## Agora Meet [[2022-08-28]]
