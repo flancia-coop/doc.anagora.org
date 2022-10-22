@@ -21,6 +21,7 @@
 - [[Devine lu Linvega]] couldn't make it due to low bandwidth (10 kb/s)
     - They have a conworld: https://wiki.xxiivv.com/site/neauismetica.html
         - Music under nickname Aliceffekt
+            - P.S. Checked if available on [[Yandex Music]]. Surpsingly, yes! (Yandex Music is a Russian music streaming service)
 
 ## Agora Meet [[2022-08-28]]
 - Attending: [[flancian]] [[ladee]] [[neil]] your_name_here :)
