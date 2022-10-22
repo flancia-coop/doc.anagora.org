@@ -3,7 +3,7 @@
 - #push [[bouncepaw]]
     - deletes old/less than strictly great posts in mastodon, e.g. https://lor.sh/bouncepaw
     - https://melanocarpa.lesarbr.es/hypha/удалённое_из_мастодонта
-        - Had a funny bug with the link above in [[Jitsi]], it got replaced with `https://melanocarpa.lesarbr.xn--es/hypha/__-6ijca9cen1bs1d0aqaiqhb5f3ael56b`. This is a really weird bug. 
+        - Had a funny bug with the link above in [[Jitsi]], it got replaced with `https://melanocarpa.lesarbr.xn--es/hypha/__-6ijca9cen1bs1d0aqaiqhb5f3ael56b`. This is a really weird bug. See [[punycode]]. Maybe report it? [[TODO]]
     - [[expirator]] workflow also has ingestion/curation aspects
     - tinder-like swipe right swipe left ui idiom
 - What are we missing to prototype some automation?
