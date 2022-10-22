@@ -13,6 +13,9 @@
     - [[neil]] has written about [[streams to gardens]]
 - Timur made a pull request: https://github.com/flancian/agora/pull/18
     - We found a bug in the server related to extension handling, Flancian hacked on it
+- [[agora doc]] deadline is on Wed (!)
+- [[fellowship of the link]]
+    - [[agora]]
 
 ## Agora Meet [[2022-08-28]]
 - Attending: [[flancian]] [[ladee]] [[neil]] your_name_here :)
