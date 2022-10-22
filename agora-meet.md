@@ -18,6 +18,9 @@
     - [[agora]]
     - [[massive wiki]]
     - [[marc antoine parent]] -> [[canonical debate lab]]
+- [[Devine lu Linvega]] couldn't make it due to low bandwidth (10 kb/s)
+    - They have a conworld: https://wiki.xxiivv.com/site/neauismetica.html
+        - Music under nickname Aliceffekt
 
 ## Agora Meet [[2022-08-28]]
 - Attending: [[flancian]] [[ladee]] [[neil]] your_name_here :)
