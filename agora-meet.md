@@ -11,6 +11,7 @@
     - ludditic
     - [[anthropocentrism]] as an example of the kind of development we can do while we transfer ephemeral conversations to digital gardens
     - [[neil]] has written about [[streams to gardens]]
+- Timur made a pull request: https://github.com/flancian/agora/pull/18
 
 ## Agora Meet [[2022-08-28]]
 - Attending: [[flancian]] [[ladee]] [[neil]] your_name_here :)
