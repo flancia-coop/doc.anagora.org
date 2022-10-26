@@ -25,10 +25,13 @@
                 - #map deep linking and addressability is indeed about having a URL for each block even in those scenarios
                 - [[web annotations]] use ranges, we could have the same for markdown
                 - "xpath for markdown"
+                    - +1
+                - [[flancian]] what about wikilinks as anchors within notes?
+                    - #map doesn't work in the general case
 - [[Peter Kaminski]]
         - [[Thinking Tools Map Project]] update
-        - Looked again at Markdown parsers
-            - - [remark](https://unifiedjs.com/explore/project/remarkjs/remark/) + [micromark](https://github.com/micromark/micromark) (JS)
+        - Looked again at Markdown parsers (particularly those that can create ASTs, because that's a sign of development organization and quality)
+            - [remark](https://unifiedjs.com/explore/project/remarkjs/remark/) + [micromark](https://github.com/micromark/micromark) (JavaScript)
             - [mistletoe](https://github.com/miyuchina/mistletoe) (Python)
 
 ## 2022-10-19
