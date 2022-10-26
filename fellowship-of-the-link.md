@@ -7,10 +7,9 @@
     - No firefox, no safari for now.
     - Worth filing a bug.
 - Last time recap
-    - Debate tools and quality of discourse
     - Integration of tools for thought
     - Hyperknowledge and Agora
-
+    - Debate tools and quality of discourse as they relate to the political scene
 - Check ins
     - [[marc antoine parent]]
         - Discussed a lot of common issues in [[free jerry's brain]] meeting on Monday.
@@ -22,8 +21,15 @@
             - [[flancian]] we had a pending AI from a previous meeting that 
         - [[frame views]] URLs for concepts and for frames centered around that thing
             - [[flancian]] sounds similar to [[nodes]]
-    - [[Peter Kaminski]]
-        - 
+            - [[chris aldrich]] lots of note taking tools are text based, and backing databases are non public / don't have URLs
+                - #map deep linking and addressability is indeed about having a URL for each block even in those scenarios
+                - [[web annotations]] use ranges, we could have the same for markdown
+                - "xpath for markdown"
+- [[Peter Kaminski]]
+        - [[Thinking Tools Map Project]] update
+        - Looked again at Markdown parsers
+            - - [remark](https://unifiedjs.com/explore/project/remarkjs/remark/) + [micromark](https://github.com/micromark/micromark) (JS)
+            - [mistletoe](https://github.com/miyuchina/mistletoe) (Python)
 
 ## 2022-10-19
 - Attending: [[Jerry Michalski]], [[Flancian]], [[Chris Aldich]] [[Mark-Antoine Parent]] [[Peter Kaminski]] [[Jack Park]]
