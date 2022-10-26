@@ -64,8 +64,10 @@
                 - [[chris aldrich]] [[microformats]] could be part of a link
                 - #map [[yaml]] blocks could go anywhere?
                     - [[supertag]] syntax is growing on him
-        - [[sj]] - I think a good 80% solution for reconcililng different types into a single namespace is to support [[TOPIC (qualifier)]], have it rendered while reading as just TOPIC, and have the link to [[TOPIC (qualifier)]] redirect to any of: "a node of that name, "which can redirect to [[TOPIC#qualifier]]
+        - [[sj]] - I think a good 80% solution for reconcililng different types into a single namespace is to support [[TOPIC (qualifier)]], have it rendered while reading as just TOPIC, and have the link to [[TOPIC (qualifier)]] redirect to any of: "TOPIC", TOPIC (qualifier)", "TOPIC#qualifier" etc. which authority file can be updated by any editor of the markdown network (and may change as people take time to fill out nodes for increasingly specific variations on the topic).  
+    - [[flancian]] 
 - AI: Let's move communications over chat for the above projects to the [[fellowship of the link]] channel by default.
+  - Then let's do a pass collecting all useful links we already have in this node and in [[fotl]].
            
 ## 2022-10-19
 - Attending: [[Jerry Michalski]], [[Flancian]], [[Chris Aldich]] [[Mark-Antoine Parent]] [[Peter Kaminski]] [[Jack Park]]
