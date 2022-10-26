@@ -79,9 +79,15 @@
                 - web rings :)
                 - wiki [[collaboration primitives]]
                 - Instant wikilinks / cascading wikisheets: implicit interwiki resolution (a la https://www.mediawiki.org/wiki/InstantCommons) :: make the local .cws legible so you can see the order in which your current interface looks for matching nodes in choosing the default interwiki 
-                - [[fedwiki]] is brilliant but the feeling
-- AI: Let's move communications over chat for the above projects to the [[fellowship of the link]] channel by default.
-  - Then let's do a pass collecting all useful links we already have in this node and in [[fotl]].
+                    - try variation that chooses cascade order based on length/quality of target node
+                    - try interface variation that shows top N options in asymmetric list/pie
+                - [[fedwiki]] is brilliant but the feeling of the room is that we don't fully understand it
+                    - is there people building any kind of business providing fedwiki widely/easily?
+                - sj: update vocab to distinguish meki from wiki 
+                
+- AIs
+    - AI: Let's move communications over chat for the above projects to the [[fellowship of the link]] channel by default.
+    - AI: Then let's do a pass collecting all useful links we already have in this node and in [[fotl]].
            
 ## 2022-10-19
 - Attending: [[Jerry Michalski]], [[Flancian]], [[Chris Aldich]] [[Mark-Antoine Parent]] [[Peter Kaminski]] [[Jack Park]]
