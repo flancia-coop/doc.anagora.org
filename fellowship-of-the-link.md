@@ -40,9 +40,11 @@
     - [[Peter Kaminski]]
             - [[Thinking Tools Map Project]] update
                 - [[mathew lowry]] did a fair amount of work
-                - some of it got out of sync at some point but it's being merged
+                - some of our project work got out of sync at some point but it's being merged
                 - realization: we had not set up a way to do collaboration beforehand, both platform and convention level
                 - -> [[massive wiki channel]] in [[ogm mattermost]]
+                    - <https://chat.collectivesensecommons.org/agora/channels/massive-wiki>
+                    - <https://chat.collectivesensecommons.org/agora/pl/nshenqwxxj8mbq1rptiddut96r>
                 - collaborating over chat is relatively hard, threading is only basic
                 - [[github issues]] and branches
                     - maybe a document workflow with comments would be lighterweight?
@@ -52,12 +54,15 @@
             - [[schema]]
                 - [[people]] [[tools]] [[techniques]]
                 - #map [[goals]] maybe as a separate category, or [[intent]]
+                - maybe also [[audience]]
+                - -> add to threaded document.
             - Wishing there were typed links in Markdown
                 - [[flancian]] in the Agora, links are typed/annotated by the preceding one (or tag)
                 - @scalingsynthesis uses prefixes: https://anagora.org/@scalingsynthesis
                 - [[chris aldrich]] [[microformats]] could be part of a link
                 - #map [[yaml]] blocks could go anywhere?
                     - [[supertag]] syntax is growing on him
+           
    - 
 
 ## 2022-10-19
