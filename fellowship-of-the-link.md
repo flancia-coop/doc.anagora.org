@@ -43,6 +43,9 @@
                 - some of it got out of sync at some point but it's being merged
                 - realization: we had not set up a way to do collaboration beforehand, both platform and convention level
                 - -> [[massive wiki channel]] in [[ogm mattermost]]
+                - collaborating over chat is relatively hard, threading is only basic
+                - [[github issues]] and branches
+                    - maybe a document workflow with comments would be lighterweight?
             - Looked again at Markdown parsers (particularly those that can create ASTs, because that's a sign of development organization and quality)
                 - [remark](https://unifiedjs.com/explore/project/remarkjs/remark/) + [micromark](https://github.com/micromark/micromark) (JavaScript)
                 - [mistletoe](https://github.com/miyuchina/mistletoe) (Python)
