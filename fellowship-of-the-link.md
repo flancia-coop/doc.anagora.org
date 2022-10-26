@@ -28,13 +28,16 @@
                     - +1
                     - web annotation targets for markdown
                 - [[flancian]] what about wikilinks as anchors within notes?
-                    - #map 
+                    - #map semantic ambiguity
+                        - #flancian Not sure
                     - #map doesn't work in the general case as it's only controlled by the writer
-                    - fair
+                        - #flancian: fair
+                        - #maparent look at at-json
                 - 'this thing in this document at this time' -- [[memento protocol]] for example
                     - "memento protocol over massive wiki"
                     - could map to a git commit in the case of git backed repositories
                     - [[chris aldrich]] could be resolved via internet archive for the web in the general case when that is available
+                    - [[maparent]] Actually used by web archive. See 
                 - [[meta]] how do we track of 'interesting threads' like that above?
                     - [[peter kaminski]] what about a shared page?
                     - -> AI: create a document/repository location and designate it as first version of this :)
@@ -90,9 +93,9 @@
     - Q: [[sj]] how to capture third-party cross-wiki page-name-maps?   e.g. say we read together a dozen sources, which are not generally world editable, and are building (in a shared space) interwiki links + merge requests across the set of pages in those sources.
 - AIs
     - AI: start a [[tracking document]] for tracking pending interesting threads
-        - -> [[fotl threads]]
+        - done -> [[fotl threads]]
+    - AI: Then let's do a pass collecting all useful links we already have in this node and in [[fotl]] and move them to [[fotl threads]].
     - AI: Let's move communications over chat for the above projects to the [[fellowship of the link]] channel by default, or share links there to other sources of truth.
-    - AI: Then let's do a pass collecting all useful links we already have in this node and in [[fotl]] and move them to [[fotl links]].
     - AI: let's discuss wiki [[collaboration primitives]] and the potential of integrating independent note taking repositories/wikis a la massive wiki / agora
     - AI: add schema section to [[fotl threads]]
     - AI: upload recording to some well known location :)
