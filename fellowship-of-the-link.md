@@ -84,10 +84,17 @@
                 - [[fedwiki]] is brilliant but the feeling of the room is that we don't fully understand it
                     - is there people building any kind of business providing fedwiki widely/easily?
                 - sj: update vocab to distinguish meki from wiki 
+      - #map [[coauthor]] https://coauthor.conversence.com
+
+    - Q: how to capture third-party cross-wiki page-name-maps?   e.g. we read together a dozen sources, which are not generally world editable, and are building interwiki links + merge requests across them
                 
 - AIs
+    - AI: start a [[tracking document]] for tracking pending interesting threads
+        - -> [[fotl]]
     - AI: Let's move communications over chat for the above projects to the [[fellowship of the link]] channel by default.
     - AI: Then let's do a pass collecting all useful links we already have in this node and in [[fotl]].
+    - AI: let's discuss wiki [[collaboration primitives]] and the potential of integrating independent note taking repositories/wikis a la massive wiki / agora
+    - AI: add scheme section to the [[tracking document]]
            
 ## 2022-10-19
 - Attending: [[Jerry Michalski]], [[Flancian]], [[Chris Aldich]] [[Mark-Antoine Parent]] [[Peter Kaminski]] [[Jack Park]]
