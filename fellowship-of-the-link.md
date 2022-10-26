@@ -34,7 +34,9 @@
                     - "memento protocol over massive wiki"
                     - could map to a git commit in the case of git backed repositories
                     - [[chris aldrich]] could be resolved via internet archive for the web in the general case when that is available
-                - 
+                - [[meta]] how do we track of 'interesting threads' like that above?
+                    - [[peter kaminski]] what about a shared page?
+                    - -> AI: create a document/repository location and designate it as first version of this :)
     - [[Peter Kaminski]]
             - [[Thinking Tools Map Project]] update
             - Looked again at Markdown parsers (particularly those that can create ASTs, because that's a sign of development organization and quality)
