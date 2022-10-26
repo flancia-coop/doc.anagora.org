@@ -71,7 +71,13 @@
             - for git, [[massive wiki]] can have submodules
             - [[massive wiki builder]] will build
         - do you have note repositories of your own, personal or otherwise?
-            - 
+            - [[peter kaminski]] have one but not currently shareable :)
+            - suggest we keep discussing this in future instances
+                - sister sites, sister pages
+                - twin pages
+                - interwiki
+                - web rings :)
+                - wiki [[collaboration primitives]]
 - AI: Let's move communications over chat for the above projects to the [[fellowship of the link]] channel by default.
   - Then let's do a pass collecting all useful links we already have in this node and in [[fotl]].
            
