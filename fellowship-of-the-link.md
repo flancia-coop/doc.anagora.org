@@ -40,7 +40,7 @@
     - [[Peter Kaminski]]
             - [[Thinking Tools Map Project]] update
                 - [[mathew lowry]] did a fair amount of work
-                - some of our project work got out of sync at some point but it's being merged
+                - some of our project work got out of sync but it's being merged
                 - realization: we had not set up a way to do collaboration beforehand, both platform and convention level
                 - -> [[massive wiki channel]] in [[ogm mattermost]]
                     - <https://chat.collectivesensecommons.org/agora/channels/massive-wiki>
@@ -51,11 +51,13 @@
             - Looked again at Markdown parsers (particularly those that can create ASTs, because that's a sign of development organization and quality)
                 - [remark](https://unifiedjs.com/explore/project/remarkjs/remark/) + [micromark](https://github.com/micromark/micromark) (JavaScript)
                 - [mistletoe](https://github.com/miyuchina/mistletoe) (Python)
+                    - [[flancian]] the Agora (Python) currently uses [[marko]], but mistletoe looks superior at first glance
+                    - [[markdoc]] is an extended [[markdown]] syntax created/used by [[stripe]]
             - [[schema]]
                 - [[people]] [[tools]] [[techniques]]
                 - #map [[goals]] maybe as a separate category, or [[intent]]
                 - maybe also [[audience]]
-                - -> add to threaded document.
+                - -> AI: add to threaded document.
             - Wishing there were typed links in Markdown
                 - [[flancian]] in the Agora, links are typed/annotated by the preceding one (or tag)
                 - @scalingsynthesis uses prefixes: https://anagora.org/@scalingsynthesis
