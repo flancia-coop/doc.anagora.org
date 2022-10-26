@@ -32,13 +32,15 @@
                     - fair
                 - 'this thing in this document at this time' -- [[memento protocol]] for example
                     - "memento protocol over massive wiki"
-                    - 
-- [[Peter Kaminski]]
-        - [[Thinking Tools Map Project]] update
-        - Looked again at Markdown parsers (particularly those that can create ASTs, because that's a sign of development organization and quality)
-            - [remark](https://unifiedjs.com/explore/project/remarkjs/remark/) + [micromark](https://github.com/micromark/micromark) (JavaScript)
-            - [mistletoe](https://github.com/miyuchina/mistletoe) (Python)
-        - Wishing there were typed links in Markdown
+                    - could map to a git commit in the case of git backed repositories
+                    - [[chris aldrich]] could be resolved via internet archive for the web in the general case when that is available
+                - 
+    - [[Peter Kaminski]]
+            - [[Thinking Tools Map Project]] update
+            - Looked again at Markdown parsers (particularly those that can create ASTs, because that's a sign of development organization and quality)
+                - [remark](https://unifiedjs.com/explore/project/remarkjs/remark/) + [micromark](https://github.com/micromark/micromark) (JavaScript)
+                - [mistletoe](https://github.com/miyuchina/mistletoe) (Python)
+            - Wishing there were typed links in Markdown
 
 ## 2022-10-19
 - Attending: [[Jerry Michalski]], [[Flancian]], [[Chris Aldich]] [[Mark-Antoine Parent]] [[Peter Kaminski]] [[Jack Park]]
