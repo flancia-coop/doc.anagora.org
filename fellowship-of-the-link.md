@@ -7,19 +7,23 @@
     - No firefox, no safari for now.
     - Worth filing a bug.
 - Last time recap
-    - Debate
-    - Quality of discourse
-    - Integration of tools
+    - Debate tools and quality of discourse
+    - Integration of tools for thought
     - Hyperknowledge and Agora
-- [[marc antoine parent]]
-    - Discussed a lot of common issues in [[free jerry's brain]] meeting on Monday.
-    - In there we spoke about [[hyperknowledge]] and [[next actions]] as well.
-    - Among other things, made a plea for [[concept glue]] between systems.
-        - Deep links, deep addressability aspects seem key.
-        - Making cross linking easy.
-    - Bently brought up: a better understanding of trying some use cases and seeing which kind of maps do we want to build off real 
+
 - Check ins
     - [[marc antoine parent]]
+        - Discussed a lot of common issues in [[free jerry's brain]] meeting on Monday.
+        - In there we spoke about [[hyperknowledge]] and [[next actions]] as well.
+        - Among other things, made a plea for [[concept glue]] between systems.
+            - Deep links, deep addressability aspects seem key.
+            - Making cross linking easy.
+        - Bentley brought up: we could achieve a better understanding by trying some use cases and seeing which kind of maps do we want to build off real data.
+            - [[flancian]] we had a pending AI from a previous meeting that 
+        - [[frame views]] URLs for concepts and for frames centered around that thing
+            - [[flancian]] sounds similar to [[nodes]]
+    - [[Peter Kaminski]]
+        - 
 
 ## 2022-10-19
 - Attending: [[Jerry Michalski]], [[Flancian]], [[Chris Aldich]] [[Mark-Antoine Parent]] [[Peter Kaminski]] [[Jack Park]]
