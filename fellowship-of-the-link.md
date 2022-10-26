@@ -1,7 +1,18 @@
-## High level agenda, can be recurring or next items
+- a [[meeting]].
+    - [[weekly]]
+    - Wednesdays at [[6PM UTC]].
+    - #go https://meet.jit.si
+    
+## Agenda
+
+Can be recurring or with a marked date.
+
+- Attending: [[x]]
+- #go 
+- Start recording, we're currently
 
 ## 2022-10-26
-- Attending: [[peter kaminski]] [[chris aldrich]] [[flancian]] [[bentley davis]] [[maparent]]
+- Attending: [[peter kaminski]] [[chris aldrich]] [[flancian]] [[bentley davis]] [[maparent]] [[samuel klein]]
 - Second call on [[Wednesday]].
 - Recording in Jitsi only works in Chromium.
     - No firefox, no safari for now.
