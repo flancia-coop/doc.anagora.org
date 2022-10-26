@@ -86,14 +86,16 @@
                     - https://byname.wiki.conversence.com
                 - sj: update vocab to distinguish meki from wiki 
       - #map [[coauthor]] https://coauthor.conversence.com
-    - Q: [[sj]] how to capture third-party cross-wiki page-name-maps?   e.g. we read together a dozen sources, which are not generally world editable, and are building interwiki links + merge requests across them
+    - Q: [[sj]] how to capture third-party cross-wiki page-name-maps?   e.g. say we read together a dozen sources, which are not generally world editable, and are building (in a shared space) interwiki links + merge requests across the set of pages in those sources.
 - AIs
     - AI: start a [[tracking document]] for tracking pending interesting threads
         - -> [[fotl threads]]
     - AI: Let's move communications over chat for the above projects to the [[fellowship of the link]] channel by default, or share links there to other sources of truth.
     - AI: Then let's do a pass collecting all useful links we already have in this node and in [[fotl]] and move them to [[fotl links]].
     - AI: let's discuss wiki [[collaboration primitives]] and the potential of integrating independent note taking repositories/wikis a la massive wiki / agora
-    - AI: add scheme section to the [[tracking document]]
+    - AI: add schema section to [[fotl threads]]
+    - AI: upload recording to some well known location :)
+        - [[bentley]] suggest putting the raw file in drive first
            
 ## 2022-10-19
 - Attending: [[Jerry Michalski]], [[Flancian]], [[Chris Aldich]] [[Mark-Antoine Parent]] [[Peter Kaminski]] [[Jack Park]]
