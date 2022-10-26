@@ -39,10 +39,15 @@
                     - -> AI: create a document/repository location and designate it as first version of this :)
     - [[Peter Kaminski]]
             - [[Thinking Tools Map Project]] update
+                - [[mathew lowry]] did a fair amount of work
+                - some of it got out of sync at some point but it's being merged
+                - realization: we had not set up a way to do collaboration beforehand, both platform and convention level
+                - -> [[massive wiki channel]] in [[ogm mattermost]]
             - Looked again at Markdown parsers (particularly those that can create ASTs, because that's a sign of development organization and quality)
                 - [remark](https://unifiedjs.com/explore/project/remarkjs/remark/) + [micromark](https://github.com/micromark/micromark) (JavaScript)
                 - [mistletoe](https://github.com/miyuchina/mistletoe) (Python)
             - Wishing there were typed links in Markdown
+   - 
 
 ## 2022-10-19
 - Attending: [[Jerry Michalski]], [[Flancian]], [[Chris Aldich]] [[Mark-Antoine Parent]] [[Peter Kaminski]] [[Jack Park]]
