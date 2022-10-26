@@ -1,15 +1,15 @@
 - a [[meeting]].
     - [[weekly]]
+    - #go https://meet.jit.si/fellowship-of-the-link
     - Wednesdays at [[6PM UTC]].
-    - #go https://meet.jit.si
     
 ## Agenda
 
 Can be recurring or with a marked date.
 
 - Attending: [[x]]
-- #go 
-- Start recording, we're currently
+- Start recording, we're currently using Jitsi and that works best with a [[Chromium]] based browser.
+- #pull [[fotl threads]]
 
 ## 2022-10-26
 - Attending: [[peter kaminski]] [[chris aldrich]] [[flancian]] [[bentley davis]] [[maparent]] [[samuel klein]]
