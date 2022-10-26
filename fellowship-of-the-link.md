@@ -4,7 +4,12 @@
 - Attending: [[peter kaminski]] [[chris aldrich]] [[flancian]] [[bentley davis]] [[marc antoine parent]]
 - Second call on [[Wednesday]].
 - Recording in Jitsi only works in Chromium.
-    - 
+    - No firefox, no safari for now.
+    - Worth filing a bug.
+- Last time recap
+    - Debate
+    - Quality of discourse
+    - Integration of tools
 
 ## 2022-10-19
 - Attending: [[Jerry Michalski]], [[Flancian]], [[Chris Aldich]] [[Mark-Antoine Parent]] [[Peter Kaminski]] [[Jack Park]]
@@ -19,7 +24,7 @@
     - [[Mathew Lowry]] is working on the particular dimensions
     - [[Marc-Antoine Parent]]'s doc with dimensions: https://docs.google.com/document/d/1AY6y-uHUQE82zfLgwZLk29VPTaI1P5AMo6HT8zz1WDU/edit
     - Previous [[radar chart]]: https://docs.google.com/spreadsheets/d/1hY2V5NoSS713R2wzcjBE2q5KZIlfMOPFtL9g6Gaop_o/edit#gid=0
-- [[Peter Kaminski]] on a tool called Scrintal
+- [[Peter Kaminski]] on a tool called [Scrintal](https://www.scrintal.com/)
 - [[Jack Park]] [[LiteNet]] https://docs.google.com/document/d/1m56SHPGgeFfB_3ToO9-VB9Yu266wtS5-9xlwaFeJ68k/edit
 - [[Marc-Antoine Parent]]
     - [[Fermat]]
