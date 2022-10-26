@@ -66,7 +66,10 @@
                     - [[supertag]] syntax is growing on him
         - [[sj]] - I think a good 80% solution for reconcililng different types into a single namespace is to support [[TOPIC (qualifier)]], have it rendered while reading as just TOPIC, and have the link to [[TOPIC (qualifier)]] redirect to any of: "TOPIC", TOPIC (qualifier)", "TOPIC#qualifier" etc. which authority file can be updated by any editor of the markdown network (and may change as people take time to fill out nodes for increasingly specific variations on the topic).  
             - very similar to what i came to
-    - [[flancian]] have been meaning to collect a list of repositories which we would like integrate into a 
+    - [[flancian]] have been meaning to collect a list of repositories which we would like integrate into a shared construct (agora wink wink) -- do you have any?
+        - [[peter kaminski]] massive wiki is agnostic w.r.t. versioning and sharing models (or tries to be)
+        - for git, [[massive wiki]] can have submodules
+        - [[massive wiki builder]] will build
 - AI: Let's move communications over chat for the above projects to the [[fellowship of the link]] channel by default.
   - Then let's do a pass collecting all useful links we already have in this node and in [[fotl]].
            
