@@ -49,7 +49,10 @@
             - Looked again at Markdown parsers (particularly those that can create ASTs, because that's a sign of development organization and quality)
                 - [remark](https://unifiedjs.com/explore/project/remarkjs/remark/) + [micromark](https://github.com/micromark/micromark) (JavaScript)
                 - [mistletoe](https://github.com/miyuchina/mistletoe) (Python)
+            - [[schema]]
+                - [[people]] [[tools]] [[techniques]]
             - Wishing there were typed links in Markdown
+                - [[flancian]] in the Agora, links are typed/annotated by the preceding one (or tag)
    - 
 
 ## 2022-10-19
