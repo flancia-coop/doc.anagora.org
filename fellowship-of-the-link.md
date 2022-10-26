@@ -64,9 +64,9 @@
                 - [[chris aldrich]] [[microformats]] could be part of a link
                 - #map [[yaml]] blocks could go anywhere?
                     - [[supertag]] syntax is growing on him
+        - [[sj]] - I think a good 80% solution for reconcililng different types into a single namespace is to support [[TOPIC (qualifier)]], have it rendered while reading as just TOPIC, and have the link to [[TOPIC (qualifier)]] redirect to any of: "a node of that name, "which can redirect to [[TOPIC#qualifier]]
+- AI: Let's move communications over chat for the above projects to the [[fellowship of the link]] channel by default.
            
-   - 
-
 ## 2022-10-19
 - Attending: [[Jerry Michalski]], [[Flancian]], [[Chris Aldich]] [[Mark-Antoine Parent]] [[Peter Kaminski]] [[Jack Park]]
 - First call on [[Wednesday]].
