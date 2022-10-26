@@ -11,7 +11,7 @@ Usually threads will be seeded in live discussion and transported here from [[fe
         - maybe also [[audience]]
 
 ## Integration
-
+- from [[2022-10-26]]
     - [[flancian]] have been meaning to collect a list of repositories which we would like integrate into a shared construct (agora wink wink) -- do you have any?
         - [[peter kaminski]] massive wiki is agnostic w.r.t. versioning and sharing models (or tries to be)
             - for git, [[massive wiki]] can have submodules

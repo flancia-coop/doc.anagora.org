@@ -37,7 +37,7 @@
                     - "memento protocol over massive wiki"
                     - could map to a git commit in the case of git backed repositories
                     - [[chris aldrich]] could be resolved via internet archive for the web in the general case when that is available
-                    - [[maparent]] Actually used by web archive. See 
+                    - [[maparent]] Actually used by web archive. See http://timetravel.mementoweb.org/about/
                 - [[meta]] how do we track of 'interesting threads' like that above?
                     - [[peter kaminski]] what about a shared page?
                     - -> AI: create a document/repository location and designate it as first version of this :)
@@ -68,6 +68,7 @@
                 - [[chris aldrich]] [[microformats]] could be part of a link
                 - #map [[yaml]] blocks could go anywhere?
                     - [[supertag]] syntax is growing on him
+                    - see Gyuri's work on Trailmarks
         - [[sj]] - I think a good 80% solution for reconcililng different types into a single namespace is to support [[TOPIC (qualifier)]], have it rendered while reading as just TOPIC, and have the link to [[TOPIC (qualifier)]] redirect to any of: "TOPIC", TOPIC (qualifier)", "TOPIC#qualifier" etc. which authority file can be updated by any editor of the markdown network (and may change as people take time to fill out nodes for increasingly specific variations on the topic).  
             - very similar to what i came to
     - [[flancian]] have been meaning to collect a list of repositories which we would like integrate into a shared construct (agora wink wink) -- do you have any?
@@ -91,6 +92,7 @@
                 - sj: update vocab to distinguish meki from wiki 
       - #map [[coauthor]] https://coauthor.conversence.com
     - Q: [[sj]] how to capture third-party cross-wiki page-name-maps?   e.g. say we read together a dozen sources, which are not generally world editable, and are building (in a shared space) interwiki links + merge requests across the set of pages in those sources.
+        - [[maparent]] this is what I meant by "glue" earlier, it's a core [[HyperKnowledge]] goal
 - AIs
     - AI: start a [[tracking document]] for tracking pending interesting threads
         - done -> [[fotl threads]]
@@ -100,7 +102,7 @@
     - AI: add schema section to [[fotl threads]]
     - AI: upload recording to some well known location :)
         - [[bentley]] suggest putting the raw file in drive first
-           
+
 ## 2022-10-19
 - Attending: [[Jerry Michalski]], [[Flancian]], [[Chris Aldich]] [[Mark-Antoine Parent]] [[Peter Kaminski]] [[Jack Park]]
 - First call on [[Wednesday]].
