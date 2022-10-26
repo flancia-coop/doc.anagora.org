@@ -72,12 +72,14 @@
             - [[massive wiki builder]] will build
         - do you have note repositories of your own, personal or otherwise?
             - [[peter kaminski]] have one but not currently shareable :)
-            - suggest we keep discussing this in future instances
-                - sister sites, sister pages
+            - AI: suggest we keep discussing this in future instances
+                - [[sister sites]], sister pages
                 - twin pages
                 - interwiki
                 - web rings :)
                 - wiki [[collaboration primitives]]
+                - Instant wikilinks / cascading wikisheets: implicit interwiki resolution (a la https://www.mediawiki.org/wiki/InstantCommons) :: make the local .cws legible so you can see the order in which your current interface looks for matching nodes in choosing the default interwiki 
+                - [[fedwiki]] is brilliant but the feeling
 - AI: Let's move communications over chat for the above projects to the [[fellowship of the link]] channel by default.
   - Then let's do a pass collecting all useful links we already have in this node and in [[fotl]].
            
