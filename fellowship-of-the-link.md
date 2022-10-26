@@ -68,8 +68,10 @@
             - very similar to what i came to
     - [[flancian]] have been meaning to collect a list of repositories which we would like integrate into a shared construct (agora wink wink) -- do you have any?
         - [[peter kaminski]] massive wiki is agnostic w.r.t. versioning and sharing models (or tries to be)
-        - for git, [[massive wiki]] can have submodules
-        - [[massive wiki builder]] will build
+            - for git, [[massive wiki]] can have submodules
+            - [[massive wiki builder]] will build
+        - do you have note repositories of your own, personal or otherwise?
+            - 
 - AI: Let's move communications over chat for the above projects to the [[fellowship of the link]] channel by default.
   - Then let's do a pass collecting all useful links we already have in this node and in [[fotl]].
            
