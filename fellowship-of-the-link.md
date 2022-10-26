@@ -1,7 +1,7 @@
 ## High level agenda, can be recurring or next items
 
 ## 2022-10-26
-- attending: [[peter kaminski]] [[chris aldrich]] [[flancian]]
+- attending: [[peter kaminski]] [[chris aldrich]] [[flancian]] [[bentley davis]] [[marc antoine parent]]
 - Second call on [[Wednesday]].
 
 ## 2022-10-19
