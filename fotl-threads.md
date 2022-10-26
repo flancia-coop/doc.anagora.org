@@ -4,4 +4,6 @@ This document is meant to capture high level discussion [[threads]] we want to p
 
 Usually threads will be seeded in live discussion and transported here from [[fellowship of the link]] or [[fotl]] meeting minutes.
 
-## Sch
+## Schemas
+
+## Integration
