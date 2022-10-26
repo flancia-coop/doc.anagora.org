@@ -1,5 +1,8 @@
 ## High level agenda, can be recurring or next items
 
+## 2022-10-26
+- attending: 
+- Second call on [[Wedn]]
 
 ## 2022-10-19
 - attending: [[Jerry Michalski]], [[Flancian]], [[Chris Aldich]] [[Mark-Antoine Parent]] [[Peter Kaminski]] [[Jack Park]]
