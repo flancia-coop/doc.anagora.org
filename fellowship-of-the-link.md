@@ -51,12 +51,13 @@
                 - [mistletoe](https://github.com/miyuchina/mistletoe) (Python)
             - [[schema]]
                 - [[people]] [[tools]] [[techniques]]
+                - #map [[goals]] maybe as a separate category, or [[intent]]
             - Wishing there were typed links in Markdown
                 - [[flancian]] in the Agora, links are typed/annotated by the preceding one (or tag)
                 - @scalingsynthesis uses prefixes: https://anagora.org/@scalingsynthesis
                 - [[chris aldrich]] [[microformats]] could be part of a link
                 - #map [[yaml]] blocks could go anywhere?
-                - 
+                    - [[supertag]] syntax is growing on him
    - 
 
 ## 2022-10-19
