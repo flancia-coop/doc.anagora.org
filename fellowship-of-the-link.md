@@ -83,7 +83,7 @@ Can be recurring or with a marked date.
                 - #map [[yaml]] blocks could go anywhere?
                     - [[supertag]] syntax is growing on him
                     - see Gyuri's work on Trailmarks
-        - [[sj]] - I think a good 80% solution for reconcililng different types into a single namespace is to support [[TOPIC (qualifier)]], have it rendered while reading as just TOPIC, and have the link to [[TOPIC (qualifier)]] redirect to any of: "TOPIC", TOPIC (qualifier)", "TOPIC#qualifier" etc. which authority file can be updated by any editor of the markdown network (and may change as people take time to fill out nodes for increasingly specific variations on the topic).  
+        - [[sj]] - I think a good 80% solution for reconciling different types into a single namespace is to support [[TOPIC (qualifier)]], have it rendered while reading as just TOPIC, and have the link to [[TOPIC (qualifier)]] redirect to any of: "TOPIC", TOPIC (qualifier)", "TOPIC#qualifier" etc. which authority file can be updated by any editor of the markdown network (and may change as people take time to fill out nodes for increasingly specific variations on the topic).  
             - very similar to what i came to
     - [[flancian]] have been meaning to collect a list of repositories which we would like integrate into a shared construct (agora wink wink) -- do you have any?
         - [[peter kaminski]] massive wiki is agnostic w.r.t. versioning and sharing models (or tries to be)
