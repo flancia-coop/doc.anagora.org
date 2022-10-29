@@ -22,21 +22,22 @@
         - so autocomplete engines were triggering and filling it in, thus making it trigger for normal users
 - [[in the arcades]] is a good [[hypertext]] book
 - [[planning]] the weekend :)
-    - [[bouncepaw]] assignments
-        - creativity: I don't like the assignment, might ignore it
-            - enough credits
-        - real analysis: Gotta prepare for the pseudo-exam, don't wannaaaaa
-        - english: Done already
-        - mathematical logic: Will ignore
-        - probability theory: I didn't take the copybook here
-        - programming: Don't wanaaaaa, I hate Visual Studio aaaa
+    - [[bouncepaw]]
+        - assignments
+            - real analysis: Gotta prepare for the pseudo-exam, don't wannaaaaa
+            - creativity: I don't like the assignment, might ignore it
+                - enough credits
+            - english: Done already
+            - mathematical logic: Will ignore
+            - probability theory: I didn't take the copybook here
+            - programming: Don't wanaaaaa, I hate Visual Studio aaaa
     - [[flancian]] [[agora chapter]]
 - [[html]] tag `<details>`
     - good for UI!
 - [[handlerug]]
     - in maybe temporary location, liking Istanbul
     - many friends are attending university back in Russia and that should be safe for them; drafting is very rare for university students
-    - IT workers often get drafted but it's still rare
+    - IT workers do get drafted often (in 2022) but it doesn't usually happen with students
 - [[flancian]] know first and second-order Russian friends in Turkey, Israel
 
 # #push [[flancia meet 2022-09-24]]
