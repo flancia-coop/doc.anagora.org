@@ -65,7 +65,7 @@
 - [[html]] tag `<details>`
     - good for UI!
 - [[handlerug]]
-    - in maybe temporary location, liking Istanbul
+    - in maybe temporary location, liking [[Istanbul]]
     - many friends are attending university back in Russia and that should be safe for them; drafting is very rare for university students
     - IT workers do get drafted often (in 2022) but it doesn't usually happen with students
 - [[flancian]] know first and second-order Russian friends in Turkey, Israel
