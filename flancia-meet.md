@@ -63,6 +63,7 @@
             - [[indieweb]] related? initially meant to be a microblogging server
             - could be an identity provider for anagora.org
             - related: https://microblog.pub
+            - [[webfinger]]: https://indieweb.org/WebFinger
 - [[html]] tag `<details>`
     - good for UI!
 - [[handlerug]]
