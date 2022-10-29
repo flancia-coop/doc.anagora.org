@@ -29,8 +29,9 @@
                 - enough credits
             - english: Done already
             - mathematical logic: Will ignore
-            - probability theory: I didn't take the copybook here
-            - programming: Don't wanaaaaa, I hate Visual Studio aaaa
+            - probability theory: I didn't take the copybook here, so I can't do it (what a shame)
+            - object oriented programming: Don't wanaaaaa, I hate Visual Studio aaaa
+        - finish 
     - [[flancian]] [[agora chapter]]
 - [[html]] tag `<details>`
     - good for UI!
