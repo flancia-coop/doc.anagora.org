@@ -26,6 +26,8 @@
         - X
         - Y
     - [[flancian]] [[agora chapter]]
+- [[html]] tag `<details>`
+    - good for UI!
 
 # #push [[flancia meet 2022-09-24]]
 - Attending: [[bouncepaw]] [[flancian]]
