@@ -52,11 +52,16 @@
             - might fix them? like hashtag handling
             - then try to move to writing through api.anagora.org
     - [[handlerug]]
-        - [[ragamuffin]] is an [[activity pub]] gateway
+        - #push [[ragamuffin]] is an [[activity pub]] gateway
+            - [[golang]]
+                - [[harelang]] wouldn't work for that
             - [[bouncepaw]] came up with the name!
             - something like [[GoToSocial]]? https://docs.gotosocial.org/en/latest/
             - trying to defrag identity in the fediverse
-            - [[solid]] related? ([[tim berners lee]]' pr')
+            - [[solid]] related? ([[tim berners lee]]'s project)
+            - consists of an identity server (OAuth2 and ActivityPub provider) and 
+            - [[indieweb]] related?
+            - 
 - [[html]] tag `<details>`
     - good for UI!
 - [[handlerug]]
