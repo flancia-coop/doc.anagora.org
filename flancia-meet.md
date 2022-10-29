@@ -37,10 +37,15 @@
             - haven't really put a lot of effort in two months
     - [[flancian]] 
         - [[agora chapter]] in good shape by tomorrow night, hopefully by tonight
+        - two feature requests
+            - [[interwiki]] support in anagora.org
+                - -> hopefully by mid November
+            - 
         - [[agora ux improvements]]
             - I have a laundry list of small improvements to the UI that I hope to start going through
         - [[agora bot]] has some bugs
-            - might fix them?
+            - might fix them? like hashtag handling
+            - then try to move to writing through api.anagora.org
 - [[html]] tag `<details>`
     - good for UI!
 - [[handlerug]]
