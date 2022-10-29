@@ -60,8 +60,9 @@
             - trying to defrag identity in the fediverse
             - [[solid]] related? ([[tim berners lee]]'s project)
             - consists of an identity server (OAuth2 and ActivityPub provider) and multiple frontends
-            - [[indieweb]] related?
+            - [[indieweb]] related? initially meant to be a microblogging server
             - could be an identity provider for anagora.org
+            - related: https://microblog.pub
 - [[html]] tag `<details>`
     - good for UI!
 - [[handlerug]]
