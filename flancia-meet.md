@@ -20,6 +20,7 @@
         - hidden field, supposed to be left empty
         - but the field was named 'surname'
         - so autocomplete engines were triggering and filling it in, thus making it trigger for normal users
+- [[in the arcades]] is a good [[hypertext]] book
 
 # #push [[flancia meet 2022-09-24]]
 - Attending: [[bouncepaw]] [[flancian]]
