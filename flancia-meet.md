@@ -4,6 +4,10 @@
 
 # #push [[flancia meet 2022-10-29]]
 - Attending: [[bouncepaw]] [[handlerug]] [[flancian]]
+- [[bouncepaw]] Crazy week, lots of social activity, but nice
+    - [[merveilles]]
+- [[flancian]] [[agora chapter]] is current focus
+    - also [[social coop]]
 
 # #push [[flancia meet 2022-09-24]]
 - Attending: [[bouncepaw]] [[flancian]]
