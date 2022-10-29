@@ -24,14 +24,15 @@
 - [[planning]] the weekend :)
     - [[bouncepaw]]
         - assignments
-            - real analysis: Gotta prepare for the pseudo-exam, don't wannaaaaa
+            - calculus: Gotta prepare for the pseudo-exam, don't wannaaaaa
             - creativity: I don't like the assignment, might ignore it
                 - enough credits
             - english: Done already
             - mathematical logic: Will ignore
             - probability theory: I didn't take the copybook here, so I can't do it (what a shame)
             - object oriented programming: Don't wanaaaaa, I hate Visual Studio aaaa
-        - finish 
+                - issues with hardware / memory limitations
+        - finish the merveilles migration
     - [[flancian]] [[agora chapter]]
 - [[html]] tag `<details>`
     - good for UI!
