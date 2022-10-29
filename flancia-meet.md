@@ -52,7 +52,11 @@
             - might fix them? like hashtag handling
             - then try to move to writing through api.anagora.org
     - [[handlerug]]
-        - 
+        - [[ragamuffin]] is an [[activity pub]] gateway
+            - [[bouncepaw]] came up with the name!
+            - something like [[GoToSocial]]? https://docs.gotosocial.org/en/latest/
+            - trying to defrag identity in the fediverse
+            - [[solid]] related? ([[tim berners lee]]' pr')
 - [[html]] tag `<details>`
     - good for UI!
 - [[handlerug]]
