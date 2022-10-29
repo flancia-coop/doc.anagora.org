@@ -23,13 +23,18 @@
 - [[in the arcades]] is a good [[hypertext]] book
 - [[planning]] the weekend :)
     - [[bouncepaw]] assignments
-        - creativity: I don't likthe assignment 
-        - Y
+        - creativity: I don't like the assignment, will probably ignore it
+        - real analysis: Gotta prepare for the pseudo-exam, don't wannaaaaa
+        - english: Done already
+        - logic: Will ignore
+        - 
     - [[flancian]] [[agora chapter]]
 - [[html]] tag `<details>`
     - good for UI!
 - [[handlerug]]
     - in maybe temporary location, liking Istanbul
+    - many friends are attending university back in Russia and that should be safe for them; drafting is very rare for university students
+    - IT workers *might* get drafted but it' s still
 
 # #push [[flancia meet 2022-09-24]]
 - Attending: [[bouncepaw]] [[flancian]]
