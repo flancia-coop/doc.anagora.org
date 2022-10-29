@@ -5,9 +5,13 @@
 # #push [[flancia meet 2022-10-29]]
 - Attending: [[bouncepaw]] [[handlerug]] [[flancian]]
 - [[bouncepaw]] Crazy week, lots of social activity, but nice
-    - [[merveilles]]
+    - [[merveilles migration]]
+    - https://merveilles.town/@bouncepaw
+    - will try the migration flow tonight
+    - user information is updated daily ([[handlerug]] read the code); now a new user has been fetched, you need to wait ~1d for it to be refetched
+    - TLDR: set up redirection first, then make the last post (in future migrations)
 - [[flancian]] [[agora chapter]] is current focus
-    - also [[social coop]]
+    - also [[social coop]] admin / on call
 
 # #push [[flancia meet 2022-09-24]]
 - Attending: [[bouncepaw]] [[flancian]]
