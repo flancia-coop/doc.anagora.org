@@ -40,7 +40,9 @@
         - two feature requests
             - [[interwiki]] support in anagora.org
                 - -> hopefully by mid November
-            - 
+                - [[bouncepaw]] [[jonny]] tried using interwiki syntax with the bot at some point
+                    - meta: is there full text search in mastodon?
+                    - none that we've found to work widely, would be interested in finding one or solving this
         - [[agora ux improvements]]
             - I have a laundry list of small improvements to the UI that I hope to start going through
         - [[agora bot]] has some bugs
