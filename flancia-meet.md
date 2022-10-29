@@ -34,7 +34,8 @@
 - [[handlerug]]
     - in maybe temporary location, liking Istanbul
     - many friends are attending university back in Russia and that should be safe for them; drafting is very rare for university students
-    - IT workers *might* get drafted but it' s still
+    - IT workers *might* get drafted but it's still rare
+- [[flancian]] know first and second-order Russian friends in Turkey, Israel
 
 # #push [[flancia meet 2022-09-24]]
 - Attending: [[bouncepaw]] [[flancian]]
