@@ -40,15 +40,19 @@
         - two feature requests
             - [[interwiki]] support in anagora.org
                 - -> hopefully by mid November
-                - [[bouncepaw]] [[jonny]] tried using interwiki syntax with the bot at some point
+                - [[bouncepaw]] [[jonny]] tried using the colon syntax with the bot at some point
+                    - https://social.coop/@jonny/109135233389666304
+                    - https://lor.sh/web/@jonny@social.coop/109135233647883067
                     - meta: is there full text search in mastodon?
                     - none that we've found to work widely, would be interested in finding one or solving this
-            - write a long form answer to [[bouncepaw]]'s great questions about the future :)
+            - write a long form answer to [[bouncepaw]]'s great questions about the future that were asked in private messages :)
         - [[agora ux improvements]]
             - I have a laundry list of small improvements to the UI that I hope to start going through
         - [[agora bot]] has some bugs
             - might fix them? like hashtag handling
             - then try to move to writing through api.anagora.org
+    - [[handlerug]]
+        - 
 - [[html]] tag `<details>`
     - good for UI!
 - [[handlerug]]
