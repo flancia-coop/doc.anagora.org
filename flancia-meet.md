@@ -10,10 +10,15 @@
     - will try the migration flow tonight
     - user information is updated daily ([[handlerug]] read the code); now a new user has been fetched, you need to wait ~1d for it to be refetched
     - TLDR: set up redirection first, then make the last post on the old profile (in future migrations)
+    - [[mahr ]]
 - [[flancian]] [[agora chapter]] is current focus
     - also [[social coop]] admin / on call
     - broken registration flow because of spam trap
     - https://social.coop/about
+    - [[spam trap]] was triggering
+        - hidden field, supposed to be left empty
+        - but the field was named 'surname'
+        - so autocomplete engines were triggering and filling it in, thus making it trigger for normal users
 
 # #push [[flancia meet 2022-09-24]]
 - Attending: [[bouncepaw]] [[flancian]]
