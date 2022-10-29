@@ -12,7 +12,7 @@
     - user information is updated daily ([[handlerug]] read the code); now a new user has been fetched, you need to wait ~1d for it to be refetched
     - TLDR: set up redirection first, then make the last post on the old profile (in future migrations)
     - pronounced close to [[mahr vei]]
-- [[flancian]] [[agora chapter]] is current focus
+- [[flancian]] [[agora chapter]] is current focus for this weekend
     - also [[social coop]] admin / on call
     - broken registration flow because of spam trap
     - https://social.coop/about
@@ -21,6 +21,11 @@
         - but the field was named 'surname'
         - so autocomplete engines were triggering and filling it in, thus making it trigger for normal users
 - [[in the arcades]] is a good [[hypertext]] book
+- [[planning]] the weekend :)
+    - [[bouncepaw]] assignments
+        - X
+        - Y
+    - [[flancian]] [[agora chapter]]
 
 # #push [[flancia meet 2022-09-24]]
 - Attending: [[bouncepaw]] [[flancian]]
