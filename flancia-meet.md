@@ -23,11 +23,13 @@
 - [[in the arcades]] is a good [[hypertext]] book
 - [[planning]] the weekend :)
     - [[bouncepaw]] assignments
-        - X
+        - creativity: I don't likthe assignment 
         - Y
     - [[flancian]] [[agora chapter]]
 - [[html]] tag `<details>`
     - good for UI!
+- [[handlerug]]
+    - in maybe temporary location, liking Istanbul
 
 # #push [[flancia meet 2022-09-24]]
 - Attending: [[bouncepaw]] [[flancian]]
