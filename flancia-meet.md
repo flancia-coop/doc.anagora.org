@@ -6,11 +6,12 @@
 - Attending: [[bouncepaw]] [[handlerug]] [[flancian]]
 - [[bouncepaw]] Crazy week, lots of social activity, but nice
     - [[merveilles migration]]
+        - https://en.wiktionary.org/wiki/merveille
     - https://merveilles.town/@bouncepaw
     - will try the migration flow tonight
     - user information is updated daily ([[handlerug]] read the code); now a new user has been fetched, you need to wait ~1d for it to be refetched
     - TLDR: set up redirection first, then make the last post on the old profile (in future migrations)
-    - [[mahr ]]
+    - pronounced close to [[mahr vei]]
 - [[flancian]] [[agora chapter]] is current focus
     - also [[social coop]] admin / on call
     - broken registration flow because of spam trap
