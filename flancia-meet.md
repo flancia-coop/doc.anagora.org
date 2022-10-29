@@ -59,9 +59,9 @@
             - something like [[GoToSocial]]? https://docs.gotosocial.org/en/latest/
             - trying to defrag identity in the fediverse
             - [[solid]] related? ([[tim berners lee]]'s project)
-            - consists of an identity server (OAuth2 and ActivityPub provider) and 
+            - consists of an identity server (OAuth2 and ActivityPub provider) and multiple frontends
             - [[indieweb]] related?
-            - 
+            - could be an identity provider for anagora.org
 - [[html]] tag `<details>`
     - good for UI!
 - [[handlerug]]
