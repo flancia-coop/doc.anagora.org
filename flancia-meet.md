@@ -33,7 +33,14 @@
             - object oriented programming: Don't wanaaaaa, I hate Visual Studio aaaa
                 - issues with hardware / memory limitations
         - finish the merveilles migration
-    - [[flancian]] [[agora chapter]]
+        - work on [[mycorrhiza]]!?
+            - haven't really put a lot of effort in two months
+    - [[flancian]] 
+        - [[agora chapter]] in good shape by tomorrow night, hopefully by tonight
+        - [[agora ux improvements]]
+            - I have a laundry list of small improvements to the UI that I hope to start going through
+        - [[agora bot]] has some bugs
+            - might fix them?
 - [[html]] tag `<details>`
     - good for UI!
 - [[handlerug]]
