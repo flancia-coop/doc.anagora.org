@@ -40,6 +40,200 @@
 - Create a survey about uses of tools for thought and note taking? 
     - (discussed [[2022-08-11]])
 
+
+## Chat from [[2022-11-02]]
+Aram Zucker-Scharff
+Aram Zucker-Scharff says:This brand? 
+https://www.amazon.com/CZUR-Shine-Ultra-Auto-Flatten-Compatible/dp/B08NSJQ65L
+ 
+20:08
+Peter Kaminski
+Peter Kaminski says:this is the new one, and it's still 50% off on indiegogo: 
+https://www.indiegogo.com/projects/fancy-pro-ultra-webcam-pro-book-scanner-in-1
+ 
+20:10
+Jerry Michalski
+Jerry Michalski says:
+https://www.amazon.com/dp/B09FX5SRQT/
+ is the one I got 
+20:10
+Chris Aldrich
+Chris Aldrich says:Were you the one who inspired David Graeber's thesis on Bullshit Jobs? 🤣 
+20:16
+Jerry Michalski
+Jerry Michalski says:ha! 
+Jerry Michalski says:Pete perfectly explained what happened. the FoTL call for next week starts at 11am, as it should. 
+20:19
+Peter Kaminski
+Peter Kaminski says:
+https://dainty-sable-264aa3.netlify.app/project/measuring_thinking_tools.html
+ 
+20:21
+me says:saved in [[thinking tools map]] 
+20:23
+Peter Kaminski
+Peter Kaminski says:Card Sorting Dimensions in Airtable
+
+https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NW8zbXUzOXAxMWZxNjlydGFwcWV0YnNnZWQgcGV0ZXIua2FtaW5za2lAbQ&tmsrc=peter.kaminski%40gmail.com
+ 
+20:23
+me says:(taking some notes in 
+https://doc.anagora.org/fellowship-of-the-link?edit
+) 
+20:24
+Peter Kaminski
+Peter Kaminski says:"progressive standards" 
+20:25
+Aram Zucker-Scharff
+Aram Zucker-Scharff says:+1 to interoperability! 
+20:26
+Jerry Michalski
+Jerry Michalski says:is self-dogfooding redundant? doesn't dogfooding mean using it oneself? 
+Jerry Michalski says:is Mathew feeling better now? 
+Jerry Michalski says:low-effort gestures generate a lot of small motion, though 
+Jerry Michalski says:mastodon lesson 1: don't be on the main instance 
+20:33
+me says:which one? 😃 
+20:34
+Jerry Michalski
+Jerry Michalski says:
+collectiva.social
+ doesn't resolve 
+Jerry Michalski says:nor 
+http://collective.social/
+ 
+20:35
+Aram Zucker-Scharff
+Aram Zucker-Scharff says:| **Axis** | **Definition** | **To score highly** |
+| --- | --- | --- |
+| Openness | How well does it play with other tools? How interoperable and customisable is it? | F/OSS. Use open standards. Has an API. Import/Export Allow 3rd party plugins. Available on all OSs, platforms. Supports structured data |
+| Note-making | How good is it as a note-making tool? | Good outliner (easy indent/outdent, reorder, fold/zoom...) Atomic note structure, block references. Zettlekasten support. |
+| Writing/Publishing | How good is it as a writing & publishing tool? | WYSIWYG, zen writing environment/design, editing feature set, seamless publishing system to Web, Social. |
+| Idea discovery | Does it help users organise and (re)discover relevant notes? | Backlinks, Good search, AI-driven content discovery |
+| User-friendliness | How easy is it to start benefiting from it, off the shelf? | New user can get started and get benefits without taking courses, reading 3 books and 23 blog posts, or installing a dozen plugins |
+| Power | How powerful, adaptable & configurable is it? | Lots of features, highly customisable, many plug-ins, queryable knowledge, etc. |
+| Multiplayer | Allows teamwork | Group-based collaboration: groups, permissions, workflows, version control, commenting, moderation... |
+| Help | Is it easy to find high-quality documentation and answers to common questions? | Well-organised onboarding, documentation & FAQ system. |
+| Community | Is there a supportive community around the tool | Helpful community, active 3rd party developers, etc. |
+| Cost | How expensive is the tool | Free, or at least a v. useful free version in a freemium model |
+| Data sovereignty | Who owns your data? | Your files on your PC. | 
+20:35
+Jerry Michalski
+Jerry Michalski says:BlueSky protocol 
+20:35
+Aram Zucker-Scharff
+Aram Zucker-Scharff says:oops wrong paste 
+Aram Zucker-Scharff says:
+https://kolektiva.social/about
+ 
+20:36
+Jerry Michalski
+Jerry Michalski says:
+https://blueskyweb.xyz/blog/10-18-2022-the-at-protocol
+ 
+20:37
+me says:
+ctzn.one
+ -- now down probably 
+20:37
+Jerry Michalski
+Jerry Michalski says:Paul Frazee? 
+20:38
+me says:yes: 
+http://anagora.org/pfrazee
+ 
+20:39
+Aram Zucker-Scharff
+Aram Zucker-Scharff says:
+https://paulfrazee.medium.com/back-to-basics-what-is-the-point-of-decentralization-a495123a1fd7
+ 
+Aram Zucker-Scharff says:
+https://context.center/topics/cryptocurrency/#activity-pub
+ 
+20:41
+Jerry Michalski
+Jerry Michalski says:small note: I'm Twitter user # 509 
+Jerry Michalski says:when it was just an SMS service 😃 
+20:43
+Aram Zucker-Scharff
+Aram Zucker-Scharff says:😃 
+20:43
+me says:Pleroma 
+me says:Lemmy 
+me says:Misskey? 
+20:44
+Aram Zucker-Scharff
+Aram Zucker-Scharff says:
+https://github.com/misskey-dev/misskey
+ 
+Aram Zucker-Scharff says:
+https://twitter.com/Chronotope/status/1587511147137486848
+ 
+20:45
+me says:some interesting questions in this space: 
+me says:1. what is the biggest overall activitypub instance? 
+me says:2. what is the biggest which isn't mastodon based? 
+20:46
+Chris Aldrich
+Chris Aldrich says:I think 
+mastodon.social
+ is the largest instance 
+20:46
+me says:3. how large could a non-mastodon instance feasibly scale up to be currently? 
+20:46
+Jerry Michalski
+Jerry Michalski says:advertising is the colonizing force of capitalism in internet spaces 
+20:47
+Aram Zucker-Scharff
+Aram Zucker-Scharff says:Like 
+cohost.org
+ is sort of pushing in that direction as well 
+Aram Zucker-Scharff says:
+https://pinboard.in/
+ also sort of monetizes that way 
+20:48
+me says:
+https://social.coop
+ 
+20:48
+Jerry Michalski
+Jerry Michalski says:guilds --> unions 
+Jerry Michalski says:mutual aid --> cooperatives 
+20:50
+Aram Zucker-Scharff
+Aram Zucker-Scharff says:? 
+https://www.goodreads.com/book/show/4467218-travelling-brothers?from_search=true&from_srp=true&qid=wM2PoCC5zD&rank=12
+ ? 
+20:51
+me says:anti disintermediation 
+me says:crypto is a convoluted way to define a trust root (in most applications, it seems) 
+me says:"what are the platforms and protocols that we will take for granted 100 years from now" 
+me says:counter anti disintermediation 😉 
+me says:citation needed 😉 
+20:54
+Jerry Michalski
+Jerry Michalski says:full title: Travelling Brothers: The Six Centuries' Road from Craft Fellowship to Trade Unionism (1979) 
+Jerry Michalski says:A Collective Bargain: Unions, Organizing, and the Fight for Democracy (2020) ? 
+20:55
+me says:
+flancia.org/mine/flanbook
+ is a bit about this -- coopting the machinery of capitalism for the purpose of advancing the revolution 
+20:56
+Jerry Michalski
+Jerry Michalski says:oooo! 
+20:56
+me says:commons 
+me says:enclosure of the commons == another manifestation of capitalist colonization 
+20:57
+Jerry Michalski
+Jerry Michalski says:my notes from this call: 
+https://bra.in/3pWnJo
+ 
+20:58
+Aram Zucker-Scharff
+Aram Zucker-Scharff says:Ah i was thinking of Fight Like Hell by Kim Kelly 
+Aram Zucker-Scharff says:I'll read that! :walking: 
+
 ## 2022-06-17
 - Attending: [[Jerry Michalski]], [[metasj]], [[Mathew Lowry]], [[flancian]]
 - (joined late) (chat history)
