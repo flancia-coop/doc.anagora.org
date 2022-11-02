@@ -20,7 +20,9 @@ Can be recurring or with a marked date.
         - working on [[project plan]] prior to bringing it to the [[fellowship of the link]]
         - https://dainty-sable-264aa3.netlify.app/project/measuring_thinking_tools.html
     - [[chris aldrich]] [[openness]] axis seems too dense
-    - [[calendar]]
+        - we should also assume that developers will tackle the low hanging fruit / perform minimum effort :)
+    - [[calendar]] https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NW8zbXUzOXAxMWZxNjlydGFwcWV0YnNnZWQgcGV0ZXIua2FtaW5za2lAbQ&tmsrc=peter.kaminski%40gmail.com
+        - [[flancian]] link doesn't seem to work?
 
 ## 2022-10-26
 - Attending: [[peter kaminski]] [[chris aldrich]] [[flancian]] [[bentley davis]] [[maparent]] [[samuel klein]]
