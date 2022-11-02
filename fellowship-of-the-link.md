@@ -13,6 +13,9 @@ Can be recurring or with a marked date.
 - Start recording, we're currently using Jitsi and that works best with a [[Chromium]] based browser.
 - #pull [[fotl threads]]
 
+## 2022-11-02
+- Attending: [[peter kaminski]] [[c]]
+
 ## 2022-10-26
 - Attending: [[peter kaminski]] [[chris aldrich]] [[flancian]] [[bentley davis]] [[maparent]] [[samuel klein]]
 - Second call on [[Wednesday]].
