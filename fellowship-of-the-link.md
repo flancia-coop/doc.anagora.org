@@ -28,7 +28,9 @@ Can be recurring or with a marked date.
         - [[flancian]] link doesn't seem to work?
 - [[aram zucker-scharff]] interoperability
     - easiest way is to piggyback on what they're already doing
-    - e
+    - people onboarding onto [[mastodon]]
+        - people coming up with lots of new things in the tool space -- many requiring to sign in with both mastodon and twitter
+        - [[chris aldrich]] no algorithmic feed, fewer features -- as a feature :)
 
 ## 2022-10-26
 - Attending: [[peter kaminski]] [[chris aldrich]] [[flancian]] [[bentley davis]] [[maparent]] [[samuel klein]]
