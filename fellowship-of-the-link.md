@@ -36,7 +36,7 @@ Can be recurring or with a marked date.
     - [[bluesky]]
         - associated with [[twitter]], but
         - [[pfrazee]]
-    - #jm
+    - #jm is there something better than ActivityPub/Mastodon for people 
 
 ## 2022-10-26
 - Attending: [[peter kaminski]] [[chris aldrich]] [[flancian]] [[bentley davis]] [[maparent]] [[samuel klein]]
