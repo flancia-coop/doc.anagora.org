@@ -23,8 +23,12 @@ Can be recurring or with a marked date.
         - we should also assume that developers will tackle the low hanging fruit / perform minimum effort to tick a box if that's within reach :)
         - [[mathew lowry]] is keen on keeping the number of dimensions low-ish, 6-8 dimensions
             - which would look nice in a spidergraph
+        - [[chris aldrich]] also makes sense to apply the pareto principle
     - [[calendar]] https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NW8zbXUzOXAxMWZxNjlydGFwcWV0YnNnZWQgcGV0ZXIua2FtaW5za2lAbQ&tmsrc=peter.kaminski%40gmail.com
         - [[flancian]] link doesn't seem to work?
+- [[aram zucker-scharff]] interoperability
+    - easiest way is to piggyback on what they're already doing
+    - e
 
 ## 2022-10-26
 - Attending: [[peter kaminski]] [[chris aldrich]] [[flancian]] [[bentley davis]] [[maparent]] [[samuel klein]]
