@@ -18,7 +18,9 @@ Can be recurring or with a marked date.
 - [[peter kaminski]] [[airtable]]
     - #push [[thinking tools map]]
         - working on [[project plan]] prior to bringing it to the [[fellowship of the link]]
-        - #https://dainty-sable-264aa3.netlify.app/project/measuring_thinking_tools.html
+        - https://dainty-sable-264aa3.netlify.app/project/measuring_thinking_tools.html
+    - [[chris aldrich]] [[openness]] axis seems too dense
+    - [[calendar]]
 
 ## 2022-10-26
 - Attending: [[peter kaminski]] [[chris aldrich]] [[flancian]] [[bentley davis]] [[maparent]] [[samuel klein]]
