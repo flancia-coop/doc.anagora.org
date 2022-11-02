@@ -49,6 +49,8 @@ Can be recurring or with a marked date.
          - [[apprentice]] -> [[yeomen]] -> [[master]]
          - [[masterpiece]] is what the [[yeomen]] had to build to become a master
          - "advertising is the colonizing force of capitalism in internet spaces"
+         - [[mutual aid]] societies yielded technologies like [[insurance]]
+         - it feels like we're trying to find our way back to some of these concepts
 
 ## 2022-10-26
 - Attending: [[peter kaminski]] [[chris aldrich]] [[flancian]] [[bentley davis]] [[maparent]] [[samuel klein]]
