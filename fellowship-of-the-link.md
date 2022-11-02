@@ -14,7 +14,11 @@ Can be recurring or with a marked date.
 - #pull [[fotl threads]]
 
 ## 2022-11-02
-- Attending: [[peter kaminski]] [[c]]
+- Attending: [[peter kaminski]] [[chris aldrich]] [[aram zucker-scharff]] [[jerry michalski]] [[flancian]]
+- [[peter kaminski]] [[airtable]]
+    - #push [[thinking tools map]]
+        - working on [[project plan]] prior to bringing it to the [[fellowship of the link]]
+        - #https://dainty-sable-264aa3.netlify.app/project/measuring_thinking_tools.html
 
 ## 2022-10-26
 - Attending: [[peter kaminski]] [[chris aldrich]] [[flancian]] [[bentley davis]] [[maparent]] [[samuel klein]]
