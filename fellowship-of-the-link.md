@@ -39,6 +39,7 @@ Can be recurring or with a marked date.
     - #jm is there something better than ActivityPub/Mastodon for people that want a replacement?
         - [[flancian]] don't know anything promising currently that is not ActivityPub based
         - [[pleroma]] [[lemmy]] [[misskey]] are all built on top of ActivityPub too
+     - [[advertisin]] as an 
 
 ## 2022-10-26
 - Attending: [[peter kaminski]] [[chris aldrich]] [[flancian]] [[bentley davis]] [[maparent]] [[samuel klein]]
