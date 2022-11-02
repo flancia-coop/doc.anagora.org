@@ -31,6 +31,7 @@ Can be recurring or with a marked date.
     - people onboarding onto [[mastodon]]
         - people coming up with lots of new things in the tool space -- many requiring to sign in with both mastodon and twitter
         - [[chris aldrich]] no algorithmic feed, fewer features -- as a feature :)
+        - instances are more like twitter lists, at a similar level
 
 ## 2022-10-26
 - Attending: [[peter kaminski]] [[chris aldrich]] [[flancian]] [[bentley davis]] [[maparent]] [[samuel klein]]
