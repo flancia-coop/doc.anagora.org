@@ -51,6 +51,8 @@ Can be recurring or with a marked date.
          - "advertising is the colonizing force of capitalism in internet spaces"
          - [[mutual aid]] societies yielded technologies like [[insurance]]
          - it feels like we're trying to find our way back to some of these concepts
+     - #azs book on modern unions
+         - you can't get to the revolution until people feel safe
 
 ## 2022-10-26
 - Attending: [[peter kaminski]] [[chris aldrich]] [[flancian]] [[bentley davis]] [[maparent]] [[samuel klein]]
