@@ -42,7 +42,13 @@ Can be recurring or with a marked date.
      - [[advertising]] as an option to individuals funding instances as hobby projects
      - [[coops]] as another option
          - #azs [[data coops]]
-     - #jm 
+     - #jm book about quakers / morals and [[travelling brothers]]
+         - history of [[guilds]]
+         - industrial revolution starts to hit, early capitalists realize they need to undermine the guild system
+             - https://www.goodreads.com/book/show/4467218-travelling-brothers?from_search=true&from_srp=true&qid=wM2PoCC5zD&rank=12
+         - [[apprentice]] -> [[yeomen]] -> [[master]]
+         - [[masterpiece]] is what the [[yeomen]] had to build to become a master
+         - "advertising is the colonizing force of capitalism in internet spaces"
 
 ## 2022-10-26
 - Attending: [[peter kaminski]] [[chris aldrich]] [[flancian]] [[bentley davis]] [[maparent]] [[samuel klein]]
