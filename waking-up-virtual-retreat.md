@@ -1,1 +1,1 @@
-- 
+- t's relatively  hard to use hedgedoc from mobile. maybe I should update?
