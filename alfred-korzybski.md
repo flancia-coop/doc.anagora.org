@@ -1,0 +1,3 @@
+- a [[person]].
+  - [[scholar]]
+  - #pull [[the map is not the territory]]
