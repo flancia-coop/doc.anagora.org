@@ -4,6 +4,7 @@
 
 ## season 3
 
+### episode 6 ()
 ### episode 5 (9th October - 16th October)
 
 - [[Communicative capitalism]] / [[Communicative Capitalism and Class Struggle]] -- [[neil]]
