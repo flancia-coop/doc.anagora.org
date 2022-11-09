@@ -15,7 +15,13 @@ Can be recurring or with a marked date.
 
 ## 2022-11-09
 - [[the expanse]]
-    - [[ui]]
+    - [[ui]] innovations ;)
+    - #jm [[minority report]] -> [[gspeak]] http://www.oblong.com/g-speak/
+    - #jm [[betaworks podcast]] https://open.spotify.com/episode/5rELqjWh8GHBgvmqVHBBmA (fav)
+    - https://techcrunch.com/2010/10/15/hands-on-with-the-mit-media-labs-g-speak-interface/
+- [[check ins]]
+    - [[flancian]]
+        - 
 
 ## 2022-11-02
 - Attending: [[peter kaminski]] [[chris aldrich]] [[aram zucker-scharff]] [[jerry michalski]] [[flancian]]
@@ -58,7 +64,6 @@ Can be recurring or with a marked date.
      - #azs book on modern unions
          - you can't get to the revolution until people feel safe
          - Ah i was thinking of [[Fight Like Hell]] by Kim Kelly 
-
 
 ## 2022-10-26
 - Attending: [[peter kaminski]] [[chris aldrich]] [[flancian]] [[bentley davis]] [[maparent]] [[samuel klein]]
