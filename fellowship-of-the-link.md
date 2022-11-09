@@ -42,6 +42,7 @@
             - [[chris aldrich]] align with external economic incentives, e.g. Japan after ww2?
             - #jm Japanese optics technology came from plans/designs that were retrieved from [[zeiss]] Germany by the US
             - [[peter kaminski]] worked in telcos in the 80s, saw some degree of [[learned helplessness]] (AT&T could do no wrong)
+            - #jm interesting contrast with what happened in the auto industries in these countries, [[deming]] http://en.wikipedia.org/wiki/Edwards_Deming
    - [[peter kaminski]] 
        - Thinking Tools Map Project still chugging along, we're still working on "dimensions" and making good (but slow) progress. We're using Airtable for some of our brainstorming about dimensions.
        - random tool: [[Quillbot]] looks like a useful writing tool, including different paraphrasing modes and AI summarization (I signed up for a 1-year subscription)
