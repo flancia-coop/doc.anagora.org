@@ -34,10 +34,11 @@
             - Huawei, [[OpenHarmony]]
                 - how do you bridge open source across political boundaries?
                     - interesting take on "[[intellectual property]]" and political boundaries (and global macroeconomics): [[[The End of the Road to Serfdom]] by Cory Doctorow](https://doctorow.medium.com/the-end-of-the-road-to-serfdom-bfad6f3b35a9)
-                    - #jm [[franklin]] made a living without paying any royalties
+                    - #jm [[franklin]] made a living without paying any royalties; [[quakers]] "borrowing" the fondant method by swiss
         - impressed by the scope of projects being supported by the [[linux foundation]]
         - trying to articulate the [[rel8]] project: [[shared memory]]
    - [[peter kaminski]] 
+       - Thinking Tools Map Project still chugging along, we're still working on "dimensions" and making good (but slow) progress. We're usi
 
 ## 2022-11-02
 - Attending: [[peter kaminski]] [[chris aldrich]] [[aram zucker-scharff]] [[jerry michalski]] [[flancian]]
