@@ -15,13 +15,15 @@ Can be recurring or with a marked date.
 
 ## 2022-11-09
 - [[the expanse]]
+    - #jm [A Big Inspiration for OGM Is to Build the “Epstein Drive” for Civilization’s Memory and Decisions](https://bra.in/9qE7rK) ("Epstein Drive" is from The Expanse)
     - [[ui]] innovations ;)
     - #jm [[minority report]] -> [[gspeak]] http://www.oblong.com/g-speak/
     - #jm [[betaworks podcast]] https://open.spotify.com/episode/5rELqjWh8GHBgvmqVHBBmA (fav)
     - https://techcrunch.com/2010/10/15/hands-on-with-the-mit-media-labs-g-speak-interface/
 - [[check ins]]
     - [[flancian]]
-        - 
+        - social.coop work
+            - fediverse
 
 ## 2022-11-02
 - Attending: [[peter kaminski]] [[chris aldrich]] [[aram zucker-scharff]] [[jerry michalski]] [[flancian]]
