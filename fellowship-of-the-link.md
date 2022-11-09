@@ -47,6 +47,8 @@
             - #jm [[obeya]] https://en.wikipedia.org/wiki/Obeya
             - [[peter kaminski]] used to work an [[enterprise wiki]] company, got exposure to [[obeya]] rooms
             - #jm stamping system for consensus-management on proposals, based on paper. angle encodes agreement.
+            - #pk wikipedia editing cultures, on how to create a wiki page us/japan/germany
+            - [[chris aldrich]] solutions going from the top to the bottom and then "pinging back up" in a company structure
    - [[peter kaminski]] 
        - Thinking Tools Map Project still chugging along, we're still working on "dimensions" and making good (but slow) progress. We're using Airtable for some of our brainstorming about dimensions.
        - random tool: [[Quillbot]] looks like a useful writing tool, including different paraphrasing modes and AI summarization (I signed up for a 1-year subscription)
@@ -55,7 +57,6 @@
        - no checkin today
    - [[chris aldrich]]
        - [[betaworks tft]]: https://www.betaworks.com/media
-- 
 
 ## 2022-11-02
 - Attending: [[peter kaminski]] [[chris aldrich]] [[aram zucker-scharff]] [[jerry michalski]] [[flancian]]
