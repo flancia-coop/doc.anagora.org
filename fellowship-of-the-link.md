@@ -64,6 +64,7 @@
        - [[betaworks tft]]: https://www.betaworks.com/media
    - [[composability]] vs [[interoperability]]
        - #pk structurally similar, but at different hierarchical levels (interoperability is "outside the system")
+       - microsoft approach of 'integrating' open source projects and providers, but adding a proprietary overlay
 
 ## 2022-11-02
 - Attending: [[peter kaminski]] [[chris aldrich]] [[aram zucker-scharff]] [[jerry michalski]] [[flancian]]
