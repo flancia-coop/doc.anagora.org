@@ -51,7 +51,7 @@
             - [[chris aldrich]] solutions going from the top to the bottom and then "pinging back up" in a company structure
    - [[peter kaminski]] 
        - Thinking Tools Map Project still chugging along, we're still working on "dimensions" and making good (but slow) progress. We're using Airtable for some of our brainstorming about dimensions.
-           - our brainstorming Airtable, take it all with a grain of salt: https://airtable.com/invite/l?inviteId=invNGlDl702PpLJw0&inviteToken=6d20ee0fcda6d460240d202c746e1c408db3cf8202a55a860135f3489e498976&utm_medium=email&utm_source=product_team&utm_content=transactional-alerts
+           - our brainstorming Airtable, take it all with a grain of salt: https://airtable.com/invite/l?inviteId=invNGlDl702PpLJw0&inviteToken=6d20ee0fcda6d460240d202c746e1c408db3cf8202a55a860135f3489e498976
        - random tool: [[Quillbot]] looks like a useful writing tool, including different paraphrasing modes and AI summarization (I signed up for a 1-year subscription)
            - [[Lex.page]] is an up-and-coming writing tool with a nice, friendly interface, and has some AI features
        - dimensions discussion
