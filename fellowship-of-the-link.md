@@ -62,6 +62,8 @@
        - on the interactions between the tools graph and what [[canonical debate lab]] needs/has done
    - [[chris aldrich]]
        - [[betaworks tft]]: https://www.betaworks.com/media
+   - [[composability]] vs [[interoperability]]
+       - #pk structurally similar, but at different hierarchical levels (interoperability is "outside the system")
 
 ## 2022-11-02
 - Attending: [[peter kaminski]] [[chris aldrich]] [[aram zucker-scharff]] [[jerry michalski]] [[flancian]]
