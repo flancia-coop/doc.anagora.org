@@ -53,6 +53,8 @@
        - Thinking Tools Map Project still chugging along, we're still working on "dimensions" and making good (but slow) progress. We're using Airtable for some of our brainstorming about dimensions.
        - random tool: [[Quillbot]] looks like a useful writing tool, including different paraphrasing modes and AI summarization (I signed up for a 1-year subscription)
            - [[Lex.page]] is an up-and-coming writing tool with a nice, friendly interface, and has some AI features
+       - dimensions discussion
+           - focused on what [[user friendliness]] means
    - [[bentley davis]]
        - no checkin today
        - on the interactions between the tools graph and what [[canonical debate lab]] needs/has done

@@ -234,6 +234,65 @@ Aram Zucker-Scharff
 Aram Zucker-Scharff says:Ah i was thinking of Fight Like Hell by Kim Kelly 
 Aram Zucker-Scharff says:I'll read that! :walking: 
 
+
+## 2022-06-24
+### Attending: [[Jerry Michalski]] [[Chris Aldrich]] [[flancian]]
+### Video
+https://www.youtube.com/watch?v=K9aRBtTqLjw
+
+### Notes
+- Discussion of [[go links]]
+    - Demo in anagora.org :)
+    - [[go/fotl/chat]] and [[go/fellowship of the link/chat]] both now work
+- Time?
+    - 11am Pacific on Fridays?
+        - Could conflict with date nights in Europe :)
+    - [[11am Pacific on Thursdays]]?
+        - Let's try this!
+- [[shared resources]]
+    - [[Chris Aldrich]] putting up something in the site
+        - add a go link :)
+    - here's what we're doing, here's where we're going, here is how to join
+    - let's use [[chat]] for coordinating
+- what's a high leverage topic for the three of us?
+    - [[Chris Aldrich]] what's pareto optimal/the 20% we could tackle first?
+    - [[Jerry Michalski]] has been working on a [[shared vision]]
+    - [[flancian]] [[2025]]
+- [[Jerry Michalski]]
+    - how to build a "webring" for meetings, documents about projects
+    - [[obsidian]] with [[excalidraw]] done by a friend
+        - diagrams.net is also good
+    - [[open global mind]] ~ [[ogm]]
+        - [[flotilla]] -> [[federation]]
+        - what do you see from the top of your mast?
+        - [[multi plane camera]]
+        - [[map of the future]] ~ [[mosaic]]
+    - [[flancian]] [[agora]] plus iframes for mvp of the above
+    - [[Chris Aldrich]] standard based, using each item as a block
+        - [[oembed]]?
+        - tools tends to target one tool only, lots of duplication
+        - [[activitypub]]
+            - [[Chris Aldrich]] over designed it, over specified it, few people understand it completely
+                - [[aaron parecki]]
+            - [[mastodon]] as the de facto standard rather than ActivityPub itself
+                - we can bridge to mastodon or pleroma, do not need to reimplement it
+            - what about [[rss]]?
+                - [[Jerry Michalski]] does this not break transclusion?
+                - How can we prevent the unproductive RSS/Atom wars of the early blogosphere? 
+        - [[Jerry Michalski]] [[least common denominator]]
+            - problem or potential?
+            - [[tbl]] simplified [[sgml]] and made it break gracefully
+            - [[resiliency]]
+        - [[cory doctorow]] on the [[tragedy of the commons]]
+            - [[modus operandi]] and [[throughput]] amazing
+            - [[Chris Aldrich]]: cory has a [[commonplace book]] essentially, see https://pluralistic.net/2021/01/13/two-decades/
+            - [[flancian]]
+                - [[adversarial interoperability]] https://www.eff.org/deeplinks/2019/10/adversarial-interoperability
+                - [[catalog of missing devices]]
+- from chat unprocesssed
+    - Jerry Michalski dice:transclusion 
+    - Chris Aldrich dice:How to create a Read Fork Write Merge Web? 
+
 ## 2022-06-17
 - Attending: [[Jerry Michalski]], [[metasj]], [[Mathew Lowry]], [[flancian]]
 - (joined late) (chat history)
