@@ -1,13 +1,10 @@
 # Fellowship of the Link
 
 - a [[meeting]].
-    - [[weekly]]
     - #go https://meet.jit.si/fellowship-of-the-link
     - Wednesdays at [[6PM UTC]].
     
 ## Agenda
-
-Can be recurring or with a marked date.
 
 - Attending: [[x]]
 - Start recording, we're currently using Jitsi and that works best with a [[Chromium]] based browser.
@@ -36,9 +33,11 @@ Can be recurring or with a marked date.
             - [[futurewei]] -- future oriented think tank by [[huawei]], https://www.futurewei.com/
             - Huawei, [[OpenHarmony]]
                 - how do you bridge open source across political boundaries?
-                    - interesting take on "intellectual property" and political boundaries (and global macroeconomics): [The End of the Road to Serfdom by Cory Doctorow](https://doctorow.medium.com/the-end-of-the-road-to-serfdom-bfad6f3b35a9)
+                    - interesting take on "[[intellectual property]]" and political boundaries (and global macroeconomics): [[[The End of the Road to Serfdom]] by Cory Doctorow](https://doctorow.medium.com/the-end-of-the-road-to-serfdom-bfad6f3b35a9)
+                    - #jm [[franklin]] made a living without paying any royalties
         - impressed by the scope of projects being supported by the [[linux foundation]]
         - trying to articulate the [[rel8]] project: [[shared memory]]
+   - [[peter kaminski]] 
 
 ## 2022-11-02
 - Attending: [[peter kaminski]] [[chris aldrich]] [[aram zucker-scharff]] [[jerry michalski]] [[flancian]]
