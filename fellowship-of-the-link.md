@@ -25,7 +25,14 @@ Can be recurring or with a marked date.
         - social.coop work
             - fediverse
         - [[agora chapter]]
-        
+    - [[jerry michalski]]
+        - near [[tahoe]], [Resort at Squaw Creek](https://www.destinationhotels.com/squawcreek)
+        - [[linux foundation]] is having its member summit
+        - helping facilitate a meeting
+        - two stories
+            - someone working on medicare
+            - duopoly on hospital information systems is in place
+            - [[open ehr]]
 
 ## 2022-11-02
 - Attending: [[peter kaminski]] [[chris aldrich]] [[aram zucker-scharff]] [[jerry michalski]] [[flancian]]
