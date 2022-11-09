@@ -24,6 +24,8 @@ Can be recurring or with a marked date.
     - [[flancian]]
         - social.coop work
             - fediverse
+        - [[agora chapter]]
+        
 
 ## 2022-11-02
 - Attending: [[peter kaminski]] [[chris aldrich]] [[aram zucker-scharff]] [[jerry michalski]] [[flancian]]
@@ -66,8 +68,7 @@ Can be recurring or with a marked date.
      - #azs book on modern unions
          - you can't get to the revolution until people feel safe
          - Ah i was thinking of [[Fight Like Hell]] by Kim Kelly 
-
-## 2022-10-26
+ ## 2022-10-26
 - Attending: [[peter kaminski]] [[chris aldrich]] [[flancian]] [[bentley davis]] [[maparent]] [[samuel klein]]
 - Second call on [[Wednesday]].
 - Recording in Jitsi only works in Chromium.
