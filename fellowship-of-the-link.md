@@ -34,7 +34,11 @@ Can be recurring or with a marked date.
                 - duopoly on hospital information systems is in place
                 - [[open ehr]] could be the best path
             - [[futurewei]] -- future oriented think tank by [[huawei]], https://www.futurewei.com/
+            - Huawei, [[OpenHarmony]]
                 - how do you bridge open source across political boundaries?
+                    - interesting take on "intellectual property" and political boundaries (and global macroeconomics): [The End of the Road to Serfdom by Cory Doctorow](https://doctorow.medium.com/the-end-of-the-road-to-serfdom-bfad6f3b35a9)
+        - impressed by the scope of projects being supported by the [[linux foundation]]
+        - trying to articulate the [[rel8]] project: [[shared memory]]
 
 ## 2022-11-02
 - Attending: [[peter kaminski]] [[chris aldrich]] [[aram zucker-scharff]] [[jerry michalski]] [[flancian]]
@@ -1585,5 +1589,3 @@ https://www.youtube.com/watch?v=K9aRBtTqLjw
 - from chat unprocesssed
     - Jerry Michalski dice:transclusion 
     - Chris Aldrich dice:How to create a Read Fork Write Merge Web? 
-
-(Older notes are now in [[fotl]].)
