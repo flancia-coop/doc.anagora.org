@@ -27,12 +27,14 @@ Can be recurring or with a marked date.
         - [[agora chapter]]
     - [[jerry michalski]]
         - near [[tahoe]], [Resort at Squaw Creek](https://www.destinationhotels.com/squawcreek)
-        - [[linux foundation]] is having its member summit
+        - [[linux foundation]] is having its member summit, <https://events.linuxfoundation.org/lf-member-summit/attend/venue-travel/>
         - helping facilitate a meeting
         - two stories
-            - someone working on medicare
-            - duopoly on hospital information systems is in place
-            - [[open ehr]]
+            - talking to someone working on medicare, asked a question -- someone else answered :)
+                - duopoly on hospital information systems is in place
+                - [[open ehr]] could be the best path
+            - [[futurewei]] -- future oriented think tank by [[huawei]], https://www.futurewei.com/
+                - how do you bridge open source across political boundaries?
 
 ## 2022-11-02
 - Attending: [[peter kaminski]] [[chris aldrich]] [[aram zucker-scharff]] [[jerry michalski]] [[flancian]]
@@ -236,7 +238,6 @@ Can be recurring or with a marked date.
         - two kinds of self organization:
             - self organization around a shared goal in a self-selected group
             - coordinated action in a very large scale
-
 
 ## 2022-10-14
 - The band is back together! After a while :)
