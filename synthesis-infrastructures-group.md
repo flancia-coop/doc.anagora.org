@@ -85,4 +85,12 @@
           - (comment from jonny: it doesn't make sense that every introduction is written from scratch)
           - seeing the [[evolution of the question]]
           - [[negative]] or [[zero]] cost to enable our future selves
+      - [[meta science]] level and object science level
+          - [[wayne lutters]] would love to be a [[bridge]]
+              - if you have research that wants to be public, please share it 
+              - if you know systems or approaches, please share them
+              - if you know narratives about why someone should do this, please share them 
+      - [[matthew evans]]
+          - [[utopian ideals]] that could be achieved with these tools
+          - [[federated repositories]] over siloes
       - placeholder
