@@ -212,7 +212,9 @@
       - [[silvia bessa]] would people like to participate in a second edition of this, maybe physically?
           - many yeses all around :) 
       - [[wayne lutters]]
-          - for the next 1.5w, 
+          - for the next 1.5w, there's a conference ongoing: [[CSCW]] ~ https://cscw.acm.org/2022/
+      - [[karola kirsanow]]
+          - a [[living project]], would love to see you all again [[virtually or in person]]
   - [[jodi schneider]] is here and worked on [[cosma]] with [[guillaume brioudes]]
   - #push [[action items]]
       - https://synthesis-infrastructures.wiki/Calls_to_Action
