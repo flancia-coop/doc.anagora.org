@@ -25,4 +25,6 @@
       - arriving at alignment
       - incentivizing succesfully changing our minds
       - do we need a license or agreement?
-      - "what is the linked data"?
+      - "what is the linked data"? (what is the work?)
+      - [[jay]]: [[evidence map]], recognizing people, recognition tiers
+        - [[res cognito]]
