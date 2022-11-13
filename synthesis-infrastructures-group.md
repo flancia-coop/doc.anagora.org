@@ -135,6 +135,9 @@
                    - [[output]]
                        - some sort of [[collaborative writing]]
                        - [[google docs]]
+               - [[pao siangliulue]] will try to publish or write an article about the outcome
+                   - [[joel chan]] wants to join forces ;)
+               - [[jordan wick]]
   - [[X modeling]]?
   - #push [[action items]]
       - reach out to [[wayne lutters]] with narratives/example
