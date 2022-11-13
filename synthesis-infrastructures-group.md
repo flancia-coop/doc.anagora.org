@@ -1,0 +1,11 @@
+- [[2022-11-13]]
+- See also: https://doc.anagora.org/synthesis-infrastructures-group
+- [[Breakout rooms]] synthesis
+  - [[Silvia Bessa]]
+    - [[patterns]] for [[incentivizing synthesis]]
+      - [[authors]]
+      - something based on [[model cards]]  
+      - [[patterns languages]]
+        - https://synthesis-infrastructures.wiki/Social_Systems
+        - [[scrum patterns]] used [[towns, buildings, construction]] as reference
+      - [[angelina lesnikova]] how to properly do metrics for incentivization?
