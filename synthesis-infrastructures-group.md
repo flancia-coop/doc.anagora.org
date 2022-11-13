@@ -199,8 +199,18 @@
               - [[jonny saunders]] mentioned https://refer.cx on chat
       - presenting [[roam research]] [[megacoglab]] graph
   - [[meta]] how to keep momentum from this whole?
-      - [[flancian]] [[call to action]]
+      - [[flancian]] [[call to action]] page in the wiki created by Jonny?
+      - [[discord by default]]
       - [[martin karlsson]] suggest we use [[research roadmapping]]
+      - [[michael toomim]] what are all the different *groups*?
+          - [[metascience group]] for example
+          - [[discourse graphing]]
+          - [[federation]]
+      - [[joel chan]] fill in https://docs.google.com/forms/d/e/1FAIpQLSc0WxcL-EgaKXtwhu9ydiYTFzKjvT9K7VPjqqPRrDWMPHsQ9Q/viewform
+      - [[metasj]] ~ [[samuel klein]]
+          - Potential feature requests for discourse graph schemas, qualifiers/properties/parameters for distinguishing kinds of connections. Where are current discussions happening?
+
+
   - [[jodi schneider]] is here and worked on [[cosma]] with [[guillaume brioudes]]
   - #push [[action items]]
       - https://synthesis-infrastructures.wiki/Calls_to_Action
