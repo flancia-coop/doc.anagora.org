@@ -76,3 +76,10 @@
           - [[joel chan]] https://github.com/joelchan/semantic-climate-dg
       - [[wayne lutters]]
           - [[preservation]] after projects complete
+          - solving your projects in the future; our future selves as the audience -> [[ellie desota]]
+      - [[ellie desota]]
+          - revisiting past projects, process
+          - e.g. doing a [[literature review]]
+          - [[semantic bibliography]] -> [[living bibliography]]
+          - [[eventual realizatio]]
+      - placeholder
