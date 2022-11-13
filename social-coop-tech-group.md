@@ -1,4 +1,4 @@
-## [[2022-11-14]]
+## [[2022-11-14 - 19:00 UTC]]
 - Location: 
 - Attending: x, y, z
     - These will be crossposted to [[go/twg/minutes]].
@@ -6,6 +6,7 @@
     - [[check ins]]
     - suggested topics follow, please add more :)
         - [[documentation]] source of truth
+            - default: [[go/twg/wiki]]
             - report back to https://www.loomio.com/d/2Rwh5z3H/time-to-consolidate-wikis- (as per [[nathan schneider]]'s request.)
         - [[mastodon upgrade]]
             - backup restores as a prereq for mastodon upgrade process? or is that too conservative?
