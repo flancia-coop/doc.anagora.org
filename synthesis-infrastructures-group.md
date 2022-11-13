@@ -151,13 +151,15 @@
               - we have seen [[discourse graphs]]... but not many for some reason.
               - most of us have not taken it beyond an individual graph level
                   - one implementation: [[roam research discourse graph]]
-              - [[universal federation of discourse graphs]]
+              - [[universal federation of discourse graphs]] ~ [[united federation of discourse graphs]]
                   - [[naming]] is necessary for querying
                       - want to implement a particular data model which is documented in the wiki proper
                   - they mention the [[agora]] (!)
               - #push [[agora protocol]]
                   - #meta [[question]] [[claim]] tagging looks very nice
-                 
+          - stage two of the journey: [[the abyss]]
+              - we're reimplementing so much per tool, why don't we just rely on mediawiki?
+              - but what we're trying to really build here is a [[process]], a [[pattern language]]
       - [[kyle]] [[konrad]] [[denis]] (sp?)
   - [[Y graph]]
   - #push [[action items]]
