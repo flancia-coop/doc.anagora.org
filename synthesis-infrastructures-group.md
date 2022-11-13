@@ -21,6 +21,8 @@
           - #al [[funding]] has been one of the leading incentive mechanisms
   - [[martin karlsson]] on [[social systems]]
       - https://synthesis-infrastructures.wiki/Social_Systes
+      - but notes presented are in a [[google doc]]
       - arriving at alignment
       - incentivizing succesfully changing our minds
       - do we need a license or agreement?
+      - "what is the linked data"?
