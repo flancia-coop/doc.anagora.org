@@ -113,7 +113,9 @@
                       - (wow, nice numbered sections/index on this site)
                   - [[ways to work with materials]]
                       - shift from [[publication]] to a finer level of granularity
+                      - (had to take a toilet break here!)
                   - [[write in a scientific way]]
+                      - missed, will read
                   - [[ways to navigate complexity]]
   - [[X modeling]]?
   - #push [[action items]]
