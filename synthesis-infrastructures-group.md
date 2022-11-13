@@ -68,7 +68,11 @@
       - https://synthesis-infrastructures.wiki/Interdisciplinary_Models
       - making X machine readable/useful 
       - https://docs.google.com/forms/d/e/1FAIpQLSc0WxcL-EgaKXtwhu9ydiYTFzKjvT9K7VPjqqPRrDWMPHsQ9Q/viewform?usp=sf_link
-      - [[pater murray-rust]]
+      - [[pater murray-rust]] (has a lovely [[quixote]] drawing in the background))
           - dataset in [[pdf]]
           - used [[obsidian]], got excited about the possibilities
           - would like to convert to [[markdown]]
+          - https://github.com/petermr/semanticClimate
+          - [[joel chan]] https://github.com/joelchan/semantic-climate-dg
+      - [[wayne lutters]]
+          - [[preservation]] after projects complete
