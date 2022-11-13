@@ -115,8 +115,9 @@
                       - shift from [[publication]] to a finer level of granularity
                       - (had to take a toilet break here!)
                   - [[write in a scientific way]]
-                      - missed, will read
+                      - missed because of the above, will read
                   - [[ways to navigate complexity]]
+                      - idem
   - [[X modeling]]?
   - #push [[action items]]
       - reach out to [[wayne lutters]] with narratives/example
