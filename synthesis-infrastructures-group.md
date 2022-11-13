@@ -171,6 +171,7 @@
               - writing tools that enable better annotation during and after writing
           - how can we collaborate on the same graphs and representations given our diversity of backgrounds, the different tags/terminology we'd use?
               - [[agora]]
+              - [[everything2]]
               - [[massive wiki]]
       - [[metasj]] 
          - on [[naming]] and [[scope]]
