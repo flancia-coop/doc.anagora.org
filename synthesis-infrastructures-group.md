@@ -167,6 +167,8 @@
           - will document how to do [[rdf]] -> [[json jd]] -> [[mathematica]] -> [[querying]]
       - [[konrad hinsen]] 
           - [[federated future]]
+          - tried annotating on [[mediawiki]] and felt [[friction]]
+          - writing tools that enable annotation during and after writing
       - [[denis]] (sp?)
   - [[Y graph]]
   - [[jodi schneider]] is here and worked on [[cosma]] with [[guillaume brioudes]]
