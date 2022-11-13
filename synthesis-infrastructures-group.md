@@ -192,8 +192,11 @@
         - what does provenance means for [[knowledge graphs]]?
         - potential of [[nlp research]]
         - [[temporal knowledge graphs]]
+      - lots of connections with other groups w.r.t. [[augmenting reading]], [[annotations]]
+          - teaching tool
   - [[jodi schneider]] is here and worked on [[cosma]] with [[guillaume brioudes]]
   - #push [[action items]]
+      - https://synthesis-infrastructures.wiki/Calls_to_Action
       - reach out to [[wayne lutters]] with narratives/example
       - reach out to [[michael toomin]]
       - reach out to... lots of people actually, this group is amazing!
