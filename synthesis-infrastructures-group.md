@@ -168,7 +168,8 @@
       - [[konrad hinsen]] 
           - [[federated future]]
           - tried annotating on [[mediawiki]] and felt [[friction]]
-          - writing tools that enable annotation during and after writing
+              - writing tools that enable better annotation during and after writing
+          - how can we collaborate on the same graphs and representations given our diversity of backgrounds, the different tags/terminology we'd use
       - [[denis]] (sp?)
   - [[Y graph]]
   - [[jodi schneider]] is here and worked on [[cosma]] with [[guillaume brioudes]]
