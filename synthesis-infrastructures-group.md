@@ -53,4 +53,9 @@
       - [[semantic mediawiki]] uses a [[property::object]] scheme
   - [[amy zhang]] created something complementary to [[jonny]]'s!
       - [[bot]] approach
-      - something that can bootstrap off what people are already doing -- what's the least extra that they ca
+      - something that can bootstrap off what people are already doing -- what's the least extra that they can do?
+      - trying to bootstrap from paper announcements
+      - if someone makes an announcement post of their paper, if they add an identifier in it in the form (username:string)
+      - the bot will respond to that post with a link to the announcement and the original paper announcement of the paper
+      - see https://masto.synthesis-infrastructures.wiki/@Synthbot/109335372976261537
+      - using social as a primary data store
