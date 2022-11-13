@@ -93,4 +93,9 @@
       - [[matthew evans]]
           - [[utopian ideals]] that could be achieved with these tools
           - [[federated repositories]] over siloes
+          - "if you add it to the federation, it can be discovered"
+          - better examples than "efficiency" are welcome
       - placeholder
+  - #push [[action items]]
+      - reach out to [[wayne lutters]] with narrat
+      - 
