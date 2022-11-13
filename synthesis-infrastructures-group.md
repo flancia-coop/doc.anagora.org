@@ -138,6 +138,9 @@
                - [[pao siangliulue]] will try to publish or write an article about the outcome
                    - [[joel chan]] wants to join forces ;)
                - [[jordan wick]]
+                   - a [[sketch]] to link paper annotation and twitter/mastodon
+                       - [[paper]]
+                       - [[twitter]] and [[mastodon]]
   - [[X modeling]]?
   - #push [[action items]]
       - reach out to [[wayne lutters]] with narratives/example
