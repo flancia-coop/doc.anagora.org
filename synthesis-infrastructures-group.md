@@ -144,9 +144,18 @@
                    - https://jon-e.net/infrastructure/#rebuilding-scientific-communication
   - [[discourse modeling]]
       - [[karola kirsanow]]
+          - https://synthesis-infrastructures.wiki/Discourse_Modeling
           - how do we transform/recompose [[narratives]]?
           - [[the hero's journey]]
           - understand literature, conversation, science research: the [[discourse graph]]
+              - we have seen [[discourse graphs]]... but not many for some reason.
+              - most of us have not taken it beyond an individual graph level
+                  - one implementation: [[roam research discourse graph]]
+              - [[universal federation of discourse graphs]]
+                  - [[naming]] is necessary for querying
+                      - want to implement a particular data
+                  
+          
       - [[kyle]] [[konrad]] [[denis]] (sp?)
   - [[Y graph]]
   - #push [[action items]]
