@@ -42,4 +42,4 @@
         - [[minimum viable product]] that could arise: 
             - notes that researchers take *while* they do (read) research
             - [[flancian]] https://hypothes.is is doing well in this space
-  - [[michael toomim]] recognizing entities/short names in [[mastod]]
+  - [[michael toomim]] recognizing entities/short names in [[mastodon]], [[jonny saunders]]'s work on [[wiki bot]] and dumping to [[semantic media wiki]].
