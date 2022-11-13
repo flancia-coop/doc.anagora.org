@@ -51,3 +51,6 @@
       - https://masto.synthesis-infrastructures.wiki is an experimental [[mastodon]] instance for the wiki
       - their approach uses [[jonny:wiki:foo]] for writing to [[foo]] IIUC
       - [[semantic mediawiki]] uses a [[property::object]] scheme
+  - [[amy zhang]] created something complementary to [[jonny]]'s!
+      - [[bot]] approach
+      - something that can bootstrap off what people are already doing -- what's the least extra that they ca
