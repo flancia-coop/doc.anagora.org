@@ -118,6 +118,10 @@
                       - missed because of the above, will read
                   - [[ways to navigate complexity]]
                       - idem
+               - [[pooja upadhyay]]
+                   - miro map of [[processes]], [[nuances]] and [[tools]] supporting these processes (!)
+                       - looks amazing -- https://miro.com/app/board/uXjVO7IFHEQ=/ (it seems, typed)
+                     
   - [[X modeling]]?
   - #push [[action items]]
       - reach out to [[wayne lutters]] with narratives/example
