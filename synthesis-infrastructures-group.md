@@ -9,3 +9,6 @@
         - https://synthesis-infrastructures.wiki/Social_Systems
         - [[scrum patterns]] used [[towns, buildings, construction]] as reference
       - [[angelina lesnikova]] how to properly do metrics for incentivization?
+      - [[flancian]] [[agora]] :)
+      - [[jonny]]
+      - [[private bitcoin trackers]]
