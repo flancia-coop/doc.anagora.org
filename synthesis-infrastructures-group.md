@@ -62,3 +62,5 @@
       - [[joel chan]] do you think this can be trialed in [[unsure]]?
       - [[amy zhang]] how to agree on hashtags/short forms/ways to identify papers?
       - [[flancian]] [[wikilinks]]
+      - [[sam klein]] are you thinking of keeping a separate index of hashtags somewhere?
+      - [[toomin]] no good database yet
