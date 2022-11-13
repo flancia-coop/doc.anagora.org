@@ -141,7 +141,14 @@
                    - a [[sketch]] to link paper annotation and twitter/mastodon
                        - [[paper]]
                        - [[twitter]] and [[mastodon]]
-  - [[X modeling]]?
+                   - https://jon-e.net/infrastructure/#rebuilding-scientific-communication
+  - [[discourse modeling]]
+      - [[karola kirsanow]]
+          - how do we transform/recompose [[narratives]]?
+          - [[the hero's journey]]
+          - understand literature, conversation, science research: the [[discourse graph]]
+      - [[kyle]] [[konrad]] [[denis]] (sp?)
+  - [[Y graph]]
   - #push [[action items]]
       - reach out to [[wayne lutters]] with narratives/example
       - reach out to [[michael toomin]]
