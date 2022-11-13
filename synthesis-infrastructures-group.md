@@ -169,7 +169,10 @@
           - [[federated future]]
           - tried annotating on [[mediawiki]] and felt [[friction]]
               - writing tools that enable better annotation during and after writing
-          - how can we collaborate on the same graphs and representations given our diversity of backgrounds, the different tags/terminology we'd use
+          - how can we collaborate on the same graphs and representations given our diversity of backgrounds, the different tags/terminology we'd use?
+              - [[agora]]
+              - [[massive wiki]]
+       
       - [[denis]] (sp?)
   - [[Y graph]]
   - [[jodi schneider]] is here and worked on [[cosma]] with [[guillaume brioudes]]
