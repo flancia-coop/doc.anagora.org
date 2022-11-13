@@ -11,4 +11,9 @@
       - [[angelina lesnikova]] how to properly do metrics for incentivization?
       - [[flancian]] [[agora]] :)
       - [[jonny]]
-      - [[private bitcoin trackers]]
+          - [[private bitcoin trackers]] -- what do they do right?
+          - [[p2p]] systems that are self sustaining
+              - they make it a social process
+              - they have a role to play: overlays that require an additional effort
+              - independence or interdependence with a [[credit assignment system]]
+          - #al 
