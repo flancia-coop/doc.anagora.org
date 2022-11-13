@@ -1,6 +1,7 @@
 - [[2022-11-13]]
 - See also: https://doc.anagora.org/synthesis-infrastructures-group
-- [[Breakout rooms]] synthesis
+-
+- [[Breakout rooms]]
   - [[Silvia Bessa]]
     - [[patterns]] for [[incentivizing synthesis]]
       - [[authors]]
