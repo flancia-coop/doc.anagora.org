@@ -64,6 +64,11 @@
       - [[flancian]] [[wikilinks]]
       - [[sam klein]] are you thinking of keeping a separate index of hashtags somewhere?
       - [[toomin]] no good database yet
-  - [[wayne lutters]] environmental components that enable shared models
+  - [[wayne lutters]] environmental components that enable shared models -- [[interdisciplinary models]]
+      - https://synthesis-infrastructures.wiki/Interdisciplinary_Models
       - making X machine readable/useful 
+      - https://docs.google.com/forms/d/e/1FAIpQLSc0WxcL-EgaKXtwhu9ydiYTFzKjvT9K7VPjqqPRrDWMPHsQ9Q/viewform?usp=sf_link
       - [[pater murray-rust]]
+          - dataset in [[pdf]]
+          - used [[obsidian]], got excited about the possibilities
+          - would like to convert to [[markdown]]
