@@ -121,7 +121,20 @@
                - [[pooja upadhyay]]
                    - miro map of [[processes]], [[nuances]] and [[tools]] supporting these processes (!)
                        - looks amazing -- https://miro.com/app/board/uXjVO7IFHEQ=/ (it seems, typed)
-                     
+                   - [[discovery]]
+                       - [[filtering]]
+                       - goinb back to marked information
+                   - (in between) [[writing notes]] 
+                   - [[processing]]
+                       - [[annotation]]
+                       - genesis of shared
+                       - identifying [[gaps]]
+                   - [[synthesis]]
+                       - more [[interconnection]]
+                       - developing [[shared taxonomies]]
+                   - [[output]]
+                       - some sort of [[collaborative writing]]
+                       - [[google docs]]
   - [[X modeling]]?
   - #push [[action items]]
       - reach out to [[wayne lutters]] with narratives/example
