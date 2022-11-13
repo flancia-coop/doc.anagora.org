@@ -191,7 +191,9 @@
         - how do we contextualize databases?
         - what does provenance means for [[knowledge graphs]]?
         - potential of [[nlp research]]
+        - [[temporal knowledge graphs]]
   - [[jodi schneider]] is here and worked on [[cosma]] with [[guillaume brioudes]]
   - #push [[action items]]
       - reach out to [[wayne lutters]] with narratives/example
       - reach out to [[michael toomin]]
+      - reach out to... lots of people actually, this group is amazing!
