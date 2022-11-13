@@ -209,8 +209,8 @@
       - [[joel chan]] fill in https://docs.google.com/forms/d/e/1FAIpQLSc0WxcL-EgaKXtwhu9ydiYTFzKjvT9K7VPjqqPRrDWMPHsQ9Q/viewform
       - [[metasj]] ~ [[samuel klein]]
           - Potential feature requests for discourse graph schemas, qualifiers/properties/parameters for distinguishing kinds of connections. Where are current discussions happening?
-
-
+      - [[silvia bessa]] would people like to participate in a second edition of this, maybe physically?
+          - many yes 
   - [[jodi schneider]] is here and worked on [[cosma]] with [[guillaume brioudes]]
   - #push [[action items]]
       - https://synthesis-infrastructures.wiki/Calls_to_Action
