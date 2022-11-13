@@ -64,3 +64,6 @@
       - [[flancian]] [[wikilinks]]
       - [[sam klein]] are you thinking of keeping a separate index of hashtags somewhere?
       - [[toomin]] no good database yet
+  - [[wayne lutters]] environmental components that enable shared models
+      - making X machine readable/useful 
+      - [[pater murray-rust]]
