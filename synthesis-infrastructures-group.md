@@ -16,4 +16,6 @@
               - they make it a social process
               - they have a role to play: overlays that require an additional effort
               - independence or interdependence with a [[credit assignment system]]
-          - #al 
+          - #al decision making, giving it as a right to the community
+          - [[ronen tamari]] how platforms capture data that could be used to do [[credit assignment]], reclaiming this data for the community
+          - #al [[funding]] has been one of the leading incentive mechanisms
