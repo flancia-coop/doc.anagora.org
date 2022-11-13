@@ -19,4 +19,8 @@
           - #al decision making, giving it as a right to the community
           - [[ronen tamari]] how platforms capture data that could be used to do [[credit assignment]], reclaiming this data for the community
           - #al [[funding]] has been one of the leading incentive mechanisms
-  - arriving and alignment
+  - [[martin karlsson]] on [[social systems]]
+      - https://synthesis-infrastructures.wiki/Social_Systes
+      - arriving at alignment
+      - incentivizing succesfully changing our minds
+      - do we need a license or agreement?
