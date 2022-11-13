@@ -1,14 +1,17 @@
 ## [[2022-11-14]]
+- Location: 
 - Attending: x, y, z
-- Defalut agenda
+    - These will be crossposted to [[go/twg/minutes]].
+- Default agenda
     - [[check ins]]
     - suggested topics follow, please add more :)
         - [[documentation]] source of truth
+            - report back to https://www.loomio.com/d/2Rwh5z3H/time-to-consolidate-wikis- (as per [[nathan schneider]]'s request.)
         - [[mastodon upgrade]]
+            - backup restores as a prereq for mastodon upgrade process? or is that too conservative?
         - second server for testing backup/restore
-        - backup restores
 
-## Several past instances had n[[loomio]]
+## Several past instances had notes only on [[loomio]]
 - See https://www.loomio.com/d/UwAeiBgE/tech-meeting-minutes for source of truth.
 
 ## 2022-05-27
