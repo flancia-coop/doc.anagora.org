@@ -1,6 +1,6 @@
 - [[2022-11-13]]
 - See also: https://doc.anagora.org/synthesis-infrastructures-group
-- [[social synthesis]]
+- Attended the breakout f[[social synthesis]]
 - [[Breakout rooms]] synthesis (in common)
   - someone asked about [[commmons]] that have scaled well, good question
   - [[Silvia Bessa]]
@@ -31,7 +31,12 @@
       - "what is the linked data"? (what is the work?)
       - [[jay]]: [[evidence map]], recognizing people, recognition tiers
         - [[res cognito]]
-  - 
+  - [[jonny saunders]]
   - [[ronen tamari]]
     - helping scholars find each other's work
     - curating content
+    - micro contributions to discourse
+    - sharing attention or endorsement
+    - it's hard to currently find all meta (e.g. reviews, comments, annotations) for a given resource
+    - "given some URL or ar reference for a paper", give me all X related to it/aggregate them
+    - [[minimum viable product]] that could arise: 
