@@ -1,4 +1,15 @@
+## [[2022-11-14]]
+- Attending: x, y, z
+- Defalut agenda
+    - [[check ins]]
+    - suggested topics follow, please add more :)
+        - [[documentation]] source of truth
+        - [[mastodon upgrade]]
+        - second server for testing backup/restore
+        - backup restores
 
+## Several past instances had n[[loomio]]
+- See https://www.loomio.com/d/UwAeiBgE/tech-meeting-minutes for source of truth.
 
 ## 2022-05-27
 - [[2022-05-27]]
