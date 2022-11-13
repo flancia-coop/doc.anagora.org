@@ -198,6 +198,9 @@
           - #push [[annotations]]
               - [[jonny saunders]] mentioned https://refer.cx on chat
       - presenting [[roam research]] [[megacoglab]] graph
+  - [[meta]] how to keep momentum from this whole?
+      - [[flancian]] [[call to action]]
+      - [[martin karlsson]] suggest we use [[research roadmapping]]
   - [[jodi schneider]] is here and worked on [[cosma]] with [[guillaume brioudes]]
   - #push [[action items]]
       - https://synthesis-infrastructures.wiki/Calls_to_Action
