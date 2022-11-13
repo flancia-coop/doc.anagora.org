@@ -210,7 +210,9 @@
       - [[metasj]] ~ [[samuel klein]]
           - Potential feature requests for discourse graph schemas, qualifiers/properties/parameters for distinguishing kinds of connections. Where are current discussions happening?
       - [[silvia bessa]] would people like to participate in a second edition of this, maybe physically?
-          - many yes 
+          - many yeses all around :) 
+      - [[wayne lutters]]
+          - for the next 1.5w, 
   - [[jodi schneider]] is here and worked on [[cosma]] with [[guillaume brioudes]]
   - #push [[action items]]
       - https://synthesis-infrastructures.wiki/Calls_to_Action
