@@ -153,9 +153,11 @@
                   - one implementation: [[roam research discourse graph]]
               - [[universal federation of discourse graphs]]
                   - [[naming]] is necessary for querying
-                      - want to implement a particular data
-                  
-          
+                      - want to implement a particular data model which is documented in the wiki proper
+                  - they mention the [[agora]] (!)
+              - #push [[agora protocol]]
+                  - #meta [[question]] [[claim]] tagging looks very nice
+                 
       - [[kyle]] [[konrad]] [[denis]] (sp?)
   - [[Y graph]]
   - #push [[action items]]
