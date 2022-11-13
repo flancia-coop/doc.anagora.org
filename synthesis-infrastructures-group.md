@@ -185,9 +185,12 @@
           - konrad mentioned that we need to remember the user perspective, how to meet the user where they are
       - [[karola kirsanow]]
           - call out: if you can annotate your notes with [[discourse graph]] tools, please do so and we'll try to work on integrating :)
-      - [[joel chan]]
-          - presenting
-  - [[computable graph]]
+  - [[computable graphs]]
+    - [[joel chan]]
+        - presenting https://synthesis-infrastructures.wiki/Computable_Graphs
+        - how do we contextualize databases?
+        - what does provenance means for [[knowledge graphs]]?
+        - potential of [[nlp research]]
   - [[jodi schneider]] is here and worked on [[cosma]] with [[guillaume brioudes]]
   - #push [[action items]]
       - reach out to [[wayne lutters]] with narratives/example
