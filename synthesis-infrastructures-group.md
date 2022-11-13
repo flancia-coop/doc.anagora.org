@@ -58,4 +58,7 @@
       - if someone makes an announcement post of their paper, if they add an identifier in it in the form (username:string)
       - the bot will respond to that post with a link to the announcement and the original paper announcement of the paper
       - see https://masto.synthesis-infrastructures.wiki/@Synthbot/109335372976261537
-      - using social as a primary data store
+      - using social more as a [[primary data store]]
+      - [[joel chan]] do you think this can be trialed in [[unsure]]?
+      - [[amy zhang]] how to agree on hashtags/short forms/ways to identify papers?
+      - [[flancian]] [[wikilinks]]
