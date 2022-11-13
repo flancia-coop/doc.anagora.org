@@ -178,7 +178,9 @@
          - we're doing this so that people working on compatible ideas can find each other and each other's arguments
          - priority; getting a few hundred discourse graphs, examples of questions that have been answered this way, which of course supports short and long form hypotheses
          - in an example, as we were trying to sketch out a discourse in the wiki, we did this at the level of section headers
-         - advantag
+         - advantages of systems that support [[transclusion]]
+         - [[short hand is used in large contexts]]
+      - 
       - [[denis]] (sp?)
   - [[Y graph]]
   - [[jodi schneider]] is here and worked on [[cosma]] with [[guillaume brioudes]]
