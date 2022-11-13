@@ -49,3 +49,5 @@
       - what is some way of accessing and providing linked data directly in [[mastodon]]?
       - [[amy]] some external link resolving
       - https://masto.synthesis-infrastructures.wiki is an experimental [[mastodon]] instance for the wiki
+      - their approach uses [[jonny:wiki:foo]] for writing to [[foo]] IIUC
+      - [[semantic mediawiki]] uses a [[property::object]] scheme
