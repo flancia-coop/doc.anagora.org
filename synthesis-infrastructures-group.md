@@ -95,7 +95,14 @@
           - [[federated repositories]] over siloes
           - "if you add it to the federation, it can be discovered"
           - better examples than "efficiency" are welcome
-      - placeholder
-  - #push [[action items]]
-      - reach out to [[wayne lutters]] with narrat
+  - [[interfaces]] https://synthesis-infrastructures.wiki/Interfaces
+      - [[pao siangliulue]]
+          - which kind of synthesis-friendly interfaces can you build?
+          - interview people from this workshop on how they do their [[synthesis]]?
+          - working on a [[diagram]]
+      - [[arthur perret]]
       - 
+  - [[X modeling]]?
+  - #push [[action items]]
+      - reach out to [[wayne lutters]] with narratives/example
+      - reach out to [[michael toomin]]
