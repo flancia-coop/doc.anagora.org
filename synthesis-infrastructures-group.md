@@ -101,7 +101,12 @@
           - interview people from this workshop on how they do their [[synthesis]]?
           - working on a [[diagram]]
       - [[arthur perret]]
-      - 
+          - https://www.arthurperret.fr/articles/2022-11-13-researchers-needs-and-options-for-collaborative-synthesis.html
+          - [[sharing screen]]
+              - (wow, nice site; reminds me of [[gwern]]'s)
+          - #push [[synthesis]]
+              - [[summarized knowledge]] "if researchers are lucky, they might come across a published synthesis that is both on topic, with sufficient coverage, and up to date"
+              - [[process]] of constructing new [[knowledge]]
   - [[X modeling]]?
   - #push [[action items]]
       - reach out to [[wayne lutters]] with narratives/example
