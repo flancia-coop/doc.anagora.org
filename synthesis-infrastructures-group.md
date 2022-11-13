@@ -172,7 +172,13 @@
           - how can we collaborate on the same graphs and representations given our diversity of backgrounds, the different tags/terminology we'd use?
               - [[agora]]
               - [[massive wiki]]
-       
+      - [[metasj]] 
+         - on [[naming]] and [[scope]]
+         - it starts with: why are we doing this? which kind of discourse would be like to support?
+         - we're doing this so that people working on compatible ideas can find each other and each other's arguments
+         - priority; getting a few hundred discourse graphs, examples of questions that have been answered this way, which of course supports short and long form hypotheses
+         - in an example, as we were trying to sketch out a discourse in the wiki, we did this at the level of section headers
+         - advantag
       - [[denis]] (sp?)
   - [[Y graph]]
   - [[jodi schneider]] is here and worked on [[cosma]] with [[guillaume brioudes]]
