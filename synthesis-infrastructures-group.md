@@ -163,9 +163,13 @@
           - [[karola kirsanow]] rocks
       - [[kyle m]] 
           - goal for the weekend: work with [[discourse graphs as data]]
-      - [[konrad]] [[denis]] (sp?)
+          - new to [[sparql]] but is adding a [[tools]] section to the wiki 
+          - will document how to do [[rdf]] -> [[json jd]] -> [[mathematica]] -> [[querying]]
+      - [[konrad hinsen]] 
+          - [[federated future]]
+      - [[denis]] (sp?)
   - [[Y graph]]
-  - [[jodi schneider]] is here and worked on [[cosma]] with [[guill]]
+  - [[jodi schneider]] is here and worked on [[cosma]] with [[guillaume brioudes]]
   - #push [[action items]]
       - reach out to [[wayne lutters]] with narratives/example
       - reach out to [[michael toomin]]
