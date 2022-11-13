@@ -160,8 +160,12 @@
           - stage two of the journey: [[the abyss]]
               - we're reimplementing so much per tool, why don't we just rely on mediawiki?
               - but what we're trying to really build here is a [[process]], a [[pattern language]]
-      - [[kyle]] [[konrad]] [[denis]] (sp?)
+          - [[karola kirsanow]] rocks
+      - [[kyle m]] 
+          - goal for the weekend: work with [[discourse graphs as data]]
+      - [[konrad]] [[denis]] (sp?)
   - [[Y graph]]
+  - [[jodi schneider]] is here and worked on [[cosma]] with [[guill]]
   - #push [[action items]]
       - reach out to [[wayne lutters]] with narratives/example
       - reach out to [[michael toomin]]
