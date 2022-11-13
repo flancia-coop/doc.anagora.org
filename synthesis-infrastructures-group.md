@@ -81,5 +81,8 @@
           - revisiting past projects, process
           - e.g. doing a [[literature review]]
           - [[semantic bibliography]] -> [[living bibliography]]
-          - [[eventual realizatio]]
+          - [[eventual realizations]], a machine could bring in new projects and papers on the field you're interested in
+          - (comment from jonny: it doesn't make sense that every introduction is written from scratch)
+          - seeing the [[evolution of the question]]
+          - [[negative]] or [[zero]] cost to enable our future selves
       - placeholder
