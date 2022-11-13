@@ -183,7 +183,11 @@
       - [[deniz aydemir]]
           - joined late but would like to point out a few salient points
           - konrad mentioned that we need to remember the user perspective, how to meet the user where they are
-  - [[Y graph]]
+      - [[karola kirsanow]]
+          - call out: if you can annotate your notes with [[discourse graph]] tools, please do so and we'll try to work on integrating :)
+      - [[joel chan]]
+          - presenting
+  - [[computable graph]]
   - [[jodi schneider]] is here and worked on [[cosma]] with [[guillaume brioudes]]
   - #push [[action items]]
       - reach out to [[wayne lutters]] with narratives/example
