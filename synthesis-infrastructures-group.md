@@ -23,7 +23,7 @@
           - #al [[funding]] has been one of the leading incentive mechanisms
   - [[martin karlsson]] on [[social systems]]
       - https://docs.google.com/document/d/1g1V4WKKmIaEajC9AW9fdbqOnTd7joaasc-AjFDYNC5o/edit?usp=sharing
-      - https://synthesis-infrastructures.wiki/Social_Systes
+      - https://synthesis-infrastructures.wiki/Social_Systems
       - but notes presented are in a [[google doc]]
       - arriving at alignment
       - incentivizing succesfully changing our minds
