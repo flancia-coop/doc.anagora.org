@@ -180,8 +180,9 @@
          - in an example, as we were trying to sketch out a discourse in the wiki, we did this at the level of section headers
          - advantages of systems that support [[transclusion]]
          - [[short hand is used in large contexts]]
-      - 
-      - [[denis]] (sp?)
+      - [[deniz aydemir]]
+          - joined late but would like to point out a few salient points
+          - konrad mentioned that we need to remember the user perspective, how to meet the user where they are
   - [[Y graph]]
   - [[jodi schneider]] is here and worked on [[cosma]] with [[guillaume brioudes]]
   - #push [[action items]]
