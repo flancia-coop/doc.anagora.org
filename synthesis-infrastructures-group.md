@@ -1,7 +1,8 @@
 - [[2022-11-13]]
 - See also: https://doc.anagora.org/synthesis-infrastructures-group
--
-- [[Breakout rooms]]
+- [[social synthesis]]
+- [[Breakout rooms]] synthesis (in common)
+  - someone asked about [[commmons]] that have scaled well, good question
   - [[Silvia Bessa]]
     - [[patterns]] for [[incentivizing synthesis]]
       - [[authors]]
@@ -21,6 +22,7 @@
           - [[ronen tamari]] how platforms capture data that could be used to do [[credit assignment]], reclaiming this data for the community
           - #al [[funding]] has been one of the leading incentive mechanisms
   - [[martin karlsson]] on [[social systems]]
+      - https://docs.google.com/document/d/1g1V4WKKmIaEajC9AW9fdbqOnTd7joaasc-AjFDYNC5o/edit?usp=sharing
       - https://synthesis-infrastructures.wiki/Social_Systes
       - but notes presented are in a [[google doc]]
       - arriving at alignment
@@ -29,3 +31,7 @@
       - "what is the linked data"? (what is the work?)
       - [[jay]]: [[evidence map]], recognizing people, recognition tiers
         - [[res cognito]]
+  - 
+  - [[ronen tamari]]
+    - helping scholars find each other's work
+    - curating content
