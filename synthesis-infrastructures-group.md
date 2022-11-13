@@ -112,7 +112,7 @@
                   - under-developed, but cites [[the handbook of science and technology]]
                       - (wow, nice numbered sections/index on this site)
                   - [[ways to work with materials]]
-                      - shift from [[publication]] to a finer l
+                      - shift from [[publication]] to a finer level of granularity
                   - [[write in a scientific way]]
                   - [[ways to navigate complexity]]
   - [[X modeling]]?
