@@ -107,6 +107,14 @@
           - #push [[synthesis]]
               - [[summarized knowledge]] "if researchers are lucky, they might come across a published synthesis that is both on topic, with sufficient coverage, and up to date"
               - [[process]] of constructing new [[knowledge]]
+              - the latter as larger question
+              - [[needs]]
+                  - under-developed, but cites [[the handbook of science and technology]]
+                      - (wow, nice numbered sections/index on this site)
+                  - [[ways to work with materials]]
+                      - shift from [[publication]] to a finer l
+                  - [[write in a scientific way]]
+                  - [[ways to navigate complexity]]
   - [[X modeling]]?
   - #push [[action items]]
       - reach out to [[wayne lutters]] with narratives/example
