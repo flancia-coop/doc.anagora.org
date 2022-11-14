@@ -58,9 +58,14 @@
                         - autonomic does the same, with [[coop cloud]]:
                             - using [[ansible]] to provision servers
                             - for deployments you use the [[coop cloud]] command-line interface, `abra` which uses [[docker swarm]] to do [[zero downtime deploy]]
-                            - mastodon upgrades are still done by humans though :) but it's done 
+                            - mastodon upgrades are still done by humans though :) but it's done somewhere standardized
                         - excited about consolidating documentation - definitely want to document things before trying to automate them
                     - [[flancian]] when I needed to fix the spam trap, it is deployed by ansible, found myself undoing some of the safety mechanisms
+                - default / feeling it out
+                    - keep tech/operations as the One Repository to clone if you're a new member of the twg
+                    - fold [[sauce]] into [[tech operations]]
+                    - fold [[systemd unit]]
+                    - have [[tech operations]] 
         - [[mastodon upgrade]]
             - backup restores as a prereq for mastodon upgrade process? or is that too conservative?
         - second server for testing backup/restore
