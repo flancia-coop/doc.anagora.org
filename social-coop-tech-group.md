@@ -53,6 +53,13 @@
                     - [[ian]] what he would suggest is getting [[cicd]] on [[gitlab]] running
                     - [[ian]] the big thing with ansible is that it keeps the configuration in code
                     - [[edsu]] talking about the [[second server]] (see [[mastodon upgrade]]), we can take that same playbook and just go with it
+                    - [[calix]]
+                        - in [[autonomic]] they also tried using ansible for deployments and they gave up
+                        - [[coop cloud]] does the same:
+                            - using [[ansible]] to provision servers
+                            - for deployments you use the [[coop cloud]] interface (?)
+                                - uses [[docker swarm]] to do [[zero downtime deploy]]
+                        - excited about consolidating documentation
                     - [[flancian]] when I needed to fix the spam trap, it is deployed by ansible, found myself undoing some of the safety mechanisms
         - [[mastodon upgrade]]
             - backup restores as a prereq for mastodon upgrade process? or is that too conservative?
