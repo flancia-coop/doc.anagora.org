@@ -35,7 +35,7 @@
             - [[flancian]]: then work on ./bootstrap-prod.sh :)
             - [[flancian]]: what's the best repo for that? is it [[ansible]] because of how we want to use automation for this, in particular for ./bootstrap-prod.sh?
             - flancian: originally thought tech-operations but maybe ansible?
-            - [[protean]]: as he was doing the documentation revamp he leaned towards *not* putting everything in ansible
+            - [[protean]] ~ [[ian]]: as he was doing the documentation revamp he leaned towards *not* putting everything in ansible
                 - the setup we have may be partly influenced by the lack of group wikis in gitlab at the time of design
                 - question: when you want to use the ansible repo, the way it's intended to be used:
                     - you have your ssh key in your local machine that you're working on
@@ -48,6 +48,10 @@
                     - [[flancian]] ansible did feel like a learning curve when starting
                     - [[edsu]] should we use [[ansible]] to do upgrades? maybe we could tackle [[mastodon upgrade]] this way and learn from that?
                     - [[ian]] even at work, ansible manages the stages from bare metal to deployment ready.
+                    - [[edsu]] how do you deploy?
+                    - [[ian]] customized git clone/symlinking in the server.
+                    - [[ian]] what he would suggest is getting [[cicd]] on [[gitlab]] running
+                    - [[flancian]] when I needed to fix the spam trap, it is deployed by ansible,
         - [[mastodon upgrade]]
             - backup restores as a prereq for mastodon upgrade process? or is that too conservative?
         - second server for testing backup/restore
