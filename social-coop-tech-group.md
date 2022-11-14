@@ -77,6 +77,11 @@
                 - might be able to either
                     - A. do a test restore in a droplet
                     - B. run two compose instances on [[runko]], on different ports, there is a risk if you mess up.
+            - [[calix]] [[coop cloud]] uses a mix of physical hardware and [[vps]]
+                - does the process to get approval to get a new server or "just a droplet" vary?
+                - if it's only a week or two to get approval for a new server, would recommend that
+            - [[protean]] open question about the second instance
+                - since we're offloading a lot of the ass
         - [[edsu]]: should we set up some time for live collaboration to work?
 
 ## Several past instances had notes only on [[loomio]]
