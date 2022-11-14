@@ -51,7 +51,9 @@
                     - [[edsu]] how do you deploy?
                     - [[ian]] customized git clone/symlinking in the server.
                     - [[ian]] what he would suggest is getting [[cicd]] on [[gitlab]] running
-                    - [[flancian]] when I needed to fix the spam trap, it is deployed by ansible,
+                    - [[ian]] the big thing with ansible is that it keeps the configuration in code
+                    - [[edsu]] talking about the [[second server]] (see [[mastodon upgrade]]), we can take that same playbook and just go with it
+                    - [[flancian]] when I needed to fix the spam trap, it is deployed by ansible, found myself undoing some of the safety mechanisms
         - [[mastodon upgrade]]
             - backup restores as a prereq for mastodon upgrade process? or is that too conservative?
         - second server for testing backup/restore
