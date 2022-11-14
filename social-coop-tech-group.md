@@ -28,6 +28,7 @@
                     - some documentation lives with the ansible repo as well
                     - any pros to option two?
                     - cons: makes linking between repos more difficult, [[edsu]]: it's nice to think of it as one knowledge base
+                    - **[[default]]: we'll report back that we'll consolidate into [[general.wiki]]**
         - [[operations]] source of truth for our tech group work
             - nine repositories currently, counting three wiki
             - [[flancian]]: I'd like to designate one repository as 'clone this first' and add a ./bootstrap-local.sh script which clones all social.coop repos to begin with.
