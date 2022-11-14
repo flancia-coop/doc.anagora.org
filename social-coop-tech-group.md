@@ -72,6 +72,8 @@
         - [[mastodon upgrade]]
             - backup restores as a prereq for mastodon upgrade process? or is that too conservative?
         - second server for testing backup/restore
+            - [[flancian]]: not comfortable doing upgrade without having done the restore; at some point we are going to have a problem and it will take us a few days to get back up; how was this done previously?
+            - [[protean]]: when we moved from trunk to runko we 
         - [[edsu]]: should we set up some time for live collaboration to work?
 
 ## Several past instances had notes only on [[loomio]]
