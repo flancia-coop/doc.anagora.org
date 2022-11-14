@@ -45,6 +45,9 @@
                 - [[ian]] if we want to go to the server and clone something there, that workflow (which comes more natural to some) just doesn't fit the above a lot
                     - unclear if there is a big advantage of moving [[docker compose]] stuff to [[ansible]], it's mostly one file
                     - [[ansible repo]] should indeed install docker, docker compose though
+                    - [[flancian]] ansible did feel like a learning curve when starting
+                    - [[edsu]] should we use [[ansible]] to do upgrades? maybe we could tackle [[mastodon upgrade]] this way and learn from that?
+                    - [[ian]] even at work, ansible manages the stages from bare metal to deployment ready.
         - [[mastodon upgrade]]
             - backup restores as a prereq for mastodon upgrade process? or is that too conservative?
         - second server for testing backup/restore
