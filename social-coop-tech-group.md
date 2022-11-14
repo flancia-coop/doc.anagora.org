@@ -23,7 +23,9 @@
                     - option two: change [[ansible playbook]] to also check out the twg and cwg wikis and somehow integrate them at deployment step
                 - pros/cons of these approaches
                     - do we want to keep anything in the wiki secret?
-                        - [[ian]] there might be a grey area for things like management interfaces (URLs), but by and large the right de
+                        - [[ian]] there might be a grey area for things like management interfaces (URLs), but by and large the right default option is public
+                        - things that keep your logs clean
+                    - some documentation
         - [[operations]] source of truth
             - nine repositories currently, counting three wiki
             - [[flancian]]: I'd like to designate one repository as 'clone this first' and add a ./bootstrap-local.sh script which clones all social.coop repos to begin with.
