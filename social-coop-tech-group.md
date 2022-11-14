@@ -19,7 +19,11 @@
                 - [[flancian]] I keep not remembering what goes in general.wiki and what goes wiki.social.coop
             - report back to https://www.loomio.com/d/2Rwh5z3H/time-to-consolidate-wikis- (as per [[nathan schneider]]'s request.)
                 - how we understand the proposal:
-                    - consolidate twg.wiki (tech/operations repo), cwg.wiki into general.wiki, which gets processed and deployed from ansible?
+                    - option one: consolidate (move) twg.wiki (tech/operations repo), cwg.wiki (community/operations) into general.wiki, which gets processed and deployed from ansible?
+                    - option two: change [[ansible playbook]] to also check out the twg and cwg wikis and somehow integrate them at deployment step
+                - pros/cons of these approaches
+                    - do we want to keep anything in the wiki secret?
+                        - [[ian]] there might be a grey area for things like management interfaces (URLs), but by and large the right de
         - [[operations]] source of truth
             - nine repositories currently, counting three wiki
             - [[flancian]]: I'd like to designate one repository as 'clone this first' and add a ./bootstrap-local.sh script which clones all social.coop repos to begin with.
