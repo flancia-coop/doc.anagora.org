@@ -67,6 +67,7 @@
                     - fold [[sauce]] general scripts into [[tech operations]]
                     - fold [[systemd unit]] files in [[sauce]] into [[ansible]]
                     - fold [[tech operations]] wiki into [[general.wiki]]
+                    - [[redoak]] did the last mastodon upgrades, we could ask how long of a maintenance window we should call
                 - [[ian]] with this setup, you can push a branch (pr) that updates the dockerfile; then pull it from the server; then run [[docker compose up]]
                     - database migration extra :)
         - [[mastodon upgrade]]
@@ -88,7 +89,13 @@
                         - use the bucket from prod (hmm)
                 - looked into [[postgresql]] migration
                     - seems like all the steps are safe and have rollbacks
+                - [[flancian]] how much downtime do we usually announce?
+                    - [[protean]] has been a long time since he did one
+                    - [[redoak]] did the last ones probably, we could ask
         - [[edsu]]: should we set up some time for live collaboration to work?
+            - [[flancian]] let's try to do one upgrade? :)
+            - [[ian]] late at night on a wednesday could be a good time
+            - [[calix]] would agree with this
 
 ## Several past instances had notes only on [[loomio]]
 - See https://www.loomio.com/d/UwAeiBgE/tech-meeting-minutes for source of truth.
