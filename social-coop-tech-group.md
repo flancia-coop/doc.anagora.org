@@ -55,11 +55,11 @@
                     - [[edsu]] talking about the [[second server]] (see [[mastodon upgrade]]), we can take that same playbook and just go with it
                     - [[calix]]
                         - in [[autonomic]] they also tried using ansible for deployments and they gave up
-                        - [[coop cloud]] does the same:
+                        - autonomic does the same, with [[coop cloud]]:
                             - using [[ansible]] to provision servers
-                            - for deployments you use the [[coop cloud]] interface (?)
-                                - uses [[docker swarm]] to do [[zero downtime deploy]]
-                        - excited about consolidating documentation
+                            - for deployments you use the [[coop cloud]] command-line interface, `abra` which uses [[docker swarm]] to do [[zero downtime deploy]]
+                            - mastodon upgrades are still done by humans though :) but it's done 
+                        - excited about consolidating documentation - definitely want to document things before trying to automate them
                     - [[flancian]] when I needed to fix the spam trap, it is deployed by ansible, found myself undoing some of the safety mechanisms
         - [[mastodon upgrade]]
             - backup restores as a prereq for mastodon upgrade process? or is that too conservative?
