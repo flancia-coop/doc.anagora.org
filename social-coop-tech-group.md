@@ -61,11 +61,13 @@
                             - mastodon upgrades are still done by humans though :) but it's done somewhere standardized
                         - excited about consolidating documentation - definitely want to document things before trying to automate them
                     - [[flancian]] when I needed to fix the spam trap, it is deployed by ansible, found myself undoing some of the safety mechanisms
-                - default / feeling it out
+                - #push [[twg]] todos
+                    - report to Nathan on wiki consolidation with a yes :)
                     - keep tech/operations as the One Repository to clone if you're a new member of the twg
-                    - fold [[sauce]] into [[tech operations]]
-                    - fold [[systemd unit]]
-                    - have [[tech operations]] 
+                    - fold [[sauce]] general scripts into [[tech operations]]
+                    - fold [[systemd unit]] files in [[sauce]] into [[ansible]]
+                    - fold [[tech operations]] wiki into [[general.wiki]]
+                - [[ian]] with this setup, you can push a branch (pr) that updates the dockerfile
         - [[mastodon upgrade]]
             - backup restores as a prereq for mastodon upgrade process? or is that too conservative?
         - second server for testing backup/restore
