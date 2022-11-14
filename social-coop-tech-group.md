@@ -68,6 +68,7 @@
                     - fold [[systemd unit]] files in [[sauce]] into [[ansible]]
                     - fold [[tech operations]] wiki into [[general.wiki]]
                     - [[redoak]] did the last mastodon upgrades, we could ask how long of a maintenance window we should call
+                    - Announce maintenance window for upgrades: **Let's shoot for Monday 21 at 18-20 UTC**
                 - [[ian]] with this setup, you can push a branch (pr) that updates the dockerfile; then pull it from the server; then run [[docker compose up]]
                     - database migration extra :)
         - [[mastodon upgrade]]
@@ -97,6 +98,7 @@
             - [[ian]] late at night on a wednesday could be a good time
             - [[calix]] would agree with this -- but as a group of volunteers, it's fine to accomodate for active members' preferences
             - **Let's shoot for Monday 21 at 18-20 UTC**
+        - [[protean]] how to do the hometown+mastodon 
 
 ## Several past instances had notes only on [[loomio]]
 - See https://www.loomio.com/d/UwAeiBgE/tech-meeting-minutes for source of truth.
