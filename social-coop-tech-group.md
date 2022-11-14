@@ -8,6 +8,10 @@
         - [[documentation]] source of truth
             - default: [[go/twg/wiki]]
             - report back to https://www.loomio.com/d/2Rwh5z3H/time-to-consolidate-wikis- (as per [[nathan schneider]]'s request.)
+        - [[operations]] source of truth
+            - [[flancian]]: I'd like to designate one repository as 'clone this first' and add a ./bootstrap-local.sh script which clones all social.coop repos to begin with.
+            - [[flancian]]: then work on ./bootstrap-prod.sh :)
+            - [[flancian]]: what's the best repo for that? is it [[ansible]] because of how we want to do automa
         - [[mastodon upgrade]]
             - backup restores as a prereq for mastodon upgrade process? or is that too conservative?
         - second server for testing backup/restore
