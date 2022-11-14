@@ -67,7 +67,8 @@
                     - fold [[sauce]] general scripts into [[tech operations]]
                     - fold [[systemd unit]] files in [[sauce]] into [[ansible]]
                     - fold [[tech operations]] wiki into [[general.wiki]]
-                - [[ian]] with this setup, you can push a branch (pr) that updates the dockerfile
+                - [[ian]] with this setup, you can push a branch (pr) that updates the dockerfile; then pull it from the server; then run [[docker compose up]]
+                    - database migration extra :)
         - [[mastodon upgrade]]
             - backup restores as a prereq for mastodon upgrade process? or is that too conservative?
         - second server for testing backup/restore
