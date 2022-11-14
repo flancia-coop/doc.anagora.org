@@ -7,7 +7,7 @@
     - [[check ins]]
         - (done, all well)
         - welcome back [[ian]] ~ [[protean]] was last active in 2018, tuning back into fediverse 
-            - Ian brings back a big chunk of context from the time were Mayel and Etienne (sp?) were calling it quits
+            - Ian brings back a big chunk of context from the time were Mayel and Victor (sp?) were calling it quits
             - Ian and the Two Nicks, did a transition already -- knows where are the things that you need to know if you want to get anything done.
     - suggested topics follow, please add more :)
         - [[documentation]] source of truth
