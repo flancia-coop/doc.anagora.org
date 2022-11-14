@@ -7,7 +7,7 @@
     - [[check ins]]
         - (done, all well)
         - welcome back [[ian]] ~ [[protean]] was last active in 2018, tuning back into fediverse 
-            - Ian brings back a big chunk of context from the time were X and Etienne (sp?) were calling it quits
+            - Ian brings back a big chunk of context from the time were Mayel and Etienne (sp?) were calling it quits
             - Ian and the Two Nicks, did a transition already -- knows where are the things that you need to know if you want to get anything done.
     - suggested topics follow, please add more :)
         - [[documentation]] source of truth
@@ -25,8 +25,10 @@
                     - do we want to keep anything in the wiki secret?
                         - [[ian]] there might be a grey area for things like management interfaces (URLs), but by and large the right default option is public
                         - things that keep your logs clean
-                    - some documentation
-        - [[operations]] source of truth
+                    - some documentation lives with the ansible repo as well
+                    - any pros to option two?
+                    - cons: makes linking between repos more difficult, [[edsu]]: it's nice to think of it as one knowledge base
+        - [[operations]] source of truth for our tech group work
             - nine repositories currently, counting three wiki
             - [[flancian]]: I'd like to designate one repository as 'clone this first' and add a ./bootstrap-local.sh script which clones all social.coop repos to begin with.
             - [[flancian]]: then work on ./bootstrap-prod.sh :)
