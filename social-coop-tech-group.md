@@ -11,7 +11,7 @@
         - [[operations]] source of truth
             - [[flancian]]: I'd like to designate one repository as 'clone this first' and add a ./bootstrap-local.sh script which clones all social.coop repos to begin with.
             - [[flancian]]: then work on ./bootstrap-prod.sh :)
-            - [[flancian]]: what's the best repo for that? is it [[ansible]] because of how we want to do automa
+            - [[flancian]]: what's the best repo for that? is it [[ansible]] because of how we want to use automation for this, in particular for ./bootstrap-prod.sh?
         - [[mastodon upgrade]]
             - backup restores as a prereq for mastodon upgrade process? or is that too conservative?
         - second server for testing backup/restore
