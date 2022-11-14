@@ -1,6 +1,6 @@
 ## [[2022-11-14 19:00 UTC]]
 - Location: https://socialcoop.meet.coop/dav-y3e-c21-sgv 
-- Attending: x, y, z
+- Attending: 3wc, edsu, 
     - These will be crossposted to [[go/twg/minutes]].
 - Default agenda
     - [[check ins]]
