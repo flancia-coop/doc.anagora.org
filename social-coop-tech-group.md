@@ -81,7 +81,13 @@
                 - does the process to get approval to get a new server or "just a droplet" vary?
                 - if it's only a week or two to get approval for a new server, would recommend that
             - [[protean]] open question about the second instance
-                - since we're offloading a lot of the ass
+                - since we're offloading a lot of the assets to the [[digital ocean s3]] bucket -- how would the secondary instance setup look like?
+                    - three options:
+                        - configure a different bucket (empty)
+                        - configure a different bucket (read only copy, somehow with an s3 feature?)
+                        - use the bucket from prod (hmm)
+                - looked into [[postgresql]] migration
+                    - seems like all the steps are safe and have rollbacks
         - [[edsu]]: should we set up some time for live collaboration to work?
 
 ## Several past instances had notes only on [[loomio]]
