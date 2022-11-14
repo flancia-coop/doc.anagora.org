@@ -1,9 +1,11 @@
 ## [[2022-11-14 19:00 UTC]]
+
 - Location: https://socialcoop.meet.coop/dav-y3e-c21-sgv 
-- Attending: 3wc, edsu, protean
+- Attending: 3wc, edsu, protean, flancian
     - These will be crossposted to [[go/twg/minutes]].
 - Default agenda
     - [[check ins]]
+        - (done, all well)
     - suggested topics follow, please add more :)
         - [[documentation]] source of truth
             - default: [[go/twg/wiki]]
