@@ -13,7 +13,13 @@
         - [[documentation]] source of truth
             - [[big documentation reorg]] took place thanks to Ian, Nathan also did some improvements
             - default: [[go/twg/wiki]]
+            - how we understand how wiki works:
+                - [[edsu]] [[ansible repo]] checks out [[general.wiki]] and [[wiki.social.coop]] repos, massages them and deploys them to [[runko]]?
+                - [[edsu]] there's a web hook when you commit to the wiki
+                - [[flancian]] I keep not remembering what goes in general.wiki and what goes wiki.social.coop
             - report back to https://www.loomio.com/d/2Rwh5z3H/time-to-consolidate-wikis- (as per [[nathan schneider]]'s request.)
+                - how we understand the proposal:
+                    - consolidate twg.wiki, cwg.wiki into general.wiki, which gets processed and deployed from ansible?
         - [[operations]] source of truth
             - nine repositories currently, counting three wiki
             - [[flancian]]: I'd like to designate one repository as 'clone this first' and add a ./bootstrap-local.sh script which clones all social.coop repos to begin with.
