@@ -15,6 +15,7 @@
         - [[mastodon upgrade]]
             - backup restores as a prereq for mastodon upgrade process? or is that too conservative?
         - second server for testing backup/restore
+        - [[edsu]]: should we set up some time for live collaboration to work?
 
 ## Several past instances had notes only on [[loomio]]
 - See https://www.loomio.com/d/UwAeiBgE/tech-meeting-minutes for source of truth.
