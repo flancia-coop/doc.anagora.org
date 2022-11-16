@@ -91,7 +91,7 @@
             - "here is the umbrella discourse graph for the optimal design for X / approaches to carbon sequestration"
             - this group in particular has a few hundred roam graphs (!)
             - if you have been dealing with questions/assertions/claims in your graphs, reach out because they're looking for examples of how people deal with this on the field
-                - #jm https://www.societylibrary.org/ and https://forby.org/ htt
+                - #jm https://www.societylibrary.org/ and https://forby.io
                 - [[bentley]] and https://canonicaldebatelab.com/
         - how do you decide when people are talking about the same thing?
         - [[sj]] ''[[coralline]]'' approaches to discovery+syndication: allowing separate author, curator, reader tags to help match readers to writing https://wiki.laptop.org/go/User:Sj/coralline
