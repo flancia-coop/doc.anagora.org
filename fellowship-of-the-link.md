@@ -75,7 +75,8 @@
                 - [[mathew lowry]]: you never got back to me about moa.party not working ;)
                 - [[flancian]] sorry about that! I still need to peek into the database to see what's up there, I have no idea why it's not working for that
             - https://social.coop same
-- 
+    - ''coralline'' approaches: allowing separate author, curator, reader tags to help match readers to writing https://wiki.laptop.org/go/User:Sj/coralline
+    - storing context and archives and prefs/filtering/indexes locally: disk continues to compress.  512GB microsd now < $25 https://www.amazon.com/Adapter-Android-Computer-Console-Bluetooth/dp/B0B81B4GXC 
 - placeholder
 - check [[fotl threads]]
 
