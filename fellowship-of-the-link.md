@@ -37,7 +37,8 @@
     - [[peter kaminski]]
         - [[thinking tools map project]] often meets 2h earlier during [[Massive Wiki Wednesday]]
         - decided to [[expand the kimono]] (letting more people in?)
-            - (aside: "open the kimono" means "let others peek inside our business" -- this expression comes from business/finance/vc/enterprise world) <https://wordhistories.net/2022/01/10/open-the-kimono/>
+            - (aside: "open the kimono" means "let others peek inside our business" -- this expression comes from business/finance/vc/enterprise world)
+            - <https://wordhistories.net/2022/01/10/open-the-kimono/>
     - [[chris aldrich]]
         - on PKG book: same issue as Mathew had, dropped out partly because of the abysmal contract language.
             - [[mathew lowry]] there was also a lack of alignment in perspectives.
@@ -46,6 +47,11 @@
             - it needs to be more than "free twitter"
             - seeing people make the same assumptions/maybe mistakes as in previous waves
             - [[mathew lowry]] blog post "am I on the right Mastodon instance?" https://mathewlowry.medium.com/am-i-on-the-right-mastodon-instance-a0aee14ca00f
+        - how to find the right instance remains unsolved
+            - affinity (over which dimensions?)
+                - [[flancian]] similar to the tools for thought map problem
+            - geographical proximity
+             
     - [[flancian]]
         - [[knowledge commons]]
             - attended [[synthesis infrastructures workshop]] last Sunday (thanks [[metasj]] in absentia!)
