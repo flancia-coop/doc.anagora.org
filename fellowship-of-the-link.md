@@ -50,7 +50,9 @@
         - how to find the right instance remains unsolved
             - affinity (over which dimensions?)
                 - [[flancian]] similar to the tools for thought map problem
-                - https://fediverse.party
+                - #push [[map of the fediverse]]
+                    - https://fediverse.party
+                    - https://the-federation.info/#projects
             - geographical proximity
             - 7k new instances over the last week or so
                 - #jm doesn't sound like that much?
@@ -62,6 +64,8 @@
                 - #jm is google indexing the fediverse?
                 - mostly yes, but maybe not very highly ranked currently
     - [[mathew lowry]] let's talk more about the mapping project next week 2h earlier than this call?
+        - 
+        - notes from earlier today: https://hackmd.io/Ec8Wxpe0S5y7g-yCb6tVUA?both
     - [[flancian]]
         - [[knowledge commons]]
             - attended [[synthesis infrastructures workshop]] last Sunday (thanks [[metasj]] in absentia!)
@@ -75,8 +79,8 @@
                 - [[mathew lowry]]: you never got back to me about moa.party not working ;)
                 - [[flancian]] sorry about that! I still need to peek into the database to see what's up there, I have no idea why it's not working for that
             - https://social.coop same
-    - ''coralline'' approaches: allowing separate author, curator, reader tags to help match readers to writing https://wiki.laptop.org/go/User:Sj/coralline
-    - storing context and archives and prefs/filtering/indexes locally: disk continues to compress.  512GB microsd now < $25 https://www.amazon.com/Adapter-Android-Computer-Console-Bluetooth/dp/B0B81B4GXC 
+    - [[sj]] ''[[coralline]]'' approaches to discovery+syndication: allowing separate author, curator, reader tags to help match readers to writing https://wiki.laptop.org/go/User:Sj/coralline
+    - [[sj]] I want supporting moderation/filtering as close to the reader as possible (informed by lists and flags maintained/curated by polycentric network), e.g. storing context and archives and prefs/filtering/indexes locally: disk continues to compress.  512GB microsd now < $25 https://www.amazon.com/Adapter-Android-Computer-Console-Bluetooth/dp/B0B81B4GXC 
 - placeholder
 - check [[fotl threads]]
 
