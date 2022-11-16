@@ -64,8 +64,8 @@
                 - #jm is google indexing the fediverse?
                 - mostly yes, but maybe not very highly ranked currently
     - [[mathew lowry]] let's talk more about the mapping project next week 2h earlier than this call?
-        - 
         - notes from earlier today: https://hackmd.io/Ec8Wxpe0S5y7g-yCb6tVUA?both
+        - see also the massive wiki: [[go/ttm]]
     - [[flancian]]
         - [[knowledge commons]]
             - attended [[synthesis infrastructures workshop]] last Sunday (thanks [[metasj]] in absentia!)
