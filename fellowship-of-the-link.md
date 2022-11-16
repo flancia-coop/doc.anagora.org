@@ -61,9 +61,11 @@
             - archival program
                 - #jm is google indexing the fediverse?
                 - mostly yes, but maybe not very highly ranked currently
+    - [[mathew lowry]] let's talk more about the mapping project next week 2h earlier than this call?
     - [[flancian]]
         - [[knowledge commons]]
             - attended [[synthesis infrastructures workshop]] last Sunday (thanks [[metasj]] in absentia!)
+                - https://synthesis-infrastructures.wiki/ has a lot of interesting + relevant content
             - [[agora]]
                 - two main focuses over the next month or so:
                     - [[agor.ai]] bring up more agoras finally (containerized)
@@ -73,6 +75,7 @@
                 - [[mathew lowry]]: you never got back to me about moa.party not working ;)
                 - [[flancian]] sorry about that! I still need to peek into the database to see what's up there, I have no idea why it's not working for that
             - https://social.coop same
+- 
 - placeholder
 - check [[fotl threads]]
 
