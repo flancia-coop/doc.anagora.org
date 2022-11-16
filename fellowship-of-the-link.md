@@ -17,22 +17,24 @@
 - #pull [[fotl threads]]
 - [[check ins]]
     - [[mathew lowry]] is back!
-        - still coughing, seeing a specialist -- but nothing serious it seems.
+        - still coughing, seeing a specialist -- but nothing serious it seems, getting better.
         - massive.wiki progressing
             - here to say hello mostly but also to touch on the progress in this project :)
-        - exploring mastodon: 2 posts so far, become a server mod
+        - exploring mastodon: 2 posts so far, become a server mod, trying to connect EU to Europe
         - pulled out of PKGBook: preparing several posts
+        - found several documents relevant to the dimensionality discussion through [[fotl]], has been researching
     - [[jerry michalski]]
-        - [[mathew lowry]] last time we saw each other Jerry was in Budapest
+        - [[mathew lowry]] last time we saw each other, Jerry was in Budapest
         - last week in the [[linux foundation]] summit, funny for two reasons
             - [[April Rinne]] gave a speech
             - [[OpenSSF]] <https://openssf.org/> ~ open [[supply chain security]]
             - marinated many ideas/projects in a pool of open source for a week
     - [[peter kaminski]]
-        - [[thinking tools map project]] often meets 2h earlier during [[Mas]]
+        - [[thinking tools map project]] often meets 2h earlier during [[Massive Wiki Wednesday]]
         - decided to [[expand the kimono]] (letting more people in?)
             - (aside: let others peek inside our business -- this expression comes from vc/enterprise world)
     - [[chris aldrich]]
+        - on PKG book: same issue as Mathew had
     - [[flancian]]
         - attended [[synthesis infrastructures workshop]] last Sunday (thanks [[metasj]] in absentia!)
 - placeholder
