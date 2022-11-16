@@ -56,6 +56,8 @@
                 - #jm doesn't sound like that much?
                 - #ml power law distribution
             - stress test of the fediverse
+                - #ca many new instances are probably well meaning but might still go up in flames/smoke too soon (historical data shows this is likely)
+                - #ca the indie
     - [[flancian]]
         - [[knowledge commons]]
             - attended [[synthesis infrastructures workshop]] last Sunday (thanks [[metasj]] in absentia!)
