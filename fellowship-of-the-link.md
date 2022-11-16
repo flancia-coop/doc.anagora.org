@@ -16,9 +16,11 @@
 - Start recording, we're currently using Jitsi and that works best with a [[Chromium]] based browser.
 - #pull [[fotl threads]]
 - Mastodon servers related to our topics
+    - also see: <https://mathewlowry.medium.com/am-i-on-the-right-mastodon-instance-a0aee14ca00f
+ >
     - https://pkm.social/
     - https://toolsforthought.rocks/
-    - [[flancian]]https://social.coop ;) commons friendly!
+    - [[flancian]] https://social.coop ;) commons friendly!
 - [[check ins]]
     - [[mathew lowry]] is back!
         - still coughing, seeing a specialist -- but nothing serious it seems, getting better.
@@ -36,16 +38,23 @@
     - [[peter kaminski]]
         - [[thinking tools map project]] often meets 2h earlier during [[Massive Wiki Wednesday]]
         - decided to [[expand the kimono]] (letting more people in?)
-            - (aside: "open the kimono" let others peek inside our business -- this expression comes from vc/enterprise world)
+            - (aside: "open the kimono" means "let others peek inside our business" -- this expression comes from business/finance/vc/enterprise world) <https://wordhistories.net/2022/01/10/open-the-kimono/>
     - [[chris aldrich]]
         - on PKG book: same issue as Mathew had, dropped out partly because of the abysmal contract language.
             - [[mathew lowry]] there was also a lack of alignment in perspectives.
             - [[chris aldrich]] terms were severe enough that it sounded like authors needed to pay them (for further editions?)
-        - 
+        - mastodon activity
+            - it needs to be more than "free twitter"
+            - seeing people make the same assumptions/maybe mistakes as in previous waves
+            - [[mathew lowry]] blog post "am I on the right Mastodon instance?"
     - [[flancian]]
-        - attended [[synthesis infrastructures workshop]] last Sunday (thanks [[metasj]] in absentia!)
-        - https://moa.party seeing a lot of activity
-            - [[mathew lowry]]: 
+        - [[knowledge commons]]
+            - attended [[synthesis infrastructures workshop]] last Sunday (thanks [[metasj]] in absentia!)
+        - [[fediverse]]
+            - https://moa.party seeing a lot of activity
+                - [[mathew lowry]]: you never got back to me about moa.party not working ;)
+                - [[flancian]] sorry about that! I still need to peek into the database to see what's up there, I have no idea why it's not working for that
+            - https://social.coop same
 - placeholder
 - check [[fotl threads]]
 
