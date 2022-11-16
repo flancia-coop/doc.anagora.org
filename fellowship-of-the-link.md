@@ -67,8 +67,10 @@
         - notes from earlier today: https://hackmd.io/Ec8Wxpe0S5y7g-yCb6tVUA?both
         - see also the massive wiki: [[go/ttm]]
     - [[jerry michalski]]
-        - on decision trees for things like buying consuming electronics
-            - 
+        - on [[decision trees]] for things like buying consuming electronics
+            - [[peter kaminski]] [[wirecutter]]
+            - [[flancian]] on browsing paths as potentially informing the construction of such trees
+            - [[metasj]] [[hunch]] ~ hunch.com --
     - [[flancian]]
         - [[knowledge commons]]
             - attended [[synthesis infrastructures workshop]] last Sunday (thanks [[metasj]] in absentia!)
