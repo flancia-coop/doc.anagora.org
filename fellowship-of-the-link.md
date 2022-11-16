@@ -19,8 +19,9 @@
     - [[mathew lowry]] is back!
         - still coughing, seeing a specialist -- but nothing serious it seems.
         - massive.wiki progressing
-        - exploring mastodon: 2 posts so far
-        - pulled out of PKGBook: preparing several 
+            - here to say hello mostly but also to touch on the progress in this project :)
+        - exploring mastodon: 2 posts so far, become a server mod
+        - pulled out of PKGBook: preparing several posts
     - [[jerry michalski]]
         - [[mathew lowry]] last time we saw each other Jerry was in Budapest
         - last week in the [[linux foundation]] summit, funny for two reasons
@@ -28,12 +29,14 @@
             - [[OpenSSF]] <https://openssf.org/> ~ open [[supply chain security]]
             - marinated many ideas/projects in a pool of open source for a week
     - [[peter kaminski]]
-        - [[thinking tools map]] meet 2h earlier
+        - [[thinking tools map project]] often meets 2h earlier during [[Mas]]
         - decided to [[expand the kimono]] (letting more people in?)
-            - (aside: )
+            - (aside: let others peek inside our business -- this expression comes from vc/enterprise world)
+    - [[chris aldrich]]
     - [[flancian]]
         - attended [[synthesis infrastructures workshop]] last Sunday (thanks [[metasj]] in absentia!)
 - placeholder
+- check [[fotl threads]]
 
 
 ## 2022-11-09
