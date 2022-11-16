@@ -60,6 +60,7 @@
                 - #ca the indieweb approach of 'local first, then syndicate' is resilient to this
             - archival program
                 - #jm is google indexing the fediverse?
+                - mostly yes, but maybe not very highly ranked currently
     - [[flancian]]
         - [[knowledge commons]]
             - attended [[synthesis infrastructures workshop]] last Sunday (thanks [[metasj]] in absentia!)
