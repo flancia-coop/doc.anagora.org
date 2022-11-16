@@ -18,9 +18,15 @@
 - [[check ins]]
     - [[mathew lowry]] is back!
         - still coughing, seeing a specialist -- but nothing serious it seems.
+        - having 
     - [[jerry michalski]]
         - [[mathew lowry]] last time we saw each other Jerry was in Budapest
-        - 
+        - last week in the [[linux foundation]] summit, funny for two reasons
+            - [[April Rinne]] gave a speech
+            - [[OpenSSF]] <https://openssf.org/> ~ open [[supply chain security]]
+            - marinated many ideas/projects in a pool of open source for a week
+    - [[peter kaminski]]
+    - [[flancian]]
 
 
 ## 2022-11-09
