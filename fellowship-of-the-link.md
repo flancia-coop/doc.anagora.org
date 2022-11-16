@@ -16,8 +16,7 @@
 - Start recording, we're currently using Jitsi and that works best with a [[Chromium]] based browser.
 - #pull [[fotl threads]]
 - Mastodon servers related to our topics
-    - also see: <https://mathewlowry.medium.com/am-i-on-the-right-mastodon-instance-a0aee14ca00f
- >
+    - also see: <https://mathewlowry.medium.com/am-i-on-the-right-mastodon-instance-a0aee14ca00f>
     - https://pkm.social/
     - https://toolsforthought.rocks/
     - [[flancian]] https://social.coop ;) commons friendly!
@@ -46,7 +45,7 @@
         - mastodon activity
             - it needs to be more than "free twitter"
             - seeing people make the same assumptions/maybe mistakes as in previous waves
-            - [[mathew lowry]] blog post "am I on the right Mastodon instance?"
+            - [[mathew lowry]] blog post "am I on the right Mastodon instance?" https://mathewlowry.medium.com/am-i-on-the-right-mastodon-instance-a0aee14ca00f
     - [[flancian]]
         - [[knowledge commons]]
             - attended [[synthesis infrastructures workshop]] last Sunday (thanks [[metasj]] in absentia!)
