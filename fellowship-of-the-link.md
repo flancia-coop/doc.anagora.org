@@ -50,8 +50,12 @@
         - how to find the right instance remains unsolved
             - affinity (over which dimensions?)
                 - [[flancian]] similar to the tools for thought map problem
+                - https://fediverse.party
             - geographical proximity
-             
+            - 7k new instances over the last week or so
+                - #jm doesn't sound like that much?
+                - #ml power law distribution
+            - stress test of the fediverse
     - [[flancian]]
         - [[knowledge commons]]
             - attended [[synthesis infrastructures workshop]] last Sunday (thanks [[metasj]] in absentia!)
