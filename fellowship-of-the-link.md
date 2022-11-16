@@ -57,10 +57,16 @@
                 - #ml power law distribution
             - stress test of the fediverse
                 - #ca many new instances are probably well meaning but might still go up in flames/smoke too soon (historical data shows this is likely)
-                - #ca the indie
+                - #ca the indieweb approach of 'local first, then syndicate' is resilient to this
+            - archival program
+                - #jm is google indexing the fediverse?
     - [[flancian]]
         - [[knowledge commons]]
             - attended [[synthesis infrastructures workshop]] last Sunday (thanks [[metasj]] in absentia!)
+            - [[agora]]
+                - two main focuses over the next month or so:
+                    - [[agor.ai]] bring up more agoras finally (containerized)
+                    - [[fediverse]] support (see also below)
         - [[fediverse]]
             - https://moa.party seeing a lot of activity
                 - [[mathew lowry]]: you never got back to me about moa.party not working ;)
