@@ -97,6 +97,8 @@
             - maybe the pkg book chapters could be a good fit? will tell [[mathew lowry]]
             - [[chris aldrich]] (on repurposing)
             - (leading to self-plagiarism, plagiarism :) [[the ecstasy of influence]] https://harpers.org/archive/2007/02/the-ecstasy-of-influence/
+                - Chris's daughter on learning things: "[[myself told myself]]"
+                - #jm Pop Culture (live mashup) by Madeon http://www.youtube.com/watch?v=lTx3G6h2xyA 
         - how do you decide when people are talking about the same thing?
         - [[sj]] ''[[coralline]]'' approaches to discovery+syndication: allowing separate author, curator, reader tags to help match readers to writing https://wiki.laptop.org/go/User:Sj/coralline
         - [[sj]] I want supporting moderation/filtering as close to the reader as possible (informed by lists and flags maintained/curated by polycentric network), e.g. storing context and archives and prefs/filtering/indexes locally: disk continues to compress.  512GB microsd now < $25 https://www.amazon.com/Adapter-Android-Computer-Console-Bluetooth/dp/B0B81B4GXC 
