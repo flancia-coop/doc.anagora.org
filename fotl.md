@@ -39,6 +39,122 @@
 - AI(jerry michalski): give access to github repo?
 - Create a survey about uses of tools for thought and note taking? 
     - (discussed [[2022-08-11]])
+    
+    
+    
+    ## 2022-06-30
+### Attending: [[Jerry Michalski]] [[Chris Aldrich]] [[diego de la hera]] [[flancian]]
+
+### Video
+https://www.youtube.com/watch?v=x8pkNRRncTc
+
+### Notes
+- [[Jerry Michalski]] 
+    - #push [[rel8]] 
+        - #go https://www.rel8.dev
+            - (a [[google site]])
+            - https://www.rel8.dev/wiki is embedded above
+        - "relating ideas, documents, perspectives and people"
+    - (Jerry is using [[obsidian]] plus [[obsidian sync]] for this)
+    - [[short term]], [[medium term]] and [[long term]] goals for [[rel8]]
+    - [[short term]]
+        - define: how do we share notes?
+        - import [[jerry's brain]] from [[json]] into [[obsidian]] and [[excalidraw]]
+            - [[Zsolt Viczián]] (https://www.zsolt.blog/) is interested in doing this
+        - what do we put on [[rel8]]?
+            - a list of formats/processes that are sufficient for us to 'store our brain' comfortably?
+            - [[Mathew Lowry]] user requirements exercise
+        - [[flancian]] on a hub architecture for integrating brains and negotiating exchange (format conversion)
+            - [[underlay]], [[interlay]], [[overlay]] as per [[metasj]]
+        - [[Mathew Lowry]] decentralized or centralized?
+            - decentralized is the idea (or distributed)
+        - [[Mathew Lowry]] what should we be using as way of standards to create this?
+        - [[Chris Aldrich]] text -> markdown -> html
+            - (shared by default is convenient but can be problematic)
+            - text as the basic standard
+            - then add links, e.g. markdown or org mode
+            - then html, microformats, json, yaml can be layered on top
+            - exchanged p2p (distributed) or via hubs
+        - [[Mathew Lowry]] interested on web mentions, fediverse as they exist in the data exchange ecosystem
+        - [[Chris Aldrich]] how can you design a minimum building block that is interoperable with other pieces?
+            - [[web mentions]] takes the older ideas of pingback/trackback, strips them down to the essentials. it's a notification system via [[post]] requests.
+            - [[mastodon]] could support web mentions (there was talk about this a few years back)
+            - if X writes a post about URL A by Y, Y will be pinged
+            - Y receives the notification, can do some spot checks (does the call refer to a post that actually has the expected link), and then does whatever it wants with it
+            - [[activitypub]] could take advantage of [[webmentions]] as a building block, but it mostly doesn't
+                - [[kevin marks]] (sp?) added microformats to [[mastodon]]
+       - [[flancian]] decentralized vs distributed approach, web3 and all
+       - [[Jerry Michalski]] technical details vs ease of use
+       - [[flancian]] two directions we could go in:
+           - text as the standard makes it easy to use actually as users can write text wherever they want, a priori
+           - focusing on making existing tools and ecosystems easier to use/onboard to
+       - [[Chris Aldrich]]
+           - high tech skills: you set up your own mastodon instance, agora, etc.
+           - medium: you produce information, content but someone else pays the [[admin tax]] (you contribute to an instance)
+           - (spectrum)
+           - no technical expertise
+           - #push [[blot im]] is very useful, imports from whenever you want
+               - [[flancian]] nice, and it's open source: https://github.com/davidmerfield/blot
+               - wanted to do this for the Agora so this is super helpful
+       - [[Mathew Lowry]]
+           - who are we building this for?
+           - "instagram user" might be too wide a net?
+           - disconnect from building a knowledge graph and writing for others
+       - [[Jerry Michalski]]
+       - #push [[nuggets, remedies and pov]]
+           - [[nuggetization]] https://www.youtube.com/watch?v=EmId2x6JSQE&feature=related
+       - [[public]] vs [[private]] as a default
+           - [[public]] as default seems better to seemingly most of us
+       - [[Chris Aldrich]] mostly these days notes start in [[hypothes.is]]
+           - periodically gets feedback about how cool it is to work in public
+       - [[Jerry Michalski]] [[fedwiki]]
+           - [[twitter]] user 509 here (!)
+       - [[diego de la hera]]
+           - going back to what we have in mind and where our ideas overlap
+           - not really sure what he's expecting here, but a tool that would be interesting would be like this:
+               - like the agora, where you could see it from two different perspectives
+                   - as a personal tool, where an individual user decides which graphs converge on the agora
+                   - "mix and match" feeds and gardens, an aggregator
+                   - like an [[agora view]]
+               - another agora is closer to anagora.org, where you push many graphs to a place but where the owners of the repos decided that in advance
+           - an extension or tool could be written so that the nodes you see could be actual URLs, and incoming/outgoing links would be those around your internet context (social graph, feeds)
+           - [[Jerry Michalski]]
+               - [[apple's]] [[knowledge navigator]] video back in 1986
+       - [[adversarial interoperability]]
+           - [[Chris Aldrich]] For the [[adversarial interoperability]] fans: https://granary.io/
+           - [[Mathew Lowry]] [[mysilio]]
+       - [[myhub]]
+           - writing aids to get from notes to defined outputs
+       - [[having a somewhere]]
+           - [[knowledge contexts]] as a service
+       - [[Chris Aldrich]]
+           - [[writing toolkit]]
+           - #push [[social reader]] tracks, breaks down and integrates feeds
+               - #go https://indieweb.org/social_reader
+           - https://indieweb.org/Microsub
+           - [[micro.blog]] is great
+           - [[refbacks]]
+               - https://notes.andymatuschak.org/z2QvtE9w5zs49x7WUeG8Ut1vywHDLiG2Wkm9p pinged his site
+       - [[Jerry Michalski]]
+           - [[intimacy gradient]] is a pattern in [[a pattern language]]
+           - [[the view master]]
+               - how do we generalize and integrate the superpowers that each tool gives?
+       - [[diego de la hera]]
+           - would like to highlight the link aspect of how information pieces relate to each other
+           - which links are mentioned in that tweet, that post?
+           - about the [[great fungus]]
+               - still thinking of this as an individual app customized by the user
+               - [[personalized fungus]]? [[fungus view]]
+- [[minimum viable formats]]
+    - text
+    - diagrams
+- [[goals]]
+    - define our [[wheres]] (from [[having a somewhere]])
+        - [[the big fungus]]
+        - [[agora]]
+    - define minimum viable formats for storing our brains
+
+- older notes in [[fotl]]
 
 
 ## Chat from [[2022-11-02]]
