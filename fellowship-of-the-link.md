@@ -15,6 +15,10 @@
 - Attending: [[peter kaminski]] [[jerry michalski]] [[mathew lowry]] [[flancian]]
 - Start recording, we're currently using Jitsi and that works best with a [[Chromium]] based browser.
 - #pull [[fotl threads]]
+- Mastodon servers related to our topics
+    - https://pkm.social/
+    - https://toolsforthought.rocks/
+    - [[flancian]]https://social.coop ;) commons friendly!
 - [[check ins]]
     - [[mathew lowry]] is back!
         - still coughing, seeing a specialist -- but nothing serious it seems, getting better.
@@ -32,11 +36,16 @@
     - [[peter kaminski]]
         - [[thinking tools map project]] often meets 2h earlier during [[Massive Wiki Wednesday]]
         - decided to [[expand the kimono]] (letting more people in?)
-            - (aside: let others peek inside our business -- this expression comes from vc/enterprise world)
+            - (aside: "open the kimono" let others peek inside our business -- this expression comes from vc/enterprise world)
     - [[chris aldrich]]
-        - on PKG book: same issue as Mathew had
+        - on PKG book: same issue as Mathew had, dropped out partly because of the abysmal contract language.
+            - [[mathew lowry]] there was also a lack of alignment in perspectives.
+            - [[chris aldrich]] terms were severe enough that it sounded like authors needed to pay them (for further editions?)
+        - 
     - [[flancian]]
         - attended [[synthesis infrastructures workshop]] last Sunday (thanks [[metasj]] in absentia!)
+        - https://moa.party seeing a lot of activity
+            - [[mathew lowry]]: 
 - placeholder
 - check [[fotl threads]]
 
