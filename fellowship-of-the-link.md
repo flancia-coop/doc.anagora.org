@@ -70,7 +70,8 @@
         - on [[decision trees]] for things like buying consuming electronics
             - [[peter kaminski]] [[wirecutter]]
             - [[flancian]] on browsing paths as potentially informing the construction of such trees
-            - [[metasj]] [[hunch]] ~ hunch.com --
+            - [[metasj]] [[hunch]] ~ hunch.com -- saddened it didn't produce such a thing
+                - "[[pachinko process]]" :)
     - [[flancian]]
         - [[knowledge commons]]
             - attended [[synthesis infrastructures workshop]] last Sunday (thanks [[metasj]] in absentia!)
