@@ -85,6 +85,12 @@
                 - [[mathew lowry]]: you never got back to me about moa.party not working ;)
                 - [[flancian]] sorry about that! I still need to peek into the database to see what's up there, I have no idea why it's not working for that
             - https://social.coop same
+    - [[sj]]
+        - discourse graph tools
+            - there's been a mapping project -- how can we use existing tools for thought for this purpose?
+            - "here is the umbrella discourse graph for the optimal design for X / approaches to carbon sequestration"
+            - this group in particular has a few hundred roam graphs (!)
+            - if you have been dealing with questions/assertions/claims in your graphs, reach out b
     - [[sj]] ''[[coralline]]'' approaches to discovery+syndication: allowing separate author, curator, reader tags to help match readers to writing https://wiki.laptop.org/go/User:Sj/coralline
     - [[sj]] I want supporting moderation/filtering as close to the reader as possible (informed by lists and flags maintained/curated by polycentric network), e.g. storing context and archives and prefs/filtering/indexes locally: disk continues to compress.  512GB microsd now < $25 https://www.amazon.com/Adapter-Android-Computer-Console-Bluetooth/dp/B0B81B4GXC 
 - placeholder
