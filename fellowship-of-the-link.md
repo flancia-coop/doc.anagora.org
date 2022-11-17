@@ -12,7 +12,7 @@
 
 ## 2022-11-16
 
-- Attending: [[peter kaminski]] [[jerry michalski]] [[mathew lowry]] [[flancian]]
+- Attending: [[peter kaminski]] [[jerry michalski]] [[mathew lowry]] [[flancian]] [[chris aldrich]]
 - Start recording, we're currently using Jitsi and that works best with a [[Chromium]] based browser.
 - #pull [[fotl threads]]
 - Mastodon servers related to our topics
