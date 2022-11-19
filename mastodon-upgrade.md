@@ -12,7 +12,7 @@ For more documentation from the working group, please refer to node [[TWG]] or [
 - Detail how we plan to perform Mastodon minor version upgrades safely, and how we plan to keep our instance up to date after that.
 - Detail how we plan to experiment with new versions and mods without unnecessarily disrupting the [[social.coop]] community.
 - Detail how we could evaluate and potentially adopt [[Hometown]], a promising [[Mastodon]] fork.
-  - Extend this to other promising forks like [[Smalltown]], or alternate codebases such as [[Pleroma]].
+  - Extend this to other promising forks like [[Smalltown]], or alternate codebases such as [[Pleroma]] or [[Bonfire]].
 - (Meta) Communicate to the community how the [[social coop tech group]] plans to run this project and others like it.
   
 # Plan
