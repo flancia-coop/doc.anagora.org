@@ -1,0 +1,1 @@
+- la [[rae]] admite los dos, y sus derivados.
