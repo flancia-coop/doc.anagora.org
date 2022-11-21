@@ -6,8 +6,10 @@
         - what should go into tech/operations, and what into ansible?
             - [ ] check now, per directory, and make a call? :)
     - revisiting last week's upgrade
-        - what should we d
-    - Next steps for Mastodon upgrades
+        - what should we do differently last time?
+        - have we updated documentation sufficiently? where? :)
+    - next steps for Mastodon upgrades
+        - v3.5 -> ?
 
 
 ## [[2022-11-21 18:00 UTC]]
