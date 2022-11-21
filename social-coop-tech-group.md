@@ -36,6 +36,8 @@ sudo docker-compose exec db vacuumdb  -U postgres --all --full --analyze --verbo
 
 sudo systemctl start pg-dump-to-s3.service
 
+# validate that the backup is in the bucket and that we are able to retrieve it, otherwise move manually to [[hypha]]
+
 sudo docker-compose exec db pg_dumpall -U postgres > ../../var/lib/postgresql/9.6.backup
 
 sudo docker-compose down --remove-orphans
