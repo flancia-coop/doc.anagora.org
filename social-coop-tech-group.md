@@ -16,12 +16,13 @@
         - Yep
         - On it :)
     - Do we want to screenshare?
-    - Where do we want to 
+    - Where do we want to put learnings from today?
 - Open questions
     - How to copy static assets so they can be served by nginx
         - protean@ might have found the right incantation
     - How to put mastodon in maintenance mode
-    - 
+
+- Steps that @protean put together for the upgrad
 
 ## [[2022-11-14 19:00 UTC]]
 
