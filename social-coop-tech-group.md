@@ -5,9 +5,15 @@
 
 - Mastodon upgrade!
     - led by protean@
+- Check in
+    - @Flancian: Happy after weekend playing with containers. Way fewer (late) meetings because of thanksgiving.
+    - @Edsu: starting week happily.
+    - @Protean: working on not taking down the site today ;)
+    - @3wordchant / @3wc / Calix: doing well, happy to have an individual account in social.coop now :) ran in the rain yesterday (pleasantly) and have had
 - Open questions
     - How to copy static assets so they can be served by nginx
     - How to put mastodon in maintenance mode
+    - 
 
 ## [[2022-11-14 19:00 UTC]]
 
