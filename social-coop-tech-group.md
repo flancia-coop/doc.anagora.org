@@ -28,6 +28,8 @@
 - Steps that @protean put together for the upgrade
 
 ```
+sudo touch /opt/social.coop/var/www/maintenance_mode_on
+
 sudo docker-compose stop web streaming sidekiq sidekiq-scheduler sidekiq-default-q sidekiq-push-q sidekiq-pull-q es
 
 sudo systemctl start pg-dump-to-s3.service
