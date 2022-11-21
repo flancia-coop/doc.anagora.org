@@ -10,6 +10,10 @@
         - have we updated documentation sufficiently? where? :)
     - next steps for Mastodon upgrades
         - v3.5 -> ?
+    - [[backups]]
+        - either they were happening some other way, or they weren't happening
+        - postmortem
+            - 
 
 
 ## [[2022-11-21 18:00 UTC]]
