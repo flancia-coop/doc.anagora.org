@@ -1,3 +1,15 @@
+## $NEXT
+- Location: https://socialcoop.meet.coop/dav-y3e-c21-sgv 
+- Attending: 3wc, edsu, protean, flancian
+- Agenda seeded from last time / during the week
+    - 'sauce' git repo
+        - what should go into tech/operations, and what into ansible?
+            - [ ] check now, per directory, and make a call? :)
+    - revisiting last week's upgrade
+        - what should we d
+    - Next steps for Mastodon upgrades
+
+
 ## [[2022-11-21 18:00 UTC]]
 
 - Location: https://socialcoop.meet.coop/dav-y3e-c21-sgv 
