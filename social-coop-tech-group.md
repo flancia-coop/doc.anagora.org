@@ -1,3 +1,14 @@
+## [[2022-11-21 18:00 UTC]]
+
+- Location: https://socialcoop.meet.coop/dav-y3e-c21-sgv 
+- Attending: 3wc, edsu, protean, flancian
+
+- Mastodon upgrade!
+    - led by protean@
+- Open questions
+    - How to copy static assets so they can be served by nginx
+    - How to put mastodon in maintenance mode
+
 ## [[2022-11-14 19:00 UTC]]
 
 - Location: https://socialcoop.meet.coop/dav-y3e-c21-sgv 
