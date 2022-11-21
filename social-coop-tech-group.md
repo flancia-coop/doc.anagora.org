@@ -17,12 +17,62 @@
         - On it :)
     - Do we want to screenshare?
     - Where do we want to put learnings from today?
+        - Currently we had some instructions in https://git.coop/social.coop/tech/operations/-/wikis/infrastructure-overview#mastodon-upgrades
 - Open questions
     - How to copy static assets so they can be served by nginx
         - protean@ might have found the right incantation
     - How to put mastodon in maintenance mode
 
-- Steps that @protean put together for the upgrad
+- Steps that @protean put together for the upgrade
+
+```
+sudo docker-compose stop web streaming sidekiq sidekiq-scheduler sidekiq-default-q sidekiq-push-q sidekiq-pull-q es
+
+sudo systemctl start pg-dump-to-s3.service
+
+sudo docker-compose exec db vacuumdb  -U postgres --all --full --analyze --verbose
+
+sudo systemctl start pg-dump-to-s3.service
+
+sudo docker-compose exec db pg_dumpall -U postgres > ../../var/lib/postgresql/9.6.backup
+
+sudo docker-compose down --remove-orphans
+
+sudo git checkout 3_5_upgrade
+
+sudo docker-compose up -d db
+
+sudo cat ../../var/lib/postgresql/9.6.backup | docker-compose exec -T db psql -U postgres
+
+sudo docker-compose logs -t db
+
+sudo docker-compose run --rm -e SKIP_POST_DEPLOYMENT_MIGRATIONS=true web rails db:migrate
+
+sudo docker-compose down --remove-orphans
+
+sudo docker-compose up --scale sidekiq-pull-q=4 --scale sidekiq-default-q=12  --scale sidekiq-push-q=4 -d
+
+sudo docker-compose run --rm web bin/tootctl cache clear
+
+sudo docker-compose run --rm web rails db:migrate
+
+sudo docker-compose down --remove-orphans
+
+sudo docker-compose up --scale sidekiq-pull-q=4 --scale sidekiq-default-q=12  --scale sidekiq-push-q=4 -d
+
+
+Done
+
+
+==ROLLBACK==
+
+
+sudo docker-compose down --remove-orphans
+
+git checkout rebuild
+
+sudo docker-compose up --scale sidekiq-pull-q=4 --scale sidekiq-default-q=12  --scale sidekiq-push-q=4 -d
+```
 
 ## [[2022-11-14 19:00 UTC]]
 
