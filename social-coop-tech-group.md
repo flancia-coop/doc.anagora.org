@@ -13,7 +13,7 @@
     - [[backups]]
         - either they were happening some other way, or they weren't happening
         - postmortem
-            - 
+            - backup timer didnt WantedBy=timers.target
 
 
 ## [[2022-11-21 18:00 UTC]]
