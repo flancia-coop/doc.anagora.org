@@ -21,7 +21,7 @@
 - Open questions
     - How to copy static assets so they can be served by nginx
         - protean@ might have found the right incantation
-    - Should we be concerned abo
+    - Should we be concerned about disk space?
     - How to put mastodon in maintenance mode
         - touch /opt/social.coop/var/www/maintenance_mode_on
 
