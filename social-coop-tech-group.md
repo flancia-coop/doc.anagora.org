@@ -9,9 +9,16 @@
     - @Flancian: Happy after weekend playing with containers. Way fewer (late) meetings because of thanksgiving.
     - @Edsu: starting week happily.
     - @Protean: working on not taking down the site today ;)
-    - @3wordchant / @3wc / Calix: doing well, happy to have an individual account in social.coop now :) ran in the rain yesterday (pleasantly) and have had
+    - @3wordchant / @3wc / Calix: doing well, happy to have an individual account in social.coop now :) ran in the rain yesterday (pleasantly) and have had an interesting day so far (ethical wise).
+- Meta
+    - Should we use the raise hand button today?
+        - Yep
+        - Yep
+        - On it :)
+    - Do we want to screenshare?
 - Open questions
     - How to copy static assets so they can be served by nginx
+        - protean@ might have found the right
     - How to put mastodon in maintenance mode
     - 
 
