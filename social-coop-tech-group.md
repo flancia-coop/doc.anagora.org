@@ -14,6 +14,9 @@
         - either they were happening some other way, or they weren't happening
         - postmortem
             - backup timer didn't have WantedBy=timers.target
+    - [[postgres]]
+        - shouldn't be listening on the external network?
+        - we should revisit .env in docker directory.
 
 
 ## [[2022-11-21 18:00 UTC]]
