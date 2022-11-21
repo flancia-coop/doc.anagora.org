@@ -16,9 +16,10 @@
         - Yep
         - On it :)
     - Do we want to screenshare?
+    - Where do we want to 
 - Open questions
     - How to copy static assets so they can be served by nginx
-        - protean@ might have found the right
+        - protean@ might have found the right incantation
     - How to put mastodon in maintenance mode
     - 
 
