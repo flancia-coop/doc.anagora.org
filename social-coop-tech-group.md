@@ -1,6 +1,6 @@
 ## $NEXT
 - Location: https://socialcoop.meet.coop/dav-y3e-c21-sgv 
-- Attending: 3wc, edsu, protean, flancian
+- Attending: 3wc, edsu, protean, flancian, davidvasandani
 - Agenda seeded from last time / during the week
     - 'sauce' git repo
         - what should go into tech/operations, and what into ansible?
@@ -22,7 +22,7 @@
     - [[cloudflare]] / [[dns situation]]
         - [[mayel.space]]
     - [[cloud grants]]
-    - 
+        - have we considered or previously applied for the annual grants that AWS and Azure offer?
 
 
 ## [[2022-11-21 18:00 UTC]]
