@@ -17,6 +17,8 @@
     - [[postgres]]
         - shouldn't be listening on the external network?
         - we should revisit .env in docker directory.
+    - [[reliability]]
+        - how having two servers increases reliability, and having three servers increases it more :)
 
 
 ## [[2022-11-21 18:00 UTC]]
