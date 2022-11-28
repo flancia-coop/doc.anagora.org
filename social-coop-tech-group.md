@@ -1,6 +1,6 @@
 ## $NEXT
 - Location: https://socialcoop.meet.coop/dav-y3e-c21-sgv 
-- Attending: 3wc, edsu, protean, flancian, davidvasandani
+- Attending: 3wc, edsu, protean, flancian, davidvasandani, dphiffer
 - Check ins
     - Edsu: working from home every day
     - Flancian: working from home *today*
@@ -8,6 +8,10 @@
         - added live process monitoring
         - hooked up logging
 - Agenda seeded from last time / during the week
+    - [[ian]] logging and monitoring
+        - we may want to spend money here ([[datadog]])
+        - security logging, log retention come with a charge
+        - may offer plans for non profits
     - 'sauce' git repo
         - what should go into tech/operations, and what into ansible?
             - [ ] check now, per directory, and make a call? :)
