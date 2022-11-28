@@ -34,6 +34,11 @@
             - two issues hit us
                 - backup: bad dependency -- timer services was wanted by pgbackup target, but there was no such target
                 - the ones in the sauce repo: you need to make sure that a timer is 1. enabled and 2. started -- one of those was missing
+        - [ ] open bug to track this action
+    - [[ian]] let's revisit how we add documentation
+        - social.coop/general?
+        - [[edsu]] that's the idea, yes.
+            - put a revision history for the ops wiki in a bundle (?)
     - revisiting last week's upgrade
         - what should we do differently last time?
         - have we updated documentation sufficiently? where? :)
