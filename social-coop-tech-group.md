@@ -86,6 +86,8 @@
     - [[reliability]]
         - how having two servers increases reliability, and having three servers increases it more :)
         - [[ian]] going to start a new instance, run it as an experiment and report back
+        - [[flancian]] was thinking of the same / similar
+        - [[david vasandani]] what's the advantage of these experiments w.r.t. reliability? also, two servers migh
     - [[cloudflare]] / [[dns situation]]
         - [[mayel.space]]
         - solved \o/
