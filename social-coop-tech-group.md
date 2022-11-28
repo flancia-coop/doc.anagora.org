@@ -39,6 +39,10 @@
         - social.coop/general?
         - [[edsu]] that's the idea, yes.
             - put a revision history for the ops wiki in a bundle (?)
+        - pending: 
+            - merge request
+            - delete old wiki pages
+            - leave a README behind that points to the One True Wiki
     - revisiting last week's upgrade
         - what should we do differently last time?
         - have we updated documentation sufficiently? where? :)
