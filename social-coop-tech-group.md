@@ -97,11 +97,14 @@
                 - but what does it mean for one coop to be a member of another coop?
                 - [[ian]] it might or might not make sense depending on how the instances operate; for example higher level coops could vote on higher level rules on how associated instances federate.
                 - lack of good tools for content moderation is a problem.
+                    - the fediverse currently has only hashtags to have distributed decision making on e.g. blocking
+                    - a coalition of federated instances could do better; they could agree for example
+                    - [[flancian]] we could also imagine extending the ActivityPub protocol to support sharing this information between instances
     - [[cloudflare]] / [[dns situation]]
         - [[mayel.space]]
         - solved \o/
     - [[cloud grants]]
-        - have we considered or previously applied for the annual grants that AWS and Azure offer?
+        - have we considered or previously applied for the annual grants that AWS ($1k) and Azure ($3.5k) offer?
     - [[flancian]] should we reboot runko at some point?
 
 
