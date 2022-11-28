@@ -73,7 +73,11 @@
         - [[david vasandani]] should we set up a separate meeting to talk about tech roadmap level things, or use this meeting?
             - this meeting should be a good forum.
             - [[ian]] also a lot of this discussion is advancing well in the matrix chat rooms.
-            - [[edsu]] 
+            - [[edsu]] a lot of these are bound up with what social.coop (the larger group) wants to do, we should take care not to over-focus on the tech aspects only
+            - [[david]] thinking mostly of incremental improvements to our current stack
+                - [ ] testing database restores
+                - test environments
+                - which improvements do we want to prioritize?
         - we should revisit .env in docker directory.
     - [[reliability]]
         - how having two servers increases reliability, and having three servers increases it more :)
