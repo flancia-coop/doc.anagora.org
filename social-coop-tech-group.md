@@ -90,7 +90,9 @@
         - [[david vasandani]] what's the advantage of these experiments w.r.t. reliability? also, two servers might not affect reliability in the positive direction.
             - (...)
             - [[ian]] on the parallels between the fediverse now and email 20+ years ago. Things got hard with running your own email because of spam. There's no reason to believe that this won't happen with the fediverse, if we just let it go. People will start to demand more moderation policies, if people don't want to be on your instance because people aren't federating with you, there will be re-centralization.
-            - on Ian's experiment: if we're going to combat the previous, we need some way of ma
+            - on Ian's experiment: if we're going to combat the previous, we need some way of maintaining the distributed aspects of the network. This requires instances to agree on codes of conduct, standards for handling signups.
+                - aside: could social.coop scale up to ~50k people with loomio?
+                - -> we need an instance that can self-govern.
     - [[cloudflare]] / [[dns situation]]
         - [[mayel.space]]
         - solved \o/
