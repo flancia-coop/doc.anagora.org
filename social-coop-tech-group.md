@@ -52,7 +52,7 @@
             - let's go with along with the code, and leaving a pointer to it in the general wiki.
     - next steps for Mastodon upgrades
         - v3.5 -> ?
-        - this has already bee
+        - this has already been done by protean :) we're on v4
     - [[backups]]
         - either they were happening some other way, or they weren't happening
         - postmortem
