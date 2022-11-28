@@ -1,6 +1,7 @@
 ## $NEXT
 - [[flancian]] should we reboot runko at some point? :)
 - follow up on issues in bug tracker
+- schedule and announce the next meeting time
 - your topics here :)
 
 ## [[2022-11-28]]
