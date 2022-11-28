@@ -80,10 +80,15 @@
                 - which improvements do we want to prioritize?
                     - https://anagora.org/mastodon-upgrade might be reusable / something to bootstrap on for a roadmap level document
         - we should revisit .env in docker directory.
+            - why did we write this? :)
+            - no obvious issue here
+            - security model: only root can read
     - [[reliability]]
         - how having two servers increases reliability, and having three servers increases it more :)
+        - [[ian]] going to start a new instance, run it as an experiment and report back
     - [[cloudflare]] / [[dns situation]]
         - [[mayel.space]]
+        - solved \o/
     - [[cloud grants]]
         - have we considered or previously applied for the annual grants that AWS and Azure offer?
     - [[flancian]] should we reboot runko at some point?
