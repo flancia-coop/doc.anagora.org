@@ -26,9 +26,11 @@
         - https://git.coop/social.coop/tech/sauce
         - what should go into tech/operations, and what into ansible?
             - [ ] check now, per directory, and make a call? :)
-            - systemd services -> ansible
-            - one 
+            - systemd services -> ansible role
+        - maybe we want to keep in the ops repo what we want to bring into the server (with a git clone/pull)
         - maybe there is some utility to it? anybody wants to make an argument in that direction?
+            - none known
+        - sys
     - revisiting last week's upgrade
         - what should we do differently last time?
         - have we updated documentation sufficiently? where? :)
