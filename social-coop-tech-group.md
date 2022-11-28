@@ -1,6 +1,12 @@
 ## $NEXT
 - Location: https://socialcoop.meet.coop/dav-y3e-c21-sgv 
 - Attending: 3wc, edsu, protean, flancian, davidvasandani
+- Check ins
+    - Edsu: working from home every day
+    - Flancian: working from home *today*
+    - Ian: playing with monitoring
+        - added live process monitoring
+        - hooked up logging
 - Agenda seeded from last time / during the week
     - 'sauce' git repo
         - what should go into tech/operations, and what into ansible?
