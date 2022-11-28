@@ -94,6 +94,9 @@
                 - aside: could social.coop scale up to ~50k people with loomio?
                 - -> we need an instance that can self-govern.
             - [[dphiffer]] proposed to union local that they run an instance.
+                - but what does it mean for one coop to be a member of another coop?
+                - [[ian]] it might or might not make sense depending on how the instances operate; for example higher level coops could vote on higher level rules on how associated instances federate.
+                - lack of good tools for content moderation is a problem.
     - [[cloudflare]] / [[dns situation]]
         - [[mayel.space]]
         - solved \o/
