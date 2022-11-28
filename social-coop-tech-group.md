@@ -30,7 +30,7 @@
         - maybe we want to keep in the ops repo what we want to bring into the server (with a git clone/pull)
         - maybe there is some utility to it? anybody wants to make an argument in that direction?
             - none known
-        - sys
+        - [[ian]] systemd services and timers which were in ansible were all broken when found last week during updates; now are fixed
     - revisiting last week's upgrade
         - what should we do differently last time?
         - have we updated documentation sufficiently? where? :)
