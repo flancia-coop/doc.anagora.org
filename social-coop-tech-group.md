@@ -68,7 +68,12 @@
             - we are using other processes that connect to the database directly
         - [ ] can we go back to password auth?
         - [[david vasandani]] where are the processes running that are connecting to the postgres instance?
-            - [[ian]] they are 
+            - [[ian]] they are running locally in runko
+            - these are not public to the internet -- they are just on the 'external' docker network
+        - [[david vasandani]] should we set up a separate meeting to talk about tech roadmap level things, or use this meeting?
+            - this meeting should be a good forum.
+            - [[ian]] also a lot of this discussion is advancing well in the matrix chat rooms.
+            - [[edsu]] 
         - we should revisit .env in docker directory.
     - [[reliability]]
         - how having two servers increases reliability, and having three servers increases it more :)
