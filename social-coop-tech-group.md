@@ -1,3 +1,8 @@
+## $NEXT
+- [[flancian]] should we reboot runko at some point? :)
+- follow up on issues in bug tracker
+- your topics here :)
+
 ## [[2022-11-28]]
 - Location: https://socialcoop.meet.coop/dav-y3e-c21-sgv
 - Attending: edsu, protean, flancian, davidvasandani, dphiffer
