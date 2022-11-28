@@ -1,6 +1,6 @@
 ## $NEXT
-- Location: https://socialcoop.meet.coop/dav-y3e-c21-sgv 
-- Attending: 3wc, edsu, protean, flancian, davidvasandani, dphiffer
+- Location: https://socialcoop.meet.coop/dav-y3e-c21-sgv
+- Attending: edsu, protean, flancian, davidvasandani, dphiffer
 - Check ins
     - Edsu: working from home every day
     - Flancian: working from home *today*
@@ -31,6 +31,9 @@
         - maybe there is some utility to it? anybody wants to make an argument in that direction?
             - none known
         - [[ian]] systemd services and timers which were in ansible were all broken when found last week during updates; now are fixed
+            - two issues hit us
+                - backup: bad dependency -- timer services was wanted by pgbackup target, but there was no such target
+                - the ones in the sauce repo: you need to make sure that a timer is 1. enabled and 2. started -- one of those was missing
     - revisiting last week's upgrade
         - what should we do differently last time?
         - have we updated documentation sufficiently? where? :)
@@ -49,6 +52,7 @@
         - [[mayel.space]]
     - [[cloud grants]]
         - have we considered or previously applied for the annual grants that AWS and Azure offer?
+    - [[flancian]] should we reboot runko at some point?
 
 
 ## [[2022-11-21 18:00 UTC]]
