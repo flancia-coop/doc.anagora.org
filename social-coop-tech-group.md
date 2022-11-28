@@ -54,6 +54,7 @@
             - this has not happened and it should -- where should it go?
             - somewhere in social.coop/general? or along with the code?
             - let's go with along with the code, and leaving a pointer to it in the general wiki.
+            - [ ] retire (or update) https://git.coop/social.coop/general/-/wikis/tech-working-group/Deploying-Runko
     - next steps for Mastodon upgrades
         - v3.5 -> ?
         - this has already been done by protean :) we're on v4
@@ -64,6 +65,10 @@
     - [[postgres]]
         - shouldn't be listening on the external network?
             - we were binding to localhost though
+            - we are using other processes that connect to the database directly
+        - [ ] can we go back to password auth?
+        - [[david vasandani]] where are the processes running that are connecting to the postgres instance?
+            - [[ian]] they are 
         - we should revisit .env in docker directory.
     - [[reliability]]
         - how having two servers increases reliability, and having three servers increases it more :)
