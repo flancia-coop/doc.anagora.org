@@ -7,7 +7,10 @@
     - Ian: playing with monitoring
         - added live process monitoring
         - hooked up logging
-    - dphiffer: 
+    - dphiffer: is here :) was lurking during updates
+        - welcome!
+        - in NY north of Albany
+        - WFH for a non profit
 - Agenda seeded from last time / during the week
     - [[ian]] logging and monitoring
         - we may want to spend money here ([[datadog]])
@@ -18,7 +21,7 @@
     - [[edsu]] emails from [[logcheck]]
         - they look somewhat noisy/useless
         - [[ian]] the software is sort of ancient, we should probably get rid of this
-        - let's disable it
+        - [ ] let's open a bug to disable it
     - 'sauce' git repo
         - what should go into tech/operations, and what into ansible?
             - [ ] check now, per directory, and make a call? :)
