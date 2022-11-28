@@ -9,7 +9,7 @@
         - hooked up logging
     - dphiffer: is here :) was lurking during updates
         - welcome!
-        - in NY north of Albany
+        - in Troy, NY north of Albany
         - WFH for a non profit
 - Agenda seeded from last time / during the week
     - [[ian]] logging and monitoring
@@ -23,8 +23,12 @@
         - [[ian]] the software is sort of ancient, we should probably get rid of this
         - [ ] let's open a bug to disable it
     - 'sauce' git repo
+        - https://git.coop/social.coop/tech/sauce
         - what should go into tech/operations, and what into ansible?
             - [ ] check now, per directory, and make a call? :)
+            - systemd services -> ansible
+            - one 
+        - maybe there is some utility to it? anybody wants to make an argument in that direction?
     - revisiting last week's upgrade
         - what should we do differently last time?
         - have we updated documentation sufficiently? where? :)
