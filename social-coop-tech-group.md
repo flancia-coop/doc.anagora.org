@@ -87,7 +87,10 @@
         - how having two servers increases reliability, and having three servers increases it more :)
         - [[ian]] going to start a new instance, run it as an experiment and report back
         - [[flancian]] was thinking of the same / similar
-        - [[david vasandani]] what's the advantage of these experiments w.r.t. reliability? also, two servers migh
+        - [[david vasandani]] what's the advantage of these experiments w.r.t. reliability? also, two servers might not affect reliability in the positive direction.
+            - (...)
+            - [[ian]] on the parallels between the fediverse now and email 20+ years ago. Things got hard with running your own email because of spam. There's no reason to believe that this won't happen with the fediverse, if we just let it go. People will start to demand more moderation policies, if people don't want to be on your instance because people aren't federating with you, there will be re-centralization.
+            - on Ian's experiment: if we're going to combat the previous, we need some way of ma
     - [[cloudflare]] / [[dns situation]]
         - [[mayel.space]]
         - solved \o/
