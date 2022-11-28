@@ -11,6 +11,10 @@
         - welcome!
         - in Troy, NY north of Albany
         - WFH for a non profit
+    - david vasandani: member of social.coop for a long time but now looking to get more involved :)
+        - as long as he can with two kids ;)
+        - software engineer with a focus on aws
+        - has set up a local dev environment with docker
 - Agenda seeded from last time / during the week
     - [[ian]] logging and monitoring
         - we may want to spend money here ([[datadog]])
