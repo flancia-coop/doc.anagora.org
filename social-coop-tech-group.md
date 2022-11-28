@@ -7,11 +7,18 @@
     - Ian: playing with monitoring
         - added live process monitoring
         - hooked up logging
+    - dphiffer: 
 - Agenda seeded from last time / during the week
     - [[ian]] logging and monitoring
         - we may want to spend money here ([[datadog]])
         - security logging, log retention come with a charge
         - may offer plans for non profits
+        - we could:
+            - add the feature, run it for a month, then write a proposal with the actual numbers in hand
+    - [[edsu]] emails from [[logcheck]]
+        - they look somewhat noisy/useless
+        - [[ian]] the software is sort of ancient, we should probably get rid of this
+        - let's disable it
     - 'sauce' git repo
         - what should go into tech/operations, and what into ansible?
             - [ ] check now, per directory, and make a call? :)
