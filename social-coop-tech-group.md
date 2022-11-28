@@ -108,8 +108,10 @@
         - we would fit in the free tier of [DeepL](https://www.deepl.com/translator)
             - plan:
             - add a couple of new variables in the env file
-    - [[cloud grants]]
+    - [[david vasandani]] on [[cloud grants]]
         - have we considered or previously applied for the annual grants that AWS ($1k) and Azure ($3.5k) offer?
+            - never happened as far as we can tell
+            - loop in Nathan Schneider
     - [[flancian]] should we reboot runko at some point?
 
 
