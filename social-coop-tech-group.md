@@ -63,6 +63,7 @@
             - backup timer didn't have WantedBy=timers.target
     - [[postgres]]
         - shouldn't be listening on the external network?
+            - we were binding to localhost though
         - we should revisit .env in docker directory.
     - [[reliability]]
         - how having two servers increases reliability, and having three servers increases it more :)
