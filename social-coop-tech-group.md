@@ -99,10 +99,15 @@
                 - lack of good tools for content moderation is a problem.
                     - the fediverse currently has only hashtags to have distributed decision making on e.g. blocking
                     - a coalition of federated instances could do better; they could agree for example
-                    - [[flancian]] we could also imagine extending the ActivityPub protocol to support sharing this information between instances
+                    - [[flancian]] we could also imagine extending the ActivityPub protocol to support sharing this information between instances; this is something the fediverse needs to solve if it's going to scale
     - [[cloudflare]] / [[dns situation]]
         - [[mayel.space]]
         - solved \o/
+    - [[ian]] posted a poll about translation feature
+        - are people interested?
+        - we would fit in the free tier of [DeepL](https://www.deepl.com/translator)
+            - plan:
+            - add a couple of new variables in the env file
     - [[cloud grants]]
         - have we considered or previously applied for the annual grants that AWS ($1k) and Azure ($3.5k) offer?
     - [[flancian]] should we reboot runko at some point?
