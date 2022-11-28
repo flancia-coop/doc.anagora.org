@@ -1,4 +1,4 @@
-## $NEXT
+## [[2022-11-28]]
 - Location: https://socialcoop.meet.coop/dav-y3e-c21-sgv
 - Attending: edsu, protean, flancian, davidvasandani, dphiffer
 - Check ins
