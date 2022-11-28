@@ -35,17 +35,19 @@
                 - backup: bad dependency -- timer services was wanted by pgbackup target, but there was no such target
                 - the ones in the sauce repo: you need to make sure that a timer is 1. enabled and 2. started -- one of those was missing
         - [ ] open bug to track this action
-    - [[ian]] let's revisit how we add documentation
+    - [[ian]] let's revisit how we add documentation so we're all in the same page
         - social.coop/general?
         - [[edsu]] that's the idea, yes.
-            - put a revision history for the ops wiki in a bundle (?)
+            - put a revision history for the ops wiki in a git bundle 
         - pending: 
             - merge request
             - delete old wiki pages
             - leave a README behind that points to the One True Wiki
+            - remove duplication within the pages we moved
     - revisiting last week's upgrade
-        - what should we do differently last time?
+        - what should we do differently next time?
         - have we updated documentation sufficiently? where? :)
+            - this has not happened and it should
     - next steps for Mastodon upgrades
         - v3.5 -> ?
     - [[backups]]
