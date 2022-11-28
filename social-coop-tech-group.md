@@ -78,6 +78,7 @@
                 - [ ] testing database restores
                 - test environments
                 - which improvements do we want to prioritize?
+                    - https://anagora.org/mastodon-upgrade might be reusable / something to bootstrap on for a roadmap level document
         - we should revisit .env in docker directory.
     - [[reliability]]
         - how having two servers increases reliability, and having three servers increases it more :)
