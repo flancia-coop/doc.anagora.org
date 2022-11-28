@@ -93,6 +93,7 @@
             - on Ian's experiment: if we're going to combat the previous, we need some way of maintaining the distributed aspects of the network. This requires instances to agree on codes of conduct, standards for handling signups.
                 - aside: could social.coop scale up to ~50k people with loomio?
                 - -> we need an instance that can self-govern.
+            - [[dphiffer]] proposed to union local that they run an instance.
     - [[cloudflare]] / [[dns situation]]
         - [[mayel.space]]
         - solved \o/
