@@ -38,7 +38,7 @@
     - [[ian]] let's revisit how we add documentation so we're all in the same page
         - social.coop/general?
         - [[edsu]] that's the idea, yes.
-            - put a revision history for the ops wiki in a git bundle 
+            - put a revision history for the ops wiki in a [git bundle](https://git-scm.com/docs/git-bundle)
         - pending: 
             - merge request
             - delete old wiki pages
@@ -47,9 +47,12 @@
     - revisiting last week's upgrade
         - what should we do differently next time?
         - have we updated documentation sufficiently? where? :)
-            - this has not happened and it should
+            - this has not happened and it should -- where should it go?
+            - somewhere in social.coop/general? or along with the code?
+            - let's go with along with the code, and leaving a pointer to it in the general wiki.
     - next steps for Mastodon upgrades
         - v3.5 -> ?
+        - this has already bee
     - [[backups]]
         - either they were happening some other way, or they weren't happening
         - postmortem
