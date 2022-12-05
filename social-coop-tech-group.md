@@ -1,6 +1,6 @@
 ## $NEXT
 - [[flancian]] should we reboot runko at some point? :)
-- follow up on issues in bug tracker
+- follow up on issues in [bug tracker](https://git.coop/social.coop/tech/operations/-/issues)
 - schedule and announce the next meeting time
 - your topics here :)
 
