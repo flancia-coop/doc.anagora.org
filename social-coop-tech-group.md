@@ -49,7 +49,8 @@
   - jota: what do we have now for a privacy policy?
   - protean: it links to the code of conduct at the moment
   - jota: there are questions of jurisdiction that I was hoping the legal working group could help address
-  - protean: i want the la
+  - protean: i want the lawyer people to provide guidance here
+  - protean: i posted a draft text, there is .env configuration to scrub login information
 
 - schedule and announce the next meeting time
 - your topics here :)
