@@ -18,12 +18,14 @@
     - this is a larger issue with the larger confederation of co-ops, but it is an issue even internal with social.coop
     - some people have signed up to do bridging work, but it's unclear how to manage it going forward    
 - [[flancian]] should we reboot runko at some point? :)
--- Yes we should! let's schedule that for 
+-- [ ] Yes we should! let's schedule that for Friday 2022-12-10
 - follow up on issues in [bug tracker](https://git.coop/social.coop/tech/operations/-/issues)
     - [#52](https://git.coop/social.coop/tech/operations/-/issues/52) - Datadog Agent
         - Do we have an account?
         - Plan size?
         - Access?
+        - protean: there was no systemd service to start datadog,
+          - got it working again, and added logg 
     - [#56](https://git.coop/social.coop/tech/operations/-/issues/56) - Experiments Server
         - Currently setup on Hetzner.
         - Is there interest in full E2E automation and testing of new versions and restoring from backups?
