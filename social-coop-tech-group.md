@@ -26,8 +26,12 @@
         - Access?
         - protean: there was no systemd service to start datadog,
           - got it working again, and added logging
+          - not connecting to redis and elasticsearch because it's not running in those docker containers
+              - I can help configure if we'd like to mornitor.
+        
           - we need to decide whether we want to keep using it, someone mentioned prometheus?
-              - I'm testing Prom
+              - I'm testing Prom, Grafana, and Loki
+              - We can discuss the pros and cons of running our own monitoring syst
     - [#56](https://git.coop/social.coop/tech/operations/-/issues/56) - Experiments Server
         - Currently setup on Hetzner.
         - Is there interest in full E2E automation and testing of new versions and restoring from backups?
