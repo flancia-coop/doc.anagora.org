@@ -52,9 +52,11 @@
   - protean: i want the lawyer people to provide guidance here
   - protean: i posted a draft text about what we are currently doing
   - protean: there is .env configuration to scrub login information we could think about doing 
-- david: would there be interest in moving to using something like terraform for provisioning the Hetzner machines? that way we could bring up experiments and tear them down easily
+- david: would there be interest in moving to using something like terraform for provisioning the Hetzner machines? that way we could bring up experiments and tear them down easily.
+  - there was general agreement that this sounded like a worthwhile thing to look at
+  - david is going to set up a time for the TWG to discuss how we want to evolve our infrastructure code
 - schedule and announce the next meeting time
-- your topics here :)
+  - moving to bi-weekly meetings, that meet a bit later for Bo, and hopefully are still doable by flancian?
 - re: AWS/Azure 501c3 grants
     - social.coop is not a 501c3 and the overhead of creating one or using someone elses didn't seem feasible
 
