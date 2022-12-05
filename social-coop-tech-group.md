@@ -21,11 +21,13 @@
 -- [ ] Yes we should! let's schedule that for Friday 2022-12-10
 - follow up on issues in [bug tracker](https://git.coop/social.coop/tech/operations/-/issues)
     - [#52](https://git.coop/social.coop/tech/operations/-/issues/52) - Datadog Agent
-        - Do we have an account?
-        - Plan size?
+        - Do we have an account? Yes, info is in the pass.
+        - Plan size?  
         - Access?
         - protean: there was no systemd service to start datadog,
-          - got it working again, and added logg 
+          - got it working again, and added logging
+          - we need to decide whether we want to keep using it, someone mentioned prometheus?
+              - I'm testing Prom
     - [#56](https://git.coop/social.coop/tech/operations/-/issues/56) - Experiments Server
         - Currently setup on Hetzner.
         - Is there interest in full E2E automation and testing of new versions and restoring from backups?
