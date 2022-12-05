@@ -1,4 +1,8 @@
 ## $NEXT
+## [[2022-12-05]]
+- location: https://meet.mayfirst.org/social-coop-tech
+- protean: bonfire instance
+  - https://magpie.place
 - [[flancian]] should we reboot runko at some point? :)
 - follow up on issues in [bug tracker](https://git.coop/social.coop/tech/operations/-/issues)
 - schedule and announce the next meeting time
