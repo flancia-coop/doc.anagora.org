@@ -52,6 +52,7 @@
   - protean: i want the lawyer people to provide guidance here
   - protean: i posted a draft text about what we are currently doing
   - protean: there is .env configuration to scrub login information we could think about doing 
+- david: would there be interest in moving to using something like terraform for provisioning the Hetzner machines? that way we could bring up experiments and tear them down easily
 - schedule and announce the next meeting time
 - your topics here :)
 - re: AWS/Azure 501c3 grants
