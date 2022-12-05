@@ -43,7 +43,7 @@
         - Has someone picked up this ticket? Can @davidvasandani pick this up? (might want to touch base with @flancian) 
 - new server!
 -- we have the go ahead to use up to $250 per month
--- should select a server and put to a vote
+-- should select a server and put to a quick loomio checkin/vote
 - schedule and announce the next meeting time
 - your topics here :)
 - re: AWS/Azure 501c3 grants
