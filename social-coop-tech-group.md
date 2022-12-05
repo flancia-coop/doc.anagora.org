@@ -3,6 +3,9 @@
 - location: https://meet.mayfirst.org/social-coop-tech
 - protean: bonfire instance
   - https://magpie.place
+  - running bonfire community; some upstream issues w/ bonfire (e.g. mail + mailgun)
+  - good support in bonfire chat
+  - goal is to find something that has more governance built into the same plaform; we have difficulty getting everyone on all the platforms (loomio, matrix, git, etc) would be good to have govenran
 - [[flancian]] should we reboot runko at some point? :)
 - follow up on issues in [bug tracker](https://git.coop/social.coop/tech/operations/-/issues)
 - schedule and announce the next meeting time
