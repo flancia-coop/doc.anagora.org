@@ -5,8 +5,11 @@
   - https://magpie.place
   - running bonfire community; some upstream issues w/ bonfire (e.g. mail + mailgun)
   - good support in bonfire chat
-  - goal is to find something that has more governance built into the same plaform; we have difficulty getting everyone on all the platforms (loomio, matrix, git, etc) would be good to have govenran
+  - goal is to find something that has more governance built into the same plaform; we have difficulty getting everyone on all the platforms (loomio, matrix, git, etc) would be good to have governance folded in. 
+  - there doesn't appear to be voting built in, but since it is modular it should support writing an extension
+  - if anybody wants to take an account feel free ; just look for confirmation link in your spam
 - [[flancian]] should we reboot runko at some point? :)
+-- Yes we should! let's schedule that for 
 - follow up on issues in [bug tracker](https://git.coop/social.coop/tech/operations/-/issues)
 - schedule and announce the next meeting time
 - your topics here :)
