@@ -12,10 +12,14 @@
       - @david just created an account but didn't get an email.
   - participation rate is like 15%-30% of people who are loomio, and people who are on loomio is 50% of active mastodon
   - did a poll for translation feature, some people said thank you for doing it that way
+  - jotaemmei: sometimes I don't vote because I see that something is going to pass; if loomio is asking people to jump through too many hoops we should re-evaluate
 - [[flancian]] should we reboot runko at some point? :)
 -- Yes we should! let's schedule that for 
 - follow up on issues in [bug tracker](https://git.coop/social.coop/tech/operations/-/issues)
-    - [#52](https://git.coop/social.coop/tech/operations/-/issues/52) - Do we have a
+    - [#52](https://git.coop/social.coop/tech/operations/-/issues/52) - Datadog Agent
+        - Do we have an account?
+        - Plan size?
+        - Access?
 - schedule and announce the next meeting time
 - your topics here :)
 - 
