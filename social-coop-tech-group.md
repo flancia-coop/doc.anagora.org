@@ -9,7 +9,8 @@
   - goal is to find something that has more governance built into the same plaform; we have difficulty getting everyone on all the platforms (loomio, matrix, git, etc) would be good to have governance folded in. 
   - there doesn't appear to be voting built in, but since it is modular it should support writing an extension
   - if anybody wants to take an account feel free ; just look for confirmation link in your spam
-      - @david just created an account but didn't get an email.
+      - ~~@davidvasandani just created an account but didn't get an email.~~
+      - @protean shared and link and @davidvasandani was able to access.
   - participation rate is like 15%-30% of people who are loomio, and people who are on loomio is 50% of active mastodon
   - did a poll for translation feature, some people said thank you for doing it that way
   - jotaemmei: sometimes I don't vote because I see that something is going to pass
@@ -27,13 +28,13 @@
         - protean: there was no systemd service to start datadog,
           - got it working again, and added logging
           - not connecting to redis and elasticsearch because it's not running in those docker containers
-              - I can help configure if we'd like to mornitor.
+              - @davidvasandani can help configure if we'd like to mornitor.
         
           - we need to decide whether we want to keep using it, someone mentioned prometheus?
-              - I'm testing Prom, Grafana, and Loki
-              - We can discuss the pros and cons of running our own monitoring syst
+              - @davidvasandani is testing Prom, Grafana, and Loki locally for monitoring Mastodon
+              - We can discuss the pros and cons of build vs buy and what our objectives are without getting too technical. 
     - [#56](https://git.coop/social.coop/tech/operations/-/issues/56) - Experiments Server
-        - Currently setup on Hetzner.
+        - Currently setup on Hetzner (hypha)
         - Is there interest in full E2E automation and testing of new versions and restoring from backups?
         - Does the group use or have experience with Terraform?
         - If there's interest I'd be happy to run point on creating the automation and running some pairing sessions.
