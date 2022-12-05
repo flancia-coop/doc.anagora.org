@@ -40,10 +40,10 @@
         - If there's interest @davidvasandani would like to run point on creating the automation and running some pairing sessions.
     - [#53](https://git.coop/social.coop/tech/operations/-/issues/53) - Setup Dokuwiki
         - Test setup on hypha? (Hetzner experiments server)
-        - Has someone picked up this ticket? Can @davidvasandani pick this up? (might want to touch base with @flancian)
+        - Has someone picked up this ticket? Can @davidvasandani pick this up? (might want to touch base with @flancian) 
 - new server!
 -- we have the go ahead to use up to $250 per month
--- should select a server and put to a vote 
+-- should select a server and put to a vote
 - schedule and announce the next meeting time
 - your topics here :)
 - re: AWS/Azure 501c3 grants
