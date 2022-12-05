@@ -38,6 +38,10 @@
         - Is there interest in full E2E automation and testing of new versions and restoring from backups?
         - Does the group use or have experience with Terraform?
         - If there's interest @davidvasandani would like to run point on creating the automation and running some pairing sessions.
+    - [#53](https://git.coop/social.coop/tech/operations/-/issues/53) - Setup Dokuwiki
+        - Test setup on hypha? (Hetzner experiments server)
+        - 
+- new server!
 - schedule and announce the next meeting time
 - your topics here :)
 - re: AWS/Azure 501c3 grants
