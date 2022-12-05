@@ -16,8 +16,7 @@
     - if loomio is asking people to jump through too many hoops we should re-evaluate
     - how do we make sure we accomodate people's attentional needs
     - this is a larger issue with the larger confederation of co-ops, but it is an issue even internal with social.coop
-    - some people have signed up to do bridging work, but it's unclear how to manage it going forward
-    
+    - some people have signed up to do bridging work, but it's unclear how to manage it going forward    
 - [[flancian]] should we reboot runko at some point? :)
 -- Yes we should! let's schedule that for 
 - follow up on issues in [bug tracker](https://git.coop/social.coop/tech/operations/-/issues)
@@ -29,6 +28,7 @@
         - Currently setup on Hetzner.
         - Is there interest in full E2E automation and testing of new versions and restoring from backups?
         - Does the group use or have experience with Terraform?
+        - If there's interest I'd be happy to run point on creating the automation and running some pairing sessions.
 - schedule and announce the next meeting time
 - your topics here :)
 - 
