@@ -45,8 +45,11 @@
 -- we have the go ahead to use up to $250 per month
 -- should select a server and put to a quick loomio checkin/vote
 - protean: opened the log retention issue on loomio
--- https://www.loomio.com/d/kXMdf0ZW/privacy-policy-log-retention-and-anonymization
--- Jota: did we 
+  - https://www.loomio.com/d/kXMdf0ZW/privacy-policy-log-retention-and-anonymization
+  - jota: what do we have now for a privacy policy?
+  - protean: it links to the code of conduct at the moment
+  - jota: there are questions of jurisdiction that I was hoping the legal working group could help address
+  - protean: i want the la
 
 - schedule and announce the next meeting time
 - your topics here :)
