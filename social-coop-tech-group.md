@@ -8,6 +8,8 @@
   - goal is to find something that has more governance built into the same plaform; we have difficulty getting everyone on all the platforms (loomio, matrix, git, etc) would be good to have governance folded in. 
   - there doesn't appear to be voting built in, but since it is modular it should support writing an extension
   - if anybody wants to take an account feel free ; just look for confirmation link in your spam
+  - participation rate is like 15%-30% of people who are loomio, and people who are on loomio is 50% of active mastodon
+  - 
 - [[flancian]] should we reboot runko at some point? :)
 -- Yes we should! let's schedule that for 
 - follow up on issues in [bug tracker](https://git.coop/social.coop/tech/operations/-/issues)
