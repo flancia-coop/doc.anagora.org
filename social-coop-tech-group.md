@@ -44,6 +44,10 @@
 - new server!
 -- we have the go ahead to use up to $250 per month
 -- should select a server and put to a quick loomio checkin/vote
+- protean: opened the log retention issue on loomio
+-- https://www.loomio.com/d/kXMdf0ZW/privacy-policy-log-retention-and-anonymization
+-- Jota: did we 
+
 - schedule and announce the next meeting time
 - your topics here :)
 - re: AWS/Azure 501c3 grants
