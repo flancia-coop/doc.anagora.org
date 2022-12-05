@@ -31,16 +31,17 @@
               - @davidvasandani can help configure if we'd like to mornitor.
         
           - we need to decide whether we want to keep using it, someone mentioned prometheus?
-              - @davidvasandani is testing Prom, Grafana, and Loki locally for monitoring Mastodon
+              - @davidvasandani is testing Prom, Grafana, and Loki locally for monitoring Mastodon.
               - We can discuss the pros and cons of build vs buy and what our objectives are without getting too technical. 
     - [#56](https://git.coop/social.coop/tech/operations/-/issues/56) - Experiments Server
         - Currently setup on Hetzner (hypha)
         - Is there interest in full E2E automation and testing of new versions and restoring from backups?
         - Does the group use or have experience with Terraform?
-        - If there's interest I'd be happy to run point on creating the automation and running some pairing sessions.
+        - If there's interest @davidvasandani would like to run point on creating the automation and running some pairing sessions.
 - schedule and announce the next meeting time
 - your topics here :)
-- 
+- re: AWS/Azure 501c3 grants
+    - social.coop is not a 501c3 and the overhead of creating one or using someone elses didn't seem feasible
 
 ## [[2022-11-28]]
 - Location: https://socialcoop.meet.coop/dav-y3e-c21-sgv
