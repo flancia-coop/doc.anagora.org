@@ -1,5 +1,6 @@
 ## $NEXT
 ## [[2022-12-05]]
+- Attending: jotaemei, edsu, protean, davidvasandani
 - location: https://meet.mayfirst.org/social-coop-tech
 - protean: bonfire instance
   - https://magpie.place
@@ -8,13 +9,16 @@
   - goal is to find something that has more governance built into the same plaform; we have difficulty getting everyone on all the platforms (loomio, matrix, git, etc) would be good to have governance folded in. 
   - there doesn't appear to be voting built in, but since it is modular it should support writing an extension
   - if anybody wants to take an account feel free ; just look for confirmation link in your spam
+      - @david just created an account but didn't get an email.
   - participation rate is like 15%-30% of people who are loomio, and people who are on loomio is 50% of active mastodon
-  - 
+  - did a poll for translation feature, some people said thank you for doing it that way
 - [[flancian]] should we reboot runko at some point? :)
 -- Yes we should! let's schedule that for 
 - follow up on issues in [bug tracker](https://git.coop/social.coop/tech/operations/-/issues)
+    - [#52](https://git.coop/social.coop/tech/operations/-/issues/52) - Do we have a
 - schedule and announce the next meeting time
 - your topics here :)
+- 
 
 ## [[2022-11-28]]
 - Location: https://socialcoop.meet.coop/dav-y3e-c21-sgv
