@@ -33,6 +33,9 @@
       - a wiki is supposed to be changing all the time -- so giving a link to a page has always felt slightly weird to Peter, as the target will have changed by the time the recipient clicks on it
       - how to version?
           - point in time / commit, offer a link to HEAD?
+          - approach:
+              - sha256 / hashing based approach / content based addressing
+              - of an html snapshot
       - thoughts on [[chat gpt]]
           - 'automatic explanations' for change management/changes in a wiki
 - hoping to have Phase 0 done next week some time
