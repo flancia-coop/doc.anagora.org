@@ -41,6 +41,103 @@
     - (discussed [[2022-08-11]])
     
     
+    ## 2021-07-07
+### Attending: 
+[[Jerry Michalski]] [[Chris Aldrich]] [[flancian]] [[aram zucker-scharff]] [[Mathew Lowry]] [[bouncepaw]]
+
+### Video
+In 2 pieces. here's segment one https://youtu.be/41bA7oHG__c and two https://youtu.be/n1hS6sADgaw  
+with my Brain notes here: https://bra.in/8px4ZK
+
+### Notes
+- Where to track a recurring agenda/our goals?
+    - [[Jerry Michalski]] https://wiki.rel8.dev
+    - [[Chris Aldrich]] something that has worked for indieweb is having people who join show a token of interest; e.g. try to improve something for someone
+        - i.e. we can talk all day, but improvements to real systems are what we should be shooting towards
+        - we could focus here on integrating systems that already exist (the ones we're building or fostering individually) as a group
+    - [[flancian]] let's try to spot patterns (...)
+- [[aram zucker-scharff]]
+    - works for the [[The Washington Post]]
+    - developed [[pressforward]], a tool for [[wordpress]]- http://pressforward.org/
+    - building easy to use websites, archives -- in a way that allows them to interact with each other
+        - https://context.center/
+        - https://github.com/AramZS/contexter
+        - https://fightwithtools.dev/projects/context-pages/
+    - [Aram on the Fediverse](https://indieweb.social/@Chronotope) 
+    - interested in solving [[misinformation]] and [[archival]]
+    - for note taking, [[markdown]] on [[git]]
+        - [[flancian]] https://anagora.org
+- [[fellowship of the link]], a crowdsourced introduction :)
+    - [[zettelkasten]], [[commonplace books]], [[tools for thought]], [[personal knowledge graphs]], [[interlays]]
+    - [[Chris Aldrich]] lots of projects in this space are trying to sell something; but we care most about the [[commons]]
+    - how do we take idea capturing and generating and link them into a healthy [[knowledge commons]]?
+- [[logseq]] model as it relates to the commons
+    - taking VC money seems slightly worrying as they'll want to be repayed
+    - https://boffosocko.com/2022/07/05/economic-models-in-social-media-and-a-better-way-forward/
+    - [[logseq]] looks close to [[obsidian]]
+        - do we have enough variety of approaches?
+    - paying for services is fine
+- [[you need a wiki]]
+- [[agenda]]
+    - #push [[rel8]]
+        - https://wiki.rel8.dev
+        - [[Jerry Michalski]] [[rel8 pioneers]]
+    - [[flancian]] let's all push our projects onto a shared space and talk by default about interlinking and integrating them?
+    - [[Chris Aldrich]] let's start a list of resources and repositories? 
+        - this may help to bootstrap a [[commons]]
+        - [[Jerry Michalski]] [[mycelium]]
+- [[Jerry Michalski]]
+    - [[liberating voices pattern language]]
+        - [[1 2 4 all]] ~ [[one two four all]]
+- [[bouncepaw]]
+    - [[mycorrhiza]]
+    - [[hypha]]
+- [[flancian]] let's build an [[agora]]? :)
+    - this seems to be what we're trying to achieve this, regardless of the name?
+- let's bring to the next meeting -- a list of:
+    - [[repositories]]
+    - [[tools]]
+    - [[projects]]
+    - (that we want to integrate/cross reference/discuss)
+- [[affordances]]
+    - [[wikilinks]] and [[metadata]] as key to the [[commons]]
+- [[meta]] about chat
+    - let's prefer the [[mattermost]] to [[jitsi chat]]
+- [[Jerry Michalski]] what's the difference between [[indieweb]] vs [[fediverse]]
+    - [[Chris Aldrich]] [[fediverse]] is a subset of [[indieweb]]
+    - [[Chris Aldrich]] [[indieweb]] is based around the notion of having your own website and building your identity around it
+    - [[Chris Aldrich]] [[fediverse]] is based around the notion of your identity being hosted in an instance like [[mastodon.social]]
+ 
+ - Let's discuss what we wrote to [[rel8]], our lists of:
+    - [[repositories]]
+    - [[tools]]
+    - [[projects]]
+    - (that we want to integrate/cross reference/discuss)
+- People who need access to the repo (github usernames):
+    - flancian
+    - aramzs
+    - bouncepaw
+    - chrisaldrich
+    - mathewlowry
+- Let's talk about [[search engines]]
+    - https://warmedal.se/~bjorn/posts/2022-07-02-projviding-meaningful-search-results-without-own-index.html 
+    - [[queries as addresses]]
+- Phone service vs Internet service analogy: https://boffosocko.com/2022/07/05/economic-models-in-social-media-and-a-better-way-forward/
+- Let's onboard everybody to the [[fediverse]]!
+    - [[mastodon]] app is actually good to bootstrap/choose an instance
+- Dump your ActivityPub IDs here ;)
+    - @flancian@social.coop
+    - @chrisaldrich@boffosocko.com
+    - @bouncepaw@lor.sh 
+- What do we see as our long term goal?
+    - [[flancian]] let's integrate repositories and tools and write [[science fiction]] together :) how could our tools, platforms, the internet, the world at large look like by [[2025]], [[2030]]?
+    - [[Mathew Lowry]] is focusing on producing the [[pkg book]] chapter and would love to do research and writing in this space
+    - [[Jerry Michalski]] would like to participate in exploration and prototyping; illustrate and broadcast interesting ideas for others to pick up; analyze what it will take to deliver this by the next decade; organize activities
+    - [[Chris Aldrich]] appreciate the idea of [[shared wikis]] that can communicate back and forth with each other
+        - [[flancian]] we should invite [[ward cunningham]]!
+        - [[Chris Aldrich]] history of the medium
+        - [[Jerry Michalski]] [[songlines: the power and promise]] 
+            - [[Chris Aldrich]] [[third archive]]
 
 ## 2022-06-30
 ### Attending: [[Jerry Michalski]] [[Chris Aldrich]] [[diego de la hera]] [[flancian]]
