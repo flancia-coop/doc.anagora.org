@@ -31,6 +31,9 @@
       - moving from github to maybe [[codeberg]]
   - [[permanent versions]]
       - a wiki is supposed to be changing all the time -- so giving a link to a page has always felt slightly weird to Peter, as the target will have changed by the time the recipient clicks on it
+      - how to version?
+          - point in time / commit, offer a link to HEAD?
+          - 
 - hoping to have Phase 0 done next week some time
 
 ## 2022-11-16
