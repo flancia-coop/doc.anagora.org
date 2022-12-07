@@ -10,6 +10,8 @@
 - Start recording, we're currently using Jitsi and that works best with a [[Chromium]] based browser.
 - #pull [[fotl threads]]
 
+## 2022-12-07
+
 ## 2022-11-16
 
 - Attending: [[peter kaminski]] [[jerry michalski]] [[mathew lowry]] [[flancian]] [[chris aldrich]]
@@ -1444,7 +1446,7 @@ Jerry Michalski: our real chat is over here: [https://chat.collectivesensecommon
 11:53 Marshall: Gotta run! Thanks all!
 
 
-## 2022-07-07
+## 2021-07-07
 ### Attending: 
 [[Jerry Michalski]] [[Chris Aldrich]] [[flancian]] [[aram zucker-scharff]] [[Mathew Lowry]] [[bouncepaw]]
 
@@ -1523,7 +1525,7 @@ with my Brain notes here: https://bra.in/8px4ZK
     - chrisaldrich
     - mathewlowry
 - Let's talk about [[search engines]]
-    - https://warmedal.se/~bjorn/posts/2022-07-02-providing-meaningful-search-results-without-own-index.html 
+    - https://warmedal.se/~bjorn/posts/2022-07-02-projviding-meaningful-search-results-without-own-index.html 
     - [[queries as addresses]]
 - Phone service vs Internet service analogy: https://boffosocko.com/2022/07/05/economic-models-in-social-media-and-a-better-way-forward/
 - Let's onboard everybody to the [[fediverse]]!
@@ -1541,5 +1543,4 @@ with my Brain notes here: https://bra.in/8px4ZK
         - [[Chris Aldrich]] history of the medium
         - [[Jerry Michalski]] [[songlines: the power and promise]] 
             - [[Chris Aldrich]] [[third archive]]
-
 - older notes in [[fotl]]

@@ -41,8 +41,8 @@
     - (discussed [[2022-08-11]])
     
     
-    
-    ## 2022-06-30
+
+## 2022-06-30
 ### Attending: [[Jerry Michalski]] [[Chris Aldrich]] [[diego de la hera]] [[flancian]]
 
 ### Video
