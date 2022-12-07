@@ -61,7 +61,8 @@
     - [[agora bridge]] approach / trying to reuse at least importing steps
     - [[jerry michalski]] -- take [[visions]] https://bra.in/2pxbo6 as a starting point, do nth degree crawling
     - [[peter kaminski]] 
-        - [[meme brain]]
+        - [[meme brane]]
+            - https://memebrane.conversence.com
         - [[jerry's brain]] in a postgresql database, where each node is a row
             - note that Jerry doesn't use node titles 
         - the above already don't map 1:1/well to [[massive wiki]] data structures
