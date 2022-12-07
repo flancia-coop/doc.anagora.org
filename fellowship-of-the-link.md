@@ -36,6 +36,9 @@
           - approach:
               - sha256 / hashing based approach / content based addressing
               - of an html snapshot
+                  - flancian: this might introduce dependencies on particular rendering engines
+          - comparison vs ipfs actual content based addressing
+              - 
       - thoughts on [[chat gpt]]
           - 'automatic explanations' for change management/changes in a wiki
 - hoping to have Phase 0 done next week some time
