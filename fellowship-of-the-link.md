@@ -26,8 +26,11 @@
       - turns out that many sites seem fine with the menu scrolling with the content, having no fixed navbar, etc.
       - bentley: can offer CSS help, has experience
   - (airtable review)
-  - [[massive wiki wednesday]]
-      - hackmd.io/95GfL
+  - #push [[massive wiki wednesday]]
+      - https://hackmd.io/95GfL68PRsSc7wieGMgdAQ (temp location only)
+      - moving from github to maybe [[codeberg]]
+  - [[permanent versions]]
+      - a wiki is supposed to be changing all the time -- so giving a link to a page has always felt slightly weird to Peter, as the target will have changed by the time the recipient clicks on it
 - hoping to have Phase 0 done next week some time
 
 ## 2022-11-16
