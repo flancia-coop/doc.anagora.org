@@ -58,6 +58,8 @@
           - how does that bridge into new tools and visions
 - [[flancian]]
     - https://fotl.agor.ai
+    - [[agora bridge]] approach / trying to reuse at least importing steps
+    - [[visions]] https://bra.in/2pxbo6
        
 
 ## 2022-11-16
