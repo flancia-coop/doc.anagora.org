@@ -70,7 +70,8 @@
      - [[flancian]]
          - (something optimist)
      - [[jerry michalski]]
-         - most of his brain would usually end up looking like s
+         - most of his brain would usually end up looking like small markdown files with a link
+         - [[peter kaminski]] relatively easy to move data brain -> massive wiki, but it's not obvious how to go the other way
        
 
 ## 2022-11-16
