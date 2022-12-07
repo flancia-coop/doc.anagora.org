@@ -41,7 +41,7 @@
     - (discussed [[2022-08-11]])
     
     
-    ## 2021-07-07
+## 2021-07-07
 ### Attending: 
 [[Jerry Michalski]] [[Chris Aldrich]] [[flancian]] [[aram zucker-scharff]] [[Mathew Lowry]] [[bouncepaw]]
 

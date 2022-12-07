@@ -19,6 +19,10 @@
 ### Thinking Tools Map Project
 
 - website now published, <https://tftmap.massive.wiki/>
+  - \o/
+  - exciting progress on massive wiki -- Peter presents
+      - hacked massive wiki theme to have a notice bar :)
+      - had to get involved with some [[css frameworks]]
 - hoping to have Phase 0 done next week some time
 
 ## 2022-11-16
