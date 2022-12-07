@@ -42,6 +42,19 @@
       - on [[codeberg]] forking [[gitea]]
       - thoughts on [[chat gpt]]
           - 'automatic explanations' for change management/changes in a wiki
+      - three word (or whatever) navigation to a particular git hash (sort of like the interface presented by [what3words](https://what3words.com/))
+      - making git history more easily navigable by non-technical / non-Git experts
+      - date-anchored vs content-anchored
+          - interwiki links
+  - #push [[gordon brander]] and [[subconscious]]
+      - [[jerry michalski]] talked with him on Monday
+      - [[noosphere]] would love to have at least a subset of Jerry's brain \o/
+  - #push [[paul rony]] -- the founder of [[kosmik]] (sp?)
+      - [[french]]
+      - loves computer history
+      - a podcast / community / etc. to talk about:
+          - early visionaries (e.g. [[vannevar bush]])
+          - how does that bridge into new tools and visions
 - hoping to have Phase 0 done next week some time
 
 ## 2022-11-16
