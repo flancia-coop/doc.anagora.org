@@ -64,7 +64,9 @@
         - [[meme brain]]
         - [[jerry's brain]] in a postgresql database, where each node is a row
             - note that Jerry doesn't use node titles 
-        - the above already don
+        - the above already don't map 1:1/well to [[massive wiki]] data structures
+        - we're all representing information but that information has different shapes
+        - lossy translations can be very lossy
        
 
 ## 2022-11-16
