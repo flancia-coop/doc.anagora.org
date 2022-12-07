@@ -23,6 +23,11 @@
   - exciting progress on massive wiki -- Peter presents
       - hacked massive wiki theme to have a notice bar :)
       - had to get involved with some [[css frameworks]]
+      - turns out that many sites seem fine with the menu scrolling with the content, having no fixed navbar, etc.
+      - bentley: can offer CSS help, has experience
+  - (airtable review)
+  - [[massive wiki wednesday]]
+      - hackmd.io/95GfL
 - hoping to have Phase 0 done next week some time
 
 ## 2022-11-16
