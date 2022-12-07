@@ -67,6 +67,10 @@
         - the above already don't map 1:1/well to [[massive wiki]] data structures
         - we're all representing information but that information has different shapes
         - lossy translations can be very lossy
+     - [[flancian]]
+         - (something optimist)
+     - [[jerry michalski]]
+         - most of his brain would usually end up looking like s
        
 
 ## 2022-11-16
