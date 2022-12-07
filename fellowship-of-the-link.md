@@ -29,6 +29,7 @@
   - #push [[massive wiki wednesday]]
       - https://hackmd.io/95GfL68PRsSc7wieGMgdAQ (temp location only)
       - moving from github to maybe [[codeberg]]
+  - hoping to have Phase 0 done next week some time
   - [[permanent versions]]
       - a wiki is supposed to be changing all the time -- so giving a link to a page has always felt slightly weird to Peter, as the target will have changed by the time the recipient clicks on it
       - how to version?
@@ -55,7 +56,9 @@
       - a podcast / community / etc. to talk about:
           - early visionaries (e.g. [[vannevar bush]])
           - how does that bridge into new tools and visions
-- hoping to have Phase 0 done next week some time
+- [[flancian]]
+    - https://fotl.agor.ai
+       
 
 ## 2022-11-16
 
