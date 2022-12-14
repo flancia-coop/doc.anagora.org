@@ -33,7 +33,9 @@
     - [[sense doing]] #jm name/focus?
         - #jm relationship with [[tools for thining]] podcast
         - #jm [[covid response]] is a possible case study: what would the ideal national response look like?
-        - #jm but [[tools for thinking]] history 
+        - #jm but [[tools for thinking]] history might be a better first study case, less politically charged
+    - [[chris aldrich]] ~ #ca
+        - should we disable the chat in jitsi and instead use something with archival?
     - [[flancian]] n.b. [[wikilinks everywhere]] and agora bot
 
 ## 2022-12-07
