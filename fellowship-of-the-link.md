@@ -44,7 +44,9 @@
         - #ca knows a group that is promoting science donations among high net worth individuals, in particular open science IT in academia
         - #bd I know the founder of https://qiqochat.com which has zoom integrated with several different chat and document technologies. 
         - Jack Dorsey apparently is granting funds, too 
-        - [[librarian carpentries]]
+        - [[librarian carpentries]] has two associated sites
+        - #pk we have a number of projects that seem to be in this space
+            - [[tile]], [[mosaic]] definitions could be used in this context
 - misc from jitsi chat
     - "kaffeeklatsch" - it's just a fun word 😃 
     - "Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch"
