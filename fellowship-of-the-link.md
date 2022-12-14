@@ -13,6 +13,7 @@
         - [[wiki]] / root URL
         - [[calendar]] URL
         - [[issue tracker]] / [[project tracker]] URL
+            - [[github]] by default?
 
 ## 2022-12-14
 
