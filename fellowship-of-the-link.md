@@ -21,8 +21,12 @@
     - #jm open question: how many OGMs are there?
     - #jm using social tools to make sense of our shared projects instead of individual tools
     - #pk [[kaffeeklatsch]]
-    - [[flancian]] is there a [[shared calendar]]? for meetings such as OGM's and this one.
 - [[chris aldrich]] in his experience with communities, the best model seen is to throw email overboard -- and to use a public [[wiki]] that is easy to edit combined with a [[chat]] that is searchable.
+    - #jm proposal:
+      - [[mattermost]] for chat -- [[sense doing]]
+      - [[massive wiki]] for wiki
+    - [[flancian]] is there a [[shared calendar]]? for meetings such as OGM's and this one.
+    - [[flancian]] [[wikilinks everywhere]]
 
 ## 2022-12-07
 
