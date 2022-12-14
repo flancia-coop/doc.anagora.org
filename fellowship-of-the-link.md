@@ -47,9 +47,7 @@
         - [[librarian carpentries]] has two associated sites
         - #pk we have a number of projects that seem to be in this space
             - [[tile]], [[mosaic]] definitions could be used in this context, but we should stall on defining those
-            - hierarchy:
-                - cluster of projects
-                    - project
+                - cluster of projects _ project
         - [[bentley]] [[hyperknowledge]] 
             - #jm [[idea loom]]
 - misc from jitsi chat
@@ -76,6 +74,7 @@ https://www.heritagedaily.com/2022/12/the-vikings-in-africa/145505
     - focus? 
     - #push [[sensedoing]]
         - [SenseDoing channel](https://chat.collectivesensecommons.org/agora/channels/ogm-sensedoing)
+        - active conversation is mostly in the [[ogm list]]
 
 ## 2022-12-07
 
