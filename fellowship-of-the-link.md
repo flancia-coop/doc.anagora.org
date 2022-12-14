@@ -47,6 +47,10 @@
         - [[librarian carpentries]] has two associated sites
         - #pk we have a number of projects that seem to be in this space
             - [[tile]], [[mosaic]] definitions could be used in this context
+            - hierarchy:
+                - cluster of projects
+                    - project
+        - [[benlt[[hyperknowledge]] ~ [[idea loom]]
 - misc from jitsi chat
     - "kaffeeklatsch" - it's just a fun word 😃 
     - "Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch"
