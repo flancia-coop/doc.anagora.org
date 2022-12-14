@@ -46,11 +46,12 @@
         - Jack Dorsey apparently is granting funds, too 
         - [[librarian carpentries]] has two associated sites
         - #pk we have a number of projects that seem to be in this space
-            - [[tile]], [[mosaic]] definitions could be used in this context
+            - [[tile]], [[mosaic]] definitions could be used in this context, but we should stall on defining those
             - hierarchy:
                 - cluster of projects
                     - project
-        - [[benlt[[hyperknowledge]] ~ [[idea loom]]
+        - [[bentley]] [[hyperknowledge]] 
+            - #jm [[idea loom]]
 - misc from jitsi chat
     - "kaffeeklatsch" - it's just a fun word 😃 
     - "Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch"
@@ -61,7 +62,7 @@
     - and email is difficult to archive well 
     - caveat 1: someone needs to maintain it all... 
     - The IndieWeb has an interactive bot that does help to capture from chat into the wiki, but that requires some programming lift to get done. 
-    - France vs. Morocco
+    - France vs. Morocco, FIFA World Cup 2022™
         - for soccer, it's always the first five minutes and last five minutes. 
         - Vikings got to Morocco in AD 859: 
 https://www.heritagedaily.com/2022/12/the-vikings-in-africa/145505
@@ -69,8 +70,7 @@ https://www.heritagedaily.com/2022/12/the-vikings-in-africa/145505
     - WebRTC clients 
     - also BigBlueButton 
     - HedgeDoc is kinda complex for people to edit together 
-    - anagora.org/fotl
- has all the chats I've dumped from here (or most) 
+    - anagora.org/fotl has all the chats I've dumped from here (or most) 
 - SenseDoing
     - name?
     - focus? 
