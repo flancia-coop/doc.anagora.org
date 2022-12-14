@@ -37,6 +37,7 @@
     - [[chris aldrich]] ~ #ca
         - should we disable the chat in jitsi and instead use something with archival?
     - [[flancian]] n.b. [[wikilinks everywhere]] and agora bot
+        - [[python]]
 
 ## 2022-12-07
 
