@@ -9,8 +9,10 @@
 - Attending: [[x]]
 - Start recording, we're currently using Jitsi and that works best with a [[Chromium]] based browser.
 - #pull [[fotl threads]]
-    - [[calendar]]
-    - [[issue tracker]]
+    - define:
+        - [[wiki]] / root URL
+        - [[calendar]] URL
+        - [[issue tracker]] / [[project tracker]] URL
 
 ## 2022-12-14
 
