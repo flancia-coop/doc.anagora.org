@@ -13,7 +13,10 @@
 ## 2022-12-14
 
 - Attending: [[jerry michalski]] [[peter kaminski]] [[chris aldrich]] [[eduardo ivanec]] (flancian)
-- 
+- [[peter kaminski]] channel suggestion 
+- on [[ogm]] mailing lists and the purpose of [[open global mind]]
+    - are we open, global? or more like left-leaning?
+    - 
 
 ## 2022-12-07
 
