@@ -22,7 +22,7 @@
     - #jm using social tools to make sense of our shared projects instead of individual tools
     - #pk [[kaffeeklatsch]]
     - [[flancian]] is there a [[shared calendar]]? for meetings such as OGM's and this one.
-- [[chris aldrich]] 
+- [[chris aldrich]] in his experience with communities, the best model seen is to throw email overboard -- and to use a public [[wiki]] that is easy to edit combined with a [[chat]] that is searchable.
 
 ## 2022-12-07
 
