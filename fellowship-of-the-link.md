@@ -42,7 +42,15 @@
     - "kaffeeklatsch" - it's just a fun word 😃 
     - "Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch"
     - https://en.wikipedia.org/wiki/Welcome_to_Wrexham
-        - 
+        - the deadpan Welsh translator: https://youtu.be/2g3m9p35cDo?t=40
+    - email threads are impossible 
+        - says:email threads exception that proves the rule: Linux kernel mailing list 
+    - and email is difficult to archive well 
+    - caveat 1: someone needs to maintain it all... 
+    - The IndieWeb has an interactive bot that does help to capture from chat into the wiki, but that requires some programming lift to get done. 
+    - #push [[sensedoing]]
+        - [SenseDoing channel](https://chat.collectivesensecommons.org/agora/channels/ogm-sensedoing)
+
 
 ## 2022-12-07
 
