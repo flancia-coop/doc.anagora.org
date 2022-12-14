@@ -12,7 +12,7 @@
 
 ## 2022-12-14
 
-- Attending: [[jerry michalski]] [[peter kaminski]] [[chris aldrich]] [[eduardo ivanec]] (flancian)
+- Attending: [[jerry michalski]] [[peter kaminski]] [[chris aldrich]] [[bentley davis]] [[eduardo ivanec]] (flancian)
 - [[peter kaminski]] channel suggestion 
 - on [[ogm]] mailing lists and the purpose of [[open global mind]]
     - are we open, global? or more like left-leaning?
@@ -38,6 +38,8 @@
         - should we disable the chat in jitsi and instead use something with archival?
     - [[flancian]] n.b. [[wikilinks everywhere]] and agora bot
         - [[python]]
+    - [[chris aldrich]] has an acquaintance that is working on "how do you get a lab working with internal communication tools to publish a subset of their information" -- a grant application could be written 
+        - #jm did some work in this space with [[marc antoine parent]] and [[bentley davis]]
 - misc from jitsi chat
     - "kaffeeklatsch" - it's just a fun word 😃 
     - "Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch"
@@ -48,9 +50,16 @@
     - and email is difficult to archive well 
     - caveat 1: someone needs to maintain it all... 
     - The IndieWeb has an interactive bot that does help to capture from chat into the wiki, but that requires some programming lift to get done. 
+    - France vs. Morocco
+        - for soccer, it's always the first five minutes and last five minutes. 
+        - Vikings got to Morocco in AD 859: 
+https://www.heritagedaily.com/2022/12/the-vikings-in-africa/145505
+    - 
+- SenseDoing
+    - name?
+    - focus? 
     - #push [[sensedoing]]
         - [SenseDoing channel](https://chat.collectivesensecommons.org/agora/channels/ogm-sensedoing)
-
 
 ## 2022-12-07
 
