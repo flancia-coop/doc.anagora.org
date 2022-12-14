@@ -31,13 +31,18 @@
     - [[flancian]] [[sense doing]] vs [[fellowship of the link]] channels
         - [[sense doing]] is a wider channel associated with a particular project
     - [[sense doing]] #jm name/focus?
-        - #jm relationship with [[tools for thining]] podcast
+        - #jm relationship with [[tools for thinking]] podcast
         - #jm [[covid response]] is a possible case study: what would the ideal national response look like?
         - #jm but [[tools for thinking]] history might be a better first study case, less politically charged
     - [[chris aldrich]] ~ #ca
         - should we disable the chat in jitsi and instead use something with archival?
     - [[flancian]] n.b. [[wikilinks everywhere]] and agora bot
         - [[python]]
+- misc from jitsi chat
+    - "kaffeeklatsch" - it's just a fun word 😃 
+    - "Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch"
+    - https://en.wikipedia.org/wiki/Welcome_to_Wrexham
+        - 
 
 ## 2022-12-07
 
