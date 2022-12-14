@@ -19,7 +19,10 @@
     - is it a discussion group or a place to get stuff done (tm)
     - #pk ogm as a group is getting lots done, just not strictly within that banner
     - #jm open question: how many OGMs are there?
-    - #jm using social tools to make sense of our shared projects instead of indiv
+    - #jm using social tools to make sense of our shared projects instead of individual tools
+    - #pk [[kaffeeklatsch]]
+    - [[flancian]] is there a [[shared calendar]]? for meetings such as OGM's and this one.
+- [[chris aldrich]] 
 
 ## 2022-12-07
 
@@ -1253,11 +1256,7 @@ Jerry's brain for this session: https://bra.in/6p63ZP
 
 ### Attending
 
-[[Jerry Michalski]]
-[[Chris Aldrich]]
-[[Aram Zucker-Scharff]]
-[[David Weinberger]]
-[[Mathew Lowry]]
+[[Jerry Michalski]] [[Chris Aldrich]] [[Aram Zucker-Scharff]] [[David Weinberger]] [[Mathew Lowry]]
 
 ### Video
 https://youtu.be/aLZ9a70lw2g
@@ -1352,11 +1351,7 @@ Jerry's brainf for this meeting: https://bra.in/7j3ewE
 
 ### Attending: 
 
-[[Jerry Michalski]]
-[[Chris Aldrich]]
-[[Aram Zucker-Scharff]]
-[[flancian]] (who says: thank you so much for taking notes last time!!!)
-[[Mathew Lowry]]
+[[Jerry Michalski]] [[Chris Aldrich]] [[Aram Zucker-Scharff]] [[flancian]] (who says: thank you so much for taking notes last time!!!) [[Mathew Lowry]]
 
 ### Video
 July 21, in 2 parts:
