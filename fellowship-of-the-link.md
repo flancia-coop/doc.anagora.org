@@ -29,8 +29,12 @@
         - #jm Peter has a page in a massive wiki with
         - is there a source of truth for other resources as well?
     - [[flancian]] [[sense doing]] vs [[fellowship of the link]] channels
-        - 
-    - [[flancian]] [[wikilinks everywhere]] and agora bot
+        - [[sense doing]] is a wider channel associated with a particular project
+    - [[sense doing]] #jm name/focus?
+        - #jm relationship with [[tools for thining]] podcast
+        - #jm [[covid response]] is a possible case study: what would the ideal national response look like?
+        - #jm but [[tools for thinking]] history 
+    - [[flancian]] n.b. [[wikilinks everywhere]] and agora bot
 
 ## 2022-12-07
 
