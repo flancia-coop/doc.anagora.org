@@ -39,7 +39,9 @@
     - [[flancian]] n.b. [[wikilinks everywhere]] and agora bot
         - [[python]]
     - [[chris aldrich]] has an acquaintance that is working on "how do you get a lab working with internal communication tools to publish a subset of their information" -- a grant application could be written 
+        - [Joshua M. Greenberg](https://sloan.org/about/staff/joshua-m-greenberg)
         - #jm did some work in this space with [[marc antoine parent]] and [[bentley davis]]
+        - #ca knows a group that is promoting science donations among high net worth individuals
 - misc from jitsi chat
     - "kaffeeklatsch" - it's just a fun word 😃 
     - "Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch"
@@ -54,7 +56,12 @@
         - for soccer, it's always the first five minutes and last five minutes. 
         - Vikings got to Morocco in AD 859: 
 https://www.heritagedaily.com/2022/12/the-vikings-in-africa/145505
-    - 
+    - DocDrop 
+    - WebRTC clients 
+    - also BigBlueButton 
+    - HedgeDoc is kinda complex for people to edit together 
+    - anagora.org/fotl
+ has all the chats I've dumped from here (or most) 
 - SenseDoing
     - name?
     - focus? 
