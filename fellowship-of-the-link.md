@@ -9,6 +9,8 @@
 - Attending: [[x]]
 - Start recording, we're currently using Jitsi and that works best with a [[Chromium]] based browser.
 - #pull [[fotl threads]]
+    - [[calendar]]
+    - [[issue tracker]]
 
 ## 2022-12-14
 
@@ -47,7 +49,7 @@
         - [[librarian carpentries]] has two associated sites
         - #pk we have a number of projects that seem to be in this space
             - [[tile]], [[mosaic]] definitions could be used in this context, but we should stall on defining those
-                - cluster of projects _ project
+                - cluster of projects -> project
         - [[bentley]] [[hyperknowledge]] 
             - #jm [[idea loom]]
 - misc from jitsi chat
@@ -1502,49 +1504,6 @@ Jerry's Notes on this session: https://bra.in/8vm4JJ
 - [ ] [[let's share notes]]
     - [ ] start integrating pattern languages
         - [ ] build a [[meta pattern language]]
-
-### Chat log
-Jerry Michalski says:
-https://flowimmersive.com/tricast
-Fellow Jitster says: (note for later: Obs 27 has issues) 
-Jerry Michalski says:
-https://doc.anagora.org/fellowship-of-the-link
-Jerry Michalski says:the book in progress: 
-https://personalknowledgegraphs.com/#/page/Personal%20Knowledge%20Graphs
-mathew says:Shipping containers for thoughts 
-https://anagora.org/ramon-llull
-Jerry Michalski says:
-https://en.wikipedia.org/wiki/Conrad_Gessner
-Chris Aldrich says:You want this reference Mathew: Lima, Manuel. The Book of Trees: Visualizing Branches of Knowledge, 2014. 
-https://papress.com/products/the-book-of-trees-visualizing-branches-of-knowledge
-mathew says:👍 
-Chris Aldrich says:Some additional names for your history of knowledge list: Aristotle, Porphyry, Isidore of Seville, Lambert of Saint-Omer, R. Llull, Joachim of Fiore, F. Bacon, C. Linnaeus, R. Descartes, E. Haeckel, Thomas Harrison, Leibnitz, Beatrice Webb 
-Jerry Michalski says: https://wiki.rel8.dev/rel8_pioneers
-
-## 2022-07-14
-
-### Attending: 
-
-[[Jerry Michalski]] [[Chris Aldrich]] [[Aram Zucker-Scharff]] [[Marshall Kirkpatrick]] [[Timur Ismaligov]] 
-### Video
-https://youtu.be/OlIxzH23ee0
-
-### Notes
-Jerry's Brain for this session: https://bra.in/5p7LJJ
-Flancian had family conflict and couldn't attend
-[[Marshall Kirkpatrick]] 
-	- First attendance here, though only for a portion of the call
-	- working on a climate justice news aggregator
-General discussions about archives and miscellaneous topics
-Jerry and Chris stayed late to talk about note taking related topics.
-[Flow Immersive Tricast](https://flowimmersive.com/tricast) is the app that Jerry uses to put his face into a small highlight while he shares his screen 
-
-### Chat log
-Jerry Michalski: our real chat is over here: [https://chat.collectivesensecommons.org/agora/channels/ogm-fellowship-of-the-link](https://chat.collectivesensecommons.org/agora/channels/ogm-fellowship-of-the-link)
-
-11:13 Aram Zucker-Scharff: Here's the link to that - [W3C group on sustainability](https://www.w3.org/community/sustainability/)
-
-11:20 Jerry Michalski:[https://www.linkedin.com/in/ryankspangler/](https://www.linkedin.com/in/ryankspangler/) ?
 
 11:31 Aram Zucker-Scharff:[Trophy](https://rrchnm.org/portfolio-item/tropy/)
 
