@@ -26,8 +26,10 @@
       - [[mattermost]] for chat -- [[sense doing]]
       - [[massive wiki]] for wiki
     - [[flancian]] is there a [[shared calendar]]? for meetings such as OGM's and this one.
-        - 
+        - #jm Peter has a page in a massive wiki with
         - is there a source of truth for other resources as well?
+    - [[flancian]] [[sense doing]] vs [[fellowship of the link]] channels
+        - 
     - [[flancian]] [[wikilinks everywhere]] and agora bot
 
 ## 2022-12-07
