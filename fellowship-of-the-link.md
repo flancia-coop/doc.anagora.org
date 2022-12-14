@@ -41,7 +41,10 @@
     - [[chris aldrich]] has an acquaintance that is working on "how do you get a lab working with internal communication tools to publish a subset of their information" -- a grant application could be written 
         - [Joshua M. Greenberg](https://sloan.org/about/staff/joshua-m-greenberg)
         - #jm did some work in this space with [[marc antoine parent]] and [[bentley davis]]
-        - #ca knows a group that is promoting science donations among high net worth individuals
+        - #ca knows a group that is promoting science donations among high net worth individuals, in particular open science IT in academia
+        - #bd I know the founder of https://qiqochat.com which has zoom integrated with several different chat and document technologies. 
+        - Jack Dorsey apparently is granting funds, too 
+        - [[librarian carpentries]]
 - misc from jitsi chat
     - "kaffeeklatsch" - it's just a fun word 😃 
     - "Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch"
