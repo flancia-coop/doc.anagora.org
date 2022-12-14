@@ -16,13 +16,14 @@
 - [[peter kaminski]] channel suggestion 
 - on [[ogm]] mailing lists and the purpose of [[open global mind]]
     - are we open, global? or more like left-leaning?
-    - 
+    - is it a discussion group or a place to get stuff done (tm)
+    - #pk ogm as a group is getting lots done, just not strictly within that banner
+    - #jm open question: how many OGMs are there?
+    - #jm using social tools to make sense of our shared projects instead of indiv
 
 ## 2022-12-07
 
 - Attending: [[jerry michalski]] [[peter kaminski]] [[bentley davis]] [[flancian]]
-- Start recording, we're currently using Jitsi and that works best with a [[Chromium]] based browser.
-- #pull [[fotl threads]]
 
 ### Thinking Tools Map Project
 
