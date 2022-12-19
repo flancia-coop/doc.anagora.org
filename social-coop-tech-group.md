@@ -3,13 +3,16 @@
 ## [[2022-12-19]]
 - Attending: Dan, David Vasandani, Akshay, Eduardo (flancian), Ed (edsu), LibreEquity, Calix (3wordchant)
     - Dan: upstate New York
-    - (rou)
+    - (round of introductions)
+- Check ins
+    - Dan: wrote a draft on Mastodon Verification for the publication they work with. [[rel equals me]].
+    - Akshay: 
 - Location: https://meet.mayfirst.org/social-coop-tech
-- Experiments with coopcloud.tech (protean)
 - New server [[Rhizome]]! (flancian)
 - Datadog analysis (davidvasandani)
 - Nextcloud access for other [[working groups]] (flancian)
   - Possible default policy: we batch create accounts for all WG members proactively and DM them their passwords? ideally over Matrix
+- Experiments with coopcloud.tech (protean)
 
 
 ## [[2022-12-05]]
