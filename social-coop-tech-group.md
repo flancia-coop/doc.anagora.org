@@ -79,6 +79,10 @@
     - Calix: screensharing.
         - Issue with the sign in dialog in Hometown.
         - We should go all-in, no dual login.
+    - Flancian: question about the issue we're trying to work around.
+        - Patch is one line to add the email field in responses, could be mounted as a volume patch in docker-compose.
+        - But it would increase maintenance.
+        - Calix: note that dokuwiki doesn't use this email field except for sending notifications.
 - Nextcloud access for other [[working groups]] (flancian)
   - Possible default policy: we batch create accounts for all WG members proactively and DM them their passwords? ideally over Matrix
 - Experiments with coopcloud.tech (protean)
