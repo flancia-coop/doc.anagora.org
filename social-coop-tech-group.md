@@ -4,8 +4,11 @@
 - Attending: ...
 - Location: https://meet.mayfirst.org/social-coop-tech
 - Experiments with coopcloud.tech (protean)
-- New server Rhizome! (flancian)
+- New server [[Rhizome]]! (flancian)
 - Datadog analysis (davidvasandani)
+- Nextcloud access for other [[working groups]] (flancian)
+
+
 ## [[2022-12-05]]
 - Attending: jotaemei, edsu, protean, davidvasandani
 - location: https://meet.mayfirst.org/social-coop-tech
