@@ -1,6 +1,10 @@
 ## [[2022-01-02]]
-- Attending
-- 
+- Location: https://meet.mayfirst.org/social-coop-tech
+- Attending:
+- ...agenda items here...
+- Nextcloud access for other [[working groups]] (flancian)
+  - Possible default policy: we batch create accounts for all WG members proactively and DM them their passwords? ideally over Matrix
+- Experiments with coopcloud.tech (protean)
 
 ## [[2022-12-19]]
 - Attending: Dan, David Vasandani, Akshay, Eduardo (flancian), Ed (edsu), LibreEquity, Calix (3wordchant)
@@ -94,7 +98,7 @@
 - Nextcloud access for other [[working groups]] (flancian)
   - Possible default policy: we batch create accounts for all WG members proactively and DM them their passwords? ideally over Matrix
 - Experiments with coopcloud.tech (protean)
-- Chat log dump:
+- Chat log dump follows:
 Dan says:I like jitsi better than bbb 
 David Vasandani says:( * ^ *) ノシ 
 calix (they/them) says:dang this is a pleasantly large group! 🥰 
@@ -117,73 +121,31 @@ David Vasandani says:@calix it does look to be the same!
 David Vasandani says:I believe the only difference is I put fluentbit between the service and loki. 
 calix (they/them) says:👍 
 calix (they/them) says:👏 
-22:33
-LibreEquity
-LibreEquity says:👍 
-22:34
 me says:
 rhizome.social.coop
- 
-22:34
-edsu
 edsu says:👏 
-22:34
-Dan
 Dan says:unrelated but I have some affiliation with an NYC org 
 rhizome.org
- 
-22:34
-LibreEquity
 LibreEquity says:RAID0? 
-22:38
-edsu
 edsu says:brb 
 edsu says:Here's an issue where I wrote down some notes on the dokuwiki/mastodon sso experiment: 
 https://git.coop/social.coop/tech/operations/-/issues/53
- 
-22:49
-Dan
 Dan says:"hey are you talking about mastodon?" –my 3yo 
-22:51
-calix (they/them)
 calix (they/them) says:🤣 
-22:51
-edsu
 edsu says:lol 
-22:52
-LibreEquity
 LibreEquity says:👍 
-22:53
-edsu
 edsu says:😀 
-22:54
-LibreEquity
 LibreEquity says:😀 
-22:55
-David Vasandani
 David Vasandani says:Great point! 
-22:55
-edsu
 edsu says:I disabled that dual login in the dokuwiki -- agree 
-22:55
-David Vasandani
 David Vasandani says:Thank you for that call out. 
-22:55
-edsu
 edsu says:💯 
-22:55
-calix (they/them)
 calix (they/them) says:oh and for completeness we hid the username/password fields in CSS 🕵 
 calix (they/them) says:
 https://github.com/cosmocode/dokuwiki-plugin-oauthdoorkeeper/compare/master...edsu:dokuwiki-plugin-oauthdoorkeeper:mastodon
- 
-22:57
-David Vasandani
 David Vasandani says:Never be sorry! 
 David Vasandani says:Not everyone has an alias. 
 David Vasandani says:It by request. 
-23:01
-
 
 ## [[2022-12-05]]
 - Attending: jotaemei, edsu, protean, davidvasandani
