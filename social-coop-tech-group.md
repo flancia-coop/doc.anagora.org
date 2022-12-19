@@ -6,7 +6,8 @@
     - (round of introductions)
 - Check ins
     - Dan: wrote a draft on Mastodon Verification for the publication they work with. [[rel equals me]].
-    - Akshay: 
+    - Akshay: been away for >1mo, was in vacation (to India!) and travelling (now in Italy!). One more week of holiday left! May have time to dedicate to social.coop.
+    - Ed: been kind of sick / with the flu. Otherwise going well and into vacation mode until EOY! Open to do coworki
 - Location: https://meet.mayfirst.org/social-coop-tech
 - New server [[Rhizome]]! (flancian)
 - Datadog analysis (davidvasandani)
