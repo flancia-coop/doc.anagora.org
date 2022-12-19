@@ -24,6 +24,8 @@
     - docker-compose files for the whole stack. Will add this to a repo in git.coop.
     - statsd, fluentd.
     - Open question: homegrown docker-compose long time or [[coop cloud]]/[[abra]]? Is this a choice or are they complementary?
+    - Akshay: use the same stack pretty much at work. You can configure loki to store logs somewhere -- like an S3 bucket -- (and that way you do not need extra indexing infra?).
+    - 
 - New server [[Rhizome]]! (flancian)
 - Single Sign On experiments / future work? (edsu)
 - Nextcloud access for other [[working groups]] (flancian)
