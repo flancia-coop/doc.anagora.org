@@ -35,6 +35,9 @@
     - Akshay: Alert Manager is provided by Prometheus as well as an alternative.
     - Next steps?
         - Flancian: could we install this monitoring stack in [[hypha]]? ;)
+            - Seemingly yes, seems like a good idea.
+            - David: any concerns with network traffic?
+                - Let's monitor it ;)
 - New server [[Rhizome]]! (flancian)
 - Single Sign On experiments / future work? (edsu)
 - Nextcloud access for other [[working groups]] (flancian)
