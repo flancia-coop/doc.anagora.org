@@ -45,9 +45,14 @@
         - plus: `addgroup wheel`
         - everyone should have access, if not reach out
     - reach out for server access or raise hand
-    - Flancian: unclear on whether we want to target techsocial.coop
-    - David: I don't think we should hold up the upgrade when exploring 
+    - Flancian: unclear on whether we want to target coopcloud.tech
+    - David: I don't think we should hold up the upgrade when exploring coopcloud.tech
+    - Akshay: on the RAID 0 -> 1 change
+        - Discussed pros/cons of RAID 1
+        - Any negative impact should be negligible
+    - Next action: continue to bring up docker/docker-compose services as per runko
 - Single Sign On experiments / future work? (edsu)
+    - Mastodon SSO discussion
 - Nextcloud access for other [[working groups]] (flancian)
   - Possible default policy: we batch create accounts for all WG members proactively and DM them their passwords? ideally over Matrix
 - Experiments with coopcloud.tech (protean)
