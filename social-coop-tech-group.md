@@ -46,7 +46,7 @@
         - everyone should have access, if not reach out
     - reach out for server access or raise hand
     - Flancian: unclear on whether we want to target techsocial.coop
-    - David: most reliable way to get to the new server will give us the time to understan
+    - David: I don't think we should hold up the upgrade when exploring 
 - Single Sign On experiments / future work? (edsu)
 - Nextcloud access for other [[working groups]] (flancian)
   - Possible default policy: we batch create accounts for all WG members proactively and DM them their passwords? ideally over Matrix
