@@ -7,6 +7,7 @@
 - New server [[Rhizome]]! (flancian)
 - Datadog analysis (davidvasandani)
 - Nextcloud access for other [[working groups]] (flancian)
+  - Possible default policy: we batch create accounts for all WG members proactively and DM them their passwords? ideally over Matrix
 
 
 ## [[2022-12-05]]
