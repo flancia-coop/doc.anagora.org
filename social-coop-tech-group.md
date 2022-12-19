@@ -12,9 +12,17 @@
     - LibreEquity: doing well, very interested in the Twitter -> Mastodon move. Read Nathan Schneider's book in 2014-2015, followed him back then and had this in the back of our mind.
     - David: life is good, kids are healthy :) Getting warmer (in AUS). Diving into monitoring. Grafana, using docker, learnt a lot.
     - Calix: doing alright :) Neat people starting at autonomic.
+    - Eduardo: entering production freeze, feeling nice about it :) also re-re-finishing (THIS TIME FOR REAL (tm)) [[agora chapter]].
 - Location: https://meet.mayfirst.org/social-coop-tech
 - [Grafana](https://grafana.com/) analysis (davidvasandani)
+    - Sharing screen.
+    - Hacked around for the last few weeks. Last experience with monitoring/debugging/logging was a few years back.
+    - Elastic search.
+    - Loki: tool for logging.
+        - Taskfile is like a Makefile but in YAML.
+    - docker-compose 
 - New server [[Rhizome]]! (flancian)
+- Single Sign On experiments / future work? (edsu)
 - Nextcloud access for other [[working groups]] (flancian)
   - Possible default policy: we batch create accounts for all WG members proactively and DM them their passwords? ideally over Matrix
 - Experiments with coopcloud.tech (protean)
