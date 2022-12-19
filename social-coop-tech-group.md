@@ -1,7 +1,7 @@
 ## $NEXT
 
 ## [[2022-12-19]]
-- Attending: ...
+- Attending: Dan, David Vasandani,
 - Location: https://meet.mayfirst.org/social-coop-tech
 - Experiments with coopcloud.tech (protean)
 - New server [[Rhizome]]! (flancian)
