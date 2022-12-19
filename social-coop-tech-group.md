@@ -77,7 +77,8 @@
         - Calix: would like to pick your brain sometime :) Were password resets required?
         - Akshay: no.
     - Calix: screensharing.
-        - Issue with t
+        - Issue with the sign in dialog in Hometown.
+        - We should go all-in, no dual login.
 - Nextcloud access for other [[working groups]] (flancian)
   - Possible default policy: we batch create accounts for all WG members proactively and DM them their passwords? ideally over Matrix
 - Experiments with coopcloud.tech (protean)
