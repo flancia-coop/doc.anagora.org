@@ -55,6 +55,12 @@
 - Single Sign On experiments / future work? (edsu)
     - Mastodon SSO discussion
     - David: Mastodon does not by default surface your email, but with a simple change in a test this was surfaced
+        - But if you change your email in Mastodon, the other services do not know that you are the same user and consider you a new one.
+        - Flancian: do other SSO providers not have this issue?
+        - David: unclear.
+        - Akshay: [[SCIM]] calls are sometimes used to ping around this kind of data/event.
+            - -> [[scim for keyclub]]
+            - Not all sof
 - Nextcloud access for other [[working groups]] (flancian)
   - Possible default policy: we batch create accounts for all WG members proactively and DM them their passwords? ideally over Matrix
 - Experiments with coopcloud.tech (protean)
