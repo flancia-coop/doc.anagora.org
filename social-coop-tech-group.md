@@ -1,4 +1,6 @@
-## $NEXT
+## [[2022-01-02]]
+- Attending
+- 
 
 ## [[2022-12-19]]
 - Attending: Dan, David Vasandani, Akshay, Eduardo (flancian), Ed (edsu), LibreEquity, Calix (3wordchant)
@@ -88,10 +90,99 @@
         - Calix: yes, not only the number but also whether they use the email field the same way, or if they are based on username.
         - LibreEquity: is social.coop running an email server?
             - Flancian: nope, using webarchitechts forwarders set up on request
-- NEXT EPISODE :
+- NEXT EPISODE:
 - Nextcloud access for other [[working groups]] (flancian)
   - Possible default policy: we batch create accounts for all WG members proactively and DM them their passwords? ideally over Matrix
 - Experiments with coopcloud.tech (protean)
+- Chat log dump:
+Dan says:I like jitsi better than bbb 
+David Vasandani says:( * ^ *) ノシ 
+calix (they/them) says:dang this is a pleasantly large group! 🥰 
+me says:
+https://doc.anagora.org/social-coop-tech-group?edit for notes 😃 
+Dan says:I'm on Firefox! 
+Dan says:(I use the Nightly build) 
+calix (they/them) says:it's -9°C here today 🥶 
+Dan says:wow that is v cold! 
+calix (they/them) says:👍 
+David Vasandani says:👍 
+Dan says:a previous Mastodon article I helped out with 
+https://themarkup.org/the-breakdown/2022/11/21/we-joined-mastodon-heres-what-we-learned-about-privacy-and-security
+calix (they/them) says:
+https://git.coopcloud.tech/coop-cloud/monitoring
+calix (they/them) says:
+https://git.coopcloud.tech/coop-cloud/monitoring-lite
+calix (they/them) says:think it's the same stack? 
+David Vasandani says:@calix it does look to be the same! 
+David Vasandani says:I believe the only difference is I put fluentbit between the service and loki. 
+calix (they/them) says:👍 
+calix (they/them) says:👏 
+22:33
+LibreEquity
+LibreEquity says:👍 
+22:34
+me says:
+rhizome.social.coop
+ 
+22:34
+edsu
+edsu says:👏 
+22:34
+Dan
+Dan says:unrelated but I have some affiliation with an NYC org 
+rhizome.org
+ 
+22:34
+LibreEquity
+LibreEquity says:RAID0? 
+22:38
+edsu
+edsu says:brb 
+edsu says:Here's an issue where I wrote down some notes on the dokuwiki/mastodon sso experiment: 
+https://git.coop/social.coop/tech/operations/-/issues/53
+ 
+22:49
+Dan
+Dan says:"hey are you talking about mastodon?" –my 3yo 
+22:51
+calix (they/them)
+calix (they/them) says:🤣 
+22:51
+edsu
+edsu says:lol 
+22:52
+LibreEquity
+LibreEquity says:👍 
+22:53
+edsu
+edsu says:😀 
+22:54
+LibreEquity
+LibreEquity says:😀 
+22:55
+David Vasandani
+David Vasandani says:Great point! 
+22:55
+edsu
+edsu says:I disabled that dual login in the dokuwiki -- agree 
+22:55
+David Vasandani
+David Vasandani says:Thank you for that call out. 
+22:55
+edsu
+edsu says:💯 
+22:55
+calix (they/them)
+calix (they/them) says:oh and for completeness we hid the username/password fields in CSS 🕵 
+calix (they/them) says:
+https://github.com/cosmocode/dokuwiki-plugin-oauthdoorkeeper/compare/master...edsu:dokuwiki-plugin-oauthdoorkeeper:mastodon
+ 
+22:57
+David Vasandani
+David Vasandani says:Never be sorry! 
+David Vasandani says:Not everyone has an alias. 
+David Vasandani says:It by request. 
+23:01
 
 
 ## [[2022-12-05]]
