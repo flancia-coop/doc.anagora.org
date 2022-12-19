@@ -64,7 +64,13 @@
         - Edsu: dokuwiki uses the email and it might not support this.
             - Nathan Schneider came to the conclusion that we might want a stand alone SSO provider?
             - But we already have >1.7k users in Mastodon.
-            - Calix: +1. This might be a limitation of dokuwiki -- other wiki systems have a username in the schema. Mediawiki for e
+            - Calix: +1. This might be a limitation of dokuwiki -- other wiki systems have a username in the schema. Mediawiki for example.
+                - Short term paths:
+                    - 1. provide a fake email address to dokuwiki?
+                    - 2. pick another wiki software?
+                - Edsu: +1, there was a lot of uncertainty in the wiki software discussion. dokuwiki is still at the experiment phase.
+                - https://git.coop/social.coop/tech/operations/-/issues/53 is the source of truth for this.
+        - Next actions
 - Nextcloud access for other [[working groups]] (flancian)
   - Possible default policy: we batch create accounts for all WG members proactively and DM them their passwords? ideally over Matrix
 - Experiments with coopcloud.tech (protean)
