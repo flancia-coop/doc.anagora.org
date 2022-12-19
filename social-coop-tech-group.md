@@ -1,7 +1,7 @@
 ## $NEXT
 
 ## [[2022-12-19]]
-- Attending: Dan, David Vasandani,
+- Attending: Dan, David Vasandani, Akshay, Eduardo (flancian), Ed (edsu), LibreEquity
 - Location: https://meet.mayfirst.org/social-coop-tech
 - Experiments with coopcloud.tech (protean)
 - New server [[Rhizome]]! (flancian)
