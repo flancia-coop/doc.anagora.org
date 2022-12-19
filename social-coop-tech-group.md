@@ -77,12 +77,16 @@
         - Calix: would like to pick your brain sometime :) Were password resets required?
         - Akshay: no.
     - Calix: screensharing.
-        - Issue with the sign in dialog in Hometown.
+        - Issue with the sign in dialog in Hometown/Mastodon when two login providers are enabled.
         - We should go all-in, no dual login.
     - Flancian: question about the issue we're trying to work around.
         - Patch is one line to add the email field in responses, could be mounted as a volume patch in docker-compose.
         - But it would increase maintenance.
-        - Calix: note that dokuwiki doesn't use this email field except for sending notifications.
+        - Calix: note that dokuwiki doesn't use this email field except for sending notifications, could we poll folks on preferences between disabling that vs. login system churn.
+        - It might indeed make sense to patch dokuwiki instead of patching Mastodon, given that the earlier is less critical (and a newer service).
+        - David: does this maybe depend on which other services we want to run?
+        - Calix: yes, not only the number but also whether they use the email field the same way.
+        - LibreEquity: 
 - Nextcloud access for other [[working groups]] (flancian)
   - Possible default policy: we batch create accounts for all WG members proactively and DM them their passwords? ideally over Matrix
 - Experiments with coopcloud.tech (protean)
