@@ -1,4 +1,7 @@
 ## $NEXT
+
+## $NEXT
+
 ## [[2022-12-05]]
 - Attending: jotaemei, edsu, protean, davidvasandani
 - location: https://meet.mayfirst.org/social-coop-tech
