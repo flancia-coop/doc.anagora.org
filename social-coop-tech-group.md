@@ -60,7 +60,9 @@
         - David: unclear.
         - Akshay: [[SCIM]] calls are sometimes used to ping around this kind of data/event.
             - -> [[scim for keyclub]]
-            - Not all sof
+            - Not all software supports it. Does [[dokuwiki]] even actually support email changes?
+        - Edsu: dokuwiki uses the email and it might not support this.
+            - Nathan Schneider came to the conclusion that 
 - Nextcloud access for other [[working groups]] (flancian)
   - Possible default policy: we batch create accounts for all WG members proactively and DM them their passwords? ideally over Matrix
 - Experiments with coopcloud.tech (protean)
