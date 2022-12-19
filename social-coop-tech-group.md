@@ -25,7 +25,10 @@
     - statsd, fluentd.
     - Open question: homegrown docker-compose long time or [[coop cloud]]/[[abra]]? Is this a choice or are they complementary?
     - Akshay: use the same stack pretty much at work. You can configure loki to store logs somewhere -- like an S3 bucket -- (and that way you do not need extra indexing infra?).
-    - 
+    - David: we pipe things through fluentd to consolidate logs.
+    - David: [[datadog]] can get expensive with one wrong logging statement :)
+    - [[Calix]] https://git.coopcloud.tech/coop-cloud/monitoring https://git.coopcloud.tech/coop-cloud/monitoring-lite is the coop cloud
+ 
 - New server [[Rhizome]]! (flancian)
 - Single Sign On experiments / future work? (edsu)
 - Nextcloud access for other [[working groups]] (flancian)
