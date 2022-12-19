@@ -28,7 +28,8 @@
     - David: we pipe things through fluentd to consolidate logs.
     - David: [[datadog]] can get expensive with one wrong logging statement :)
     - [[Calix]] https://git.coopcloud.tech/coop-cloud/monitoring https://git.coopcloud.tech/coop-cloud/monitoring-lite is the coop cloud
- 
+    - Flancian: is this the kind of stack that we could run in Rhizome now?
+    - Akshay: would recommend we run monitoring in a separate server, because.
 - New server [[Rhizome]]! (flancian)
 - Single Sign On experiments / future work? (edsu)
 - Nextcloud access for other [[working groups]] (flancian)
