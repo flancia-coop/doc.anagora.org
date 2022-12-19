@@ -62,7 +62,9 @@
             - -> [[scim for keyclub]]
             - Not all software supports it. Does [[dokuwiki]] even actually support email changes?
         - Edsu: dokuwiki uses the email and it might not support this.
-            - Nathan Schneider came to the conclusion that 
+            - Nathan Schneider came to the conclusion that we might want a stand alone SSO provider?
+            - But we already have >1.7k users in Mastodon.
+            - Calix: +1. This might be a limitation of dokuwiki -- other wiki systems have a username in the schema. Mediawiki for e
 - Nextcloud access for other [[working groups]] (flancian)
   - Possible default policy: we batch create accounts for all WG members proactively and DM them their passwords? ideally over Matrix
 - Experiments with coopcloud.tech (protean)
