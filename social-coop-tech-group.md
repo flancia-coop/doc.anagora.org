@@ -36,9 +36,14 @@
     - Next steps?
         - Flancian: could we install this monitoring stack in [[hypha]]? ;)
             - Seemingly yes, seems like a good idea.
-            - David: any concerns with network traffic?
+            - David: any concerns with network traffic? Would like to have someone else try it out, and then work on deploying it. We would need something installed at the system level and/or docker level (on runko)
                 - Let's monitor it ;)
+            - Next action: **open a bug in [[go/twg/bugs]]**
 - New server [[Rhizome]]! (flancian)
+    - rhizome.social.coop
+    - ubuntu 22
+        - plus: `addgroup wheel`
+        - everyone should have access, if not reach out
 - Single Sign On experiments / future work? (edsu)
 - Nextcloud access for other [[working groups]] (flancian)
   - Possible default policy: we batch create accounts for all WG members proactively and DM them their passwords? ideally over Matrix
