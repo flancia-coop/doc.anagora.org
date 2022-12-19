@@ -10,10 +10,11 @@
     - Ed: been kind of sick / with the flu. Otherwise going well and into vacation mode until EOY! Open to do coworking.
         - Nextcloud calendar for coworking?
     - LibreEquity: doing well, very interested in the Twitter -> Mastodon move. Read Nathan Schneider's book in 2014-2015, followed him back then and had this in the back of our mind.
-    - David: 
+    - David: life is good, kids are healthy :) Getting warmer (in AUS). Diving into monitoring. Grafana, using docker, learnt a lot.
+    - Calix: doing alright :) Neat people starting at autonomic.
 - Location: https://meet.mayfirst.org/social-coop-tech
+- [Grafana](https://grafana.com/) analysis (davidvasandani)
 - New server [[Rhizome]]! (flancian)
-- Datadog analysis (davidvasandani)
 - Nextcloud access for other [[working groups]] (flancian)
   - Possible default policy: we batch create accounts for all WG members proactively and DM them their passwords? ideally over Matrix
 - Experiments with coopcloud.tech (protean)
