@@ -7,7 +7,10 @@
 - Check ins
     - Dan: wrote a draft on Mastodon Verification for the publication they work with. [[rel equals me]].
     - Akshay: been away for >1mo, was in vacation (to India!) and travelling (now in Italy!). One more week of holiday left! May have time to dedicate to social.coop.
-    - Ed: been kind of sick / with the flu. Otherwise going well and into vacation mode until EOY! Open to do coworki
+    - Ed: been kind of sick / with the flu. Otherwise going well and into vacation mode until EOY! Open to do coworking.
+        - Nextcloud calendar for coworking?
+    - LibreEquity: doing well, very interested in the Twitter -> Mastodon move. Read Nathan Schneider's book in 2014-2015, followed him back then and had this in the back of our mind.
+    - David: 
 - Location: https://meet.mayfirst.org/social-coop-tech
 - New server [[Rhizome]]! (flancian)
 - Datadog analysis (davidvasandani)
