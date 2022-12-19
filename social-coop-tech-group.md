@@ -70,7 +70,11 @@
                     - 2. pick another wiki software?
                 - Edsu: +1, there was a lot of uncertainty in the wiki software discussion. dokuwiki is still at the experiment phase.
                 - https://git.coop/social.coop/tech/operations/-/issues/53 is the source of truth for this.
-        - Next actions
+        - Next actions:
+            - David: Decide if we want SSO, and if we want a *stand alone* SSO. 
+            - David: [[keycloak]] might provide a way to have a separate SSO
+            SSOo
+        - :)
 - Nextcloud access for other [[working groups]] (flancian)
   - Possible default policy: we batch create accounts for all WG members proactively and DM them their passwords? ideally over Matrix
 - Experiments with coopcloud.tech (protean)
