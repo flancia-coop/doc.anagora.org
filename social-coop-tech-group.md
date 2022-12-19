@@ -19,9 +19,11 @@
     - Hacked around for the last few weeks. Last experience with monitoring/debugging/logging was a few years back. Main intent was to explore modern options in the monitoring/debugging/logging space.
     - Loki: tool for logging.
         - Taskfile is like a Makefile but in YAML.
-    - Prometheus: Borgmon-like :) Ga
+    - Prometheus: Borgmon-like :) Gathers data.
+    - Grafana: UI layer? Frontend for Prometheus.
     - docker-compose files for the whole stack. Will add this to a repo in git.coop.
     - statsd, fluentd.
+    - Open question: homegrown docker-compose long time or [[coop cloud]]/[[abra]]? Is this a choice or are they complementary?
 - New server [[Rhizome]]! (flancian)
 - Single Sign On experiments / future work? (edsu)
 - Nextcloud access for other [[working groups]] (flancian)
