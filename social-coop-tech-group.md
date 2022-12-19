@@ -16,10 +16,10 @@
 - Location: https://meet.mayfirst.org/social-coop-tech
 - [Grafana](https://grafana.com/) analysis (davidvasandani)
     - Sharing screen.
-    - Hacked around for the last few weeks. Last experience with monitoring/debugging/logging was a few years back.
-    - Elastic search.
+    - Hacked around for the last few weeks. Last experience with monitoring/debugging/logging was a few years back. Main intent was to explore modern options in the monitoring/debugging/logging space.
     - Loki: tool for logging.
         - Taskfile is like a Makefile but in YAML.
+    - Prometheus: Borgmon-like :) Ga
     - docker-compose files for the whole stack. Will add this to a repo in git.coop.
     - statsd, fluentd.
 - New server [[Rhizome]]! (flancian)
