@@ -50,9 +50,11 @@
     - Akshay: on the RAID 0 -> 1 change
         - Discussed pros/cons of RAID 1
         - Any negative impact should be negligible
-    - Next action: continue to bring up docker/docker-compose services as per runko
+    - **Next action: continue to bring up docker/docker-compose services as per runko**
+    - **Cut bug**
 - Single Sign On experiments / future work? (edsu)
     - Mastodon SSO discussion
+    - David: Mastodon does not by default surface your email, but with a simple change in a test this was surfaced
 - Nextcloud access for other [[working groups]] (flancian)
   - Possible default policy: we batch create accounts for all WG members proactively and DM them their passwords? ideally over Matrix
 - Experiments with coopcloud.tech (protean)
