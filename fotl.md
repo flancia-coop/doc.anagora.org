@@ -59,6 +59,96 @@ mathew says:👍
 Chris Aldrich says:Some additional names for your history of knowledge list: Aristotle, Porphyry, Isidore of Seville, Lambert of Saint-Omer, R. Llull, Joachim of Fiore, F. Bacon, C. Linnaeus, R. Descartes, E. Haeckel, Thomas Harrison, Leibnitz, Beatrice Webb 
 Jerry Michalski says: https://wiki.rel8.dev/rel8_pioneers
 
+## 2022-07-21
+
+### Attending: 
+
+[[Jerry Michalski]] [[Chris Aldrich]] [[Aram Zucker-Scharff]] [[flancian]] (who says: thank you so much for taking notes last time!!!) [[Mathew Lowry]]
+
+### Video
+July 21, in 2 parts:
+- https://youtu.be/P6Ge5-DAXF0  and 
+- https://youtu.be/oaWi86wUHLE
+
+### Notes
+
+Jerry's Notes on this session: https://bra.in/8vm4JJ
+
+- The book Mathew is working on: https://personalknowledgegraphs.com/#/page/Personal%20Knowledge%20Graphs
+    - working with [[wireframes]]
+- [[Chris Aldrich]]
+    - [[punch cards]]
+    - [[beatrice webb]] https://en.wikipedia.org/wiki/Beatrice_Webb
+    - [[niklas luhmann]] was born the year after she published
+    - [[conrad gessner]]
+        - [[flancian]] likely the namesake for [[gessnerallee]], and I didn't know him!
+    - [[ramon llull]] 
+        - the [[catalan]]
+    - [[herman hollerith]]
+    - [[roland barthes]] (look into previous week's notes)
+    - [[aristotle]]
+        - influenced the [[great chain of being]]
+    - [[sky woman]] vs [[adam and eve]]
+    - [[doughnut economics]]
+        - [[flancian]] [[ontoshift]] in [[free, fair and alive]]
+        - [[aram zucker-scharff]] reported on economics back in the day
+            - "[[economics]] is more [[sociology]] than it is [[mathematics]]"
+            - [[Chris Aldrich]] there's interesting work in [[complexity economics]] that goes beyond [[clockwork models]]
+                - [[santa fe institute]]
+                    - [[cognitive artifacts]]
+- [[Jerry Michalski]] is an [[economics undergrad]]
+    - taking [[pattern languages]] and [[extending]] them and [[integrating]] them 
+    - [[open source pattern language]] of [[re(generative) commons]]
+    - how to share notes with each other, into myhub, agora and other platforms?
+- https://anagora.org/node/ontoshift
+- Formats and protocols to exchange and connect knowledge 
+    - [[flancian]] thinks of Anagora as a reference implementation of [[agora protocol]], which is this protocol
+    - What are the standard objects that move back and forth on this protocol? What is the shapes and how can they enable information exchange and connection? 
+        - Does this connect with ActivityPub? Could we send objects and federate "brains" in this way?
+    - A schema for everything(?) https://schema.org/
+- [[Jerry Michalski]]
+    - #push [[rel8]]
+        - https://wiki.rel8.dev/rel8_pioneers
+- [[Mathew Lowry]]
+    - [[Chris Aldrich]] asked for examples of model [[zettelkasten]] outputs
+        - hasn't gotten many :)
+        - #push [[zettelkasten]]
+            - [[model examples of zettelkasten output processes]] https://boffosocko.com/2022/07/12/call-for-model-examples-of-zettelkasten-output-processes/
+            - conceptualization: we can all take small notes, interlink them ([[Jerry Michalski]] calls them [[nuggets]])
+                - [[Jerry Michalski]] [[nuggets, narratives and points of view]] https://www.youtube.com/watch?v=EmId2x6JSQE&feature=related
+            - how can I pull up 2, 3 nodes that bring up a certain number of text blocks that can then be assembled into long form text or some other format that is fit for consumption by others?
+                - linear version is one output format, likely the most useful one
+                - interactive experience as an alternative?
+                - closest UI that exists might be [[devonthink]]
+                - [[Mathew Lowry]] akin to what script writers assemble
+                    - [[aram]] that is called [[murder board]] / [[scrub down]]
+                    - [[Chris Aldrich]] [[anacapa]] charts / [[anacapa charts]]
+   - #push [[zettelkasten]]
+       - [[Jerry Michalski]] question about [[zettelkasten]]
+           - why would the numbering system be useful nowadays?
+               - unclear
+           - is the fandom in a [[blind alley]] because of the focus on form?
+           - [[Chris Aldrich]] [[zettelkasten origin myth]]
+       - [[aram zucker-scharff]] confusion of technique with presentation layer
+           - [[trello]] is inspired by [[getting things done]]
+       - [[Chris Aldrich]] the ability to reuse what you've already written is key to every productive academic; the means of doing this is critical to productivity
+           - [[luhmann]] kept changing, improving his technique
+- going back to the [[flatten]] problem (going from n notes to a long form text)
+    - [[flancian]] two possible approaches
+        - define a [[dsl]] for flattening/assembling (transclusion helps; pull, push in the Agora goes in this direction)
+        - train and use large language models with notes being part of prompts
+    - [[dimensionality problem]]
+        - [[planarity]] as first target when processing a high dimensional graph
+        - then [[linearity]] closer to text?
+    - [[Jerry Michalski]] the [[zoom problem]]: information does not make sense at all distances
+        - [[the brain]] always seems to work for [[jerry]] in this sense
+        - adding [[clusters]] to link existing nodes is critical for keeping it manageable
+        - [[yellow]] means cluster
+            - [[types]]
+        - [[purple]] means opinion
+            - [[enumerated wisdom]]
+            - [[cialdini's six principles]]
+
 ## 2022-07-14
 
 ### Attending: 
@@ -82,7 +172,7 @@ Jerry Michalski: our real chat is over here: [https://chat.collectivesensecommon
 
 11:13 Aram Zucker-Scharff: Here's the link to that - [W3C group on sustainability](https://www.w3.org/community/sustainability/)
 
-11:20 Jerry Michalski:[https://www.linkedin.com/in/ryankspangler/](https://www.linkedin.com/in/ryankspangler/) ?
+11:20 Jerry Michalski:[https://www.linkedin.com/in/ryankspangler/](https://www.linkedin.com/in/yankspangler/) ?
 
 
 ## 2021-07-07
