@@ -46,7 +46,10 @@
          - [[marc antoine parent]]
          - there was some disagreement in the mailing list and some members left (they were not left leaning, so distinct in that sense -- a missed opportunity)
          - [[flancian]] can I help in some way?
-             - [[bentley davis]] right now it's still in gestation phase, not one cle
+             - [[bentley davis]] right now it's still in gestation phase, not one clear vision yet
+             - [[jerry michalski]] there'll be another call to try to define this, probably after christmas
+                 - tried some organization, moving some of the meta to mattermost, but the [[idea loom]] app works on email only for now
+                 - more interested on the greenfield take of 'what would an ideal organization do about these matters'
  
 
 - #push [[fotl threads]]
