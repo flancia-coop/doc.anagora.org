@@ -58,6 +58,8 @@
              - #push [[All that we Share]] 
                 - https://www.youtube.com/watch?v=jD8tjhVO1Tc from Denmark 
                 - [[Smartocracy]]: Social Networks for Collective Decision Making (2007 pdf) 
+             - two agoras having a conversation
+             - idea: [[prompt engineering]] with [[chat gpt]] to interpret a well-known opponent (e.g. [[steve bannon]])
  
 
 - #push [[fotl threads]]
