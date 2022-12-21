@@ -44,7 +44,7 @@
          - https://fotl.agor.ai is down :(
      - [[sense doing]]
          - [[marc antoine parent]]
-         - 
+         - there was some disagreement in the mailing list and some members left (they were not left leaning, so distinct in that sense -- a missed opportunity)
  
 
 - #push [[fotl threads]]
