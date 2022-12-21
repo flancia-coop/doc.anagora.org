@@ -22,7 +22,12 @@
 - [[football]]
     - [[world cup]] final
     - violence, fifa, [[qatar]]
+        - hierarchies
     - but also a form of art?
+- [[commons]]
+    - are we irrationally hopeful?
+    - how do egalitarians and distributed communities defend themselves against hierarchies?
+        - [[paradox of otl]]
 - #push [[fotl threads]]
     - define:
         - [[wiki]] / root URL
