@@ -19,6 +19,10 @@
 
 - Attending: [[jerry michalski]], [[flancian]]
 - Start recording, we're currently using Jitsi and that works best with a [[Chromium]] based browser.
+- [[football]]
+    - [[world cup]] final
+    - violence, fifa, [[qatar]]
+    - but also a form of art?
 - #push [[fotl threads]]
     - define:
         - [[wiki]] / root URL
