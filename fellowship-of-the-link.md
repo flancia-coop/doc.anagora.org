@@ -60,6 +60,9 @@
                 - [[Smartocracy]]: Social Networks for Collective Decision Making (2007 pdf) 
              - two agoras having a conversation
              - idea: [[prompt engineering]] with [[chat gpt]] to interpret a well-known opponent (e.g. [[steve bannon]])
+        - #push [[t4t podcast]]
+            - [[jerry michalski]]
+            - https://wiki.rel8.dev/t4t_s01e03_-_space,_pixels_and_cognition_(yiliu_and_john)
  
 
 - #push [[fotl threads]]
