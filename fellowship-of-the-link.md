@@ -50,6 +50,8 @@
              - [[jerry michalski]] there'll be another call to try to define this, probably after christmas
                  - tried some organization, moving some of the meta to mattermost, but the [[idea loom]] app works on email only for now
                  - more interested on the greenfield take of 'what would an ideal organization do about these matters'
+             - [[flancian]] could we find a conservative counterpart to our group and engage on a group-to-group level?
+                 - [[bentley davis]] something like https://braverangels.org
  
 
 - #push [[fotl threads]]
