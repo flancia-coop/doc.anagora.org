@@ -52,6 +52,7 @@
                  - more interested on the greenfield take of 'what would an ideal organization do about these matters'
              - [[flancian]] could we find a conservative counterpart to our group and engage on a group-to-group level?
                  - [[bentley davis]] something like https://braverangels.org
+                 - https://docs.google.com/document/d/1z-SJXlX3BdI-92X19FQNPMkK65RpsPApyw9V6U7dthk/edit#heading=h.jw9qcfe7v9uj
  
 
 - #push [[fotl threads]]
