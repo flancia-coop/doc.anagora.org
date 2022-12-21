@@ -32,9 +32,14 @@
         - [[daryl davis]] ~ https://bra.in/6qZQZBand and his experiences with the [[ku klux klan]]
             - [[how can you hate me if you don't know me]] https://www.youtube.com/watch?v=Y4gly9n9RBo
         - [[bouncers and buddhas]] by [[reddy2go]]
-         - [[commons]] vs [[hierarchies]]
-         - [[autopoiesis]]
+        - [[commons]] vs [[hierarchies]]
+        - [[autopoiesis]]
      - [[jerry michalski]] [[nested containment]]
+     - [[bentley davis]]
+         - working on [[sense making]] and [[cat herding]] (actually human)
+         - you can have [[sense making]] without others, and that's 
+     - [[jerry michalski]]
+         - on the [[commons]]: [[protect]], [[defend]] and [[explore]]
  
 
 - #push [[fotl threads]]
