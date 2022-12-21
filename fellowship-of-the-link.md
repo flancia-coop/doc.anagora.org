@@ -32,7 +32,9 @@
         - [[daryl davis]] ~ https://bra.in/6qZQZBand and his experiences with the [[ku klux klan]]
             - [[how can you hate me if you don't know me]] https://www.youtube.com/watch?v=Y4gly9n9RBo
         - [[bouncers and buddhas]] by [[reddy2go]]
-     - [[nested containment]]
+         - [[commons]] vs [[hierarchies]]
+         - [[autopoiesis]]
+     - [[jerry michalski]] [[nested containment]]
  
 
 - #push [[fotl threads]]
