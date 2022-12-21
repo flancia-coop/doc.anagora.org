@@ -36,12 +36,15 @@
         - [[autopoiesis]]
      - [[jerry michalski]] [[nested containment]]
      - [[bentley davis]]
-         - working on [[sense making]] and [[cat herding]] (actually human)
-         - you can have [[sense making]] without others, and that's the default for many tools, but it's relatively.
+        - working on [[sense making]] and [[cat herding]] (actually human)
+        - you can have [[sense making]] without others, and that's the default for many tools, but it's relatively.
      - [[jerry michalski]]
          - on the [[commons]]: [[protect]], [[defend]] and [[explore]]
-- [[agora]]
-    - https://fotl.agor.ai is down :(
+     - [[agora]]
+         - https://fotl.agor.ai is down :(
+     - [[sense doing]]
+         - [[marc antoine parent]]
+         - 
  
 
 - #push [[fotl threads]]
