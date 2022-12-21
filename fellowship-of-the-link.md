@@ -55,9 +55,9 @@
                  - https://docs.google.com/document/d/1z-SJXlX3BdI-92X19FQNPMkK65RpsPApyw9V6U7dthk/edit#heading=h.jw9qcfe7v9uj
              - building a [[map]] together as a way to collaborate even as we disagree
                  - "tell me more about that"
-             - All that we Share: 
-https://www.youtube.com/watch?v=jD8tjhVO1Tc  Jerry Michalski says:from Denmark 
-Jerry Michalski says:Smartocracy: Social Networks for Collective Decision Making (2007 pdf) 
+             - #push [[All that we Share]] 
+                - https://www.youtube.com/watch?v=jD8tjhVO1Tc from Denmark 
+                - [[Smartocracy]]: Social Networks for Collective Decision Making (2007 pdf) 
  
 
 - #push [[fotl threads]]
