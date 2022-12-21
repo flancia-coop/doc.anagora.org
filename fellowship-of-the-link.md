@@ -45,6 +45,8 @@
      - [[sense doing]]
          - [[marc antoine parent]]
          - there was some disagreement in the mailing list and some members left (they were not left leaning, so distinct in that sense -- a missed opportunity)
+         - [[flancian]] can I help in some way?
+             - [[bentley davis]] right now it's still in gestation phase, not one cle
  
 
 - #push [[fotl threads]]
