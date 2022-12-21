@@ -27,7 +27,10 @@
 - [[commons]]
     - are we irrationally hopeful?
     - how do egalitarians and distributed communities defend themselves against hierarchies?
-        - [[paradox of otl]]
+        - [[paradox of tolerance]]
+        - how do you build trust?
+        - [[daryl davis]] ~ https://bra.in/6qZQZBand and his experiences with the [[ku klux klan]]
+            - [[how can you hate me if you don't know me]]
 - #push [[fotl threads]]
     - define:
         - [[wiki]] / root URL
