@@ -14,6 +14,17 @@
         - [[calendar]] URL
         - [[issue tracker]] / [[project tracker]] URL
             - [[github]] by default?
+            
+## 2022-12-21
+
+- Attending: [[x]]
+- Start recording, we're currently using Jitsi and that works best with a [[Chromium]] based browser.
+- #push [[fotl threads]]
+    - define:
+        - [[wiki]] / root URL
+        - [[calendar]] URL
+        - [[issue tracker]] / [[project tracker]] URL
+            - [[github]] by default?
 
 ## 2022-12-14
 
