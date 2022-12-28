@@ -1,6 +1,6 @@
 - #pull [[fellowship of the link]]
     - that has lots of actual notes for meetings, these are random chat logs and other items that we factored out for one reason or the other
-    - (Hedge.
+    - (HedgeDoc used to be hitting note size limits, but not anymore).
 - [[names]] for the project that has already started :)
     - [[flancian]] my proposal is, well, you know what I call it :)
         - would love to discuss [[agora protocol]] with you
