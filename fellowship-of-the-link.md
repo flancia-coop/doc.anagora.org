@@ -3,6 +3,7 @@
 - a [[meeting]].
     - #go https://meet.jit.si/fellowship-of-the-link
     - Wednesdays at [[6PM UTC]].
+- Notes are all in this stoa; older notes that were in [[fotl]] are also now here for convenience (they had only been moved out because of a length restriction in [[HedgeDoc]] I've since lifted.)
     
 ## Agenda
 
@@ -1476,9 +1477,6 @@ Jerry's brainf for this meeting: https://bra.in/7j3ewE
         - [ ] build a [[meta pattern language]]
 
 11:31 Aram Zucker-Scharff:[Trophy](https://rrchnm.org/portfolio-item/tropy/)
-
-## 2021-07-07
-- older notes in [[fotl]]
 
 ## 2022-07-21
 
