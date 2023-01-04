@@ -102,8 +102,10 @@ https://youtube.com/shorts/yT0r6D1h_iQ?feature=share
     - #flancian [[mental model translation]], translating from [[jerry's brain]] to [[boffosocko]] parlance
     - [[chris aldrich]] infinite canvas on html page, essentially a [[murder board]], 2d website
 - How do we *do* this?
+    - Let's all share yearly plans / 2y plans / 7y plans personally and then mind meld?
     - [[jerry michalski]] https://wiki.rel8.dev/bigger_goals
-    - [[flancian]] [[revolutionary goals]] [[agora plan]]
+    - [[flancian]] [[revolutionary calendar]] [[agora plan]]
+    - [[chris aldrich]] will work on this
 
  
 ## 2022-12-28
