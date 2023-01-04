@@ -75,8 +75,10 @@
        - [[chris aldrich]]
            - very nice work on the podcast wiki page
            - #push [[tools for thinking podcast]]
-               - https://wiki.rel8.dev/tools_for_thinking_podcast
+               - #go https://wiki.rel8.dev/tools_for_thinking_podcast
                - Would like to reskin to be more like [[Andy Matuschak]]'s garden.
+               - Riverside.fm doesn't have chat.
+               - Might go back to Zoom for that and other reasons.
  
 ## 2022-12-28
 
