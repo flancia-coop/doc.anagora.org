@@ -106,6 +106,7 @@ https://youtube.com/shorts/yT0r6D1h_iQ?feature=share
     - [[jerry michalski]] https://wiki.rel8.dev/bigger_goals
     - [[flancian]] [[revolutionary calendar]] [[agora plan]]
     - [[chris aldrich]] will work on this
+    - #ca [[Feynman]] had a list of [[12 problems to work on]]
 
  
 ## 2022-12-28
