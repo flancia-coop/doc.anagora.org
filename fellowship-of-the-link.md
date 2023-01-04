@@ -96,9 +96,9 @@
     - #jm [[My Brain Has Comfortable Local Structure]] ~ https://bra.in/5jXDEy
     - [[Chris Aldrich]] film history and the development of language
         - [[three camera explosion]]
-    - #jm Today’s Internet Is Stuck in Mainstream Media Metaphors 
+    - #jm [[Today’s Internet Is Stuck in Mainstream Media Metaphors]] 
 https://youtube.com/shorts/yT0r6D1h_iQ?feature=share
- 
+    - [[grammar]] and [[language]]
 
  
 ## 2022-12-28
