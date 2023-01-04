@@ -16,6 +16,12 @@
         - [[issue tracker]] / [[project tracker]] URL
             - [[github]] by default?
             
+## 2023-01-04
+
+## 2022-12-28
+
+- No attendance due to New Years :)
+
 ## 2022-12-21
 
 - Attending: [[jerry michalski]], [[flancian]]
