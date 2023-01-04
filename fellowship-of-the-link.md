@@ -88,6 +88,10 @@
     - @flancian@social.coop
     - @chrisaldrich@mastodon.social
     - @BentleyDavis@toolsforthought.rocks
+- [[jerry michalski]]
+    - [[neuroplasticity]] gap, as when computers first came into the workforce and touchtyping became a differentiator
+    - been thining about how to be a [[good cyborg]]
+    - [[chris aldrich]] when I browse your brain, I know how you structure information, and I use that. That grammar is now "built in". But when browsing other people's usage, that's not 
 
  
 ## 2022-12-28
