@@ -31,7 +31,8 @@
         - [[Rose Parade]]
     - Caught up with [[Jerry's podcast]]
         - [[Canvases]] and [[murder boards]]
-    - Chris got into this space since ~2018-ish, but started keeping websites 1992-93 (took a hiatus on 1998 or so, started tinkering again o) and blogging on ~2008
+    - Chris got into this space since ~2018-ish, but started keeping websites 1992-93 (took a hiatus on 1998 or so, started tinkering again on 2005) and blogging on ~2008
+    - Over 40000 posts (!)
 
 ## 2022-12-28
 
