@@ -44,7 +44,15 @@
 - [[Jerry Michalski]]
     - "I'm interested in everything dammit"
     - Spoke to a Hungarian connection (?)
-    - [[Paul Roney]] (sp?) from <>
+    - [[Paul Roney]] (sp?) from [[Kosmik]]? (?) is interested in the podcast
+        - Umbrella topics for the podcast
+            - People stepping in and presenting on threads, channel like or associated to channels in a community
+            - Would like to use [[tools for thinking]] in the podcast
+        - Paul's initial interest is mainly on the history of the field
+            - Licklater (sp?)
+            - Engelbart
+            - Bush
+            - ..
 
 ## 2022-12-28
 
