@@ -16,7 +16,14 @@
         - [[issue tracker]] / [[project tracker]] URL
             - [[github]] by default?
             
+## 2023-01-11
+
+- We're back! :)
+
 ## 2023-01-04
+
+- Attending: [[chris aldrich]] [[flancian]]
+- New and fresh, also cold and rainy :)
 
 ## 2022-12-28
 
