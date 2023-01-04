@@ -16,7 +16,7 @@
     - Ed: been kind of sick / with the flu. Otherwise going well and into vacation mode until EOY! Open to do coworking.
         - Nextcloud calendar for coworking?
     - LibreEquity: doing well, very interested in the Twitter -> Mastodon move. Read Nathan Schneider's book in 2014-2015, followed him back then and had this in the back of our mind.
-    - David: life is good, kids are healthy :) Getting warmer (in AUS). Diving into monitoring. Grafana, using docker, learnt a lot.
+    - David: life is good, kids are healthy :) Getting warmer (in US). Diving into monitoring. Grafana, using docker, learnt a lot.
     - Calix: doing alright :) Neat people starting at autonomic.
     - Eduardo: entering production freeze, feeling nice about it :) also re-re-finishing (THIS TIME FOR REAL (tm)) [[agora chapter]].
 - Location: https://meet.mayfirst.org/social-coop-tech
