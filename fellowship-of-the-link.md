@@ -37,6 +37,9 @@
     - [[Microformats]]
         - Wordpress -> social media is easier
         - Social media -> wordpress is more convoluted
+    - Social media search
+        - [[thread helper]] by [[xiq]] for [[twitter]]
+        - [[fedisearch]]?
 
 ## 2022-12-28
 
