@@ -99,6 +99,8 @@
     - #jm [[Today’s Internet Is Stuck in Mainstream Media Metaphors]] 
 https://youtube.com/shorts/yT0r6D1h_iQ?feature=share
     - [[grammar]] and [[language]]
+    - #flancian [[mental model translation]], translating from [[jerry's brain]] to [[boffosocko]] parlance
+    - [[chris aldrich]] infinite canvas on html page, essentially a [[murder board]], 
 
  
 ## 2022-12-28
