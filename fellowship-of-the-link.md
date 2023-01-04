@@ -57,9 +57,15 @@
             - Assessing earlier work on the basis on how it panned out, how it as influential
                 - E.g. the earlier Finder was more in line with such-and-such vision, then features were removed.
             - Jerry is interested in how these visions influenced our present and future, and how modern visions are doing the same. 
-        
-             
-
+       - [[Chris Aldrich]] conversations that were built out (related to Seismic? sp?) in a distributed way starting from websites
+           - Bookmarking service for audio.
+           - When you're in a page that has audio, you can clip and annotate.
+           - Could yield podcast 
+       - #jm https://wiki.rel8.dev/rethinking_the_tools_for_thinking_podcast
+       - [[flancian]]
+           - meta on podcast production starting from channels
+       
+ 
 ## 2022-12-28
 
 - No attendance due to New Years :)
