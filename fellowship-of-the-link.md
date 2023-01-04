@@ -83,6 +83,12 @@
                    - #jm yes
                    - [[Chris Aldrich]] themability would be nice as well :)
                - Remixing potential
+- [[fediverse]] presence
+    - @j3rry@toolsforthought.rocks 
+    - @flancian@social.coop
+    - @chrisaldrich@mastodon.social
+    - @BentleyDavis@toolsforthought.rocks
+
  
 ## 2022-12-28
 
