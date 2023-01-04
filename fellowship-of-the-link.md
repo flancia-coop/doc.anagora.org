@@ -107,6 +107,9 @@ https://youtube.com/shorts/yT0r6D1h_iQ?feature=share
     - [[flancian]] [[revolutionary calendar]] [[agora plan]]
     - [[chris aldrich]] will work on this
     - #ca [[Feynman]] had a list of [[12 problems to work on]]
+- On sharing notes
+    - [[markdown]] or [[atjson]]?
+    - unsure
 
  
 ## 2022-12-28
