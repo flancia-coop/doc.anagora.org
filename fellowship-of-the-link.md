@@ -112,6 +112,13 @@ https://youtube.com/shorts/yT0r6D1h_iQ?feature=share
         - [[flancian]] unsure but prefer the earlier due to readability and wide support
         - [[agora yaml]] somewhere in the repo to configure knowledge integration
         - `/.well-known/`
+    - #ca visual vs non visual thinking, and translation between the two
+        - #jm [[mindtime]] model
+            - historically oriented -> this has worked in the past
+            - future oriented -> this is what this will yield
+            
+        
+        
 
  
 ## 2022-12-28
