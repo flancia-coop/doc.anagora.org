@@ -109,7 +109,8 @@ https://youtube.com/shorts/yT0r6D1h_iQ?feature=share
     - #ca [[Feynman]] had a list of [[12 problems to work on]]
 - On sharing notes
     - [[markdown]] or [[atjson]]?
-    - unsure
+        - [[flancian]] unsure but prefer the earlier due to readability and wide support
+        - [[agora yaml]] /.well-known/ 
 
  
 ## 2022-12-28
