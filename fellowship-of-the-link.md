@@ -43,6 +43,8 @@
         - [[fedisearch]]?
 - [[Jerry Michalski]]
     - "I'm interested in everything dammit"
+    - Spoke to a Hungarian connection (?)
+    - [[Paul Roney]] (sp?) from <>
 
 ## 2022-12-28
 
