@@ -43,7 +43,7 @@
         - [[fedisearch]]?
 - [[Jerry Michalski]]
     - "I'm interested in everything dammit"
-    - Spoke to a Hungarian connection (?)
+    - Spoke to a Romanian connection (?)
     - [[Paul Rony]] from [[Kosmik]] is interested in the Tools for Thinking podcast
         - Umbrella topics for the podcast
             - People stepping in and presenting on threads, channel like or associated to channels in a community
@@ -101,6 +101,9 @@ https://youtube.com/shorts/yT0r6D1h_iQ?feature=share
     - [[grammar]] and [[language]]
     - #flancian [[mental model translation]], translating from [[jerry's brain]] to [[boffosocko]] parlance
     - [[chris aldrich]] infinite canvas on html page, essentially a [[murder board]], 2d website
+- How do we *do* this?
+    - [[jerry michalski]] https://wiki.rel8.dev/bigger_goals
+    - [[flancian]] [[revolutionary goals]] [[agora plan]]
 
  
 ## 2022-12-28
