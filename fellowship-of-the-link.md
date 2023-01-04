@@ -50,8 +50,8 @@
             - Would like to use [[tools for thinking]] in the podcast
         - Paul's initial interest is mainly on the history of the field
             - [[J. C. R. Licklider]]
-            - Engelbart
-            - Bush
+            - Douglas Engelbart
+            - Vannevar Bush
             - ..
             - How to increase literacy in the field
             - Assessing earlier work on the basis on how it panned out, how it as influential
