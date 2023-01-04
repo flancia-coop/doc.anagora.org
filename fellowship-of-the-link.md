@@ -22,7 +22,8 @@
 
 ## 2023-01-04
 
-- Attending: [[chris aldrich]] [[flancian]]
+- Attending: [[Chris Aldrich]] [[Flancian]] first
+    - Then [[Jerry Michalski]] and [[Bentley Davis]] joined!
 - New and fresh, also cold and rainy :)
 - Both playing catch up with the last few weeks of 2022!
 - [[Chris Aldrich]]
@@ -40,6 +41,8 @@
     - Social media search
         - [[thread helper]] by [[xiq]] for [[twitter]]
         - [[fedisearch]]?
+- [[Jerry Michalski]]
+    - "I'm interested in everything dammit"
 
 ## 2022-12-28
 
