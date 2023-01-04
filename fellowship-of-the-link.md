@@ -76,6 +76,7 @@
            - very nice work on the podcast wiki page
            - #push [[tools for thinking podcast]]
                - https://wiki.rel8.dev/tools_for_thinking_podcast
+               - Would like to reskin to be more like [[Andy Matuschak]]'s garden.
  
 ## 2022-12-28
 
