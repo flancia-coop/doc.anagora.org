@@ -119,7 +119,8 @@ https://youtube.com/shorts/yT0r6D1h_iQ?feature=share
         - [[sapir whorf hypothesis]]
         - Jerry Michalski "Those who cannot remember the past are condemned to repeat it" [[Santayana]]
         - [[learning styles]], [[neurodiversity]]
-            - #ca on people finding e.g. [[adhd]] or that they're in the spectrum in their 40s and 50s. 
+            - #ca on people finding e.g. they have [[adhd]] or that they're in the spectrum in their 40s and 50s. 
+            - #flancian motivating/elliciting discussions about communication styles might help people (individuals and groups) find out things about themselves, constructively
  
 ## 2022-12-28
 
