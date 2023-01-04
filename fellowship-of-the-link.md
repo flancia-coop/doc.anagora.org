@@ -79,6 +79,9 @@
                - Would like to reskin to be more like [[Andy Matuschak]]'s garden.
                - Riverside.fm doesn't have chat.
                - Might go back to Zoom for that and other reasons.
+               - [[flancian]] can I share this with Meet?
+                   - #jm yes
+                   - Chris Aldrich themability would be nice as well :)
  
 ## 2022-12-28
 
