@@ -58,9 +58,13 @@
                 - E.g. the earlier Finder was more in line with such-and-such vision, then features were removed.
             - Jerry is interested in how these visions influenced our present and future, and how modern visions are doing the same. 
        - [[Chris Aldrich]] conversations that were built out (related to Seismic? sp?) in a distributed way starting from websites
-           - Bookmarking service for audio.
+           - [[Bookmarking service for audio]].
+               - https://huffduffer.com
+                   -> [[high frequency direction finding]] https://en.wikipedia.org/wiki/High-frequency_direction_finding
            - When you're in a page that has audio, you can clip and annotate.
-           - Could yield podcast 
+           - Could yield podcast annotation (and also improve production)
+       - #jm [[docdrop]]
+           - #jm [[peter kaminski]] is interested in tools that take a raw youtube video and enhance them
        - #jm https://wiki.rel8.dev/rethinking_the_tools_for_thinking_podcast
        - [[flancian]]
            - meta on podcast production starting from channels
