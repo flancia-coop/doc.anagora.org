@@ -110,7 +110,8 @@ https://youtube.com/shorts/yT0r6D1h_iQ?feature=share
 - On sharing notes
     - [[markdown]] or [[atjson]]?
         - [[flancian]] unsure but prefer the earlier due to readability and wide support
-        - [[agora yaml]] /.well-known/ 
+        - [[agora yaml]] somewhere in the repo to configure knowledge integration
+        - `/.well-known/`
 
  
 ## 2022-12-28
