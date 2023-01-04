@@ -120,7 +120,6 @@ https://youtube.com/shorts/yT0r6D1h_iQ?feature=share
         - Jerry Michalski "Those who cannot remember the past are condemned to repeat it" [[Santayana]]
         - [[learning styles]], [[neurodiversity]]
             - #ca on people finding e.g. [[adhd]] or that they're in the spectrum in their 40s and 50s. 
-
  
 ## 2022-12-28
 
