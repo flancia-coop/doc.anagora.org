@@ -81,7 +81,8 @@
                - Might go back to Zoom for that and other reasons.
                - [[flancian]] can I share this with Meet?
                    - #jm yes
-                   - Chris Aldrich themability would be nice as well :)
+                   - [[Chris Aldrich]] themability would be nice as well :)
+               - Remixing potential
  
 ## 2022-12-28
 
