@@ -116,8 +116,8 @@ https://youtube.com/shorts/yT0r6D1h_iQ?feature=share
         - #jm [[mindtime]] model
             - historically oriented -> this has worked in the past
             - future oriented -> this is what this will yield
-            
-        
+        - Jerry Michalski "Those who cannot remember the past are condemned to repeat it" [[Santayana]]
+        - [[learning styles]], [[neur]]
         
 
  
