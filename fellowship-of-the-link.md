@@ -63,6 +63,7 @@
                    -> [[high frequency direction finding]] https://en.wikipedia.org/wiki/High-frequency_direction_finding
            - When you're in a page that has audio, you can clip and annotate.
            - Could yield podcast annotation (and also improve production)
+           - Example: https://huffduffer.com/search?q=tools+for+thought
        - #jm [[docdrop]]
            - #jm [[peter kaminski]] is interested in tools that take a raw youtube video and enhance them
        - #jm https://wiki.rel8.dev/rethinking_the_tools_for_thinking_podcast
