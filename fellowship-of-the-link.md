@@ -57,7 +57,7 @@
             - Assessing earlier work on the basis on how it panned out, how it as influential
                 - E.g. the earlier Finder was more in line with such-and-such vision, then features were removed.
             - Jerry is interested in how these visions influenced our present and future, and how modern visions are doing the same. 
-       - [[Chris Aldrich]] conversations that were built out (related to [[Seesmic? sp?) in a distributed way starting from websites
+       - [[Chris Aldrich]] conversations that were built out (related to [[Seesmic]] in a distributed way starting from websites
            - [[Bookmarking service for audio]].
                - https://huffduffer.com
                    -> [[high frequency direction finding]] https://en.wikipedia.org/wiki/High-frequency_direction_finding
