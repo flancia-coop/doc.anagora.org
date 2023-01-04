@@ -44,12 +44,12 @@
 - [[Jerry Michalski]]
     - "I'm interested in everything dammit"
     - Spoke to a Hungarian connection (?)
-    - [[Paul Roney]] (sp?) from [[Kosmik]]? (?) is interested in the podcast
+    - [[Paul Rony]] from [[Kosmik]] is interested in the Tools for Thinking podcast
         - Umbrella topics for the podcast
             - People stepping in and presenting on threads, channel like or associated to channels in a community
             - Would like to use [[tools for thinking]] in the podcast
         - Paul's initial interest is mainly on the history of the field
-            - Licklater (sp?)
+            - [[J. C. R. Licklider]]
             - Engelbart
             - Bush
             - ..
@@ -57,7 +57,7 @@
             - Assessing earlier work on the basis on how it panned out, how it as influential
                 - E.g. the earlier Finder was more in line with such-and-such vision, then features were removed.
             - Jerry is interested in how these visions influenced our present and future, and how modern visions are doing the same. 
-       - [[Chris Aldrich]] conversations that were built out (related to Seismic? sp?) in a distributed way starting from websites
+       - [[Chris Aldrich]] conversations that were built out (related to [[Seesmic? sp?) in a distributed way starting from websites
            - [[Bookmarking service for audio]].
                - https://huffduffer.com
                    -> [[high frequency direction finding]] https://en.wikipedia.org/wiki/High-frequency_direction_finding
@@ -68,8 +68,9 @@
            - #jm [[peter kaminski]] is interested in tools that take a raw youtube video and enhance them
        - #jm https://wiki.rel8.dev/rethinking_the_tools_for_thinking_podcast
        - [[flancian]]
+           - [[fedisearch]]
+           - [[promnesia]]
            - meta on podcast production starting from channels
-       
  
 ## 2022-12-28
 
