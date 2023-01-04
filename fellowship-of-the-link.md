@@ -24,6 +24,11 @@
 
 - Attending: [[chris aldrich]] [[flancian]]
 - New and fresh, also cold and rainy :)
+- Both playing catch up with the last few weeks of 2022!
+- [[chris aldrich]]
+    - Took a few days off with family
+    - Rose Bowl happening soon, city disrupted :)
+        - [[Rose Parade]]
 
 ## 2022-12-28
 
