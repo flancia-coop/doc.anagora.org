@@ -53,6 +53,12 @@
             - Engelbart
             - Bush
             - ..
+            - How to increase literacy in the field
+            - Assessing earlier work on the basis on how it panned out, how it as influential
+                - E.g. the earlier Finder was more in line with such-and-such vision, then features were removed.
+            - Jerry is interested in how these visions influenced our present and future, and how modern visions are doing the same. 
+        
+             
 
 ## 2022-12-28
 
