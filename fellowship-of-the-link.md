@@ -91,7 +91,14 @@
 - [[jerry michalski]]
     - [[neuroplasticity]] gap, as when computers first came into the workforce and touchtyping became a differentiator
     - been thining about how to be a [[good cyborg]]
-    - [[chris aldrich]] when I browse your brain, I know how you structure information, and I use that. That grammar is now "built in". But when browsing other people's usage, that's not 
+    - [[chris aldrich]] when I browse your brain, I know how you structure information, and I use that. That grammar is now "built in". But when browsing other people's usage, there's more friction.
+    - In a social media centric world, maybe you put information in X but then later you search it in Y.
+    - #jm [[My Brain Has Comfortable Local Structure]] ~ https://bra.in/5jXDEy
+    - [[Chris Aldrich]] film history and the development of language
+        - [[three camera explosion]]
+    - #jm Today’s Internet Is Stuck in Mainstream Media Metaphors 
+https://youtube.com/shorts/yT0r6D1h_iQ?feature=share
+ 
 
  
 ## 2022-12-28
