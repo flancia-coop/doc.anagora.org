@@ -71,6 +71,11 @@
            - [[fedisearch]]
            - [[promnesia]]
            - meta on podcast production starting from channels
+           - https://anagora.org/go/agora-chapter intro could work as an outline of a podcast intro :)
+       - [[chris aldrich]]
+           - very nice work on the podcast wiki page
+           - #push [[tools for thinking podcast]]
+               - https://wiki.rel8.dev/tools_for_thinking_podcast
  
 ## 2022-12-28
 
