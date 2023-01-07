@@ -2,6 +2,11 @@
 - We meet best-effort every Saturday. UTC?
 - This is where we have community maintained notes :)
 
+# [[flancia meet 2023-01-07]]
+- Attending: [[bouncepaw]] [[flancian]]
+- USB Type-C compabitibility
+    - The computer in the charger negotiates with your device
+
 # #push [[flancia meet 2022-10-29]]
 - Attending: [[bouncepaw]] [[handlerug]] [[flancian]]
 - [[bouncepaw]] Crazy week, lots of social activity, but nice
