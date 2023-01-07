@@ -31,6 +31,11 @@
 - Discussing [[Agora Federation]]
     - [[allowlist]] vs [[blocklist]]
     - hybrid with [[webmentions]]
+- [[Betula]]
+    - Demo
+    - Will get federation
+    - Then [[mycorrhiza]] will get it
+    - Which will lead to [[mycoverse]] :)
 
 # #push [[flancia meet 2022-10-29]]
 - Attending: [[bouncepaw]] [[handlerug]] [[flancian]]
