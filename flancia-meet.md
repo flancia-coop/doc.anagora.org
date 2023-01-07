@@ -22,6 +22,9 @@
             - [[Homo Deus]] -> [[Things to do after Agora Chapter]] (that's tomorrow)
         - [[Computer Science]], the same topic as Bachelor
 - Best [[Marvel]] characters: [[Iron Man]] and [[Spider Man]]
+- Games
+    - [[Return to Monkey Island]]
+    - [[Celeste]]
 
 # #push [[flancia meet 2022-10-29]]
 - Attending: [[bouncepaw]] [[handlerug]] [[flancian]]
