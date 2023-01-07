@@ -12,6 +12,7 @@
         - From September to December there is a 'semester' with pseudo-exams.
         - Then a break to prepare for the real exam, next exam in three days (!).
         - [[Calculus]], [[Probability Theory]], [[Mathematical Logic]], [[OOP]].
+    - In [[Ufa]] for the New Year break
 
 # #push [[flancia meet 2022-10-29]]
 - Attending: [[bouncepaw]] [[handlerug]] [[flancian]]
