@@ -12,14 +12,15 @@
         - From September to December there is a 'semester' with pseudo-exams.
         - Then a break to prepare for the real exam, next exam in three days (!).
         - [[Calculus]], [[Probability Theory]], [[Mathematical Logic]], [[OOP]].
-    - In [[Ufa]] for the New Year break
-        - -25 right now but it feels like -30 (!)
+    - Staying in [[Ufa]] for the New Year break, leaving in 2 days
+        - -25ºC right now but it feels like -30ºC (!)
     - Studying in [[Kazan]], Masters degree probably elsewhere?
     - Possible Masters:
         - [[Economics]]
             - Money as a tool.
             - [[Sapiens]].
-            - [[[[Things to do after Agora Chapter]]
+            - [[Homo Deus]] -> [[Things to do after Agora Chapter]] (that's tomorrow)
+        - [[Computer Science]], the same topic as Bachelor
 - Best [[Marvel]] characters: [[Iron Man]] and [[Spider Man]]
 
 # #push [[flancia meet 2022-10-29]]
