@@ -3,7 +3,7 @@
 - This is where we have community maintained notes :)
 
 # [[flancia meet 2023-01-07]]
-- Attending: [[bouncepaw]] [[flancian]]
+- Attending: [[bouncepaw]] [[flancian]] [[j0lms]]
 - USB Type-C compabitibility
     - The computer in the charger negotiates with your device.
 - [[Vernor Vinge]] story about many levels of virtual machines in the far future, backwards compatibility.
@@ -28,6 +28,9 @@
 - On [[leadership]]
     - Correlations
 - [[Flancia Chronicles]] as a [[Prophecy]]
+- Discussing [[Agora Federation]]
+    - [[allowlist]] vs [[blocklist]]
+    - hybrid with [[webmentions]]
 
 # #push [[flancia meet 2022-10-29]]
 - Attending: [[bouncepaw]] [[handlerug]] [[flancian]]
