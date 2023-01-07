@@ -1,10 +1,10 @@
-## [[2022-01-02]]
+## [[2022-01-09]]
 - Location: https://meet.mayfirst.org/social-coop-tech
 - Attending:
 - ...agenda items here...
 - Nextcloud access for other [[working groups]] (flancian)
   - Possible default policy: we batch create accounts for all WG members proactively and DM them their passwords? ideally over Matrix
-- Experiments with coopcloud.tech (protean)
+- Experiments with coopcloud.tech (davidvasandani and/or protean)
 
 ## [[2022-12-19]]
 - Attending: Dan, David Vasandani, Akshay, Eduardo (flancian), Ed (edsu), LibreEquity, Calix (3wordchant)
