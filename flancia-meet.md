@@ -5,7 +5,12 @@
 # [[flancia meet 2023-01-07]]
 - Attending: [[bouncepaw]] [[flancian]]
 - USB Type-C compabitibility
-    - The computer in the charger negotiates with your device
+    - The computer in the charger negotiates with your device.
+- [[Vernor Vinge]] story about many levels of virtual machines in the far future, backwards compatibility.
+- [[University]]
+    - Timur: two types of exams in Russia. Call them exams and pseudo-exams.
+        - From September to December there is a 'semester' with pseudo-exams.
+        - Then a break to prepare for the real exam, next exam
 
 # #push [[flancia meet 2022-10-29]]
 - Attending: [[bouncepaw]] [[handlerug]] [[flancian]]
