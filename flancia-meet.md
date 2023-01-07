@@ -15,6 +15,8 @@
     - In [[Ufa]] for the New Year break
         - -25 right now but it feels like -30 (!)
     - Studying in [[Kazan]], Masters degree probably elsewhere?
+    - Possible Masters:
+        - [[Economics]]
 - Best [[Marvel]] characters: [[Iron Man]] and [[Spider Man]]
 
 # #push [[flancia meet 2022-10-29]]
