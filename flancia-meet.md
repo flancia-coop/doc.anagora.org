@@ -17,6 +17,9 @@
     - Studying in [[Kazan]], Masters degree probably elsewhere?
     - Possible Masters:
         - [[Economics]]
+            - Money as a tool.
+            - [[Sapiens]].
+            - [[[[Things to do after Agora Chapter]]
 - Best [[Marvel]] characters: [[Iron Man]] and [[Spider Man]]
 
 # #push [[flancia meet 2022-10-29]]
