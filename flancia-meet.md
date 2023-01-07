@@ -27,7 +27,7 @@
     - [[Celeste]]
 - On [[leadership]]
     - Correlations
-- [[]]
+- [[Flancia Chronicles]] as a [[Prophecy]]
 
 # #push [[flancia meet 2022-10-29]]
 - Attending: [[bouncepaw]] [[handlerug]] [[flancian]]
