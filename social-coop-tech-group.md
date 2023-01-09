@@ -67,9 +67,11 @@
     - David: yes & no; abra has a provisioning step.
         - it uses [[cloud-init]] -> https://cloudinit.readthedocs.io/en/latest/.
         - we could still use ansible though -- and ansible is very good at e.g. user management
+    - maybe we could run this in [[hypha]]?
+        - David: would highly recommend we do this
+        - We wouldn't be 'locked in' based on the recipes -- and the recipes are high quality and we could contribute back!
 - Mediawiki experiments (edsu)
   - Maybe use coopcloud? https://git.coopcloud.tech/coop-cloud/mediawiki/
-  - maybe we could run this in [[hypha]]?
   - Identity management with keycloak?
 - moa.party early-stage proposal (flancian)
 - Nextcloud access for other [[working groups]] (flancian)
