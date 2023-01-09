@@ -42,7 +42,7 @@
             - created an env file for postgres (to pass the password)
             - a certificate is generated first, that is needed so nginx can start; this runs once as it's set up to check for existence of a file
             - also added wiki.social.coop configuration.
-            - nginx is a *module* -- actually a git submodule which is in roles-external (need to adjust your git clone)
+            - nginx is a *module* -- actually a git submodule which is in roles-external (need to `git clone --recurse-submodules`)
             - rhizome.playbook.yml exists
         - [[open questions]]
             - whether to use secrets the way the wiki has them in the rhizome playbook, or the other way (which risks people using prod secrets in their test environments)
@@ -51,6 +51,9 @@
         - [[calix]] would any of these changes affect the mastodon upgrade process?
             - [[akshay]] we'd need to automate some of the migration steps; currently docker compose config doesn't include this.
             - when we restart mastodon, we restart everything -- including elastic search, postgres. we need a more granular way to restart things.
+        - [[next steps]]
+            - set up alpha.social.coop in rhizome using this?
+            - it would use a distinct s3 bucket, Akshay 
 - Experiments with coopcloud.tech (davidvasandani, 3wc, protean)
     - abra is the coopcloud cli
 - Mediawiki experiments (edsu)
