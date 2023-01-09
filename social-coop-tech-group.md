@@ -86,7 +86,7 @@
       - -> [[hypha]]
 - On the complexity of running databases in containers (Akshay)
     - David: agree but the tradeoff (flexibility) might be worth it
-    - We might also just want to special case data
+    - We might also just want to special case database even if we go with [[abra]]
 - For next time:
     - Identity management with keycloak?
     - moa.party early-stage proposal (flancian)
