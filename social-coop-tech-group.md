@@ -39,7 +39,8 @@
             - social.coop/defaults/main.yml is where a lot of the parameters for our configuration now are, including everything mastodon (database, s3 buckets, etc.)
             - replaced 'docker-compose' with 'docker compose' invocations, as the earlier is deprecated/removed in new versions.
             - added datadog logs parameters to docker-compose, but they aren't used by default (require further configuration)
-            - created an env file for postgres
+            - created an env file for postgres (to pass the password)
+            - get 
 - Experiments with coopcloud.tech (davidvasandani, 3wc, protean)
     - abra is the coopcloud cli
 - Mediawiki experiments (edsu)
