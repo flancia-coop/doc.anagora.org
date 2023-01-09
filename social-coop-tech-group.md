@@ -17,7 +17,9 @@
             - https://coopcloud.tech/blog/new-year-status-update/
             - https://coopcloud.tech/blog/federation-proposal/
     - Flancian:  
-        - 
+        - Nice NYE social event after many years not feeling like that. Refreshing!
+        - Big milestone in getting Agora chapter finished https://anagora.org/go/agora+chapter
+        - 6am page today but at least interesting. Early night tonight!
 - Aside: quality issues with meet.mayfirst.org
     - Pixellation, disabled feeds 
 - Akshay's work on Ansible for rhizome: https://git.coop/social.coop/tech/ansible/-/merge_requests/21
