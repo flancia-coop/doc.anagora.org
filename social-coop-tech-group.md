@@ -1,16 +1,20 @@
 ## [[2022-01-09]]
 - Location: https://meet.mayfirst.org/social-coop-tech
-- Attending: Akshay, edsu, David Vasandani, 
+- Attending: Akshay, edsu, David Vasandani, Calix, Flancian
 - ...agenda items here...
-- Nextcloud access for other [[working groups]] (flancian)
-  - Possible default policy: we batch create accounts for all WG members proactively and DM them their passwords? ideally over Matrix
+- Check-ins
+    - Happy New Year! 🎆
+    - 
 - Akshay's work on Ansible for rhizome: https://git.coop/social.coop/tech/ansible/-/merge_requests/21
 - Experiments with coopcloud.tech (davidvasandani, 3wc, protean)
     - abra is the coopcloud cli
-    - 
 - Mediawiki experiments (edsu)
-  - Maybe use coopcloud? 
+  - Maybe use coopcloud? https://git.coopcloud.tech/coop-cloud/mediawiki/
   - Identity management with keycloak?
+- moa.party early-stage proposal (flancian)
+- Nextcloud access for other [[working groups]] (flancian)
+  - This is old, maybe not needed anymore? As the current way of creating accounts seems to be working.
+  - Possible alternative policy: we batch create accounts for all WG members proactively and DM them their passwords? ideally over Matrix
 
 ## [[2022-12-19]]
 - Attending: Dan, David Vasandani, Akshay, Eduardo (flancian), Ed (edsu), LibreEquity, Calix (3wordchant)
