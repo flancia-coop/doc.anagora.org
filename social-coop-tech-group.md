@@ -54,6 +54,7 @@
         - [[next steps]]
             - set up alpha.social.coop in rhizome using this?
             - it would use a distinct s3 bucket, Akshay 
+            - write a shell script or 'manual playbook' of the ansible commands we'd run
 - Experiments with coopcloud.tech (davidvasandani, 3wc, protean)
     - abra is the coopcloud cli
 - Mediawiki experiments (edsu)
