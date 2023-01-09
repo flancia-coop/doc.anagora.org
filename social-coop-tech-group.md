@@ -1,6 +1,6 @@
 ## [[2022-01-09]]
 - Location: https://meet.mayfirst.org/social-coop-tech
-- Attending:
+- Attending: Akshay, edsu, David Vasandani, 
 - ...agenda items here...
 - Nextcloud access for other [[working groups]] (flancian)
   - Possible default policy: we batch create accounts for all WG members proactively and DM them their passwords? ideally over Matrix
