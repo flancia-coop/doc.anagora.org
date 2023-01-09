@@ -85,10 +85,12 @@
       - running [[semantic media wiki]]
       - -> [[hypha]]
   - Identity management with keycloak?
-- moa.party early-stage proposal (flancian)
-- Nextcloud access for other [[working groups]] (flancian)
-  - This is old, maybe not needed anymore? As the current way of creating accounts seems to be working.
-  - Possible alternative policy: we batch create accounts for all WG members proactively and DM them their passwords? ideally over Matrix
+- For next time:
+    - Identity management with keycloak?
+    - moa.party early-stage proposal (flancian)
+    - Nextcloud access for other [[working groups]] (flancian)
+      - Possible alternative policy: we batch create accounts for all WG members proactively and DM them their passwords? ideally over Matrix
+      - This is old, maybe not needed anymore? As the current way of creating accounts seems to be working.
 
 ## [[2022-12-19]]
 - Attending: Dan, David Vasandani, Akshay, Eduardo (flancian), Ed (edsu), LibreEquity, Calix (3wordchant)
