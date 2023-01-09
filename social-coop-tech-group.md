@@ -75,9 +75,12 @@
         - David: running an experiment with the abra CLI should be straightforward; biggest issue was how abra installs everything in a single machine.
         - We could work with a 'share development' setup.
         - Calix: https://docs.coopcloud.tech/operators/handbook/#sharing-abra
-        - Calix: the other alternative is to have abra installed in the server.
+        - Calix: the other alternative is to have abra installed in the server, but there's a footgun: people might forget to commit to git more easily.
 - Mediawiki experiments (edsu)
   - Maybe use coopcloud? https://git.coopcloud.tech/coop-cloud/mediawiki/
+      - Definitely :)
+  - social.coop wiki builders
+      - [[nathan]] and [[sneakers-the-rat]] 
   - Identity management with keycloak?
 - moa.party early-stage proposal (flancian)
 - Nextcloud access for other [[working groups]] (flancian)
