@@ -4,7 +4,13 @@
 - ...agenda items here...
 - Check-ins
     - Happy New Year! 🎆
-    - 
+    - Akshay: doing well, worked today. Had call with friends, cooked, busy day :)
+    - edsu:
+    - David:
+    - Calix:
+    - Flancian: 
+- Aside: quality issues with meet.mayfirst.org
+    - Pixellation
 - Akshay's work on Ansible for rhizome: https://git.coop/social.coop/tech/ansible/-/merge_requests/21
 - Experiments with coopcloud.tech (davidvasandani, 3wc, protean)
     - abra is the coopcloud cli
