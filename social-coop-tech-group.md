@@ -22,7 +22,9 @@
         - 6am page today but at least interesting. Early night tonight!
 - Aside: quality issues with meet.mayfirst.org
     - Pixellation, disabled feeds 
-- Akshay's work on Ansible for rhizome: https://git.coop/social.coop/tech/ansible/-/merge_requests/21
+- [[Akshay]]'s work on [[Ansible]] for rhizome: https://git.coop/social.coop/tech/ansible/-/merge_requests/21
+    - can @3wordchant be added to the repo please 🙏
+    - +1 from davidvasandani
 - Experiments with coopcloud.tech (davidvasandani, 3wc, protean)
     - abra is the coopcloud cli
 - Mediawiki experiments (edsu)
