@@ -11,7 +11,13 @@
         - David: can recommend [[Knives Out]].
     - Calix: doing OK, quiet New Years. Half Marathon on New Years even, then pushed it a bit far and got injured :(
         - Just got another round of funding for [[coop cloud]]. A benefactor has funded fixing usability issues and the federation component.
-    - Flancian: 
+        - Moving to a more participatory decision making process with other parties.
+        - Started with [[autonomic]], but there are several other groups collaborating.
+        - #push [[coop cloud]]
+            - https://coopcloud.tech/blog/new-year-status-update/
+            - https://coopcloud.tech/blog/federation-proposal/
+    - Flancian:  
+        - 
 - Aside: quality issues with meet.mayfirst.org
     - Pixellation, disabled feeds 
 - Akshay's work on Ansible for rhizome: https://git.coop/social.coop/tech/ansible/-/merge_requests/21
