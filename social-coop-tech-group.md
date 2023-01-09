@@ -62,6 +62,9 @@
         - then through the CLI you add [recipes](https://recipes.coopcloud.tech/) -- you can get these from a page. docker-compose files but set up for docker swarm.
         - these commands are all run locally. it's an ansible-like model; we could probably migrate away from ansible.
         - David would like to point a config to a server and have it be end-to-end setup.
+    - Flancian: so abra could replace our use of ansible?
+    - Akshay: we would still need to install docker-swarm?
+    - David: yes & no; abra has a provisioning step
 - Mediawiki experiments (edsu)
   - Maybe use coopcloud? https://git.coopcloud.tech/coop-cloud/mediawiki/
   - maybe we could run this in [[hypha]]?
