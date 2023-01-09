@@ -27,14 +27,16 @@
         - (edsu added them 🎉)
     - +1 from davidvasandani
     - [[akshay]] 
-        - on the [[sauce]] repository
+        - on the [[sauce]] repository:
             - meant originally for things that were to be copied to runko, e.g. systemd services.
             - focusing on applying the right components to bring up mastodon and postgres.
             - while doing this realized that sauce was *not* up to date, so did a sync.
-        - on [[ansible]]
+        - on [[ansible]]:
             - automated deployment of sauce!
             - PR above does that.
-            - cer
+            - includes certbot and certbox specific nginx config.
+            - moved datadog password from ansible vault to pass store, `lookup('passwordstore'`
+            
 - Experiments with coopcloud.tech (davidvasandani, 3wc, protean)
     - abra is the coopcloud cli
 - Mediawiki experiments (edsu)
