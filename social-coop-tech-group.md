@@ -64,7 +64,9 @@
         - David would like to point a config to a server and have it be end-to-end setup.
     - Flancian: so abra could replace our use of ansible?
     - Akshay: we would still need to install docker-swarm?
-    - David: yes & no; abra has a provisioning step
+    - David: yes & no; abra has a provisioning step.
+        - it uses [[cloud-init]] -> https://cloudinit.readthedocs.io/en/latest/.
+        - we could still use ansible though -- and ansible is very good at e.g. user management
 - Mediawiki experiments (edsu)
   - Maybe use coopcloud? https://git.coopcloud.tech/coop-cloud/mediawiki/
   - maybe we could run this in [[hypha]]?
