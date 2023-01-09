@@ -43,7 +43,10 @@
             - a certificate is generated first, that is needed so nginx can start; this runs once as it's set up to check for existence of a file
             - also added wiki.social.coop configuration.
             - nginx is a *module* -- actually a git submodule which is in roles-external.
-            - rhizome.playbook.yml 
+            - rhizome.playbook.yml exists
+        - open questions
+            - whether to use secrets the way the wiki has them in the rhizome playbook, or the other way (which risks people using prod secrets in their test environments)
+            - whether to use PASSWORD_STORE
 - Experiments with coopcloud.tech (davidvasandani, 3wc, protean)
     - abra is the coopcloud cli
 - Mediawiki experiments (edsu)
