@@ -71,7 +71,11 @@
         - David: would highly recommend we do this
         - We wouldn't be 'locked in' based on the recipes -- and the recipes are high quality and we could contribute back!
         - [[calix]] in autonomic we were using ansible for provisioning services and users and using coop cloud for app deployment and maintenance, but there is a project to move away from the abra cli even: [[wiki cafe]] ~ https://wiki.cafe
-        - [[calix]] how much do we need to consider the "beach factor" when thining about the approach. there's been some turn over in TWG people 
+        - [[calix]] how much do we need to consider the "beach factor" (how many people does it take to go to the beach before you forget how to do things) when thinking about the approach. there's been some turn over in TWG people, and knowledge transfer has proven difficult. 
+        - David: running an experiment with the abra CLI should be straightforward; biggest issue was how abra installs everything in a single machine.
+        - We could work with a 'share development' setup.
+        - Calix: https://docs.coopcloud.tech/operators/handbook/#sharing-abra
+        - Calix: the other alternative is to have abra installed in the server.
 - Mediawiki experiments (edsu)
   - Maybe use coopcloud? https://git.coopcloud.tech/coop-cloud/mediawiki/
   - Identity management with keycloak?
