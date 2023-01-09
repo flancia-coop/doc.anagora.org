@@ -7,7 +7,10 @@
     - Akshay: doing well, worked today. Had call with friends, cooked, busy day :)
     - edsu: doing well, had a few weeks off which was really nice. Happy to see progress! Went to the dentist today.
     - David: California is experiencing very crazy weather. It's getting pretty bad (power cuts, 90% under flood). Focusing on family time and movies.
-    - Calix:
+        - Akshay: can recommend [[Glass Onion]].
+        - David: can recommend [[Knives Out]].
+    - Calix: doing OK, quiet New Years. Half Marathon on New Years even, then pushed it a bit far and got injured :(
+        - Just got another round of funding for [[coop cloud]]. A benefactor has funded fixing usability issues and the federation component.
     - Flancian: 
 - Aside: quality issues with meet.mayfirst.org
     - Pixellation, disabled feeds 
