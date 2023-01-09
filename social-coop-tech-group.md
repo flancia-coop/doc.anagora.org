@@ -67,9 +67,11 @@
     - David: yes & no; abra has a provisioning step.
         - it uses [[cloud-init]] -> https://cloudinit.readthedocs.io/en/latest/.
         - we could still use ansible though -- and ansible is very good at e.g. user management
-    - maybe we could run this in [[hypha]]?
+    - Flancian: maybe we could run this in [[hypha]]?
         - David: would highly recommend we do this
         - We wouldn't be 'locked in' based on the recipes -- and the recipes are high quality and we could contribute back!
+        - [[calix]] in autonomic we were using ansible for provisioning services and users and using coop cloud for app deployment and maintenance, but there is a project to move away from the abra cli even: [[wiki cafe]] ~ https://wiki.cafe
+        - [[calix]] how much do we need to consider the "beach factor" when thining about the approach. there's been some turn over in TWG people 
 - Mediawiki experiments (edsu)
   - Maybe use coopcloud? https://git.coopcloud.tech/coop-cloud/mediawiki/
   - Identity management with keycloak?
