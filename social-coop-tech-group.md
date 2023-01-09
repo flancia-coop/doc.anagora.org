@@ -84,7 +84,8 @@
       - it's running on a server somewhere: wiki-dev.social.coop
       - running [[semantic media wiki]]
       - -> [[hypha]]
-  - Identity management with keycloak?
+- On the complexity of running databases in containers (Akshay)
+    - David: agree but the tradeoff (flexibility) might be worth it
 - For next time:
     - Identity management with keycloak?
     - moa.party early-stage proposal (flancian)
