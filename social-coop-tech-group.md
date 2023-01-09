@@ -24,7 +24,12 @@
     - Pixellation, disabled feeds 
 - [[Akshay]]'s work on [[Ansible]] for rhizome: https://git.coop/social.coop/tech/ansible/-/merge_requests/21
     - can @3wordchant be added to the repo please 🙏
+        - (edsu added them 🎉)
     - +1 from davidvasandani
+    - [[akshay]] 
+        - on the [[sauce]] repository
+            - meant originally for things that were to be copied to runko, e.g. systemd services.
+            - focusing on applying the right components to bring up mastodon 
 - Experiments with coopcloud.tech (davidvasandani, 3wc, protean)
     - abra is the coopcloud cli
 - Mediawiki experiments (edsu)
