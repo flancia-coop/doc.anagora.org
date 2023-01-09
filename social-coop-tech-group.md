@@ -79,8 +79,10 @@
 - Mediawiki experiments (edsu)
   - Maybe use coopcloud? https://git.coopcloud.tech/coop-cloud/mediawiki/
       - Definitely :)
-  - social.coop wiki builders
-      - [[nathan]] and [[sneakers-the-rat]] 
+  - [[social.coop wiki builders]]
+      - [[nathan]] and [[sneakers-the-rat]] started experimenting with mediawiki.
+      - it's running on a server somewhere: wiki-dev.social.coop
+      - running [[semantic media wiki]]
   - Identity management with keycloak?
 - moa.party early-stage proposal (flancian)
 - Nextcloud access for other [[working groups]] (flancian)
