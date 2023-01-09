@@ -56,10 +56,12 @@
             - it would use a distinct s3 bucket, Akshay 
             - write a shell script or 'manual playbook' of the ansible commands we'd run
 - Experiments with coopcloud.tech (davidvasandani, 3wc, protean)
-    - abra is the coopcloud cli
-    - after you have a server set up, you add it to the abra inventory
-    - then through the CLI you add [recipes](https://recipes.coopcloud.tech/) -- you can get these from a page. docker-compose files but set up for docker swarm.
-    - but these commands are all run locally
+    - David:
+        - abra is the coopcloud cli
+        - after you have a server set up, you add it to the abra inventory
+        - then through the CLI you add [recipes](https://recipes.coopcloud.tech/) -- you can get these from a page. docker-compose files but set up for docker swarm.
+        - these commands are all run locally. it's an ansible-like model; we could probably migrate away from ansible.
+        - David would like to point a config to a server and have it be end-to-end setup.
 - Mediawiki experiments (edsu)
   - Maybe use coopcloud? https://git.coopcloud.tech/coop-cloud/mediawiki/
   - maybe we could run this in [[hypha]]?
