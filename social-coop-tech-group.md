@@ -40,7 +40,10 @@
             - replaced 'docker-compose' with 'docker compose' invocations, as the earlier is deprecated/removed in new versions.
             - added datadog logs parameters to docker-compose, but they aren't used by default (require further configuration)
             - created an env file for postgres (to pass the password)
-            - get 
+            - a certificate is generated first, that is needed so nginx can start; this runs once as it's set up to check for existence of a file
+            - also added wiki.social.coop configuration.
+            - nginx is a *module* -- actually a git submodule which is in roles-external.
+            - rhizome.playbook.yml 
 - Experiments with coopcloud.tech (davidvasandani, 3wc, protean)
     - abra is the coopcloud cli
 - Mediawiki experiments (edsu)
