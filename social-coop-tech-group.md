@@ -83,6 +83,7 @@
       - [[nathan]] and [[sneakers-the-rat]] started experimenting with mediawiki.
       - it's running on a server somewhere: wiki-dev.social.coop
       - running [[semantic media wiki]]
+      - -> [[hypha]]
   - Identity management with keycloak?
 - moa.party early-stage proposal (flancian)
 - Nextcloud access for other [[working groups]] (flancian)
