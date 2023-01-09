@@ -4,7 +4,7 @@
 - ...agenda items here...
 - Nextcloud access for other [[working groups]] (flancian)
   - Possible default policy: we batch create accounts for all WG members proactively and DM them their passwords? ideally over Matrix
-- Akshay's work on Ansible for rhizome
+- Akshay's work on Ansible for rhizome: https://git.coop/social.coop/tech/ansible/-/merge_requests/21
 - Experiments with coopcloud.tech (davidvasandani, 3wc, protean)
     - abra is the coopcloud cli
     - 
