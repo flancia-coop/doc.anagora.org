@@ -29,7 +29,12 @@
     - [[akshay]] 
         - on the [[sauce]] repository
             - meant originally for things that were to be copied to runko, e.g. systemd services.
-            - focusing on applying the right components to bring up mastodon 
+            - focusing on applying the right components to bring up mastodon and postgres.
+            - while doing this realized that sauce was *not* up to date, so did a sync.
+        - on [[ansible]]
+            - automated deployment of sauce!
+            - PR above does that.
+            - cer
 - Experiments with coopcloud.tech (davidvasandani, 3wc, protean)
     - abra is the coopcloud cli
 - Mediawiki experiments (edsu)
