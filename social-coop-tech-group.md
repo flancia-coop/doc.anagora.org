@@ -5,12 +5,12 @@
 - Check-ins
     - Happy New Year! 🎆
     - Akshay: doing well, worked today. Had call with friends, cooked, busy day :)
-    - edsu:
-    - David:
+    - edsu: doing well, had a few weeks off which was really nice. Happy to see progress! Went to the dentist today.
+    - David: California is experiencing very crazy weather. It's getting pretty bad (power cuts, 90% under flood). Focusing on family time and movies.
     - Calix:
     - Flancian: 
 - Aside: quality issues with meet.mayfirst.org
-    - Pixellation
+    - Pixellation, disabled feeds 
 - Akshay's work on Ansible for rhizome: https://git.coop/social.coop/tech/ansible/-/merge_requests/21
 - Experiments with coopcloud.tech (davidvasandani, 3wc, protean)
     - abra is the coopcloud cli
