@@ -129,8 +129,9 @@
                 - [[Jerry Michalski]] on [[Catalonia]] to [[Langue d'Oc]], etc.
                     - Interesting cultures that were stamped out by greater hierarchical entities (e.g. Catholic Church)
            - [[Jerry Michalski]] paying attention to demonization
-           - [[Anarchy]]
-               - 
+           - [[Anarchism]]
+               - [[types of anarchism]] https://app.thebrain.com/brains/3d80058c-14d8-5361-0b61-a061f89baf87/thoughts/d12b175b-7139-40f7-a80a-d196390cfe67/
+               - are [[anarcho capitalists]] (see: [Anarcho-capitalism](https://en.wikipedia.org/wiki/Anarcho-capitalism)) anarchists?
 
            
         
