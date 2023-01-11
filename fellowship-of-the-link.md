@@ -151,9 +151,8 @@
            - [[corporate]] social media, etc as cuckoos for the commons.
            - [[chris aldrich]] on the meme of the [[tragedy of the commons]] as an example of the same.
                - [The miracle of the commons](https://aeon.co/essays/the-tragedy-of-the-commons-is-a-false-and-dangerous-myth)
-
-           
-        
+           - #ca on the issue of flyover states vs urban population centres
+           - [[Jerry Michalski]] Handy mnemonic for farming in the US: during the civil war 80% of the population were farmers. By WWI it was 20%. now it's 1.5% (!).
 
 ## 2023-01-04
 
