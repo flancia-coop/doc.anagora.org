@@ -144,6 +144,9 @@
                    - [The Real Death Toll of Capitalism](https://www.youtube.com/watch?v=6HjTfm_D3sE)
                - [[Peter Kaminski]] "capitalism is the most efficient system by the rules of capitalism"
                    - an [[Ontoshift]] might be needed :)
+           - Problem of changing the future for climate change 
+               - Good book on this - [How to Blow Up a Pipeline](https://www.goodreads.com/book/show/51686708-how-to-blow-up-a-pipeline)
+           - 
 
            
         
