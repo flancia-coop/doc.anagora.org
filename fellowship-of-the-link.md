@@ -73,7 +73,15 @@
             - Most of the times there was so much contention on the election occurred before the Civil War; and then again during the rise of "White Power" movement in the 1920s
                 - What a worrying pattern.
                 - #jm minority eating the party, a snake eating a pig
-                - [Transitioning of Far Right House Members into perceived moderates]()
+                - [Transitioning of Far Right House Members into perceived moderates](https://www.salon.com/2023/01/10/marjorie-taylor-greene-wants-to-be-a-mainstream-now-sadly-the-media-will-let-it-happen/)
+                - moving the [[Overton Window]]
+                - control of the media
+            - [[chris aldrich]] that compounded with [[social media]] dynamics
+                - https://www.politico.com/news/2023/01/03/twitter-political-advertisements-announcement-00076234
+                - https://www.washingtonpost.com/technology/2021/08/24/vaccine-ad-targeting-covid/
+                - https://themarkup.org/citizen-browser/2021/04/13/how-facebooks-ad-system-lets-companies-talk-out-of-both-sides-of-their-mouths
+        - [[Jerry Michalski]] could we build tools for the better coordination of sanctions?
+            - What if a [[press corps]] had a shared memory they could agree on
            
         
 
