@@ -80,8 +80,13 @@
                 - https://www.politico.com/news/2023/01/03/twitter-political-advertisements-announcement-00076234
                 - https://www.washingtonpost.com/technology/2021/08/24/vaccine-ad-targeting-covid/
                 - https://themarkup.org/citizen-browser/2021/04/13/how-facebooks-ad-system-lets-companies-talk-out-of-both-sides-of-their-mouths
+                - https://www.washingtonpost.com/opinions/2019/11/01/dont-abolish-political-ads-social-media-stop-microtargeting/
+                - Thread: "The thing that most people don't seem to understand is that surveillance capitalism means that the systems of ad tech can be very good at tracking you individually, great for use by cops, pretty nifty for propoganda, and still terrible for satisfying standard marketing outcomes."
         - [[Jerry Michalski]] could we build tools for the better coordination of sanctions?
             - What if a [[press corps]] had a shared memory they could agree on
+            - [[Flancian]] Coordination overhead brought down by coordination points
+        - [[Chris Aldrich]] an academic who studied media in the middle 1920s, focusing on [[newspaper coverage]] of the [[KKK]]
+            - Nowadays extreme views draw attention online.
            
         
 
