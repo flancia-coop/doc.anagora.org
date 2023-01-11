@@ -112,7 +112,9 @@
                     - [[Story of the Chinese Farmer]] :)
             - [[Jerry Michalski]] related and cool: Albion's Seed: Four British Folkways in America (1989) https://bra.in/9pxJYK
                 - Different groups with different cultures emigrating from Britain into the US
- 
+                - [[Chris Aldrich]] Woodard, Colin. American Nations: A History of the Eleven Rival Regional Cultures of North America. 1st edition. Viking, 2011. https://www.amazon.com/American-Nations-History-Regional-Cultures/dp/0670022969. Woodard quotes Albion's Seed as a precursor to his thesis.
+                - [[Chris Aldrich]] on https://en.wikipedia.org/wiki/Great_chain_of_being as built into culture, not being questioned often enough.
+                - [[Jerry Michalski]] This is the job of religions. 
            
         
 
