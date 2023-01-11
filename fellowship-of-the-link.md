@@ -24,7 +24,17 @@
         - [[Argentina 1985]]
         - Jerry left [[Argentina 1972]].
             - Traumatic family experiences.
-            - Wounds of traumatic experiences, political reality.
+            - Then [[Guerra sucia]].
+        - Wounds of traumatic experiences, political reality.
+        - On [[Grant]] at the end of the Civil War.
+            - Did the South lose the war but win history?
+        - [[Amateur historian]] hypothesis:
+            - The US is paying for how the Civil War was concluded poorly.
+            - Guillotining is not good :)
+            - But we didn't do a good enough job.
+        - What's happening now in Peru, in Germany.
+           
+        
 
 ## 2023-01-04
 
