@@ -135,6 +135,10 @@
            - People understand something is broken but have been convinced into fraudulent explanations
                - [The Futuristic Empire That Never Existed | Mia Mulder](https://www.youtube.com/watch?v=dtU_M0Sjd9Y)
                - [Flat Earth: A Measured Response](https://www.youtube.com/watch?v=2gFsOoKAHZg)
+               - [Line Goes Up – The Problem With NFTs](https://youtu.be/YQ_xWvX1n9g)
+                   - Some people want to be the boot
+               - [Misinformation studies](https://context.center/topics/misinformation/)
+               - [Capitalist Realism](https://en.wikipedia.org/wiki/Capitalist_Realism)
 
            
         
