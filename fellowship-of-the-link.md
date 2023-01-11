@@ -39,20 +39,23 @@
             - [[Spanish Civil War]] -- lots of people don't know about it enough (or at all).
             - [Pacto del olvido - Wikipedia, la enciclopedia libre](https://es.wikipedia.org/wiki/Pacto_del_olvido) / [Pact of Forgetting - Wikipedia](https://en.wikipedia.org/wiki/Pact_of_Forgetting)
         - [[Flancian]] on family/political history.
+            - [[Paradox of Tolerance]].
         - [[Holocaust memory]]
             - https://www.npr.org/2022/11/15/1136738601/clint-smith-atlantic-germany-holocaust-us-slavery-memorials
             - https://en.wikipedia.org/wiki/IBM_and_the_Holocaust
-            - https://www.youtube.com/watch?v=GzxxYUgiUNM
+            - [Holocaust Cinema: The Best & Worst (According to an Expert)](https://www.youtube.com/watch?v=GzxxYUgiUNM)
             - https://blogs.timesofisrael.com/my-trip-to-poland/
             - https://www.jta.org/2021/10/01/culture/this-professor-has-seen-almost-every-holocaust-movie-ever-made-totaling-over-400-heres-what-he-learned
         - [[Chris Aldrich]]: [[Restorative Justice]]
 - [[How to end conflicts well]]? 
     - Interesting focus of research.
-    - [[Flancian]] interested in 
+    - [[Flancian]] interested in reading about history of revolutions this year, to learn about how societies healed after them. [[Murray Bookchin]].
     - [[Peter Kaminski]] very difficult to do this.
         - Interesting conversation recently on how the military manipulated common people; this is part of the narrative in Germany.
         - [[Aram Zucker-Scharff]]
             - Othering. In Japan, "the emperor did X".
+            - Experience of a (journalist?) in Poland. Poland has a really large problem right now with fascism. Part of it has to do with how they have pushed all responsibility about WWII to Germany.
+        - [[Jerry Michalski]] Regarding forgetting: finding mass graves in Spain during early 2010s.
            
         
 
