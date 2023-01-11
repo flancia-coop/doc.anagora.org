@@ -114,7 +114,8 @@
                 - Different groups with different cultures emigrating from Britain into the US
                 - [[Chris Aldrich]] Woodard, Colin. American Nations: A History of the Eleven Rival Regional Cultures of North America. 1st edition. Viking, 2011. https://www.amazon.com/American-Nations-History-Regional-Cultures/dp/0670022969. Woodard quotes Albion's Seed as a precursor to his thesis.
                 - [[Chris Aldrich]] on https://en.wikipedia.org/wiki/Great_chain_of_being as built into culture, not being questioned often enough.
-                - [[Jerry Michalski]] This is the job of religions. 
+                - [[Jerry Michalski]] This is the job of religions. Forcing [[leaps of faith]] (which also selects for people willing/able to do this).
+                - [[Chris Aldrich]] up to the 5th century Christianity was a story of internal fights.
            
         
 
