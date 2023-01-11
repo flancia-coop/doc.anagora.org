@@ -102,8 +102,10 @@
                 - If you start a corporation, you usually get lots of support.
                 - If you start a cooperative, you get crickets by default.
                 - [Exit to Community](https://www.colorado.edu/lab/medlab/2020/08/31/exit-community-community-primer)
+                - https://www.councilofnonprofits.org/tools-resources-categories/boards-and-governance 
             - Legal and Finance need to know how to cooperate.
                 - Interdisciplinarity.
+            - [[Chris Aldrich]] levels of trust as correlating inversely with barriers to cooperation.
            
         
 
