@@ -153,7 +153,7 @@
                - [The miracle of the commons](https://aeon.co/essays/the-tragedy-of-the-commons-is-a-false-and-dangerous-myth)
            - #ca on the issue of flyover states vs urban population centres
            - [[Jerry Michalski]] Handy mnemonic for farming in the US: during the civil war 80% of the population were farmers. By WWI it was 20%. now it's 1.5% (!).
-           - [[bolo bolo]] tries to systematize collaboration of urban and rural communities in a federated way
+           - [[Flancian]]: [[bolo bolo]] tries to systematize collaboration of urban and rural communities in a federated way
            - [Plans for the new year](https://anagora.org/2023)  
 - [[jitsi chat]]
     - me says:
