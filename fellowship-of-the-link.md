@@ -30,6 +30,7 @@
             - Did the South lose the war but win history?
         - [[Amateur historian]] hypothesis:
             - The US is paying for how the Civil War was concluded poorly.
+                - [The Case for Reparations by Ta\-Nehisi Coates - The Atlantic](https://www.theatlantic.com/magazine/archive/2014/06/the-case-for-reparations/361631/)
             - Guillotining is not good :)
             - But we didn't do a good enough job.
         - What's happening now in Peru, in Germany/Europe with the rise of the right.
@@ -38,6 +39,7 @@
         - [[Aram Zucker-Scharff]] Spain and laws of forgetting.
             - [[Spanish Civil War]] -- lots of people don't know about it enough (or at all).
             - [Pacto del olvido - Wikipedia, la enciclopedia libre](https://es.wikipedia.org/wiki/Pacto_del_olvido) / [Pact of Forgetting - Wikipedia](https://en.wikipedia.org/wiki/Pact_of_Forgetting)
+            - https://english.elpais.com/elpais/2017/09/08/inenglish/1504869185_873265.html 
         - [[Flancian]] on family/political history.
             - [[Paradox of Tolerance]].
         - [[Holocaust memory]]
@@ -54,10 +56,15 @@
         - Interesting conversation recently on how the military manipulated common people; this is part of the narrative in Germany.
         - [[Aram Zucker-Scharff]]
             - Othering. In Japan, "the emperor did X".
-            - Experience of a (academic, see [link above) in Poland. Poland has a really large problem right now with fascism. Part of it has to do with how they have pushed all responsibility about WWII to Germany.
+            - Experience of a (academic, see [link](https://blogs.timesofisrael.com/my-trip-to-poland/)) in Poland. Poland has a really large problem right now with fascism. Part of it has to do with how they have pushed all responsibility about WWII to Germany.
         - [[Jerry Michalski]] Regarding forgetting: finding mass graves in Spain during early 2010s.
             - [[Pact of Forgetting]] maybe backfiring.
             - Had a conversation with someone from [[South Africa]] about how [[Apartheid]] is still alive and well.
+    - [[F]] Obediencia Debida / [[Punto Final]] in [[Argentina]]
+    - [[Chris Aldrich]] [[Thomas Picketty]] (sp?)
+        - [A Brief History of Equality — Thomas Piketty \| Harvard University Press](https://www.hup.harvard.edu/catalog.php?isbn=9780674273559)
+        - Book on ends of slavery in different nations.
+        - U
            
         
 
