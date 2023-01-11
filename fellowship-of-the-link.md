@@ -139,7 +139,11 @@
                    - Some people want to be the boot
                - [Misinformation studies](https://context.center/topics/misinformation/)
                - #az [Capitalist Realism](https://en.wikipedia.org/wiki/Capitalist_Realism)
+                   - [The Black Book of Communism - Wikipedia](https://en.wikipedia.org/wiki/The_Black_Book_of_Communism) 
+                   - [The Real Death Toll of Communism](https://www.youtube.com/watch?v=wflMmNTXqKk)
+                   - [The Real Death Toll of Capitalism](https://www.youtube.com/watch?v=6HjTfm_D3sE)
                - [[Peter Kaminski]] "capitalism is the most efficient system by the rules of capitalism"
+                   - an [[Ontoshift]] might be needed :)
 
            
         
