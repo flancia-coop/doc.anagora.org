@@ -138,7 +138,8 @@
                - [Line Goes Up – The Problem With NFTs](https://youtu.be/YQ_xWvX1n9g)
                    - Some people want to be the boot
                - [Misinformation studies](https://context.center/topics/misinformation/)
-               - [Capitalist Realism](https://en.wikipedia.org/wiki/Capitalist_Realism)
+               - #az [Capitalist Realism](https://en.wikipedia.org/wiki/Capitalist_Realism)
+               - [[Peter Kaminski]] "capitalism is the most efficient system by the rules of capitalism"
 
            
         
