@@ -105,7 +105,10 @@
                 - https://www.councilofnonprofits.org/tools-resources-categories/boards-and-governance 
             - Legal and Finance need to know how to cooperate.
                 - Interdisciplinarity.
+                    - [[Flancian]] this reminds me of the pattern [[golden age]] and the role of interdisciplinarity in ideal cooperative environments. 
             - [[Chris Aldrich]] levels of trust as correlating inversely with barriers to cooperation.
+                - How does a culture become resilient even in the face of loss.
+                - Hard to tell of the nth order impact.
            
         
 
