@@ -61,10 +61,16 @@
             - [[Pact of Forgetting]] maybe backfiring.
             - Had a conversation with someone from [[South Africa]] about how [[Apartheid]] is still alive and well.
     - [[F]] Obediencia Debida / [[Punto Final]] in [[Argentina]]
-    - [[Chris Aldrich]] [[Thomas Picketty]] (sp?)
+    - [[Chris Aldrich]] [[Thomas Piketty]] :)
         - [A Brief History of Equality — Thomas Piketty \| Harvard University Press](https://www.hup.harvard.edu/catalog.php?isbn=9780674273559)
         - Book on ends of slavery in different nations.
-        - U
+        - United States: reversed gears at some point, taking more of the ideology of the South
+            - #jm on [[buyouts for slaveholders]]
+            - [The American Slave Coast: A History of the Slave-Breeding Industry, by Ned Sublette](https://app.thebrain.com/brains/3d80058c-14d8-5361-0b61-a061f89baf87/thoughts/5c177a97-77af-490b-a00b-094bec116e54/attachments/58f6b025-b2e9-434c-8f6e-99b122964047)
+        - Thinking of the election of the speaker of the house
+            - Most of the times there was so much contention on the election occurred before the Civil War; and then again during the rise of "White Power" movement in the 1920s
+                - What a worrying pattern.
+                - #jm minority eating the party
            
         
 
