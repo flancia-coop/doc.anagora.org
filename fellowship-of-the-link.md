@@ -54,8 +54,10 @@
         - Interesting conversation recently on how the military manipulated common people; this is part of the narrative in Germany.
         - [[Aram Zucker-Scharff]]
             - Othering. In Japan, "the emperor did X".
-            - Experience of a (journalist?) in Poland. Poland has a really large problem right now with fascism. Part of it has to do with how they have pushed all responsibility about WWII to Germany.
+            - Experience of a (academic, see [link above) in Poland. Poland has a really large problem right now with fascism. Part of it has to do with how they have pushed all responsibility about WWII to Germany.
         - [[Jerry Michalski]] Regarding forgetting: finding mass graves in Spain during early 2010s.
+            - [[Pact of Forgetting]] maybe backfiring.
+            - Had a conversation with someone from [[South Africa]] about how [[Apartheid]] is still alive and well.
            
         
 
