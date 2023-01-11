@@ -153,6 +153,275 @@
                - [The miracle of the commons](https://aeon.co/essays/the-tragedy-of-the-commons-is-a-false-and-dangerous-myth)
            - #ca on the issue of flyover states vs urban population centres
            - [[Jerry Michalski]] Handy mnemonic for farming in the US: during the civil war 80% of the population were farmers. By WWI it was 20%. now it's 1.5% (!).
+           - [[bolo bolo]] tries to systematize collaboration of urban and rural communities in a federated way
+           - [Plans for the new year](https://anagora.org/2023)  
+- [[jitsi chat]]
+    - me says:
+https://doc.anagora.org/fellowship-of-the-link?edit
+ 
+20:05
+Jerry Michalski
+Jerry Michalski says:The South Lost the War but Won the Battle over Its History  
+https://bra.in/5pdxzV
+ 
+Jerry Michalski says:Ghosts of Spain: Travels Through Spain and Its Silent Past 
+Jerry Michalski says:but... 
+20:08
+Chris Aldrich
+Chris Aldrich says:Some have said that the holocaust was easier to memorialize in post-war Germany because there were so few Jews left as fellow citizens after-the-fact. 
+https://www.npr.org/2022/11/15/1136738601/clint-smith-atlantic-germany-holocaust-us-slavery-memorials
+ 
+20:09
+Jerry Michalski
+Jerry Michalski says:easier? wouldn't that have made it easier to ignore? 
+Jerry Michalski says:reason for this topic: last night I finished watching Argentina, 1985, which is very good 
+Jerry Michalski says:
+https://en.wikipedia.org/wiki/Argentina,_1985
+ 
+20:10
+Chris Aldrich
+Chris Aldrich says:Easier in comparison to the white South dealing with African-Americans after the Civil War.... 
+20:10
+Jerry Michalski
+Jerry Michalski says:mmmm 
+20:10
+Chris Aldrich
+Chris Aldrich says:Clint Smith's recent Atlantic article is possibly interesting here. 
+https://www.theatlantic.com/magazine/archive/2022/12/holocaust-remembrance-lessons-america/671893/
+ 
+20:11
+Jerry Michalski
+Jerry Michalski says:
+https://en.wikipedia.org/wiki/Paradox_of_tolerance
+ 
+Jerry Michalski says:You Can't Tolerate the Intolerant 
+20:11
+Chris Aldrich
+Chris Aldrich says:I've heard 4 references to Popper the last few days.... 
+20:11
+Jerry Michalski
+Jerry Michalski says:his PR must be working overtime... 
+20:11
+me says:[[murray bookchin]] 
+20:13
+Chris Aldrich
+Chris Aldrich says:Restorative Justice has a lot of research over the past decade+ which can speak to this topic as well. 
+20:13
+Jerry Michalski
+Jerry Michalski says:+1 
+Jerry Michalski says:which book of Bookchin's? 
+20:13
+me says:it's a process of Othering, right? 
+me says:Jerry: 
+https://theanarchistlibrary.org/library/murray-bookchin-ursula-k-le-guin-the-next-revolution
+ for the next revolution, foreword by Ursula Le Guin 😃 
+me says:and then... 
+me says:
+https://www.amazon.com/Third-Revolution-Popular-Movements-Revolutionary/dp/0304335940
+ [[the third revolution]] 
+me says:and other volumes 
+20:16
+Jerry Michalski
+Jerry Michalski says:thanks! 
+20:17
+me says:I am reminded of Maus 
+20:17
+Aram Zucker-Scharff
+Aram Zucker-Scharff says:
+https://en.wikipedia.org/wiki/Pact_of_Forgetting
+ from the notes 
+20:18
+me says:in Argentina there were also laws of 'forgiveness' 
+me says:called 'obediencia debida' and 'punto final' 
+20:18
+Chris Aldrich
+Chris Aldrich says:The final handful of lectures in 
+https://www.thegreatcourses.com/courses/understanding-japan-a-cultural-history
+ provide an interesting perspective on Japan's relationship with WWII. 
+20:19
+Aram Zucker-Scharff
+Aram Zucker-Scharff says:It has backfired quite spectacularly. The last time I was in Spain there was anti-immigration graffiti and swastika stickers everywhere. 
+20:19
+Jerry Michalski
+Jerry Michalski says:Café Para Todos 
+Jerry Michalski says:The American Slave Coast: A History of the Slave-Breeding Industry  
+https://bra.in/2jbXbk
+ 
+Jerry Michalski says:minority eating the party 
+20:23
+Chris Aldrich
+Chris Aldrich says:Piketty, Thomas. A Brief History of Equality. Translated by Steven Rendall. Harvard University Press, 2022. 
+https://www.hup.harvard.edu/catalog.php?isbn=9780674273559
+. 
+20:25
+Aram Zucker-Scharff
+Aram Zucker-Scharff says:
+https://www.salon.com/2023/01/10/marjorie-taylor-greene-wants-to-be-a-mainstream-now-sadly-the-media-will-let-it-happen/
+ 
+20:25
+me says:the overton window! 
+20:26
+Jerry Michalski
+Jerry Michalski says:poor overton 😃 
+Jerry Michalski says:he must be cold 
+Jerry Michalski says:the Dean Scream. wow 
+Jerry Michalski says:The Second Coming of the KKK: The Ku Klux Klan of the 1920s and the American Political Tradition (2017) ? 
+Jerry Michalski says:put this in my Brain in Dec. 2021: Imagine the White House Press Corps During Trumps Reign... 
+https://bra.in/2jgDYr
+ 
+Jerry Michalski says:a Massive Flungus? 
+20:32
+me says:
+https://doc.anagora.org/fellowship-of-the-link?edit
+ 
+20:33
+Chris Aldrich
+Chris Aldrich says:The fire in my brain always seems directly related to the velocity of tabs opening in my browser... 
+20:33
+Jerry Michalski
+Jerry Michalski says:
+http://en.wikipedia.org/wiki/Frederick_Terman
+ 
+Jerry Michalski says:
+https://www.netvalley.com/silicon_valley/Fred_Terman_Father_of_Silicon_Valley.html
+ 
+Jerry Michalski says:maybe there should be a public tab-meter? 
+Jerry Michalski says:silicon valley became a superconductor for startups 
+20:35
+me says:he works with "exit to community" 
+20:39
+Aram Zucker-Scharff
+Aram Zucker-Scharff says:coop coalition, does that still exist? 
+20:39
+me says:interdisciplinarity 
+20:40
+Jerry Michalski
+Jerry Michalski says:Design *from* Trust 
+https://www.youtube.com/watch?v=nVgqsElvISM
+ 
+Jerry Michalski says:Avram, 
+https://platform.coop/
+ 
+Jerry Michalski says:American Nations: A History of the Eleven Rival Regional Cultures of North America 
+Jerry Michalski says:related and cool: Albion's Seed: Four British Folkways in America (1989)  
+https://bra.in/9pxJYK
+ 
+20:44
+Chris Aldrich
+Chris Aldrich says:Woodard, Colin. American Nations: A History of the Eleven Rival Regional Cultures of North America. 1st edition. Viking, 2011. 
+https://www.amazon.com/American-Nations-History-Regional-Cultures/dp/0670022969
+. 
+Chris Aldrich says:Woodard quotes Albion's Seed as a precursor to his  thesis. 
+20:46
+Jerry Michalski
+Jerry Michalski says:oh cool! 
+Jerry Michalski says:
+http://en.wikipedia.org/wiki/Great_chain_of_being
+ 
+20:47
+me says:an ontology? 
+me says:makes me think of [[ontoshift]] 
+20:47
+Chris Aldrich
+Chris Aldrich says:push to orthodoxy ("right" thinking) 
+20:49
+Jerry Michalski
+Jerry Michalski says:
+http://en.wikipedia.org/wiki/Sola_fide
+ 
+Jerry Michalski says:nobody expects the Spanish Inquisition! 
+Jerry Michalski says:Scott Reframes Barbarians as What the “Civilizers” Called the Outsiders (who were freer and healthier) 
+Jerry Michalski says:in Against the Grain: A Deep History of the Earliest States (2017) 
+20:52
+Aram Zucker-Scharff
+Aram Zucker-Scharff says:
+https://en.wikipedia.org/wiki/Korean_shamanism#Mudang
+ 
+20:54
+Chris Aldrich
+Chris Aldrich says:To the ancient Greeks "barbarian" essentially meant one who doesn't speak Greek. 
+20:54
+me says:I'd like to read a history of the world as hierarchy vs federalism 
+me says:maybe Graeber wrote it in some way? 
+20:58
+Aram Zucker-Scharff
+Aram Zucker-Scharff says:I mean there have to be a number of philosophic anarchists who have written good stuff on this 
+20:59
+me says:[[better history books]] 
+me says:Aram: yes, and I hope to meet them all 😃 or 80% of them 
+20:59
+Jerry Michalski
+Jerry Michalski says:My History Canon  
+https://bra.in/7pK4Bq
+ 
+Jerry Michalski says:Anarchism is that 
+Jerry Michalski says:pay attention to demonization 
+21:00
+Chris Aldrich
+Chris Aldrich says:the Barbara Streisand effect on these groups? 
+21:01
+me says:I can really recommended [[the next revolution]] 
+21:01
+Jerry Michalski
+Jerry Michalski says:pay attention to demonization 
+Jerry Michalski says:Types of Anarchism 
+https://bra.in/4q5zKj
+ 
+Jerry Michalski says:
+http://en.wikipedia.org/wiki/Anarcho-capitalism
+ 
+Jerry Michalski says:sorry! I accidentally started playing our recording, which stopped 
+21:03
+me says:harari turned me around a bit on money as an efficient/general coordination device 
+21:04
+Jerry Michalski
+Jerry Michalski says:this explains Q-Anon somewhat, too 
+21:05
+Aram Zucker-Scharff
+Aram Zucker-Scharff says:
+https://www.youtube.com/watch?v=dtU_M0Sjd9Y
+ 
+21:06
+me says:they have traits of religions 
+me says:and big corporations do as well 
+21:07
+Peter Kaminski
+Peter Kaminski says:[Capitalist Realism \- Wikipedia](
+https://en.wikipedia.org/wiki/Capitalist_Realism
+) 
+Peter Kaminski says:[The Black Book of Communism \- Wikipedia](
+https://en.wikipedia.org/wiki/The_Black_Book_of_Communism
+) 
+21:11
+Chris Aldrich
+Chris Aldrich says:Maybe we should use the Hoffer playbook? Hoffer, Eric. The True Believer: Thoughts on the Nature of Mass Movements. Perennial Classics, 2002. 
+21:13
+Jerry Michalski
+Jerry Michalski says:capitalism is a cuckoo 
+21:16
+Peter Kaminski
+Peter Kaminski says:from Flancian: social media is a cuckoo (looks like a commons, but pushes out real commons) 
+21:18
+Aram Zucker-Scharff
+Aram Zucker-Scharff says:the ole extend, embrace extinguish bit. 
+Aram Zucker-Scharff says:
+https://aeon.co/essays/the-tragedy-of-the-commons-is-a-false-and-dangerous-myth
+ 
+21:18
+Jerry Michalski
+Jerry Michalski says:capitalism moves quicker than most other systems... I think 
+Jerry Michalski says:farming trends in the US 
+21:19
+Peter Kaminski
+Peter Kaminski says:capitalism _accelerates_ well, to use Chris's word 
+21:19
+me says:[[bolo bolo]] tries to systematize collaboration of urban and rural communities in a federated way 
+21:19
+Jerry Michalski
+Jerry Michalski says:I'd completely forgotten about bolo bolo. thank you! 
+21:21
+me says:
+https://anagora.org/2023
 
 ## 2023-01-04
 
