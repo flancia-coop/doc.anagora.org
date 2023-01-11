@@ -132,7 +132,9 @@
            - [[Anarchism]]
                - [[types of anarchism]] https://app.thebrain.com/brains/3d80058c-14d8-5361-0b61-a061f89baf87/thoughts/d12b175b-7139-40f7-a80a-d196390cfe67/
                - are [[anarcho capitalists]] (see: [Anarcho-capitalism](https://en.wikipedia.org/wiki/Anarcho-capitalism)) anarchists?
-               - 
+           - People understand something is broken but have been convinced into fraudulent explanations
+               - [The Futuristic Empire That Never Existed | Mia Mulder](https://www.youtube.com/watch?v=dtU_M0Sjd9Y)
+               - [Flat Earth: A Measured Response](https://www.youtube.com/watch?v=2gFsOoKAHZg)
 
            
         
