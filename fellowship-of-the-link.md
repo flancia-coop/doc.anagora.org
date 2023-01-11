@@ -87,6 +87,12 @@
             - [[Flancian]] Coordination overhead brought down by coordination points
         - [[Chris Aldrich]] an academic who studied media in the middle 1920s, focusing on [[newspaper coverage]] of the [[KKK]]
             - Nowadays extreme views draw attention online.
+        - [[Flancian]] on [[coordination points]] as devices for cooperation
+        - [[Peter Kaminski]] a story on that
+            - On [[Silicon Valley]]: surprised about the formal and informal structure that, once you 'get', makes everything a lot easier.
+            - The short history of the valley starts in the [[70s]] and earlier than that. 
+            - Electronics in the area started in [[Stanford]], [[Hewlett Packard]].
+            - [[Innovative Dilemma]] 
            
         
 
