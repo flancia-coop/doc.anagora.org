@@ -98,7 +98,12 @@
             - Someone (who?) started in the 1990s and took them a while to grok the way things were doing; but once they did, the benefits were clear.
             - Lots of informal rules that the community settled on as an emergent process.
             - [[Coopetition]], both cooperative and cutthroat. Tons of legal agreements and operating procedures including banks evolved over decades to make the environment possible, though.
-            - [[Jerr]]
+            - [[Jerry Michalski]] Silicon Valley optimizing
+                - If you start a corporation, you usually get lots of support.
+                - If you start a cooperative, you get crickets by default.
+                - [Exit to Community](https://www.colorado.edu/lab/medlab/2020/08/31/exit-community-community-primer)
+            - Legal and Finance need to know how to cooperate.
+                - Interdisciplinarity.
            
         
 
