@@ -118,7 +118,12 @@
                 - [[Chris Aldrich]] up to the 5th century Christianity was a story of internal fights.
                 - Orthodoxy was picked up by fragments of state, hierarchies.
                 - [[Flancian]] [[spirituality]] vs [[religiosity]] as per [[fritjof capra]]. [[Mysticism]] as [[heterarchy]] or at least a non-mediated non-hierarchical experiency.
-                - [[Chris Aldrich]] lots of i
+                - [[Chris Aldrich]] centralization of power in cities, vs paganism as seen mostly tied to the countryside.
+                - [[Jerry Michalski]] Scott Reframes Barbarians as What the “Civilizers” Called the Outsiders (who were freer and healthier). in Against the Grain: A Deep History of the Earliest States (2017) 
+                - [[Aram]] not consistent across cultures
+                    - Series in HBO about Asian cultures. [[Freelance Shamanic Priesthood]] in Korea.
+                    - [[Mudang]] https://en.wikipedia.org/wiki/Korean_shamanism#Mudang
+
            
         
 
