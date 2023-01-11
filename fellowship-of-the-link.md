@@ -34,7 +34,7 @@
             - But we didn't do a good enough job.
         - What's happening now in Peru, in Germany/Europe with the rise of the right.
             - Do they teach the role of Japan in WWII in Japan proper?
-                - (Pete) From personal experience in Japan: educated people believe/know the military got the country into a war that they should not have; the military pulled the wool over the eyes of the Emperor and the people.
+                - (from Pete) From personal experience in Japan: educated people believe/know the military got the country into a war that they should not have; the military pulled the wool over the eyes of the Emperor and the people.
         - [[Aram Zucker-Scharff]] Spain and laws of forgetting.
             - [[Spanish Civil War]] -- lots of people don't know about it enough (or at all).
             - [Pacto del olvido - Wikipedia, la enciclopedia libre](https://es.wikipedia.org/wiki/Pacto_del_olvido) / [Pact of Forgetting - Wikipedia](https://en.wikipedia.org/wiki/Pact_of_Forgetting)
@@ -45,11 +45,14 @@
             - https://www.youtube.com/watch?v=GzxxYUgiUNM
             - https://blogs.timesofisrael.com/my-trip-to-poland/
             - https://www.jta.org/2021/10/01/culture/this-professor-has-seen-almost-every-holocaust-movie-ever-made-totaling-over-400-heres-what-he-learned
-        - Chris Aldrich: [[Restorative Justice]]
+        - [[Chris Aldrich]]: [[Restorative Justice]]
 - [[How to end conflicts well]]? 
     - Interesting focus of research.
+    - [[Flancian]] interested in 
     - [[Peter Kaminski]] very difficult to do this.
-        - Interesting conversation recently on how the military manipulated common people; this is part of the nar.
+        - Interesting conversation recently on how the military manipulated common people; this is part of the narrative in Germany.
+        - [[Aram Zucker-Scharff]]
+            - Othering. In Japan, "the emperor did X".
            
         
 
