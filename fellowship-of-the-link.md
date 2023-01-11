@@ -106,9 +106,13 @@
             - Legal and Finance need to know how to cooperate.
                 - Interdisciplinarity.
                     - [[Flancian]] this reminds me of the pattern [[golden age]] and the role of interdisciplinarity in ideal cooperative environments. 
-            - [[Chris Aldrich]] levels of trust as correlating inversely with barriers to cooperation.
+            - [[Chris Aldrich]] levels of [[trust]] as correlating with good cooperative environments.
                 - How does a culture become resilient even in the face of loss.
                 - Hard to tell of the nth order impact.
+                    - [[Story of the Chinese Farmer]] :)
+            - [[Jerry Michalski]] related and cool: Albion's Seed: Four British Folkways in America (1989) https://bra.in/9pxJYK
+                - Different groups with different cultures emigrating from Britain into the US
+ 
            
         
 
