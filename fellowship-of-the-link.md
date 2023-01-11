@@ -121,8 +121,10 @@
                 - [[Chris Aldrich]] centralization of power in cities, vs paganism as seen mostly tied to the countryside.
                 - [[Jerry Michalski]] Scott Reframes Barbarians as What the “Civilizers” Called the Outsiders (who were freer and healthier). in Against the Grain: A Deep History of the Earliest States (2017) 
                 - [[Aram]] not consistent across cultures
-                    - Series in HBO about Asian cultures. [[Freelance Shamanic Priesthood]] in Korea.
+                    - [Series in HBO about Asian cultures folklore and horror](https://en.wikipedia.org/wiki/Folklore_(TV_series)) [HBO Listing](https://www.hbo.com/folklore/article/everything-you-need-to-know-about-folklore-and-its-mythology). [[Freelance Shamanic Priesthood]] in Korea.
                     - [[Mudang]] https://en.wikipedia.org/wiki/Korean_shamanism#Mudang
+                        - A bit of an anarchic way
+                - 
 
            
         
