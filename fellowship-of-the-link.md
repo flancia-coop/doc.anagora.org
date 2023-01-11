@@ -92,7 +92,10 @@
             - On [[Silicon Valley]]: surprised about the formal and informal structure that, once you 'get', makes everything a lot easier.
             - The short history of the valley starts in the [[70s]] and earlier than that. 
             - Electronics in the area started in [[Stanford]], [[Hewlett Packard]].
-            - [[Innovative Dilemma]] 
+            - [[Innovatitor's Dilemma]] like processes: people leaving companies and starting new ones.
+                - There was an understanding to 'look the other way' as they were all benefitting from [[promiscuous behaviour]] :)
+            - Someone (who?) started in the 1990s and took them a while to grok the way things were doing; but once they did, the benefits were clear.
+            - Lots of informal rules that the community settled on as an emergent process.
            
         
 
