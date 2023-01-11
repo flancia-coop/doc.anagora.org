@@ -149,7 +149,8 @@
            - #ca Maybe we should use the [[Hoffer]] playbook? Hoffer, Eric. The True Believer: Thoughts on the Nature of Mass Movements. Perennial Classics, 2002.
            - [[Jerry Michalski]]: "capitalism is a cuckoo"
            - [[corporate]] social media, etc as cuckoos for the commons.
-           - [[chris aldrich]] on the [[tragedy of th]]
+           - [[chris aldrich]] on the meme of the [[tragedy of the commons]] as an example of the same.
+               - [The miracle of the commons](https://aeon.co/essays/the-tragedy-of-the-commons-is-a-false-and-dangerous-myth)
 
            
         
