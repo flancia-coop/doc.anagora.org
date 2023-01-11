@@ -116,6 +116,9 @@
                 - [[Chris Aldrich]] on https://en.wikipedia.org/wiki/Great_chain_of_being as built into culture, not being questioned often enough.
                 - [[Jerry Michalski]] This is the job of religions. Forcing [[leaps of faith]] (which also selects for people willing/able to do this).
                 - [[Chris Aldrich]] up to the 5th century Christianity was a story of internal fights.
+                - Orthodoxy was picked up by fragments of state, hierarchies.
+                - [[Flancian]] [[spirituality]] vs [[religiosity]] as per [[fritjof capra]]. [[Mysticism]] as [[heterarchy]] or at least a non-mediated non-hierarchical experiency.
+                - [[Chris Aldrich]] lots of i
            
         
 
