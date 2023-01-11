@@ -146,7 +146,10 @@
                    - an [[Ontoshift]] might be needed :)
            - Problem of changing the future for climate change 
                - Good book on this - [How to Blow Up a Pipeline](https://www.goodreads.com/book/show/51686708-how-to-blow-up-a-pipeline)
-           - 
+           - #ca Maybe we should use the [[Hoffer]] playbook? Hoffer, Eric. The True Believer: Thoughts on the Nature of Mass Movements. Perennial Classics, 2002.
+           - [[Jerry Michalski]]: "capitalism is a cuckoo"
+           - [[corporate]] social media, etc as cuckoos for the commons.
+           - [[chris aldrich]] on the [[tragedy of th]]
 
            
         
