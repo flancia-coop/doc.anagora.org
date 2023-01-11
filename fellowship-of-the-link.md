@@ -103,6 +103,7 @@
                 - If you start a cooperative, you get crickets by default.
                 - [Exit to Community](https://www.colorado.edu/lab/medlab/2020/08/31/exit-community-community-primer)
                 - https://www.councilofnonprofits.org/tools-resources-categories/boards-and-governance 
+                - https://www.irs.gov/charities-non-profits/exempt-organization-types
             - Legal and Finance need to know how to cooperate.
                 - Interdisciplinarity.
                     - [[Flancian]] this reminds me of the pattern [[golden age]] and the role of interdisciplinarity in ideal cooperative environments. 
@@ -127,6 +128,7 @@
                     - [[Cátaros]]
                 - [[Jerry Michalski]] on [[Catalonia]] to [[Langue d'Oc]], etc.
                     - Interesting cultures that were stamped out by greater hierarchical entities (e.g. Catholic Church)
+           - [[Jerry Michalski]] paying attention to demonization
 
            
         
