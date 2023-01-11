@@ -32,7 +32,10 @@
             - The US is paying for how the Civil War was concluded poorly.
             - Guillotining is not good :)
             - But we didn't do a good enough job.
-        - What's happening now in Peru, in Germany.
+        - What's happening now in Peru, in Germany/Europe with the rise of the right.
+            - Do they teach the role of Japan in WWII in Japan proper?
+        - [[Aram Zucker-Scharff]] Spain and laws of forgetting.
+            - [[Spanish Civil War]] -- lots of people don't know about it enough.
            
         
 
