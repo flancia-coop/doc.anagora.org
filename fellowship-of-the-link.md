@@ -34,12 +34,14 @@
             - But we didn't do a good enough job.
         - What's happening now in Peru, in Germany/Europe with the rise of the right.
             - Do they teach the role of Japan in WWII in Japan proper?
-                - (Pete) From personal experience, educated people 
+                - (Pete) From personal experience in Japan: educated people believe/know the military got the country into a war that they should not have; the military pulled the wool over the eyes of the Emperor and the people.
         - [[Aram Zucker-Scharff]] Spain and laws of forgetting.
             - [[Spanish Civil War]] -- lots of people don't know about it enough (or at all).
         - [[Holocaust memory]]
             - https://www.npr.org/2022/11/15/1136738601/clint-smith-atlantic-germany-holocaust-us-slavery-memorials
-            - 
+            - https://en.wikipedia.org/wiki/IBM_and_the_Holocaust
+            - https://www.youtube.com/watch?v=GzxxYUgiUNM
+        - 
            
         
 
