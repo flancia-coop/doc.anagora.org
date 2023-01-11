@@ -19,6 +19,12 @@
 ## 2023-01-11
 
 - We're back! :)
+- [[Checkins]]
+    - [[Jerry Michalski]]
+        - [[Argentina 1985]]
+        - Jerry left [[Argentina 1972]].
+            - Traumatic family experiences.
+            - Wounds of traumatic experiences, political reality.
 
 ## 2023-01-04
 
