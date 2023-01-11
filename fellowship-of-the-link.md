@@ -88,6 +88,7 @@
         - [[Chris Aldrich]] an academic who studied media in the middle 1920s, focusing on [[newspaper coverage]] of the [[KKK]]
             - Nowadays extreme views draw attention online.
         - [[Flancian]] on [[coordination points]] as devices for cooperation
+            - Transferring the fewest bits necessary for establishing further cooperation / resolution of truth
         - [[Peter Kaminski]] a story on that
             - On [[Silicon Valley]]: surprised about the formal and informal structure that, once you 'get', makes everything a lot easier.
             - The short history of the valley starts in the [[70s]] and earlier than that. 
@@ -96,6 +97,8 @@
                 - There was an understanding to 'look the other way' as they were all benefitting from [[promiscuous behaviour]] :)
             - Someone (who?) started in the 1990s and took them a while to grok the way things were doing; but once they did, the benefits were clear.
             - Lots of informal rules that the community settled on as an emergent process.
+            - [[Coopetition]], both cooperative and cutthroat. Tons of legal agreements and operating procedures including banks evolved over decades to make the environment possible, though.
+            - [[Jerr]]
            
         
 
