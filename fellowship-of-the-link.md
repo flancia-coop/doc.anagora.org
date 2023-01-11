@@ -129,6 +129,8 @@
                 - [[Jerry Michalski]] on [[Catalonia]] to [[Langue d'Oc]], etc.
                     - Interesting cultures that were stamped out by greater hierarchical entities (e.g. Catholic Church)
            - [[Jerry Michalski]] paying attention to demonization
+           - [[Anarchy]]
+               - 
 
            
         
