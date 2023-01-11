@@ -26,7 +26,7 @@
             - Traumatic family experiences.
             - Then [[Guerra sucia]].
         - Wounds of traumatic experiences, political reality.
-        - On [[Grant]] at the end of the Civil War.
+        - On [[Ulysses S. Grant]] at the end of the [[US Civil War]].
             - Did the South lose the war but win history?
         - [[Amateur historian]] hypothesis:
             - The US is paying for how the Civil War was concluded poorly.
@@ -34,8 +34,12 @@
             - But we didn't do a good enough job.
         - What's happening now in Peru, in Germany/Europe with the rise of the right.
             - Do they teach the role of Japan in WWII in Japan proper?
+                - (Pete) From personal experience, educated people 
         - [[Aram Zucker-Scharff]] Spain and laws of forgetting.
-            - [[Spanish Civil War]] -- lots of people don't know about it enough.
+            - [[Spanish Civil War]] -- lots of people don't know about it enough (or at all).
+        - [[Holocaust memory]]
+            - https://www.npr.org/2022/11/15/1136738601/clint-smith-atlantic-germany-holocaust-us-slavery-memorials
+            - 
            
         
 
