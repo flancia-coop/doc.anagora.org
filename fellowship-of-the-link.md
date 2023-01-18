@@ -16,6 +16,12 @@
         - [[issue tracker]] / [[project tracker]] URL
             - [[github]] by default?
             
+## 2023-01-18
+- Attending: [[Jerry Michalski]], [[Bentley Davis]], [[Peter Kaminski]], [[Flancian]], [[Aram Zucker-Scharff]].
+- Planning for the year
+    - Individually and as a fellowship? :)
+    - [[Jerry M]]
+
 ## 2023-01-11
 
 - We're back! :)
