@@ -87,8 +87,10 @@
                  - [[Peter Kaminski]] [[maparent]] has [[hyperknowledge]] which has similar characteristics
                  - Flancian: client-based [[disintermediation]] as a complementary approach.
                  - Aram: role distribution as we see in wikis? Tools for communities of knowledge.
-                 - #pk: xtension values for the rel="" attribute in HTML5: 
-https://wiki.whatwg.org/wiki/RelExtensions
+                 - #pk: xtension values for the rel="" attribute in HTML5: https://wiki.whatwg.org/wiki/RelExtensions
+                 - #ca Or user ability to search a variety of areas based on what they know or trust, so something along the lines of allowing the user to choose their search like https://github.com/CanisLupus/swift-selection-search does 
+                 - #ca [[indieweb wiki]]: a community maintaining a wiki and a newsletter coming out each week
+                 - #pk [[VoteLinks]]: https://microformats.org/wiki/vote-links
  
 
  
