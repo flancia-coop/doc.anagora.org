@@ -45,6 +45,11 @@
                 - massive wiki is [[tool agnostic]] but in practice everybody is using [[obsidian]]
                     - one of the things with obsidian is that it's getting more complex and less user friendly as it grows and adds more features
                 - Peter's dream system: [[opal]]. simpler and has git built in.
+                    - https://developer.massive.wiki/opal
+            - interesting idea for [[massive wiki]]
+                - original acronym [[MaSVF]] (Markdown, shared, versioned, files)
+                - [[Massive Human Intelligence Project]] (2021 as MaSVF Wiki, Markdown Shared Versioned Files, “Massive”) 
+                - federation as markdown attachments in email
         
 
 
