@@ -17,10 +17,12 @@
             - [[github]] by default?
             
 ## 2023-01-18
-- Attending: [[Jerry Michalski]], [[Bentley Davis]], [[Peter Kaminski]], [[Flancian]], [[Aram Zucker-Scharff]].
+- Attending: [[Jerry Michalski]], [[Bentley Davis]], [[Peter Kaminski]], [[Flancian]], [[Aram Zucker-Scharff]]. If Jitsi will behave, [[Chris Aldrich]] will join in a minute or two...
 - Planning for the year
     - Individually and as a fellowship? :)
-    - [[Jerry M]]
+    - [[Jerry Michalski]] https://wiki.rel8.dev/bigger_goals
+        - Trying to be more 'action oriented'
+         
 
 ## 2023-01-11
 
