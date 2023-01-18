@@ -79,7 +79,8 @@
                         - #jm [[kosmik]] [[fedwiki]]
                         - #pk https://murmurations.network/
                         - [[chris aldrich]] "The Read Write Web is no longer sufficient. I want the Read Fork Write Merge Web." - [Tantek](https://indieweb.org/2011/Smallest_Federated_Wiki#Inspiration) 
-                 - [[jerry michalski]] [[kosmik]] can be described as a distributed filesystem ()
+                 - [[jerry michalski]] [[kosmik]] can be described as a distributed filesystem (or is built upon one)
+                     - too promiscuous forking as in [[fedwiki]] is confusing
 
  
 
