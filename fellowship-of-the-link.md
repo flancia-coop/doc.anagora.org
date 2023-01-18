@@ -35,8 +35,13 @@
             - [[pattern candidate ideas]]
                 - [[aram zucker]] this is the perfect use for a wiki
     - [[Peter Kaminski]]
-        - [[John Abbe]] and I are working on "SuperLiminal", a public wiki
-            - 
+        - [[John Abbe]] and I are working on "[[SuperLiminal]]", a public wiki
+            - started as a [[massive wiki]], coming into focus
+            - it's about: [[pattern languages]], [[quality without a name]] ~ [[QWAN]], [[systems thinking]]
+                - see <https://codeberg.org/Massive-Wiki/SuperLiminal/src/branch/main/Discussing%20SuperLiminal%2C%202023-01-17.md>
+            - open concerns:
+                - hard to adopt massivewiki, hard to onboard to it
+        
 
 
 ## 2023-01-11
