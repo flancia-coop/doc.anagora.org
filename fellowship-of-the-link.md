@@ -69,6 +69,8 @@
                 - Potential for a bad actor to move first and enclose the commons.
                 - [[Aram Zucker-Scharff]] maybe fragmenting search is the best bet -- e.g. make it easier for people to provision and use search tools
                     - https://context.center/topics/indie-search/
+                - Should we worry about the [[enclosure problem]]?
+                    - [[Peter Kaminski]]: I worry about enclosures but 
  
 
 
