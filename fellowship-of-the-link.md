@@ -66,7 +66,10 @@
                     - [[pulsar]] https://pulsar-edit.dev/
             - Flancian: [[mastosearch]] as it relates to discovery of git repository / integration of the [[knowledge commons]]
                 - (...)
-            - [[Aram Zucker-Sc]]
+                - Potential for a bad actor to move first and enclose the commons.
+                - [[Aram Zucker-Scharff]] maybe fragmenting search is the best bet -- e.g. make it easier for people to provision and use search tools
+                    - https://context.center/topics/indie-search/
+ 
 
 
 
