@@ -64,7 +64,9 @@
                     - keeps improving
                     - #pk atom/pulsar is picked up by non-technical users sometimes though
                     - [[pulsar]] https://pulsar-edit.dev/
-            - Flancian: [[mastosearch]]
+            - Flancian: [[mastosearch]] as it relates to discovery of git repository / integration of the [[knowledge commons]]
+                - (...)
+            - [[Aram Zucker-Sc]]
 
 
 
