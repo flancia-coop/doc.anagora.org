@@ -41,6 +41,7 @@
                 - see <https://codeberg.org/Massive-Wiki/SuperLiminal/src/branch/main/Discussing%20SuperLiminal%2C%202023-01-17.md>
             - open concerns:
                 - hard to adopt massivewiki, hard to onboard to it
+                - it implies onboarding onto git
         
 
 
