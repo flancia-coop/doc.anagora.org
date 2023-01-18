@@ -50,6 +50,8 @@
                 - original acronym [[MaSVF]] (Markdown, shared, versioned, files)
                 - [[Massive Human Intelligence Project]] (2021 as MaSVF Wiki, Markdown Shared Versioned Files, “Massive”) 
                 - federation as markdown attachments in email
+            - [[the return of email]]
+                - 
         
 
 
