@@ -22,7 +22,13 @@
     - Individually and as a fellowship? :)
     - [[Jerry Michalski]] https://wiki.rel8.dev/bigger_goals
         - Trying to be more 'action oriented'
-         
+        - Flancian interested in particular:
+            - [[shared note taking]]
+            - [[pattern languages]]
+                - [[pattern language workshop]] during the pandemic
+            - Instrumenting patterns: some patterns are more amenable to turning into code
+                - 1, 2, 4, all [[zoom app]]
+                - meta facilitation app
 
 ## 2023-01-11
 
