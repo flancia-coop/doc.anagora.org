@@ -51,7 +51,15 @@
                 - [[Massive Human Intelligence Project]] (2021 as MaSVF Wiki, Markdown Shared Versioned Files, “Massive”) 
                 - federation as markdown attachments in email
             - [[the return of email]]
-                - 
+                - email attachments as a lightweight federation medium
+                - node@anagora.org
+                - email-in to Obsidian?
+    - [x] [IFTTT and OneDrive, Patrick Berry](
+https://patrickberry.medium.com/email-notes-to-obsidian-8fba96a7d35b
+) (Medium)
+    - [x] [Using Integromat and Obsidian Webhooks, bwydoogh](
+https://forum.obsidian.md/t/obsidian-send/23899/10
+) (Obsidian Forum) 
         
 
 
