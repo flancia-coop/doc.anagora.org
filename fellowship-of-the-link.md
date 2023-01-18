@@ -70,7 +70,10 @@
                 - [[Aram Zucker-Scharff]] maybe fragmenting search is the best bet -- e.g. make it easier for people to provision and use search tools
                     - https://context.center/topics/indie-search/
                 - Should we worry about the [[enclosure problem]]?
-                    - [[Peter Kaminski]]: I worry about enclosures but 
+                    - [[Peter Kaminski]]: I worry about enclosures but not about the enclosure problem in general?
+                        - In the beginning we didn't have centralized search engines. People chose them out of convenience.
+                        - If you're careful enough and say "last time we tried this it didn't work out" maybe it's enough.
+                    - You can copy
  
 
 
