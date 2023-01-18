@@ -77,7 +77,10 @@
                         - Flancian +1 althought the question may be about the size of the backing commons. People may choose enclosure-friendly tools due to their convenience again.
                         - Aram: we need Federation.
                         - #jm [[kosmik]] [[fedwiki]]
-                        - #pk 
+                        - #pk https://murmurations.network/
+                        - [[chris aldrich]] "The Read Write Web is no longer sufficient. I want the Read Fork Write Merge Web." - [Tantek](https://indieweb.org/2011/Smallest_Federated_Wiki#Inspiration) 
+                 - [[jerry michalski]] [[kosmik]] can be described as a distributed filesystem ()
+
  
 
 
