@@ -57,6 +57,12 @@
                     - [x] [IFTTT and OneDrive, Patrick Berry](
                     https://patrickberry.medium.com/email-notes-to-obsidian-8fba96a7d35b) (Medium)
                         - [x] [Using Integromat and Obsidian Webhooks, bwydoogh](https://forum.obsidian.md/t/obsidian-send/23899/10) (Obsidian Forum) 
+            - [[git]] conflicts
+                - on potentially automatically resolving wiki edits
+                    - maybe outliner mode makes this easier
+                - [[obsidian git]]
+                    - keeps improving
+                    - #pk atom/pulsar is picked up by non-technical users sometimes though
 
 
 
