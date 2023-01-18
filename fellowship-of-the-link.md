@@ -83,6 +83,8 @@
                      - too promiscuous forking as in [[fedwiki]] is confusing
                  - Aram: need to democratize the way we maintain and share search indexes.
                      - Probably also need a way to distinguish 'I am linking to this page' from 'I am giving authority to this page'.
+                     - schema.org has a property 'is based on'
+                 - [[Peter Kaminski]] [[maparent]] has [[hyperknowledge]] which has similar characteristics
 
  
 
