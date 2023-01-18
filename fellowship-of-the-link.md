@@ -42,6 +42,8 @@
             - open concerns:
                 - hard to adopt massivewiki, hard to onboard to it
                 - it implies onboarding onto git
+                - massive wiki is [[tool agnostic]] but in practice everybody is using [[obsidian]]
+                    - one of the things with obsidian is that it's getting more complex and less user friendly as it grows and adds more features
         
 
 
