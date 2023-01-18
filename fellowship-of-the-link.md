@@ -25,11 +25,18 @@
         - Flancian interested in particular:
             - [[shared note taking]]
             - [[pattern languages]]
+                - pattern languages vs. lists of patterns
                 - [[pattern language workshop]] during the pandemic
             - Instrumenting patterns: some patterns are more amenable to turning into code
                 - 1, 2, 4, all [[zoom app]]
                 - meta facilitation app
-
+            - [[wikilinks]] and [[hashtags]] as patterns
+                - and their advanced used (conventions)
+            - [[pattern candidate ideas]]
+                - [[aram zucker]] this is the perfect use for a wiki
+    - [[Peter Kaminski]]
+        - [[John Abbe]] and I are working on "SuperLiminal", a public wiki
+            - 
 
 
 ## 2023-01-11
