@@ -85,6 +85,11 @@
                      - Probably also need a way to distinguish 'I am linking to this page' from 'I am giving authority to this page'.
                      - schema.org has a property 'is based on'
                  - [[Peter Kaminski]] [[maparent]] has [[hyperknowledge]] which has similar characteristics
+                 - Flancian: client-based [[disintermediation]] as a complementary approach.
+                 - Aram: role distribution as we see in wikis? Tools for communities of knowledge.
+                 - #pk: xtension values for the rel="" attribute in HTML5: 
+https://wiki.whatwg.org/wiki/RelExtensions
+ 
 
  
 
