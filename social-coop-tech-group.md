@@ -13,6 +13,8 @@
 - Mediawiki deploy in hypha
   - [[mediawiki bug]] https://git.coop/social.coop/tech/operations/-/issues/66
   - F: `sneakers the rat` is working on this
+  - David: is there an answer to the question of whether the mediawiki install was done with ansible/coop cloud or full manual?
+  - Ed: unsure but he was interested in changing how we do the setup.
 - Rhizome deploy?
 
 ## [[2022-01-09]]
