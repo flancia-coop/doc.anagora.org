@@ -1,9 +1,12 @@
 ## [[[[2022-01-23]]]]
 - Location: https://meet.mayfirst.org/social-coop-tech
-- Attending: 
+- Attending: Flancian, Akshay, Ed
 - Check-ins
 - Mediawiki deploy
-  - 
+  - [[mediawiki bug]] https://git.coop/social.coop/tech/operations/-/issues/66
+- Issue with emails bouncing?
+  - https://git.coop/social.coop/community/operations/-/issues/1212
+  - It looks like an issue with zoho?
 - Rhizome deploy?
 
 ## [[2022-01-09]]
