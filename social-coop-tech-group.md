@@ -32,6 +32,7 @@
         - Could also just configure mastodon not to federate.
         - We can just make sure that docker-compose only brings up postgresql.
         - **New open question ^**
+        - 
     - David: are we going to run postgresql in docker?
         - Yes, same as currently
 
