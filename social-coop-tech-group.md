@@ -15,6 +15,8 @@
   - F: `sneakers the rat` is working on this
   - David: is there an answer to the question of whether the mediawiki install was done with ansible/coop cloud or full manual?
   - Ed: unsure but he was interested in changing how we do the setup.
+  - Flancian: happy to sync with jonny about how this was done and how we could move forward with e.g. coop cloud.
+  - Calix: happy to help!
 - Rhizome deploy?
 
 ## [[2022-01-09]]
