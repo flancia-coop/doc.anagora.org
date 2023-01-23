@@ -32,7 +32,8 @@
         - Could also just configure mastodon not to federate.
         - We can just make sure that docker-compose only brings up postgresql.
         - **New open question ^**
-        - 
+        - Let's do this next Monday slightly earlier by default?
+        - Let's do Monday [[2023-01-30]] at 19 UTC
     - David: are we going to run postgresql in docker?
         - Yes, same as currently
 
