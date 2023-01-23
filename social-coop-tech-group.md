@@ -2,6 +2,8 @@
 - Location: https://meet.mayfirst.org/social-coop-tech
 - Attending: 
 - Check-ins
+- Mediawiki deploy
+  - 
 - Rhizome deploy?
 
 ## [[2022-01-09]]
