@@ -2,7 +2,7 @@
 - Location: https://meet.mayfirst.org/social-coop-tech
 - Attending: 
 - Check-ins
-- Rhizome deploy with Ansible?
+- Rhizome deploy?
 
 ## [[2022-01-09]]
 - Location: https://meet.mayfirst.org/social-coop-tech
