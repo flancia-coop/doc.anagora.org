@@ -1,9 +1,7 @@
 ## [[[[2022-01-23]]]]
 - Location: https://meet.mayfirst.org/social-coop-tech
-- Attending: Flancian, Akshay, Ed
+- Attending: Flancian, Akshay, Ed, David Vasandani, A Late Calix
 - Check-ins
-- Mediawiki deploy
-  - [[mediawiki bug]] https://git.coop/social.coop/tech/operations/-/issues/66
 - Issue with emails bouncing?
   - https://git.coop/social.coop/community/operations/-/issues/1212
   - It looks like an issue with zoho?
@@ -11,6 +9,10 @@
   - Try: https://www.zoho.com/mail/help/adminconsole/spf-configuration.html
   - Done, maybe this works?
   - Also try: https://www.zoho.com/mail/help/adminconsole/dkim-configuration.html
+      - Maybe next time?
+- Mediawiki deploy in hypha
+  - [[mediawiki bug]] https://git.coop/social.coop/tech/operations/-/issues/66
+  - F: `sneakers the rat` is working on this
 - Rhizome deploy?
 
 ## [[2022-01-09]]
