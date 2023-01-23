@@ -25,7 +25,8 @@
     - Next action?
         - Akshay: we need to figure out how we're going to do the database migration
         - Default: dump, maintainance window, restore
-        - 
+    - Care for not double-federating?
+        - We could start just with postgres and not bring up mastodon web interface in rhizome for now; this seems like the first step and it should be safe
 
 ## [[2022-01-09]]
 - Location: https://meet.mayfirst.org/social-coop-tech
