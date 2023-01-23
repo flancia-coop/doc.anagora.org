@@ -1,7 +1,6 @@
 ## [[[[2022-01-23]]]]
 - Location: https://meet.mayfirst.org/social-coop-tech
-- Attending: Akshay, edsu, David Vasandani, Calix, Flancian
-- ...agenda items here...
+- Attending: 
 - Check-ins
 - Rhizome deploy with Ansible?
 
