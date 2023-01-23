@@ -7,6 +7,7 @@
 - Issue with emails bouncing?
   - https://git.coop/social.coop/community/operations/-/issues/1212
   - It looks like an issue with zoho?
+  - Or it could be we need to update an SPF record in DNS, we should look for updated instructions from Zoho.
 - Rhizome deploy?
 
 ## [[2022-01-09]]
