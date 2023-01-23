@@ -20,8 +20,12 @@
 - Registrations flow / cross dependency with wiki
     - Easiest might be to just leave the node.js app running now, maybe move it to e.g. forms.social.coop and post there
     - We could run the whole thing -- just the form and the handler in registrations.social.coop
-    - And remove the existing wiki content
+    - ... and remove the existing wiki content once the new wiki is up a wiki.social.coop
 - Rhizome deploy?
+    - Next action?
+        - Akshay: we need to figure out how we're going to do the database migration
+        - Default: dump, maintainance window, restore
+        - 
 
 ## [[2022-01-09]]
 - Location: https://meet.mayfirst.org/social-coop-tech
