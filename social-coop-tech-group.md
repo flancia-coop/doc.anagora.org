@@ -24,9 +24,13 @@
 - Rhizome deploy?
     - Next action?
         - Akshay: we need to figure out how we're going to do the database migration
-        - Default: dump, maintainance window, restore
+        - Default: dump, maintainance window, restore. Yes, let's do this.
     - Care for not double-federating?
         - We could start just with postgres and not bring up mastodon web interface in rhizome for now; this seems like the first step and it should be safe
+    - Can we bring up only postgresql in rhizome with ansible?
+        - Maybe it's best to disallow outbound/inbound traffic and just use the standard docker compose file?
+    - David: are we going to run postgresql in docker?
+        - Yes.
 
 ## [[2022-01-09]]
 - Location: https://meet.mayfirst.org/social-coop-tech
