@@ -8,6 +8,7 @@
   - https://git.coop/social.coop/community/operations/-/issues/1212
   - It looks like an issue with zoho?
   - Or it could be we need to update an SPF record in DNS, we should look for updated instructions from Zoho.
+  - Try: https://www.zoho.com/mail/help/adminconsole/spf-configuration.html
 - Rhizome deploy?
 
 ## [[2022-01-09]]
