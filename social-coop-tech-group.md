@@ -17,6 +17,10 @@
   - Ed: unsure but he was interested in changing how we do the setup.
   - Flancian: happy to sync with jonny about how this was done and how we could move forward with e.g. coop cloud.
   - Calix: happy to help!
+- Registrations flow / cross dependency with wiki
+    - Easiest might be to just leave the node.js app running now, maybe move it to e.g. forms.social.coop and post there
+    - We could run the whole thing -- just the form and the handler in registrations.social.coop
+    - And remove the existing wiki content
 - Rhizome deploy?
 
 ## [[2022-01-09]]
