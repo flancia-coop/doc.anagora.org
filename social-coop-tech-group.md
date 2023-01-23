@@ -9,6 +9,8 @@
   - It looks like an issue with zoho?
   - Or it could be we need to update an SPF record in DNS, we should look for updated instructions from Zoho.
   - Try: https://www.zoho.com/mail/help/adminconsole/spf-configuration.html
+  - Done, maybe this works?
+  - Also try: https://www.zoho.com/mail/help/adminconsole/dkim-configuration.html
 - Rhizome deploy?
 
 ## [[2022-01-09]]
