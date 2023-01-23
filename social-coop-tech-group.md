@@ -1,4 +1,5 @@
 ## [[[[2022-01-23]]]]
+
 - Location: https://meet.mayfirst.org/social-coop-tech
 - Attending: Flancian, Akshay, Ed, David Vasandani, A Late Calix
 - Check-ins
