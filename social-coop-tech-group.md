@@ -29,8 +29,11 @@
         - We could start just with postgres and not bring up mastodon web interface in rhizome for now; this seems like the first step and it should be safe
     - Can we bring up only postgresql in rhizome with ansible?
         - Maybe it's best to disallow outbound/inbound traffic and just use the standard docker compose file?
+        - Could also just configure mastodon not to federate.
+        - We can just make sure that docker-compose only brings up postgresql.
+        - **New open question ^**
     - David: are we going to run postgresql in docker?
-        - Yes.
+        - Yes, same as currently
 
 ## [[2022-01-09]]
 - Location: https://meet.mayfirst.org/social-coop-tech
