@@ -61,6 +61,8 @@
         - Been working on a lot of [[wiki]] projects in the last few months.
         - Trying to amplify connectivity in the mycellium :)
         - e.g. https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Video_games/Sources
+        - there's many lists of this kind in wikipedia; trying to create computer-readable versions of these, maintain them as datasets.
+        - making tables in any wiki convertable into different data formats
     - [[Flancian]]
 - #push [[fotl threads]]
     - define:
