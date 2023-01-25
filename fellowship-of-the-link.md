@@ -92,7 +92,9 @@
     - [[SJ]] first idea: [[naming discussion]]
     - [[SJ]] other topic: the possibilities opened up by [[generative models]]
         - people project baggage into the space (copyright, etc.)
-- [[SJ]] callout for starting an [[Awesome Founda]]
+- [[SJ]] callout for starting an [[Awesome Foundation]]: https://en.wikipedia.org/wiki/User:Sj/AwesomeKnowledge
+    - #jm what does it take to become a chapter?
+    - #sj you fill a form declaring interest in doing one award per month. the amounts are re
 - #push [[fotl threads]]
     - define:
         - [[wiki]] / root URL
