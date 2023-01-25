@@ -56,8 +56,11 @@
         - trying to figure out the right structure for [[rel8]] 
             - how can it help spark the shared memory, the big fungus, etc.
             - idea: create a center at some university/college. maybe in Portland?
-            - idea: should [[rel8]] 
+            - idea: should [[rel8]] be a public entity? a dao? a [[DisCO]]? etc.
     - [[SJ]] ~ [[metasj]]
+        - Been working on a lot of [[wiki]] projects in the last few months.
+        - Trying to amplify connectivity in the mycellium :)
+        - e.g. https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Video_games/Sources
     - [[Flancian]]
 - #push [[fotl threads]]
     - define:
