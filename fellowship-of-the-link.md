@@ -66,6 +66,9 @@
         - Revitalizing [[WikiCite]] project
             - https://meta.wikimedia.org/wiki/WikiCite
             - The internet archive is working on a related project.
+            - [[Chris Aldrich]] [[Udell]] built some bots that operated on citations and integrated them into hypothes.is
+            - [[Jerry Michalski]] https://bra.in/5vNyXW
+            - [[steam pipe]] ~ https://steampipe.io/
     - [[Flancian]]
 - #push [[fotl threads]]
     - define:
