@@ -101,6 +101,9 @@
             - lots of indieweb features start from "I wish my site could do this"
             - [[indieweb collective]] ~ https://opencollective.com/indieweb
         - [[SJ]] [[replit]] implemented bounties recently
+            - [[bounties]], [[awards]] for cool things, [[microtransfers]]
+        - Next step: brainstorm other communities that keep lists of 'cool things to do' associated with bounties or a similar incentive structure
+        - [[lazy web]]
 - #push [[fotl threads]]
     - define:
         - [[wiki]] / root URL
