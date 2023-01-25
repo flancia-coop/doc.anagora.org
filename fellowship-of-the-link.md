@@ -90,6 +90,9 @@
 - [[hypertalk]] podcast (likely name)
     - [[flancian]] let's start some pages for possible episodes and bootstrap a wiki-dialogue?
     - [[SJ]] first idea: [[naming discussion]]
+    - [[SJ]] other topic: the possibilities opened up by [[generative models]]
+        - people project baggage into the space (copyright, etc.)
+- [[SJ]] callout for starting an [[Awesome Founda]]
 - #push [[fotl threads]]
     - define:
         - [[wiki]] / root URL
