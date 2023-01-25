@@ -79,6 +79,8 @@
 - [[Jerry Michalski]]
     - on conversation with X (who?)
     - and the production of the 'wrong' kind of artifact
+    - [[Chris Aldrich]] on empowering students and teachers by democratizing history (paraphrasing)
+    - [[Big History project]]   http://www.bighistoryproject.com/
 - #push [[fotl threads]]
     - define:
         - [[wiki]] / root URL
