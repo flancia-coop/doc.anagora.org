@@ -39,7 +39,9 @@
     - [[Chris Aldrich]]
         - Have been brainstorming on a list of things to mirror Jerry's list.
         - Reached out to Paul Roney (sp?), starting a discussion related to the [[tools for thought podcast]].
-        - 
+        - Have a /now page on [[boffosocko]], will update it to expose plans and current work :)
+        - Playing with [[massive wiki]] and [[media wiki]].
+        - Getting close to cleaning up notes enough to join the [[Agora]] :)
     - [[Jerry Michalski]]
     - [[Flancian]]
 - #push [[fotl threads]]
