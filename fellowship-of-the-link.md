@@ -49,7 +49,14 @@
             - goal: doing youtube shorts for a different reason, but thinking about doing shorts about fungi and other concepts in this space.
         - [[podcast]] and [[paul rony]]
             - [[tools for thinking]] -- but won't be called that
-            - anybody interested, reach out! could be a
+            - anybody interested, reach out! could be a rotating host/focus scheme
+                - "[[fire ready aim]]"
+            - a season just finished
+            - "why tools for thinking" (is this hopeless?) was the topic of the last recorded one
+        - trying to figure out the right structure for [[rel8]] 
+            - how can it help spark the shared memory, the big fungus, etc.
+            - idea: create a center at some university/college. maybe in Portland?
+            - idea: should [[rel8]] 
     - [[SJ]] ~ [[metasj]]
     - [[Flancian]]
 - #push [[fotl threads]]
