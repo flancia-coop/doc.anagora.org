@@ -94,7 +94,10 @@
         - people project baggage into the space (copyright, etc.)
 - [[SJ]] callout for starting an [[Awesome Foundation]]: https://en.wikipedia.org/wiki/User:Sj/AwesomeKnowledge
     - #jm what does it take to become a chapter?
-    - #sj you fill a form declaring interest in doing one award per month. the amounts are re
+    - #sj you fill a form declaring interest in doing one award per month. the amounts are relatively small but the work (and the award) should be joyful
+    - #jm on [[serious fun]]
+        - why do we separate work, play and learning?
+        - #ca one of his favorite things about the [[indieweb]] community 
 - #push [[fotl threads]]
     - define:
         - [[wiki]] / root URL
