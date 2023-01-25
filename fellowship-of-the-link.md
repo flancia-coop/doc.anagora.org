@@ -18,7 +18,7 @@
             
 ## 2023-01-25
 - Attending: [[Jerry Michalski]] [[Peter Kaminski]] [[Bentley Davis]] [[Chris Aldrich]] [[Flancian]]
-- [[Chris Aldrich]] Tools for thought call tomorrow with [[marc-antoine parent]].
+- [[Chris Aldrich]] Tools for thought call tomorrow with [[Mark Bernstein]] of Eastgate Systems, Inc. at https://lu.ma/2u5f7ky0
     - Have we invited [[Boris Mann]] to FotL?
         - Good idea!
 - Start recording, we're currently using Jitsi and that works best with a [[Chromium]] based browser.
@@ -26,7 +26,12 @@
     - [[Peter Kaminski]]
         - Update on [[tools for thinking map project]].
         - First deliverable: getting a website up.
+        - Had lots of fun using [[massive wiki]] to set this up, which resulted in feature requests (?).
     - [[Bentley Davis]]
+        - Only tangentially here :)
+        - Working on a podcast: [[evidence explores]]
+            - On objective truth vs 'just communication'
+        - Flancian: what's a good way to 
     - [[Chris Aldrich]]
     - [[Jerry Michalski]]
     - [[Flancian]]
