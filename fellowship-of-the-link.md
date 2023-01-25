@@ -97,7 +97,9 @@
     - #sj you fill a form declaring interest in doing one award per month. the amounts are relatively small but the work (and the award) should be joyful
     - #jm on [[serious fun]]
         - why do we separate work, play and learning?
-        - #ca one of his favorite things about the [[indieweb]] community 
+        - #ca one of his favorite things about the [[indieweb]] community is the playfulness of it
+            - lots of indieweb features start from "I wish my site could do this"
+            - [[indieweb collective]] ~ https://opencollective.com/indieweb
 - #push [[fotl threads]]
     - define:
         - [[wiki]] / root URL
