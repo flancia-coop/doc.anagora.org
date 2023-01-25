@@ -17,7 +17,7 @@
             - [[github]] by default?
             
 ## 2023-01-25
-- Attending: [[Jerry Michalski]] [[Peter Kaminski]] [[Bentley Davis]] [[Chris Aldrich]] [[Flancian]]
+- Attending: [[Jerry Michalski]] [[Peter Kaminski]] [[Bentley Davis]] [[Chris Aldrich]] [[Flancian]] [[SJ]]
 - [[Chris Aldrich]] Tools for thought call tomorrow with [[Mark Bernstein]] of Eastgate Systems, Inc. at https://lu.ma/2u5f7ky0
     - Have we invited [[Boris Mann]] to FotL?
         - Good idea!
@@ -38,11 +38,19 @@
         - Chris: Bentley has a numbered list with 'happiness' instead of 'profit' :)
     - [[Chris Aldrich]]
         - Have been brainstorming on a list of things to mirror Jerry's list.
-        - Reached out to Paul Roney (sp?), starting a discussion related to the [[tools for thought podcast]].
+        - Reached out to [[Paul Rony]], starting a discussion related to the [[tools for thought podcast]].
         - Have a /now page on [[boffosocko]], will update it to expose plans and current work :)
         - Playing with [[massive wiki]] and [[media wiki]].
         - Getting close to cleaning up notes enough to join the [[Agora]] :)
     - [[Jerry Michalski]]
+        - three things from play to serious :)
+        - https://wiki.rel8.dev/the_big_fungus
+            - really liking it as a metaphor :)
+            - goal: doing youtube shorts for a different reason, but thinking about doing shorts about fungi and other concepts in this space.
+        - [[podcast]] and [[paul rony]]
+            - [[tools for thinking]] -- but won't be called that
+            - anybody interested, reach out! could be a
+    - [[SJ]] ~ [[metasj]]
     - [[Flancian]]
 - #push [[fotl threads]]
     - define:
