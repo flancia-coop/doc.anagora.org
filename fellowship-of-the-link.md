@@ -19,9 +19,17 @@
 ## 2023-01-25
 - Attending: [[Jerry Michalski]] [[Peter Kaminski]] [[Bentley Davis]] [[Chris Aldrich]] [[Flancian]]
 - [[Chris Aldrich]] Tools for thought call tomorrow with [[marc-antoine parent]].
-    - Have we invited [[Boris Mann]]?
-    - Good idea!
+    - Have we invited [[Boris Mann]] to FotL?
+        - Good idea!
 - Start recording, we're currently using Jitsi and that works best with a [[Chromium]] based browser.
+- [[Check ins]]
+    - [[Peter Kaminski]]
+        - Update on [[tools for thinking map project]].
+        - First deliverable: getting a website up.
+    - [[Bentley Davis]]
+    - [[Chris Aldrich]]
+    - [[Jerry Michalski]]
+    - [[Flancian]]
 - #push [[fotl threads]]
     - define:
         - [[wiki]] / root URL
