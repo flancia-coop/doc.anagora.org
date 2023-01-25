@@ -74,7 +74,11 @@
         - #pk someone said, on why does a company with a lot of money in the bank need to do layoffs? Mostly to make itself look good to investors in the short term.
             - game theoretic aspects ("everybody else is doing it")
         - #ca hopefully this opens up new space?
-        
+        - Is there a jobs board for entrepreneurs in the knowledge space?
+            - Not that we know of.
+- [[Jerry Michalski]]
+    - on conversation with X (who?)
+    - and the production of the 'wrong' kind of artifact
 - #push [[fotl threads]]
     - define:
         - [[wiki]] / root URL
