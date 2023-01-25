@@ -70,6 +70,9 @@
             - [[Jerry Michalski]] https://bra.in/5vNyXW
             - [[steam pipe]] ~ https://steampipe.io/
     - [[Flancian]]
+        - On layoffs across the industry
+        - #pk someone said, on why does a company with a lot of money in the bank need to do layoffs? Mostly to make itself look good to investors in the short term.
+            - game theoretic aspects ("everybody else is doing it")
 - #push [[fotl threads]]
     - define:
         - [[wiki]] / root URL
