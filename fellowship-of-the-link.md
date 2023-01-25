@@ -87,6 +87,7 @@
         - Science/tech sees automation as a solution, humanities tends to see it as generating problems
         - #ca https://xkcd.com/1205/
         - #jm history has a tendency to lock us into suboptimal but profit-maximizing structures
+- [[hypertalk]] podcast (likely name)
 - #push [[fotl threads]]
     - define:
         - [[wiki]] / root URL
