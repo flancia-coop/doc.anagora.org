@@ -16,6 +16,18 @@
         - [[issue tracker]] / [[project tracker]] URL
             - [[github]] by default?
             
+## 2023-01-25
+- Attending: [[Jerry Michalski]] [[Peter Kaminski]] [[Bentley Davis]] [[Chris Aldrich]] [[Flancian]]
+- Tools for thought call tomorrow with [[marc-antoine parent]].
+- Start recording, we're currently using Jitsi and that works best with a [[Chromium]] based browser.
+- #push [[fotl threads]]
+    - define:
+        - [[wiki]] / root URL
+        - [[calendar]] URL
+        - [[issue tracker]] / [[project tracker]] URL
+            - [[github]] by default?
+ 
+            
 ## 2023-01-18
 - Attending: [[Jerry Michalski]], [[Bentley Davis]], [[Peter Kaminski]], [[Flancian]], [[Aram Zucker-Scharff]]. If Jitsi will behave, [[Chris Aldrich]] will join in a minute or two...
 - Planning for the year
