@@ -88,6 +88,7 @@
         - #ca https://xkcd.com/1205/
         - #jm history has a tendency to lock us into suboptimal but profit-maximizing structures
 - [[hypertalk]] podcast (likely name)
+    - [[flancian]] let's start some pages for possible episodes and bootstrap a wiki-dialogue?
 - #push [[fotl threads]]
     - define:
         - [[wiki]] / root URL
