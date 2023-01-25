@@ -18,7 +18,9 @@
             
 ## 2023-01-25
 - Attending: [[Jerry Michalski]] [[Peter Kaminski]] [[Bentley Davis]] [[Chris Aldrich]] [[Flancian]]
-- Tools for thought call tomorrow with [[marc-antoine parent]].
+- [[Chris Aldrich]] Tools for thought call tomorrow with [[marc-antoine parent]].
+    - Have we invited [[Boris Mann]]?
+    - Good idea!
 - Start recording, we're currently using Jitsi and that works best with a [[Chromium]] based browser.
 - #push [[fotl threads]]
     - define:
