@@ -31,8 +31,15 @@
         - Only tangentially here :)
         - Working on a podcast: [[evidence explores]]
             - On objective truth vs 'just communication'
-        - Flancian: what's a good way to 
+        - [[Flancian]] what's a good way to keep track of your projects?
+            - No centralized place, mostly Twitter/Mastodon.
+            - #jm https://bra.in/7pRnEx
+            - Mostly playing with ideas. https://bentleydavis.com does cover the main goal though.
+        - Chris: Bentley has a numbered list with 'happiness' instead of 'profit' :)
     - [[Chris Aldrich]]
+        - Have been brainstorming on a list of things to mirror Jerry's list.
+        - Reached out to Paul Roney (sp?), starting a discussion related to the [[tools for thought podcast]].
+        - 
     - [[Jerry Michalski]]
     - [[Flancian]]
 - #push [[fotl threads]]
