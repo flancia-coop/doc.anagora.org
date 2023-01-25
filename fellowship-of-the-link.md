@@ -100,6 +100,7 @@
         - #ca one of his favorite things about the [[indieweb]] community is the playfulness of it
             - lots of indieweb features start from "I wish my site could do this"
             - [[indieweb collective]] ~ https://opencollective.com/indieweb
+        - [[SJ]] [[replit]] implemented bounties recently
 - #push [[fotl threads]]
     - define:
         - [[wiki]] / root URL
