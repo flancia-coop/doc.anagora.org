@@ -78,9 +78,14 @@
             - Not that we know of.
 - [[Jerry Michalski]]
     - on conversation with X (who?)
-    - and the production of the 'wrong' kind of artifact
+    - and the production of 'non social' artifacts
     - [[Chris Aldrich]] on empowering students and teachers by democratizing history (paraphrasing)
-    - [[Big History project]]   http://www.bighistoryproject.com/
+    - [[Big History project]] http://www.bighistoryproject.com/
+    - http://en.wikipedia.org/wiki/David_Christian_(historian)
+    - https://bra.in/3jL4kN
+    - [[SJ]] relationship with automation, which introduces a step function component in history
+        - Science/tech sees automation as a solution, humanities tends to see it as generating problems
+        - #ca https://xkcd.com/1205/
 - #push [[fotl threads]]
     - define:
         - [[wiki]] / root URL
