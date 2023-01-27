@@ -4,7 +4,23 @@
 
 We agreed on 2022-01-23 to schedule a maintenance window to test the database restore on Hypha (our new Hetzner server). If all goes well with the restore and testing we may decide to leave it running there.
 
-This checklist was copied from a comment that Akshay p
+This checklist was copied from a comment that Akshay put in a GitCoop [issue](https://git.coop/social.coop/tech/operations/-/issues/65#note_20050).
+
+- [ ] [cloudflare] Reduce TTL for `A` record for `social.coop` to something like 300. 
+- [ ] [runko] Put social.coop in maintenance mode.
+- [ ] [runko] Stop sidekiq and mastodon containers on runko.
+- [ ] [runko] Backup postgresql.
+- [ ] [runko] Backup elasticsearch.
+- [ ] [localhost] Run rhizome playbook from https://git.coop/social.coop/tech/ansible/-/merge_requests/21. (Mastodon will most likely not come up due to DB not having been setup.
+- [ ] [rhizome] explicitly stop mastodon and all sidekiq containers. 
+- [ ] [rhizome] Restore postgresql.
+- [ ] [rhizome] Restore elasticsearch.
+- [ ] [rhizome] Start all containers
+- [ ] [cloudflare] Change `A` record for `social.coop` to point to rhizome, make sure TTL is small to help us revert if needed.
+- [ ] [localhost] See if social.coop works.
+- [ ] [localhost] See if wiki.social.coop works.
+- [ ] [runko] Run certbot commands to revoke the previous certificates.
+- [ ] [hetzner console] Decommission runko.
 
 ## [[2022-01-23]]
 
