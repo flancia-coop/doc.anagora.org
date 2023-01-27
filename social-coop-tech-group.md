@@ -1,3 +1,8 @@
+## [[2022-01-30]]
+- Location: https://meet.mayfirst.org/social-coop-tech
+
+- 
+
 ## [[2022-01-23]]
 
 - Location: https://meet.mayfirst.org/social-coop-tech
