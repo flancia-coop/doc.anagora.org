@@ -2,7 +2,9 @@
 - Location: https://meet.mayfirst.org/social-coop-tech
 - Time: 19:00 - 22:00 UTC
 
-We agreed on 2022-01-23 to schedule a maintenance window to test the database restore on Hypha (our new Hetzner server). If all goes well with the testing we may decide to leave it running there
+We agreed on 2022-01-23 to schedule a maintenance window to test the database restore on Hypha (our new Hetzner server). If all goes well with the restore and testing we may decide to leave it running there.
+
+This checklist was copied from a comment that Akshay p
 
 ## [[2022-01-23]]
 
