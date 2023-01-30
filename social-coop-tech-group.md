@@ -14,11 +14,13 @@ This checklist was copied from a comment that Akshay put in a GitCoop [issue](ht
 
 - [x] [cloudflare] Reduce TTL for `A` record for `social.coop` to something like 300. 
 - [ ] [runko -> rhizome] perform manual copy tasks not covered by ansible 
-    - [ ] /etc/letsencrypt/*
+    - [x] /etc/letsencrypt/*
 - [x] [runko] Put social.coop in maintenance mode.
-- [ ] [runko] Stop sidekiq and mastodon containers on runko.
+- [x] [runko] Stop sidekiq and mastodon containers on runko.
 - [ ] [runko] Backup postgresql.
+    - wiki says `systemctl start pg-dump-to-s3.service`
 - [ ] [runko] Backup elasticsearch.
+- [ ] [runko] Backup redis.
 - [ ] [localhost] Run rhizome playbook from https://git.coop/social.coop/tech/ansible/-/merge_requests/21. (Mastodon will most likely not come up due to DB not having been setup.
 - [ ] [rhizome] explicitly stop mastodon and all sidekiq containers. 
 - [ ] [rhizome] Restore postgresql.
