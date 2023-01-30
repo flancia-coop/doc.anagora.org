@@ -5,6 +5,10 @@
 
 We agreed on 2022-01-23 to schedule a maintenance window to test the database restore on Hypha (our new Hetzner server). If all goes well with the restore and testing we may decide to leave it running there.
 
+- Open questions before we continue?
+    - 
+- Join [[tmate]] for watching: ssh ro-FYFpmrRngRs53tvpxhTbmDf3U@lon1.tmate.io
+
 This checklist was copied from a comment that Akshay put in a GitCoop [issue](https://git.coop/social.coop/tech/operations/-/issues/65#note_20050).
 
 - [x] [cloudflare] Reduce TTL for `A` record for `social.coop` to something like 300. 
