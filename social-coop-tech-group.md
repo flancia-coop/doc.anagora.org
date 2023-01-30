@@ -16,7 +16,7 @@ This checklist was copied from a comment that Akshay put in a GitCoop [issue](ht
 - [ ] [runko -> rhizome] perform manual copy tasks not covered by ansible 
     - [x] /etc/letsencrypt/*
 - [x] [runko] Put social.coop in maintenance mode.
-    - 2023-01-30 19:18 social.coop in maintenance mode
+    - 2023-01-30 19:18 UTC social.coop in maintenance mode
 - [x] [runko] Stop sidekiq and mastodon containers on runko.
 - forking paths :)
     - path 0: full backup and restore
@@ -37,8 +37,9 @@ This checklist was copied from a comment that Akshay put in a GitCoop [issue](ht
     - [ ] [rhizome] Restore elasticsearch.
     - [x] actually did path 1
 - [x] [rhizome] Start all containers
-- [ ] [cloudflare] Change `A` record for `social.coop` to point to rhizome, make sure TTL is small to help us revert if needed.
-- [ ] [localhost] See if social.coop works.
+- [x] [cloudflare] Change `A` record for `social.coop` to point to rhizome, make sure TTL is small to help us revert if needed.
+    - [ ] done at 2023-01-30 21:06 UTC
+- [x] [localhost] See if social.coop works.
 - [ ] [localhost] See if wiki.social.coop works.
 - [ ] [runko] Run certbot commands to revoke the previous certificates.
 - [ ] [hetzner console] Decommission runko.
