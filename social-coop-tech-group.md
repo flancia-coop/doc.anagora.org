@@ -42,8 +42,9 @@ This checklist was copied from a comment that Akshay put in a GitCoop [issue](ht
 - [ ] [runko] Run certbot commands to revoke the previous certificates.
 - [ ] [hetzner console] Decommission runko.
 
-### log
-- 
+## log
+- If postgre
+ 
 ## [[2022-01-23]]
 
 - Location: https://meet.mayfirst.org/social-coop-tech
