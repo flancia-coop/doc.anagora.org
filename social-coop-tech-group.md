@@ -30,11 +30,12 @@ This checklist was copied from a comment that Akshay put in a GitCoop [issue](ht
             - rsync -avh /opt/social.coop/var/ /opt/social.coop/var/
             - rsync -avh /opt/social.coop/sauce/docker/elasticsearch/ /opt/social.coop/var/lib/elasticsearch/
 - [x] commented out sidekiq, web and streaming
-- [ ] [localhost] Run rhizome playbook from https://git.coop/social.coop/tech/ansible/-/merge_requests/21. (Mastodon will most likely not come up due to DB not having been setup.
-- [ ] [rhizome] explicitly stop mastodon and all sidekiq containers. 
+- [x] [localhost] Run rhizome playbook from https://git.coop/social.coop/tech/ansible/-/merge_requests/21. (Mastodon will most likely not come up due to DB not having been setup.
+- [x] [rhizome] explicitly stop mastodon and all sidekiq containers. 
 - if we did path 0:
     - [ ] [rhizome] Restore postgresql.
     - [ ] [rhizome] Restore elasticsearch.
+    - [x] actually did path 1
 - [ ] [rhizome] Start all containers
 - [ ] [cloudflare] Change `A` record for `social.coop` to point to rhizome, make sure TTL is small to help us revert if needed.
 - [ ] [localhost] See if social.coop works.
