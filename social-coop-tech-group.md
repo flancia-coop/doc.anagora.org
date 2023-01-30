@@ -41,7 +41,7 @@ This checklist was copied from a comment that Akshay put in a GitCoop [issue](ht
     - [ ] done at 2023-01-30 21:06 UTC
 - [x] [localhost] See if social.coop works.
 - [x] [localhost] See if wiki.social.coop works.
-- [ ] down runko
+- [x] down runko
 
 Cleanup: 
 - [ ] [runko] Run certbot commands to revoke the previous certificates.
