@@ -45,6 +45,7 @@ Cleanup:
 - [ ] [runko] Run certbot commands to revoke the previous certificates.
 - [ ] check that backups work
 - [ ] [hetzner console] Decommission runko.
+- [ ] remove sauce from git.coop?
 
 ## log
 - If postgre
