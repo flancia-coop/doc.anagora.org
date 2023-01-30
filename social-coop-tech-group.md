@@ -36,7 +36,7 @@ This checklist was copied from a comment that Akshay put in a GitCoop [issue](ht
     - [ ] [rhizome] Restore postgresql.
     - [ ] [rhizome] Restore elasticsearch.
     - [x] actually did path 1
-- [ ] [rhizome] Start all containers
+- [x] [rhizome] Start all containers
 - [ ] [cloudflare] Change `A` record for `social.coop` to point to rhizome, make sure TTL is small to help us revert if needed.
 - [ ] [localhost] See if social.coop works.
 - [ ] [localhost] See if wiki.social.coop works.
