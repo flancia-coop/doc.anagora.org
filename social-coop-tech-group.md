@@ -17,14 +17,20 @@ This checklist was copied from a comment that Akshay put in a GitCoop [issue](ht
     - [x] /etc/letsencrypt/*
 - [x] [runko] Put social.coop in maintenance mode.
 - [x] [runko] Stop sidekiq and mastodon containers on runko.
-- [ ] [runko] Backup postgresql.
-    - wiki says `systemctl start pg-dump-to-s3.service`
-- [ ] [runko] Backup elasticsearch.
-- [ ] [runko] Backup redis.
+- forking paths :)
+    - path 0: full backup and restore
+        - [ ] [runko] Backup postgresql.
+            - wiki says `systemctl start pg-dump-to-s3.service`
+        - [ ] [runko] Backup elasticsearch.
+        - [ ] [runko] Backup redis.
+    - path 1: down services and try rsyncing everything
+        - [ ] down services
+        - [ ] rsync everything :)
 - [ ] [localhost] Run rhizome playbook from https://git.coop/social.coop/tech/ansible/-/merge_requests/21. (Mastodon will most likely not come up due to DB not having been setup.
 - [ ] [rhizome] explicitly stop mastodon and all sidekiq containers. 
-- [ ] [rhizome] Restore postgresql.
-- [ ] [rhizome] Restore elasticsearch.
+- if we did path 0:
+    - [ ] [rhizome] Restore postgresql.
+    - [ ] [rhizome] Restore elasticsearch.
 - [ ] [rhizome] Start all containers
 - [ ] [cloudflare] Change `A` record for `social.coop` to point to rhizome, make sure TTL is small to help us revert if needed.
 - [ ] [localhost] See if social.coop works.
