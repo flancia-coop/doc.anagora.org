@@ -40,7 +40,7 @@ This checklist was copied from a comment that Akshay put in a GitCoop [issue](ht
 - [x] [cloudflare] Change `A` record for `social.coop` to point to rhizome, make sure TTL is small to help us revert if needed.
     - [ ] done at 2023-01-30 21:06 UTC
 - [x] [localhost] See if social.coop works.
-- [ ] [localhost] See if wiki.social.coop works.
+- [x] [localhost] See if wiki.social.coop works.
 - [ ] [runko] Run certbot commands to revoke the previous certificates.
 - [ ] [hetzner console] Decommission runko.
 
