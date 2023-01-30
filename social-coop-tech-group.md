@@ -15,7 +15,7 @@ This checklist was copied from a comment that Akshay put in a GitCoop [issue](ht
 - [x] [cloudflare] Reduce TTL for `A` record for `social.coop` to something like 300. 
 - [ ] [runko -> rhizome] perform manual copy tasks not covered by ansible 
     - [ ] /etc/letsencrypt/*
-- [ ] [runko] Put social.coop in maintenance mode.
+- [x] [runko] Put social.coop in maintenance mode.
 - [ ] [runko] Stop sidekiq and mastodon containers on runko.
 - [ ] [runko] Backup postgresql.
 - [ ] [runko] Backup elasticsearch.
@@ -30,6 +30,9 @@ This checklist was copied from a comment that Akshay put in a GitCoop [issue](ht
 - [ ] [runko] Run certbot commands to revoke the previous certificates.
 - [ ] [hetzner console] Decommission runko.
 
+### log
+- 2023-01-30 19:18 social.coop in maintenance mode
+- 
 ## [[2022-01-23]]
 
 - Location: https://meet.mayfirst.org/social-coop-tech
