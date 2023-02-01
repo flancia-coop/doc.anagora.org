@@ -67,6 +67,7 @@
     - Deep Linking - https://linkingmanifesto.org/ 
             - 
 - [[Tools for Thinking Map Project]] phase 1 presentation (Pete, Mathew, Bill)
+    - https://tftmap.massive.wiki/
 
 
 ## 2023-01-25
@@ -77,7 +78,7 @@
 - Start recording, we're currently using Jitsi and that works best with a [[Chromium]] based browser.
 - [[Check ins]]
     - [[Peter Kaminski]]
-        - Update on [[tools for thinking map project]].
+        - Update on [[tools for thinking]].
         - First deliverable: getting a website up.
         - Had lots of fun using [[massive wiki]] to set this up, which resulted in feature requests (?).
     - [[Bentley Davis]]
