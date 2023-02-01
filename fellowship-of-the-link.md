@@ -42,8 +42,13 @@
         - Example: https://context.center/topics/indie-search/
         - #pk [[factr]] seems related - https://factr.com/
     - [[Flancian]] would like to discuss [[Interwiki]] links
-        - #pk [[free jerry's brain]] conversation yesterday; [[marc-antoine parent]] has [[hyperknowledge]] and thinks 
+        - #pk [[free jerry's brain]] conversation yesterday 
+            - [[marc-antoine parent]] has [[hyperknowledge]] and thinks we need to add a few things to have true interop between tools
+                - [[concept broker]]
+                - [[nesting]], which means that you need a recursive scheme
+                    - [[markdown]] is bad at this
         - on [[sharing hub]] approach
+            - #ca [[sister sites]] - 
 - [[Tools for Thinking Map Project]] phase 1 presentation (Pete, Mathew, Bill)
 
 
