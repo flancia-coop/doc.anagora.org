@@ -4,8 +4,6 @@
     - #go https://meet.jit.si/fellowship-of-the-link
     - Wednesdays at [[6PM UTC]].
 - Notes are all in this stoa; older notes that were in [[fotl]] are also now here for convenience (they had only been moved out because of a length restriction in [[HedgeDoc]] I've since lifted.)
-    
-
 - Attending: [[x]]
 - Start recording, we're currently using Jitsi and that works best with a [[Chromium]] based browser.
 - #push [[fotl threads]]
@@ -25,9 +23,10 @@
     - [[Cal Waytena]] Student (sculpture and something else). Doing an independent master on [[futurology]].
     - [[Bill Anderson]] Retired. Studied chemistry, worked as computer programmer in Xerox and Cornell. Did user centric design development (PARC). Worked on co-data (sp?) in the Balkan countries. Have known Jerry for a long time. Interested in [[Massive Wiki]] and how to integrate information in general. Strong opinions but happy to see them challenged! Trying to *unlearn* some things.
     - [[Chris Aldrich]] (Peter Sellers reference) recovering biomedical and electrical engineer who plays around in the sensemaking and thinking space. Independent research, in Indieweb. Not a lot he's not interested in :)
-    - [[Flancian]] - integrating information across walled gardens; [[Agora]], as much as we can with simple tools; writes fiction.
-    - [[Mathew Lowry]] Based in Brussels, into online communities and knowledge management. Inte
-- bring in any #pushed threads from above?
+    - [[Flancian]] (Eduardo) - integrating information across walled gardens; [[Agora]], as much as we can with simple tools; writes fiction.
+    - [[Mathew Lowry]] Based in Brussels, into online communities and knowledge management. Interested in decentralized collective intelligence.
+    - [[Peter Kaminski]] help people work together with IT tools and human process. Entrepreneur and independent consultant. [[Massive Wiki]] is one of his main projects, which has a lot of similarities with [[Agora]] (compatible approaches!). Working on a [[Massive Wiki]] for the [[tools for thought space]].
+- Bring in any #pushed threads from above?
 - [[Tools for Thinking Map Project]] phase 1 presentation (Pete, Mathew, Bill)
 
 ## 2023-01-25
