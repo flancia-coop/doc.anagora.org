@@ -25,7 +25,8 @@
     - [[Cal Waytena]] Student (sculpture and something else). Doing an independent master on [[futurology]].
     - [[Bill Anderson]] Retired. Studied chemistry, worked as computer programmer in Xerox and Cornell. Did user centric design development (PARC). Worked on co-data (sp?) in the Balkan countries. Have known Jerry for a long time. Interested in [[Massive Wiki]] and how to integrate information in general. Strong opinions but happy to see them challenged! Trying to *unlearn* some things.
     - [[Chris Aldrich]] (Peter Sellers reference) recovering biomedical and electrical engineer who plays around in the sensemaking and thinking space. Independent research, in Indieweb. Not a lot he's not interested in :)
-    - [[Flancian]]
+    - [[Flancian]] - integrating information across walled gardens; [[Agora]], as much as we can with simple tools; writes fiction.
+    - [[Mathew Lowry]] Based in Brussels, into online communities and knowledge management. Inte
 - bring in any #pushed threads from above?
 - [[Tools for Thinking Map Project]] phase 1 presentation (Pete, Mathew, Bill)
 
