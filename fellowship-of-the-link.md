@@ -36,12 +36,12 @@
         - https://fed.brid.gy/ 
         - Could be a good complement to both [[massive wiki]] and [[agora]] as they're both strongly markdown based.
         - #pk certainly interested :)
-        - #ml too, for myhub.ai
+        - #ml too, for myhub.ai, which is all about collecting and sharing cards
         - [[flancian]] +1
         - #pk it'd be nice to have a link that is at least "bimodal" -- the target could be local or archive.org
         - Example: https://context.center/topics/indie-search/
         - #pk [[factr]] seems related - https://factr.com/
-    - [[Flancian]] would like to discuss [[Interwiki]] links and [[resolution protocols]]
+    - [[Flancian]] would like to discuss [[Interwiki]] links and the [[common hub]] approach
         - #pk [[free jerry's brain]] conversation yesterday 
             - [[marc-antoine parent]] has [[hyperknowledge]] and thinks we need to add a few things to have true interop between tools
                 - [[concept broker]]
@@ -53,6 +53,8 @@
                 - possible approach: search service / entity resolution extension that lets you search in a number of 'resolution roots' 
                     - Example Swift Extension search as Firefox extension: https://github.com/CanisLupus/swift-selection-search
                 - [[flancian]] [[agora ext]] tries to do this 
+                - [[aram zucker]] on tools for search of static sites possibly providing search easily for many different sources of truth
+                - [[bill anderson]] massive wiki uses [[lunr]]
 - [[Tools for Thinking Map Project]] phase 1 presentation (Pete, Mathew, Bill)
 
 
