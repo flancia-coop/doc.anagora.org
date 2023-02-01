@@ -23,7 +23,7 @@
         - SenseDoing chat: <https://chat.collectivesensecommons.org/agora/channels/ogm-sensedoing>
     - [[Cal Waytena]] Student (sculpture and something else). Doing an independent master on [[futurology]].
     - [[Bill Anderson]] Retired. Studied chemistry, worked as computer programmer in Xerox and Cornell. Did user centric design development (PARC). Worked on co-data (sp?) in the Balkan countries. Have known Jerry for a long time. Interested in [[Massive Wiki]] and how to integrate information in general. Strong opinions but happy to see them challenged! Trying to *unlearn* some things.
-    - [[Chris Aldrich]] (Peter Sellers reference: [Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch](https://www.youtube.com/watch?v=O5og5Srnzp4)) recovering biomedical and electrical engineer who plays around in the sensemaking and thinking space. Independent researcher; in Indieweb. Not a lot he's not interested in :)
+    - [[Chris Aldrich]] ([[Peter Sellers reference: [Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch](https://www.youtube.com/watch?v=O5og5Srnzp4)) recovering biomedical and electrical engineer who plays around in the sensemaking and thinking space. Independent researcher; in Indieweb. Not a lot he's not interested in :)
     - [[Flancian]] (Eduardo) - integrating information across walled gardens; [[Agora]], as much as we can with simple tools; writes fiction.
     - [[Mathew Lowry]] Based in Brussels, into online communities and knowledge management. Interested in decentralized collective intelligence.
     - [[Peter Kaminski]] help people work together with IT tools and human process. Entrepreneur and independent consultant. [[Massive Wiki]] is one of his main projects, which has a lot of similarities with [[Agora]] (compatible approaches!). Working on a [[Massive Wiki]] for the [[tools for thought space]].
@@ -32,7 +32,11 @@
     - Common projects.
     - Maybe let's think about a few things we would like to do together this year, add them to the agenda or to some note in your digital garden and let's discuss next time?
     - [[Aram Zucker-Scharff]] would like to generalize the archiving tool / link card generator he's been working on.
-        - This takes a line in a Markdown file with a link; this retrieves that link and archives a simple text version locally. Attempts to archive on archive.org. Generates a [[social card]] that is currently usually generated using close
+        - This takes a line in e.g. a Markdown file with a link; this retrieves that link and archives a simple text version locally. Attempts to archive on archive.org. Generates a [[social card]] that is currently usually generated using a third party API.
+        - https://fed.brid.gy/ 
+        - Could be a good complement to both [[massive wiki]] and [[agora]] as they're both strongly markdown based.
+        - #pk certainly interested :)
+        - #ml too, for myhub.ai
 - [[Tools for Thinking Map Project]] phase 1 presentation (Pete, Mathew, Bill)
 
 
