@@ -68,6 +68,7 @@
             - 
 - [[Tools for Thinking Map Project]] phase 1 presentation (Pete, Mathew, Bill)
     - https://tftmap.massive.wiki/
+    - Contribute right now by forking and sending a PR 
 
 
 ## 2023-01-25
