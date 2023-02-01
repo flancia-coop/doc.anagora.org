@@ -47,8 +47,9 @@
                 - [[concept broker]]
                 - [[nesting]], which means that you need a recursive scheme
                     - [[markdown]] is bad at this
+                    - [[maparent]] likes off-band, like [[atjson]]
         - on [[sharing hub]] approach
-            - #ca [[sister sites]] - 
+            - #ca [[sister sites]] - http://webseitz.fluxent.com/wiki/SisterSites
 - [[Tools for Thinking Map Project]] phase 1 presentation (Pete, Mathew, Bill)
 
 
