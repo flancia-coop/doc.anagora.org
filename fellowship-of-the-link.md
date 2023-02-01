@@ -40,12 +40,11 @@
         - [[flancian]] +1
         - #pk it'd be nice to have a link that is at least "bimodal" -- the target could be local or archive.org
         - Example: https://context.center/topics/indie-search/
-        - #pk [[factr]] seems related
-    - 
+        - #pk [[factr]] seems related - https://factr.com/
+    - [[Flancian]] would like to discuss [[Interwiki]] links
+        - #pk [[free jerry's brain]] conversation yesterday; [[marc-antoine parent]] has [[hyperknowledge]] and thinks 
+        - on [[sharing hub]] approach
 - [[Tools for Thinking Map Project]] phase 1 presentation (Pete, Mathew, Bill)
-
-
-
 
 
 ## 2023-01-25
