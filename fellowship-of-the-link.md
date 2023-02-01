@@ -15,6 +15,10 @@
         - [[calendar]] URL
         - [[issue tracker]] / [[project tracker]] URL
             - [[github]] by default?
+
+## 2023-02-01
+
+- 
             
 ## 2023-01-25
 - Attending: [[Jerry Michalski]] [[Peter Kaminski]] [[Bentley Davis]] [[Chris Aldrich]] [[Flancian]] [[SJ]]
