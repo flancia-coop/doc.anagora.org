@@ -21,7 +21,7 @@
 - Attending: [[x]]
 - Start recording, we're currently using Jitsi and that works best with a [[Chromium]] based browser.
 - bring in any #pushed threads from above?
-- [[Tools for Thinking Map Project]]
+- [[Tools for Thinking Map Project]] phase 1 presentation (Pete, Mathew, Bill)
 
 ## 2023-01-25
 - Attending: [[Jerry Michalski]] [[Peter Kaminski]] [[Bentley Davis]] [[Chris Aldrich]] [[Flancian]] [[SJ]]
