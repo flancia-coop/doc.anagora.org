@@ -5,7 +5,6 @@
     - Wednesdays at [[6PM UTC]].
 - Notes are all in this stoa; older notes that were in [[fotl]] are also now here for convenience (they had only been moved out because of a length restriction in [[HedgeDoc]] I've since lifted.)
     
-## Agenda
 
 - Attending: [[x]]
 - Start recording, we're currently using Jitsi and that works best with a [[Chromium]] based browser.
@@ -18,7 +17,7 @@
 
 ## 2023-02-01
 
-- Attending: [[x]]
+- Attending: [[Peter Kaminski]] [[Mathew Lowry]] [[Chris Aldrich]] [[Aram Zucker]] [[Bentley Davis]] [[Mathew Lowry]]
 - Start recording, we're currently using Jitsi and that works best with a [[Chromium]] based browser.
 - bring in any #pushed threads from above?
 - [[Tools for Thinking Map Project]] phase 1 presentation (Pete, Mathew, Bill)
