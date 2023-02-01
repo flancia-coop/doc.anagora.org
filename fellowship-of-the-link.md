@@ -17,8 +17,12 @@
 
 ## 2023-02-01
 
-- Attending: [[Peter Kaminski]] [[Mathew Lowry]] [[Chris Aldrich]] [[Aram Zucker]] [[Bentley Davis]] [[Mathew Lowry]]
+- Attending: [[Peter Kaminski]] [[Mathew Lowry]] [[Chris Aldrich]] [[Aram Zucker-Scharff]] [[Bentley Davis]] [[Mathew Lowry]] [[Bill Anderson]]
 - Start recording, we're currently using Jitsi and that works best with a [[Chromium]] based browser.
+- Checkins / intros
+    - [[Aram Zucker-Scharff]] lead privacy engineer for the [[washington post]], do lots of things with statically generated websites. Worked in academia on archiving as well.
+    - [[Bentley Davis]] software developer for 30y+, here helping out Jerry with his brain. Working on decision making and debate software. [[Open Global Mind]] is working on a [[sense doing]] making session.
+    - [[Cal Waytena]] 
 - bring in any #pushed threads from above?
 - [[Tools for Thinking Map Project]] phase 1 presentation (Pete, Mathew, Bill)
 
