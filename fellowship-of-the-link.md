@@ -7,8 +7,8 @@
 - Attending: [[x]]
 - Start recording, we're currently using Jitsi and that works best with a [[Chromium]] based browser.
 - Threads from last time we would like to pick up:
-    - 
     - [[Aram Zucker-Scharff]] would like to generalize the archiving tool / link card generator he's been working on.
+    - [[Flancian]] would like to discuss [[Interwiki]] links and the [[common hub]] approach for search and entity resolution
 - #push [[fotl threads]]
     - define:
         - [[wiki]] / root URL
@@ -64,6 +64,8 @@
                     - https://pagefind.app/
                     - https://lunrjs.com/
                 - [[bill anderson]] massive wiki uses [[lunr]]
+    - Deep Linking - https://linkingmanifesto.org/ 
+            - 
 - [[Tools for Thinking Map Project]] phase 1 presentation (Pete, Mathew, Bill)
 
 
