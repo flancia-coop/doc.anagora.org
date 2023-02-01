@@ -22,7 +22,8 @@
 - Checkins / intros
     - [[Aram Zucker-Scharff]] lead privacy engineer for the [[washington post]], do lots of things with statically generated websites. Worked in academia on archiving as well.
     - [[Bentley Davis]] software developer for 30y+, here helping out Jerry with his brain. Working on decision making and debate software. [[Open Global Mind]] is working on a [[sense doing]] making session.
-    - [[Cal Waytena]] 
+    - [[Cal Waytena]] Student (sculpture and something else). Doing an independent master on [[futurology]].
+    - [[Bill Anderson]] Retired. Studied chemistry, worked as computer programmer in Xerox and Cornell. Did user centric design development (PARC). Worked on co-data (sp?) in the Balkan countries. Have known Jerry for a long time. Interested in [[Massive Wiki]]
 - bring in any #pushed threads from above?
 - [[Tools for Thinking Map Project]] phase 1 presentation (Pete, Mathew, Bill)
 
