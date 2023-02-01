@@ -18,8 +18,11 @@
 
 ## 2023-02-01
 
-- 
-            
+- Attending: [[x]]
+- Start recording, we're currently using Jitsi and that works best with a [[Chromium]] based browser.
+- bring in any #pushed threads from above?
+- [[Tools for Thinking Map Project]]
+
 ## 2023-01-25
 - Attending: [[Jerry Michalski]] [[Peter Kaminski]] [[Bentley Davis]] [[Chris Aldrich]] [[Flancian]] [[SJ]]
 - [[Chris Aldrich]] Tools for thought call tomorrow with [[Mark Bernstein]] of Eastgate Systems, Inc. at https://lu.ma/2u5f7ky0
