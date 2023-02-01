@@ -6,6 +6,9 @@
 - Notes are all in this stoa; older notes that were in [[fotl]] are also now here for convenience (they had only been moved out because of a length restriction in [[HedgeDoc]] I've since lifted.)
 - Attending: [[x]]
 - Start recording, we're currently using Jitsi and that works best with a [[Chromium]] based browser.
+- Threads from last time we would like to pick up:
+    - 
+    - [[Aram Zucker-Scharff]] would like to generalize the archiving tool / link card generator he's been working on.
 - #push [[fotl threads]]
     - define:
         - [[wiki]] / root URL
@@ -51,9 +54,15 @@
         - on [[sharing hub]] approach
             - #ca [[sister sites]] - http://webseitz.fluxent.com/wiki/SisterSites
                 - possible approach: search service / entity resolution extension that lets you search in a number of 'resolution roots' 
+                - http://meatballwiki.org/wiki/SisterSite
+                - https://oddmuse.org/wiki/Sister_Pages
+ 
                     - Example Swift Extension search as Firefox extension: https://github.com/CanisLupus/swift-selection-search
                 - [[flancian]] [[agora ext]] tries to do this 
-                - [[aram zucker]] on tools for search of static sites possibly providing search easily for many different sources of truth
+                - [[aram zucker-scharff]] on tools for search of static sites possibly providing search easily for many different sources of truth
+                    - http://elasticlunr.com/
+                    - https://pagefind.app/
+                    - https://lunrjs.com/
                 - [[bill anderson]] massive wiki uses [[lunr]]
 - [[Tools for Thinking Map Project]] phase 1 presentation (Pete, Mathew, Bill)
 
