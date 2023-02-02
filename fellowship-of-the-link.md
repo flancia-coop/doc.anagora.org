@@ -69,7 +69,116 @@
 - [[Tools for Thinking Map Project]] phase 1 presentation (Pete, Mathew, Bill)
     - https://tftmap.massive.wiki/
     - Contribute right now by forking and sending a PR 
+- [[jitsi chat]]
 
+Flancian (paramita) says:
+I don't have audio it seems 
+
+Flancian (paramita) says:
+one mint 
+
+Flancian (paramita) says:
+*minute 
+
+Aram Zucker-Scharff says:
+https://context.center/topics/indie-search/
+ 
+BentleyDavis.com says:
+I will drop off at the top of the hour. 
+
+Cal Waytena says:
+" 
+
+Chris Aldrich says:
+sort of related to the idea of sister sites: 
+http://webseitz.fluxent.com/wiki/SisterSites
+
+Flancian (paramita) says:
+[[atjson]] comes from conde nast 
+
+Peter Kaminski says:
+https://wiki.c2.com/?SisterSites
+ 
+Peter Kaminski says:
+@Flancian, exactly right, [[atjson]]. 
+
+Flancian (paramita) says:
+that's from [[blaine]] 
+
+Peter Kaminski says:
+http://meatballwiki.org/wiki/SisterSite
+ 
+Peter Kaminski says:
+https://oddmuse.org/wiki/Sister_Pages
+
+Flancian (paramita) says:
+[[agora ext]] tries to offer the 'resolve this entity elsewhere' service, but it's currently broken I think 😃 
+
+Bill Anderson says:
+massive wiki uses lunr 
+
+Aram Zucker-Scharff says:
+This is the other one I looked at - 
+https://pagefind.app/
+ 
+
+Bill Anderson says:
+search - it's a people sorter 
+
+Chris Aldrich says:
+There's also a move to do deep links into applications that are non-web based recently: 
+https://linkingmanifesto.org/
+
+Aram Zucker-Scharff says:
+I am sort of split on deep links b/c I dislike apps conceptually but I'll check that out 
+
+Flancian (paramita) says:
+I need to drop as my guest has arrived, but I will watch the recording 😃 thank you all! have a great one 😃 
+
+Peter Kaminski says:
+@Aram, the other static search library on our queue to look at: 
+https://stork-search.net/
+ 
+Chris Aldrich says:
+This site, btw: 
+https://tftmap.massive.wiki/
+ 
+Chris Aldrich says:
+hermeneutic cycle! 
+
+Peter Kaminski says:
+thx Chris 😃 
+
+Aram Zucker-Scharff says:
+Ooo I'll check that stork search out as well 
+
+Peter Kaminski says:
+it looks nice and modern 😃 
+
+Aram Zucker-Scharff says:
+I've gotta drop right now, but pleasure talking to you all! 
+
+Chris Aldrich says:
+Bentley, I've seen you with pen and paper before... those should count! 
+
+Chris Aldrich says:
+The best tool is the one you've got with you.... 
+
+Mathew Lowry
+Mathew Lowry says:
+😄 
+
+Cal Waytena says:
+Ive got to run to class, thanks for sharing this with me! 
+
+Mathew Lowry says:
+Thx 4 dropping by Cal 
+
+Bill Anderson says:
+we are trying to lower the bars for massive wiki and for sharing via git 
+
+Mathew Lowry says:
+"A more complete user manual is available on the Massive Wiki site..."  😄 
 
 ## 2023-01-25
 - Attending: [[Jerry Michalski]] [[Peter Kaminski]] [[Bentley Davis]] [[Chris Aldrich]] [[Flancian]] [[SJ]]
