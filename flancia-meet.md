@@ -52,7 +52,8 @@
                 - Folder in computer: [[escapism]].
                 - Played [[celeste]] and it sparks something in him.
                     - https://store.steampowered.com/app/504230/Celeste/
-                - Also 3ds: [[fire emblem]], [[pokemon moon]], [[ocarina of time]].
+                - Also 3ds: [[fire emblem]], [[pokemon moon]], [[ocarina of time]] (remaster), [[mr dungeon]] (roguelike).
+            - Procedurally generated, open world vs linear story
 
 # [[flancia meet 2023-01-07]]
 - Attending: [[bouncepaw]] [[flancian]] [[j0lms]]
