@@ -85,6 +85,9 @@
                 - could use microformats to understand where everything is
                 - [[agora.yaml]] could be a manifest
             - [[block protocol]]? https://blockprotocol.org
+        - [[mastodon]]
+            - on the signup experience
+                - [[mastodon a]]
 
 # [[flancia meet 2023-01-07]]
 - Attending: [[bouncepaw]] [[flancian]] [[j0lms]]
