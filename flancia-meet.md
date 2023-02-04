@@ -46,6 +46,8 @@
                     - -> [[Strugatsky brothers]]
                         - [[Monday Starts on Saturday]]
                     - [[j0lms]] got to Stalker via the game, came from [[counter strike]]
+                    - Gaming.
+                    - Flancian: loved adventure games in the 1990s, and [[simcity]]. Then got back into gaming with Half Life and Half Life 2.
 
 # [[flancia meet 2023-01-07]]
 - Attending: [[bouncepaw]] [[flancian]] [[j0lms]]
