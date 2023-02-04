@@ -14,6 +14,9 @@
         - Maybe also the focus?
 - How we use our time / why we stay up :)
     - Mobile devices and snapping out of them
+    - Replacement therapy?
+        - Keep books around the bed
+        - Read books before sleeping
 
 # [[flancia meet 2023-01-07]]
 - Attending: [[bouncepaw]] [[flancian]] [[j0lms]]
