@@ -70,7 +70,15 @@
                 - Can we build [[mycoverse]] on top of [[indieweb]], developing new microformats
             - #push [[do]]
                 - [[Timur]] believes we should add [[microformats]] to [[agora]]
-                    - [[h-entry]]
+                    - [[h-entry]] for chronological content
+        - [[agora 2023]]
+            - more formats
+            - more sources
+                - not only pulling from git
+                - could use microformats to understand where everything is
+                - [[agora.yaml]] could be a manifest
+
+
 # [[flancia meet 2023-01-07]]
 - Attending: [[bouncepaw]] [[flancian]] [[j0lms]]
 - USB Type-C compabitibility
