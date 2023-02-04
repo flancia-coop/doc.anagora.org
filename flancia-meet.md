@@ -8,8 +8,10 @@
 - Tea and coffee.
     - [[Chamomile]] ~ [[manzanilla]]
     - [[Caffeine]] effect on body
-    - Insomnia or not
-    - Trouble with sleeping as endemic
+    - Insomnia dangers
+    - Trouble with sleeping as endemic?
+        - One factor is likely the extra exposure to light due to computers and devices around
+        - Maybe also the focus?
 
 # [[flancia meet 2023-01-07]]
 - Attending: [[bouncepaw]] [[flancian]] [[j0lms]]
