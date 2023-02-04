@@ -68,7 +68,9 @@
                 - [[Betula]] produces [[indieweb microformats]]
                 - Took 20 minutes to add! And now potentially thousands of people can reblog
                 - Can we build [[mycoverse]] on top of [[indieweb]], developing new microformats
-
+            - #push [[do]]
+                - [[Timur]] believes we should add [[microformats]] to [[agora]]
+                    - [[h-entry]]
 # [[flancia meet 2023-01-07]]
 - Attending: [[bouncepaw]] [[flancian]] [[j0lms]]
 - USB Type-C compabitibility
