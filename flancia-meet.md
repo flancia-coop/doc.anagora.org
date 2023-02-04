@@ -71,6 +71,7 @@
             - #push [[do]]
                 - [[Timur]] believes we should add [[microformats]] to [[agora]]
                     - [[h-entry]] for chronological content
+                    - [[h-feed]] is a collection of [[h entries]]
         - [[agora 2023]]
             - more formats
                 - [[mycomarkup]]
