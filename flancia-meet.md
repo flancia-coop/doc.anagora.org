@@ -62,6 +62,12 @@
             - [[betula]] website uses wikilinks, but is no wiki: https://betula.mycorrhiza.wiki
         - What is massive about [[massive wiki]]? It's its massive intentions!
         - What do we think about the [[indieweb]]?
+            - It's cool and large
+            - "Own your identity" is important, but...
+            - [[Timur]] likes its [[micro formats]] and [[inter site communication]]
+                - [[Betula]] produces [[indieweb microformats]]
+                - Took 20 minutes to add! And now potentially thousands of people can reblog
+                - Can we build [[mycoverse]] on top of [[indieweb]], developing new microformats
 
 # [[flancia meet 2023-01-07]]
 - Attending: [[bouncepaw]] [[flancian]] [[j0lms]]
