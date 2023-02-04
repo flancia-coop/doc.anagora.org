@@ -25,6 +25,7 @@
             - [[Flancian]] Got reminded of [[Seven Days in new Crete]] by [[Robert Graves]]
                 - First published in 1949!
             - [[j0lms]] saw it in a list together with other classics like [[a canticle for leibowitz]]
+            - [[Flancian]] read [[Steppenwolf]] in his grandfather's library
 
 # [[flancia meet 2023-01-07]]
 - Attending: [[bouncepaw]] [[flancian]] [[j0lms]]
