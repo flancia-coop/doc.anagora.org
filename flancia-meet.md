@@ -48,6 +48,10 @@
                     - [[j0lms]] got to Stalker via the game, came from [[counter strike]]
                     - Gaming.
                     - Flancian: loved adventure games in the 1990s, and [[simcity]]. Then got back into gaming with Half Life and Half Life 2.
+            - Timur was an avid [[nintendo 3ds]] player. Now playing [[minecraft]].
+                - Folder in computer: [[escapism]].
+                - Played [[celeste]] and it sparks something in him.
+                    - https://store.steampowered.com/app/504230/Celeste/
 
 # [[flancia meet 2023-01-07]]
 - Attending: [[bouncepaw]] [[flancian]] [[j0lms]]
