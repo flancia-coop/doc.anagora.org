@@ -17,6 +17,10 @@
     - Replacement therapy?
         - Keep books around the bed
         - Read books before sleeping
+        - Buddhism -> Siddharta
+        - #push [[Hermann Hesse]] [[The Glass Bead Game]]
+            - https://en.wikipedia.org/wiki/The_Glass_Bead_Game
+            - The ultimate game, art, science
 
 # [[flancia meet 2023-01-07]]
 - Attending: [[bouncepaw]] [[flancian]] [[j0lms]]
