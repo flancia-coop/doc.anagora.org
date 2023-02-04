@@ -56,6 +56,8 @@
                 - Also 3ds: [[fire emblem]], [[pokemon moon]], [[ocarina of time]] (remaster), [[mystery dungeon]] (roguelike).
             - Procedurally generated, open world vs linear story
             - [[Cyber cafes]] in the 00s
+        - [[FOTL]] and [[interwiki links]]
+            - Because URLs exist already and they work, we need to justify the addition of interwiki links
 
 # [[flancia meet 2023-01-07]]
 - Attending: [[bouncepaw]] [[flancian]] [[j0lms]]
