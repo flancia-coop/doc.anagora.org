@@ -12,6 +12,8 @@
     - Trouble with sleeping as endemic?
         - One factor is likely the extra exposure to light due to computers and devices around
         - Maybe also the focus?
+- How we use our time / why we stay up :)
+    - Mobile devices and snapping out of them
 
 # [[flancia meet 2023-01-07]]
 - Attending: [[bouncepaw]] [[flancian]] [[j0lms]]
