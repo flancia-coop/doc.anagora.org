@@ -94,7 +94,7 @@
                 - discovery is hard
                 - the maybe over-stressing of mastodon in everything mastodon related w.r.t. the wider [[fediverse]]
                 - we want [[pluralism]], but [[mastodon]] is a bit of a monoculture currently?
-        - [[betula]] releas
+        - [[betula]] release announcement
 
 # [[flancia meet 2023-01-07]]
 - Attending: [[bouncepaw]] [[flancian]] [[j0lms]]
