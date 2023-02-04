@@ -33,6 +33,7 @@
                 - Long descriptions of his falling apart
             - [[Crime and Punishment]]
             - [[The Work of Art in the Age of Mechanical Reproduction]] by [[Walter Benjamin]]
+            - Timur is 19 (!)
         - On rereading books and essays you've read a long time ago
 
 # [[flancia meet 2023-01-07]]
