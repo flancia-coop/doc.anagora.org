@@ -47,12 +47,13 @@
                         - [[Monday Starts on Saturday]]
                     - [[j0lms]] got to Stalker via the game, came from [[counter strike]]
                     - Gaming.
-                    - Flancian: loved adventure games in the 1990s, and [[simcity]]. Then got back into gaming with Half Life and Half Life 2.
-            - Timur was an avid [[nintendo 3ds]] player. Now playing [[minecraft]].
+                    - Flancian: loved adventure games in the 1990s, and [[simcity]]. Then got back into gaming with [[Half Life]] and Half Life 2.
+            - Timur was an avid [[nintendo 3ds]] player. Now playing [[minecraft]] with his friend.
+                - Doesn't like shooting games much, except for [[Portal]]!
                 - Folder in computer: [[escapism]].
                 - Played [[celeste]] and it sparks something in him.
                     - https://store.steampowered.com/app/504230/Celeste/
-                - Also 3ds: [[fire emblem]], [[pokemon moon]], [[ocarina of time]] (remaster), [[mr dungeon]] (roguelike).
+                - Also 3ds: [[fire emblem]], [[pokemon moon]], [[ocarina of time]] (remaster), [[mystery dungeon]] (roguelike).
             - Procedurally generated, open world vs linear story
 
 # [[flancia meet 2023-01-07]]
