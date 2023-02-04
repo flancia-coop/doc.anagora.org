@@ -7,6 +7,9 @@
 - New official pronunciation of j0lms: Holmes, like Sherlock Holmes.
 - Tea and coffee.
     - [[Chamomile]] ~ [[manzanilla]]
+    - [[Caffeine]] effect on body
+    - Insomnia or not
+    - Trouble with sleeping as endemic
 
 # [[flancia meet 2023-01-07]]
 - Attending: [[bouncepaw]] [[flancian]] [[j0lms]]
