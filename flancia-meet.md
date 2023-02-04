@@ -41,6 +41,8 @@
             - Lying about your age to participate.
         - [[missed connections]]
             - Could we rebuild the social networks that we had and lost by creating a service that lets you find people from long gone networks?
+            - [[Nostalghia]] https://anagora.org/nostalghia
+            - [[Strugatsky brothers]]
 
 # [[flancia meet 2023-01-07]]
 - Attending: [[bouncepaw]] [[flancian]] [[j0lms]]
