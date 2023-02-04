@@ -92,6 +92,7 @@
                 - it's very much not about the wider fediverse
             - engagement and discoverability
                 - discovery is hard
+                - the maybe over-stressing of mastodon in everything mastodon related w.r.t. the wider [[fediverse]]
 
 # [[flancia meet 2023-01-07]]
 - Attending: [[bouncepaw]] [[flancian]] [[j0lms]]
