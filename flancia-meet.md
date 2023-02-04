@@ -58,6 +58,8 @@
             - [[Cyber cafes]] in the 00s
         - [[FOTL]] and [[interwiki links]]
             - Because URLs exist already and they work, we need to justify the addition of interwiki links
+        - [[wikilinks]] do not make wikis.
+            - [[betula]] website 
 
 # [[flancia meet 2023-01-07]]
 - Attending: [[bouncepaw]] [[flancian]] [[j0lms]]
