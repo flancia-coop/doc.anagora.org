@@ -74,6 +74,8 @@
         - [[agora 2023]]
             - more formats
                 - [[mycomarkup]]
+                    - unlike [[markdown]], it is developed by basically one person
+                        - [[markdown]] is an [[anarchist]] [[markup language]]
                 - [[argdown]]
                 - [[gemtext]]
             - more sources
