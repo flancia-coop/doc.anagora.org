@@ -78,11 +78,12 @@
                         - [[markdown]] is an [[anarchist]] [[markup language]]
                 - [[argdown]]
                 - [[gemtext]]
+                - maybe [[html]] as the intermediate format that [[agora bridge]] produces when it detects that a consumed item is not ready to be served by agora server?
             - more sources
                 - not only pulling from git
                 - could use microformats to understand where everything is
                 - [[agora.yaml]] could be a manifest
-            - maybe [[html]] as the intermediate format that [[agora bridge]] produces when it detects 
+            - [[block protocol]]? https://blockprotocol.org
 
 # [[flancia meet 2023-01-07]]
 - Attending: [[bouncepaw]] [[flancian]] [[j0lms]]
