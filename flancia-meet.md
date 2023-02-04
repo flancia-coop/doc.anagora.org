@@ -82,7 +82,7 @@
                 - not only pulling from git
                 - could use microformats to understand where everything is
                 - [[agora.yaml]] could be a manifest
-
+            - maybe [[html]] as the intermediate format that [[agora bridge]] produces when it detects 
 
 # [[flancia meet 2023-01-07]]
 - Attending: [[bouncepaw]] [[flancian]] [[j0lms]]
