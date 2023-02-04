@@ -59,7 +59,9 @@
         - [[FOTL]] and [[interwiki links]]
             - Because URLs exist already and they work, we need to justify the addition of interwiki links
         - [[wikilinks]] do not make wikis.
-            - [[betula]] website 
+            - [[betula]] website uses wikilinks, but is no wiki: https://betula.mycorrhiza.wiki
+        - What is massive about [[massive wiki]]? It's its massive intentions!
+        - What do we think about the [[indieweb]]?
 
 # [[flancia meet 2023-01-07]]
 - Attending: [[bouncepaw]] [[flancian]] [[j0lms]]
