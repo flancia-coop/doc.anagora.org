@@ -3,9 +3,10 @@
 - This is where we have community maintained notes :)
 
 # [[flancia meet 2023-02-04]]
-- Attending: [[bouncepaw]] [[j0lms]]
+- Attending: [[bouncepaw]] [[j0lms]] [[flancian]]
 - New official pronunciation of j0lms: Holmes, like Sherlock Holmes.
 - Tea and coffee.
+    - [[Chamomile]] ~ [[manzanilla]]
 
 # [[flancia meet 2023-01-07]]
 - Attending: [[bouncepaw]] [[flancian]] [[j0lms]]
