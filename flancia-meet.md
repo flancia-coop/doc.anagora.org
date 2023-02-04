@@ -22,8 +22,9 @@
             - https://en.wikipedia.org/wiki/The_Glass_Bead_Game
             - The ultimate game, art, science
             - Castalia
-            - #Flancian Got reminded of [[Seven Days in new Crete]] by [[Robert Graves]]
-            - #TI 
+            - [[Flancian]] Got reminded of [[Seven Days in new Crete]] by [[Robert Graves]]
+                - First published in 1949!
+            - [[j0lms]] saw it in a list together with other classics like [[a canticle for leibowitz]]
 
 # [[flancia meet 2023-01-07]]
 - Attending: [[bouncepaw]] [[flancian]] [[j0lms]]
