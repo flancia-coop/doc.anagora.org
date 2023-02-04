@@ -2,6 +2,10 @@
 - We meet best-effort every Saturday. UTC?
 - This is where we have community maintained notes :)
 
+# [[flancia meet 2023-02-04]]
+- Attending: [[bouncepaw]] [[j0lms]]
+- 
+
 # [[flancia meet 2023-01-07]]
 - Attending: [[bouncepaw]] [[flancian]] [[j0lms]]
 - USB Type-C compabitibility
