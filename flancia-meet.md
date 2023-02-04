@@ -21,6 +21,9 @@
         - #push [[Hermann Hesse]] [[The Glass Bead Game]]
             - https://en.wikipedia.org/wiki/The_Glass_Bead_Game
             - The ultimate game, art, science
+            - Castalia
+            - #Flancian Got reminded of [[Seven Days in new Crete]] by [[Robert Graves]]
+            - #TI 
 
 # [[flancia meet 2023-01-07]]
 - Attending: [[bouncepaw]] [[flancian]] [[j0lms]]
