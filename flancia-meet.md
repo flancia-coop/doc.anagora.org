@@ -28,6 +28,10 @@
             - [[Flancian]] read [[Steppenwolf]] in his grandfather's library
             - [[Siddharta]]
                 - "tangential Buddhism" while exploring this character
+            - On reading and the footprints that book leave in us
+            - [[The Portrait of Dorian Gray]]
+                - Long descriptions of his falling apart
+            - [[Crime and Punishment]]
 
 # [[flancia meet 2023-01-07]]
 - Attending: [[bouncepaw]] [[flancian]] [[j0lms]]
