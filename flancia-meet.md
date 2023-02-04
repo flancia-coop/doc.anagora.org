@@ -45,7 +45,7 @@
                 - -> [[Stalker]]
                     - -> [[Strugatsky brothers]]
                         - [[Monday Starts on Saturday]]
-                - 
+                    - [[j0lms]] got to Stalker via the game, came from [[counter strike]]
 
 # [[flancia meet 2023-01-07]]
 - Attending: [[bouncepaw]] [[flancian]] [[j0lms]]
