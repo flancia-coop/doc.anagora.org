@@ -73,6 +73,9 @@
                     - [[h-entry]] for chronological content
         - [[agora 2023]]
             - more formats
+                - [[mycomarkup]]
+                - [[argdown]]
+                - [[gemtext]]
             - more sources
                 - not only pulling from git
                 - could use microformats to understand where everything is
