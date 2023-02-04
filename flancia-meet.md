@@ -87,7 +87,11 @@
             - [[block protocol]]? https://blockprotocol.org
         - [[mastodon]]
             - on the signup experience
-                - [[mastodon a]]
+                - [[mastodon app]] on android is pretty good at this
+                - now we have joinmastodon.org which is pretty good too, but very mastodon specific
+                - it's very much not about the wider fediverse
+            - engagement and discoverability
+                - discovery is hard
 
 # [[flancia meet 2023-01-07]]
 - Attending: [[bouncepaw]] [[flancian]] [[j0lms]]
