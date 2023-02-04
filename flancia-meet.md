@@ -39,6 +39,8 @@
         - [[j0lms]] a game: [[swat 4]]
             - Did not have auth for cd keys, as one of the few games with online multiplayer even if it was pirated.
             - Lying about your age to participate.
+        - [[missed connections]]
+            - Could we rebuild the social networks that we had and lost 
 
 # [[flancia meet 2023-01-07]]
 - Attending: [[bouncepaw]] [[flancian]] [[j0lms]]
