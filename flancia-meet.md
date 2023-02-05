@@ -2,6 +2,8 @@
 - We meet best-effort every Saturday. UTC?
 - This is where we have community maintained notes :)
 
+# [[flancia meet 2023-02-05]]
+- Attending: 
 # [[flancia meet 2023-02-04]]
 - Attending: [[bouncepaw]] [[j0lms]] [[flancian]]
 - New official pronunciation of j0lms: Holmes, like Sherlock Holmes.
