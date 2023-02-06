@@ -3,8 +3,7 @@
 - a [[meeting]].
     - #go https://meet.jit.si/fellowship-of-the-link
     - Wednesdays at [[6PM UTC]].
-- Notes are all in this stoa; older notes that were in [[fotl]] are also now here for convenience (they had only been moved out because of a length restriction in [[HedgeDoc]] I've since lifted.)
-- Attending: [[x]]
+- Attending: [[x]], [[y]]
 - Start recording, we're currently using Jitsi and that works best with a [[Chromium]] based browser.
 - Threads from last time we would like to pick up:
     - [[Aram Zucker-Scharff]] would like to generalize the archiving tool / link card generator he's been working on.
