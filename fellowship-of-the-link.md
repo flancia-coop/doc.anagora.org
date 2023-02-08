@@ -46,6 +46,7 @@
                     - CRDT or CRDT-ish approaches
                     - [[Pijul]]
                 - On "the versioning problem"
+                    - The one occassion in which we definitely need to solve the versioning problem is when people are collaborating actively on the same file.
                     - Three aspects?
                         - Storage versioning
                         - UI management of versions/how you surface versions and link to versioned resources
@@ -54,7 +55,6 @@
                     - Staging is not needed by most people.
                     - Always pulling latest would be nice.
                 - [[Aram]] Nostr has some significant advantages over SSB I think, which is that it is significantly more decentralized and doesn't run into some of the blockchain adjacent stuff that causes ssb problems.
-                - The one occassion in which we definitely need to solve the versioning problem is when people are collaborating actively on the same file.
     - [[Aram Zucker-Scharff]] would like to generalize the archiving tool / link card generator he's been working on.
     - [[Flancian]] would like to discuss [[Interwiki]] links and the [[common hub]] approach for search and entity resolution.
 - #pull[[fotl threads]]
