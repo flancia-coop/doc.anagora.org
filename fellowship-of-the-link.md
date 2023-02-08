@@ -12,6 +12,7 @@
     - define:
         - [[wiki]] / root URL
         - [[calendar]] URL
+        - /now
         - [[issue tracker]] / [[project tracker]] URL
             - [[github]] by default?
 
@@ -72,7 +73,8 @@
         - [[Peter]] let's continue on the [[markdown on git]] path
         - [[Aram]] it seems that what's needed is a predictable 1. path on a site for discovery of content and 2. format.
         - On predictable ways to resolve entities cross-site.
-        - [Peter]
+        - [[Peter]] add ".md" to get raw markdown from a massive wiki, e.g., https://massive.wiki/massive_wiki_conceptual_diagram.md
+ 
 
 ## 2023-02-01
 
