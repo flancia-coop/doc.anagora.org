@@ -52,6 +52,7 @@
                         - Storage versioning
                         - UI management of versions/how you surface versions and link to versioned resources
                         - Multiple commit phases in associated workflows.
+                - `push` puts what is next on a line (and what is under it in a list?) to be duplicated on that context
                 - [[Bentley]] on [[Mathew]]'s post and git, and shortcomings/rough edges in the git experience.
                     - Staging is not needed by most people.
                     - Always pulling latest would be nice.
@@ -70,6 +71,7 @@
     - What's the next step?
         - [[Peter]] let's continue on the [[markdown on git]] path
         - [[Aram]] it seems that what's needed is a predictable 1. path on a site for discovery of content and 2. format.
+        - On predictable ways to resolve entities cross-site.
     - [[Aram Zucker-Scharff]] would like to generalize the archiving tool / link card generator he's been working on.
     - [[Flancian]] would like to discuss [[Interwiki]] links and the [[common hub]] approach for search and entity resolution.
 - #pull[[fotl threads]]
@@ -78,7 +80,6 @@
         - [[calendar]] URL
         - [[issue tracker]] / [[project tracker]] URL
             - [[github]] by default?
-    - `push` puts what is next on a line (and what is under it in a list?) to be duplicated on that context
 
 ## 2023-02-01
 
