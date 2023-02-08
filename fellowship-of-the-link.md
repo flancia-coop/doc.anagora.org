@@ -42,7 +42,11 @@
             - Obvious choices:
                 - git
                 - CRDT or CRDT-ish approaches
+                - [[Pijul]]
             - On "the versioning problem"
+                - Three aspects?
+                    - Storage versioning
+                    - UI management of versions/how you surface versions and link to versioned resources
     - [[Aram Zucker-Scharff]] would like to generalize the archiving tool / link card generator he's been working on.
     - [[Flancian]] would like to discuss [[Interwiki]] links and the [[common hub]] approach for search and entity resolution.
 - #pull[[fotl threads]]
