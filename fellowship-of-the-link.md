@@ -74,6 +74,7 @@
         - [[calendar]] URL
         - [[issue tracker]] / [[project tracker]] URL
             - [[github]] by default?
+    - `push` puts what is next on a line (and what is under it in a list?) to be duplicated on that context
 
 ## 2023-02-01
 
