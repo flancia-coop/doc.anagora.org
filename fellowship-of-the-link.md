@@ -24,33 +24,35 @@
 - Threads from last time we would like to pick up, or new threads:
     - [[Jerry Michalski]] would like to share notes with each other.
         - What does this mean? The lowest common denominator of Markdown on git seems fine to start with.
-    - [[Peter Kaminski]] started playing with [[nostr]].
-        - Read about [[nostr]] vs [[SSB]].
-            - Nostr gives everybody permission to speak, but nobody will necessarily listen to you.
-        - Still really like it.
-        - Warning disclaimer: it's not safe yet.
-        - At its heart, it's a way to pass messages between each other through relays.
-        - Could we do [[massive wiki]] through [[nostr]]?
-            - Massive Wiki is markdown / raw files, but it's also about versioning.
-            - It turns out versioning is tricky :)
-            - [[git]] solves this locally. People have also implemented many semantic conventions on top of filesystems.
-        - Back to Jerry's question: there is a big conceptual leap to 'versions of a file are the same file' from 'versions of the same file are different files'.
-        - [[Jerry]] this can be solved with the right UI/metaphors. For example [[fedwiki]] does this in a way that doesn't work for him.
-        - [[Flancian]] what does [[nostr]] get us over markdown on git and such?
-            - [[Peter]] 'follow a person', [[pki]] infra that is hacky but works.
-            - But we need to decide on a versioning strategy.
-            - Obvious choices:
-                - git
-                - CRDT or CRDT-ish approaches
-                - [[Pijul]]
-            - On "the versioning problem"
-                - Three aspects?
-                    - Storage versioning
-                    - UI management of versions/how you surface versions and link to versioned resources
-                    - Multiple commit phases in associated workflows.
-            - [[Bentley]] on [[Mathew]]'s post and git, and shortcomings/rough edges in the git experience.
-                - Staging is not needed by most people.
-                - Always pulling latest would be nice.
+    - #push [[nostr]]
+        - [[Peter Kaminski]] started playing with [[nostr]].
+            - Read about [[nostr]] vs [[SSB]].
+                - Nostr gives everybody permission to speak, but nobody will necessarily listen to you.
+            - Still really like it.
+            - Warning disclaimer: it's not safe yet.
+            - At its heart, it's a way to pass messages between each other through relays.
+            - Could we do [[massive wiki]] through [[nostr]]?
+                - Massive Wiki is markdown / raw files, but it's also about versioning.
+                - It turns out versioning is tricky :)
+                - [[git]] solves this locally. People have also implemented many semantic conventions on top of filesystems.
+            - Back to Jerry's question: there is a big conceptual leap to 'versions of a file are the same file' from 'versions of the same file are different files'.
+            - [[Jerry]] this can be solved with the right UI/metaphors. For example [[fedwiki]] does this in a way that doesn't work for him.
+            - [[Flancian]] what does [[nostr]] get us over markdown on git and such?
+                - [[Peter]] 'follow a person', [[pki]] infra that is hacky but works.
+                - But we need to decide on a versioning strategy.
+                - Obvious choices:
+                    - git
+                    - CRDT or CRDT-ish approaches
+                    - [[Pijul]]
+                - On "the versioning problem"
+                    - Three aspects?
+                        - Storage versioning
+                        - UI management of versions/how you surface versions and link to versioned resources
+                        - Multiple commit phases in associated workflows.
+                - [[Bentley]] on [[Mathew]]'s post and git, and shortcomings/rough edges in the git experience.
+                    - Staging is not needed by most people.
+                    - Always pulling latest would be nice.
+                - [[Aram]] Nostr has some significant advantages over SSB I think, which is that it is significantly more decentralized and doesn't run into some of the blockchain adjacent stuff that causes ssb problems.
     - [[Aram Zucker-Scharff]] would like to generalize the archiving tool / link card generator he's been working on.
     - [[Flancian]] would like to discuss [[Interwiki]] links and the [[common hub]] approach for search and entity resolution.
 - #pull[[fotl threads]]
