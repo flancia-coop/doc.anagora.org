@@ -21,12 +21,19 @@
     - Wednesdays at [[6PM UTC]].
 - Attending: [[Peter Kaminski]], [[Jerry Michalski]], [[Bentley Davis]], [[Flancian]]
 - Start recording, we're currently using Jitsi and that works best with a [[Chromium]] based browser.
-- Threads from last time we would like to pick up:
+- Threads from last time we would like to pick up, or new threads:
     - [[Jerry Michalski]] would like to share notes with each other.
-        - What does this mean? The lowest common denominator of Markdown on git see
+        - What does this mean? The lowest common denominator of Markdown on git seems fine to start with.
+    - [[Peter Kaminski]] started playing with [[nostr]].
+        - Still really like it.
+        - Warning disclaimer: it's not safe yet.
+        - At its heart, it's a way to pass messages between each other through relays.
+        - Could we do [[massive wiki]] through [[nostr]]?
+            - Massive Wiki is markdown / raw files, but it's also versioning.
+            - 
     - [[Aram Zucker-Scharff]] would like to generalize the archiving tool / link card generator he's been working on.
-    - [[Flancian]] would like to discuss [[Interwiki]] links and the [[common hub]] approach for search and entity resolution
-- #push [[fotl threads]]
+    - [[Flancian]] would like to discuss [[Interwiki]] links and the [[common hub]] approach for search and entity resolution.
+- #pull[[fotl threads]]
     - define:
         - [[wiki]] / root URL
         - [[calendar]] URL
