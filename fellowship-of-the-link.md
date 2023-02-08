@@ -25,6 +25,7 @@
     - [[Jerry Michalski]] would like to share notes with each other.
         - What does this mean? The lowest common denominator of Markdown on git seems fine to start with.
     - [[Peter Kaminski]] started playing with [[nostr]].
+        - 
         - Still really like it.
         - Warning disclaimer: it's not safe yet.
         - At its heart, it's a way to pass messages between each other through relays.
@@ -32,6 +33,8 @@
             - Massive Wiki is markdown / raw files, but it's also about versioning.
             - It turns out versioning is tricky :)
             - [[git]] solves this locally. People have also implemented many semantic conventions on top of filesystems.
+        - Back to Jerry's question: there is a big conceptual leap to 'versions of a file are the same file' from 'versions of the same file are different files'.
+        - [[Jerry]] this can be solved with the right UI/metaphors. For example [[fedwiki]] does this in a way that doesn't work for him.
     - [[Aram Zucker-Scharff]] would like to generalize the archiving tool / link card generator he's been working on.
     - [[Flancian]] would like to discuss [[Interwiki]] links and the [[common hub]] approach for search and entity resolution.
 - #pull[[fotl threads]]
