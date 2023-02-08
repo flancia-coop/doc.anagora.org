@@ -60,6 +60,8 @@
                 - [[Aram]] [[IPFS]] seems very strong in this space. Same for [[webtorrent]].
                     - [[nostr]] is cool conceptually, but it's unclear how it would work for something that is not a messaging process.
                     - It's intended to be "slow": You don't need an always on connection to the internet.
+                - [[Peter]] on [[syncthing]]
+                    - Tried it as an alte
     - [[Aram Zucker-Scharff]] would like to generalize the archiving tool / link card generator he's been working on.
     - [[Flancian]] would like to discuss [[Interwiki]] links and the [[common hub]] approach for search and entity resolution.
 - #pull[[fotl threads]]
