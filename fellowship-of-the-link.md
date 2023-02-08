@@ -47,6 +47,7 @@
                 - Three aspects?
                     - Storage versioning
                     - UI management of versions/how you surface versions and link to versioned resources
+                    - Multiple commit phases in associated workflows.
     - [[Aram Zucker-Scharff]] would like to generalize the archiving tool / link card generator he's been working on.
     - [[Flancian]] would like to discuss [[Interwiki]] links and the [[common hub]] approach for search and entity resolution.
 - #pull[[fotl threads]]
