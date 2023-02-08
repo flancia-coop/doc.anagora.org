@@ -67,8 +67,9 @@
         - [[Jerry]] on [[vaults]], [[repos]], [[namespaces]]
         - [[Peter]] on messages vs documents
         - [[Jerry]] on https://en.wikipedia.org/wiki/Telescript_(programming_language) as an example of a protocol designed supporting the "wrong" abstractions at a time in which the document-based web was taking off
-        - What's the next step?
-            - [[Peter]] let's continue on the [[markdown on git]] pat
+    - What's the next step?
+        - [[Peter]] let's continue on the [[markdown on git]] path
+        - [[Aram]] it seems that what's needed is a predictable 1. path on a site for discovery of content and 2. format.
     - [[Aram Zucker-Scharff]] would like to generalize the archiving tool / link card generator he's been working on.
     - [[Flancian]] would like to discuss [[Interwiki]] links and the [[common hub]] approach for search and entity resolution.
 - #pull[[fotl threads]]
