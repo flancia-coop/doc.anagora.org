@@ -39,6 +39,10 @@
         - [[Flancian]] what does [[nostr]] get us over markdown on git and such?
             - [[Peter]] 'follow a person', [[pki]] infra that is hacky but works.
             - But we need to decide on a versioning strategy.
+            - Obvious choices:
+                - git
+                - CRDT or CRDT-ish approaches
+            - On "the versioning problem"
     - [[Aram Zucker-Scharff]] would like to generalize the archiving tool / link card generator he's been working on.
     - [[Flancian]] would like to discuss [[Interwiki]] links and the [[common hub]] approach for search and entity resolution.
 - #pull[[fotl threads]]
