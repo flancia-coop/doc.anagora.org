@@ -29,8 +29,9 @@
         - Warning disclaimer: it's not safe yet.
         - At its heart, it's a way to pass messages between each other through relays.
         - Could we do [[massive wiki]] through [[nostr]]?
-            - Massive Wiki is markdown / raw files, but it's also versioning.
-            - 
+            - Massive Wiki is markdown / raw files, but it's also about versioning.
+            - It turns out versioning is tricky :)
+            - [[git]] solves this locally. People have also implemented many semantic conventions on top of filesystems.
     - [[Aram Zucker-Scharff]] would like to generalize the archiving tool / link card generator he's been working on.
     - [[Flancian]] would like to discuss [[Interwiki]] links and the [[common hub]] approach for search and entity resolution.
 - #pull[[fotl threads]]
