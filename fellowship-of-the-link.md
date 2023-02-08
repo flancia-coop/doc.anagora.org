@@ -25,7 +25,8 @@
     - [[Jerry Michalski]] would like to share notes with each other.
         - What does this mean? The lowest common denominator of Markdown on git seems fine to start with.
     - [[Peter Kaminski]] started playing with [[nostr]].
-        - 
+        - Read about [[nostr]] vs [[SSB]].
+            - Nostr gives everybody permission to speak, but nobody will necessarily listen to you.
         - Still really like it.
         - Warning disclaimer: it's not safe yet.
         - At its heart, it's a way to pass messages between each other through relays.
