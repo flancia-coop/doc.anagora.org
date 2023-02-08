@@ -15,6 +15,24 @@
         - [[issue tracker]] / [[project tracker]] URL
             - [[github]] by default?
 
+## 2023-02-08
+- a [[meeting]].
+    - #go https://meet.jit.si/fellowship-of-the-link
+    - Wednesdays at [[6PM UTC]].
+- Attending: [[Peter Kaminski]], [[Jerry Michalski]], [[Bentley Davis]], [[Flancian]]
+- Start recording, we're currently using Jitsi and that works best with a [[Chromium]] based browser.
+- Threads from last time we would like to pick up:
+    - [[Jerry Michalski]] would like to share notes with each other.
+        - What does this mean? The lowest common denominator of Markdown on git see
+    - [[Aram Zucker-Scharff]] would like to generalize the archiving tool / link card generator he's been working on.
+    - [[Flancian]] would like to discuss [[Interwiki]] links and the [[common hub]] approach for search and entity resolution
+- #push [[fotl threads]]
+    - define:
+        - [[wiki]] / root URL
+        - [[calendar]] URL
+        - [[issue tracker]] / [[project tracker]] URL
+            - [[github]] by default?
+
 ## 2023-02-01
 
 - Attending: [[Peter Kaminski]] [[Mathew Lowry]] [[Chris Aldrich]] [[Aram Zucker-Scharff]] [[Bentley Davis]] [[Mathew Lowry]] [[Bill Anderson]]
