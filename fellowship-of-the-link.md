@@ -36,6 +36,9 @@
             - [[git]] solves this locally. People have also implemented many semantic conventions on top of filesystems.
         - Back to Jerry's question: there is a big conceptual leap to 'versions of a file are the same file' from 'versions of the same file are different files'.
         - [[Jerry]] this can be solved with the right UI/metaphors. For example [[fedwiki]] does this in a way that doesn't work for him.
+        - [[Flancian]] what does [[nostr]] get us over markdown on git and such?
+            - [[Peter]] 'follow a person', [[pki]] infra that is hacky but works.
+            - But we need to decide on a versioning strategy.
     - [[Aram Zucker-Scharff]] would like to generalize the archiving tool / link card generator he's been working on.
     - [[Flancian]] would like to discuss [[Interwiki]] links and the [[common hub]] approach for search and entity resolution.
 - #pull[[fotl threads]]
