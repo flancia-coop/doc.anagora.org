@@ -72,14 +72,7 @@
         - [[Peter]] let's continue on the [[markdown on git]] path
         - [[Aram]] it seems that what's needed is a predictable 1. path on a site for discovery of content and 2. format.
         - On predictable ways to resolve entities cross-site.
-    - [[Aram Zucker-Scharff]] would like to generalize the archiving tool / link card generator he's been working on.
-    - [[Flancian]] would like to discuss [[Interwiki]] links and the [[common hub]] approach for search and entity resolution.
-- #pull[[fotl threads]]
-    - define:
-        - [[wiki]] / root URL
-        - [[calendar]] URL
-        - [[issue tracker]] / [[project tracker]] URL
-            - [[github]] by default?
+        - [Peter]
 
 ## 2023-02-01
 
