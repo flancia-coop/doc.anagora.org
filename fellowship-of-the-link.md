@@ -27,6 +27,7 @@
     - #push [[nostr]]
         - [[Peter Kaminski]] started playing with [[nostr]].
             - Pete's pubkey: npub1peterka3vphw8z8ls7hpl9c9lxh8ww4la36pf97sycdvtantzu8s97x3za
+            - Aram's pubkey: 8b9e3e37fb86f7282de4fb526505e2d5748f2cd09e22fbda18f1daa65028e916
             - Read about [[nostr]] vs [[SSB]].
                 - Nostr gives everybody permission to speak, but nobody will necessarily listen to you.
             - Still really like it.
@@ -55,6 +56,8 @@
                     - Staging is not needed by most people.
                     - Always pulling latest would be nice.
                 - [[Aram]] Nostr has some significant advantages over SSB I think, which is that it is significantly more decentralized and doesn't run into some of the blockchain adjacent stuff that causes ssb problems.
+                - [[Jerry Michalsky]] on [[Rich Burton]]'s project
+                
     - [[Aram Zucker-Scharff]] would like to generalize the archiving tool / link card generator he's been working on.
     - [[Flancian]] would like to discuss [[Interwiki]] links and the [[common hub]] approach for search and entity resolution.
 - #pull[[fotl threads]]
