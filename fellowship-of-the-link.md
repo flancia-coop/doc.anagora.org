@@ -56,14 +56,16 @@
                     - Staging is not needed by most people.
                     - Always pulling latest would be nice.
                 - [[Aram]] Nostr has some significant advantages over SSB I think, which is that it is significantly more decentralized and doesn't run into some of the blockchain adjacent stuff that causes ssb problems.
-                - [[Jerry Michalsky]] on [[Rich Burton]]'s project, https://dxos.org/
-                - [[Aram]] [[IPFS]] seems very strong in this space. Same for [[webtorrent]].
-                    - [[nostr]] is cool conceptually, but it's unclear how it would work for something that is not a messaging process.
-                    - It's intended to be "slow": You don't need an always on connection to the internet.
-                - [[Peter]] on [[syncthing]]
-                    - Tried it as an alternative to git
-                    - Syncs really fast actually
-                    - It let lots of editors feel 'real time'
+        - [[Jerry Michalsky]] on [[Rich Burton]]'s project, https://dxos.org/
+        - [[Aram]] [[IPFS]] seems very strong in this space. Same for [[webtorrent]].
+            - [[nostr]] is cool conceptually, but it's unclear how it would work for something that is not a messaging process.
+            - It's intended to be "slow": You don't need an always on connection to the internet.
+        - [[Peter]] on [[syncthing]]
+            - Tried it as an alternative to git
+            - Syncs really fast actually
+            - It let lots of editors feel 'real time'
+        - [[Jerry]] on [[vaults]], [[repos]], [[namespaces]]
+
     - [[Aram Zucker-Scharff]] would like to generalize the archiving tool / link card generator he's been working on.
     - [[Flancian]] would like to discuss [[Interwiki]] links and the [[common hub]] approach for search and entity resolution.
 - #pull[[fotl threads]]
