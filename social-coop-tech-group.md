@@ -1,4 +1,4 @@
-## [[2022-01-30]]
+## [[2023-01-30]]
 - Location: https://meet.mayfirst.org/social-coop-tech
 - Time: 19:00 - 22:00 UTC
 - Attending: Flancian, Akshay, Ed, Calix
@@ -50,7 +50,7 @@ Cleanup:
 ## log
 - If postgre
  
-## [[2022-01-23]]
+## [[2023-01-23]]
 
 - Location: https://meet.mayfirst.org/social-coop-tech
 - Attending: Flancian, Akshay, Ed, David Vasandani, A Late Calix
@@ -90,7 +90,7 @@ Cleanup:
     - David: are we going to run postgresql in docker?
         - Yes, same as currently
 
-## [[2022-01-09]]
+## [[2023-01-09]]
 - Location: https://meet.mayfirst.org/social-coop-tech
 - Attending: Akshay, edsu, David Vasandani, Calix, Flancian
 - ...agenda items here...
