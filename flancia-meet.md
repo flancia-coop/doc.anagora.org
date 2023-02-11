@@ -25,8 +25,7 @@
     - Open github.com account
         - a git repository is like a folder/directory 
         - you keep copies of them locally (in your computer) and synchronize with a git server (like github.com)
-
-- 
+    - Write [[plan]]
 
 # [[flancia meet 2023-02-05]]
 - Attending: [[neil]] [[flancian]]
