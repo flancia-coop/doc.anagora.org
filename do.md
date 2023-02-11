@@ -1,6 +1,12 @@
 I think I'm going to start using the stoa in [[do]] to keep my top level todo list -- or at least my [[inbox]]. Unfortunately [[do]] the node is overloaded, and this is very convenient as I can just edit it in any browser :) Feel free to do the same if it helps! (I'll likely soon add one doc per user in the Agora.)
 
 # [[flancian]]
+- #push [[done]]
+    - I don't finish 
+- #push [[agora plan]]
+    - [[agora chapter]]
+    - [[agora 2023]]
+    - [[agora 2024]]
 - write [[building bridges]]
   - I think about this a lot but for some reason I never get to work on it
   - related to [[knowledge commons]] and [[protopoi]]
