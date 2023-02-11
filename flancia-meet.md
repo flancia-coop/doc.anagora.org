@@ -30,6 +30,8 @@
     - Mohammed: Write [[plan]] for Spain or Portugal
     - Eduardo: Write [[scholarship grant]]
     - Both: Run through some lawyer
+    - Mohammed: get bank account
+        - Abu Dhabi bank
 
 # [[flancia meet 2023-02-05]]
 - Attending: [[neil]] [[flancian]]
