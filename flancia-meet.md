@@ -19,6 +19,9 @@
     - [[frontend]]
 - Previous experience
     - Store keeper
+    - Rubber industry
+- Next actions
+    - Prepare [[CV]]
 - 
 
 # [[flancia meet 2023-02-05]]
