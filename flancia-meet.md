@@ -4,6 +4,12 @@
 
 # [[flancia meet 2023-02-11]]
 - Attending: [[aldhari]] [[flancian]]
+- Plan for [[2023]].
+    - Visas
+    - Rent
+- Options
+    - 
+- 
 
 # [[flancia meet 2023-02-05]]
 - Attending: [[neil]] [[flancian]]
