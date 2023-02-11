@@ -24,7 +24,7 @@
     - Prepare [[CV]]
     - Open github.com account
         - a git repository is like a folder/directory 
-        - you keep copies of them locally (in your )
+        - you keep copies of them locally (in your computer) and synchronize with a git server (like github.com)
 
 - 
 
