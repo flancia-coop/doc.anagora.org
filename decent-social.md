@@ -1,6 +1,8 @@
 ## Community notes
 
-These are [[community notes]] for [[decent social]]. Feel free to chime in!
+These are some general [[community notes]] for [[decent social]]. Feel free to chime in!
+
+Schedule sheet with per-session notes: https://cryptpad.fr/sheet/#/2/sheet/edit/3+gG0ul7RHjvGBLY1s16JvjV/
 
 See https://decentsocial.net/ and https://anagora.org/decent-social for more!
 
@@ -14,5 +16,3 @@ I attended the one for [[Americas]].
 - Whoever comes are the right people
 - Whatever happens is the only thing that could happen
 - When it's over it's over
-
-Schedule sheet: https://cryptpad.fr/sheet/#/3/sheet/edit/080b09b30bc627f2c8d884b606ec2922/
