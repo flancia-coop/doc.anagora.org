@@ -12,6 +12,7 @@
         - rent is higher now
     - [[Spain]]
         - visa is harder
+        - Mohammed would prefer Spain if all other things are equal
 - Studies
     - [[internet marketing]]
     - [[graphic design]]
@@ -22,7 +23,8 @@
     - Rubber industry
 - Next actions
     - Mohammed: Prepare [[CV]]
-    - Mohammed: Open github.com account
+    - Mohammed: continue working on github.com account
+        - https://github.com/mohammedaldhari
         - a git repository is like a folder/directory 
         - you keep copies of them locally (in your computer) and synchronize with a git server (like github.com)
     - Mohammed: Write [[plan]] for Spain or Portugal
