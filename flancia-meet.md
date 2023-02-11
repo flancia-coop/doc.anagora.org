@@ -22,6 +22,10 @@
     - Rubber industry
 - Next actions
     - Prepare [[CV]]
+    - Open github.com account
+        - a git repository is like a folder/directory 
+        - you keep copies of them locally (in your )
+
 - 
 
 # [[flancia meet 2023-02-05]]
