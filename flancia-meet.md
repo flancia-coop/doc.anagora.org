@@ -8,7 +8,15 @@
     - Visas
     - Rent
 - Options
-    - 
+    - [[Portugal]]
+        - rent is higher now
+    - [[Spain]]
+        - visa is harder
+- Studies
+    - [[internet marketing]]
+    - [[graphic design]]
+    - [[animation]]
+    - [[frontend]]
 - 
 
 # [[flancia meet 2023-02-05]]
