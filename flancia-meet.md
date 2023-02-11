@@ -2,6 +2,9 @@
 - We meet best-effort every Saturday. UTC?
 - This is where we have community maintained notes :)
 
+# [[flancia meet 2023-02-11]]
+- Attending: [[aldhari]] [[flancian]]
+
 # [[flancia meet 2023-02-05]]
 - Attending: [[neil]] [[flancian]]
 - January was birthday season, February is quieter :)
