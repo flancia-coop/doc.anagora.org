@@ -21,11 +21,13 @@
     - Store keeper
     - Rubber industry
 - Next actions
-    - Prepare [[CV]]
-    - Open github.com account
+    - Mohammed: Prepare [[CV]]
+    - Mohammed: Open github.com account
         - a git repository is like a folder/directory 
         - you keep copies of them locally (in your computer) and synchronize with a git server (like github.com)
-    - Write [[plan]]
+    - Mohammed: Write [[plan]] for Spain or Portugal
+    - Eduardo: Write [[scholarship grant]]
+    - Both: Run through some lawyer
 
 # [[flancia meet 2023-02-05]]
 - Attending: [[neil]] [[flancian]]
