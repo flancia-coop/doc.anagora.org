@@ -8,6 +8,7 @@ I think I'm going to start using the stoa in [[do]] to keep my top level todo li
         - [[agora chapter]]
     - [[agora 2023]]
     - [[agora 2024]]
+    - maybe sign up for [[open university]]
     - write [[building bridges]]
       - I think about this a lot but for some reason I never get to work on it
           - related to [[knowledge commons]] and [[protopoi]]
