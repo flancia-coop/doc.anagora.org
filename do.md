@@ -31,10 +31,13 @@ I think I'm going to start using the stoa in [[do]] to keep my top level todo li
       - update (2023): yes, this is the default approach to all integrations nowadays.
   - this is partially implemented now, finally
       - I think I added this as 'node X pulled by Agora'
-      - I don't remember where the code is :) 
+          - I don't remember where the code is :) I think there are currently two different paths that pull things?
+          - It should be easy to find though.
 - code [[auto push]]
   - [[foo]]
       - foo gets this line auto pushed because it's a wikilinked parent of a block (as defined by indentation or user set syntax)
       - this is still not done surprisingly! I'm not sure it's actually blocking on getting a proper [[agora protocol]] [[ast]]; we could extend the current [[lxml]]-based hack.
-- #pull [[todo]], [[now]], [[later]], [[plan]]
+      - honestly parsing the DOM of a site sounds like an OK approach? that is, when it doesn't include microformats, etc.
+
 - see also: [[did]], [[done]] :)
+- #pull [[todo]], [[now]], [[later]], [[plan]]
