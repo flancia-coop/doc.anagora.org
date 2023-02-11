@@ -38,6 +38,5 @@ I think I'm going to start using the stoa in [[do]] to keep my top level todo li
       - foo gets this line auto pushed because it's a wikilinked parent of a block (as defined by indentation or user set syntax)
       - this is still not done surprisingly! I'm not sure it's actually blocking on getting a proper [[agora protocol]] [[ast]]; we could extend the current [[lxml]]-based hack.
       - honestly parsing the DOM of a site sounds like an OK approach? that is, when it doesn't include microformats, etc.
-
-- see also: [[did]], [[done]] :)
-- #pull [[todo]], [[now]], [[later]], [[plan]]
+- see also: all pulled and my [[journals]].
+    - #pull [[todo]], [[now]], [[later]], [[next action]], [[plan]], [[did]], [[done]] :)
