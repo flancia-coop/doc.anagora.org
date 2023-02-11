@@ -17,6 +17,8 @@
     - [[graphic design]]
     - [[animation]]
     - [[frontend]]
+- Previous experience
+    - Store keeper
 - 
 
 # [[flancia meet 2023-02-05]]
