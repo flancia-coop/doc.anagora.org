@@ -45,7 +45,7 @@
     - Next steps
         - Make sure that [[coop cloud]] is running successfully in server [[hypha]]
         - Install [[mediawiki]] using coop cloud in [[hypha]].
-            - 
+            - https://recipes.coopcloud.tech/mediawiki
         - Take a database dump in wiki-dev (Flancian and jonny have access for now)
         - Restore database from wiki-dev.
         - Or alternatively rsync the whole thing ;)
