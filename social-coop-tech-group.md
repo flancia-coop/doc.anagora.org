@@ -8,6 +8,7 @@
     - [ ] Check that certbot is actually running in rhizome successfully.
     - [ ] Try to get something running on coop cloud in hypha if we haven't by now.
     - [ ] Restore a backup from s3 somewhere, or at the very least decrypt it!
+    - [ ] [hetzner console] Decommission runko.
 
 ## [[2023-02-13]]
 - Location: https://meet.mayfirst.org/social-coop-tech
@@ -23,7 +24,7 @@
         - Instead we should check that certbot is successfully renewing, moved to future agenda.
     - [x] check that backups work
         - They don't :)
-        - Trying to fix it now, got all the way to setting up timer and fixing pg-dump-to-s3
+        - Trying to fix it now, got all the way to setting up timer and fixing pg-dump-to-s3.service (prune was failing as we have a new server which means a new path in s3).
     - [ ] [hetzner console] Decommission runko.
         - Any blockers? None known?
         - It's been off for a week.
