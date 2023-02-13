@@ -17,6 +17,7 @@
     - Let's accept Ed's pull request in [[ansible]] repo: https://git.coop/social.coop/tech/ansible/-/merge_requests/22
       - Done!
       - Open question is whether we need the assets:precompile step or, as the release notes seem to imply, we can skip because we're using the prebuilt images?
+      - We removed the precompile in the end.
 
 
 ## [[2023-01-30]]
