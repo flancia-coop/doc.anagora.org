@@ -1,7 +1,7 @@
 ## [[2023-02-13]]
 - Location: https://meet.mayfirst.org/social-coop-tech
-- Time: 19:00 - 22:00 UTC
-- Attending: 
+- Time: 19:00 – 20:00 UTC
+- Attending: Akshay, Tod
 
 
 
