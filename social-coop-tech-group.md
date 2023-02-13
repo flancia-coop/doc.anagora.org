@@ -40,12 +40,16 @@
         - Had to run `ansible-galaxy collection install -r requirements.yml` in ansible directory
 - Tod: what about mediawiki migration?
     - Next steps
-        - Make sure that [[coop cloud]] is running in [[hypha]]
+        - Make sure that [[coop cloud]] is running successfully in [[hypha]]
         - Install [[mediawiki]] using coop cloud in hypha.
         - Take a database dump in wiki-dev (Flancian and jonny have access for now)
         - Restore database from wiki-dev.
         - Or alternatively rsync the whole thing ;)
-        - Install extensions (which should be a matter of syncing the <something>Settings.php file)
+        - Install extensions (which should be a matter of syncing the [`LocalSettings.php`](https://www.mediawiki.org/wiki/Manual:Configuration_settings) file)
+            - Ed: maybe coop cloud has a way to manage plugins in mediawiki?
+    - Open questions
+        - Does abra make it so that we don't need ansible?
+            - Likely.
 
 ## [[2023-01-30]]
 - Location: https://meet.mayfirst.org/social-coop-tech
