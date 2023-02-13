@@ -15,6 +15,8 @@
     - Let's try to use [[tmate]] to share terminal and do this together?
     - Flancian sharing terminal
     - Let's accept Ed's pull request in [[ansible]] repo: https://git.coop/social.coop/tech/ansible/-/merge_requests/22
+      - Done!
+      - Open question is whether we need the assets:precompile step or, as the 
 
 
 ## [[2023-01-30]]
