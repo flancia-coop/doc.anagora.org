@@ -1,3 +1,8 @@
+## [[2023-0-30]]
+- Location: https://meet.mayfirst.org/social-coop-tech
+- Time: 19:00 - 22:00 UTC
+- Attending: Flancian, Akshay, Ed, Calix
+
 ## [[2023-01-30]]
 - Location: https://meet.mayfirst.org/social-coop-tech
 - Time: 19:00 - 22:00 UTC
