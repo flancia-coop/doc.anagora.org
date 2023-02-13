@@ -18,6 +18,7 @@
       - Done!
       - Open question is whether we need the assets:precompile step or, as the release notes seem to imply, we can skip because we're using the prebuilt images?
       - We removed the precompile in the end.
+    - Done!
 
 
 ## [[2023-01-30]]
