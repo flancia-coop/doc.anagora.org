@@ -10,6 +10,9 @@
     - [ ] [runko] Run certbot commands to revoke the previous certificates.
     - [ ] check that backups work
     - [ ] [hetzner console] Decommission runko.
+        - Any blockers? None known?
+        - It's been off for a week.
+        - Let's proceed.
     - [ ] remove sauce from git.coop?
 - Maybe upgrade to 4.1?
     - Let's try to use [[tmate]] to share terminal and do this together?
@@ -19,9 +22,11 @@
       - Open question is whether we need the assets:precompile step or, as the release notes seem to imply, we can skip because we're using the prebuilt images?
       - We removed the precompile in the end.
     - Done!
+        - Always run --check -vv --diff before going live
+        - This time it prevented us from having another DEEPL outage because of a mismatched collection version in [[ansible galaxy]]
     - Issues we ran into
         - Had to run `export PASSWORD_STORE_DIR=~/.password-store/social.coop` (this depends on where you put your password store)
-        - Had to run `ansible-galaxy collection install -r requirements.yml` in ansible directory before deepl
+        - Had to run `ansible-galaxy collection install -r requirements.yml` in ansible directory
 
 
 ## [[2023-01-30]]
