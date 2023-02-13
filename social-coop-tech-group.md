@@ -19,6 +19,8 @@
       - Open question is whether we need the assets:precompile step or, as the release notes seem to imply, we can skip because we're using the prebuilt images?
       - We removed the precompile in the end.
     - Done!
+    - Issues we ran into
+        - Had to run `ansible-galaxy collection install -r requirements.yml` in ansible
 
 
 ## [[2023-01-30]]
