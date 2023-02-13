@@ -7,6 +7,7 @@
 - Note to future selves
     - [ ] Check that certbot is actually running in rhizome successfully.
     - [ ] Try to get something running on coop cloud in hypha if we haven't by now.
+    - [ ] Restore a backup from s3 somewhere, or at the very least decrypt it!
 
 ## [[2023-02-13]]
 - Location: https://meet.mayfirst.org/social-coop-tech
