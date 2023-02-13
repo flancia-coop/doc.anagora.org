@@ -6,6 +6,7 @@
 ## [[2023-02-27]]
 - Note to future selves
     - [ ] Check that certbot is actually running in rhizome successfully.
+    - [ ] Try to get something running on coop cloud in hypha if we haven't by now.
 
 ## [[2023-02-13]]
 - Location: https://meet.mayfirst.org/social-coop-tech
@@ -40,7 +41,7 @@
         - Had to run `ansible-galaxy collection install -r requirements.yml` in ansible directory
 - Tod: what about mediawiki migration?
     - Next steps
-        - Make sure that [[coop cloud]] is running successfully in [[hypha]]
+        - Make sure that [[coop cloud]] is running successfully in server [[hypha]]
         - Install [[mediawiki]] using coop cloud in [[hypha]].
         - Take a database dump in wiki-dev (Flancian and jonny have access for now)
         - Restore database from wiki-dev.
