@@ -21,6 +21,8 @@
         - Not needed, actually could be harmful as we copied the certificates.
         - Instead we should check that certbot is successfully renewing 
     - [ ] check that backups work
+        - They don't :)
+        - Trying to fix it.
     - [ ] [hetzner console] Decommission runko.
         - Any blockers? None known?
         - It's been off for a week.
@@ -34,7 +36,7 @@
       - Open question is whether we need the assets:precompile step or, as the release notes seem to imply, we can skip because we're using the prebuilt images?
       - We removed the precompile in the end.
     - Done!
-        - Always run --check -vv --diff before going live
+        - Always run `--check -vv --diff` before going live
         - This time it prevented us from having another DEEPL outage because of a mismatched collection version in [[ansible galaxy]]
     - Issues we ran into
         - Had to run `export PASSWORD_STORE_DIR=~/.password-store/social.coop` (this depends on where you put your password store)
