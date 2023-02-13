@@ -14,7 +14,7 @@
 - Maybe upgrade to 4.1?
     - Let's try to use [[tmate]] to share terminal and do this together?
     - Flancian sharing terminal
-    - Let's accept Ed's pull request
+    - Let's accept Ed's pull request in [[ansible]] repo: https://git.coop/social.coop/tech/ansible/-/merge_requests/22
 
 
 ## [[2023-01-30]]
