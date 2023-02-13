@@ -38,7 +38,14 @@
     - Issues we ran into
         - Had to run `export PASSWORD_STORE_DIR=~/.password-store/social.coop` (this depends on where you put your password store)
         - Had to run `ansible-galaxy collection install -r requirements.yml` in ansible directory
-
+- Tod: what about mediawiki migration?
+    - Next steps
+        - Make sure that [[coop cloud]] is running in [[hypha]]
+        - Install [[mediawiki]] using coop cloud in hypha.
+        - Take a database dump in wiki-dev (Flancian and jonny have access for now)
+        - Restore database from wiki-dev.
+        - Or alternatively rsync the whole thing ;)
+        - Install extensions (which should be a matter of syncing the <something>Settings.php file)
 
 ## [[2023-01-30]]
 - Location: https://meet.mayfirst.org/social-coop-tech
