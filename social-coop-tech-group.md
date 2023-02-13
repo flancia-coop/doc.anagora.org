@@ -11,7 +11,7 @@
 ## [[2023-02-13]]
 - Location: https://meet.mayfirst.org/social-coop-tech
 - Time: 19:00 – 20:00 UTC
-- Attending: Akshay, Tod, Eduardo
+- Attending: Akshay, Tod, Eduardo, Ed
 - Check ins
     - Eduardo: originally from Argentina (near Buenos Aires), now in Zürich
     - Akshay: originally from India, now in Berlin
