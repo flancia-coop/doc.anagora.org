@@ -1,7 +1,9 @@
-## [[2023-0-30]]
+## [[2023-02-13]]
 - Location: https://meet.mayfirst.org/social-coop-tech
 - Time: 19:00 - 22:00 UTC
-- Attending: Flancian, Akshay, Ed, Calix
+- Attending: 
+
+
 
 ## [[2023-01-30]]
 - Location: https://meet.mayfirst.org/social-coop-tech
@@ -52,7 +54,7 @@ Cleanup:
 - [ ] [hetzner console] Decommission runko.
 - [ ] remove sauce from git.coop?
 
-## log
+### log
 - If postgre
  
 ## [[2023-01-23]]
