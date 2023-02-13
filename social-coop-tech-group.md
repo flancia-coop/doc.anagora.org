@@ -3,9 +3,17 @@
 - Time: 19:00 – 20:00 UTC
 - Attending: Akshay, Tod, Eduardo
 - Check ins
-    - Eduardo: originally from Argentina (Buenos Aires), now in Zürich
+    - Eduardo: originally from Argentina (near Buenos Aires), now in Zürich
     - Akshay: originally from India, now in Berlin
     - Tod: based in Utah
+- Cleanup: 
+    - [ ] [runko] Run certbot commands to revoke the previous certificates.
+    - [ ] check that backups work
+    - [ ] [hetzner console] Decommission runko.
+    - [ ] remove sauce from git.coop?
+- Maybe upgrade to 4.1?
+    - Let's try to use [[tmate]] to share terminal and do this together?
+
 
 ## [[2023-01-30]]
 - Location: https://meet.mayfirst.org/social-coop-tech
