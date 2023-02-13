@@ -13,6 +13,8 @@
     - [ ] remove sauce from git.coop?
 - Maybe upgrade to 4.1?
     - Let's try to use [[tmate]] to share terminal and do this together?
+    - Flancian sharing terminal
+    - Let's accept Ed's pull request
 
 
 ## [[2023-01-30]]
