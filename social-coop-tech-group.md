@@ -1,3 +1,12 @@
+
+## [[2023-03-06]]
+- Note to future selves
+    - [ ] Check that certbot is actually running in rhizome successfully if we didn't do it back in February.
+
+## [[2023-02-27]]
+- Note to future selves
+    - [ ] Check that certbot is actually running in rhizome successfully.
+
 ## [[2023-02-13]]
 - Location: https://meet.mayfirst.org/social-coop-tech
 - Time: 19:00 – 20:00 UTC
@@ -8,6 +17,8 @@
     - Tod: based in Utah
 - Cleanup: 
     - [ ] [runko] Run certbot commands to revoke the previous certificates.
+        - Not needed, actually could be harmful as we copied the certificates.
+        - Instead we should check that certbot is successfully renewing 
     - [ ] check that backups work
     - [ ] [hetzner console] Decommission runko.
         - Any blockers? None known?
