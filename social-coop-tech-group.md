@@ -20,7 +20,8 @@
       - We removed the precompile in the end.
     - Done!
     - Issues we ran into
-        - Had to run `ansible-galaxy collection install -r requirements.yml` in ansible
+        - Had to run `export PASSWORD_STORE_DIR=~/.password-store/social.coop` (this depends on where you put your password store)
+        - Had to run `ansible-galaxy collection install -r requirements.yml` in ansible directory before deepl
 
 
 ## [[2023-01-30]]
