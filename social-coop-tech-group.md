@@ -18,12 +18,12 @@
     - Akshay: originally from India, now in Berlin
     - Tod: based in Utah
 - Cleanup: 
-    - [ ] [runko] Run certbot commands to revoke the previous certificates.
+    - [x] [runko] Run certbot commands to revoke the previous certificates.
         - Not needed, actually could be harmful as we copied the certificates.
-        - Instead we should check that certbot is successfully renewing 
-    - [ ] check that backups work
+        - Instead we should check that certbot is successfully renewing, moved to future agenda.
+    - [x] check that backups work
         - They don't :)
-        - Trying to fix it.
+        - Trying to fix it now, got all the way to setting up timer and fixing pg-dump-to-s3
     - [ ] [hetzner console] Decommission runko.
         - Any blockers? None known?
         - It's been off for a week.
