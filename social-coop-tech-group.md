@@ -41,7 +41,7 @@
 - Tod: what about mediawiki migration?
     - Next steps
         - Make sure that [[coop cloud]] is running successfully in [[hypha]]
-        - Install [[mediawiki]] using coop cloud in hypha.
+        - Install [[mediawiki]] using coop cloud in [[hypha]].
         - Take a database dump in wiki-dev (Flancian and jonny have access for now)
         - Restore database from wiki-dev.
         - Or alternatively rsync the whole thing ;)
@@ -50,6 +50,7 @@
     - Open questions
         - Does abra make it so that we don't need ansible?
             - Likely.
+        - Cloud init should be able to seed a machine with docker/docker swarm.
 
 ## [[2023-01-30]]
 - Location: https://meet.mayfirst.org/social-coop-tech
