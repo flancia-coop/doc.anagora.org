@@ -41,7 +41,8 @@
         - Some concerns with Obsidian vaults, and the fact that settings seem to be per-vault
         - MVP doesn't currently include sharing all the links in [[the brain]].
             - Would be nice to be able to infer [[massive wiki]] or [[agora]] URL from Obsidian directly.
-            - [[vulcan]] is new [[brain]] interface: https://forums.thebrain.com/post/12555295
+            - #push [[the brain]]
+                - [[vulcan]] is new [[brain]] interface: https://forums.thebrain.com/post/12555295
     - [[flancian]]
         - +1 on markdown on git
             - but it could also be "just a website" that we agree to crawl for notes
