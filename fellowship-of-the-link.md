@@ -58,7 +58,12 @@
          - [[Aram Zucker-Scharff]] mostly uses the graph to find things that should be linked but aren't
          - [[Jerry]] the brain does time-based and alphabetical sorting of nodes for you
 - [[Flancian]] where are your notes? ;)
+    - [[rel8]] have it already
     - [[Jerry]] git repos incoming
+        - [[brain]] dump
+            - maybe later? it's huge
+        - [[obsidian]]
+            - [[sync]]
 
 
 ## 2023-02-08
