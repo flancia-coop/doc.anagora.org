@@ -54,7 +54,8 @@
      - [[Jerry Michalski]] automatic footer surfacing "sister locations", "peers" -- and also how to collaborate in a particular context
      - [[Chris Aldrich]] context graph in the Agora is nice, but:
          - could use more levels (totally)
-         - it changes every time
+         - it changes every time, which makes it disconcerting (same in Obsdidian)
+         - [[Aram Zucker-Scharff]] mostly uses the graph to find things that should be linked but aren't
 
 
 ## 2023-02-08
