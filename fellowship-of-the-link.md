@@ -78,6 +78,8 @@
         - but has some things on Markdown, could work as a pilot.
         - Q: what about including arbitrary html?
     - [[Jerry Michalski]] blog / wiki convergence
+        - #push [[rel8]]
+            - [[rel8 llc]]
         
  
 
