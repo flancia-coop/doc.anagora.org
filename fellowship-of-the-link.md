@@ -70,7 +70,7 @@
     - [[Aram Zucker-Scharff]] is doing the same
         - experimenting with this in https://github.com/AramZS/dnd-campaign-site-defectors/blob/main/.husky/pre-commit
         - likes folders
-        - trying [[deepdwn]] for markdown editing and it's built for folders explicitly
+        - trying [[deepdwn]] https://www.deepdwn.com/ for markdown editing and it's built for folders explicitly
         - https://www.dendron.so/
         
  
