@@ -51,7 +51,10 @@
     - [[Chris Aldrich]]
         - how do you provide context in dense digital gardens/wikis? Without overwhelming users.
         - How to communicate spatial encoding  (e.g. what Jerry does in his Brain), and other conventions.
-     - [[Jerry Michalski]] automatic footer
+     - [[Jerry Michalski]] automatic footer surfacing "sister locations", "peers" -- and also how to collaborate in a particular context
+     - [[Chris Aldrich]] context graph in the Agora is nice, but:
+         - could use more levels (totally)
+         - it changes every time
 
 
 ## 2023-02-08
