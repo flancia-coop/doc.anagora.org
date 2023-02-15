@@ -63,7 +63,10 @@
         - [[brain]] dump
             - maybe later? it's huge
         - [[obsidian]]
-            - [[sync]]
+            - [[sync]] works nicely
+            - [[git]] is preferred
+                - [[obsidian git]]
+    - [[Chris Aldrich]] needs to separate public and private notes
 
 
 ## 2023-02-08
