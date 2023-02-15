@@ -49,7 +49,9 @@
                 - minimum for that would be: a base URL and a way to inform of the URL scheme that the website is using to serve notes
         - default for me is individual gardens on the one hand and "stoas" or "shared gardens" or just "wikis" as distinct
     - [[Chris Aldrich]]
-        - how do you provide context in these things?
+        - how do you provide context in dense digital gardens/wikis? Without overwhelming users.
+        - How to communicate spatial encoding  (e.g. what Jerry does in his Brain), and other conventions.
+     - [[Jerry Michalski]] automatic footer
 
 
 ## 2023-02-08
