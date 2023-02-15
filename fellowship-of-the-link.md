@@ -36,6 +36,9 @@
         - would like to maybe code a viewer for calendars/slot finder
     - [[flancian]] have been using [[nextcloud]] calendar for social.coop
 - how to share notes right here, right now
+    - [[jerry michalski]] who has opinions on how this should look?
+        - MVP: [[markdown]] files on git, plus maybe some mechanism to handle conflicts or at least handle contention
+        - Some concerns 
 
 
 ## 2023-02-08
