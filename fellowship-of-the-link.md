@@ -80,6 +80,8 @@
     - [[Jerry Michalski]] blog / wiki convergence
         - #push [[rel8]]
             - [[rel8 llc]]
+            - #push [[multiplayer sensemaking]]
+                - https://wiki.rel8.dev/what_multiplayer_sensemaking_needs_now
         
  
 
