@@ -41,8 +41,12 @@
         - Some concerns with Obsidian vaults, and the fact that settings seem to be per-vault
         - MVP doesn't currently include sharing all the links in [[the brain]].
             - Would be nice to be able to infer [[massive wiki]] or [[agora]] URL from Obsidian directly.
-    - 
+        - [[vulkan]] new [[brain]] interface: https://forums.thebrain.com/post/12555295
     - [[flancian]]
+        - +1 on markdown on git
+            - but it could also be "just a website" that we agree to crawl for notes
+            - minimum for that would be: a URL and a way to inform of the URL scheme that the website is using to serve notes
+        - default for me is individual gardens on the one hand and "stoas" or "shared gardens" or just "wikis" as distinct
 
 
 ## 2023-02-08
