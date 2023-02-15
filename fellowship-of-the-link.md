@@ -17,7 +17,7 @@
             - [[github]] by default?
             
 ## 2023-02-15
-- Attending: [[x]], [[y]]
+- Attending: [[Jerry Michalski]], [[Bentley Davis]], [[Flancian]], [[Aram Zucker-Scharff]], [[Chris Aldrich]]
 - Start recording, we're currently using Jitsi and that works best with a [[Chromium]] based browser.
 - Threads from last time we would like to pick up:
     - [[Aram Zucker-Scharff]] would like to generalize the archiving tool / link card generator he's been working on.
@@ -48,13 +48,15 @@
             - but it could also be "just a website" that we agree to crawl for notes
                 - minimum for that would be: a base URL and a way to inform of the URL scheme that the website is using to serve notes
         - default for me is individual gardens on the one hand and "stoas" or "shared gardens" or just "wikis" as distinct
+    - [[Chris Aldrich]]
+        - how do you provide context in these things?
 
 
 ## 2023-02-08
 - a [[meeting]].
     - #go https://meet.jit.si/fellowship-of-the-link
     - Wednesdays at [[6PM UTC]].
-- Attending: [[Peter Kaminski]], [[Jerry Michalski]], [[Bentley Davis]], [[Flancian]]
+- Attending: [[Peter Kaminski]], [[Jerry Michalski]], [[Bentley Davis]], [[Flancian]], [[Aram Zucker-Scharff]] (Late)
 - Start recording, we're currently using Jitsi and that works best with a [[Chromium]] based browser.
 - Threads from last time we would like to pick up, or new threads:
     - [[Jerry Michalski]] would like to share notes with each other.
