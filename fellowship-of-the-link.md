@@ -67,6 +67,10 @@
             - [[git]] is preferred
                 - [[obsidian git]]
     - [[Chris Aldrich]] needs to separate public and private notes
+    - [[Aram Zucker-Scharff]] is doing the same
+        - experimenting with this in https://github.com/AramZS/dnd-campaign-site-defectors/blob/main/.husky/pre-commit
+        - likes folders
+ 
 
 
 ## 2023-02-08
