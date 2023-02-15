@@ -73,6 +73,7 @@
         - likes folders
         - trying [[deepdwn]] https://www.deepdwn.com/ for markdown editing and it's built for folders explicitly
         - https://www.dendron.so/
+    - [[Bentley Davis]]
         
  
 
