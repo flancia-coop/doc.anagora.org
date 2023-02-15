@@ -82,6 +82,7 @@
             - [[rel8 llc]]
             - #push [[multiplayer sensemaking]]
                 - https://wiki.rel8.dev/what_multiplayer_sensemaking_needs_now
+                - what about a call with Dan?
         
  
 
