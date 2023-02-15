@@ -25,12 +25,13 @@
 - #push [[fotl threads]]
     - define:
         - [[wiki]] / root URL
-        - [[calendar]] URL
         - /now
         - [[issue tracker]] / [[project tracker]] URL
             - [[github]] by default?
 - Check ins
     - [[invasion of the body snatchers]]
+    
+- [[calendar]] URL
 
 
 ## 2023-02-08
