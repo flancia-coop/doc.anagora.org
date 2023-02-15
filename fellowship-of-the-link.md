@@ -74,6 +74,10 @@
         - trying [[deepdwn]] https://www.deepdwn.com/ for markdown editing and it's built for folders explicitly
         - https://www.dendron.so/
     - [[Bentley Davis]]
+        - Mostly uses his physical brain (!)
+        - but has some things on Markdown, could work as a pilot.
+        - Q: what about including arbitrary html?
+    - [[Jerry Michalski]] blog / wiki convergence
         
  
 
