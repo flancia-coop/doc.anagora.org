@@ -38,7 +38,11 @@
 - how to share notes right here, right now
     - [[jerry michalski]] who has opinions on how this should look?
         - MVP: [[markdown]] files on git, plus maybe some mechanism to handle conflicts or at least handle contention
-        - Some concerns 
+        - Some concerns with Obsidian vaults, and the fact that settings seem to be per-vault
+        - MVP doesn't currently include sharing all the links in [[the brain]].
+            - Would be nice to be able to infer [[massive wiki]] or [[agora]] URL from Obsidian directly.
+    - 
+    - [[flancian]]
 
 
 ## 2023-02-08
