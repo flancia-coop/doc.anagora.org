@@ -68,6 +68,7 @@
                 - [[obsidian git]]
     - [[Chris Aldrich]] needs to separate public and private notes
     - [[Aram Zucker-Scharff]] is doing the same
+        - [[markdown on git]]
         - experimenting with this in https://github.com/AramZS/dnd-campaign-site-defectors/blob/main/.husky/pre-commit
         - likes folders
         - trying [[deepdwn]] https://www.deepdwn.com/ for markdown editing and it's built for folders explicitly
