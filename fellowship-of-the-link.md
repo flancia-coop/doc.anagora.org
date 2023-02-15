@@ -32,7 +32,9 @@
     - [[invasion of the body snatchers]]
 - [[calendar]] URL
     - [[jerry michalski]] https://plex.collectivesensecommons.org/calendar/
-    - [[bentley davis]] surprised att 
+    - [[bentley davis]] surprised at the sheet but also understandable
+        - would like to maybe code a viewer for calendars/slot finder
+    - [[flancian]] have been using [[nextcloud]] calendar for social.coop
 - how to share notes right here, right now
 
 
