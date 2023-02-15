@@ -2,7 +2,8 @@
 
 - a [[meeting]].
     - #go https://meet.jit.si/fellowship-of-the-link
-    - Wednesdays at [[6PM UTC]].
+    - #calendar https://plex.collectivesensecommons.org/calendar/
+    - #when Wednesdays at [[6PM UTC]]
 - Attending: [[x]], [[y]]
 - Start recording, we're currently using Jitsi and that works best with a [[Chromium]] based browser.
 - Threads from last time we would like to pick up:
@@ -11,7 +12,6 @@
 - #push [[fotl threads]]
     - define:
         - [[wiki]] / root URL
-        - [[calendar]] URL
         - /now
         - [[issue tracker]] / [[project tracker]] URL
             - [[github]] by default?
@@ -30,8 +30,10 @@
             - [[github]] by default?
 - Check ins
     - [[invasion of the body snatchers]]
-    
 - [[calendar]] URL
+    - [[jerry michalski]] https://plex.collectivesensecommons.org/calendar/
+    - [[bentley davis]] surprised att 
+- how to share notes right here, right now
 
 
 ## 2023-02-08
