@@ -56,6 +56,7 @@
          - could use more levels (totally)
          - it changes every time, which makes it disconcerting (same in Obsdidian)
          - [[Aram Zucker-Scharff]] mostly uses the graph to find things that should be linked but aren't
+         - [[Jerry]] the brain does time-based and alphabetical sorting of nodes for you
 
 
 ## 2023-02-08
