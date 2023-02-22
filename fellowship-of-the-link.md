@@ -53,6 +53,11 @@
             - How to contribute this back to the big fungus
    - [[Flancian]]
        - Day job occurrences
+       - [[agora 2023]], [[agora 2025]]
+       - [[beyond markdown on git]]
+   - [[Aram Zucker-Scharff]]
+       - Work related: trying to push some blog posts through PR
+           - At just the right level to be under extra scrutiny
 - Flancian: on [[cross posting]] / [[siphoning]]
 
             
