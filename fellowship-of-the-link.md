@@ -36,6 +36,9 @@
     - There's also the parallel move from IRC to Slack or Discord :(
         - Note that the ToS for Slack doesn't allow to extract messages from the platform (!).
     - There's also the parallel move from e.g. [[phpbb]] to [[reddit]]/[[stack exchange]]; unclear if some conversations that used to happen in forums are even happening *somewhere* anymore?
+    - Aram: where has [[asynchronous play]] gone?
+    - [[Jerry Michalski]]: default settings from products (that e.g. either send notifications to email or not) count a lot here.
+- Flancian: on [[cross posting]] / [[siphoning]]
 
             
 ## 2023-02-15
