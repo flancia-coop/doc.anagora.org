@@ -82,6 +82,7 @@
             - [[Factr]]
             - [[Catalyst]]
     - [[SJ]] [[Art project]]: I'm gathering "Dreams for the future of knowledge" written onto 5x8cm cards 
+        - Event in New York
 - Flancian: would like to discuss [[cross posting]] / [[siphoning]] further some other meeting?
 
             
