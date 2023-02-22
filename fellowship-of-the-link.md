@@ -74,7 +74,12 @@
     - [[Mathew Lowry]] not used so much to [[check ins]] in Europe :)
         - Thanks Aram for joining the [[massive wiki]] effort!
         - Focusing on ramping up consulting, would love to get a gig related to knowledge organization
-        - [[Minimum Viable Ecosystem]]
+        - [[Minimum Viable Ecosystem]] of 
+            - Factor
+            - Catalyst
+            - Massive Wiki
+            - Myhub
+            - Agora
 - Flancian: would like to discuss [[cross posting]] / [[siphoning]] further some other meeting?
 
             
