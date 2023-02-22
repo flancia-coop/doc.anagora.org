@@ -17,10 +17,14 @@
             - [[github]] by default?
 
 ## 2023-02-23
-- Attending: [[Jerry Michalski]] [[Peter Kaminski]] [[Flancian]] ...
+- Attending: [[Jerry Michalski]] [[Peter Kaminski]] [[Flancian]] [[Aram Zucker-Scharff]] ...
 - (on OGM)
     - born in an [[email list]] ([[Google Group]])
-        - [[Peter Kaminski]] on dynamics i
+        - [[Peter Kaminski]] on dynamics in mailing lists
+        - noisy vs quiet people
+            - this problem seems to be less severe in chat? in particular if you can create a new room next door -- people will find their spaces
+            - "bloviating"
+            - nettiquette, 
     - channels in CSC [[mattermost]] came later
     - [[mini list]]
     - [[chat gpt]] discussion
