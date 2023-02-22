@@ -69,7 +69,10 @@
            - Timelines left-to-right don't work that well on the web; Molly's approach is top-to-bottom/feed like and works great
            - [[Circa]] https://www.niemanlab.org/2015/06/one-thing-we-can-learn-from-circa-a-broader-way-to-think-about-structured-news/
            - [[Circa]] https://www.theverge.com/2015/6/24/8842009/why-circa-failed
-           - [[ESC]] [[decent social]] https://decentsocial.net/
+           - [[ESC]] - https://www.esc.fyi/ - at [[decent social]] https://decentsocial.net/
+               - https://cryptpad.fr/sheet/#/3/sheet/edit/080b09b30bc627f2c8d884b606ec2922/
+    - [[Mathew Lowry]] not used so much to [[check ins]] in Europe :)
+        - 
 - Flancian: on [[cross posting]] / [[siphoning]]
 
             
