@@ -15,6 +15,10 @@
         - /now
         - [[issue tracker]] / [[project tracker]] URL
             - [[github]] by default?
+
+## 2023-02-23
+- Attend
+
             
 ## 2023-02-15
 - Attending: [[Jerry Michalski]], [[Bentley Davis]], [[Flancian]], [[Aram Zucker-Scharff]], [[Chris Aldrich]]
