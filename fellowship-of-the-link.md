@@ -17,7 +17,10 @@
             - [[github]] by default?
 
 ## 2023-02-23
-- Attend
+- Attending: [[Jerry Michalski]] [[Peter Kaminski]] [[Flancian]] ...
+- (on OGM)
+    - [[mini list]]
+    - [[chat gpt]] discussion
 
             
 ## 2023-02-15
