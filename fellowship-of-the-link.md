@@ -26,7 +26,8 @@
             - "bloviating"
             - people not being introduced to [[netiquette]]
             - [[slack]] designed around many of the limitations of email (you can rename channels but not (easily) email threads, etc.)
-        - email is the lingu
+        - email is the lingua franca / mcd tool (pro)
+        - email is pretty poor as a conversational medium (con)
     - channels in CSC [[mattermost]] came later
     - [[mini list]]
     - [[chat gpt]] discussion
