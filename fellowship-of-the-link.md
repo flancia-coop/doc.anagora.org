@@ -49,7 +49,10 @@
             - [[Indra's net]]
         - Working with Paul Roney (sp?) on a podcast on the history of computing
             - Early visionaries like Bush
-            - Plus policy/sense making at societa
+            - Plus policy/sense making at societal level, tying in to pandemic response
+            - How to contribute this back to the big fungus
+   - [[Flancian]]
+       - Day job occurrences
 - Flancian: on [[cross posting]] / [[siphoning]]
 
             
