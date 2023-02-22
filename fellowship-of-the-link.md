@@ -72,8 +72,10 @@
            - [[ESC]] - https://www.esc.fyi/ - at [[decent social]] https://decentsocial.net/
                - https://cryptpad.fr/sheet/#/3/sheet/edit/080b09b30bc627f2c8d884b606ec2922/
     - [[Mathew Lowry]] not used so much to [[check ins]] in Europe :)
-        - 
-- Flancian: on [[cross posting]] / [[siphoning]]
+        - Thanks Aram for joining the [[massive wiki]] effort!
+        - Focusing on ramping up consulting, would love to get a gig related to knowledge organization
+        - [[Minimum Viable Ecosystem]]
+- Flancian: would like to discuss [[cross posting]] / [[siphoning]] further some other meeting?
 
             
 ## 2023-02-15
