@@ -66,6 +66,7 @@
            - https://github.com/AramZS/contexter 
            - Inspired by the work of [[molly white]], https://www.mollywhite.net/timelines/wikimedia/, [[web3 is going great]]
            - [[Jerry Michalski]] [[LATCH]]: Location, Alphabets, Time, Categories, Hierarchies 
+           - Timelines left-to-right don't work that well on the web; Molly's approach is top-to-bottom/feed like and works great
 - Flancian: on [[cross posting]] / [[siphoning]]
 
             
