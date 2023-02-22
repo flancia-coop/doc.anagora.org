@@ -63,7 +63,9 @@
            - Looking forward to release this code next month, for now it's on a branch.
            - https://fightwithtools.dev/projects/context-timelines/
            - https://github.com/AramZS/context-center/tree/timeline
+           - https://github.com/AramZS/contexter 
            - Inspired by the work of [[molly white]], https://www.mollywhite.net/timelines/wikimedia/, [[web3 is going great]]
+           - [[Jerry Michalski]] [[LATCH]]: Location, Alphabets, Time, Categories, Hierarchies 
 - Flancian: on [[cross posting]] / [[siphoning]]
 
             
