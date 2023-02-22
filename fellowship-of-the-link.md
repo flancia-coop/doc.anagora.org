@@ -24,7 +24,9 @@
         - noisy vs quiet people
             - this problem seems to be less severe in chat? in particular if you can create a new room next door -- people will find their spaces
             - "bloviating"
-            - nettiquette, 
+            - people not being introduced to [[netiquette]]
+            - [[slack]] designed around many of the limitations of email (you can rename channels but not (easily) email threads, etc.)
+        - email is the lingu
     - channels in CSC [[mattermost]] came later
     - [[mini list]]
     - [[chat gpt]] discussion
