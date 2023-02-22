@@ -31,6 +31,8 @@
     - channels in CSC [[mattermost]] came later
     - [[mini list]]
     - [[chat gpt]] discussion
+- email vs matrix vs activitypub vs ...
+    - [[Aram Zucker-Scharff]] big generational gap with email, almost nobody millenial or younger wants to use email
 
             
 ## 2023-02-15
