@@ -74,12 +74,14 @@
     - [[Mathew Lowry]] not used so much to [[check ins]] in Europe :)
         - Thanks Aram for joining the [[massive wiki]] effort!
         - Focusing on ramping up consulting, would love to get a gig related to knowledge organization
+        - https://mathewlowry.medium.com/a-minimum-viable-ecosystem-for-collective-intelligence-7738848ce9c4
         - [[Minimum Viable Ecosystem]] of services/platforms like:
             - [[Massive Wiki]]
             - [[Myhub]]
             - [[Agora]]
             - [[Factr]]
             - [[Catalyst]]
+    - [[SJ]] [[Art project]]: I'm gathering "Dreams for the future of knowledge" written onto 5x8cm cards 
 - Flancian: would like to discuss [[cross posting]] / [[siphoning]] further some other meeting?
 
             
