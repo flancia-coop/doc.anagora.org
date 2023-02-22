@@ -19,6 +19,9 @@
 ## 2023-02-23
 - Attending: [[Jerry Michalski]] [[Peter Kaminski]] [[Flancian]] ...
 - (on OGM)
+    - born in an [[email list]] ([[Google Group]])
+        - [[Peter Kaminski]] on dynamics i
+    - channels in CSC [[mattermost]] came later
     - [[mini list]]
     - [[chat gpt]] discussion
 
