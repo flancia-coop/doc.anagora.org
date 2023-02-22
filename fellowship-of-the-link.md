@@ -58,6 +58,9 @@
    - [[Aram Zucker-Scharff]]
        - Work related: trying to push some blog posts through PR
            - At just the right level to be under extra scrutiny
+           - Writing precisely about hotspots
+       - Continuing to work on the context center (sp?) / timelines.
+           - Looking forward to open sourcing this code next month.
 - Flancian: on [[cross posting]] / [[siphoning]]
 
             
