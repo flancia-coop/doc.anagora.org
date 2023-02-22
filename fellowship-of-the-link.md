@@ -7,6 +7,10 @@
 - Attending: [[x]], [[y]]
 - Start recording, we're currently using Jitsi and that works best with a [[Chromium]] based browser.
 - Threads from last time we would like to pick up:
+
+    - [[Jerry Michalski]] let's discuss: note sharing.
+        - [[Aram Zucker-Scharff]] let's discuss conventions? Added something in [[massive wiki]].
+            - volunteered https://tftmap.massive.wiki/map/aram_zucker-scharff
     - [[Aram Zucker-Scharff]] would like to generalize the archiving tool / link card generator he's been working on.
     - [[Flancian]] would like to discuss [[Interwiki]] links and the [[common hub]] approach for search and entity resolution
 - #push [[fotl threads]]
