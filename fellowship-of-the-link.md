@@ -34,7 +34,8 @@
 - email vs matrix vs activitypub vs ...
     - [[Aram Zucker-Scharff]] big generational gap with email, almost nobody millenial or younger wants to use email
     - There's also the parallel move from IRC to Slack or Discord :(
-    - Note that the ToS for Slack doesn't allow to extract messages from the platform (!).
+        - Note that the ToS for Slack doesn't allow to extract messages from the platform (!).
+    - There's also the parallel move from e.g. [[phpbb]] to [[reddit]]/[[stack exchange]]; unclear if some conversations that used to happen in forums are even happening *somewhere* anymore?
 
             
 ## 2023-02-15
