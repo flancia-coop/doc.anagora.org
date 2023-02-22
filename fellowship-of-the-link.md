@@ -42,7 +42,14 @@
     - [[Aram]] Indieweb has a cross posting version of this that pulls in Discord, Matrix and IRC.
 - [[Check ins]]
     - [[Jerry Michalski]]
-        - Which kind of structure do we need to find to be a steward of a shared memo
+        - Which kind of structure do we need to find to be a steward of a shared memory for humans?
+        - Interested on: note sharing.
+            - Let's schedule a next week conversation about this?
+        - Using [[Youtube Shorts]] more, liking the [[60 seconds]] constraint
+            - [[Indra's net]]
+        - Working with Paul Roney (sp?) on a podcast on the history of computing
+            - Early visionaries like Bush
+            - Plus policy/sense making at societa
 - Flancian: on [[cross posting]] / [[siphoning]]
 
             
