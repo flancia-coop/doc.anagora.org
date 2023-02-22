@@ -38,6 +38,8 @@
     - There's also the parallel move from e.g. [[phpbb]] to [[reddit]]/[[stack exchange]]; unclear if some conversations that used to happen in forums are even happening *somewhere* anymore?
     - Aram: where has [[asynchronous play]] gone?
     - [[Jerry Michalski]]: default settings from products (that e.g. either send notifications to email or not) count a lot here.
+    - [[Jerry Michalski]] how to set up customized 'sweeps' (like personal workflows) and share them.
+    - [[Aram]] Indieweb has a cross posting version of this that pulls in Discord, Matrix and IRC. 
 - Flancian: on [[cross posting]] / [[siphoning]]
 
             
