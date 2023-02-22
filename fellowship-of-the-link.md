@@ -60,7 +60,9 @@
            - At just the right level to be under extra scrutiny
            - Writing precisely about hotspots
        - Continuing to work on the context center (sp?) / timelines.
-           - Looking forward to open sourcing this code next month.
+           - Looking forward to release this code next month, for now it's on a branch.
+           - https://fightwithtools.dev/projects/context-timelines/
+           - https://github.com/AramZS/context-center/tree/timeline
 - Flancian: on [[cross posting]] / [[siphoning]]
 
             
