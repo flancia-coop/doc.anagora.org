@@ -67,7 +67,9 @@
            - Inspired by the work of [[molly white]], https://www.mollywhite.net/timelines/wikimedia/, [[web3 is going great]]
            - [[Jerry Michalski]] [[LATCH]]: Location, Alphabets, Time, Categories, Hierarchies 
            - Timelines left-to-right don't work that well on the web; Molly's approach is top-to-bottom/feed like and works great
-           - [[Circa]]
+           - [[Circa]] https://www.niemanlab.org/2015/06/one-thing-we-can-learn-from-circa-a-broader-way-to-think-about-structured-news/
+           - [[Circa]] https://www.theverge.com/2015/6/24/8842009/why-circa-failed
+           - [[ESC]] [[decent social]] https://decentsocial.net/
 - Flancian: on [[cross posting]] / [[siphoning]]
 
             
