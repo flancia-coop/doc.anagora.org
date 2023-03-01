@@ -49,6 +49,7 @@
             - Together with a distributed system for tipping/paying it forward to everybody involved in derivative works
         - [[Embracing Piracy]]
         - #pk agree on almost all except for the idea of paying someone because they were the "root node"
+        - #fl [[Revolution Coin]] would give people this flexibility :)
  
 
 ## 2023-02-23
