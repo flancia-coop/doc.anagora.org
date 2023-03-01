@@ -86,6 +86,8 @@
      - What do we *need* to influence this space going forward?
          - Should we start with a [[wishlist]]?
          - Which: devices, people, organizations would we need the support of to get such a project off the ground? Which "things" would 
+         - Something there made me think of Generous Thinking by Kathleen Fitzpatrick 
+
          
 generative commons: lovely! 
 ~SJ says:what do we need the backing for? 
