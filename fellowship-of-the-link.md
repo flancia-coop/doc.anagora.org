@@ -37,6 +37,10 @@
         - Maybe what happened: there was a clamp down and then people started paying for samples, the economic aspect followed
         - [[How sampling transformed music]] https://www.youtube.com/watch?v=H3TF-hI7zKc
         - Parallels to how now you can post copyrighted videos/music to Youtube, and monetization "just flows" to the copyright holder
+    - Q: Why don't we have a network-based (federated, distributed, etc.) solution for flowing profits/dividends generally?
+        - A: mostly probably because copyright holders don't want this, they want a more centralized approach (e.g. meet with Youtube).
+    - On [[image generators]] and the associated problem
+        - #pk people realiz
  
 
 ## 2023-02-23
