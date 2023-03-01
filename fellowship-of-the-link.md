@@ -81,7 +81,28 @@
          - #jm what are our next two [[stacks]]? https://bra.in/5qnYm9
      - What do we *need* to influence this space going forward?
          - Should we start with a [[wishlist]]?
-         - Which: devices, people, organizations would we need the support of to get such a project off the ground? Which "things" would we asked for if could ask a genie?
+         - Which: devices, people, organizations would we need the support of to get such a project off the ground? Which "things" would 
+         
+generative commons: lovely! 
+~SJ says:what do we need the backing for? 
+https://en.wikipedia.org/wiki/Oracle_machine
+~SJ says:we need the wishlist ) 
+~SJ says:"You have been a bad supplicant. I have been a good Oracle 😇" 
+~SJ says:forkability 
+Peter Kaminski
+Peter Kaminski says:back to "style" as an asset or not, Peter Mohrbacher, an artist, has an interesting take in this article:
+
+https://medium.com/@woodenfox/ai-artwork-will-change-everything-top-artist-for-magic-the-gathering-shares-thoughts-58e25d0768d7
+
+Scroll down to the heading, 'On the Topic of Artists “Steeling” Art Styles Using AI' 
+21:11
+~SJ
+~SJ says:
+https://www.unum.cloud/blog/2023-02-20-efficient-multimodality
+ is a nice approach 
+~SJ says:right 
+~SJ says:mapping them to mechanism is important 
+~SJ says:let's work on it (incl. as a matchmaking challenge)
  
 
 ## 2023-02-23
