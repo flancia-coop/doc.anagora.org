@@ -88,6 +88,7 @@
          - Which: devices, people, organizations would we need the support of to get such a project off the ground? Which "things" would 
          - Something there made me think of Generous Thinking by Kathleen Fitzpatrick 
 
+(chat dump follows)
          
 generative commons: lovely! 
 ~SJ says:what do we need the backing for? 
