@@ -19,6 +19,18 @@
         - /now
         - [[issue tracker]] / [[project tracker]] URL
             - [[github]] by default?
+            
+## 2023-03-01
+- Attending: [[Jerry Michalski]] [[Peter Kaminski]] [[Flancian]] ...
+- [[Jerry Michalski]]
+    - [[My life as a cyborg]] (mentioned on Free Jerry's Brain on Monday)
+    - April posted about it on LinkedIn
+    - How do the following mix together?
+        - Jerry's Brain
+        - ChatGPT
+        - Massive Wikis
+        - Agoras
+ 
 
 ## 2023-02-23
 - Attending: [[Jerry Michalski]] [[Peter Kaminski]] [[Flancian]] [[Aram Zucker-Scharff]] ...
