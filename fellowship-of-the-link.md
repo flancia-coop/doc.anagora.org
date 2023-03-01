@@ -42,6 +42,7 @@
     - On [[image generators]] and the associated problem
         - #pk people realized that there was an "asset" up for grabs that wasn't recognized as such: [[style]].
         - Artists seem more concerned about style copying than about copying individual artwork.
+    - [[Jerry MichalskStyle is what an experienced/fully developed artist develops in a way that is recognizable
  
 
 ## 2023-02-23
