@@ -79,6 +79,9 @@
          - #sk [[pull revolution]] instead of [[push revolution]]
              - we should be empowering people to start new variations of society
          - #jm what are our next two [[stacks]]? https://bra.in/5qnYm9
+     - What do we *need* to influence this space going forward?
+         - Should we start with a [[wishlist]]?
+         - Which: devices, people, organizations would we need the support of to get such a project off the ground? Which "things" would we asked for if could ask a genie?
  
 
 ## 2023-02-23
