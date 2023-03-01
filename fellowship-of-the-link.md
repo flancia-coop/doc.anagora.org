@@ -73,8 +73,10 @@
                  - [[pirate enlightenment]]
              - #jm [[under the black flag]] is also very good
              - #jm on [[capitalism]]:
-                 - Like Cuckoos, Capitalism Had to Push All Other Ways of Living Out of the Nest 
-https://bra.in/5jk43Z
+                 - Like Cuckoos, Capitalism Had to Push All Other Ways of Living Out of the Nest https://bra.in/5jk43Z
+                 - -> [[ontoshift]] is needed
+             - #ca [[capitalism]] has competitive advantages, in particular paired with the [[industrial revolution]]
+             -  
  
 
 ## 2023-02-23
