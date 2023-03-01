@@ -44,7 +44,11 @@
         - Artists seem more concerned about style copying than about copying individual artwork.
     - [[Jerry Michalski]] Style is what an experienced/fully developed artist develops in a way that is recognizable
         - c.f. [[essence]], which these engines seem to be able to latch on
-        
+    - [[Copyright Revolution]]
+        - #jm [[Attribution]] is extremely important
+            - Together with a distributed system for tipping/paying it forward to everybody involved in derivative works
+        - [[Embracing Piracy]]
+        - #pk agree on almost all except for the idea of paying someone because they were the "root node"
  
 
 ## 2023-02-23
