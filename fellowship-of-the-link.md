@@ -50,6 +50,8 @@
         - [[Embracing Piracy]]
         - #pk agree on almost all except for the idea of paying someone because they were the "root node"
         - #fl [[Revolution Coin]] would give people this flexibility :)
+        - #pk but human creativity is already a [[commons]] and it should be recognized as such
+        - http://en.wikipedia.org/wiki/Shepard_Fairey
  
 
 ## 2023-02-23
