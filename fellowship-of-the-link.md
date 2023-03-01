@@ -7,8 +7,10 @@
 - Attending: [[x]], [[y]]
 - Start recording, we're currently using Jitsi and that works best with a [[Chromium]] based browser.
 - Threads from last time we would like to pick up:
+    - [[high leverage opportunities]] we can spot
     - [[generative commons]]
-        - [[generative lin]]
+        - [[generative linking]] (inferring links)
+        - [[general commons agreement]] https://bra.in/8qeNWy
     - [[wishlist]] approach to worldbuilding
     - [[Jerry Michalski]] let's discuss: note sharing.
         - [[Aram Zucker-Scharff]] let's discuss conventions? Added something in [[massive wiki]].
