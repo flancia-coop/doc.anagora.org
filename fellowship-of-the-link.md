@@ -66,6 +66,7 @@
          - [[automated communism]]
          - #ca we've been using [[fame]]; what is its value? does fame have value beyond a marketplace that puts value on fame?
              - [[spielberg]] can make any movie he wants because of fame; he is trading that for something else?
+          
  
 
 ## 2023-02-23
