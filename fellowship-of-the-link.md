@@ -52,6 +52,11 @@
         - #fl [[Revolution Coin]] would give people this flexibility :)
         - #pk but human creativity is already a [[commons]] and it should be recognized as such
         - http://en.wikipedia.org/wiki/Shepard_Fairey
+        - #ca on attribution as key, and how we:
+            - Don't attribute enough (you don't see marketing people or theater owners in movie credits)
+            - Could we making more explicit ancillary actors in general
+            - China example: after decades of work they're still at 60-70% of where they could be w.r.t. setting up actual distribution networks
+        - #jk Distributed Accounting of Value Flows (Revenue Sharing for Collaboration) https://bra.in/7qeDBy
  
 
 ## 2023-02-23
