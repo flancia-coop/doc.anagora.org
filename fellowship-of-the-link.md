@@ -33,7 +33,10 @@
     - Hip Hop culture and sampling
         - Previously it was clamped down upon by the recording industry
         - But Hip Hop railed against it and came out on top
-        - [[Peter Kaminski]] it might be that hip hop started sampling culture ()
+        - [[Peter Kaminski]] it might be that hip hop started sampling culture (was there much sampling before that?)
+        - Maybe what happened: there was a clamp down and then people started paying for samples, the economic aspect followed
+        - [[How sampling transformed music]] https://www.youtube.com/watch?v=H3TF-hI7zKc
+        - Parallels to how now you can post copyrighted videos/music to Youtube, and monetization "just flows" to the copyright holder
  
 
 ## 2023-02-23
