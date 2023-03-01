@@ -7,7 +7,9 @@
 - Attending: [[x]], [[y]]
 - Start recording, we're currently using Jitsi and that works best with a [[Chromium]] based browser.
 - Threads from last time we would like to pick up:
-
+    - [[generative commons]]
+        - [[generative lin]]
+    - [[wishlist]] approach to worldbuilding
     - [[Jerry Michalski]] let's discuss: note sharing.
         - [[Aram Zucker-Scharff]] let's discuss conventions? Added something in [[massive wiki]].
             - volunteered https://tftmap.massive.wiki/map/aram_zucker-scharff
