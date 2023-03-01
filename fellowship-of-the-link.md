@@ -76,7 +76,9 @@
                  - Like Cuckoos, Capitalism Had to Push All Other Ways of Living Out of the Nest https://bra.in/5jk43Z
                  - -> [[ontoshift]] is needed
              - #ca [[capitalism]] has competitive advantages, in particular paired with the [[industrial revolution]]
-             -  
+         - #sk [[pull revolution]] instead of [[push revolution]]
+             - we should be  
+         - #jm what are our next two [[stacks]]? https://bra.in/5qnYm9
  
 
 ## 2023-02-23
