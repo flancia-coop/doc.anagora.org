@@ -56,7 +56,11 @@
             - Don't attribute enough (you don't see marketing people or theater owners in movie credits)
             - Could we making more explicit ancillary actors in general
             - China example: after decades of work they're still at 60-70% of where they could be w.r.t. setting up actual distribution networks
-        - #jk Distributed Accounting of Value Flows (Revenue Sharing for Collaboration) https://bra.in/7qeDBy
+        - #jk [[Distributed Accounting of Value Flows]] (Revenue Sharing for Collaboration) https://bra.in/7qeDBy
+            - in this space:
+                - [[open collective]]
+                - [[disco coop]]
+            - if this worked, you could drop your 'reward' for a movie in a shared pool and let the right distribution system do the work
  
 
 ## 2023-02-23
