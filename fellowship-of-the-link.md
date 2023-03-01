@@ -30,6 +30,10 @@
         - ChatGPT
         - Massive Wikis
         - Agoras
+    - Hip Hop culture and sampling
+        - Previously it was clamped down upon by the recording industry
+        - But Hip Hop railed against it and came out on top
+        - [[Peter Kaminski]] it might be that hip hop started sampling culture ()
  
 
 ## 2023-02-23
