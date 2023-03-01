@@ -77,7 +77,7 @@
                  - -> [[ontoshift]] is needed
              - #ca [[capitalism]] has competitive advantages, in particular paired with the [[industrial revolution]]
          - #sk [[pull revolution]] instead of [[push revolution]]
-             - we should be  
+             - we should be empowering people to start new variations of society
          - #jm what are our next two [[stacks]]? https://bra.in/5qnYm9
  
 
