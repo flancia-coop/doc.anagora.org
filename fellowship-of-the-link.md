@@ -66,7 +66,11 @@
          - [[automated communism]]
          - #ca we've been using [[fame]]; what is its value? does fame have value beyond a marketplace that puts value on fame?
              - [[spielberg]] can make any movie he wants because of fame; he is trading that for something else?
-          
+         - #pk [[fame]] as a proxy for respect from people
+             - not fungible, might not necessarily feed you
+             - #ca [[david graeber]] and [[the dawn of everything]]
+                 - "we stole the idea of freedom from them"
+                 - [[pirate enlightenment]]
  
 
 ## 2023-02-23
