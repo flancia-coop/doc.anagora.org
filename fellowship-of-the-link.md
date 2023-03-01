@@ -61,6 +61,8 @@
                 - [[open collective]]
                 - [[disco coop]]
             - if this worked, you could drop your 'reward' for a movie in a shared pool and let the right distribution system do the work
+     - [[sam klein]] "Any good Fellowship should include generative members"
+         - How do we make good on the opportunity to have a more robustly fleshed out world of links, value flows, etc.?
  
 
 ## 2023-02-23
