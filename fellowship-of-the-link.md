@@ -71,6 +71,10 @@
              - #ca [[david graeber]] and [[the dawn of everything]]
                  - "we stole the idea of freedom from them"
                  - [[pirate enlightenment]]
+             - #jm [[under the black flag]] is also very good
+             - #jm on [[capitalism]]:
+                 - Like Cuckoos, Capitalism Had to Push All Other Ways of Living Out of the Nest 
+https://bra.in/5jk43Z
  
 
 ## 2023-02-23
