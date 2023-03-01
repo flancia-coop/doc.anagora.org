@@ -40,7 +40,8 @@
     - Q: Why don't we have a network-based (federated, distributed, etc.) solution for flowing profits/dividends generally?
         - A: mostly probably because copyright holders don't want this, they want a more centralized approach (e.g. meet with Youtube).
     - On [[image generators]] and the associated problem
-        - #pk people realiz
+        - #pk people realized that there was an "asset" up for grabs that wasn't recognized as such: [[style]].
+        - Artists seem more concerned about style copying than about copying individual artwork.
  
 
 ## 2023-02-23
