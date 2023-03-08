@@ -24,7 +24,14 @@
         - [[issue tracker]] / [[project tracker]] URL
             - [[github]] by default?
             
-## 2023-03-01
+## 2023-03-08
+- Attending: [[Jerry Michalski]] [[Flancian]] ...
+- https://wiki.rel8.dev/shared_notes_across_six_tools
+- Initial list of participants:
+    - Jerry Michalski
+    - Flancian
+    - Pete Kamins
+
 ## 2023-03-01
 - Attending: [[Jerry Michalski]] [[Peter Kaminski]] [[Flancian]] ...
 - [[Jerry Michalski]]
