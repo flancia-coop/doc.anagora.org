@@ -62,7 +62,7 @@
     - [[markdown it]] https://fightwithtools.dev/posts/projects/devblog/retro-markdown-it/
 - on [[go links]]
     - related: [[alfred app]] [[TextExpander]]
-- 
+- Let's all link our repositories in https://wiki.rel8.dev/shared_notes_across_six_tools / [[shared notes across six tools]]
  
 
 ## 2023-03-01
