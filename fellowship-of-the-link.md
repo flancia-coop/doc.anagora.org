@@ -26,11 +26,18 @@
             
 ## 2023-03-08
 - Attending: [[Jerry Michalski]] [[Flancian]] ...
-- https://wiki.rel8.dev/shared_notes_across_six_tools
-- Initial list of participants:
+- https://wiki.rel8.dev/shared_notes_across_six_tools -- one of the big goals for 2023.
+- Initial list of participants (invited):
     - Jerry Michalski
     - Flancian
-    - Pete Kamins
+    - Pete Kaminski
+    - Bentley Davis
+        - Doesn't currently follow a note taking systemw
+    - Maggie Appleton
+    - Chris Aldrich
+    - Mathew Lowry
+    - Aram Zucker-Scharff
+        - 
 
 ## 2023-03-01
 - Attending: [[Jerry Michalski]] [[Peter Kaminski]] [[Flancian]] ...
