@@ -61,8 +61,8 @@
     - https://github.com/AramZS/notebook/blob/main/README.md is a recap of conventions we've discussed so far
     - [[markdown it]] https://fightwithtools.dev/posts/projects/devblog/retro-markdown-it/
 - on [[go links]]
-    - related: [[alfred app]]
-    - [[text expander]]
+    - related: [[alfred app]] [[TextExpander]]
+- 
  
 
 ## 2023-03-01
