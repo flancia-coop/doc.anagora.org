@@ -58,6 +58,8 @@
 - [[Aram Zucker-Scharff]]
     - would like to publish his notebook
     - would like a static-pages-based solution, no server component
+    - https://github.com/AramZS/notebook/blob/main/README.md
+ 
 
 ## 2023-03-01
 - Attending: [[Jerry Michalski]] [[Peter Kaminski]] [[Flancian]] ...
