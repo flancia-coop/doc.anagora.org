@@ -49,6 +49,7 @@
     - private by default, but allows for easy publishing?
         - currently using [[nested vaults]] with [[obsidian]]
     - hypothesis integration
+        - some frustration with the hypothes.is API
     - syndicates to social media with a permalink
     - does not require many tools
 
