@@ -44,7 +44,12 @@
     - :)
     - [[pull]] is too similar to 'pull request' so it was a bit confusing at first
     - #ca the distinction with block references w.r.t. pull/push was the most useful framing heard so far
-- [[Chris Aldrich]] 
+- [[Chris Aldrich]] ideal note taking flow:
+    - markdown based
+    - private by default, but allows for easy publishing?
+        - currently using [[nested vaults]] with [[obsidian]]
+    - syndicates to social media with a permalink
+    - does not require many tools
 
 
 ## 2023-03-01
