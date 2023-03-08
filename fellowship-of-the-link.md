@@ -38,7 +38,8 @@
     - Mathew Lowry
     - Aram Zucker-Scharff
         - Would be interested in exploring this from a common processes point of view, beyond the particular tool used
-- [[Markdown on git]] as a simple 
+- [[Markdown on git]] as a simple common format/medium
+- Low bar: everybody links to https://wiki.rel8.dev/shared_notes_across_six_tools and the way back
 
 ## 2023-03-01
 - Attending: [[Jerry Michalski]] [[Peter Kaminski]] [[Flancian]] ...
