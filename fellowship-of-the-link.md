@@ -25,6 +25,7 @@
             - [[github]] by default?
             
 ## 2023-03-01
+## 2023-03-01
 - Attending: [[Jerry Michalski]] [[Peter Kaminski]] [[Flancian]] ...
 - [[Jerry Michalski]]
     - [[My life as a cyborg]] (mentioned on Free Jerry's Brain on Monday)
