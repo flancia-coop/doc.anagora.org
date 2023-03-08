@@ -48,6 +48,7 @@
     - markdown based
     - private by default, but allows for easy publishing?
         - currently using [[nested vaults]] with [[obsidian]]
+    - hypothesis integration
     - syndicates to social media with a permalink
     - does not require many tools
 
