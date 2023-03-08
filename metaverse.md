@@ -1,2 +1,1 @@
-[[2022-02-05]]
-I'm thinking about the metaverse and what that actually means. All these companies want to own the "concept" of the metaverse but I feel like what the metaverse is really is a time and place, an era of human evolution for better or for worse
+I'm busy right now, try again later.
