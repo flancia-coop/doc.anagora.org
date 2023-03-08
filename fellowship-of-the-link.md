@@ -37,7 +37,8 @@
     - Chris Aldrich
     - Mathew Lowry
     - Aram Zucker-Scharff
-        - 
+        - Would be interested in exploring this from a common processes point of view, beyond the particular tool used
+- [[Markdown on git]] as a simple 
 
 ## 2023-03-01
 - Attending: [[Jerry Michalski]] [[Peter Kaminski]] [[Flancian]] ...
