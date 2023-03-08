@@ -52,6 +52,8 @@
         - some frustration with the hypothes.is API
     - syndicates to social media with a permalink
     - does not require many tools, trying to cut down on the number of moving pieces always
+- [[Instagram]]
+    - cut off access to [[Chris Aldrich]] for the nth time, which is one time too many
 
 
 ## 2023-03-01
