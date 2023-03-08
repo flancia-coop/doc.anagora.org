@@ -40,7 +40,11 @@
         - Would be interested in exploring this from a common processes point of view, beyond the particular tool used
 - [[Markdown on git]] as a simple common format/medium
 - Low bar: everybody links to https://wiki.rel8.dev/shared_notes_across_six_tools and the way back
-
+- [[flancian]] Agora demo + [[go/agora chapter]]
+    - :)
+    - [[pull]] is too similar to 'pull request' so it was a bit confusing at first
+    - #ca the distinction with block references w.r.t. pull/push was the most useful framing heard so far
+- [[Chris Aldrich]] 
 
 
 ## 2023-03-01
