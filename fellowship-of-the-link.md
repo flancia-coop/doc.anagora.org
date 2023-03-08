@@ -54,8 +54,10 @@
     - does not require many tools, trying to cut down on the number of moving pieces always
 - [[Instagram]]
     - cut off access to [[Chris Aldrich]] for the nth time, which is one time too many
-- Web annotations standard
-
+- [[Web annotation standard]]]
+- [[Aram Zucker-Scharff]]
+    - would like to publish his notebook
+    - would like a static-pages-based solution, no server component
 
 ## 2023-03-01
 - Attending: [[Jerry Michalski]] [[Peter Kaminski]] [[Flancian]] ...
