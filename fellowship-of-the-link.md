@@ -60,7 +60,9 @@
     - would like a static-pages-based solution, no server component
     - https://github.com/AramZS/notebook/blob/main/README.md is a recap of conventions we've discussed so far
     - [[markdown it]] https://fightwithtools.dev/posts/projects/devblog/retro-markdown-it/
-- 
+- on [[go links]]
+    - related: [[alfred app]]
+    - [[text expander]]
  
 
 ## 2023-03-01
