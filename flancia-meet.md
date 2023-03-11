@@ -14,6 +14,7 @@
         - #push [[wybo wiersma]]
             - [[logilogi]] by [[wybo wiersma]] et al
             - https://www.oxfordmail.co.uk/news/23280202.live-updates-sentencing-wybo-wiersma-stealing-2-1m-iota-crypto/ (!)
+- [[relationship]], [[work]] updates
   
 
 # [[flancia meet 2023-02-11]]
