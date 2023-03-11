@@ -3,7 +3,7 @@
 - Note to future selves
     - [ ] Check that certbot is actually running in rhizome successfully if we didn't do it back in February.
     - [[flancian]] Hello from the future as of [[2023-03-11]] :)
-        - The certificate expires [[2023-04-17]] so there's plenty of time, but   
+        - The certificate expires [[2023-04-17]] so there's plenty of time, but certbot is not running -- certbot.service expects it in /usr/bin/certbot but it's installed in /usr/local/bin/certbot  
 
 ## [[2023-02-27]]
 - Note to future selves
