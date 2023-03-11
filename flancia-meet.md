@@ -4,6 +4,12 @@
 
 # [[flancia meet 2023-03-11]]
 - Attending: [[armengol]] [[flancian]]
+- Studying [[philosophy]]!
+    - very theoretic approach, thinking about applications
+    - current subjects around [[history]] 
+    - [[philosophy in the web]]
+        - one example in [[2008]] - [[2010]]
+  
 
 # [[flancia meet 2023-02-11]]
 - Attending: [[aldhari]] [[flancian]]
