@@ -7,7 +7,7 @@
 - Studying [[philosophy]]!
     - very theoretic approach, thinking about applications
     - current subjects around [[history]] 
-    - [[philosophy in the web]]
+    -> [[philosophy in the web]]
         - one example in [[2008]] - [[2010]]
         - compatible with note taking, transclusion, etc.
         - very grounded in academy, not product focused
