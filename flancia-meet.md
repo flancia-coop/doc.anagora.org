@@ -11,8 +11,9 @@
         - one example in [[2008]] - [[2010]]
         - compatible with note taking, transclusion, etc.
         - very grounded in academy, not product focused
-        - [[logilogi]] by [[wybo wiersma]] et al
-        - https://www.oxfordmail.co.uk/news/23280202.live-updates-sentencing-wybo-wiersma-stealing-2-1m-iota-crypto/
+        - #push [[wybo wiersma]]
+            - [[logilogi]] by [[wybo wiersma]] et al
+            - https://www.oxfordmail.co.uk/news/23280202.live-updates-sentencing-wybo-wiersma-stealing-2-1m-iota-crypto/ (!)
   
 
 # [[flancia meet 2023-02-11]]
