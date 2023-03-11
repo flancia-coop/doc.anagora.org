@@ -17,7 +17,7 @@
 - [[relationship]], [[work]] updates
      - [[agora chapter]]
          - on the pros and cons of bullet points
-         - the d
+         - the difficulty of going from bullet points/outliner mode to actual text
   
 
 # [[flancia meet 2023-02-11]]
