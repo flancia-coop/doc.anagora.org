@@ -18,6 +18,7 @@
      - [[agora chapter]]
          - on the pros and cons of bullet points
          - the difficulty of going from bullet points/outliner mode to actual text
+            - inte
   
 
 # [[flancia meet 2023-02-11]]
