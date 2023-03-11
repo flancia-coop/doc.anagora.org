@@ -2,6 +2,8 @@
 ## [[2023-03-06]]
 - Note to future selves
     - [ ] Check that certbot is actually running in rhizome successfully if we didn't do it back in February.
+    - [[flancian]] Hello from the future as of [[2023-03-11]] :)
+        - The certificate expires [[2023-04-17]] so there's plenty of time, but   
 
 ## [[2023-02-27]]
 - Note to future selves
