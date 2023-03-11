@@ -21,6 +21,7 @@
             - interesting in two levels:
                 - [[structure]]
                 - shift in [[meaning]]
+- [[ostras]] [[mogollón]]
   
 
 # [[flancia meet 2023-02-11]]
