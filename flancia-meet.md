@@ -22,6 +22,7 @@
                 - [[structure]]
                 - shift in [[meaning]]
 - [[ostras]] [[mogollón]]
+- [[codenames]]
   
 
 # [[flancia meet 2023-02-11]]
