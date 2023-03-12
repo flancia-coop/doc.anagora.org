@@ -5,7 +5,7 @@
     - [[flancian]] Hello from the future as of [[2023-03-11]] :)
         - The certificate expires [[2023-04-17]] so there's plenty of time, but certbot is not running -- certbot.service expects it in /usr/bin/certbot but it's installed in /usr/local/bin/certbot  
     - [ ] Should we retire the [sauce](https://git.coop/social.coop/tech/sauce) repo?
-    - [ ] Port wiki-dev to new coop cloud mediawiki instance? 
+    - [ ] Port wiki-dev to [new coop cloud mediawiki instance](https://git.coop/social.coop/tech/operations/-/issues/66)?
 
 ## [[2023-02-27]]
 - Note to future selves
