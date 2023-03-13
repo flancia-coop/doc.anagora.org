@@ -13,6 +13,11 @@ Here: Eduardo, Akskhay, Calix
     - [ ] Should we retire the [sauce](https://git.coop/social.coop/tech/sauce) repo?
         - Is there anything remaining there of interest?
         - Some canned SQL queries
+        - [[calix]]: proposal: archive the repo
+        - [[Flancian]]: yes!
+        - [[Akshay]]: Let's add a link to the ansible repo in a README first?
+        - [[Flancian]]: yes!
+        - https://git.coop/social.coop/tech/sauce/-/merge_requests/20
     - [ ] Port wiki-dev to our shiny new coop cloud mediawiki instance [wiki-alpha](https://wiki-alpha.social.coop/) see [issue](https://git.coop/social.coop/tech/operations/-/issues/66) for details.
         - [[Flancian]] I discussed migration paths with the [[wiki builders]] chat and the easiest way forward is probably to declare maintenance for our wiki (including registrations?), bring it down and bring up mediawiki on wiki.social.coop during that window.
         - Please review https://git.coop/social.coop/tech/ansible/-/merge_requests/24
