@@ -32,7 +32,7 @@ Here: Eduardo, Akskhay, Calix
             - [[keycloak]] would be the go-to here probably: https://recipes.coopcloud.tech/keycloak
             - Could we have a migration path were we move people gracefully from Mastodon to some other auth provider?
                 - [[Calix]]: Possible, bit long shot!
-
+    
 ## [[2023-02-27]]
 - Note to future selves
     - [ ] Check that certbot is actually running in rhizome successfully.
