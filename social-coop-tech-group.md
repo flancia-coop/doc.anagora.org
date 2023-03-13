@@ -1,14 +1,18 @@
+## [[2023-03-13]]
 
-## [[2023-03-06]]
+Here: Eduardo, Akskhay, Calix
+
 - Note to future selves
     - [ ] Check that certbot is actually running in rhizome successfully if we didn't do it back in February.
     - [[flancian]] Hello from the future as of [[2023-03-11]] :)
         - The certificate expires [[2023-04-17]] so there's plenty of time, but certbot is not running -- certbot.service expects it in /usr/bin/certbot but it's installed in /usr/local/bin/certbot  
+        - [[Flancian]] Wrote small fix that should take care of this
     - [ ] Retire runko, see [issue](https://git.coop/social.coop/tech/operations/-/issues/69).
     - [ ] Should we retire the [sauce](https://git.coop/social.coop/tech/sauce) repo?
     - [ ] Port wiki-dev to our shiny new coop cloud mediawiki instance [wiki-alpha](https://wiki-alpha.social.coop/) see [issue](https://git.coop/social.coop/tech/operations/-/issues/66) for details.
-- Wiki 
-    - [[Flancian]] I discussed migration paths with the [[wiki builders]] chat and the easiest way forward is probably to declare maintenance for our wiki (including registrations?), bring it down and bring up mediawiki on wiki.social.coop during that window.
+        - [[Flancian]] I discussed migration paths with the [[wiki builders]] chat and the easiest way forward is probably to declare maintenance for our wiki (including registrations?), bring it down and bring up mediawiki on wiki.social.coop during that window.
+        - Please review https://git.coop/social.coop/tech/ansible/-/merge_requests/24
+
 
 
 ## [[2023-02-27]]
