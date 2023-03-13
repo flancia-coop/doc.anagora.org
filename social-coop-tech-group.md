@@ -18,11 +18,14 @@ Here: Eduardo, Akskhay, Calix
         - [[Akshay]]: Let's add a link to the ansible repo in a README first?
         - [[Flancian]]: yes!
         - https://git.coop/social.coop/tech/sauce/-/merge_requests/20
-        - ARCHIVAL COMPLETE
+        - ARCHIVAL COMPLETE 🎉
     - [ ] Port wiki-dev to our shiny new coop cloud mediawiki instance [wiki-alpha](https://wiki-alpha.social.coop/) see [issue](https://git.coop/social.coop/tech/operations/-/issues/66) for details.
         - [[Flancian]] I discussed migration paths with the [[wiki builders]] chat and the easiest way forward is probably to declare maintenance for our wiki (including registrations?), bring it down and bring up mediawiki on wiki.social.coop during that window.
         - Please review https://git.coop/social.coop/tech/ansible/-/merge_requests/24
-        - 
+        - calix (they/them) dice: https://doc.traefik.io/traefik/routing/routers/#priority
+        - calix (they/them) dice: https://doc.traefik.io/traefik/routing/overview/
+ 
+ 
 
 
 ## [[2023-02-27]]
