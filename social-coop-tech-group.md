@@ -24,8 +24,6 @@ Here: Eduardo, Akskhay, Calix
         - Please review https://git.coop/social.coop/tech/ansible/-/merge_requests/24
         - calix (they/them) dice: https://doc.traefik.io/traefik/routing/routers/#priority
         - calix (they/them) dice: https://doc.traefik.io/traefik/routing/overview/
- 
- 
 
 
 ## [[2023-02-27]]
