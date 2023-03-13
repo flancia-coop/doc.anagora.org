@@ -28,6 +28,8 @@ Here: Eduardo, Akskhay, Calix
         - Matrix?
         - SSO?
             - Bonfire?
+            - Do we want a dedicated SSO provider or to piggyback on a Fediverse instances?
+            - [[keycloak]] would be the go-to
 
 ## [[2023-02-27]]
 - Note to future selves
