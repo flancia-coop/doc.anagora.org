@@ -22,7 +22,7 @@ Here: Eduardo, Akskhay, Calix
     - [ ] Port wiki-dev to our shiny new coop cloud mediawiki instance [wiki-alpha](https://wiki-alpha.social.coop/) see [issue](https://git.coop/social.coop/tech/operations/-/issues/66) for details.
         - [[Flancian]] I discussed migration paths with the [[wiki builders]] chat and the easiest way forward is probably to declare maintenance for our wiki (including registrations?), bring it down and bring up mediawiki on wiki.social.coop during that window.
         - Please review https://git.coop/social.coop/tech/ansible/-/merge_requests/24
-
+        - 
 
 
 ## [[2023-02-27]]
