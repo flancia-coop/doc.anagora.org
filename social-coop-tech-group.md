@@ -29,7 +29,8 @@ Here: Eduardo, Akskhay, Calix
         - SSO?
             - Bonfire?
             - Do we want a dedicated SSO provider or to piggyback on a Fediverse instances?
-            - [[keycloak]] would be the go-to
+            - [[keycloak]] would be the go-to here probably: https://recipes.coopcloud.tech/keycloak
+            - Could we have a migration path were we move people gracefully from Mastodon to some other auth provider?
 
 ## [[2023-02-27]]
 - Note to future selves
