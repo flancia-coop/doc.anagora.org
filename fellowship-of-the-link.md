@@ -32,7 +32,7 @@
     - Flancian
     - Pete Kaminski
     - Bentley Davis
-        - Doesn't currently follow a note taking systemw
+        - Doesn't currently follow a note taking system
     - Maggie Appleton
     - Chris Aldrich
     - Mathew Lowry
