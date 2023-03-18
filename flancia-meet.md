@@ -27,7 +27,7 @@
     - [[j0lms]] on countries in [[latin america]] asking for apologies from european [[monarchies]]
     - can you forgive some things
         - the case of [[david saavedra]]
-        - the case of [[?]] who befriended
+        - the case of [[?]] who befriended the [[ku klux klan]]
 
 # [[flancia meet 2023-03-11]]
 - Attending: [[armengol]] [[flancian]]
