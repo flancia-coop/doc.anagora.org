@@ -31,6 +31,7 @@
     - [[campfire networks]] 
         - [[bonfire]]
         - [[circles]]
+- [[centralized]] vs [[decentralized]] approaches for agora building
 
 # [[flancia meet 2023-03-11]]
 - Attending: [[armengol]] [[flancian]]
