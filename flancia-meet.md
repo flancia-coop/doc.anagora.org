@@ -17,7 +17,7 @@
             - personification of [[time]]
             - manifestation of [[shakti]]
         - two types of energy in [[hinduism]], usually described as male and female but actually [[inactive]] (ground) and [[active]] (signal)
-    - 
+    - dealing with [[bureaucracy]]
 
 # [[flancia meet 2023-03-11]]
 - Attending: [[armengol]] [[flancian]]
