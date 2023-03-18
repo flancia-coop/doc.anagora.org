@@ -11,6 +11,10 @@
     - [[walkout]]
 - [[V]]
     - [[turmoil]]
+    - [[mantras]]
+        - [[kali]]
+            - personification of [[time]]
+            - manifestation of [[shakti]]
 
 # [[flancia meet 2023-03-11]]
 - Attending: [[armengol]] [[flancian]]
