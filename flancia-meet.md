@@ -25,6 +25,8 @@
     - [[ibm]] collaborated with the nazis, like [[hubo boss]], etc.
     - is there any way apologies are enough? what if they come with reparations to those affected? etc.
     - [[j0lms]] on countries in [[latin america]] asking for apologies from european [[monarchies]]
+    - can you forgive some things
+        - the case of [[david saavedra]]
 
 # [[flancia meet 2023-03-11]]
 - Attending: [[armengol]] [[flancian]]
