@@ -2,6 +2,11 @@
 - We meet best-effort every Saturday. UTC?
 - This is where we have community maintained notes :)
 
+
+# [[flancia meet 2023-03-11]]
+- Attending: [[vera]] [[flancian]]
+- 
+
 # [[flancia meet 2023-03-11]]
 - Attending: [[armengol]] [[flancian]]
 - Studying [[philosophy]]!
