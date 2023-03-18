@@ -3,8 +3,8 @@
 - This is where we have community maintained notes :)
 
 
-# [[flancia meet 2023-03-11]]
-- Attending: [[V]] [[flancian]]
+# [[flancia meet 2023-03-18]]
+- Attending: [[V]] [[flancian]] [[j0lms]]
 - [[flancian]]
     - [[work]]
     - [[layoffs]]
@@ -32,6 +32,9 @@
         - [[bonfire]]
         - [[circles]]
 - [[centralized]] vs [[decentralized]] approaches for agora building
+    - https://github.com/danaugrs/go-tsne
+- [[j0lms]] https://github.com/josiah-wolf-oberholtzer/on-exactitude-in-science
+ 
 
 # [[flancia meet 2023-03-11]]
 - Attending: [[armengol]] [[flancian]]
