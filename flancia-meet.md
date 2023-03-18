@@ -28,6 +28,8 @@
     - can you forgive some things
         - the case of [[david saavedra]]
         - the case of [[?]] who befriended the [[ku klux klan]]
+    - [[campfire networks]] 
+        - [[bonfire]]
 
 # [[flancia meet 2023-03-11]]
 - Attending: [[armengol]] [[flancian]]
