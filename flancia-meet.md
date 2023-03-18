@@ -4,8 +4,13 @@
 
 
 # [[flancia meet 2023-03-11]]
-- Attending: [[vera]] [[flancian]]
-- 
+- Attending: [[V]] [[flancian]]
+- [[flancian]]
+    - [[work]]
+    - [[layoffs]]
+    - [[walkout]]
+- [[V]]
+    - [[turmoil]]
 
 # [[flancia meet 2023-03-11]]
 - Attending: [[armengol]] [[flancian]]
