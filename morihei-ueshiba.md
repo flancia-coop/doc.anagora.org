@@ -1,1 +1,3 @@
-I'm busy right now, try again later.
+- a [[person]].
+    - [[martial artist]]
+    - #pull [[aikido]]
