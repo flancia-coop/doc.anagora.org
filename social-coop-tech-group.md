@@ -9,9 +9,10 @@ Here: Eduardo, Akskhay, Calix
         - [[Flancian]] Wrote small fix that should take care of this: https://git.coop/social.coop/tech/ansible/-/merge_requests/23
         - Pushing this fix to rhizome tonight
     - Started https://www.loomio.com/d/jrbG5tue/server-access/39 proposal to grant [[Calix]] server access \o/
-    - [ ] Retire [[runko]], see [issue](https://git.coop/social.coop/tech/operations/-/issues/69).
+    - [x] Retire [[runko]], see [issue](https://git.coop/social.coop/tech/operations/-/issues/69).
         - [[Flancian]] Ed was working on it. Any concerns with decomissioning? 
         - [[calix]] since it's been down for a few weeks and nobody has complained it seems safe to tear it down
+        - We actually went and cancelled it tonight -- this will take effect by April 14
    - [ ] Port wiki-dev to our shiny new coop cloud mediawiki instance [wiki-alpha](https://wiki-alpha.social.coop/) see [issue](https://git.coop/social.coop/tech/operations/-/issues/66) for details.
         - [[Flancian]] I discussed migration paths with the [[wiki builders]] chat and the easiest way forward is probably to declare maintenance for our wiki (including registrations?), bring it down and bring up mediawiki on wiki.social.coop during that window.
         - Please review https://git.coop/social.coop/tech/ansible/-/merge_requests/24
