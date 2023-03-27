@@ -32,6 +32,41 @@ Here: Eduardo, Akskhay, Calix
             - [[keycloak]] would be the go-to here probably: https://recipes.coopcloud.tech/keycloak
             - Could we have a migration path were we move people gracefully from Mastodon to some other auth provider?
                 - [[Calix]]: Possible, bit long shot!
+ 
+## [[2023-03-13]]
+
+Here: Eduardo, Akskhay, Calix
+
+- Note to future selves
+    - [ ] Check that certbot is actually running in rhizome successfully if we didn't do it back in February.
+    - [[flancian]] Hello from the future as of [[2023-03-11]] :)
+        - The certificate expires [[2023-04-17]] so there's plenty of time, but certbot is not running -- certbot.service expects it in /usr/bin/certbot but it's installed in /usr/local/bin/certbot  
+        - [[Flancian]] Wrote small fix that should take care of this: https://git.coop/social.coop/tech/ansible/-/merge_requests/23
+    - [ ] Retire [[runko]], see [issue](https://git.coop/social.coop/tech/operations/-/issues/69).
+        - [[Flancian]] Ed was working on it. Any concerns with decomissioning? 
+        - [[calix]] since it's been down for a few weeks and nobody has complained it seems safe to tear it down
+    - [x] Should we retire the [sauce](https://git.coop/social.coop/tech/sauce) repo?
+        - Is there anything remaining there of interest?
+        - Some canned SQL queries
+        - [[calix]]: proposal: archive the repo
+        - [[Flancian]]: yes!
+        - [[Akshay]]: Let's add a link to the ansible repo in a README first?
+        - [[Flancian]]: yes!
+        - https://git.coop/social.coop/tech/sauce/-/merge_requests/20
+        - ARCHIVAL COMPLETE 🎉
+    - [ ] Port wiki-dev to our shiny new coop cloud mediawiki instance [wiki-alpha](https://wiki-alpha.social.coop/) see [issue](https://git.coop/social.coop/tech/operations/-/issues/66) for details.
+        - [[Flancian]] I discussed migration paths with the [[wiki builders]] chat and the easiest way forward is probably to declare maintenance for our wiki (including registrations?), bring it down and bring up mediawiki on wiki.social.coop during that window.
+        - Please review https://git.coop/social.coop/tech/ansible/-/merge_requests/24
+        - calix (they/them) dice: https://doc.traefik.io/traefik/routing/routers/#priority
+        - calix (they/them) dice: https://doc.traefik.io/traefik/routing/overview/
+    - Now that we have [[coop cloud]] on [[hypha]], which services would we like to run there as experiments?
+        - Matrix?
+        - SSO?
+            - Bonfire?
+            - Do we want a dedicated SSO provider or to piggyback on a Fediverse instances?
+            - [[keycloak]] would be the go-to here probably: https://recipes.coopcloud.tech/keycloak
+            - Could we have a migration path were we move people gracefully from Mastodon to some other auth provider?
+                - [[Calix]]: Possible, bit long shot!
     
 ## [[2023-02-27]]
 - Note to future selves
