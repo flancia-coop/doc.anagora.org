@@ -7,6 +7,8 @@ Here: Eduardo, Akskhay, Calix
     - [[flancian]] Hello from the future as of [[2023-03-11]] :)
         - The certificate expires [[2023-04-17]] so there's plenty of time, but certbot is not running -- certbot.service expects it in /usr/bin/certbot but it's installed in /usr/local/bin/certbot  
         - [[Flancian]] Wrote small fix that should take care of this: https://git.coop/social.coop/tech/ansible/-/merge_requests/23
+        - Pushing this fix to rhizome tonight
+    - Started https://www.loomio.com/d/jrbG5tue/server-access/39 proposal to grant [[Calix]] server access \o/
     - [ ] Retire [[runko]], see [issue](https://git.coop/social.coop/tech/operations/-/issues/69).
         - [[Flancian]] Ed was working on it. Any concerns with decomissioning? 
         - [[calix]] since it's been down for a few weeks and nobody has complained it seems safe to tear it down
