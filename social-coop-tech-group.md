@@ -3,16 +3,16 @@
 Here: Eduardo, Akskhay, Calix
 
 - Note to future selves
-    - [ ] Check that certbot is actually running in rhizome successfully if we didn't do it back in February.
-    - [[flancian]] Hello from the future as of [[2023-03-11]] :)
+    - [x] Check that certbot is actually running in rhizome successfully if we didn't do it back in February.
         - The certificate expires [[2023-04-17]] so there's plenty of time, but certbot is not running -- certbot.service expects it in /usr/bin/certbot but it's installed in /usr/local/bin/certbot  
         - [[Flancian]] Wrote small fix that should take care of this: https://git.coop/social.coop/tech/ansible/-/merge_requests/23
-        - Pushing this fix to rhizome tonight
+        - [ ] Pushing this fix to rhizome tonight -- on it
     - Started https://www.loomio.com/d/jrbG5tue/server-access/39 proposal to grant [[Calix]] server access \o/
     - [x] Retire [[runko]], see [issue](https://git.coop/social.coop/tech/operations/-/issues/69).
         - [[Flancian]] Ed was working on it. Any concerns with decomissioning? 
         - [[calix]] since it's been down for a few weeks and nobody has complained it seems safe to tear it down
-        - We actually went and cancelled it tonight -- this will take effect by April 14
+        - We actually went and cancelled it tonight -- this will take effect by April 14.
+        - We salute runko for its service!
    - [ ] Port wiki-dev to our shiny new coop cloud mediawiki instance [wiki-alpha](https://wiki-alpha.social.coop/) see [issue](https://git.coop/social.coop/tech/operations/-/issues/66) for details.
         - [[Flancian]] I discussed migration paths with the [[wiki builders]] chat and the easiest way forward is probably to declare maintenance for our wiki (including registrations?), bring it down and bring up mediawiki on wiki.social.coop during that window.
         - Please review https://git.coop/social.coop/tech/ansible/-/merge_requests/24
