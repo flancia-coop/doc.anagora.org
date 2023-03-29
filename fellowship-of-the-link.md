@@ -65,6 +65,7 @@
         - #pk interactivity aspect that is crucial with ChatGPT
         - #pk on knowing about bikes vs riding a bike
     - On asking good questions
+        - On sharing prompts and results 
 - [[Aram Zucker-Scharff]]
 - [[Flancian]]
     - Meta/keeping track of projects
