@@ -66,6 +66,7 @@
         - #pk on knowing about bikes vs riding a bike
     - On asking good questions
         - On sharing prompts and results 
+    - #pk 
 - [[Aram Zucker-Scharff]]
 - [[Flancian]]
     - Meta/keeping track of projects
