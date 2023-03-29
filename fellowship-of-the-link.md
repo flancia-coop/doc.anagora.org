@@ -35,8 +35,12 @@
     - [[Jerry Michalski]]
         - Idea by [[Peter Kaminski]]
             - Let's write a book together (!)
-            - [[Monday Morning S]]
-
+                - see proposal at: <https://topics.openglobalmind.com/>
+                - looks like we'll transition from [[Monday Morning SenseDoing Calls]] into this project, see the [SenseDoing channel](https://chat.collectivesensecommons.org/agora/channels/ogm-sensedoing) on CSC Mattermost.
+        - [[WWW Artists Consortium]] (sp?)
+            - Meetings back in the day
+            - Contact there now created [[AI Salon]], involved [[Stable Difussion]] for a while
+-
             
 ## 2023-03-08
 - Attending: [[Jerry Michalski]] [[Flancian]] [[Chris Aldrich]] [[Aram Zucker-Scharff]]...
