@@ -53,7 +53,9 @@
 - [[Peter Kaminski]]
     - Been doing talking about ChatGPT/LLMs in the context of different cultures, focusing on e.g. cultural biases and some other weaknesses
     - #jm shoutout to Peter for showing lots of consideration and patience in some of these discussions :)
-    - [[ChatGLM]] ws
+    - [[ChatGLM]] was trained on 50/50 chinese/english
+    - On "why is ChatGPT stuck in white-male-world"
+        - Philosophy as a condensed word that already has the same bias in practice
 - [[Aram Zucker-Scharff]]
 - [[Flancian]]
     - Meta/keeping track of projects
