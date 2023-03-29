@@ -95,6 +95,7 @@ https://betterprogramming.pub/the-dark-side-of-llms-we-need-to-rethink-large-lan
             - #jm would you ban chatgpt writing hard science fiction?
             - #azs most of the good objections to chatgpt are actually objections to capitalism
                 - :)
+                - scraping for one purpose, then using the corpus for another -- is already an issue in the publishing industry
 - [[Aram Zucker-Scharff]]
 - [[Flancian]]
     - Meta/keeping track of projects
