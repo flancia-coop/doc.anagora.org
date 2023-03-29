@@ -83,6 +83,10 @@
                 - we probably want to explore many different possible new equilibria and explore several of them in parallel
                 - we should imagine a world where everybody owns their own hardware and models
                 - on parallels between controlling AI risk and controlling access to weapons/dangerous substances
+            - #jm on efforts to replicate ChatGPT, e.g. Alpaca
+                - [[llama]] is the base model here
+                - is finetuning adding knowledge or, like [[maparent]] said, more akin to lobotomization?
+                - #sj these centrally trained models are good universal models that can be finetuned
 - [[Aram Zucker-Scharff]]
 - [[Flancian]]
     - Meta/keeping track of projects
