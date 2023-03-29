@@ -58,6 +58,10 @@
         - Philosophy as a condensed word that already has the same bias in practice
         - Asking LLMs culture-agnostic questions
     - #jm On Christopher Alexander and Pattern Language; asked ChatGPT about patterns and the answer was very insightful.
+        - AHA moments with technology
+        - [[Flancian]] parallels with early internet/search engines experiences
+        - #jm MacDraw demo with lasso tool
+        - #jm 
 - [[Aram Zucker-Scharff]]
 - [[Flancian]]
     - Meta/keeping track of projects
