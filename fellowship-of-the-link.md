@@ -24,6 +24,20 @@
         - [[issue tracker]] / [[project tracker]] URL
             - [[github]] by default?
             
+## [[2023-03-29]]
+- a [[meeting]].
+    - #go https://meet.jit.si/fellowship-of-the-link
+    - #calendar https://plex.collectivesensecommons.org/calendar/
+    - #when Wednesdays at [[6PM UTC]]
+- Attending: [[jerry michalski]] [[peter kaminski]] [[aram zucker-scharff]] [[flancian]]
+- [[Hanlon's Razor]]
+- [[Check ins]]
+    - [[Jerry Michalski]]
+        - Idea by [[Peter Kaminski]]
+            - Let's write a book together (!)
+            - [[Monday Morning S]]
+
+            
 ## 2023-03-08
 - Attending: [[Jerry Michalski]] [[Flancian]] [[Chris Aldrich]] [[Aram Zucker-Scharff]]...
 - https://wiki.rel8.dev/shared_notes_across_six_tools -- one of the big goals for 2023.
