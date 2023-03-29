@@ -98,7 +98,8 @@ https://betterprogramming.pub/the-dark-side-of-llms-we-need-to-rethink-large-lan
                 - scraping for one purpose, then using the corpus for another -- is already an issue in the publishing industry
                 - how to provide people tools to administer how their output is used to train models, etc.?
                 - [[Jack Saint]] video: https://www.youtube.com/watch?v=MBV0bhlLUgA
-                -
+                - [[Can Capitalism Be Tipped Over]]
+                    - #jm B sides without lyrics in the early reggae scene (instrumental to enable mashups/remixing)
 - [[Aram Zucker-Scharff]]
 - [[Flancian]]
     - Meta/keeping track of projects
