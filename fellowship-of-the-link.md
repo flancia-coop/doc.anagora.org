@@ -98,9 +98,10 @@ https://betterprogramming.pub/the-dark-side-of-llms-we-need-to-rethink-large-lan
     - ChatGPT and others
     - cost of fine-tuning going down
         - [[Alpaca]] for [[LLaMA]]
+        - [[LoRA]]
     - Social.coop
     - Podcast
-            
+    
 ## 2023-03-08
 - Attending: [[Jerry Michalski]] [[Flancian]] [[Chris Aldrich]] [[Aram Zucker-Scharff]]...
 - https://wiki.rel8.dev/shared_notes_across_six_tools -- one of the big goals for 2023.
