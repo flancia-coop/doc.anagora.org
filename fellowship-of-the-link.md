@@ -88,6 +88,10 @@
                 - is finetuning adding knowledge or, like [[maparent]] said, more akin to lobotomization?
                 - #sj these centrally trained models are good universal models that can be finetuned
                 - #sj draft paper on building a captioning tool
+            - #jm [[the unreasonable effectiveness of data]]
+            - #pk [The Dark Side of LLMs \| Better Programming](
+https://betterprogramming.pub/the-dark-side-of-llms-we-need-to-rethink-large-language-models-now-6212aca0581a
+) - about [[indirect prompt injection]]
 - [[Aram Zucker-Scharff]]
 - [[Flancian]]
     - Meta/keeping track of projects
