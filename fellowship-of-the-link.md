@@ -87,6 +87,7 @@
                 - [[llama]] is the base model here
                 - is finetuning adding knowledge or, like [[maparent]] said, more akin to lobotomization?
                 - #sj these centrally trained models are good universal models that can be finetuned
+                - #sj draft paper on building a captioning tool
 - [[Aram Zucker-Scharff]]
 - [[Flancian]]
     - Meta/keeping track of projects
