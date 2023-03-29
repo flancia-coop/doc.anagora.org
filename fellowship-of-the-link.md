@@ -51,12 +51,17 @@
             - Podcast-zine
             - #pk on creating supportive spaces, e.g. Madonna and the drag queen controversy
 - [[Peter Kaminski]]
+    - Been doing talking about ChatGPT/LLMs in the context of different cultures, focusing on e.g. cultural biases and some other weaknesses
+    - #jm shoutout to Peter for showing lots of consideration and patience in some of these discussions :)
+    - [[ChatGLM]] ws
 - [[Aram Zucker-Scharff]]
 - [[Flancian]]
+    - Meta/keeping track of projects
     - ChatGPT and others
     - cost of fine-tuning going down
         - [[Alpaca]] for [[LLaMA]]
-    - Pod
+    - Social.coop
+    - Podcast
             
 ## 2023-03-08
 - Attending: [[Jerry Michalski]] [[Flancian]] [[Chris Aldrich]] [[Aram Zucker-Scharff]]...
