@@ -1,1 +1,1 @@
-I'm busy right now, try again later.
+- It's relatively  hard to use hedgedoc from mobile. maybe I should update?
