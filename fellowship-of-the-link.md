@@ -111,6 +111,7 @@ https://betterprogramming.pub/the-dark-side-of-llms-we-need-to-rethink-large-lan
             - #pk on fan art / fan comics in Japan
                 - https://www.quora.com/How-is-it-legal-for-Japanese-people-to-make-fan-comics-of-copyrighted-material-for-profit
                 - https://tvtropes.org/pmwiki/pmwiki.php/Main/SerialNumbersFiledOff
+            - [[alter ego]] https://www.youtube.com/watch?v=b2UgmPzIITI
 - [[Aram Zucker-Scharff]]
 - [[Flancian]]
     - Meta/keeping track of projects
@@ -119,7 +120,7 @@ https://betterprogramming.pub/the-dark-side-of-llms-we-need-to-rethink-large-lan
         - [[Alpaca]] for [[LLaMA]]
         - [[LoRA]]
     - Social.coop
-    - Podcast
+    - Podcast idea
     
 ## 2023-03-08
 - Attending: [[Jerry Michalski]] [[Flancian]] [[Chris Aldrich]] [[Aram Zucker-Scharff]]...
