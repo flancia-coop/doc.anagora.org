@@ -96,6 +96,7 @@ https://betterprogramming.pub/the-dark-side-of-llms-we-need-to-rethink-large-lan
             - #azs most of the good objections to chatgpt are actually objections to capitalism
                 - :)
                 - scraping for one purpose, then using the corpus for another -- is already an issue in the publishing industry
+                - how to provide people tools to administer how their output is used to train models, etc.?
 - [[Aram Zucker-Scharff]]
 - [[Flancian]]
     - Meta/keeping track of projects
