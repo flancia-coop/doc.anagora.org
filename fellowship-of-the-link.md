@@ -67,9 +67,11 @@
     - On asking good questions
         - On sharing prompts and results 
     - #pk using ChatGPT to write code, in particular against its own API
-        - 
-        - [[Chap]]
-    - [[]]
+        - [[Sylph]] - <https://github.com/peterkaminski/sylph>
+        - [[Chap]]- <https://github.com/jepler/chap>
+    - #flancian [[langchain]] as LLM-agnostic platform to build on
+    - [[metasj]] everyone should read https://blog.darklang.com/gpt/
+    - #jm feeling of acceleration
 - [[Aram Zucker-Scharff]]
 - [[Flancian]]
     - Meta/keeping track of projects
