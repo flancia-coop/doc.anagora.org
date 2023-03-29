@@ -100,6 +100,8 @@ https://betterprogramming.pub/the-dark-side-of-llms-we-need-to-rethink-large-lan
                 - [[Jack Saint]] video: https://www.youtube.com/watch?v=MBV0bhlLUgA
                 - [[Can Capitalism Be Tipped Over]]
                     - #jm B sides without lyrics in the early reggae scene (instrumental to enable mashups/remixing)
+            - [[Flancian]] on which tools/protocols we could produce to be ready for the moment in which people are disrupted; how to empower people
+                - #jm [[Generative Commons Agreement]] as a previous attempt (2021)
 - [[Aram Zucker-Scharff]]
 - [[Flancian]]
     - Meta/keeping track of projects
