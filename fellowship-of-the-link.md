@@ -56,6 +56,8 @@
     - [[ChatGLM]] was trained on 50/50 chinese/english
     - On "why is ChatGPT stuck in white-male-world"
         - Philosophy as a condensed word that already has the same bias in practice
+        - Asking LLMs culture-agnostic questions
+    - #jm On Christopher Alexander and Pattern Language; asked ChatGPT about patterns and the answer was very insightful.
 - [[Aram Zucker-Scharff]]
 - [[Flancian]]
     - Meta/keeping track of projects
