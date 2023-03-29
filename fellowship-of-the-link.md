@@ -66,7 +66,10 @@
         - #pk on knowing about bikes vs riding a bike
     - On asking good questions
         - On sharing prompts and results 
-    - #pk 
+    - #pk using ChatGPT to write code, in particular against its own API
+        - 
+        - [[Chap]]
+    - [[]]
 - [[Aram Zucker-Scharff]]
 - [[Flancian]]
     - Meta/keeping track of projects
