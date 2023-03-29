@@ -92,6 +92,9 @@
             - #pk [The Dark Side of LLMs \| Better Programming](
 https://betterprogramming.pub/the-dark-side-of-llms-we-need-to-rethink-large-language-models-now-6212aca0581a
 ) - about [[indirect prompt injection]]
+            - #jm would you ban chatgpt writing hard science fiction?
+            - #azs most of the good objections to chatgpt are actually objections to capitalism
+                - :)
 - [[Aram Zucker-Scharff]]
 - [[Flancian]]
     - Meta/keeping track of projects
