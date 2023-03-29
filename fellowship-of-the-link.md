@@ -81,6 +81,8 @@
             - [[metasj]] definitely appreciate the skill in getting people around the table; this feels different though
                 - on interactions between new technologies and existing equilibria
                 - we probably want to explore many different possible new equilibria and explore several of them in parallel
+                - we should imagine a world where everybody owns their own hardware and models
+                - on parallels between controlling AI risk and controlling access to weapons/dangerous substances
 - [[Aram Zucker-Scharff]]
 - [[Flancian]]
     - Meta/keeping track of projects
