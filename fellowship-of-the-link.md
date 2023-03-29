@@ -72,6 +72,7 @@
     - #flancian [[langchain]] as LLM-agnostic platform to build on
     - [[metasj]] everyone should read https://blog.darklang.com/gpt/
     - #jm feeling of acceleration
+    - on the [[]]
 - [[Aram Zucker-Scharff]]
 - [[Flancian]]
     - Meta/keeping track of projects
