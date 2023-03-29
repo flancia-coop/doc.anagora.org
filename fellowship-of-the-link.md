@@ -61,7 +61,9 @@
         - AHA moments with technology
         - [[Flancian]] parallels with early internet/search engines experiences
         - #jm MacDraw demo with lasso tool
-        - #jm 
+        - #jm app switcher
+        - #pk interactivity aspect that is crucial with ChatGPT
+        - #pk on knowing about bikes vs riding a bike
 - [[Aram Zucker-Scharff]]
 - [[Flancian]]
     - Meta/keeping track of projects
