@@ -78,6 +78,9 @@
             - #go https://futureoflife.org/open-letter/pause-giant-ai-experiments/
             - [[lhl]] https://fediverse.randomfoo.net/notice/AU67WTBndEXlukXoo4
         - #pk on the [[foresight institute]] experience on [[nanotech]] risks
+            - [[metasj]] definitely appreciate the skill in getting people around the table; this feels different though
+                - on interactions between new technologies and existing equilibria
+                - we probably want to explore many different possible new equilibria and explore several of them in parallel
 - [[Aram Zucker-Scharff]]
 - [[Flancian]]
     - Meta/keeping track of projects
