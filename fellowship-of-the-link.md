@@ -104,6 +104,8 @@ https://betterprogramming.pub/the-dark-side-of-llms-we-need-to-rethink-large-lan
                 - #jm [[Generative Commons Agreement]] as a previous attempt (2021)
                 - Discussed in [[OGM]] previously
                 - Like [[Chatham House Rules]] but about contributions to the commons
+                - #azs interested
+                    - the other piece here is mechanical parsability
             - #pk on fan art / fan comics in Japan
                 - https://www.quora.com/How-is-it-legal-for-Japanese-people-to-make-fan-comics-of-copyrighted-material-for-profit
                 - https://tvtropes.org/pmwiki/pmwiki.php/Main/SerialNumbersFiledOff
