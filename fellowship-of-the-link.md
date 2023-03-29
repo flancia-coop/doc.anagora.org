@@ -37,18 +37,22 @@
             - Let's write a book together (!)
                 - see proposal at: <https://topics.openglobalmind.com/>
                 - looks like we'll transition from [[Monday Morning SenseDoing Calls]] into this project, see the [SenseDoing channel](https://chat.collectivesensecommons.org/agora/channels/ogm-sensedoing) on CSC Mattermost.
+                - https://wiki.openglobalmind.com/ogm_topics_ops/ogm_topics_ops
         - [[WWW Artists Consortium]] (sp?)
             - Meetings back in the day
             - Contact there (Kyle) now created [[AI Salon]], <https://www.meetup.com/the-ai-salon/>, involved with [[Stable Difussion]] for a while
             - [[ChatGPT]] + [[Jerry's Brain]] = ?
             - [[maparent]] has the latest Jerry's Brain dump
             - [[MemeBrane]] is software that FJB (Pete, Marc-Antoine) wrote that navigates TheBrain
-        - [[Tools for Thinking Podcast]] -> [[Hypertalk]]
+        - [[Tools for Thinking Podcast]] -> [[Hypertalk]] (new name)
             - Want to leave behind book artifacts in a format that is useful for the podcast
+            - If you present a plan for N episodes, it can be folded into the podcast
 - [[Peter Kaminski]]
 - [[Aram Zucker-Scharff]]
 - [[Flancian]]
-    - ChatGPT and others, cost of fine-tuning going down
+    - ChatGPT and others
+    - cost of fine-tuning going down
+        - [[Alpaca]] for [[LLaMA]]
             
 ## 2023-03-08
 - Attending: [[Jerry Michalski]] [[Flancian]] [[Chris Aldrich]] [[Aram Zucker-Scharff]]...
