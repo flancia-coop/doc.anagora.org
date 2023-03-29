@@ -76,6 +76,8 @@
         - https://techcrunch.com/2023/03/28/1100-notable-signatories-just-signed-an-open-letter-asking-all-ai-labs-to-immediately-pause-for-at-least-6-months/
         - #push [[ai open letter]]
             - #go https://futureoflife.org/open-letter/pause-giant-ai-experiments/
+            - [[lhl]] https://fediverse.randomfoo.net/notice/AU67WTBndEXlukXoo4
+        - #pk on the [[foresight institute]] experience on [[nanotech]] risks
 - [[Aram Zucker-Scharff]]
 - [[Flancian]]
     - Meta/keeping track of projects
