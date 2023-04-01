@@ -2,6 +2,14 @@
 - We meet best-effort every Saturday. UTC?
 - This is where we have community maintained notes :)
 
+# [[flancia meet 2023-04-01]]
+- Attending: [[bouncepaw]] [[flancian]]
+- [[bouncepaw]] 
+    - University
+        - Assignments for class: static lexical analyzer 
+        - [[Betula]]
+    - Search query language
+        - e.g. operands like -
 
 # [[flancia meet 2023-03-18]]
 - Attending: [[V]] [[flancian]] [[j0lms]]
