@@ -25,6 +25,7 @@
     - [[open letters]]
 - [[finish it jam]]
     - https://merveilles.town/@cblgh/110119148414167675
+- [[]]
 
 # [[flancia meet 2023-03-18]]
 - Attending: [[V]] [[flancian]] [[j0lms]]
