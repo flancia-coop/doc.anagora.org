@@ -40,6 +40,11 @@
         - [[interwiki]]
     - how do sites in the mycoverse/agora federation find each other?
         - bouncepaw: allowlist/pull federation, friends circle
+    - why federate Agora?
+        - strength in diversity
+            - you search in Agora A, you also get at least some results (maybe lower) of Agora B .. Z
+            - [[federated search]] [[alex schroeder]]
+                - https://alexschroeder.ch/wiki/2023-03-07_A_vision_for_search
 
 # [[flancia meet 2023-03-18]]
 - Attending: [[V]] [[flancian]] [[j0lms]]
