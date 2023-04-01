@@ -30,12 +30,16 @@
 - [[2023]]
     - [[mycoverse 2023]]
         - [[friends]] section
-        - you can shared categories with other mycoverse sites
+        - you can share categories with other mycoverse sites
         - "blurring the boundaries"
+        - [[mycomarkup]] as the [[lingua franca]], if not html
     - [[agora 2023]]
         - [[mycomarkup]]
+            - using the binary
         - [[html]] subnodes
         - [[interwiki]]
+    - how do sites in the mycoverse/agora federation find each other?
+        - bouncepaw: 
 
 # [[flancia meet 2023-03-18]]
 - Attending: [[V]] [[flancian]] [[j0lms]]
