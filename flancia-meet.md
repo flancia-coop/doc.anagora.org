@@ -17,7 +17,9 @@
     - [[social coop]]
         - [[coop cloud]]
         - https://recipes.coopcloud.tech/mycorrhiza
+            - https://recipes.coopcloud.tech/ is the index
         - https://git.coopcloud.tech/coop-cloud/mycorrhiza/commits/branch/main
+        - [[decentral1se]] 
 
 # [[flancia meet 2023-03-18]]
 - Attending: [[V]] [[flancian]] [[j0lms]]
