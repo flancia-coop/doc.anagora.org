@@ -21,6 +21,7 @@
         - https://git.coopcloud.tech/coop-cloud/mycorrhiza/commits/branch/main
         - [[decentral1se]] 
     - will add agora to coop cloud, and then use it to set up agor.ai subdomains
+        - pros/cons of containers
 
 # [[flancia meet 2023-03-18]]
 - Attending: [[V]] [[flancian]] [[j0lms]]
