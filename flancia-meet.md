@@ -8,8 +8,9 @@
     - University
         - Assignments for class: static lexical analyzer 
         - [[Betula]]
-    - Search query language
-        - e.g. operands like -
+        - Search query language
+            - e.g. operands like -
+            - 'give me betula posts in a certain category but not in this category matching a title and served over gemini'
 
 # [[flancia meet 2023-03-18]]
 - Attending: [[V]] [[flancian]] [[j0lms]]
