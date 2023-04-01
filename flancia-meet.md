@@ -11,6 +11,13 @@
         - Search query language
             - e.g. operands like -
             - 'give me betula posts in a certain category but not in this category matching a title and served over gemini'
+- [[flancian]]
+    - busy these days
+    - work
+    - [[social coop]]
+        - [[coop cloud]]
+        - https://recipes.coopcloud.tech/mycorrhiza
+        - https://git.coopcloud.tech/coop-cloud/mycorrhiza/commits/branch/main
 
 # [[flancia meet 2023-03-18]]
 - Attending: [[V]] [[flancian]] [[j0lms]]
