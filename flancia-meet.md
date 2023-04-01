@@ -39,7 +39,7 @@
         - [[html]] subnodes
         - [[interwiki]]
     - how do sites in the mycoverse/agora federation find each other?
-        - bouncepaw: 
+        - bouncepaw: allowlist/pull federation, friends circle
 
 # [[flancia meet 2023-03-18]]
 - Attending: [[V]] [[flancian]] [[j0lms]]
