@@ -26,6 +26,16 @@
 - [[finish it jam]]
     - https://merveilles.town/@cblgh/110119148414167675
 - [[pkg book]] is done!
+    - \o/
+- [[2023]]
+    - [[mycoverse 2023]]
+        - [[friends]] section
+        - you can shared categories with other mycoverse sites
+        - "blurring the boundaries"
+    - [[agora 2023]]
+        - [[mycomarkup]]
+        - [[html]] subnodes
+        - [[interwiki]]
 
 # [[flancia meet 2023-03-18]]
 - Attending: [[V]] [[flancian]] [[j0lms]]
