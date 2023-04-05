@@ -86,6 +86,8 @@
             - use a [[context ratchet]] to find a middle ground, or maybe new words/concepts that serve to build bridges?
             - [[myth america]] (book) and the history of [[american exceptionalism]]
                 - [[woke]] as the word that could be seen as counter-american-exceptionalism
+                - sidebar: the history of [[woke]]
+            - #JM human history is a fight over the joystick for control of societies over time
 - Threads from last time we would like to pick up:
     - [[high leverage opportunities]] we can spot
     - [[generative commons]]
