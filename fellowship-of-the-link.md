@@ -56,7 +56,12 @@
     - Magic wand: here is a website on a bunch of interesting stuff on N topics, crawl this site and spin off a book version of it
     - 'site to ebook' or 'corpus to ebook'
     - 60k posts in Chris's site
-    - 
+- [[Pattern languages]]
+    - met with daniel from [[liberating structures pattern language]]
+    - and X from [[pattern language for unmanagement]]
+    - [[ward cunningham]] in a recent call
+    - Y wrote a book about Alexander
+    - one of the angles discussed: how do we make pattern languages more accessible, better known, useful
 - Threads from last time we would like to pick up:
     - [[high leverage opportunities]] we can spot
     - [[generative commons]]
