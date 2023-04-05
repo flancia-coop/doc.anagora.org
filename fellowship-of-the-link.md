@@ -50,6 +50,12 @@
         - [[cyborgconfessions.com]]
 - Working with Paul Roney (sp?) on [[Hypertalk]] the podcast
     - A collection of different podcasts that can be hosted by different people, some of which are four episodes long.
+    - [[Flancian]] on the [[Flancia pattern language]] as a book/podcast generator ;)
+- [[Chris Aldrich]]
+    - Thinking of [[playlists]] of things
+    - Magic wand: here is a website on a bunch of interesting stuff on N topics, crawl this site and spin off a book version of it
+    - 'site to ebook' or 'corpus to ebook'
+    - 60k posts in Chris's site
     - 
 - Threads from last time we would like to pick up:
     - [[high leverage opportunities]] we can spot
