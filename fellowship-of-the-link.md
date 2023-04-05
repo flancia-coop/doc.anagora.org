@@ -90,6 +90,9 @@
             - #JM human history is a fight over the joystick for control of societies over time
             - #CA [[American Exceptionalism]] in [[Henry Adams]]: https://hypothes.is/a/JPNudMFjEe2_4vt2o5Xbwg
 - #CA [[César Hidalgo]] and [[How Information Grows]]
+    - #Flancian on the limits of hierarchical corporations.
+    - [[Dual power]] as an alternative.
+    - [[Thomas Picketty]] has something about this in his work.
 - Threads from last time we would like to pick up:
     - [[high leverage opportunities]] we can spot
     - [[generative commons]]
