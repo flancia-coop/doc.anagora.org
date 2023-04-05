@@ -76,6 +76,7 @@
         - I want something along the lines of "[[Life's Ratchet]]: How Molecular Machines Extract Order from Chaos" by Peter M Hoffmann but for my media consumption... 
         - #Flancian two directions
             - User agents as the long term game
+            - ...
         - [[Jerry Michalski]] who else's patterns does this look like?
             - Building bridges.
             - Pidgin languages.
