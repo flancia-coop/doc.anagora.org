@@ -41,6 +41,10 @@
     - But Jerry uses links more than nodes
     - Flancian: this could be a good opportunity for an Agora-like approach were other people contribute nodes in the same graph, thus putting together a social corpus.
     - Experiment: take one or few [[braincasts]] (tours of sections of the brain)
+    - Lack of [[Brain API]] hinders some of these efforts
+        - [[Brainy McBrainface]] previously
+- "One of the most cyborg people I know"
+    - The future world has a 
 - Threads from last time we would like to pick up:
     - [[high leverage opportunities]] we can spot
     - [[generative commons]]
