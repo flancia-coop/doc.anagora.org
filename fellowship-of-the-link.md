@@ -81,6 +81,9 @@
             - Building bridges.
             - Pidgin languages.
             - #Flancian translating between mental models.
+        - [[Chris Aldrich]] There's the idea of [[context collapse]]... how do we create a context ratchet which can find what we're missing and fill it in to allow us to move along? Teachers are good at doing this, but automating it is anything but easy. 
+            - allowing people to participate both [[meaninfully]] and in a [[kind]] fashion
+            - finding middle ground
 - Threads from last time we would like to pick up:
     - [[high leverage opportunities]] we can spot
     - [[generative commons]]
