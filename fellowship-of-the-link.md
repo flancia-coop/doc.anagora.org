@@ -65,6 +65,7 @@
         - e.g. 1, 2, 4 from liberating structures.
         - how can we distill data into patterns? going to Chris's idea
         - #CA "go into my notes, find notes that are linked together, and generate something out of that"
+        - #
 - Threads from last time we would like to pick up:
     - [[high leverage opportunities]] we can spot
     - [[generative commons]]
