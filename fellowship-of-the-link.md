@@ -39,6 +39,8 @@
     - Into Stable Diffusion as of late, [[generative salon]]
     - "Can we connect generative AI to your brain?"
     - But Jerry uses links more than nodes
+    - Flancian: this could be a good opportunity for an Agora-like approach were other people contribute nodes in the same graph, thus putting together a social corpus.
+    - Experiment: take one or few [[braincasts]] (tours of sections of the brain)
 - Threads from last time we would like to pick up:
     - [[high leverage opportunities]] we can spot
     - [[generative commons]]
