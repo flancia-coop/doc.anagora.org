@@ -66,8 +66,11 @@
         - how can we distill data into patterns? going to Chris's idea
         - #CA "go into my notes, find notes that are linked together, and generate something out of that"
         - #Flancian on producing readable/useful [[embeddings]]
+            - on the side quest of [[visualizing the agora]]
     - [[Jerry Michalski]] on Substack pubs and the lack of linking/context tools
     - Can we build a toolkit to [[make sense]] of this kind of corpora as a whole?
+    - [[Devonthink]] suggests connections between documents
+    - [[Chris Aldrich]] 
 - Threads from last time we would like to pick up:
     - [[high leverage opportunities]] we can spot
     - [[generative commons]]
