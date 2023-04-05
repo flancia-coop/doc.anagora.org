@@ -44,7 +44,11 @@
     - Lack of [[Brain API]] hinders some of these efforts
         - [[Brainy McBrainface]] previously
 - "One of the most cyborg people I know"
-    - The future world has a 
+    - "The future world has a lot to do with becoming a good cyborg"
+    - Mastering [[ChatGPT]] seems to be in this realm.
+    - Presentation: [[my life as a cyborg]] -> [[confessions of a cyborg]]
+        - [[cyborgconfessions.com]]
+- Working with Paul Roney (sp?) on [[Hypertalk]] the podcast
 - Threads from last time we would like to pick up:
     - [[high leverage opportunities]] we can spot
     - [[generative commons]]
