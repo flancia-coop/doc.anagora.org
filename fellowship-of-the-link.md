@@ -29,11 +29,16 @@
     - #go https://meet.jit.si/fellowship-of-the-link
     - #calendar https://plex.collectivesensecommons.org/calendar/
     - #when Wednesdays at [[6PM UTC]]
-- Attending: [[J]], [[y]]
+- Attending: [[Jerry Michalski]], [[Chris Aldrich]], [[Flancian]]
 - Start recording, we're currently using Jitsi and that works best with a [[Chromium]] based browser.
 - Book!
     - [[neobook]]?
+    - Chapters being combined into several books.
     - Repurposed Monday sense-doing calls at 10:30-12 Pacific
+- [[Jerry Michalski]] conversation with (sp?) [[Cal Shannon]], from [[www artist consortium]]
+    - Into Stable Diffusion as of late, [[generative salon]]
+    - "Can we connect generative AI to your brain?"
+    - 
 - Threads from last time we would like to pick up:
     - [[high leverage opportunities]] we can spot
     - [[generative commons]]
