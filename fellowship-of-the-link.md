@@ -38,7 +38,7 @@
 - [[Jerry Michalski]] conversation with (sp?) [[Cal Shannon]], from [[www artist consortium]]
     - Into Stable Diffusion as of late, [[generative salon]]
     - "Can we connect generative AI to your brain?"
-    - 
+    - But Jerry uses links more than nodes
 - Threads from last time we would like to pick up:
     - [[high leverage opportunities]] we can spot
     - [[generative commons]]
