@@ -92,7 +92,7 @@
 - #CA [[César Hidalgo]] and [[How Information Grows]]
     - #Flancian on the limits of hierarchical corporations.
     - [[Dual power]] as an alternative.
-    - [[Thomas Picketty]] has something about this in his work.
+    - [[Thomas Piketty]] has something about this in his work.
 - Threads from last time we would like to pick up:
     - [[high leverage opportunities]] we can spot
     - [[generative commons]]
