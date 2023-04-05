@@ -50,6 +50,7 @@
         - [[cyborgconfessions.com]]
 - Working with Paul Roney (sp?) on [[Hypertalk]] the podcast
     - A collection of different podcasts that can be hosted by different people, some of which are four episodes long.
+    
 - Threads from last time we would like to pick up:
     - [[high leverage opportunities]] we can spot
     - [[generative commons]]
