@@ -65,7 +65,9 @@
         - e.g. 1, 2, 4 from liberating structures.
         - how can we distill data into patterns? going to Chris's idea
         - #CA "go into my notes, find notes that are linked together, and generate something out of that"
-        - #
+        - #Flancian on producing readable/useful [[embeddings]]
+    - [[Jerry Michalski]] on Substack pubs and the lack of linking/context tools
+    - Can we build a toolkit to [[make sense]] of this kind of corpora as a whole?
 - Threads from last time we would like to pick up:
     - [[high leverage opportunities]] we can spot
     - [[generative commons]]
