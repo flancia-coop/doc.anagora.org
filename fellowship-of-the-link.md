@@ -70,7 +70,12 @@
     - [[Jerry Michalski]] on Substack pubs and the lack of linking/context tools
     - Can we build a toolkit to [[make sense]] of this kind of corpora as a whole?
     - [[Devonthink]] suggests connections between documents
-    - [[Chris Aldrich]] 
+    - [[Chris Aldrich]] we are missing the ratchet for: when do you take the pieces that we know and have context for and take selective action?
+        - If you have already seen something, maybe you don't need to see it again.
+        - Maybe if I know something, I want to see more of X.
+        - #Flancian two directions
+            - User agents as the long term game
+        - #
 - Threads from last time we would like to pick up:
     - [[high leverage opportunities]] we can spot
     - [[generative commons]]
