@@ -1,3 +1,19 @@
+
+## [[2023-03-27]]
+
+Here: ...
+
+- Notes to future selves
+    - Issues raised from CWG
+        - NextCloud calendar doesn't seem to really notify by email -- could we raise to Mayfirst?
+    - https://www.loomio.com/d/jrbG5tue/server-access/39 proposal to grant [[Calix]] server access passed \o/
+    - wiki-alpha progress
+       - keycloak up with social.coop realm
+       - dump restored, including images
+       - issues with openid auth -- troubleshooting live :)
+       - https://www.mediawiki.org/wiki/Extension:OpenID_Connect shows that the recipe needs an update to support the new way of passing parameters to pluggableauth
+ 
+
 ## [[2023-03-27]]
 
 Here: Eduardo, Akskhay, Calix
