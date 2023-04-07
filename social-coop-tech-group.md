@@ -1,8 +1,9 @@
 
-## [[2023-03-27]]
+## [[YYYY-MM-DD]]
 
 Here: ...
 
+- Check ins
 - Notes to future selves
     - Issues raised from CWG
         - NextCloud calendar doesn't seem to really notify by email -- could we raise to Mayfirst?
