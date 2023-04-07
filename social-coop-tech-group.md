@@ -10,6 +10,7 @@ Here: ...
             - Some reports of NextCloud jankiness in general, sometimes it just sping (tm) -- maybe we can work with Mayfirst to improve this?
         - Some email issues, but not many?
             - 5.7.23 <jag@mail.mayfirst.org>: Recipient address rejected: Message rejected due to: SPF fail - not authorized.
+        - There is some desire to have a bot that automatically boosts in-instance #introduction posts
     - https://www.loomio.com/d/jrbG5tue/server-access/39 proposal to grant [[Calix]] server access passed \o/
     - wiki-alpha progress
        - keycloak up with social.coop realm
