@@ -37,7 +37,7 @@
 - How to manage attention, multiple inboxes calling for our attention vs 
     - Matrix is a good platform to build on to allow you to do work. 
     - [[Jerry]] : Tried Matrix and found it very difficult to find people. 
-    - [[Aram]] individually adressable messages (one link per message)
+    - [[Aram]] individually adressable messages (one link per message) are important
 - [[Mathew]]
     - Massivewiki is coming along quite nicely
     - Map has [[eleven dimensions]]
@@ -46,6 +46,8 @@
         - [[Flancian]] maybe interoperability could be clustered with [[data sovereignty]] more closely than with [[openness]] to leave that for open source/free software
     - [[Jerry]] how do we make this more accessible to non technical users?
         - Maybe interactive experience that lets people go from preferences to recommended tools?
+        - How to represent which thinking tools can work well together?
+            - [[Mathew]] user profiles are a good place to expose stories about how we use/combine different tools
 - (placeholder)
 - Agora has a plugin for Matrix that lets you push stuff to the Agora - https://anagora.org/@anagora@matrix.org
 
