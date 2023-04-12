@@ -147,7 +147,7 @@ Here are more frameworks to consider:
 56. Work Breakdown Structure
 57. World Café Method
 58. Zero-Based Budgeting 
-- (placeholder)
+- [[Peter Kaminski]] https://hotair.peterkaminski.wiki/
 - Agora has a plugin for Matrix that lets you push stuff to the Agora - https://anagora.org/@anagora@matrix.org
 
 ## [[2023-04-05]]
