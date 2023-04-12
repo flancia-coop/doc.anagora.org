@@ -29,7 +29,10 @@
     - #go https://meet.jit.si/fellowship-of-the-link
     - #calendar https://plex.collectivesensecommons.org/calendar/
     - #when Wednesdays at [[6PM UTC]]
-- Attending: [[Jerry Michalski]], [[Peter Kaminski]]
+- Attending: [[Jerry Michalski]], [[Peter Kaminski]], [[Jerry Michalski]], [[Mathew Lowry]], [[Aram Zucker-Scharff]], [[Eduardo Ivanec]]
+- How to manage attention, multiple inboxes calling for our attention vs 
+- (placeholder)
+- 
 
 ## [[2023-04-05]]
 - a [[meeting]].
