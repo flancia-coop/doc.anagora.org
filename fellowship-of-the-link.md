@@ -165,7 +165,9 @@ Here are more frameworks to consider:
             - [[flancian]] maybe [[lemmy]]?
         - [[Listmonk]] (https://listmonk.app/)
         - [[Aram]] https://twitter.com/Chronotope/status/1646178031524884484
-    - "there's a new tool that makes things faster"
+    - "there's a new tool that makes things faster" -> "I can make 200 of these instead of 1"
+        - [[Aram]] [[plotto]]
+            - [[plot seeds]]
 - Front Office for public notes and Back Office for private notes. 
 
 ## [[2023-04-05]]
