@@ -40,7 +40,7 @@
     - [[Aram]] individually adressable messages (one link per message)
 - [[Mathew]]
     - Massivewiki is coming along quite nicely
-    
+    - Map has [[eleven dimensions]]
 - (placeholder)
 - Agora has a plugin for Matrix that lets you push stuff to the Agora - https://anagora.org/@anagora@matrix.org
 
