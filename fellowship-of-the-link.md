@@ -155,6 +155,7 @@ Here are more frameworks to consider:
     - [[Matthew]] on the potential for pre-processors as a service
     - [[Flancian]] on this opening up thinking space
     - [[Aram]] maybe we're being too optimistic here, in particular if we see how people are actually using this -- often *not* to think?
+- [[autogpt]] [[babyagi]] https://mobile.twitter.com/TheTuringPost/status/1645712971207778304
 - Agora has a plugin for Matrix that lets you push stuff to the Agora - https://anagora.org/@anagora@matrix.org
 
 ## [[2023-04-05]]
