@@ -161,8 +161,9 @@ Here are more frameworks to consider:
 - Agora has a plugin for Matrix that lets you push stuff to the Agora - https://anagora.org/@anagora@matrix.org
 - [[Peter Kaminski]]
     - Twitter exit paths
-        - 
-    - Listmonk (?)
+        - [[mastodon]]
+            - [[flancian]] maybe [[lemmy]]?
+        - [[Listmonk]] (https://listmonk.app/)
 - Front Office for public notes and Back Office for private notes. 
 
 ## [[2023-04-05]]
