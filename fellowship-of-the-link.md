@@ -41,6 +41,8 @@
 - [[Mathew]]
     - Massivewiki is coming along quite nicely
     - Map has [[eleven dimensions]]
+    - https://tftmap.massive.wiki/map/aram_zucker-scharff is the gold standard in survey responses :)
+        - [[Aram]] openness seemed hard to interpret
 - (placeholder)
 - Agora has a plugin for Matrix that lets you push stuff to the Agora - https://anagora.org/@anagora@matrix.org
 
