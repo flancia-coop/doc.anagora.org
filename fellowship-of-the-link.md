@@ -38,8 +38,11 @@
     - Matrix is a good platform to build on to allow you to do work. 
     - [[Jerry]] : Tried Matrix and found it very difficult to find people. 
     - [[Aram]] individually adressable messages (one link per message)
+- [[Mathew]]
+    - Massivewiki is coming along quite nicely
+    
 - (placeholder)
-- Agora has a plugin for Matrix that lets you push stuff to the 
+- Agora has a plugin for Matrix that lets you push stuff to the Agora - https://anagora.org/@anagora@matrix.org
 
 ## [[2023-04-05]]
 - a [[meeting]].
