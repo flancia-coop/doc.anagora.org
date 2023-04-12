@@ -149,7 +149,7 @@ Here are more frameworks to consider:
 58. Zero-Based Budgeting 
 - [[Peter Kaminski]] https://hotair.peterkaminski.wiki/
 - [[Jerry Michalski]] has been thinking of 'crazier ideas' as of late due to the [[GPT effect]]
-    - Should we start a [[bootcamp]] related to prompt engineering?
+    - Should we start a [[bootcamp]] related to [[prompt engineering]]?
 - Agora has a plugin for Matrix that lets you push stuff to the Agora - https://anagora.org/@anagora@matrix.org
 
 ## [[2023-04-05]]
