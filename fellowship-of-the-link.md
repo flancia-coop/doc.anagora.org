@@ -35,8 +35,10 @@
     - notes are supposed to be the connective tissue
     - [[Mathew]] different clients using different products, even in the same product different scopes (e.g. different teams)
 - How to manage attention, multiple inboxes calling for our attention vs 
+    - Matrix is a good platform to build on to allow you to do work. 
+    - [[Jerry]] : Tried Matrix and found it very difficult to find people. 
 - (placeholder)
-- Mat
+- 
 
 ## [[2023-04-05]]
 - a [[meeting]].
