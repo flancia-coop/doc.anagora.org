@@ -37,8 +37,9 @@
 - How to manage attention, multiple inboxes calling for our attention vs 
     - Matrix is a good platform to build on to allow you to do work. 
     - [[Jerry]] : Tried Matrix and found it very difficult to find people. 
+    - [[Aram]] individually adressable messages (one link per message)
 - (placeholder)
-- 
+- Agora has a plugin for Matrix that lets you push stuff to the 
 
 ## [[2023-04-05]]
 - a [[meeting]].
