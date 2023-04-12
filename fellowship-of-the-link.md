@@ -169,6 +169,7 @@ Here are more frameworks to consider:
         - [[Aram]] [[plotto]]
             - [[plot seeds]]
             - [[ur plots]]
+    - https://shop.pimoroni.com/
 - Front Office for public notes and Back Office for private notes. 
 
 ## [[2023-04-05]]
