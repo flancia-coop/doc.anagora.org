@@ -168,6 +168,7 @@ Here are more frameworks to consider:
     - "there's a new tool that makes things faster" -> "I can make 200 of these instead of 1"
         - [[Aram]] [[plotto]]
             - [[plot seeds]]
+            - [[ur plots]]
 - Front Office for public notes and Back Office for private notes. 
 
 ## [[2023-04-05]]
