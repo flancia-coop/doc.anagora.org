@@ -48,6 +48,105 @@
         - Maybe interactive experience that lets people go from preferences to recommended tools?
         - How to represent which thinking tools can work well together?
             - [[Mathew]] user profiles are a good place to expose stories about how we use/combine different tools
+    - [[Peter Kaminski]] asked Chat-GPT: consider the following, and add more frameworks.
+
+Actor-Network Theory
+Analytic Frameworks
+Appreciative Inquiry
+Asking Better Questions
+Brittle Anxious Nonlinear Incomprehensible
+Bayes' Theorem
+Big Hairy Audacious Goals
+Blind Variation And Selective Retention
+Blitzscaling
+Big Unsolved Meaningful Problems
+Business Model Canvas
+CODE: Capture, Organize, Distill, Express
+Common Sense Framework
+Crash Theory
+Creating the Future
+Cynefin
+Eisenhower Matrix
+Envisioning Positive Futures
+Four Levels of Conversation
+Grounded Theory Methodology
+Hanlon's Razor
+Jobs To Be Done
+Keeprah Holistic Model
+Ladder of Abstraction
+Lean Startup
+MetaImpact Framework
+Multi-Level Perspective
+Occam's Razor
+Octalysis
+Observations Feelings Needs Requests
+Pace Layering
+Positive Emotions, Engagement, Relationships, Meaning and Achievement
+Polarity Mnagement
+Porter Five Forces Analysis
+The Feynman Technique
+
+ChatGPT:
+Here are more frameworks to consider:
+
+1. Balanced Scorecard
+2. Blue Ocean Strategy
+3. Bounded Rationality
+4. Capability Maturity Model Integration (CMMI)
+5. Co-Creation Model
+6. Complex Adaptive Systems
+7. Conjoint Analysis
+8. Creative Problem Solving
+9. Critical Path Analysis
+10. Cross-Impact Matrix
+11. Decision Tree Analysis
+12. Design Thinking
+13. Disruptive Innovation
+14. Double Diamond Framework
+15. Dynamic Capabilities Framework
+16. First Principles Thinking
+17. Focused Conversation Method
+18. Force Field Analysis
+19. Gartner Hype Cycle
+20. Growth-Share Matrix (BCG Matrix)
+21. Heuristic Evaluation
+22. Human-Centered Design
+23. Impact Effort Matrix
+24. Innovation Ambition Matrix
+25. Innovation Adoption Lifecycle
+26. Integral Theory
+27. Kano Model
+28. Kurt Lewin's Change Model
+29. Maslow's Hierarchy of Needs
+30. McKinsey 7S Model
+31. Minimum Viable Product (MVP)
+32. Morphological Analysis
+33. Narrative Inquiry
+34. OODA Loop (Observe, Orient, Decide, Act)
+35. Outcome-Driven Innovation
+36. PEST Analysis (Political, Economic, Social, Technological)
+37. RACI Matrix (Responsible, Accountable, Consulted, Informed)
+38. Real Options Analysis
+39. Root Cause Analysis
+40. Scenario Planning
+41. Six Sigma
+42. Socratic Method
+43. Spiral Dynamics
+44. Stakeholder Analysis
+45. STAR Method (Situation, Task, Action, Result)
+46. Strengths, Weaknesses, Opportunities, and Threats (SWOT) Analysis
+47. Structured Problem Solving
+48. System Dynamics Modeling
+49. Theory of Constraints
+50. TOWS Matrix (Threats, Opportunities, Weaknesses, Strengths)
+51. TRIZ (Theory of Inventive Problem Solving)
+52. Value Chain Analysis
+53. Value Stream Mapping
+54. Viable Systems Model
+55. Wardley Mapping
+56. Work Breakdown Structure
+57. World Café Method
+58. Zero-Based Budgeting 
 - (placeholder)
 - Agora has a plugin for Matrix that lets you push stuff to the Agora - https://anagora.org/@anagora@matrix.org
 
