@@ -148,6 +148,7 @@ Here are more frameworks to consider:
 57. World Café Method
 58. Zero-Based Budgeting 
 - [[Peter Kaminski]] https://hotair.peterkaminski.wiki/
+    - ~40 responses from ChatGPT, plus handwritten preamble
 - [[Jerry Michalski]] has been thinking of 'crazier ideas' as of late due to the [[GPT effect]]
     - Should we start a [[bootcamp]] related to [[prompt engineering]]?
     - [[Matthew]] has been reading lots of medium posts about this, varying quality
