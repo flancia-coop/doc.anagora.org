@@ -157,7 +157,12 @@ Here are more frameworks to consider:
     - [[Flancian]] on this opening up thinking space
     - [[Aram]] maybe we're being too optimistic here, in particular if we see how people are actually using this -- often *not* to think?
 - [[autogpt]] [[babyagi]] https://mobile.twitter.com/TheTuringPost/status/1645712971207778304
+    - https://mobile.twitter.com/DrJimFan/status/1646186278743072770
 - Agora has a plugin for Matrix that lets you push stuff to the Agora - https://anagora.org/@anagora@matrix.org
+- [[Peter Kaminski]]
+    - Twitter exit paths
+        - 
+    - Listmonk (?)
 - Front Office for public notes and Back Office for private notes. 
 
 ## [[2023-04-05]]
