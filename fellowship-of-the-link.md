@@ -30,9 +30,13 @@
     - #calendar https://plex.collectivesensecommons.org/calendar/
     - #when Wednesdays at [[6PM UTC]]
 - Attending: [[Jerry Michalski]], [[Peter Kaminski]], [[Jerry Michalski]], [[Mathew Lowry]], [[Aram Zucker-Scharff]], [[Eduardo Ivanec]]
+- [[Aram]]
+    - using multiple inboxes
+    - notes are supposed to be the connective tissue
+    - [[Mathew]] different clients using different products, even in the same product different scopes (e.g. different teams)
 - How to manage attention, multiple inboxes calling for our attention vs 
 - (placeholder)
-- 
+- Mat
 
 ## [[2023-04-05]]
 - a [[meeting]].
