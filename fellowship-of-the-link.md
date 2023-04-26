@@ -48,6 +48,8 @@
     - Yahoo killing things
         - https://gizmodo.com/how-yahoo-killed-flickr-and-lost-the-internet-5910223
     - Also the death of AIM - https://mashable.com/archive/aim-history
+    - https://www.goodreads.com/review/list/1244876?shelf=corporate-drama 
+- Aram: Two good outputs - the knowledge management list + the interwiki
 
 ## [[2023-04-12]]
 - a [[meeting]].
