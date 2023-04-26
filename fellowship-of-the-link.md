@@ -29,7 +29,8 @@
     - #go https://meet.jit.si/fellowship-of-the-link
     - #calendar https://plex.collectivesensecommons.org/calendar/
     - #when Wednesdays at [[6PM UTC]]
-- Attending: [[Jerry Michalski]]
+- Attending: [[Jerry Michalski]] [[Peter Kaminski]] [[Aram Zucker-Scharff]]
+- 
 
 ## [[2023-04-12]]
 - a [[meeting]].
