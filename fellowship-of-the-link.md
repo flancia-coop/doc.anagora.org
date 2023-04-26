@@ -30,7 +30,12 @@
     - #calendar https://plex.collectivesensecommons.org/calendar/
     - #when Wednesdays at [[6PM UTC]]
 - Attending: [[Jerry Michalski]] [[Peter Kaminski]] [[Aram Zucker-Scharff]]
-- 
+- [[Peter Kaminski]]
+    - [[micro.blog]]
+        - Aram: Popular among indieweb 
+            - Uses microformats
+            - IndieAuth
+        - Has ActivityPub
 
 ## [[2023-04-12]]
 - a [[meeting]].
