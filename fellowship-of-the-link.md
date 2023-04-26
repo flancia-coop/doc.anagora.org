@@ -41,6 +41,9 @@
 - Peter: I know WordPress has a tool 
 - Jerry: Tired of dealing with WordPress, had to deal with problems and hacking, and code issues with collaborators. 
 - Aram: I find it has moved towards larger scale users. 
+- Jerry: Has WordPress become sort of like running an Outlook server where it really requires a lot of work to maintain? Is becoming an enterprise service inevitable for successful services? 
+    - Peter: yeah it is a scale thing. 
+    - 
 
 ## [[2023-04-12]]
 - a [[meeting]].
