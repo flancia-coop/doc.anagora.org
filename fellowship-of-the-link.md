@@ -46,6 +46,7 @@
     - Aram: The fate of open projects in capitalism that have no intent other than "better".
 - Yahoo killing things
     - https://gizmodo.com/how-yahoo-killed-flickr-and-lost-the-internet-5910223
+- Also the death of AIM - https://mashable.com/archive/aim-history#fRZxYAsL8Pqf
 
 ## [[2023-04-12]]
 - a [[meeting]].
