@@ -43,7 +43,7 @@
 - Aram: I find it has moved towards larger scale users. 
 - Jerry: Has WordPress become sort of like running an Outlook server where it really requires a lot of work to maintain? Is becoming an enterprise service inevitable for successful services? 
     - Peter: yeah it is a scale thing. 
-    - 
+    - Aram: The fate of open projects in capitalism that have no intent other than "better". 
 
 ## [[2023-04-12]]
 - a [[meeting]].
