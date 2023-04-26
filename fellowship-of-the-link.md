@@ -36,6 +36,7 @@
             - Uses microformats
             - IndieAuth
         - Has ActivityPub
+    - Looking for newsletter tools. [[Micro.blog]] and [[Buttondown]] are on there. 
 
 ## [[2023-04-12]]
 - a [[meeting]].
