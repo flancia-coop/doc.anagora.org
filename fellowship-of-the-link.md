@@ -50,6 +50,7 @@
     - Also the death of AIM - https://mashable.com/archive/aim-history
     - https://www.goodreads.com/review/list/1244876?shelf=corporate-drama 
 - Aram: Two good outputs - the knowledge management list + the interwiki
+- Aram: Had to leave early
 
 ## [[2023-04-12]]
 - a [[meeting]].
