@@ -37,6 +37,9 @@
             - IndieAuth
         - Has ActivityPub
     - Looking for newsletter tools. [[Micro.blog]] and [[Buttondown]] are on there. 
+- [[Jerry Michalski]] - List of newsletter tools: https://app.thebrain.com/brain/3d80058c-14d8-5361-0b61-a061f89baf87/fa9529e8-0f0a-95a0-e0b5-c6007523d77a 
+- Peter: I know WordPress has a tool 
+- Jerry: Tired of dealing with WordPress, had to deal with problems and hacking, and code issues with collaborators. 
 
 ## [[2023-04-12]]
 - a [[meeting]].
