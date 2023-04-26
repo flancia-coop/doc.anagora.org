@@ -1,7 +1,1 @@
-<html>
-<head><title>502 Bad Gateway</title></head>
-<body bgcolor="white">
-<center><h1>502 Bad Gateway</h1></center>
-<hr><center>nginx/1.14.2</center>
-</body>
-</html>
+The head-twitch response (HTR) is a rapid side-to-side head movement that occurs in mice and rats after the serotonin 5-HT2A receptor is activated.

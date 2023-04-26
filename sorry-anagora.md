@@ -1,7 +1,10 @@
-<html>
-<head><title>502 Bad Gateway</title></head>
-<body bgcolor="white">
-<center><h1>502 Bad Gateway</h1></center>
-<hr><center>nginx/1.14.2</center>
-</body>
-</html>
+Sorry Anagora
+==============
+
+A page to [[apologize]] for times when you [[accident|accidentally]] call the [[anagora bot]]
+
+Usually because you were [[literal|literally]] referring to [[wikilinks]] or doing some kind of [[syntax]] [[dreaming]]. 
+
+The [[anagora bot]] is very hopeful in this regard.
+
+See also [[Sorry anagora bot]] which i think is a duplicate page. [[sorry]].

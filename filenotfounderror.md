@@ -1,7 +1,4 @@
-<html>
-<head><title>502 Bad Gateway</title></head>
-<body bgcolor="white">
-<center><h1>502 Bad Gateway</h1></center>
-<hr><center>nginx/1.14.2</center>
-</body>
-</html>
+- a [[bug]].
+    - FileNotFoundError: [Errno 2] No such file or directory: '/home/flancian/agora/garden/flancian/Dockerfile.md'
+    - ![](https://doc.anagora.org/uploads/upload_a806f7ca87ddd217b8a7d9f597cd2f40.png)
+    - fixed on [[2022-05-25]]

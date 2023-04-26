@@ -1,7 +1,2 @@
-<html>
-<head><title>502 Bad Gateway</title></head>
-<body bgcolor="white">
-<center><h1>502 Bad Gateway</h1></center>
-<hr><center>nginx/1.14.2</center>
-</body>
-</html>
+- #go https://fwfg.com/
+- [[2022-02]] https://fwfg.com/programs/yoga-calendar-february-2022-blossom?categoryId=106071&permalink=10-minute-yoga-for-self-care

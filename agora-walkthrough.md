@@ -1,7 +1,16 @@
-<html>
-<head><title>502 Bad Gateway</title></head>
-<body bgcolor="white">
-<center><h1>502 Bad Gateway</h1></center>
-<hr><center>nginx/1.14.2</center>
-</body>
-</html>
+- [[2022-05-29]]
+    - #pull [[agora diagram]] [[agora architecture]]
+    - [[underlay]] [[interlay]] [[overlay]] vs https://social.coop/@flancian/108346148663576473
+    - [[possible starter projects]]
+        - [[moa]]
+            - [[instagram api]], see bug with link to interesting library
+            - [[save to git]], someone is already interested / could be a nice pair project
+        - [[agora]]
+            - [[agora bridge]]
+                - [[agora bot]]
+                    - more platforms, perhaps via moa? or sharing code
+            - [[repositories]]
+                - [[go/agora]]
+                - [[go/agora bridge]]
+                - [[go/agora server]]
+    

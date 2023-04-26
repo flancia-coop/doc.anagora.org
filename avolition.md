@@ -1,7 +1,1 @@
-<html>
-<head><title>502 Bad Gateway</title></head>
-<body bgcolor="white">
-<center><h1>502 Bad Gateway</h1></center>
-<hr><center>nginx/1.14.2</center>
-</body>
-</html>
+Avolition, as a symptom of various forms of [psychopathology](https://anagora.org/psychopathology), is the decrease in the ability to initiate and persist in self-directed purposeful activities.[1]

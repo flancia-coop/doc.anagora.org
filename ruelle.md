@@ -1,7 +1,1 @@
-<html>
-<head><title>502 Bad Gateway</title></head>
-<body bgcolor="white">
-<center><h1>502 Bad Gateway</h1></center>
-<hr><center>nginx/1.14.2</center>
-</body>
-</html>
+Maggie Eckford or Margaret Eckford (born November 21, 1985), known by her stage name Ruelle, is an American electropop singer-songwriter.[2] Her music has been used on television series such as the opening theme songs of Dynasties ("Game of Survival"), Shadowhunters ("This Is the Hunt"),[3][4][5] and The Shannara Chronicles ("Until We Go Down").[6][7][8][9]

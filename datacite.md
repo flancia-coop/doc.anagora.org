@@ -1,7 +1,5 @@
-<html>
-<head><title>502 Bad Gateway</title></head>
-<body bgcolor="white">
-<center><h1>502 Bad Gateway</h1></center>
-<hr><center>nginx/1.14.2</center>
-</body>
-</html>
+DataCite is an international not-for-profit organization which aims to improve data citation in order to:
+
+establish easier access to research data on the Internet
+increase acceptance of research data as legitimate, citable contributions to the scholarly record
+support data archiving that will permit results to be verified and re-purposed for future study.[1]

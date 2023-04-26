@@ -1,7 +1,1 @@
-<html>
-<head><title>502 Bad Gateway</title></head>
-<body bgcolor="white">
-<center><h1>502 Bad Gateway</h1></center>
-<hr><center>nginx/1.14.2</center>
-</body>
-</html>
+Gabapentin, sold under the brand name Neurontin among others, is an anticonvulsant medication primarily used to treat partial seizures and neuropathic pain.

@@ -1,7 +1,4 @@
-<html>
-<head><title>502 Bad Gateway</title></head>
-<body bgcolor="white">
-<center><h1>502 Bad Gateway</h1></center>
-<hr><center>nginx/1.14.2</center>
-</body>
-</html>
+reentry
+
+Itroduced by [[George Spencer-Brown]] in [[Laws of Form]], chapter 11.
+Influnced the work of [[Heinz von Foerster]], [[Humberto Maturana]], [[Francisco Varela]], [[Louis Kauffman]], [[William Bricken]], [[Niklas Luhmann]],  and [[Dirk Baecker]].

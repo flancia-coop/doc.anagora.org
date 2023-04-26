@@ -1,7 +1,1 @@
-<html>
-<head><title>502 Bad Gateway</title></head>
-<body bgcolor="white">
-<center><h1>502 Bad Gateway</h1></center>
-<hr><center>nginx/1.14.2</center>
-</body>
-</html>
+Dihydrocodeine is a semi-synthetic opioid analgesic prescribed for pain or severe [dyspnea](https://anagora.org/dyspnea), or as an [antitussive](https://anagora.org/antitussive), either alone or compounded with paracetamol (acetaminophen) (as in co-dydramol) or aspirin.

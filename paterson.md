@@ -1,7 +1,1 @@
-<html>
-<head><title>502 Bad Gateway</title></head>
-<body bgcolor="white">
-<center><h1>502 Bad Gateway</h1></center>
-<hr><center>nginx/1.14.2</center>
-</body>
-</html>
+Anybody who wants to contribute something to the Agora without having to sign up can write in any of the world writable documents associated with a node in the Agora -- like this one :)

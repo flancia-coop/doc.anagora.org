@@ -1,7 +1,2 @@
-<html>
-<head><title>502 Bad Gateway</title></head>
-<body bgcolor="white">
-<center><h1>502 Bad Gateway</h1></center>
-<hr><center>nginx/1.14.2</center>
-</body>
-</html>
+- #wp "Animism (from Latin: [[anima]], 'breath, spirit, life')[1][2] is the belief that objects, places, and creatures all possess a distinct spiritual essence. Potentially, animism perceives all things—animals, plants, rocks, rivers, weather systems, human handiwork, and perhaps even words—as animated and [[alive]]."
+- #pull [[miyazaki]]

@@ -1,7 +1,1 @@
-<html>
-<head><title>502 Bad Gateway</title></head>
-<body bgcolor="white">
-<center><h1>502 Bad Gateway</h1></center>
-<hr><center>nginx/1.14.2</center>
-</body>
-</html>
+Mania, also known as manic syndrome, is a mental and behavioral disorder[1] defined as a state of abnormally elevated arousal, affect, and energy level, or "a state of heightened overall activation with enhanced affective expression together with lability of affect."

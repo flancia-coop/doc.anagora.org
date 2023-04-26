@@ -1,7 +1,7 @@
-<html>
-<head><title>502 Bad Gateway</title></head>
-<body bgcolor="white">
-<center><h1>502 Bad Gateway</h1></center>
-<hr><center>nginx/1.14.2</center>
-</body>
-</html>
+Hello my friend!
+
+Would you like to discuss [[fascists]] and [[fascism]] with me?
+
+I know it's a tricky topic -- but I'm interested in having an honest discussion with you.
+
+You can sign your text like this: - [[flancian]].

@@ -1,7 +1,6 @@
-<html>
-<head><title>502 Bad Gateway</title></head>
-<body bgcolor="white">
-<center><h1>502 Bad Gateway</h1></center>
-<hr><center>nginx/1.14.2</center>
-</body>
-</html>
+## Peopleverse
+
+The Peopleverse is briefly explained in [Let's Reimagine Social](https://fedi.foundation/2022/09/social-networking-reimagined/) on [[fedi.foundation]].
+
+Follow [[#Peopleverse]] hashtag on the Fediverse.
+

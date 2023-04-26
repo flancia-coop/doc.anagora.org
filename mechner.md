@@ -1,7 +1,1 @@
-<html>
-<head><title>502 Bad Gateway</title></head>
-<body bgcolor="white">
-<center><h1>502 Bad Gateway</h1></center>
-<hr><center>nginx/1.14.2</center>
-</body>
-</html>
+- #go https://open.spotify.com/episode/7xjJHa61770pTDvx9qr2sF?si=_z_tOaaiT-OAS29FHD1mZQ&utm_source=native-share-menu

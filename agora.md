@@ -1,7 +1,9 @@
-<html>
-<head><title>502 Bad Gateway</title></head>
-<body bgcolor="white">
-<center><h1>502 Bad Gateway</h1></center>
-<hr><center>nginx/1.14.2</center>
-</body>
-</html>
+What do you think about the Agora?
+
+Feel free to use this open space to tell us! We'd love to improve it for you; in general, to make it more useful and inclusive for others.
+
+-- [[flancian]]
+
+---
+
+Your opinion could be here :)

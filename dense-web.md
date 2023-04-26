@@ -1,7 +1,3 @@
-<html>
-<head><title>502 Bad Gateway</title></head>
-<body bgcolor="white">
-<center><h1>502 Bad Gateway</h1></center>
-<hr><center>nginx/1.14.2</center>
-</body>
-</html>
+# Dense Web
+
+When the web is so densely [[linked]] that [[Search Engines]] are no longer necessary and we can [[navigate]] by moving where we want to go along our [[desire paths]] instead of going where we're told.

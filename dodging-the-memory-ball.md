@@ -1,7 +1,8 @@
-<html>
-<head><title>502 Bad Gateway</title></head>
-<body bgcolor="white">
-<center><h1>502 Bad Gateway</h1></center>
-<hr><center>nginx/1.14.2</center>
-</body>
-</html>
+Dodging the Memory Hole
+
+cross-reference
+https://rjionline.org/jdna/jdna-events/dodging-the-memory-hole-2017/
+
+the phrase is from [[George Orwell]]'s book [[1984]]
+
+See also: https://en.wikipedia.org/wiki/Memory_hole

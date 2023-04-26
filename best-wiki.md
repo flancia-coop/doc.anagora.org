@@ -1,7 +1,7 @@
-<html>
-<head><title>502 Bad Gateway</title></head>
-<body bgcolor="white">
-<center><h1>502 Bad Gateway</h1></center>
-<hr><center>nginx/1.14.2</center>
-</body>
-</html>
+# Welcome
+
+Ahoy there, Steven!
+
+- You can write Markdown here, multiuser.
+- Eventually (shouldn't take too long) the Agora will be able to just import notes from here, as produced by a user or a group.
+- It doesn't currently support [[wikilinks]] but we will likely add that :)

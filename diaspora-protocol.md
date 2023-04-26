@@ -1,7 +1,3 @@
-<html>
-<head><title>502 Bad Gateway</title></head>
-<body bgcolor="white">
-<center><h1>502 Bad Gateway</h1></center>
-<hr><center>nginx/1.14.2</center>
-</body>
-</html>
+How sad that one of the cofounders committed suicide.
+
+I've never used it nor met anyone that does -- but I wonder if that's because I'm in an ActivityPub bubble. I'm not aware off the top of my head about how large the different parts of the Fediverse are; I should go back and find that map.
