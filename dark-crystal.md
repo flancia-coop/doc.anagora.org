@@ -1,5 +1,7 @@
-[[dark crystal]]: https://darkcrystal.pw
-
-"Backup your secrets using the [[trust]] in your social fabric"
-
-h/t [[vera]]
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.14.2</center>
+</body>
+</html>

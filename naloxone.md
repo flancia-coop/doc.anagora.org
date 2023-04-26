@@ -1,1 +1,7 @@
-Naloxone, sold under the brand name Narcan among others, is a medication used to reverse the effects of opioids.[10] It is commonly used to counter decreased breathing in opioid overdose.
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.14.2</center>
+</body>
+</html>

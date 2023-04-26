@@ -1,9 +1,7 @@
-# [[vera]]
-- i feel like October is going to be good. i want to work on the graph visualization for the site and [[agora ext]]
-- I'm working on using sqlite as a data cache for performance and meta storage. There is a branch in my agora server forked repo
-
-# [[flancian]]
-- 
-
-# [[neil]]
-- 
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.14.2</center>
+</body>
+</html>

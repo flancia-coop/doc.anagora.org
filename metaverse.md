@@ -1,2 +1,7 @@
-[[2022-02-05]]
-I'm thinking about the metaverse and what that actually means. All these companies want to own the "concept" of the metaverse but I feel like what the metaverse is really is a time and place, an era of human evolution for better or for worse
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.14.2</center>
+</body>
+</html>

@@ -1,6 +1,7 @@
-Pharmacotherapy is therapy using pharmaceutical drugs,[1] as distinguished from therapy using surgery (surgical therapy), radiation (radiation therapy), movement (physical therapy), or other modes.
-
-#therapy
-#surgery
-#radiation
-#movement
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.14.2</center>
+</body>
+</html>

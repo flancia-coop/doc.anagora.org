@@ -1,3 +1,7 @@
-# Jonny | Add to Wiki
-
-A place where [[jonny]] reminds themselves to add things to the [[autopilot]] [[wiki]], aka the [[autopilot wiki]] at https://wiki.auto-pi-lot.com . 
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.14.2</center>
+</body>
+</html>

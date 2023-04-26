@@ -1,5 +1,7 @@
-## Semmy: Social Knowledge Fabrics
-
-An idea posted to the [[Ideation Hub]] category of the [[Social Coding]] forum by [[smallcircles]]
-
-Forum topic: [Semmy: Social Knowledge Fabrics](https://discuss.coding.social/t/semmy-social-knowledge-fabrics/76)
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.14.2</center>
+</body>
+</html>

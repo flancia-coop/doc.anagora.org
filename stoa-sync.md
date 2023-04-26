@@ -1,3 +1,7 @@
-I like the fact that, after changing the default to edit, you need only pull the stoa (and wait a few seconds :) to [[start writing]].
-
-Cool!
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.14.2</center>
+</body>
+</html>

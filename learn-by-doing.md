@@ -1,3 +1,7 @@
-Learning by doing refers to a theory of education expounded by American philosopher John Dewey. It's a hands-on approach to learning, meaning students must interact with their environment in order to adapt and learn.[1] Dewey implemented this idea by setting up the University of Chicago Laboratory School.[2] His views have been important in establishing practices of progressive education. For instance, the learn-by-doing theory was adopted by Richard DuFour and applied to the development of professional learning communities.[3]
-
-#pull [[the-uncanny-practicality-of-impracticality]]
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.14.2</center>
+</body>
+</html>

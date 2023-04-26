@@ -1,3 +1,7 @@
-- a [[podcast]].
-    - [[go]] https://podcasts.google.com/feed/aHR0cHM6Ly9yZXZvbHV0aW9uc3BvZGNhc3QubGlic3luLmNvbS9yc3M?sa=X&ved=0CAMQ4aUDahcKEwiI9eDIzvL0AhUAAAAAHQAAAAAQAQ&hl=en-CH
-    - [[mike duncan]]
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.14.2</center>
+</body>
+</html>

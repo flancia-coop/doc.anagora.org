@@ -1,3 +1,7 @@
-https://www.google.com/search?q=lelo+fiaux&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiVxqrch_30AhVC7rsIHUjrBkQQ_AUIBigB&biw=396&bih=732#imgrc=09YXu0mYdJT4YM
-
-[[greg]]
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.14.2</center>
+</body>
+</html>

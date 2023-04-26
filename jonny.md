@@ -1,20 +1,7 @@
-# Jonny
-
-- homepage: https://jon-e.net
-- foaf: https://jon-e.net/#i
-
-
-## Public Accounts
-
-- Masto: [@jonny](https://social.coop/@jonny/)
-- Twitter: [@json_dirs](https://twitter.com/json_dirs)
-
-## Subpages
-
-- [[jonny|add to wiki]]
-
-## Beloved Nodes
-
-- [[sorry anagora]]
-- [[wikilinks everywhere]]
-
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.14.2</center>
+</body>
+</html>

@@ -1,29 +1,7 @@
-## 2022-06-01
-- [[diegodlh]] working on a tool for [[wikimedia]]
-- [[social coop]]
-    - how it works
-    - what work for a coop feels like
-    - [[working groups]] 
-        - [[nathan schneider]] is part of it
-- [[revolution]] :)
-    - [[soviet revolution]]
-    - [[china revolution]]
-        - [[china a century of revolution]]
-- [[note taking]]
-    - Diego uses [[athens]]
-    - Used [[foam]] before
-        - [[foam lite]] also exists
-    - Eduardo uses [[logseq]], [[wiki vim]]
-    - eventual consistency/convergence versus organized/planned taxonomies
-    - [[wikidata]] approach
-- [[agora]]
-    - "como [[kaleidoscopio personal]]"
-    - [[pull]] and [[push]]
-    - [[peter hagen]]
-- [[web annotations]]
-    - [[lindy learn]]
-    - on the difficulty of taking [[public notes]] or [[public annotations]]
-    - [[chilling effects]]
-    - on self-criticism vs the criticism of others
-    - [[safe spaces]]
-    -
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.14.2</center>
+</body>
+</html>

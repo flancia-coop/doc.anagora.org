@@ -1,3 +1,7 @@
-Interesting that this was empty until today, [[2021-10-22]]!
-
-Not for long :)
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.14.2</center>
+</body>
+</html>

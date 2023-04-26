@@ -1,3 +1,7 @@
-Welcome! Please feel free to use this space to leave feedback or questions, I'll check it from time to time.
-
-If you ever need to reach me, please feel free to send email to 0@flancia.org.
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.14.2</center>
+</body>
+</html>

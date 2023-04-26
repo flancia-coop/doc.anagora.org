@@ -1,9 +1,7 @@
-cookie clicker
-FUCK YOU 
-no you 
-Ugle poop face 
-you shut the fuck up bich fuck 
-you muther fucker.
-
-
-
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.14.2</center>
+</body>
+</html>

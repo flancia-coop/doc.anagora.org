@@ -1,3 +1,7 @@
-Nu Genea - Bar Mediterraneo (Full Album - 2022)
-
-https://www.youtube.com/watch?v=0wq9_Wmv5BI
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.14.2</center>
+</body>
+</html>
