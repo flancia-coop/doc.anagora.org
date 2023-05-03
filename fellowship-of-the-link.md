@@ -85,6 +85,7 @@
             - [[map of the future]] is working on that
             - [[lionsberg]] as well
             - #azs [[holosourcing]] as related? https://drive.google.com/file/d/1qo24nRIFCzIitNmsMWBN4P4EqOxo-AAe/view
+        - 
 - out of context quotes
     - "on a contact high from [[chatgpt]]"
 - Placeholder
