@@ -79,6 +79,11 @@
         - going back to org structure
             - premise: little groups of people doing good work don't have enough support in creating an org structure that people feel can contribute to meaningfully, have a say in governance, etc.
             - templates for coordinating collaboration; e.g. go to a catalog and pick organizational forms that are compatible
+            - [[pattern languages]] for organizations
+                - organization types per jurisdiction
+            - organizations should be able to be e.g. three people coming together for a few weeks
+            - [[map of the future]] is working on that
+            - [[lionsberg]] as well
 - out of context quotes
     - "on a contact high from [[chatgpt]]"
 - Placeholder
