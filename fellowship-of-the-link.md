@@ -78,6 +78,7 @@
             - [[Flancian]] alternatives: services provided in the commons, etc.
         - going back to org structure
             - premise: little groups of people doing good work don't have enough support in creating an org structure that people feel can contribute to meaningfully, have a say in governance, etc.
+            - templates for coordinating collaboration; e.g. go to a catalog and pick organizational forms that are compatible
 - out of context quotes
     - "on a contact high from [[chatgpt]]"
 - Placeholder
