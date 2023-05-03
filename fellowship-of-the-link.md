@@ -57,6 +57,8 @@
         - #pk shares the [[flotilla]] project with Vincent
         - #pk Vincent wants to build something user-friendly; but a directory of this sort might be hard to make user-friendly
         - #pk [[matchmakers]] might be needed to mediate between the directory and non technical/beginner users, like [[librarians]]
+    - #pk [[collaborative tech alliance]] ~ [[cta]] are also in this space
+        - https://www.collaborative.tech/
 
 - Placeholder
 - Threads from last time we would like to pick up:
