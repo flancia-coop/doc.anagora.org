@@ -59,6 +59,9 @@
         - #pk [[matchmakers]] might be needed to mediate between the directory and non technical/beginner users, like [[librarians]]
     - #pk [[collaborative tech alliance]] ~ [[cta]] are also in this space
         - https://www.collaborative.tech/
+    - [[interop]] and multiple source support seem key for such an entity
+        - [[flotilla]] wanted to tackle this
+            - [[factr]] interop was a recurring topic
 
 - Placeholder
 - Threads from last time we would like to pick up:
