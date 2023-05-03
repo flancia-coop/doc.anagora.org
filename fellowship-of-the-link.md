@@ -30,13 +30,15 @@
     - #calendar https://plex.collectivesensecommons.org/calendar/
     - #when Wednesdays at [[6PM UTC]]
 - Attending: [[Peter Kaminski]] [[Jerry Michalski]]
-- [[complexity adventures]]
+- [[Peter Kaminski]] on [[complexity adventures]] this past weekend
     - #pk a little bit like [[OGM]], fuzzy organization but maybe a bit less than OGM :)
     - came out of [[complexity science]] community. It used to be called [[complexity week]]
     - 2x year a summit
         - [[wrap-up session]] https://www.youtube.com/watch?v=MTS6IokWQZM&list=PLcZI4kcFpRsjQoktPXJ1cbKlb1MdSlirw
-    - they host it in [[gather town]]
-- Start recording, we're currently using Jitsi and that works best with a [[Chromium]] based browser.
+    - they host it in [[gather town]] -- and it worked this weekend, quite well. People dropped by on discussions.
+    - session for an hour, break for an hour -- repeat for 48h
+    - 1/3rd new people every summit; basecamps take place every month after each summit for people who agreed to work on the same project
+- Placeholder
 - Threads from last time we would like to pick up:
     - [[high leverage opportunities]] we can spot
     - [[generative commons]]
