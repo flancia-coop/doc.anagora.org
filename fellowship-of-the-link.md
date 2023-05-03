@@ -32,6 +32,7 @@
 - Attending: [[Peter Kaminski]] [[Jerry Michalski]]
 - [[Peter Kaminski]] on [[complexity adventures]] this past weekend
     - #pk a little bit like [[OGM]], fuzzy organization but maybe a bit less than OGM :)
+    - https://www.complexityadventures.com/
     - came out of [[complexity science]] community. It used to be called [[complexity week]]
     - 2x year a summit
         - [[wrap-up session]] https://www.youtube.com/watch?v=MTS6IokWQZM&list=PLcZI4kcFpRsjQoktPXJ1cbKlb1MdSlirw
@@ -41,6 +42,8 @@
     - more structure (than OGM) means they have more of a shared language
     - they run everything on [[keybase]] (instead of e.g. [[mattermost]]) -- "every app grows until it can send email -> chat"
         - aside on [[jwz]] and his rants :)
+        - mention of [[steve yegge]]
+    - 
 - Placeholder
 - Threads from last time we would like to pick up:
     - [[high leverage opportunities]] we can spot
