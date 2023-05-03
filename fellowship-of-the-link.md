@@ -62,6 +62,7 @@
     - [[interop]] and multiple source support seem key for such an entity
         - [[flotilla]] wanted to tackle this
             - [[factr]] interop was a recurring topic
+            - [[flotilla fridays]]
 
 - Placeholder
 - Threads from last time we would like to pick up:
