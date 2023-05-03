@@ -68,6 +68,8 @@
     - [[ida josefina]]
     - #azs [[indieweb]] -- organized around an ideological core
         - [[interop fund]]
+        - checkout is currently "here's a bunch of data, good luck" -- this may change due to regulation
+    - #pk two 
 - out of context quotes
     - "on a contact high from [[chatgpt]]"
 - Placeholder
