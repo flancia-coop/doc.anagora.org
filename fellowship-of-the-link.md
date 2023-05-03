@@ -84,6 +84,7 @@
             - organizations should be able to be e.g. three people coming together for a few weeks
             - [[map of the future]] is working on that
             - [[lionsberg]] as well
+            - #azs [[holosourcing]] as related? https://drive.google.com/file/d/1qo24nRIFCzIitNmsMWBN4P4EqOxo-AAe/view
 - out of context quotes
     - "on a contact high from [[chatgpt]]"
 - Placeholder
