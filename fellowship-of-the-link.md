@@ -75,6 +75,9 @@
             - IETF in the early 90s, in particular the IMAP interop effort
             - what worked was each IMAP software developer working on their own interop
             - [[Hoffman]] was amazingly good at this
+            - [[Flancian]] alternatives: services provided in the commons, etc.
+        - going back to org structure
+            - premise: little groups of people doing good work don't have enough support in creating an org structure that people feel can contribute to meaningfully, have a say in governance, etc.
 - out of context quotes
     - "on a contact high from [[chatgpt]]"
 - Placeholder
