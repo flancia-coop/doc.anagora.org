@@ -63,7 +63,10 @@
         - [[flotilla]] wanted to tackle this
             - [[factr]] interop was a recurring topic
             - [[flotilla fridays]]
-
+            - [[interop taskforce]]?
+    - [[ida josefina]]
+- out of context quotes
+    - "on a contact high from [[chatgpt]]"
 - Placeholder
 - Threads from last time we would like to pick up:
     - [[high leverage opportunities]] we can spot
