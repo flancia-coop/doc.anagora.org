@@ -53,7 +53,9 @@
         - LinkedIn suggests connections, complements the person-to-person processes
         - [[Peter Kaminski]] on the difficulty of transferring knowledge between knowledge bases, or maybe impossibility (currently)
             - writing down stuff doesn't make it knowledge, it needs to be decoded
-            - [[]]
+        - But: [[Vincent Arena]], https://catalist.network/ is this :)
+        - #pk shares the [[flotilla]] project with Vincent
+
 - Placeholder
 - Threads from last time we would like to pick up:
     - [[high leverage opportunities]] we can spot
