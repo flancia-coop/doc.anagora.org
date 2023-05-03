@@ -38,6 +38,9 @@
     - they host it in [[gather town]] -- and it worked this weekend, quite well. People dropped by on discussions.
     - session for an hour, break for an hour -- repeat for 48h
     - 1/3rd new people every summit; basecamps take place every month after each summit for people who agreed to work on the same project
+    - more structure (than OGM) means they have more of a shared language
+    - they run everything on [[keybase]] (instead of e.g. [[mattermost]]) -- "every app grows until it can send email -> chat"
+        - aside on [[jwz]] and his rants :)
 - Placeholder
 - Threads from last time we would like to pick up:
     - [[high leverage opportunities]] we can spot
