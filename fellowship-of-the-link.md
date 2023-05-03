@@ -29,7 +29,7 @@
     - #go https://meet.jit.si/fellowship-of-the-link
     - #calendar https://plex.collectivesensecommons.org/calendar/
     - #when Wednesdays at [[6PM UTC]]
-- Attending: [[Peter Kaminski]] [[Jerry Michalski]]
+- Attending: [[Peter Kaminski]] [[Jerry Michalski]] [[Aram Zucker-Scharff]] [[flancian]]
 - [[Peter Kaminski]] on [[complexity adventures]] this past weekend
     - #pk a little bit like [[OGM]], fuzzy organization but maybe a bit less than OGM :)
     - https://www.complexityadventures.com/
@@ -64,7 +64,10 @@
             - [[factr]] interop was a recurring topic
             - [[flotilla fridays]]
             - [[interop taskforce]]?
+        - #pk [[POSE]] https://www.nsf.gov/pubs/2023/nsf23556/nsf23556.htm
     - [[ida josefina]]
+    - #azs [[indieweb]] -- organized around an ideological core
+        - [[interop fund]]
 - out of context quotes
     - "on a contact high from [[chatgpt]]"
 - Placeholder
