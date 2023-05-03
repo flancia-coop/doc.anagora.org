@@ -69,7 +69,11 @@
     - #azs [[indieweb]] -- organized around an ideological core
         - [[interop fund]]
         - checkout is currently "here's a bunch of data, good luck" -- this may change due to regulation
-    - #pk two 
+    - #pk two things that maybe contradict each other a bit
+        - skepticism about interop fund
+            - the incentives might align wrong here
+            - IETF in the early 90s, in particular the IMAP interop effort
+            - what worked was each IMAP software developer working on their own interop
 - out of context quotes
     - "on a contact high from [[chatgpt]]"
 - Placeholder
