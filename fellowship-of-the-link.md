@@ -74,6 +74,7 @@
             - the incentives might align wrong here
             - IETF in the early 90s, in particular the IMAP interop effort
             - what worked was each IMAP software developer working on their own interop
+            - [[Hoffman]] was amazingly good at this
 - out of context quotes
     - "on a contact high from [[chatgpt]]"
 - Placeholder
