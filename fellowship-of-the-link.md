@@ -23,6 +23,38 @@
         - /now
         - [[issue tracker]] / [[project tracker]] URL
             - [[github]] by default?
+            
+## [[2023-05-03]]
+- a [[meeting]].
+    - #go https://meet.jit.si/fellowship-of-the-link
+    - #calendar https://plex.collectivesensecommons.org/calendar/
+    - #when Wednesdays at [[6PM UTC]]
+- Attending: [[Peter Kaminski]] [[Jerry Michalski]]
+- [[complexity adventures]]
+    - #pk a little bit like [[OGM]], fuzzy organization but maybe a bit less than OGM :)
+    - came out of [[complexity science]] community. It used to be called [[complexity week]]
+    - 2x year a summit
+        - [[wrap-up session]] https://www.youtube.com/watch?v=MTS6IokWQZM&list=PLcZI4kcFpRsjQoktPXJ1cbKlb1MdSlirw
+    - they host it in [[gather town]]
+- Start recording, we're currently using Jitsi and that works best with a [[Chromium]] based browser.
+- Threads from last time we would like to pick up:
+    - [[high leverage opportunities]] we can spot
+    - [[generative commons]]
+        - [[generative linking]] (inferring links)
+        - [[general commons agreement]] https://bra.in/8qeNWy
+    - [[wishlist]] approach to worldbuilding
+    - [[Jerry Michalski]] let's discuss: note sharing.
+        - [[Aram Zucker-Scharff]] let's discuss conventions? Added something in [[massive wiki]].
+            - volunteered https://tftmap.massive.wiki/map/aram_zucker-scharff
+    - [[Aram Zucker-Scharff]] would like to generalize the archiving tool / link card generator he's been working on.
+    - [[Flancian]] would like to discuss [[Interwiki]] links and the [[common hub]] approach for search and entity resolution
+- #push [[fotl threads]]
+    - define:
+        - [[wiki]] / root URL
+        - /now
+        - [[issue tracker]] / [[project tracker]] URL
+            - [[github]] by default?
+
 
 ## [[2023-04-26]]
 - a [[meeting]].
