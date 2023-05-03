@@ -49,6 +49,10 @@
         - reusing infrastructure
         - [[Jerry Michalski]] on [[quorum1]]: https://wiki.quorum.one/blog/what-is-quorum1
     - [[Flancian]] on federated work / moderation in the fediverse
+    - [[Flancian]] is there a platform / organization that connects organizations in this space like we are doing peer to peer in this group?
+        - LinkedIn suggests connections, complements the person-to-person processes
+        - [[Peter Kaminski]] on the difficulty of transferring knowledge between knowledge bases, or maybe impossibility (currently)
+            - writing down stuff doesn't make it knowledge, it needs to be decoded
 - Placeholder
 - Threads from last time we would like to pick up:
     - [[high leverage opportunities]] we can spot
