@@ -43,7 +43,9 @@
     - they run everything on [[keybase]] (instead of e.g. [[mattermost]]) -- "every app grows until it can send email -> chat"
         - aside on [[jwz]] and his rants :)
         - mention of [[steve yegge]]
-    - 
+    - [[Jerry Michalski]] parallel conversation on building a shared brain / collective sense. Convergent lines.
+        - Mention of [[mycelial networks]] in the conference
+        - [[network of the future]]
 - Placeholder
 - Threads from last time we would like to pick up:
     - [[high leverage opportunities]] we can spot
