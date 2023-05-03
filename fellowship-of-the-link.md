@@ -53,6 +53,7 @@
         - LinkedIn suggests connections, complements the person-to-person processes
         - [[Peter Kaminski]] on the difficulty of transferring knowledge between knowledge bases, or maybe impossibility (currently)
             - writing down stuff doesn't make it knowledge, it needs to be decoded
+            - [[]]
 - Placeholder
 - Threads from last time we would like to pick up:
     - [[high leverage opportunities]] we can spot
