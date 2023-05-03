@@ -48,6 +48,7 @@
         - [[network of the future]]
         - reusing infrastructure
         - [[Jerry Michalski]] on [[quorum1]]: https://wiki.quorum.one/blog/what-is-quorum1
+    - [[Flancian]] on federated work / moderation in the fediverse
 - Placeholder
 - Threads from last time we would like to pick up:
     - [[high leverage opportunities]] we can spot
