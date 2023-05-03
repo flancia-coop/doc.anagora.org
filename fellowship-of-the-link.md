@@ -46,6 +46,8 @@
     - [[Jerry Michalski]] parallel conversation on building a shared brain / collective sense. Convergent lines.
         - Mention of [[mycelial networks]] in the conference
         - [[network of the future]]
+        - reusing infrastructure
+        - [[Jerry Michalski]] on [[quorum1]]: https://wiki.quorum.one/blog/what-is-quorum1
 - Placeholder
 - Threads from last time we would like to pick up:
     - [[high leverage opportunities]] we can spot
