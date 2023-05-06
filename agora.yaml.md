@@ -23,9 +23,12 @@ website_url: <url>
 url_scheme: <unsure>
 interwiki_map: []map
 - interwiki:
-    name: mycorrhiza
-    engine: mycorr
-
+    name: 
+        - mycorrhiza
+        - myco
+    engine: mycorrhiza
+    url: https://mycorrhiza.wiki
+    
 ```
 
 An older example contributed by [[bmann]]: #pull https://github.com/bmann/bmcgarden/blob/master/agora.yaml
