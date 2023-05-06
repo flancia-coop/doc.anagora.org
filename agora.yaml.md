@@ -17,9 +17,15 @@ This one is served
 type: <garden|stream|stoa|agora>
 name: <Agora of Flancia|Bouncepaw's digital garden>
 include: <test>
+exclude: <test>
 repository_url: <url>
 website_url: <url>
 url_scheme: <unsure>
+interwiki_map: []map
+- interwiki:
+    name: mycorrhiza
+    engine: mycorr
+
 ```
 
 An older example contributed by [[bmann]]: #pull https://github.com/bmann/bmcgarden/blob/master/agora.yaml
