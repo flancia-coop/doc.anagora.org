@@ -27,9 +27,10 @@ interwiki_map: []map
         - myco
     engine: mycorrhiza
     url: https://mycorrhiza.wiki
-    mapping_type: <slug|literal|static>
-    mapping_template: https://mycorrhiza.wiki/%s
-    slug: <github|agora>
+    mapping_url: <url>
+mapping_type: <slug|literal|static>
+mapping_template: https://mycorrhiza.wiki/%s
+slug: <github|agora>
     
 ```
 
@@ -51,6 +52,8 @@ mapping:
 ```
 
 Sanitize [[html]].
+
+T
 
 An older example contributed by [[bmann]]: #pull https://github.com/bmann/bmcgarden/blob/master/agora.yaml
 
