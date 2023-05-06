@@ -53,7 +53,7 @@ mapping:
 
 Sanitize [[html]].
 
-T
+Think about [[WebFinger]]?
 
 An older example contributed by [[bmann]]: #pull https://github.com/bmann/bmcgarden/blob/master/agora.yaml
 
