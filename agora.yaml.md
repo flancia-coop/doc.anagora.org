@@ -19,8 +19,7 @@ name: <Agora of Flancia|Bouncepaw's digital garden>
 include: <test>
 repository_url: <url>
 website_url: <url>
-
-
+url_scheme: <unsure>
 ```
 
 An older example contributed by [[bmann]]: #pull https://github.com/bmann/bmcgarden/blob/master/agora.yaml
