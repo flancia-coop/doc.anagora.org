@@ -4,10 +4,15 @@
 
 # [[flancia meet 2023-05-06]]
 - Attending: [[bouncepaw]] [[flancian]]
+- #push [[domino]]
+    - [[spatial thinking]] [[tool]]
+    - https://links.bouncepaw.com/195
 - [[dynamic hyphae]]
 - [[bouncepaw]] university
-    - [[core work]] upcoming
-        - maybe [[mycoverse]]
+    - [[coursework]] ~ [[kursovaya]] upcoming
+        - maybe [[mycoverse]] is the focus
+        - minimal project: [[betula federation]]
+            - add [[friends]] feed to betula
     
 # [[flancia meet 2023-04-01]]
 - Attending: [[bouncepaw]] [[flancian]]
