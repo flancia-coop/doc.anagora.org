@@ -12,10 +12,13 @@ The document is a [[YAML]] document, describing:
 
 ## Example document
 
+This one is served 
 ```yaml
 type: <garden|stream|stoa|agora>
 name: <Agora of Flancia|Bouncepaw's digital garden>
-
+include: <test>
+repository_url: <url>
+website_url: <url>
 
 
 ```
