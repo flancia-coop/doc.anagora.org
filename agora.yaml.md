@@ -3,9 +3,21 @@
 
 The document is a [[YAML]] document, describing:
 - The name of the site
-- Its U
-RL - 
+- Its URL schemes
+- Mappings between local resources and canonical rendered views.
+- Transclusion policy
+- Interwiki maps ~ intermaps
+- Integration points (where and how to render each local resource in an Agora context, including executable code)
 
+## Example document
+
+```yaml
+
+```
+
+Example contributed by [[bmann]]: https://github.com/bmann/bmcgarden/blob/master/agora.yaml
+
+#
 - a [[feature]].
     - for [[Agora 2023]]
     - See also https://anagora.org/agora-yaml
