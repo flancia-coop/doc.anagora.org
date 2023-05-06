@@ -23,11 +23,13 @@
     - maybe half-broken scheduler? or suboptimal
     - [[social coop]] takes time
     - [[meet coop]] and other coop activity
- - [[]]
+ - [[Mycoverse 2023]]
+    - [[Betula federation]]
+    - [[Mycorrhiza]] publishes [[agora.yaml]]
  - [[Agora 2023]]
-     - [[agora.yaml]]
-         - interwiki endpoints
-         - known agoras
+    - #push [[agora.yaml]]
+        - interwiki endpoints
+        - known agoras
     
 # [[flancia meet 2023-04-01]]
 - Attending: [[bouncepaw]] [[flancian]]
