@@ -20,7 +20,6 @@ include: <test>
 exclude: <test>
 repository_url: <url>
 website_url: <url>
-url_scheme: <unsure>
 interwiki_map: []map
 - interwiki:
     name: 
@@ -28,21 +27,24 @@ interwiki_map: []map
         - myco
     engine: mycorrhiza
     url: https://mycorrhiza.wiki
-    slug_template: https://mycorrhiza.wiki/%s
-    slug: <github|agora|mapping>
-    mappings: <url>
+    mapping_type: <slug|literal|static>
+    mapping_template: https://mycorrhiza.wiki/%s
+    slug: <github|agora>
     
 ```
 
+Another iteration (simpler):
 ```yaml
-name:
-type:
+name: Example site
+type: garden
 mapping:
 -
     names: [index, home]
     source_url: https://example.org/index.myco
-    rendered_url: [https://example.org/index.html, https://example
+    rendered_url: [https://example.org/index.html, https://example.org/home.html]
 ```
+
+Sanitize [[html]].
 
 An older example contributed by [[bmann]]: #pull https://github.com/bmann/bmcgarden/blob/master/agora.yaml
 
