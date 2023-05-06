@@ -21,7 +21,10 @@
             - Subscribe with [[Miniflux]]
         - Works great!
 - Flancian style
-    
+    - :)
+    - maybe half-broken scheduler? or suboptimal
+    - [[social coop]] takes time
+    - [[meet coop]] and other coop activity
     
 # [[flancia meet 2023-04-01]]
 - Attending: [[bouncepaw]] [[flancian]]
