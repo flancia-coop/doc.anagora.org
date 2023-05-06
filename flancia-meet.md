@@ -7,6 +7,8 @@
 - #push [[domino]]
     - [[spatial thinking]] [[tool]]
     - https://links.bouncepaw.com/195
+    - [[bp links]] ~ https://links.bouncepaw.com/%s
+    - [[bp links>195]]
 - [[dynamic hyphae]]
 - [[bouncepaw]] university
     - [[coursework]] ~ [[kursovaya]] upcoming
@@ -16,6 +18,7 @@
             - probably [[rss]] based on [[indieweb microformats]]
             - [[pull based]] vs [[push based]]
         - RSS https://links.bouncepaw.com/digest-rss
+        - Works great!
     
 # [[flancia meet 2023-04-01]]
 - Attending: [[bouncepaw]] [[flancian]]
