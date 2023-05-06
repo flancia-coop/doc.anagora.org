@@ -39,9 +39,15 @@ name: Example site
 type: garden
 mapping:
 -
-    names: [index, home]
-    source_url: https://example.org/index.myco
-    rendered_url: [https://example.org/index.html, https://example.org/home.html]
+    names:
+        - index
+        - home
+    type: article
+    source_url:
+        - https://example.org/index.myco
+    rendered_url:
+        - https://example.org/index.html
+        - https://example.org/home.html
 ```
 
 Sanitize [[html]].
