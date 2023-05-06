@@ -28,8 +28,9 @@ interwiki_map: []map
         - myco
     engine: mycorrhiza
     url: https://mycorrhiza.wiki
-    url_template: https://mycorrhiza.wiki/%s
-    slug: <version
+    slug_template: https://mycorrhiza.wiki/%s
+    slug: <github|explicit
+    mappings: <url>
     
 ```
 
