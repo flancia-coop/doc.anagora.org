@@ -34,6 +34,16 @@ interwiki_map: []map
     
 ```
 
+```yaml
+name:
+type:
+mapping:
+-
+    names: [index, home]
+    source_url: https://example.org/index.myco
+    rendered_url: [https://example.org/index.html, https://example
+```
+
 An older example contributed by [[bmann]]: #pull https://github.com/bmann/bmcgarden/blob/master/agora.yaml
 
 #
