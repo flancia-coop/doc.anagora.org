@@ -13,38 +13,14 @@ The document is a [[YAML]] document, describing:
 ## Example document
 
 ```yaml
+type: <garden|stream|stoa|agora>
+name: <Agora of Flancia|Bouncepaw's digital garden>
+
+
 
 ```
 
-An older example contributed by [[bmann]]: https://github.com/bmann/bmcgarden/blob/master/agora.yaml
-```yaml
-# unless in the include section, anything file without a .html or .md extension is excluded, 
-# as are directories that begin with a period (.)
-exclude:
-    - _posts/archive/*
-    - _ignore/*
-    - notes.html
-    - links.html
-    - journal.html
-    - ipfs-404.html
-    - index.md
-    - blog.html
-    - archive.html
-    - Gemfile*
-    - README.md
-    - tags.html
-    - _includes/*
-    - _layouts/*
-    - feed/*
-
-# instead of index.md or index.html in the root of your repo, this is showed as the "home" for your agora
-home: _notes/agora.md
-
-# the agora has certain metadata items. This lets front matter used in individual files get mapped to agora norms
-frontmatter_mapping:
-  git: [[git]]
-  link: [[website]]
-```
+An older example contributed by [[bmann]]: #pull https://github.com/bmann/bmcgarden/blob/master/agora.yaml
 
 #
 - a [[feature]].
