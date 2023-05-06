@@ -31,6 +31,8 @@
         - interwiki endpoints
         - known agoras
         - Coworking on it (hard)
+- [[bluesky]]
+    - [[agora bot]] extension
     
 # [[flancia meet 2023-04-01]]
 - Attending: [[bouncepaw]] [[flancian]]
