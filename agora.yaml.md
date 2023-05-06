@@ -1,5 +1,10 @@
 # Agora.yaml
-**Agora.yaml** will be a standard for [[Agora federation]], intersecting with the [[Mycoverse]]. This is a file, served at `.well-known/agora.yaml` or available in a repository root.
+**Agora.yaml** will be a standard for [[Agora federation]], intersecting with the [[Mycoverse]]. This is a file, served at `.well-known/agora.yaml` or available in an Agora-imported repository root. The latter is closer to the modern (may 2023) approach of Agora organisation. The former is supposed to make a totally new approach possible.
+
+The document is a [[YAML]] document, describing:
+- The name of the site
+- Its U
+RL - 
 
 - a [[feature]].
     - for [[Agora 2023]]
