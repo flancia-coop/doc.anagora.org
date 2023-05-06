@@ -29,7 +29,7 @@ interwiki_map: []map
     engine: mycorrhiza
     url: https://mycorrhiza.wiki
     slug_template: https://mycorrhiza.wiki/%s
-    slug: <github|explicit
+    slug: <github|agora|mapping>
     mappings: <url>
     
 ```
