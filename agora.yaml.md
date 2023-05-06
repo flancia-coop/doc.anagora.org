@@ -53,7 +53,7 @@ mapping:
 
 Sanitize [[html]].
 
-Think about [[WebFinger]]?
+Think about [[WebFinger]]? We could statically generate /webfinger, returning essentially the same mapping as above in webfinger format.
 
 An older example contributed by [[bmann]]: #pull https://github.com/bmann/bmcgarden/blob/master/agora.yaml
 
