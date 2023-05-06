@@ -2,6 +2,13 @@
 - We meet best-effort every Saturday. UTC?
 - This is where we have community maintained notes :)
 
+# [[flancia meet 2023-05-06]]
+- Attending: [[bouncepaw]] [[flancian]]
+- [[dynamic hyphae]]
+- [[bouncepaw]] university
+    - [[core work]] upcoming
+        - maybe [[mycoverse]]
+    
 # [[flancia meet 2023-04-01]]
 - Attending: [[bouncepaw]] [[flancian]]
 - [[bouncepaw]] 
