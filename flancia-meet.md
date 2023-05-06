@@ -7,8 +7,6 @@
 - #push [[domino]]
     - [[spatial thinking]] [[tool]]
     - https://links.bouncepaw.com/195
-    - [[bp links]] ~ https://links.bouncepaw.com/%s
-    - [[bp links>195]]
 - [[dynamic hyphae]]
 - [[bouncepaw]] university
     - [[coursework]] ~ [[kursovaya]] upcoming
@@ -25,6 +23,11 @@
     - maybe half-broken scheduler? or suboptimal
     - [[social coop]] takes time
     - [[meet coop]] and other coop activity
+ - [[]]
+ - [[Agora 2023]]
+     - [[agora.yaml]]
+         - interwiki endpoints
+         - known agoras
     
 # [[flancia meet 2023-04-01]]
 - Attending: [[bouncepaw]] [[flancian]]
