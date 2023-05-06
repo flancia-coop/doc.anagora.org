@@ -15,10 +15,13 @@
         - maybe [[mycoverse]] is the focus
         - minimal project: [[betula federation]]
             - add [[friends]] feed to betula
-            - probably [[rss]] based on [[indieweb microformats]]
+            - probably [[rss]] or [[indieweb microformats]]
             - [[pull based]] vs [[push based]]
         - RSS https://links.bouncepaw.com/digest-rss
+            - Subscribe with [[Miniflux]]
         - Works great!
+- Flancian style
+    
     
 # [[flancia meet 2023-04-01]]
 - Attending: [[bouncepaw]] [[flancian]]
