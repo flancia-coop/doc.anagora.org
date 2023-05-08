@@ -17,6 +17,19 @@ Here: ...
        - dump restored, including images
        - issues with openid auth -- troubleshooting live :)
        - https://www.mediawiki.org/wiki/Extension:OpenID_Connect shows that the recipe needs an update to support the new way of passing parameters to pluggableauth
+       
+## [[2023-05-08]]
+
+Here: Eduardo, ...
+
+- Notes to future selves
+    - Started https://www.loomio.com/d/jrbG5tue/server-access/39 proposal to grant [[Calix]] server access \o/
+        - This passed!
+    - wiki-alpha progress
+        - issues with openid auth -- troubleshooting live :)
+            - Fixed by Calix!
+        - next steps
+    - AOB?
  
 
 ## [[2023-03-27]]
