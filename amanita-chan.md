@@ -1,1 +1,1 @@
-- [[go]] https://mycorrhiza.wiki/hypha/meta/amanita-chan
+- [[go]] https://mycorrhiza.wiki/hypha/amanita-chan
