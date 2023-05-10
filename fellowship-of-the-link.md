@@ -72,6 +72,8 @@
         - Q&A and comments
             - love the framing of a wiki and associated narrative as MVP for coordination on a project
             - why six roles / might they be too many?
+                - tradeoff between making it clear how people can contribute/engage, recognizing different types of work, and manageability
+        - [[Jerry M]] 
 - Threads from last time we would like to pick up:
     - [[high leverage opportunities]] we can spot
     - [[generative commons]]
