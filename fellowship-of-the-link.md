@@ -38,6 +38,11 @@
     - [[Peter Kaminski]] pitching a particular organizational structure for both [[Project Marley]] and maybe this [[Fellowship of the Link]] anchored writing project
         - Fractal organization
         - https://wiki.earthmoonstars.space/
+        - #azs Is this related to [[metagov]]?
+        - Yes, related to that and [[holacracy]]
+- Pitch follows
+    - Something that Peter wrote down for something he wants to start.
+    - Includes conversation with [[map of the future]] and [[lionsberg]] (sp?).
 - Threads from last time we would like to pick up:
     - [[high leverage opportunities]] we can spot
     - [[generative commons]]
