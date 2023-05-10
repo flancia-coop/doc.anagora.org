@@ -102,6 +102,7 @@
             - There's day-to-day decisions vs larger strategic decisions
             - People often tie governance to assets
             - Enjoy the idea of a system where people can self-assign roles and report back on time/effort invested
+            - [[Jerry Michalski]] you could have people vote on each other's value contributed
 - https://bra.in/7qeDBy
 
 ## [[2023-05-03]]
