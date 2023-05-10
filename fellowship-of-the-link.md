@@ -82,6 +82,12 @@
             - Desires
                 - Feed the commons
                 - Recognize value
+        - [[Flancian]]
+            - Social.coop experiences in itself (flat structure) and with Loomio
+        - [[Metasj]]
+            - What is the primary goal of the systems we mentioned?
+                - Recognize value of contributions and distribute earnings/profits/outcomes
+                - #pk see lots of projects which don't have enough of a framework to 
                 
 https://bra.in/7qeDBy
  
