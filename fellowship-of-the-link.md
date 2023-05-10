@@ -24,6 +24,36 @@
         - [[issue tracker]] / [[project tracker]] URL
             - [[github]] by default?
             
+## [[2023-05-10]]
+- a [[meeting]].
+    - #go https://meet.jit.si/fellowship-of-the-link
+    - #calendar https://plex.collectivesensecommons.org/calendar/
+    - #when Wednesdays at [[6PM UTC]]
+- Start recording, we're currently using Jitsi and that works best with a [[Chromium]] based browser.
+- Attending: [[Jerry Michalski]] [[Peter Kaminski]] [[Flancian]]
+- What's the common thread we want to pursue?
+    - A document, leading to maybe to a book?
+    - This ties into https://chat.collectivesensecommons.org/agora/channels/ogm-sensedoing and [[Project Marley]]
+    - The community meets on Mondays at 10:30am PT over Zoom
+    - [[Peter Kaminski]] pitching a particu
+- Threads from last time we would like to pick up:
+    - [[high leverage opportunities]] we can spot
+    - [[generative commons]]
+        - [[generative linking]] (inferring links)
+        - [[general commons agreement]] https://bra.in/8qeNWy
+    - [[wishlist]] approach to worldbuilding
+    - [[Jerry Michalski]] let's discuss: note sharing.
+        - [[Aram Zucker-Scharff]] let's discuss conventions? Added something in [[massive wiki]].
+            - volunteered https://tftmap.massive.wiki/map/aram_zucker-scharff
+    - [[Aram Zucker-Scharff]] would like to generalize the archiving tool / link card generator he's been working on.
+    - [[Flancian]] would like to discuss [[Interwiki]] links and the [[common hub]] approach for search and entity resolution
+- #push [[fotl threads]]
+    - define:
+        - [[wiki]] / root URL
+        - /now
+        - [[issue tracker]] / [[project tracker]] URL
+            - [[github]] by default?
+
 ## [[2023-05-03]]
 - a [[meeting]].
     - #go https://meet.jit.si/fellowship-of-the-link
