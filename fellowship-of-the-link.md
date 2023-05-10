@@ -55,12 +55,20 @@
         - Now about the org structure
             - Contributors
                 - Contribute :)
+                - Participate in governance
             - Subscribers
+                - Our audience -- some of which may contribute resources
+                - Could or could not participate in governance
             - Editors
                 - Set contribution standards
+                - Participate in governance
             - Stewards
+                - Participate in governance
             - System Administrator
- 
+        - About the output
+            - Stories is what we output
+            - Stories also act as a form of in-game currency
+                - 1h in an editorial meeting ~ 2 stories
 - Threads from last time we would like to pick up:
     - [[high leverage opportunities]] we can spot
     - [[generative commons]]
