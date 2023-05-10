@@ -42,7 +42,7 @@
         - Yes, related to that and [[holacracy]]
 - Pitch follows
     - Something that Peter wrote down for something he wants to start.
-    - Includes conversation with [[map of the future]] and [[lionsberg]] (sp?).
+    - Incorporates conversation with [[map of the future]] and [[lionsberg]] (sp?).
 - Threads from last time we would like to pick up:
     - [[high leverage opportunities]] we can spot
     - [[generative commons]]
