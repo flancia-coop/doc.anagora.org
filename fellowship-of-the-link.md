@@ -30,7 +30,7 @@
     - #calendar https://plex.collectivesensecommons.org/calendar/
     - #when Wednesdays at [[6PM UTC]]
 - Start recording, we're currently using Jitsi and that works best with a [[Chromium]] based browser.
-- Attending: [[Jerry Michalski]] [[Peter Kaminski]] [[Flancian]] [[Aram Zucker-Scharff]]
+- Attending: [[Jerry Michalski]] [[Peter Kaminski]] [[Flancian]] [[Aram Zucker-Scharff]] [[Chris Aldrich]] [[Michael Grossman]] [[Samuel Klein]]
 - What's the common thread we want to pursue?
     - A document, leading to maybe to a book?
     - This ties into https://chat.collectivesensecommons.org/agora/channels/ogm-sensedoing and [[Project Marley]]
@@ -93,9 +93,8 @@
             - #pk the US state in this case because I'm sitting there and US non profits are regulated by the US state; other states would apply.
             - This is a fallback mechanism thought.
             - #jm [[escheat]]
-                
-https://bra.in/7qeDBy
- 
+        - [[Chris Aldrich]] like the fact that this is working towards diversity/inclusion; allowing people that wouldn't usually have access to the system and get it
+- https://bra.in/7qeDBy
 - Threads from last time we would like to pick up:
     - [[high leverage opportunities]] we can spot
     - [[generative commons]]
