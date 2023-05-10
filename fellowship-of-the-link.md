@@ -43,6 +43,11 @@
 - Pitch follows
     - Something that Peter wrote down for something he wants to start.
     - Incorporates conversation with [[map of the future]] and [[lionsberg]] (sp?).
+    - https://mapofthefuture.org/
+    - https://wiki.mapofthefuture.org/
+    - https://lionsberg.wiki/
+    - https://en.wikipedia.org/wiki/Mondragon_Corporation
+ 
 - Threads from last time we would like to pick up:
     - [[high leverage opportunities]] we can spot
     - [[generative commons]]
