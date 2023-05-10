@@ -73,7 +73,18 @@
             - love the framing of a wiki and associated narrative as MVP for coordination on a project
             - why six roles / might they be too many?
                 - tradeoff between making it clear how people can contribute/engage, recognizing different types of work, and manageability
-        - [[Jerry M]] 
+        - [[Jerry Michalski]]
+            - Issue of overhead of platform choice/coordination  
+            - Examples of projects in this space
+                - Distributed Accounting of Value Flows (Revenue Sharing for Collaboration) 
+                - Disco.coop
+                - Social.coop
+            - Desires
+                - Feed the commons
+                - Recognize value
+                
+https://bra.in/7qeDBy
+ 
 - Threads from last time we would like to pick up:
     - [[high leverage opportunities]] we can spot
     - [[generative commons]]
