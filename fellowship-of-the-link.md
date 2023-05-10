@@ -89,6 +89,10 @@
                 - Recognize value of contributions and distribute earnings/profits/outcomes
                 - #pk see lots of projects which don't have enough of a framework to let people contribute in different ways
                 - #pk c.f. lionsberg -- connecting donors and dollars with the right nonprofits. interface layer.
+        - #azs what does state mean in the description given?
+            - #pk the US state in this case because I'm sitting there and US non profits are regulated by the US state; other states would apply.
+            - This is a fallback mechanism thought.
+            - #jm [[escheat]]
                 
 https://bra.in/7qeDBy
  
