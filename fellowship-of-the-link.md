@@ -69,6 +69,9 @@
             - Stories is what we output
             - Stories also act as a form of in-game currency
                 - 1h in an editorial meeting ~ 2 stories
+        - Q&A and comments
+            - love the framing of a wiki and associated narrative as MVP for coordination on a project
+            - why six roles / might they be too many?
 - Threads from last time we would like to pick up:
     - [[high leverage opportunities]] we can spot
     - [[generative commons]]
