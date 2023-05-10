@@ -87,7 +87,7 @@
         - [[Metasj]]
             - What is the primary goal of the systems we mentioned?
                 - Recognize value of contributions and distribute earnings/profits/outcomes
-                - #pk see lots of projects which don't have enough of a framework to 
+                - #pk see lots of projects which don't have enough of a framework to let people contribute in different ways
                 
 https://bra.in/7qeDBy
  
