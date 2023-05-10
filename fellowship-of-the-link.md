@@ -98,24 +98,11 @@
             - [[Gresham's law]] ~ https://en.wikipedia.org/wiki/Gresham%27s_law
         - [[Jerry Michalski]]
             - Would be nice for communities to be able to select templates/override values from other projects to lower the cost to setup.
+        - [[Samuel Klein]] ([[Metasj]])
+            - There's day-to-day decisions vs larger strategic decisions
+            - People often tie governance to assets
+            - Enjoy the idea of a system where people can self-assign roles and report back on time/effort invested
 - https://bra.in/7qeDBy
-- Threads from last time we would like to pick up:
-    - [[high leverage opportunities]] we can spot
-    - [[generative commons]]
-        - [[generative linking]] (inferring links)
-        - [[general commons agreement]] https://bra.in/8qeNWy
-    - [[wishlist]] approach to worldbuilding
-    - [[Jerry Michalski]] let's discuss: note sharing.
-        - [[Aram Zucker-Scharff]] let's discuss conventions? Added something in [[massive wiki]].
-            - volunteered https://tftmap.massive.wiki/map/aram_zucker-scharff
-    - [[Aram Zucker-Scharff]] would like to generalize the archiving tool / link card generator he's been working on.
-    - [[Flancian]] would like to discuss [[Interwiki]] links and the [[common hub]] approach for search and entity resolution
-- #push [[fotl threads]]
-    - define:
-        - [[wiki]] / root URL
-        - /now
-        - [[issue tracker]] / [[project tracker]] URL
-            - [[github]] by default?
 
 ## [[2023-05-03]]
 - a [[meeting]].
