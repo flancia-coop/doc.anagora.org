@@ -94,6 +94,10 @@
             - This is a fallback mechanism thought.
             - #jm [[escheat]]
         - [[Chris Aldrich]] like the fact that this is working towards diversity/inclusion; allowing people that wouldn't usually have access to the system and get it
+            - But wonder if this kind of system will always be open to people figuring out incentive/reward structures and exploiting them.
+            - [[Gresham's law]] ~ https://en.wikipedia.org/wiki/Gresham%27s_law
+        - [[Jerry Michalski]]
+            - Would be nice for communities to be able to select templates/override values from other projects to lower the cost to setup.
 - https://bra.in/7qeDBy
 - Threads from last time we would like to pick up:
     - [[high leverage opportunities]] we can spot
