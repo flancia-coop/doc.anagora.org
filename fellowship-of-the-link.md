@@ -30,12 +30,14 @@
     - #calendar https://plex.collectivesensecommons.org/calendar/
     - #when Wednesdays at [[6PM UTC]]
 - Start recording, we're currently using Jitsi and that works best with a [[Chromium]] based browser.
-- Attending: [[Jerry Michalski]] [[Peter Kaminski]] [[Flancian]]
+- Attending: [[Jerry Michalski]] [[Peter Kaminski]] [[Flancian]] [[Aram Zucker-Scharff]]
 - What's the common thread we want to pursue?
     - A document, leading to maybe to a book?
     - This ties into https://chat.collectivesensecommons.org/agora/channels/ogm-sensedoing and [[Project Marley]]
     - The community meets on Mondays at 10:30am PT over Zoom
-    - [[Peter Kaminski]] pitching a particu
+    - [[Peter Kaminski]] pitching a particular organizational structure for both [[Project Marley]] and maybe this [[Fellowship of the Link]] anchored writing project
+        - Fractal organization
+        - https://wiki.earthmoonstars.space/
 - Threads from last time we would like to pick up:
     - [[high leverage opportunities]] we can spot
     - [[generative commons]]
