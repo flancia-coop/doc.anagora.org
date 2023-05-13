@@ -17,9 +17,11 @@
     - [[calculus]]
 - inefficiency of having quiet months and then showdown months
     - this has resulted on holding back on [[betula]]
-- #push [[nodeinfo]]
-    - https://github.com/jhass/nodeinfo
-    - [[betula]] will adopt this
+- #push [[do]]
+    - implement [[nodeinfo]] in the Agora
+    - #push [[nodeinfo]]
+        - https://github.com/jhass/nodeinfo
+        - [[betula]] will adopt this
 
 # [[flancia meet 2023-05-06]]
 - Attending: [[bouncepaw]] [[flancian]]
