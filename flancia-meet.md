@@ -22,6 +22,17 @@
     - #push [[nodeinfo]]
         - https://github.com/jhass/nodeinfo
         - [[betula]] will adopt this
+        - protocols supported as of 2.1
+          "activitypub",
+          "buddycloud",
+          "dfrn",
+          "diaspora",
+          "libertree",
+          "ostatus",
+          "pumpio",
+          "tent",
+          "xmpp",
+          "zot"
 
 # [[flancia meet 2023-05-06]]
 - Attending: [[bouncepaw]] [[flancian]]
