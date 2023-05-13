@@ -37,6 +37,7 @@
 - aside on [[matrix]] controversy
     - some people don't like them providing service to governments, police
     - new word: [[fediversians]]
+- [[telegram]] vs alternatives
 
 # [[flancia meet 2023-05-06]]
 - Attending: [[bouncepaw]] [[flancian]]
