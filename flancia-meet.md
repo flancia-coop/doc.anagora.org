@@ -47,7 +47,9 @@
         - unsure if doing these means actually having to take on more 
 - [[ludum dare]]
     - [[javascript]] minigames in the Agora
-    - 
+- [[plans]] for the weekend
+    - [[bouncepaw]]
+        - finish java assignment today
 
 # [[flancia meet 2023-05-06]]
 - Attending: [[bouncepaw]] [[flancian]]
