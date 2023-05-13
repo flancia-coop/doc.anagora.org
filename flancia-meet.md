@@ -33,6 +33,10 @@
           "tent",
           "xmpp",
           "zot"
+        - should [[matrix]] be in the list above?
+- aside on [[matrix]] controversy
+    - some people don't like them providing service to governments, police
+    - new word: [[fediversians]]
 
 # [[flancia meet 2023-05-06]]
 - Attending: [[bouncepaw]] [[flancian]]
