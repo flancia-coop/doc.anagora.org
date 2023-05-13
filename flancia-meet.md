@@ -44,6 +44,7 @@
         - or maybe the Agora
     - yearly releases
         - issue with vulnerabilities
+        - unsure if doing these means actually having to take on more 
 
 # [[flancia meet 2023-05-06]]
 - Attending: [[bouncepaw]] [[flancian]]
