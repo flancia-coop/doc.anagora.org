@@ -13,6 +13,10 @@
     - [[matlab assignment]]
     - [[game]]
     - [[neural network]]
+    - [[statistics test]]
+    - [[calculus]]
+- inefficiency of having quiet months and then showdown months
+    - this has resulted on holding back on [[betula]]
 
 # [[flancia meet 2023-05-06]]
 - Attending: [[bouncepaw]] [[flancian]]
