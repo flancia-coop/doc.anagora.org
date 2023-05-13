@@ -38,6 +38,12 @@
     - some people don't like them providing service to governments, police
     - new word: [[fediversians]]
 - [[telegram]] vs alternatives
+- versioning
+    - tending-to-one
+        - as https://honk.tedunangst.com/u/tedu/h/KltTfM4NGhNM8PX22Y
+        - or maybe the Agora
+    - yearly releases
+        - issue with vulnerabilities
 
 # [[flancia meet 2023-05-06]]
 - Attending: [[bouncepaw]] [[flancian]]
