@@ -17,6 +17,8 @@
     - [[calculus]]
 - inefficiency of having quiet months and then showdown months
     - this has resulted on holding back on [[betula]]
+- #push [[nodeinfo]]
+    - https://github.com/jhass/nodeinfo
 
 # [[flancia meet 2023-05-06]]
 - Attending: [[bouncepaw]] [[flancian]]
