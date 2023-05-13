@@ -19,6 +19,7 @@
     - this has resulted on holding back on [[betula]]
 - #push [[nodeinfo]]
     - https://github.com/jhass/nodeinfo
+    - [[betula]] will adopt this
 
 # [[flancia meet 2023-05-06]]
 - Attending: [[bouncepaw]] [[flancian]]
