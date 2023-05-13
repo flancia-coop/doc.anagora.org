@@ -4,6 +4,18 @@
 
 # [[flancia meet 2023-05-06]]
 - Attending: [[bouncepaw]] [[flancian]]
+- #push [[spider solitaire]]
+    - https://en.wikipedia.org/wiki/Microsoft_Spider_Solitaire
+    - also reminded me of hearts
+- [[semester endgame]]
+    - assignments become due
+    - [[java assignment]]
+    - [[matlab assignment]]
+    - [[game]]
+    - [[neural network]]
+
+# [[flancia meet 2023-05-06]]
+- Attending: [[bouncepaw]] [[flancian]]
 - #push [[domino]]
     - [[spatial thinking]] [[tool]]
     - https://links.bouncepaw.com/195
