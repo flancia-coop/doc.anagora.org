@@ -38,6 +38,7 @@ Here: Akshay, Eduardo, ...
     - API access issues
         - https://social.coop/@judell/110370271304116328 
             - we probably need some tuning of rate limiting in general?
+    - Mastodon upgrade
  
        
 ## [[2023-05-08]]
