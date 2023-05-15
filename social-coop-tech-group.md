@@ -25,6 +25,7 @@ Here: Akshay, Eduardo, ...
 - Notes to future selves
     - Started https://www.loomio.com/d/jrbG5tue/server-access/39 proposal to grant [[Calix]] server access \o/
         - This passed!
+        - Maybe we want to upgrade to latest Mastodon? Good ramp-up activity ;) ;)
     - wiki-alpha progress
         - issues with openid auth -- troubleshooting live :)
             - Fixed by Calix!
