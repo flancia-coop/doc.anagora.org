@@ -30,7 +30,9 @@ Here: Akshay, Eduardo, ...
     - API access issues
         - https://social.coop/@judell/110370271304116328 
             - we probably need some tuning of rate limiting in general?
-            - Flancian and Akshay tried to reproduce with https://gist.github.com/judell/fc50a0eb14017adb78249c941556758a and couldn't -- until making actually 
+            - Flancian and Akshay tried to reproduce with https://gist.github.com/judell/fc50a0eb14017adb78249c941556758a and couldn't -- until actually making 300 requests
+            - The user reported hitting this way waaay earlier though
+            - Maybe they're reusing the API key *or* they're making a lot of requests for the web interface?
     - wiki-alpha progress
         - issues with openid auth -- troubleshooting live :)
             - Fixed by Calix!
