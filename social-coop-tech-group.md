@@ -37,6 +37,10 @@ Here: Akshay, Eduardo, ...
                 - Maybe they're reusing the API key *or* they're making a lot of requests for the web interface?
                 - And Mastodon really should handle this better, but it doesn't -- maybe all the other instances are backed by multiple servers and load-balance so the user takes way longer to hit this condition
             - Q: Is there any way to have per-user request logs in Mastodon?
+            - A: no, there is not -- but we could change mastodon_log_level in roles/social.coop/defaults/main.yml to debug (it's info)
+            - Next action (Flancian):
+                - report back to the user, tell them what we found
+                - ask optionally for an IP address so we can skip nginx logs to check how many requests the server is actually handling for them
     - wiki-alpha progress
         - issues with openid auth -- troubleshooting live :)
             - Fixed by Calix!
