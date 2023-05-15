@@ -25,7 +25,11 @@ Here: Akshay, Eduardo, ...
 - Notes to future selves
     - Started https://www.loomio.com/d/jrbG5tue/server-access/39 proposal to grant [[Calix]] server access \o/
         - This passed!
-        - Maybe we want to upgrade to latest Mastodon? Good ramp-up activity ;) ;)
+    - Mastodon upgrade
+        - Akshay did it!
+    - API access issues
+        - https://social.coop/@judell/110370271304116328 
+            - we probably need some tuning of rate limiting in general?
     - wiki-alpha progress
         - issues with openid auth -- troubleshooting live :)
             - Fixed by Calix!
@@ -35,10 +39,6 @@ Here: Akshay, Eduardo, ...
                 - https://git.coopcloud.tech/coop-cloud/mediawiki/pulls/31 for coop cloud / working on it
                 - I still need to test the latest changes in wiki-alpha; I will try to do that before the meeting tonight, or else we could do it live (tm) :)
                 - if those work we'd be ready to set up wiki.social.coop using the same stack/steps. the only remaining step at that point would be to either special case the registration form path within wiki or (my preferred option) move the form to e.g. join.social.coop out of wiki.social.coop, which IMHO would make more sense?
-    - API access issues
-        - https://social.coop/@judell/110370271304116328 
-            - we probably need some tuning of rate limiting in general?
-    - Mastodon upgrade
  
        
 ## [[2023-05-08]]
