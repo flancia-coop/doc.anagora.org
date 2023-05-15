@@ -32,7 +32,10 @@ Here: Akshay, Eduardo, ...
             - we probably need some tuning of rate limiting in general?
             - Flancian and Akshay tried to reproduce with https://gist.github.com/judell/fc50a0eb14017adb78249c941556758a and couldn't -- until actually making 300 requests
             - The user reported hitting this way waaay earlier though
-            - Maybe they're reusing the API key *or* they're making a lot of requests for the web interface?
+            - Mastodon still hardcodes this: https://github.com/mastodon/mastodon/blob/46ad7fea9d67631f54dd1ef45114a08cd2c5db73/config/initializers/rack_attack.rb#L49
+            - Hypothesis:
+                - Maybe they're reusing the API key *or* they're making a lot of requests for the web interface?
+                - And Mastodon really should handle this better, but it doesn't -- maybe all the other instances are backed by multiple servers and load-balance so the user takes way longer to hit this condition
     - wiki-alpha progress
         - issues with openid auth -- troubleshooting live :)
             - Fixed by Calix!
