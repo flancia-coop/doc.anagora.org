@@ -18,6 +18,23 @@ Here: ...
        - issues with openid auth -- troubleshooting live :)
        - https://www.mediawiki.org/wiki/Extension:OpenID_Connect shows that the recipe needs an update to support the new way of passing parameters to pluggableauth
        
+## [[2023-05-15]]
+
+Here: Eduardo, ...
+
+- Notes to future selves
+    - Started https://www.loomio.com/d/jrbG5tue/server-access/39 proposal to grant [[Calix]] server access \o/
+        - This passed!
+    - wiki-alpha progress
+        - issues with openid auth -- troubleshooting live :)
+            - Fixed by Calix!
+        - next steps
+            - [[flancian]]
+                - I still need to test the latest changes in wiki-alpha; I will try to do that before the meeting tonight, or else we could do it live (tm) :)
+                - if those work we'd be ready to set up wiki.social.coop using the same stack/steps. the only remaining step at that point would be to either special case the registration form path within wiki or (my preferred option) move the form to e.g. join.social.coop out of wiki.social.coop, which IMHO would make more sense?
+    - AOB?
+ 
+       
 ## [[2023-05-08]]
 
 Here: Eduardo, ...
