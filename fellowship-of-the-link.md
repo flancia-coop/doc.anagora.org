@@ -39,7 +39,8 @@
             - behavior and anti-behaviour
     - [[Sunil]] is writing a book
         - [[Advainta Vedanta]] influenced
-        - Possible links with the [[Mar]]
+        - Possible links with the [[Marley]] project
+    - [[Yoga with x]]
 
 ## [[2023-05-10]]
 - a [[meeting]].
