@@ -25,7 +25,21 @@
             - [[github]] by default?
             
 ## [[2023-05-17]]
-- [[[Jerry Michalski]]]
+- a [[meeting]].
+    - #go https://meet.jit.si/fellowship-of-the-link
+    - #calendar https://plex.collectivesensecommons.org/calendar/
+    - #when Wednesdays at [[6PM UTC]]
+- Attending: [[Jerry Michalski]] [[Bentley Davis]] [[Flancian]]
+- [[Jerry Michalski]]
+    - [[Sunil]] (sp?) on a project in the intersection of [[yoga]] and [[AI]]
+    - [[flancian]] very interested!
+    - #jm guidelines on how to run a civilization
+        - the bible as the anti-handbook
+        - [[yoga]] as a possible path forward
+            - behavior and anti-behaviour
+    - [[Sunil]] is writing a book
+        - [[Advainta Vedanta]] influenced
+        - Possible links with the [[Mar]]
 
 ## [[2023-05-10]]
 - a [[meeting]].
