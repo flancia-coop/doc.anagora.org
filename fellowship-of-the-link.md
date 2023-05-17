@@ -61,6 +61,12 @@
         - [[ted nelson]]
         - [[leibniz]] corresponded with ~700 people in their lifetime
     - migrating blog to a more flexible framework
+- [[flancian]] will try to have link.agor.ai ready next week for a small demo finally :)
+- [[flancian]] what's up with [[marley]] / what are the next steps?
+    - [[jerry michalski]] agreeing on formats and pipelines (using calibre, pandoc, etc.)
+    - will try to run through the process once, end to end, to test the process
+    - after that we will start running the process for multiple books
+    - question: what happens when you go from the book to a wiki/community space around each nugget?
 
 ## [[2023-05-10]]
 - a [[meeting]].
