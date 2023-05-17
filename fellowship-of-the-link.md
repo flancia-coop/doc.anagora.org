@@ -55,7 +55,9 @@
             - paste as transclusion
         - [[frink]] == [[frozen link]]
         - [[mook]] == [[multiuser book]]
-    - 
+    - [[letters we would like to send]]
+        - [[ted nelson]]
+        - [[leibniz]] corresponded with ~700 people in their lifetime
 
 ## [[2023-05-10]]
 - a [[meeting]].
