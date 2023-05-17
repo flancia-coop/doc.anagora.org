@@ -24,6 +24,9 @@
         - [[issue tracker]] / [[project tracker]] URL
             - [[github]] by default?
             
+## [[2023-05-17]]
+- [[[Jerry Michalski]]]
+
 ## [[2023-05-10]]
 - a [[meeting]].
     - #go https://meet.jit.si/fellowship-of-the-link
