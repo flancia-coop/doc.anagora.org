@@ -88,6 +88,9 @@
         - [[Rethinking ...]]
    - on the word [[muggle]]
        - people who are unaware/lack magical powers because they were
+       - pros:
+           - memorable
+           - parallel between (muggles and wizards) and (civilians and people who code)
                 
 
 ## [[2023-05-10]]
