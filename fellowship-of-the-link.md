@@ -76,8 +76,8 @@
                 - attribution/derivation lines between nuggets
                 - nuggets as prompts
                 - nuggets as topics for discussion
-            - research [[attir]]
-                - [[topic maps]]
+            - research [[attribution networks]] [[attribution chains]]
+            - [[topic maps]] with topics as prompts?
                 
 
 ## [[2023-05-10]]
