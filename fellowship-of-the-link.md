@@ -72,11 +72,11 @@
         - [[peter kaminski]] could be into focusing on new organizational structures
         - how do we share what we know? how does the information come alive? how do we create summary pages?
             - [[flancian]]
-            - manifestations of nuggets
-            - attribution/derivation lines between nuggets
-            - nuggets as prompts
-            - nuggets as topics for discussion
-            - topic maps]]
+                - manifestations of nuggets
+                - attribution/derivation lines between nuggets
+                - nuggets as prompts
+                - nuggets as topics for discussion
+                - [[topic maps]]
 
 ## [[2023-05-10]]
 - a [[meeting]].
