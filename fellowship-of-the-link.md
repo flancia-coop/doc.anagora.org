@@ -41,6 +41,9 @@
         - [[Advainta Vedanta]] influenced
         - Possible links with the [[Marley]] project
     - [[Yoga with x]]
+        - Node is currently buggy, redirects :)
+- [[Bentley Davis]]
+    - Converting blog to [[m]]
 
 ## [[2023-05-10]]
 - a [[meeting]].
