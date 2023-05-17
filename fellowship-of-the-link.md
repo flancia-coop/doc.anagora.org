@@ -83,7 +83,9 @@
         - In [[Jerry's brain]]
             - [[yellow]] is an attractor
             - [[purple]] is an opinion
-        - [[Rt]]
+        - [[Rethinking Copyright]]
+        - [[Rethinking Peer Review]]
+        - [[Rethinking ...]]
                 
 
 ## [[2023-05-10]]
