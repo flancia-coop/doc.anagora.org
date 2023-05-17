@@ -53,6 +53,9 @@
             - paste as copy
             - paste with reference/update
             - paste as transclusion
+        - [[frink]] == [[frozen link]]
+        - [[mook]] == [[multiuser book]]
+    - 
 
 ## [[2023-05-10]]
 - a [[meeting]].
