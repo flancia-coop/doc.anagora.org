@@ -78,6 +78,8 @@
                 - nuggets as topics for discussion
             - research [[attribution networks]] [[attribution chains]]
             - [[topic maps]] with topics as prompts?
+        - [[attribution server]] from [[2002]] in [[jerry's brain]]
+            - [[embracing piracy]]
                 
 
 ## [[2023-05-10]]
