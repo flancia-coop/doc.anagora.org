@@ -47,6 +47,12 @@
     - Converting blog to [[massive wiki]]
     - Picking up the thread of [[universal inboxes]]
         - Having one tool, one place, does not mean you are forced to unify everything/remove limits
+    - [[flancian]] discussing with [[bouncepaw]] how to enable repos/web sites to specify how they want to integrate into an [[agora]], [[massive wiki]], etc.
+        - #bd ideally all of the above
+        - #jm we don't have a vocabulary for 'second level of paste'
+            - paste as copy
+            - paste with reference/update
+            - paste as transclusion
 
 ## [[2023-05-10]]
 - a [[meeting]].
