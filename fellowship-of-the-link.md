@@ -37,13 +37,16 @@
         - the bible as the anti-handbook
         - [[yoga]] as a possible path forward
             - behavior and anti-behaviour
-    - [[Sunil]] is writing a book
+    - [[Sunil]] is writing a book 
+        - [[Sunil]] ~ https://www.linkedin.com/in/sunil-malhotra/
         - [[Advainta Vedanta]] influenced
         - Possible links with the [[Marley]] project
     - [[Yoga with x]]
         - Node is currently buggy, redirects :)
 - [[Bentley Davis]]
-    - Converting blog to [[m]]
+    - Converting blog to [[massive wiki]]
+    - Picking up the thread of [[universal inboxes]]
+        - Having one tool, one place, does not mean you are forced to unify everything/remove limits
 
 ## [[2023-05-10]]
 - a [[meeting]].
