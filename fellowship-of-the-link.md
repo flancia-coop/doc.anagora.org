@@ -86,6 +86,8 @@
         - [[Rethinking Copyright]]
         - [[Rethinking Peer Review]]
         - [[Rethinking ...]]
+   - on the word [[muggle]]
+       - people who are unaware/lack magical powers because they were
                 
 
 ## [[2023-05-10]]
