@@ -56,6 +56,7 @@
             - paste as transclusion
         - [[frink]] == [[frozen link]]
         - [[mook]] == [[multiuser book]]
+            - maybe also [[neobook]]
         - do we need a better word for [[transclusion]]?
     - [[letters we would like to send]]
         - [[ted nelson]]
@@ -67,6 +68,15 @@
     - will try to run through the process once, end to end, to test the process
     - after that we will start running the process for multiple books
     - question: what happens when you go from the book to a wiki/community space around each nugget?
+        - how do we measure value through a community?
+        - [[peter kaminski]] could be into focusing on new organizational structures
+        - how do we share what we know? how does the information come alive? how do we create summary pages?
+            - [[flancian]]
+            - manifestations of nuggets
+            - attribution/derivation lines between nuggets
+            - nuggets as prompts
+            - nuggets as topics for discussion
+            - topic maps]]
 
 ## [[2023-05-10]]
 - a [[meeting]].
