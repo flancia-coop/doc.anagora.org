@@ -91,6 +91,10 @@
        - pros:
            - memorable
            - parallel between (muggles and wizards) and (civilians and people who code)
+       - cons:
+           - maybe 
+       - maybe we should riff on harry potter / write a spin off
+           - a la https://en.wikipedia.org/wiki/Harry_Potter_and_the_Methods_of_Rationality
                 
 
 ## [[2023-05-10]]
