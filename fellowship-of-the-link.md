@@ -46,6 +46,7 @@
 - [[Bentley Davis]]
     - Converting blog to [[massive wiki]]
     - Picking up the thread of [[universal inboxes]]
+        - #jm Jerry Michalski says:Unified Messaging  https://bra.in/7p6ALP
         - Having one tool, one place, does not mean you are forced to unify everything/remove limits
     - [[flancian]] discussing with [[bouncepaw]] how to enable repos/web sites to specify how they want to integrate into an [[agora]], [[massive wiki]], etc.
         - #bd ideally all of the above
@@ -55,9 +56,11 @@
             - paste as transclusion
         - [[frink]] == [[frozen link]]
         - [[mook]] == [[multiuser book]]
+        - do we need a better word for [[transclusion]]?
     - [[letters we would like to send]]
         - [[ted nelson]]
         - [[leibniz]] corresponded with ~700 people in their lifetime
+    - migrating blog to a more flexible framework
 
 ## [[2023-05-10]]
 - a [[meeting]].
