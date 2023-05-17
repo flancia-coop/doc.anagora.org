@@ -76,7 +76,9 @@
                 - attribution/derivation lines between nuggets
                 - nuggets as prompts
                 - nuggets as topics for discussion
+            - research [[attir]]
                 - [[topic maps]]
+                
 
 ## [[2023-05-10]]
 - a [[meeting]].
