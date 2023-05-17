@@ -80,6 +80,10 @@
             - [[topic maps]] with topics as prompts?
         - [[attribution server]] from [[2002]] in [[jerry's brain]]
             - [[embracing piracy]]
+        - In [[Jerry's brain]]
+            - [[yellow]] is an attractor
+            - [[purple]] is an opinion
+        - [[Rt]]
                 
 
 ## [[2023-05-10]]
