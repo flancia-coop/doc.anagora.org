@@ -18,6 +18,25 @@ Here: ...
        - issues with openid auth -- troubleshooting live :)
        - https://www.mediawiki.org/wiki/Extension:OpenID_Connect shows that the recipe needs an update to support the new way of passing parameters to pluggableauth
        
+## [[2023-05-22]]
+Here: Akshay, Eduardo, ...
+
+- Notes to future selves
+    - API access issues
+        - https://social.coop/@judell/110370271304116328 
+            - No action needed for now?
+    - wiki-alpha progress
+        - issues with openid auth -- troubleshooting live :)
+            - Fixed by Calix!
+        - next steps
+            - [[flancian]]
+                - started branch for join.social.coop: 
+                - https://git.coopcloud.tech/coop-cloud/mediawiki/pulls/31 for coop cloud / working on it
+    - sysadmin commons
+        - https://anagora.org/collective-tools
+        - Meeting this Thu
+ 
+
 ## [[2023-05-15]]
 
 Here: Akshay, Eduardo, ...
