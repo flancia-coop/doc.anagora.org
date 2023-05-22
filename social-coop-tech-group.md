@@ -30,7 +30,7 @@ Here: Akshay, Eduardo, ...
             - Fixed by Calix!
         - next steps
             - [[flancian]]
-                - started branch for join.social.coop: 
+                - started branch for join.social.coop: https://git.coop/social.coop/tech/ansible/-/commit/5ec71ead1a1cadd95d7a74326f74fe0aae875c9e, 
                 - https://git.coopcloud.tech/coop-cloud/mediawiki/pulls/31 for coop cloud / working on it
     - sysadmin commons
         - https://anagora.org/collective-tools
