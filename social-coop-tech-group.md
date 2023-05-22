@@ -34,7 +34,8 @@ Here: Akshay, Eduardo, Ed ...
         - next steps
             - [[flancian]]
                 - started branch for join.social.coop: https://git.coop/social.coop/tech/ansible/-/commit/5ec71ead1a1cadd95d7a74326f74fe0aae875c9e, 
-                - https://git.coopcloud.tech/coop-cloud/mediawiki/pulls/31 for coop cloud / working on it
+                - -> https://git.coop/social.coop/tech/ansible/-/merge_requests/27
+            - https://git.coopcloud.tech/coop-cloud/mediawiki/pulls/31 for coop cloud / working on it
             - [[akshay]] ideally we'd run the instance in mastodon.social.coop and do "domain magic" to have accounts still be @social.coop, but that ship has sailed
                 - maybe let's try once we run bonfire or something else?
             - www is off the table
