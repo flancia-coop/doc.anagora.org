@@ -34,6 +34,9 @@ Here: Akshay, Eduardo, Ed ...
                 - https://git.coopcloud.tech/coop-cloud/mediawiki/pulls/31 for coop cloud / working on it
             - [[akshay]] ideally we'd run the instance in mastodon.social.coop and do "domain magic" to have accounts still be @social.coop, but that ship has sailed
                 - maybe let's try once we run bonfire or something else?
+            - www is off the table
+                - join.social.coop
+            - user: registrations? maybe instead of site
     - sysadmin commons
         - https://anagora.org/collective-tools
         - Meeting this Thu: https://forum.meet.coop/t/commons-hour-specials-upcoming/1364
