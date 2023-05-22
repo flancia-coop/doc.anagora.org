@@ -34,7 +34,7 @@ Here: Akshay, Eduardo, ...
                 - https://git.coopcloud.tech/coop-cloud/mediawiki/pulls/31 for coop cloud / working on it
     - sysadmin commons
         - https://anagora.org/collective-tools
-        - Meeting this Thu
+        - Meeting this Thu: https://forum.meet.coop/t/commons-hour-specials-upcoming/1364
  
 
 ## [[2023-05-15]]
