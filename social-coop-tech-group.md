@@ -25,6 +25,9 @@ Here: Akshay, Eduardo, Ed ...
     - API access issues
         - https://social.coop/@judell/110370271304116328 
             - No action needed for now?
+    - spam in registrations
+        - is it getting worse? the last week was bad
+        - Eduardo will check in the next CWG meeting if this is an issue for others
     - wiki-alpha progress
         - issues with openid auth -- troubleshooting live :)
             - Fixed by Calix!
