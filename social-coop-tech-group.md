@@ -19,7 +19,7 @@ Here: ...
        - https://www.mediawiki.org/wiki/Extension:OpenID_Connect shows that the recipe needs an update to support the new way of passing parameters to pluggableauth
        
 ## [[2023-05-22]]
-Here: Akshay, Eduardo, ...
+Here: Akshay, Eduardo, Ed ...
 
 - Notes to future selves
     - API access issues
@@ -32,6 +32,8 @@ Here: Akshay, Eduardo, ...
             - [[flancian]]
                 - started branch for join.social.coop: https://git.coop/social.coop/tech/ansible/-/commit/5ec71ead1a1cadd95d7a74326f74fe0aae875c9e, 
                 - https://git.coopcloud.tech/coop-cloud/mediawiki/pulls/31 for coop cloud / working on it
+            - [[akshay]] ideally we'd run the instance in mastodon.social.coop and do "domain magic" to have accounts still be @social.coop, but that ship has sailed
+                - maybe let's try once we run bonfire or something else?
     - sysadmin commons
         - https://anagora.org/collective-tools
         - Meeting this Thu: https://forum.meet.coop/t/commons-hour-specials-upcoming/1364
