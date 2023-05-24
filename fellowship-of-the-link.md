@@ -31,7 +31,11 @@
     - #when Wednesdays at [[6PM UTC]]
 - Attending: [[Jerry Michalski]] [[Aram Zucker-Scharff]] [[Peter Kaminski]]
 - [[Peter Kaminski]]
-    - Massive Wiki + 11ty being work
+    - Massive Wiki + 11ty being worked on by Bentley Davis
+    - https://github.com/BentleyDavis/mwb11ty
+    - https://github.com/BentleyDavis/mw-deploy
+    - https://github.com/BentleyDavis/massive-wiki
+    - He had an idea of using something client
 
 
 ## [[2023-05-17]]
