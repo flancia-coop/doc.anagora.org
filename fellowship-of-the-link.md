@@ -37,7 +37,7 @@
     - https://github.com/BentleyDavis/massive-wiki
     - He had an idea of using something clientside that just pulls github files in the client. 
     - Zircon - the ability to edit this page like an old style wiki on Massive Wiki 
-    - 
+- [[Jerry Micha]]
 
 
 ## [[2023-05-17]]
