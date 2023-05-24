@@ -46,6 +46,7 @@
     - https://spatialwebfoundation.org/
     - Significant problems with it
     - Jerry: issues with their obsession with Geolocation
+    - Foundational - [HSML](https://spatialwebfoundation.org/protocols/contracts/) & [HSTP (Hyperspace Transaction Protocol)](https://spatialwebfoundation.org/protocols/standards/)
 
 
 ## [[2023-05-17]]
