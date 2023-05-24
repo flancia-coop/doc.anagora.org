@@ -55,8 +55,12 @@
     - https://github.com/bluesky-social/social-app
     - https://bsky-mirc.glitch.me/
     - Deformaing things is key to good community. [See](https://samplereality.com/2012/05/02/notes-towards-a-deformed-humanities/). 
+    - https://solar.lowtechmagazine.com/about.html
 - Peter 
     - Flikr a good example of someone that got a good community.   
+- Michael
+    - https://get.mem.ai/
+    - https://aboard.com/
 
 
 
