@@ -29,7 +29,7 @@
     - #go https://meet.jit.si/fellowship-of-the-link
     - #calendar https://plex.collectivesensecommons.org/calendar/
     - #when Wednesdays at [[6PM UTC]]
-- Attending: [[Jerry Michalski]] [[Aram Zucker-Scharff]] [[Peter Kaminski]] [[Chris Aldrich]] [[Michael Grossman]]
+- Attending: [[Jerry Michalski]] [[Aram Zucker-Scharff]] [[Peter Kaminski]] [[Chris Aldrich]] [[Michael Grossman]] [[Bentley Davis]]
 - [[Peter Kaminski]]
     - Massive Wiki + 11ty being worked on by Bentley Davis
     - https://github.com/BentleyDavis/mwb11ty
@@ -54,6 +54,7 @@
     - https://github.com/bluesky-social/feed-generator
     - https://github.com/bluesky-social/social-app
     - https://bsky-mirc.glitch.me/
+    - Deformaing things is key to good community. [See](https://samplereality.com/2012/05/02/notes-towards-a-deformed-humanities/). 
 - Peter 
     - Flikr a good example of someone that got a good community.   
 
