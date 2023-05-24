@@ -23,7 +23,17 @@
         - /now
         - [[issue tracker]] / [[project tracker]] URL
             - [[github]] by default?
-            
+
+## [[2023-05-24]]
+- a [[meeting]]
+    - #go https://meet.jit.si/fellowship-of-the-link
+    - #calendar https://plex.collectivesensecommons.org/calendar/
+    - #when Wednesdays at [[6PM UTC]]
+- Attending: [[Jerry Michalski]] [[Aram Zucker-Scharff]] [[Peter Kaminski]]
+- [[Peter Kaminski]]
+    - Massive Wiki + 11ty being work
+
+
 ## [[2023-05-17]]
 - a [[meeting]].
     - #go https://meet.jit.si/fellowship-of-the-link
