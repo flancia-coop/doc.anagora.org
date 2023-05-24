@@ -35,7 +35,8 @@
     - https://github.com/BentleyDavis/mwb11ty
     - https://github.com/BentleyDavis/mw-deploy
     - https://github.com/BentleyDavis/massive-wiki
-    - He had an idea of using something client
+    - He had an idea of using something clientside that just pulls github files in the client. 
+    - 
 
 
 ## [[2023-05-17]]
