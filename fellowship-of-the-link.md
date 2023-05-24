@@ -47,6 +47,9 @@
     - Significant problems with it
     - Jerry: issues with their obsession with Geolocation
     - Foundational - [HSML](https://spatialwebfoundation.org/protocols/contracts/) & [HSTP (Hyperspace Transaction Protocol)](https://spatialwebfoundation.org/protocols/standards/)
+- https://www.newyorker.com/magazine/2000/10/30/the-pitchman
+- http://www.gladwell.com/2000_10_30_a_pitchman.htm 
+
 
 
 ## [[2023-05-17]]
