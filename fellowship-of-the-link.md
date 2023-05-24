@@ -29,7 +29,7 @@
     - #go https://meet.jit.si/fellowship-of-the-link
     - #calendar https://plex.collectivesensecommons.org/calendar/
     - #when Wednesdays at [[6PM UTC]]
-- Attending: [[Jerry Michalski]] [[Aram Zucker-Scharff]] [[Peter Kaminski]] [[Chris Aldrich]]
+- Attending: [[Jerry Michalski]] [[Aram Zucker-Scharff]] [[Peter Kaminski]] [[Chris Aldrich]] [[Michael Grossman]]
 - [[Peter Kaminski]]
     - Massive Wiki + 11ty being worked on by Bentley Davis
     - https://github.com/BentleyDavis/mwb11ty
@@ -48,7 +48,14 @@
     - Jerry: issues with their obsession with Geolocation
     - Foundational - [HSML](https://spatialwebfoundation.org/protocols/contracts/) & [HSTP (Hyperspace Transaction Protocol)](https://spatialwebfoundation.org/protocols/standards/)
 - https://www.newyorker.com/magazine/2000/10/30/the-pitchman
-- http://www.gladwell.com/2000_10_30_a_pitchman.htm 
+- http://www.gladwell.com/2000_10_30_a_pitchman.htm
+- [[Aram Zucker-Scharff]]
+    - BlueSky doing some exciting things 
+    - https://github.com/bluesky-social/feed-generator
+    - https://github.com/bluesky-social/social-app
+    - https://bsky-mirc.glitch.me/
+- Peter 
+    - Flikr a good example of someone that got a good community.   
 
 
 
