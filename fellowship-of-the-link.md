@@ -65,8 +65,8 @@
 - [[Peter Kaminski]]
     - [[Bovill]] wants to mash up fedwiki, tiddlywiki and massive wiki -- https://app.thebrain.com/brain/3d80058c-14d8-5361-0b61-a061f89baf87/21b90ebd-dd91-4e3d-b58f-b1a77194f9b2
 - [[Chris Aldrich]]
-    - Been following a look of teachers and professors and researchers that are using commonbook-like and zettelkasten-like methods to teach in classrooms.
-    - Will try to do a half-day course on these topics
+    - Been following group of teachers and professors and researchers that are using commonbook-like and zettelkasten-like methods to teach in classrooms.
+    - Will try to do a half-day course/BarCamp on these topics
     - #jm is there a good place to catch up on what modern [[zettelkasten]] looks like?
         - #ca the most modern take is still very [[luhmann]]-esque 
         - https://boffosocko.com/2023/05/30/zettelkasten-pedagogy-meeup/
@@ -81,6 +81,7 @@ https://forum.obsidian.md/t/honest-alternatives-to-zettelkasten/57076/5)
         - [[Michael Grossman]] on the relationship between [[PKM]] and [[OKN]]
             - [[okn]] ~ [[open knowledge network]]
             - the common pool should be precisely an [[open knowledge network]]
+            - on https://new.nsf.gov/funding/opportunities/building-prototype-open-knowledge-network-proto
  
 
 
