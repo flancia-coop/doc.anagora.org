@@ -30,7 +30,9 @@
     - #calendar https://plex.collectivesensecommons.org/calendar/
     - #when Wednesdays at [[6PM UTC]]
 - Attending: [[Jerry Michalski]], [[Bentley Davis]], [[Michael Grossman]], [[Flancian]]
-- [[Bentley D]]
+- [[Bentley Davis]]
+    - Been playing around with Massive Wiki instead of doing what he was supposed to do ;)
+    - Play/exploration!
 - Start recording, we're currently using Jitsi and that works best with a [[Chromium]] based browser.
 
 ## [[2023-05-24]]
