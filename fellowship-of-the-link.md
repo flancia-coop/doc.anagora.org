@@ -53,6 +53,9 @@
     - We can probably learn from:
         - [[microformats]]
         - [[pingbacks]] from indieweb
+- [[Flancian]]
+    - On [[ogm.agor.ai]] which now sort of exists, with three repos :)
+    - Is [[OGM]] the right um
 - Start recording, we're currently using Jitsi and that works best with a [[Chromium]] based browser.
 
 ## [[2023-05-24]]
