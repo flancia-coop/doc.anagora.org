@@ -77,9 +77,10 @@
         - [[Peter Kaminski]] https://forum.obsidian.md/tag/zettelkasten and [Honest Alternatives to Zettelkasten \- Knowledge management \- Obsidian Forum](
 https://forum.obsidian.md/t/honest-alternatives-to-zettelkasten/57076/5) 
         - #ca on cargo cult of zettelkasten: https://boffosocko.com/2023/02/03/a-note-on-the-cargo-cult-of-zettelkasten/
-    - [[Michael Grossman]] on the relationship between [[PKM]] and [[OKN]]
-        - [[okn]] ~ [[open knowledge network]]
-        - the common pool should be precisely an [[open knowledge network]]
+    - #push [[OKN]]
+        - [[Michael Grossman]] on the relationship between [[PKM]] and [[OKN]]
+            - [[okn]] ~ [[open knowledge network]]
+            - the common pool should be precisely an [[open knowledge network]]
  
 
 
