@@ -24,6 +24,15 @@
         - [[issue tracker]] / [[project tracker]] URL
             - [[github]] by default?
 
+## [[2023-05-31]]
+- a [[meeting]].
+    - #go https://meet.jit.si/fellowship-of-the-link
+    - #calendar https://plex.collectivesensecommons.org/calendar/
+    - #when Wednesdays at [[6PM UTC]]
+- Attending: [[Jerry Michalski]], [[Bentley Davis]], [[Michael Grossman]], [[Flancian]]
+- [[Bentley D]]
+- Start recording, we're currently using Jitsi and that works best with a [[Chromium]] based browser.
+
 ## [[2023-05-24]]
 - a [[meeting]]
     - #go https://meet.jit.si/fellowship-of-the-link
