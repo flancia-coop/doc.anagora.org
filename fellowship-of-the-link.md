@@ -62,6 +62,7 @@
             - [[flotilla]] for example
         - [[FOTL]]
         - [[OGM]] subverts the idea of an organization structure :)
+- [[Bovill]]
 - Start recording, we're currently using Jitsi and that works best with a [[Chromium]] based browser.
 
 ## [[2023-05-24]]
