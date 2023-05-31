@@ -58,9 +58,10 @@
     - On [[ogm.agor.ai]] which now sort of exists, with three repos :)
     - Is [[OGM]] the right umbrella term here?
     - [[Peter Kaminski]]
-        - We probably want an entity with some governance structure
+        - We probably want to consider an entity with some governance structure
             - [[flotilla]] for example
-        - [[OGM]] subverts the idea of an organization structure
+        - [[FOTL]]
+        - [[OGM]] subverts the idea of an organization structure :)
 - Start recording, we're currently using Jitsi and that works best with a [[Chromium]] based browser.
 
 ## [[2023-05-24]]
