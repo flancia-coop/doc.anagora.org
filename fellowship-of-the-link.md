@@ -29,14 +29,20 @@
     - #go https://meet.jit.si/fellowship-of-the-link
     - #calendar https://plex.collectivesensecommons.org/calendar/
     - #when Wednesdays at [[6PM UTC]]
-- Attending: [[Jerry Michalski]], [[Bentley Davis]], [[Michael Grossman]], [[Flancian]]
+- Attending: [[Jerry Michalski]], [[Bentley Davis]], [[Michael Grossman]], [[Flancian]], [[Chris Aldrich]], [[Peter Kaminski]]
 - [[Bentley Davis]]
     - Been playing around with Massive Wiki instead of doing what he was supposed to do ;)
     - Play/exploration!
 - [[Peter Kaminski]]
     - [[Jerry Michalski]] so what's new in Massive Wiki land?
     - Making git and git related workflows easier to use.
-    -
+    - (missed a lot of this due to a conflict)
+- [[Bentley Davis]]
+    - How would we ideally share data?
+    - Types:
+        - transclude
+        - copy
+        - copy and link
 - Start recording, we're currently using Jitsi and that works best with a [[Chromium]] based browser.
 
 ## [[2023-05-24]]
