@@ -64,6 +64,7 @@
         - [[OGM]] subverts the idea of an organization structure :)
 - [[Peter Kaminski]]
     - [[Bovill]] wants to mash up fedwiki, tiddlywiki and massive wiki -- https://app.thebrain.com/brain/3d80058c-14d8-5361-0b61-a061f89baf87/21b90ebd-dd91-4e3d-b58f-b1a77194f9b2
+   
 - Start recording, we're currently using Jitsi and that works best with a [[Chromium]] based browser.
 
 ## [[2023-05-24]]
