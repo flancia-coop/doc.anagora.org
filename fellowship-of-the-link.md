@@ -43,9 +43,16 @@
         - transclude
         - copy
         - copy and link
+- [[Flancian]]
+    - on transclusion and copying as they are supported by [[agora server]] and [[agora bridge]] currently
+- [[Jerry Michalski]]
+    - How to have cross-tool or tool-agnostic collaboration?
+- [[Flancian]]
+    - Proposal: a protocol for forking and merging text, plus tools that make it accessible for less-technical-users?
 - [[Peter Kaminski]]
-    - [[microformats]]
-    - []
+    - We can probably learn from:
+        - [[microformats]]
+        - [[pingbacks]] from indieweb
 - Start recording, we're currently using Jitsi and that works best with a [[Chromium]] based browser.
 
 ## [[2023-05-24]]
