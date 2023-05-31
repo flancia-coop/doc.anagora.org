@@ -33,6 +33,8 @@
 - [[Bentley Davis]]
     - Been playing around with Massive Wiki instead of doing what he was supposed to do ;)
     - Play/exploration!
+- [[Peter Kaminski]]
+    - 
 - Start recording, we're currently using Jitsi and that works best with a [[Chromium]] based browser.
 
 ## [[2023-05-24]]
