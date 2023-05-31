@@ -71,13 +71,15 @@
         - #ca the most modern take is still very [[luhmann]]-esque 
         - https://boffosocko.com/2023/05/30/zettelkasten-pedagogy-meeup/
         - There's https://zettelkasten.eu and a dedicated reddit
-    - On [[building a second brain]] getting very popular, to the extent it's muddied the waters of what is a very long historical tradition
+    - #ca On [[building a second brain]] getting very popular, to the extent it's muddied the waters of what is a very long historical tradition
         - Prefer to approach the space starting from the basics (keeping it simple / with a minimal set of rules)
         - You need to be clear on why you're doing zettelkasten-like, what is the expected output
         - [[Peter Kaminski]] https://forum.obsidian.md/tag/zettelkasten and [Honest Alternatives to Zettelkasten \- Knowledge management \- Obsidian Forum](
 https://forum.obsidian.md/t/honest-alternatives-to-zettelkasten/57076/5) 
-        - on cargo cult of zettelkasten: 
-https://boffosocko.com/2023/02/03/a-note-on-the-cargo-cult-of-zettelkasten/
+        - #ca on cargo cult of zettelkasten: https://boffosocko.com/2023/02/03/a-note-on-the-cargo-cult-of-zettelkasten/
+    - [[Michael Grossman]] on the relationship between [[PKM]] and [[OKN]]
+        - [[okn]] ~ [[open knowledge network]]
+        - the common pool should be precisely an [[open knowledge network]]
  
 
 
