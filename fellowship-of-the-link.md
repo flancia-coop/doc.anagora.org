@@ -71,6 +71,8 @@
         - #ca the most modern take is still very [[luhmann]]-esque 
         - https://boffosocko.com/2023/05/30/zettelkasten-pedagogy-meeup/
         - There's https://zettelkasten.eu and a dedicated reddit
+    - On [[building a second brain]] getting very popular, to the extent it's muddied the waters of what is a very long historical tradition
+        - Prefer to approach the space starting from the basics (keeping it simple / with a minimal set of rules)
 
 
 ## [[2023-05-24]]
