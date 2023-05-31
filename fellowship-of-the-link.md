@@ -36,6 +36,7 @@
 - [[Peter Kaminski]]
     - [[Jerry Michalski]] so what's new in Massive Wiki land?
     - Making git and git related workflows easier to use.
+    -
 - Start recording, we're currently using Jitsi and that works best with a [[Chromium]] based browser.
 
 ## [[2023-05-24]]
