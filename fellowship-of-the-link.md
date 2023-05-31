@@ -70,7 +70,8 @@
     - #jm is there a good place to catch up on what modern [[zettelkasten]] looks like?
         - #ca the most modern take is still very [[luhmann]]-esque 
         - https://boffosocko.com/2023/05/30/zettelkasten-pedagogy-meeup/
-- Start recording, we're currently using Jitsi and that works best with a [[Chromium]] based browser.
+        - There's https://zettelkasten.eu and a dedicated reddit
+
 
 ## [[2023-05-24]]
 - a [[meeting]]
