@@ -1,4 +1,4 @@
-@ArchLeucoryx — daytura, just "day" is good
+[@ArchLeucoryx — daytura, just "day" is good](https://twitter.com/ArchLeucoryx)
 
 Quick and dirty longer bio. hihi this is daytura. RIP Agorabot on Twitter! Wikilink everything really could've been great :(
 
@@ -8,4 +8,4 @@ April 19th 2022 update: "roxytonic ad astra" is complete! It's a public synthesi
 
 https://roxytonic.tumblr.com/tagged/roxytonic+ad+astra/chrono
 
-June 3rd 2023 update: Moved past personal knowledge management and tools for thought (fancy note-taking) for the time being. Very far out of fandom. Cognitive science major!
+June 3rd 2023 update: Moved past personal knowledge management and tools for thought (fancy note-taking) for the time being, and on account that I'm a proper cognitive science major now. Very far from fandom and honestly it feels great. Looking forward to where this new major takes me.
