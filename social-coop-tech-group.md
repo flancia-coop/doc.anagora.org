@@ -96,6 +96,7 @@ Here: edsu, Akshay, Flancian, (a late Calix)
        - cleanup of wiki.social.coop now join.social.coop repo: https://git.coop/social.coop/tech/wiki.social.coop/-/merge_requests/8
            - \o/
            - meet.coop is maybe back from almost dead, so we need to keep the meet.coop signup flow for now
+           - ca.meet.coop is likely the next meet.coop
  
 ## [[2023-05-22]]
 Here: Akshay, Eduardo, Ed ...
