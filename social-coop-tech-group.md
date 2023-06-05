@@ -34,6 +34,9 @@ Here: edsu Akshay Flancian
     - [[Flancian]]
         - Also enjoying Zürich
             - [[edsu]] [[ministry for the future]] takes place there significantly!
+                - enjoyed it
+                - liked how he tried to write a different kind of book from the usual doom-and-gloom (paraphrasing)
+                - [[near future scenarios]]
         - Except the pollen
 - Notes to future selves
     - Issues raised from CWG
