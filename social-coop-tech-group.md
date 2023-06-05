@@ -71,13 +71,15 @@ Here: edsu, Akshay, Flancian, (a late Calix)
     - wiki progress
        - [[wiki alpha]]:
            - could make sense to keep it as a staging environment?
-           - do we want to set some kind of 
+           - do we want to set some kind of expectation for data permanence?
+               - no expectations :)
        - pending:
            - [[backups]] and [[restores]]
        - keycloak up with social.coop realm
        - dump restored, including images
        - issues with openid auth -- troubleshooting live :)
        - https://www.mediawiki.org/wiki/Extension:OpenID_Connect shows that the recipe needs an update to support the new way of passing parameters to pluggableauth
+       - TWG pages on wiki: https://git.coop/social.coop/tech/operations/-/issues/70
        - cleanup of wiki.join.coop now join.social.coop repo: https://git.coop/social.coop/tech/wiki.social.coop/-/merge_requests/8
  
 ## [[2023-05-22]]
