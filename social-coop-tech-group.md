@@ -82,17 +82,18 @@ Here: edsu, Akshay, Flancian, (a late Calix)
            - Ak: Better in the long-run to go the other way - logging in with Keycloak into mastodon.
            - Fl: General direction of "what is next".
        - pending:
-           - [[backups]] and [[restores]]
+           - [[backups]] and [[restores]] is pending
+               - open an issue
            - email auth / hooking up keycloak to mailgun
+               - open an issue
            - figuring out signup flow/user verification
                - [[calix]] tried figuring out approval flows and couldn't understand the steps involved
                - 'sign up using google and get verified' is something that others on The Internet have set up though
                - more immediately, maybe just import existing users using csv or something and add new users using an extra step for our signup flow
                - Ak has experience w/ another co-op importing users from Mastodon into Keycloak
-
            - figure out if we want to enable logging into keycloak using mastodon as a provider as a migration step
                - although we would want to have mastodon/the instance use keycloak in the medium term
-       - cleanup of wiki.join.coop now join.social.coop repo: https://git.coop/social.coop/tech/wiki.social.coop/-/merge_requests/8
+       - cleanup of wiki.social.coop now join.social.coop repo: https://git.coop/social.coop/tech/wiki.social.coop/-/merge_requests/8
            - \o/
  
 ## [[2023-05-22]]
