@@ -40,6 +40,7 @@ Here: edsu, Akshay, Flancian, (a late Calix)
         - Except the pollen
     - [[Calix]]
         - Super happy to be back after time lost in The Matrix! Currently in the UK, surprisingly enjoyable time. Very Excited about Autonomic's recent launch of https://cooperative.computer/ – masto post https://sunbeam.city/@autonomic/110458431661481012
+            - Maybe a 'keepalive' for federation could be worth implementing?
 - Notes to future selves
     - TWG could take a look at the governance update proposal https://www.loomio.com/p/OI8kEjVz/social-coop-organizing-circle-proposal
     - Issues raised from CWG
@@ -56,6 +57,7 @@ Here: edsu, Akshay, Flancian, (a late Calix)
        - dump restored, including images
        - issues with openid auth -- troubleshooting live :)
        - https://www.mediawiki.org/wiki/Extension:OpenID_Connect shows that the recipe needs an update to support the new way of passing parameters to pluggableauth
+       - cleanup of wiki.join.coop now join.social.coop repo: https://git.coop/social.coop/tech/wiki.social.coop/-/merge_requests/8
  
 ## [[2023-05-22]]
 Here: Akshay, Eduardo, Ed ...
