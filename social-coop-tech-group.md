@@ -6,6 +6,7 @@ Here: ...
 - Check ins
 - Notes to future selves
     - Issues raised from CWG
+        - TWG could take a look at the governance update proposal https://www.loomio.com/p/OI8kEjVz/social-coop-organizing-circle-proposal
         - NextCloud calendar doesn't seem to really notify by email -- could we raise to Mayfirst?
             - Some reports of NextCloud jankiness in general, sometimes it just sping (tm) -- maybe we can work with Mayfirst to improve this?
         - Some email issues, but not many?
@@ -48,10 +49,14 @@ Here: edsu, Akshay, Flancian, (a late Calix)
                 - Moderation is an open question
             - Moderation for Matrix even is an unknown
                 - Good platform for bridges!
+                - [[matterbridge]], etc.
+                - [[maubot]] also has plenty on offer
+                - bridges.coop
 - Notes to future selves
     - TWG could take a look at the governance update proposal https://www.loomio.com/p/OI8kEjVz/social-coop-organizing-circle-proposal
     - Issues raised from CWG
         - Excitement about the wiki :)
+            - [[wiki builders]] room has a feed
         - The idea about a bot to auto-boost the #introduction hashtag
         - NextCloud calendar doesn't seem to really notify by email -- could we raise to Mayfirst?
             - Some reports of NextCloud jankiness in general, sometimes it just sping (tm) -- maybe we can work with Mayfirst to improve this?
