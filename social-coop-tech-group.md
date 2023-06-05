@@ -20,13 +20,21 @@ Here: ...
        
        
        
-## [[2023-06-0-MM-DD]]
+## [[2023-06-05]]
 
-Here: ...
+Here: edsu Akshay Flancian
 
 - Check ins
+    - edsu
+        - Summer time -- enjoying :)
+    - Akshay
+        - +1, Berlin is looking like a nice place
+        - Justifies being there
+        - Every winter brings up the question :)
 - Notes to future selves
     - Issues raised from CWG
+        - Excitement about the wiki :)
+        - The idea about a bot to auto-boost the #introduction hashtag
         - NextCloud calendar doesn't seem to really notify by email -- could we raise to Mayfirst?
             - Some reports of NextCloud jankiness in general, sometimes it just sping (tm) -- maybe we can work with Mayfirst to improve this?
         - Some email issues, but not many?
