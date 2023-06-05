@@ -79,8 +79,13 @@ Here: edsu, Akshay, Flancian, (a late Calix)
            - Fl: Yes! Intended to close it down, so we don't have spam issues. Now is a good time.
            - Ed: Did we want self-registration off?
            - Fl: Another member was surprised it was on. "What we want" is the right topic. How to integrate with registration form? How could you allow people to "sign in with X"?
+           - Ak: Better in the long-run to go the other way - logging in with Keycloak into mastodon.
+           - Fl: General direction of "what is next".
        - pending:
            - [[backups]] and [[restores]]
+           - email auth / hooking up keycloak to mailgun
+           - figuring out signup flow/user verification
+       - 
        - dump restored, including images
        - issues with openid auth -- troubleshooting live :)
        - https://www.mediawiki.org/wiki/Extension:OpenID_Connect shows that the recipe needs an update to support the new way of passing parameters to pluggableauth
