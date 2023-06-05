@@ -47,6 +47,7 @@ Here: edsu, Akshay, Flancian, (a late Calix)
                 - For now would probably recommend social.coop
                 - Moderation is an open question
             - Moderation for Matrix even is an unknown
+                - Good platform for bridges!
 - Notes to future selves
     - TWG could take a look at the governance update proposal https://www.loomio.com/p/OI8kEjVz/social-coop-organizing-circle-proposal
     - Issues raised from CWG
