@@ -43,7 +43,10 @@ Here: edsu, Akshay, Flancian, (a late Calix)
             - Maybe a 'keepalive' for federation could be worth implementing?
             - Congrats on the announcement!
             - Further services are wishlist-based, join matrix for proposals :)
-            - what abo
+            - What about social?
+                - For now would probably recommend social.coop
+                - Moderation is an open question
+            - Moderation for Matrix even is an unknown
 - Notes to future selves
     - TWG could take a look at the governance update proposal https://www.loomio.com/p/OI8kEjVz/social-coop-organizing-circle-proposal
     - Issues raised from CWG
