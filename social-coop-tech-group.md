@@ -89,6 +89,7 @@ Here: edsu, Akshay, Flancian, (a late Calix)
                - 'sign up using google and get verified' is something that others have set up though
            - figure out if we want to enable logging into keycloak using mastodon as a provider as a migration step
                - although we would want to have mastodon/the instance use keycloak in the medium term
+            
        - cleanup of wiki.join.coop now join.social.coop repo: https://git.coop/social.coop/tech/wiki.social.coop/-/merge_requests/8
            - \o/
  
