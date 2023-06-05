@@ -37,7 +37,10 @@ Here: edsu, Akshay, Flancian, (a late Calix)
                 - enjoyed it
                 - liked how he tried to write a different kind of book from the usual doom-and-gloom (paraphrasing)
                 - [[near future scenarios]] for how we could deal with challenges technologically and politically
+                - https://anagora.org/@neil for cool reading club material ;)
         - Except the pollen
+    - [[Calix]]
+        - Super happy to be back after time lost in The Matrix! Currently in the UK, surprisingly enjoyable time.
 - Notes to future selves
     - Issues raised from CWG
         - Excitement about the wiki :)
