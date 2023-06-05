@@ -85,12 +85,12 @@ Here: edsu, Akshay, Flancian, (a late Calix)
            - [[backups]] and [[restores]]
            - email auth / hooking up keycloak to mailgun
            - figuring out signup flow/user verification
-       - 
-       - dump restored, including images
-       - issues with openid auth -- troubleshooting live :)
-       - https://www.mediawiki.org/wiki/Extension:OpenID_Connect shows that the recipe needs an update to support the new way of passing parameters to pluggableauth
-       - TWG pages on wiki: https://git.coop/social.coop/tech/operations/-/issues/70
+               - [[calix]] tried figuring out approval flows and couldn't understand the steps involved
+               - 'sign up using google and get verified' is something that others have set up though
+           - figure out if we want to enable logging into keycloak using mastodon as a provider as a migration step
+               - although we would want to have mastodon/the instance use keycloak in the medium term
        - cleanup of wiki.join.coop now join.social.coop repo: https://git.coop/social.coop/tech/wiki.social.coop/-/merge_requests/8
+           - \o/
  
 ## [[2023-05-22]]
 Here: Akshay, Eduardo, Ed ...
