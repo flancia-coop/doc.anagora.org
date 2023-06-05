@@ -41,6 +41,9 @@ Here: edsu, Akshay, Flancian, (a late Calix)
     - [[Calix]]
         - Super happy to be back after time lost in The Matrix! Currently in the UK, surprisingly enjoyable time. Very Excited about Autonomic's recent launch of https://cooperative.computer/ – masto post https://sunbeam.city/@autonomic/110458431661481012
             - Maybe a 'keepalive' for federation could be worth implementing?
+            - Congrats on the announcement!
+            - Further services are wishlist-based, join matrix for proposals :)
+            - what abo
 - Notes to future selves
     - TWG could take a look at the governance update proposal https://www.loomio.com/p/OI8kEjVz/social-coop-organizing-circle-proposal
     - Issues raised from CWG
