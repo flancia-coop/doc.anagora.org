@@ -22,7 +22,7 @@ Here: ...
        
 ## [[2023-06-05]]
 
-Here: edsu Akshay Flancian
+Here: edsu, Akshay, Flancian, (a late Calix)
 
 - Check ins
     - [[edsu]]
@@ -36,7 +36,7 @@ Here: edsu Akshay Flancian
             - [[edsu]] [[ministry for the future]] takes place there significantly!
                 - enjoyed it
                 - liked how he tried to write a different kind of book from the usual doom-and-gloom (paraphrasing)
-                - [[near future scenarios]]
+                - [[near future scenarios]] for how we could deal with challenges technologically and politically
         - Except the pollen
 - Notes to future selves
     - Issues raised from CWG
