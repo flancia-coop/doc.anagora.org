@@ -18,8 +18,6 @@ Here: ...
        - issues with openid auth -- troubleshooting live :)
        - https://www.mediawiki.org/wiki/Extension:OpenID_Connect shows that the recipe needs an update to support the new way of passing parameters to pluggableauth
        
-       
-       
 ## [[2023-06-05]]
 
 Here: edsu, Akshay, Flancian, (a late Calix)
@@ -27,6 +25,7 @@ Here: edsu, Akshay, Flancian, (a late Calix)
 - Check ins
     - [[edsu]]
         - Summer time -- enjoying :)
+        - 
     - [[Akshay]]
         - +1, Berlin is looking like a nice place
         - Justifies being there
@@ -40,8 +39,9 @@ Here: edsu, Akshay, Flancian, (a late Calix)
                 - https://anagora.org/@neil for cool reading club material ;)
         - Except the pollen
     - [[Calix]]
-        - Super happy to be back after time lost in The Matrix! Currently in the UK, surprisingly enjoyable time.
+        - Super happy to be back after time lost in The Matrix! Currently in the UK, surprisingly enjoyable time. Very Excited about Autonomic's recent launch of https://cooperative.computer/ – masto post https://sunbeam.city/@autonomic/110458431661481012
 - Notes to future selves
+    - TWG could take a look at the governance update proposal https://www.loomio.com/p/OI8kEjVz/social-coop-organizing-circle-proposal
     - Issues raised from CWG
         - Excitement about the wiki :)
         - The idea about a bot to auto-boost the #introduction hashtag
