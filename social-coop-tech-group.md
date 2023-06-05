@@ -12,7 +12,6 @@ Here: ...
         - Some email issues, but not many?
             - 5.7.23 <jag@mail.mayfirst.org>: Recipient address rejected: Message rejected due to: SPF fail - not authorized.
         - There is some desire to have a bot that automatically boosts in-instance #introduction posts
-    - https://www.loomio.com/d/jrbG5tue/server-access/39 proposal to grant [[Calix]] server access passed \o/
     - wiki-alpha progress
        - keycloak up with social.coop realm
        - dump restored, including images
@@ -66,9 +65,15 @@ Here: edsu, Akshay, Flancian, (a late Calix)
         - There is some desire to have a bot that automatically boosts in-instance #introduction posts
             - Fl: we'd need to add a key to the social.coop account
             - edsu: And track which people had posted #introductions already
-            - Fl: Maubot runs 
-    - https://www.loomio.com/d/jrbG5tue/server-access/39 proposal to grant [[Calix]] server access passed \o/
-    - wiki-alpha progress
+            - Fl: Maubot runs a lot of our integrations already. Or we could roll our own with a Mastodon (pipe(?))
+            - edsu: maybe an issue ticket for it?
+                - https://git.coop/social.coop/tech/operations/-/issues/71
+    - wiki progress
+       - [[wiki alpha]]:
+           - could make sense to keep it as a staging environment?
+           - do we want to set some kind of 
+       - pending:
+           - [[backups]] and [[restores]]
        - keycloak up with social.coop realm
        - dump restored, including images
        - issues with openid auth -- troubleshooting live :)
