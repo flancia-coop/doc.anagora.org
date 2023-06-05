@@ -97,6 +97,7 @@ Here: edsu, Akshay, Flancian, (a late Calix)
            - \o/
            - meet.coop is maybe back from almost dead, so we need to keep the meet.coop signup flow for now
            - ca.meet.coop is likely the next meet.coop
+           - Ed will update merge requ
  
 ## [[2023-05-22]]
 Here: Akshay, Eduardo, Ed ...
