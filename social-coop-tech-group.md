@@ -77,6 +77,8 @@ Here: edsu, Akshay, Flancian, (a late Calix)
        - keycloak up with social.coop realm
            - Akshay: is it totally open?
            - Fl: Yes! Intended to close it down, so we don't have spam issues. Now is a good time.
+           - Ed: Did we want self-registration off?
+           - Fl: Another member was surprised it was on. "What we want" is the right topic. How to integrate with registration form? How could you allow people to "sign in with X"?
        - pending:
            - [[backups]] and [[restores]]
        - dump restored, including images
