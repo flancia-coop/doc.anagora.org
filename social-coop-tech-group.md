@@ -73,9 +73,12 @@ Here: edsu, Akshay, Flancian, (a late Calix)
            - could make sense to keep it as a staging environment?
            - do we want to set some kind of expectation for data permanence?
                - no expectations :)
+               - Fl: adding a Giant Red (if possible) note about this 🔥
+       - keycloak up with social.coop realm
+           - Akshay: is it totally open?
+           - Fl: Yes! Intended to close it down, so we don't have spam issues. Now is a good time.
        - pending:
            - [[backups]] and [[restores]]
-       - keycloak up with social.coop realm
        - dump restored, including images
        - issues with openid auth -- troubleshooting live :)
        - https://www.mediawiki.org/wiki/Extension:OpenID_Connect shows that the recipe needs an update to support the new way of passing parameters to pluggableauth
