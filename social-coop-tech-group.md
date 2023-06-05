@@ -25,12 +25,16 @@ Here: ...
 Here: edsu Akshay Flancian
 
 - Check ins
-    - edsu
+    - [[edsu]]
         - Summer time -- enjoying :)
-    - Akshay
+    - [[Akshay]]
         - +1, Berlin is looking like a nice place
         - Justifies being there
         - Every winter brings up the question :)
+    - [[Flancian]]
+        - Also enjoying Zürich
+            - [[edsu]] [[ministry for the future]] takes place there significantly!
+        - Except the pollen
 - Notes to future selves
     - Issues raised from CWG
         - Excitement about the wiki :)
