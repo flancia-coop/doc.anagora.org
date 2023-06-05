@@ -56,7 +56,8 @@ Here: edsu, Akshay, Flancian, (a late Calix)
     - TWG could take a look at the governance update proposal https://www.loomio.com/p/OI8kEjVz/social-coop-organizing-circle-proposal
     - Issues raised from CWG
         - Excitement about the wiki :)
-            - [[wiki builders]] room has a feed
+            - [[wiki builders]] room has a feed https://matrix.to/#/#socialcoop-wiki-builders:matrix.org
+            - in the social.coop space: https://matrix.to/#/#social.coop:matrix.org
         - The idea about a bot to auto-boost the #introduction hashtag
         - NextCloud calendar doesn't seem to really notify by email -- could we raise to Mayfirst?
             - Some reports of NextCloud jankiness in general, sometimes it just sping (tm) -- maybe we can work with Mayfirst to improve this?
