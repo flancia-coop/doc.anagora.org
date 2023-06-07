@@ -38,6 +38,7 @@
     - On strapping a macbook to your face :)
     - Price might be high because they want to go after rich people, executives, bosses, trend setters
     - Michael Grossman: the choice architecture and price is such that it distinguishes them from meta/occulus
+    - Peter Kaminski: the face hugger 
 
 ## [[2023-05-31]]
 - a [[meeting]].
