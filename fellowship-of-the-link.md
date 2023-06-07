@@ -33,7 +33,8 @@
 - Attending: [[Jerry Michalski]], [[Bentley Davis]], [[smurp]], [[Flancian]], [[Peter Kaminski]]
 - Apple Vision Pro
     - https://www.apple.com/newsroom/2023/06/introducing-apple-vision-pro/
-- 
+    - Flancian: reminds me of https://en.wikipedia.org/wiki/Diaspora_(novel)
+    - 
 
 ## [[2023-05-31]]
 - a [[meeting]].
