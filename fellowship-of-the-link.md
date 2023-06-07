@@ -40,6 +40,7 @@
     - Michael Grossman: the choice architecture and price is such that it distinguishes them from meta/occulus
     - Peter Kaminski: the face hugger 
     - Aram: I think it is about the pieces more than the whole, once your boss gets a vertual self everyone will want one and once you get a hang of gesture control, everyone will want that, much healthier than being stuck with a mouse and keyboard. 
+    - Flancian: Cognitive Artifacts in AR
 
 ## [[2023-05-31]]
 - a [[meeting]].
