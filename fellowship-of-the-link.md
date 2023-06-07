@@ -36,6 +36,8 @@
     - Flancian: reminds me of https://en.wikipedia.org/wiki/Diaspora_(novel)
     - Aram: Changes in the acceptable behavior in Zoom meetings. 
     - On strapping a macbook to your face :)
+    - Price might be high because they want to go after rich people, executives, trend setters
+    - Michael Grossman: the choice architecture and price is such that it distinguishes them from meta/occulus
 
 ## [[2023-05-31]]
 - a [[meeting]].
