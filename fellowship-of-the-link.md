@@ -30,11 +30,11 @@
     - #go https://meet.jit.si/fellowship-of-the-link
     - #calendar https://plex.collectivesensecommons.org/calendar/
     - #when Wednesdays at [[6PM UTC]]
-- Attending: [[Jerry Michalski]], [[Bentley Davis]], [[smurp]], [[Flancian]], [[Peter Kaminski]]
+- Attending: [[Jerry Michalski]], [[Bentley Davis]], [[smurp]], [[Flancian]], [[Peter Kaminski]], [[Michael Grossman]]
 - Apple Vision Pro
     - https://www.apple.com/newsroom/2023/06/introducing-apple-vision-pro/
     - Flancian: reminds me of https://en.wikipedia.org/wiki/Diaspora_(novel)
-    - 
+    - Aram: Changes in the acceptable behavior in Zoom meetings. 
 
 ## [[2023-05-31]]
 - a [[meeting]].
