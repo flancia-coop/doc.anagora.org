@@ -44,6 +44,7 @@
     - smurp: 
         - http://wiki.squeak.org/squeak/2901
         - Gather Town
+    - Aram: Think like a Steam Deck in terms of life impact. 
 
 ## [[2023-05-31]]
 - a [[meeting]].
