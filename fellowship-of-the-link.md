@@ -30,7 +30,7 @@
     - #go https://meet.jit.si/fellowship-of-the-link
     - #calendar https://plex.collectivesensecommons.org/calendar/
     - #when Wednesdays at [[6PM UTC]]
-- Attending: [[Jerry Michalski]], [[Bentley Davis]], [[smurp]], [[Flancian]], [[Peter Kaminski]], [[Michael Grossman]]
+- Attending: [[Jerry Michalski]], [[Bentley Davis]], [[Shaun smurp]], [[Flancian]], [[Peter Kaminski]], [[Michael Grossman]]
 - Apple Vision Pro
     - https://www.apple.com/newsroom/2023/06/introducing-apple-vision-pro/
     - Flancian: reminds me of https://en.wikipedia.org/wiki/Diaspora_(novel)
@@ -41,6 +41,9 @@
     - Peter Kaminski: the face hugger 
     - Aram: I think it is about the pieces more than the whole, once your boss gets a vertual self everyone will want one and once you get a hang of gesture control, everyone will want that, much healthier than being stuck with a mouse and keyboard. 
     - Flancian: Cognitive Artifacts in AR
+    - smurp: 
+        - http://wiki.squeak.org/squeak/2901
+        - Gather Town
 
 ## [[2023-05-31]]
 - a [[meeting]].
