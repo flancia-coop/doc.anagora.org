@@ -48,6 +48,7 @@
     - Jerry: ![Continuous Infoormation Environments =](https://doc.anagora.org/uploads/upload_67fb62f88baec7d1a6bda424317e0544.png) 
         - > CIE Scope Diagram
         - > Wireless communication, handwriting and speech recognition, unified messaging and more. All of these would eventually crystallize in the iPhone Steve Jobs wowed the world with in 2007. We didn't invent the iPhone, but we pointed toward it in 1991.
+    - Reminds me of 3D desktop - https://www.researchgate.net/profile/Gyoergy-Molnar-2/publication/285056765/figure/fig3/AS:301247929307139@1448834511611/3D-Desktop-source-own-figure.png
 
 
 
