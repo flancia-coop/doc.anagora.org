@@ -39,7 +39,7 @@
     - Price might be high because they want to go after rich people, executives, bosses, trend setters
     - Michael Grossman: the choice architecture and price is such that it distinguishes them from meta/occulus
     - Peter Kaminski: the face hugger 
-    - Aram: I think it is about the pieces more than the whole, once your boss gets a vertual self everyone will want one and once you get a hang of gesture control, everyone will want that, 
+    - Aram: I think it is about the pieces more than the whole, once your boss gets a vertual self everyone will want one and once you get a hang of gesture control, everyone will want that, much healthier than being stuck with a mouse and keyboard. 
 
 ## [[2023-05-31]]
 - a [[meeting]].
