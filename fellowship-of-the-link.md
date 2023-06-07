@@ -24,6 +24,17 @@
         - [[issue tracker]] / [[project tracker]] URL
             - [[github]] by default?
 
+## [[2023-06-07]]
+
+- a [[meeting]].
+    - #go https://meet.jit.si/fellowship-of-the-link
+    - #calendar https://plex.collectivesensecommons.org/calendar/
+    - #when Wednesdays at [[6PM UTC]]
+- Attending: [[Jerry Michalski]], [[Bentley Davis]], [[smurp]], [[Flancian]], [[Peter Kaminski]]
+- Apple Vision Pro
+    - https://www.apple.com/newsroom/2023/06/introducing-apple-vision-pro/
+- 
+
 ## [[2023-05-31]]
 - a [[meeting]].
     - #go https://meet.jit.si/fellowship-of-the-link
