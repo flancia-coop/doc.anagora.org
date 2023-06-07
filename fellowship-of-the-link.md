@@ -45,6 +45,11 @@
         - http://wiki.squeak.org/squeak/2901
         - Gather Town
     - Aram: Think like a Steam Deck in terms of life impact. 
+    - Jerry: ![Continuous Infoormation Environments =](https://doc.anagora.org/uploads/upload_67fb62f88baec7d1a6bda424317e0544.png) 
+        - > CIE Scope Diagram
+        - > Wireless communication, handwriting and speech recognition, unified messaging and more. All of these would eventually crystallize in the iPhone Steve Jobs wowed the world with in 2007. We didn't invent the iPhone, but we pointed toward it in 1991.
+
+
 
 ## [[2023-05-31]]
 - a [[meeting]].
