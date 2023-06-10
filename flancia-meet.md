@@ -14,6 +14,7 @@
     - [[betulagora]]
         - [[mux]] is like [[flask]] for [[golang]]
     - [[mycomarkup support]]
+- How to add a user-scoped systemd service
 
 # [[flancia meet 2023-05-06]]
 - Attending: [[bouncepaw]] [[flancian]]
