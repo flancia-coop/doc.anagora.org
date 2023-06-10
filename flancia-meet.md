@@ -15,6 +15,22 @@
         - [[mux]] is like [[flask]] for [[golang]]
     - [[mycomarkup support]]
 - How to add a user-scoped systemd service
+    - mkdir -p ~/.config/systemd/user
+    - vi ~/.config/systemd/user/betula.service
+
+```
+[Unit]
+Description=Betula, see https://...
+
+[Service]
+WorkingDirectory=/home/agora/agora-server
+ExecStart=/home/agora/agora-server/run-prod.sh
+Restart=always
+RestartSec=3
+
+[Install]
+WantedBy=default.target
+```
 
 # [[flancia meet 2023-05-06]]
 - Attending: [[bouncepaw]] [[flancian]]
