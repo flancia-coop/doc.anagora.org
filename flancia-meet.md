@@ -9,7 +9,11 @@
     - Then he walked with a cup
     - Then he had sound issues
     - :D
-- Then 
+- Then Flancian showed up after a ping (thanks!) :)
+- We want to work on:
+    - [[betulagora]]
+        - [[mux]] is like [[flask]] for [[golang]]
+    - [[mycomarkup support]]
 
 # [[flancia meet 2023-05-06]]
 - Attending: [[bouncepaw]] [[flancian]]
