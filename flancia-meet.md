@@ -2,6 +2,10 @@
 - We meet best-effort every Saturday. UTC?
 - This is where we have community maintained notes :)
 
+# [[flancia meet 2023-06-10]]
+- Attending: [[bouncepaw]] [[flancian]]
+- 
+
 # [[flancia meet 2023-05-06]]
 - Attending: [[bouncepaw]] [[flancian]]
 - #push [[spider solitaire]]
