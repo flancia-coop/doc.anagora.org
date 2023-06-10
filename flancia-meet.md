@@ -32,6 +32,11 @@ RestartSec=3
 WantedBy=default.target
 ```
 
+- loginctl enable-linger $USER  # needed only once per user, not per service
+- systemctl --user enable betula
+- systemctl --user start betula
+- systemctl --user status betula
+
 # [[flancia meet 2023-05-06]]
 - Attending: [[bouncepaw]] [[flancian]]
 - #push [[spider solitaire]]
