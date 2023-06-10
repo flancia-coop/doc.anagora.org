@@ -8,6 +8,8 @@
     - 8 minutes on the balcony
     - Then he walked with a cup
     - Then he had sound issues
+    - :D
+- Then 
 
 # [[flancia meet 2023-05-06]]
 - Attending: [[bouncepaw]] [[flancian]]
