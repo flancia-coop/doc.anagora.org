@@ -17,7 +17,7 @@
     - [[betulagora]]
         - need to set up recurring updates
     - [[mycomarkup]]
-        - 
+- [[grim fandango]]
 
 # [[flancia meet 2023-06-10]]
 - Attending: [[bouncepaw]] [[flancian]]
