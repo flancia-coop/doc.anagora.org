@@ -10,6 +10,11 @@
     - [[pipepunk]]
     - https://www.imdb.com/title/tt6574146/
     - https://blame-manga.com/manga/blame-chapter-1/
+- upcoming work/fun
+    - [[betulagora]]
+        - need to set up recurring updates
+    - [[mycomarkup]]
+        - 
 
 # [[flancia meet 2023-06-10]]
 - Attending: [[bouncepaw]] [[flancian]]
