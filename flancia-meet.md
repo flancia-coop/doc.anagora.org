@@ -17,8 +17,10 @@
     - [[betulagora]]
         - need to set up recurring updates
         - Flancian betulized
+        - [[bookmarklet]] acquired
     - [[mycomarkup]]
         - working in Agora!
+        - degrades to markdown rendering if the mycomarkup binary is not found
 - [[grim fandango]]
 
 # [[flancia meet 2023-06-10]]
