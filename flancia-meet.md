@@ -10,6 +10,9 @@
     - [[pipepunk]]
     - https://www.imdb.com/title/tt6574146/
     - https://blame-manga.com/manga/blame-chapter-1/
+- [[letsencrypt]]
+    - [[coop cloud]] handles it for you via [[traefik]]
+    - [[caddy]] also!
 - upcoming work/fun
     - [[betulagora]]
         - need to set up recurring updates
