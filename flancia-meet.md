@@ -2,6 +2,13 @@
 - We meet best-effort every Saturday. UTC?
 - This is where we have community maintained notes :)
 
+
+# [[flancia meet 2023-06-17]]
+- Attending: [[bouncepaw]] [[flancian]]
+- [[blame!]] film and manga
+    - [[pipepunk]]
+    - https://www.imdb.com/title/tt6574146/
+
 # [[flancia meet 2023-06-10]]
 - Attending: [[bouncepaw]] [[flancian]]
 - Flancian turned on the camera and left
