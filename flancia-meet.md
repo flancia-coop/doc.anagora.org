@@ -26,6 +26,8 @@
     - had fun saving tabs to [[betula]]!
         - the [[betula experience]] :)
     - [[mohammed]]
+    - [[taixu]]
+    - [[I am a strange loop]]
 
 # [[flancia meet 2023-06-10]]
 - Attending: [[bouncepaw]] [[flancian]]
