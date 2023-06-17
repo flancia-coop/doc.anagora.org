@@ -5,9 +5,11 @@
 
 # [[flancia meet 2023-06-17]]
 - Attending: [[bouncepaw]] [[flancian]]
-- [[blame!]] film and manga
+- #push [[blame]] film and manga
+    - pronounced more like [[blam]]
     - [[pipepunk]]
     - https://www.imdb.com/title/tt6574146/
+    - https://blame-manga.com/manga/blame-chapter-1/
 
 # [[flancia meet 2023-06-10]]
 - Attending: [[bouncepaw]] [[flancian]]
