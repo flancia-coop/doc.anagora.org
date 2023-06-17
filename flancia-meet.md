@@ -23,6 +23,8 @@
         - degrades to markdown rendering if the mycomarkup binary is not found
 - [[grim fandango]]
 - [[flancia]]
+    - had fun saving tabs to [[betula]]!
+        - the [[betula experience]] :)
     - [[mohammed]]
 
 # [[flancia meet 2023-06-10]]
