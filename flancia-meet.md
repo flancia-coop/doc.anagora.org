@@ -22,6 +22,8 @@
         - working in Agora!
         - degrades to markdown rendering if the mycomarkup binary is not found
 - [[grim fandango]]
+- [[flancia]]
+    - [[mohammed]]
 
 # [[flancia meet 2023-06-10]]
 - Attending: [[bouncepaw]] [[flancian]]
