@@ -16,7 +16,9 @@
 - upcoming work/fun
     - [[betulagora]]
         - need to set up recurring updates
+        - Flancian betulized
     - [[mycomarkup]]
+        - working in Agora!
 - [[grim fandango]]
 
 # [[flancia meet 2023-06-10]]
