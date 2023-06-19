@@ -12,11 +12,29 @@ Here: ...
         - Some email issues, but not many?
             - 5.7.23 <jag@mail.mayfirst.org>: Recipient address rejected: Message rejected due to: SPF fail - not authorized.
         - There is some desire to have a bot that automatically boosts in-instance #introduction posts
-    - wiki-alpha progress
-       - keycloak up with social.coop realm
-       - dump restored, including images
-       - issues with openid auth -- troubleshooting live :)
-       - https://www.mediawiki.org/wiki/Extension:OpenID_Connect shows that the recipe needs an update to support the new way of passing parameters to pluggableauth
+    - wiki next steps
+       - set up and test backup/restores
+       
+       
+       
+## [[2023-06-19]]
+
+Here: Akshay, Flancian, ...
+
+- Check ins
+- Notes to future selves
+    - Issues raised from CWG
+        - Meet.Coop discussion
+        - TWG could take a look at the governance update proposal https://www.loomio.com/p/OI8kEjVz/social-coop-organizing-circle-proposal
+        - NextCloud calendar doesn't seem to really notify by email -- could we raise to Mayfirst?
+            - Some reports of NextCloud jankiness in general, sometimes it just sping (tm) -- maybe we can work with Mayfirst to improve this?
+        - There is some desire to have a bot that automatically boosts in-instance #introduction posts
+    - wiki next steps
+       - set up and test backup/restores
+       - PR for simplifying join.social.coop
+    - what's big and next? :)
+        - bonfire.social.coop -- mike hale
+    
        
 ## [[2023-06-05]]
 
