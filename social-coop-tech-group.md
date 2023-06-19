@@ -73,7 +73,13 @@ Here: Akshay, Flancian, 3wc/calix
                 - or what's more featureful
                 - or what's best for the ecosystem
         - [[akshay]] maybe this section is all motivation-based mainly
-        - next actions for several of these seem 
+        - Main takeaway: next actions for several of these seem to be to discuss on loomio to gauge what the community thinks/wants/needs
+        - [[Calix]] another member of the coop cloud federation was asking if social.coop would be interested in being a member of the federation.
+            - social.coop seems like a more experimental user of coop cloud, maybe it's too quick?
+            - what would being a member of the federation entail?
+                - paying either 10 or 20/e a month
+                - participating in decision making w.r.t. the direction of the project
+                - that's it so far :)
     
        
 ## [[2023-06-05]]
