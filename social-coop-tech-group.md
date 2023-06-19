@@ -34,6 +34,7 @@ Here: Akshay, Flancian, 3wc/calix
         - NextCloud calendar doesn't seem to really notify by email -- could we raise to Mayfirst?
             - Some reports of NextCloud jankiness in general, sometimes it just sping (tm) -- maybe we can work with Mayfirst to improve this?
             - meet.mayfirst.org seems lower quality than other jitsi instances maybe?
+                - ping from CH to galeano.mayfirst.org 
         - There is some desire to have a bot that automatically boosts in-instance #introduction posts
     - wiki next steps
        - set up and test backup/restores
