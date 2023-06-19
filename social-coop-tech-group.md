@@ -54,18 +54,20 @@ Here: Akshay, Flancian, 3wc/calix
             - we can reuse the s3 upload logic from rhizome and add it to hypha
                 - **next action: file a bug for this?**
     - what's big and next? :)
-        - bonfire.social.coop -- mike hales seemed interested and wanting to give a try, other people mentioned in the past as well on matrix
-            - already up on [[hypha]]
-            - next step here is to set up the mailer flow so registrations work
-            - OR to hook it up with keycloak?
         - reddit exodus
             - how to help the fediverse
             - would social.coop like to run [[lemmy]] or [[kbin]]?
                 - e.g. [[merveilles]] runs both [[hometown]] and [[lemmy]]
                 - next action: start a loomio thread to gauge interest in running a message board
                 - note [[lemmy]] is on [[coop cloud]]
+        - bonfire.social.coop -- mike hales seemed interested and wanting to give a try, other people mentioned in the past as well on matrix
+            - already up on [[hypha]]
+            - next step here is to set up the mailer flow so registrations work
+            - OR to hook it up with keycloak?
         - moving social.coop to keycloak all in all
         - moving to [[hometown]]
+            - would require us to sit back on updates and wait for hometown to catch up (probably only about a month)
+        - [[akshay]] maybe this is all motivation-based mainly
     
        
 ## [[2023-06-05]]
