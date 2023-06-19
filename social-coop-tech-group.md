@@ -80,6 +80,8 @@ Here: Akshay, Flancian, 3wc/calix
                 - paying either 10 or 20/e a month
                 - participating in decision making w.r.t. the direction of the project
                 - that's it so far :)
+            - formal step would be to discuss on loomio
+                - technically it makes most sense if social.coop is using coop cloud day-to-day
     
        
 ## [[2023-06-05]]
