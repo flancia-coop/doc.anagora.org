@@ -28,6 +28,8 @@ Here: Akshay, Flancian, 3wc/calix
 - Notes to future selves
     - Issues raised from CWG
         - Meet.Coop discussion
+            - "evolution" thread about handing off to [[webtv]] coop in Canada
+            - offered to review migration plan
         - TWG could take a look at the governance update proposal https://www.loomio.com/p/OI8kEjVz/social-coop-organizing-circle-proposal
         - NextCloud calendar doesn't seem to really notify by email -- could we raise to Mayfirst?
             - Some reports of NextCloud jankiness in general, sometimes it just sping (tm) -- maybe we can work with Mayfirst to improve this?
