@@ -62,6 +62,8 @@ Here: Akshay, Flancian, 3wc/calix
             - how to help the fediverse
             - would social.coop like to run [[lemmy]] or [[kbin]]?
                 - e.g. [[merveilles]] runs both [[hometown]] and [[lemmy]]
+                - next action: start a loomio thread to gauge interest in running a message board
+                - note [[lemmy]] is on [[coop cloud]]
         - moving social.coop to keycloak all in all
         - moving to [[hometown]]
     
