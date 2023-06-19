@@ -67,7 +67,13 @@ Here: Akshay, Flancian, 3wc/calix
         - moving social.coop to keycloak all in all
         - moving to [[hometown]]
             - would require us to sit back on updates and wait for hometown to catch up (probably only about a month)
-        - [[akshay]] maybe this is all motivation-based mainly
+            - [[akshay]] there's also the [[glitch]] fork
+            - how to choose:
+                - motivation based
+                - or what's more featureful
+                - or what's best for the ecosystem
+        - [[akshay]] maybe this section is all motivation-based mainly
+        - next actions for several of these seem 
     
        
 ## [[2023-06-05]]
