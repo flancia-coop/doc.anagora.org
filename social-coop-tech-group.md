@@ -29,10 +29,11 @@ Here: Akshay, Flancian, 3wc/calix
     - Issues raised from CWG
         - Meet.Coop discussion
             - "evolution" thread about handing off to [[webtv]] coop in Canada
-            - offered to review migration plan
+            - offered to review migration plan and maybe do sysadmin work if we know what to do
         - TWG could take a look at the governance update proposal https://www.loomio.com/p/OI8kEjVz/social-coop-organizing-circle-proposal
         - NextCloud calendar doesn't seem to really notify by email -- could we raise to Mayfirst?
             - Some reports of NextCloud jankiness in general, sometimes it just sping (tm) -- maybe we can work with Mayfirst to improve this?
+            - meet.mayfirst.org seems lower quality than other jitsi instances maybe?
         - There is some desire to have a bot that automatically boosts in-instance #introduction posts
     - wiki next steps
        - set up and test backup/restores
