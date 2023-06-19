@@ -41,6 +41,8 @@ Here: Akshay, Flancian, ...
             - OR to hook it up with keycloak?
         - reddit exodus
             - how to help the fediverse
+            - would social.coop like to run [[lemmy]] or [[kbin]]?
+            - [[merveilles]] runs both [[hometow]]
         - moving social.coop to keycloak all in all
     
        
