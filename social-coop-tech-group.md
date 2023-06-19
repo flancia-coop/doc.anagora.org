@@ -19,9 +19,12 @@ Here: ...
        
 ## [[2023-06-19]]
 
-Here: Akshay, Flancian, ...
+Here: Akshay, Flancian, 3wc/calix
 
 - Check ins
+    - [[akshay]] back in Berlin, trying to find time to do more social.coop things
+    - [[flancian]] before holidays, enjoying the handoffs
+    - [[calix]] meeting with [[big brother watch]]
 - Notes to future selves
     - Issues raised from CWG
         - Meet.Coop discussion
@@ -42,8 +45,9 @@ Here: Akshay, Flancian, ...
         - reddit exodus
             - how to help the fediverse
             - would social.coop like to run [[lemmy]] or [[kbin]]?
-            - [[merveilles]] runs both [[hometow]]
+                - e.g. [[merveilles]] runs both [[hometown]] and [[lemmy]]
         - moving social.coop to keycloak all in all
+        - moving to [[hometown]]
     
        
 ## [[2023-06-05]]
