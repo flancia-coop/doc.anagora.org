@@ -32,8 +32,16 @@ Here: Akshay, Flancian, ...
     - wiki next steps
        - set up and test backup/restores
        - PR for simplifying join.social.coop
+    - keycloak
+        - backups and restores
     - what's big and next? :)
-        - bonfire.social.coop -- mike hale
+        - bonfire.social.coop -- mike hales seemed interested and wanting to give a try, other people mentioned in the past as well on matrix
+            - already up on [[hypha]]
+            - next step here is to set up the mailer flow so registrations work
+            - OR to hook it up with keycloak?
+        - reddit exodus
+            - how to help the fediverse
+        - moving social.coop to keycloak all in all
     
        
 ## [[2023-06-05]]
