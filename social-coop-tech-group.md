@@ -82,6 +82,8 @@ Here: Akshay, Flancian, 3wc/calix
                 - that's it so far :)
             - formal step would be to discuss on loomio
                 - technically it makes most sense if social.coop is using coop cloud day-to-day
+                - it's not too much money so we should be able to join earlier rather than later
+                - let's bring it up in loomio
     
        
 ## [[2023-06-05]]
