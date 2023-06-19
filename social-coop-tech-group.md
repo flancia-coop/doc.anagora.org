@@ -51,6 +51,8 @@ Here: Akshay, Flancian, 3wc/calix
         - backups and restores
             - as per the above
             - we would need to also add logic to upload backups to s3
+            - we can reuse the s3 upload logic from rhizome and add it to hypha
+                - **next action: file a bug for this?**
     - what's big and next? :)
         - bonfire.social.coop -- mike hales seemed interested and wanting to give a try, other people mentioned in the past as well on matrix
             - already up on [[hypha]]
