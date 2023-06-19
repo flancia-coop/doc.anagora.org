@@ -44,9 +44,13 @@ Here: Akshay, Flancian, 3wc/calix
        - set up and test backup/restores
            - [[calix]] if mediawiki has a docker label for the backup and restore paths it should be straightforward
                - if not, we could add them
+               - [[wordpress]] recipe is the right template
        - PR for simplifying join.social.coop
+           - https://git.coop/social.coop/tech/wiki.social.coop/-/merge_requests/8 says draft, check next time
     - keycloak
         - backups and restores
+            - as per the above
+            - we would need to also add logic to upload backups to s3
     - what's big and next? :)
         - bonfire.social.coop -- mike hales seemed interested and wanting to give a try, other people mentioned in the past as well on matrix
             - already up on [[hypha]]
