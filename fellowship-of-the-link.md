@@ -32,11 +32,10 @@
     - #when Wednesdays at [[6PM UTC]]
 - Attending: [[Jerry Michalski]], [[Aram Zucker-Scharff]]
 - Start recording, we're currently using Jitsi and that works best with a [[Chromium]] based browser.
-- Threads from last time we would like to pick up:
-    - [[ActivityPub]] expands with Reddit departures 
-        - [[Lemmy]]
-        - [[Kbin]]
-        - [Why it is so hard to get off Twitter](https://startedwithatweet.substack.com/p/on-twitter-we-look-down)
+- [[ActivityPub]] expands with Reddit departures 
+    - [[Lemmy]]
+    - [[Kbin]]
+    - [Why it is so hard to get off Twitter](https://startedwithatweet.substack.com/p/on-twitter-we-look-down)
 
 ## [[2023-06-07]]
 
