@@ -30,25 +30,12 @@
     - #go https://meet.jit.si/fellowship-of-the-link
     - #calendar https://plex.collectivesensecommons.org/calendar/
     - #when Wednesdays at [[6PM UTC]]
-- Attending: [[x]], [[y]]
+- Attending: [[Jerry Michalski]], [[Aram Zucker-Scharff]]
 - Start recording, we're currently using Jitsi and that works best with a [[Chromium]] based browser.
 - Threads from last time we would like to pick up:
-    - [[high leverage opportunities]] we can spot
-    - [[generative commons]]
-        - [[generative linking]] (inferring links)
-        - [[general commons agreement]] https://bra.in/8qeNWy
-    - [[wishlist]] approach to worldbuilding
-    - [[Jerry Michalski]] let's discuss: note sharing.
-        - [[Aram Zucker-Scharff]] let's discuss conventions? Added something in [[massive wiki]].
-            - volunteered https://tftmap.massive.wiki/map/aram_zucker-scharff
-    - [[Aram Zucker-Scharff]] would like to generalize the archiving tool / link card generator he's been working on.
-    - [[Flancian]] would like to discuss [[Interwiki]] links and the [[common hub]] approach for search and entity resolution
-- #push [[fotl threads]]
-    - define:
-        - [[wiki]] / root URL
-        - /now
-        - [[issue tracker]] / [[project tracker]] URL
-            - [[github]] by default?
+    - [[ActivityPub]] expands with Reddit departures 
+        - [[Lemmy]]
+        - [[Kbin]]
 
 ## [[2023-06-07]]
 
