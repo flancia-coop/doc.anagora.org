@@ -43,7 +43,7 @@
     - [[NodeBB]]
     - [[Hylo]]
 - [WordHack](https://toddwords.com/wordhack/) - I went the first time. 
-- The Apple II Age: How the Computer Became Personal by Laine Nooney
+- [[The Apple II Age: How the Computer Became Personal]] by [[Laine Nooney]]
 
 ## [[2023-06-07]]
 
