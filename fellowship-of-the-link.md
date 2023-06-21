@@ -36,6 +36,7 @@
     - [[ActivityPub]] expands with Reddit departures 
         - [[Lemmy]]
         - [[Kbin]]
+        - [Why it is so hard to get off Twitter](https://startedwithatweet.substack.com/p/on-twitter-we-look-down)
 
 ## [[2023-06-07]]
 
