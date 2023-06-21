@@ -38,9 +38,10 @@
     - [Why it is so hard to get off Twitter](https://startedwithatweet.substack.com/p/on-twitter-we-look-down)
 - Community for cyborgs
 - Community software?
-    - Mighty Networks 
-    - NodeBB
-    - Hylo
+    - [[Mighty Networks]] 
+        - [[Purpose: Design a Community & Change Your Life---A Step-by-Step Guide to Finding Your Purpose and Making It Matter]] by [[Gina Bianchini]]
+    - [[NodeBB]]
+    - [[Hylo]]
 
 ## [[2023-06-07]]
 
