@@ -36,6 +36,11 @@
     - [[Lemmy]]
     - [[Kbin]]
     - [Why it is so hard to get off Twitter](https://startedwithatweet.substack.com/p/on-twitter-we-look-down)
+- Community for cyborgs
+- Community software?
+    - Mighty Networks 
+    - NodeBB
+    - Hylo
 
 ## [[2023-06-07]]
 
