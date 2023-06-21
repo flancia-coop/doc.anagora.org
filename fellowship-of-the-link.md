@@ -42,6 +42,7 @@
         - [[Purpose: Design a Community & Change Your Life---A Step-by-Step Guide to Finding Your Purpose and Making It Matter]] by [[Gina Bianchini]]
     - [[NodeBB]]
     - [[Hylo]]
+- [WordHack](https://toddwords.com/wordhack/) - I went the first time. 
 
 ## [[2023-06-07]]
 
