@@ -33,7 +33,7 @@
 - Attending: [[Jerry Michalski]], [[Aram Zucker-Scharff]], [[Bentley Davis]], [[Peter Kaminski]] 
 - OBS playtime! 
 - What is the issue with trying to find the correct software, still no winners 
-- What is the 
+- What is the attraction of Gathertown?
 
 ## [[2023-06-21]]
 
