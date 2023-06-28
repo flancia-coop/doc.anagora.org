@@ -24,6 +24,28 @@
         - [[issue tracker]] / [[project tracker]] URL
             - [[github]] by default?
 
+## [[2023-06-28]]
+
+- a [[meeting]].
+    - #go https://meet.jit.si/fellowship-of-the-link
+    - #calendar https://plex.collectivesensecommons.org/calendar/
+    - #when Wednesdays at [[6PM UTC]]
+- Attending: [[Jerry Michalski]], [[Aram Zucker-Scharff]]
+- Start recording, we're currently using Jitsi and that works best with a [[Chromium]] based browser.
+- [[ActivityPub]] expands with Reddit departures 
+    - [[Lemmy]]
+    - [[Kbin]]
+    - [Why it is so hard to get off Twitter](https://startedwithatweet.substack.com/p/on-twitter-we-look-down)
+- Community for cyborgs
+- Community software?
+    - [[Mighty Networks]] 
+        - [[Purpose: Design a Community & Change Your Life---A Step-by-Step Guide to Finding Your Purpose and Making It Matter]] by [[Gina Bianchini]]
+    - [[NodeBB]]
+    - [[Hylo]]
+- [WordHack](https://toddwords.com/wordhack/) - I went the first time. 
+- [[The Apple II Age: How the Computer Became Personal]] by [[Laine Nooney]]
+
+
 ## [[2023-06-21]]
 
 - a [[meeting]].
