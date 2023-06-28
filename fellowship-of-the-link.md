@@ -36,7 +36,8 @@
 - What is the attraction of Gathertown?
 - https://flowimmersive.com/tricast
 - Jerry: What can help make Open Source better, I'm going to a conference on this.
-    - Aram: we need BOTH interoperability AND data portability but that is hard because those are different things and there is nothing forcing 
+    - Aram: we need BOTH interoperability AND data portability but that is hard because those are different things and there is nothing forcing people to adhere to a format. 
+    - 
 
 ## [[2023-06-21]]
 
