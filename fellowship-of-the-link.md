@@ -34,6 +34,9 @@
 - OBS playtime! 
 - What is the issue with trying to find the correct software, still no winners 
 - What is the attraction of Gathertown?
+- https://flowimmersive.com/tricast
+- Jerry: What can help make Open Source better, I'm going to a conference on this.
+    - Aram: we need BOTH interoperability AND data portability but that is hard because those are different things and there is nothing forcing 
 
 ## [[2023-06-21]]
 
