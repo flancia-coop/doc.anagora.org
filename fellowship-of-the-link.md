@@ -30,7 +30,10 @@
     - #go https://meet.jit.si/fellowship-of-the-link
     - #calendar https://plex.collectivesensecommons.org/calendar/
     - #when Wednesdays at [[6PM UTC]]
-- Attending: [[Jerry Michalski]], [[Aram Zucker-Scharff]], [[Bentley Davis]]., [[Peter Kaminski]] 
+- Attending: [[Jerry Michalski]], [[Aram Zucker-Scharff]], [[Bentley Davis]], [[Peter Kaminski]] 
+- OBS playtime! 
+- What is the issue with trying to find the correct software, still no winners 
+- What is the 
 
 ## [[2023-06-21]]
 
