@@ -27,6 +27,8 @@ Here: [[Akshay]] [[Ed Summers]] [[Flancian]]
     - [[Akshay]] very nice summer in Berlin
     - Ed stuck at work but following :) 
         - On ansible key
+        - Akshay merged :)
+        - Docs in new wiki: https://wiki.social.coop/wiki/Update_pass
     - On [[atproto]] and the issue of 'algorithm permission' / ACLs for data federation
         - Akshay: what do people actually want to do with algorithms?
         - The issue of sorting/ranking, not to lose your friends' content
