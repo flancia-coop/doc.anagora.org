@@ -32,7 +32,7 @@
     - #go https://meet.jit.si/fellowship-of-the-link
     - #calendar https://plex.collectivesensecommons.org/calendar/
     - #when Wednesdays at [[6PM UTC]]
-- Attending: [[Aram Zucker-Scharff]] [[Flancian]]
+- Attending: [[Aram Zucker-Scharff]] [[Jerry Michalski]] [[Flancian]]
 - Check ins
     - Aram
         - Launching [[Privacy Rights]] for Colorado, Connecticut and Utah.
@@ -40,6 +40,9 @@
             - Utah's launches Dec 21st.
         - [[GPC signal]] - globalprivacycontrol.org/
             - Control for allowing users to set their defaults
+        - Flancian: coincidental with data rights discussion in the Fediverse
+            - Aram: interoperability assurances/requirements that comes with these changes
+            - We should be able to load up our [[Twitter archive]] into the Fediverse, [[mastodon]], [[bluesky]], etc.
 - Start recording, we're currently using Jitsi and that works best with a [[Chromium]] based browser.
 - Threads from last time(s) we would like to pick up:
     - [[Flancian]]
