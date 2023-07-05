@@ -58,6 +58,8 @@
        - Aram: we could also discuss of implementation
            - Rust
                - orgora -> [[org mode]] for the Agora
+               - [[logseq]] supports org mode
+               - https://anagora.org/org-mode
         
 - Start recording, we're currently using Jitsi and that works best with a [[Chromium]] based browser.
 - Agenda
