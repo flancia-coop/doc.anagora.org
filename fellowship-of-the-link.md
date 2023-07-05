@@ -55,7 +55,7 @@
                 - Facilitating a summit meeting to try to reduce [[open source fragmentation]]
                 - On the intent of writing a declaration, credo, etc.
             - Then another in Geneva \o/
-                - July 26th Wednesday is the event
+                - July 26th Wednesday is the event about the open source community
                 - Travelling back home on the 30th
                 - 29th should be free
    - Flancian
