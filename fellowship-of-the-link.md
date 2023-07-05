@@ -56,10 +56,13 @@
    - Flancian
        - If the fellowship is interested we could do an Agora demo in the first meeting of Aug
        - Aram: we could also discuss of implementation
-           - Rust
-               - orgora -> [[org mode]] for the Agora
+           - Rust project
+               - orgora -> [[org mode]] for the Agora is in the Rust
                - [[logseq]] supports org mode
-               - https://anagora.org/org-mode
+               - https://anagora.org/org-mode for pointers on the format, in particular the cheatsheet: http://xahlee.info/emacs/emacs/emacs_org_markup.html
+           - Why rust?
+               - Very good fit for high cpu/high ram/very intensive workloads
+               - Expressive yet also low level
         
 - Start recording, we're currently using Jitsi and that works best with a [[Chromium]] based browser.
 - Agenda
