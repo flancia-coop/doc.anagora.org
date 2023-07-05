@@ -52,10 +52,13 @@
             - Being part of the [[noosphere]], building the wrapper around the earth
         - Won't be around for next one or next three
             - 2w in Baja California
+                - Attending workshop with April
+                - Modern Elder Academy: https://www.modernelderacademy.com/
+                    - Take old buildings and turn them into hotels
+            - Then another in Geneva \o/
                 - Facilitating a summit meeting to try to reduce [[open source fragmentation]]
                 - On the intent of writing a declaration, credo, etc.
-            - Then another in Geneva \o/
-                - July 26th Wednesday is the event about the open source community
+                - July 26th Wednesday is the event
                 - Travelling back home on the 30th
                 - 29th should be free
    - Flancian
