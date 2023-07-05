@@ -38,6 +38,8 @@
         - Launching [[Privacy Rights]] for Colorado, Connecticut and Utah.
             - [[Do Not Sell]] laws in the first two already launched.
             - Utah's launches Dec 21st.
+        - [[GPC signal]] - globalprivacycontrol.org/
+            - Control for allowing users to set their defaults
 - Start recording, we're currently using Jitsi and that works best with a [[Chromium]] based browser.
 - Threads from last time(s) we would like to pick up:
     - [[Flancian]]
