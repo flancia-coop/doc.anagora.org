@@ -25,7 +25,8 @@ Here: [[Akshay]] [[Ed Summers]] [[Flancian]]
 - Check ins
     - [[Flancian]] just back from travel in Greece with mum :)
     - [[Akshay]] very nice summer in Berlin
-    - Ed
+    - Ed stuck at work but following :) 
+        - On ansible key
     - On [[atproto]] and the issue of 'algorithm permission' / ACLs for data federation
         - Akshay: what do people actually want to do with algorithms?
         - The issue of sorting/ranking, not to lose your friends' content
