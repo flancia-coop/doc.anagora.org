@@ -26,6 +26,7 @@ Here: [[Akshay]] [[Ed Summers]] [[Flancian]]
     - [[Flancian]] just back from travel in Greece with mum :)
     - [[Akshay]] very nice summer in Berlin
     - Ed
+    - On [[atproto]] and the issue of 'algorithm permission' / ACLs for data federation
 - Notes to future selves
     - Mastodon update (thank you Akshay!)
         - Will be done tomorrow around 3pm CET / 1pm UTC
