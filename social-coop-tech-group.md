@@ -27,6 +27,8 @@ Here: [[Akshay]] [[Ed Summers]] [[Flancian]]
     - [[Akshay]] very nice summer in Berlin
     - Ed
     - On [[atproto]] and the issue of 'algorithm permission' / ACLs for data federation
+        - Akshay: what do people actually want to do with algorithms?
+        - The issue of sorting/ranking, not to lose your friends' content
 - Notes to future selves
     - Mastodon update (thank you Akshay!)
         - Will be done tomorrow around 3pm CET / 1pm UTC
