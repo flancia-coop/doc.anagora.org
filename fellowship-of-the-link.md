@@ -68,6 +68,7 @@
                - Type system
                    - Aram: interesting how it wraps values in different kinds of structures to avoid errors
                - https://doc.rust-lang.org/book/ https://rust-book.cs.brown.edu/ch00-00-introduction.html
+       - [[John Perry Barlow]]
  
         
 - Start recording, we're currently using Jitsi and that works best with a [[Chromium]] based browser.
