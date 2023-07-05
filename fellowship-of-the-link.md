@@ -33,6 +33,7 @@
     - #calendar https://plex.collectivesensecommons.org/calendar/
     - #when Wednesdays at [[6PM UTC]]
 - Attending: [[Aram Zucker-Scharff]] [[Jerry Michalski]] [[Flancian]]
+- Start recording, we're currently using Jitsi and that works best with a [[Chromium]] based browser.
 - Check ins
     - Aram
         - Launching [[Privacy Rights]] for Colorado, Connecticut and Utah.
@@ -69,12 +70,14 @@
                    - Aram: interesting how it wraps values in different kinds of structures to avoid errors
                - https://doc.rust-lang.org/book/ https://rust-book.cs.brown.edu/ch00-00-introduction.html
        - [[John Perry Barlow]]
- 
-        
-- Start recording, we're currently using Jitsi and that works best with a [[Chromium]] based browser.
+           - [[Agora]] mini-demo
+           - [[The Brain]] mini-demo
+           - [[Agora]]/[[The Brain]] feature to generate essays from nodes
 - Agenda
     - [[Flancian]]
         - on #Fedipact
+        - (see above)
+    - Opportunity for doing more
     - Any [[high leverage opportunities]] we can spot?
     - [[generative commons]]
         - [[generative linking]] (inferring links)
