@@ -44,6 +44,13 @@
             - Aram: interoperability assurances/requirements that comes with these changes
             - We should be able to load up our [[Twitter archive]] into the Fediverse, [[mastodon]], [[bluesky]], etc.
             - #Fedipact as a hashtag. 
+                - Some people are saying that they won't federate period with Meta and others are saying they need particular conditions met. 
+                - That's a more interesting proposal than the one in the main fedipact site?
+    - Jerry Michalski
+        - Won't be around for next one or next three
+            - 2w in Baja California
+            - Then another in Geneva \o/
+                - July 26th Wednesday is the event
 - Start recording, we're currently using Jitsi and that works best with a [[Chromium]] based browser.
 - Agenda
     - [[Flancian]]
