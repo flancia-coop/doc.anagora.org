@@ -78,7 +78,15 @@
        - [[John Perry Barlow]]
            - [[Agora]] mini-demo
            - [[The Brain]] mini-demo
+               - Jerry Michalski
+https://bra.in/9jbXxk
+ 
+Jerry Michalski says:and the 25 principles: 
+https://bra.in/5pWbYo
+ 
            - [[Agora]]/[[The Brain]] feature to generate essays from nodes
+- [[Noosphere]]
+    - https://bra.in/5jggN2
 - Agenda
     - [[Flancian]]
         - on #Fedipact
