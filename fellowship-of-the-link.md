@@ -60,9 +60,11 @@
                - orgora -> [[org mode]] for the Agora is in the Rust
                - [[logseq]] supports org mode
                - https://anagora.org/org-mode for pointers on the format, in particular the cheatsheet: http://xahlee.info/emacs/emacs/emacs_org_markup.html
-           - Why rust?
+           - Why [[rust]]?
                - Very good fit for high cpu/high ram/very intensive workloads
                - Expressive yet also low level
+               - Type system
+                   - Aram: interesting how it wraps values in different kinds of st
         
 - Start recording, we're currently using Jitsi and that works best with a [[Chromium]] based browser.
 - Agenda
