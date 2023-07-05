@@ -53,7 +53,11 @@
                 - July 26th Wednesday is the event
                 - Travelling back home on the 30th
                 - 29th should be free
-   - 
+   - Flancian
+       - If the fellowship is interested we could do an Agora demo in the first meeting of Aug
+       - Aram: we could also discuss of implementation
+           - Rust
+               - orgora -> [[org mode]] for the Agora
         
 - Start recording, we're currently using Jitsi and that works best with a [[Chromium]] based browser.
 - Agenda
