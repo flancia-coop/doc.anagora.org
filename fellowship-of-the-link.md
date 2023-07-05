@@ -53,6 +53,7 @@
         - Won't be around for next one or next three
             - 2w in Baja California
                 - Attending workshop with April
+                    - For writers and +1s
                 - Modern Elder Academy: https://www.modernelderacademy.com/
                     - Take old buildings and turn them into hotels
             - Then another in Geneva \o/
