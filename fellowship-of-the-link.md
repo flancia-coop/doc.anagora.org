@@ -33,12 +33,12 @@
     - #calendar https://plex.collectivesensecommons.org/calendar/
     - #when Wednesdays at [[6PM UTC]]
 - Attending: [[x]], [[y]]
-- Check in
 - Start recording, we're currently using Jitsi and that works best with a [[Chromium]] based browser.
-- Threads from last time we would like to pick up:
+- Check ins
+- Threads from last time(s) we would like to pick up:
     - [[Flancian]]
         - on #Fedipact
-    - [[high leverage opportunities]] we can spot
+    - Any [[high leverage opportunities]] we can spot?
     - [[generative commons]]
         - [[generative linking]] (inferring links)
         - [[general commons agreement]] https://bra.in/8qeNWy
