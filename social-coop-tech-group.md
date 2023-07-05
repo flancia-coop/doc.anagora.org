@@ -28,6 +28,7 @@ Here: [[Akshay]] [[Ed Summers]] [[Flancian]]
     - 
 - Notes to future selves
     - Mastodon update (thank you Akshay!)
+        - Patchset should be small, no migration needed
     - join.social.coop update (thank you Ed!)
     - Issues raised from CWG
         - TWG should choose an emissary to the [[organizing circle]], mechanism up to us.
