@@ -23,6 +23,8 @@ Here: ...
 Here: [[Akshay]] [[Ed Summers]] [[Flancian]]
 
 - Check ins
+    - [[Flancian]] just back from travel in Greece with mum :)
+    - [[Akshay]] very nice summer in Berlin
     - 
 - Notes to future selves
     - Mastodon update (thank you Akshay!)
