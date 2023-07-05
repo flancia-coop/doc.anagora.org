@@ -43,8 +43,9 @@
         - Flancian: coincidental with data rights discussion in the Fediverse
             - Aram: interoperability assurances/requirements that comes with these changes
             - We should be able to load up our [[Twitter archive]] into the Fediverse, [[mastodon]], [[bluesky]], etc.
+            - #Fedipact as a hashtag. 
 - Start recording, we're currently using Jitsi and that works best with a [[Chromium]] based browser.
-- Threads from last time(s) we would like to pick up:
+- Agenda
     - [[Flancian]]
         - on #Fedipact
     - Any [[high leverage opportunities]] we can spot?
