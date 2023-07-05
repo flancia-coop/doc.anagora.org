@@ -51,6 +51,10 @@
             - 2w in Baja California
             - Then another in Geneva \o/
                 - July 26th Wednesday is the event
+                - Travelling back home on the 30th
+                - 29th should be free
+   - 
+        
 - Start recording, we're currently using Jitsi and that works best with a [[Chromium]] based browser.
 - Agenda
     - [[Flancian]]
