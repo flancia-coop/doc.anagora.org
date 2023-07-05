@@ -49,6 +49,7 @@
     - Jerry Michalski
         - Won't be around for next one or next three
             - 2w in Baja California
+                - Facilitating a summit meet
             - Then another in Geneva \o/
                 - July 26th Wednesday is the event
                 - Travelling back home on the 30th
@@ -64,7 +65,9 @@
                - Very good fit for high cpu/high ram/very intensive workloads
                - Expressive yet also low level
                - Type system
-                   - Aram: interesting how it wraps values in different kinds of st
+                   - Aram: interesting how it wraps values in different kinds of structures to avoid errors
+               - https://doc.rust-lang.org/book/ https://rust-book.cs.brown.edu/ch00-00-introduction.html
+ 
         
 - Start recording, we're currently using Jitsi and that works best with a [[Chromium]] based browser.
 - Agenda
