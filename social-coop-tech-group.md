@@ -23,17 +23,20 @@ Here: ...
 Here: [[Akshay]] [[Ed Summers]] [[Flancian]]
 
 - Check ins
-    
+    - 
 - Notes to future selves
-    - Mastodon update
-    - Possible Hometown update next
+    - Mastodon update (thank you Akshay!)
+    - join.social.coop update (thank you Ed!)
     - Issues raised from CWG
         - TWG should choose an emissary to the [[organizing circle]], mechanism up to us.
         - TWG could take a look at the governance update proposal https://www.loomio.com/p/OI8kEjVz/social-coop-organizing-circle-proposal
         - There is some desire to have a bot that automatically boosts in-instance #introduction posts
-    - SSO next steps
+    - Wiki and SSO next steps
        - We need to set up and test backup/restores
-       - We want to decide
+       - We need to decide an onboarding flow -- maybe it should just be added to the registration process currently handled by the CWG?
+    - Possible Hometown update next?
+       - There is maybe a fork in the road leading to bonfire.social.coop for governance
+       - Or Hometown plus self-hosted loomio?
        
 ## [[2023-06-19]]
 
