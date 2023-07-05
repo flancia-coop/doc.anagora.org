@@ -18,6 +18,25 @@ Here: ...
     - wiki next steps
        - set up and test backup/restores
        
+       ## [[YYYY-MM-DD]]
+
+Here: ...
+
+- Check ins
+- Notes to future selves
+    - Issues raised from CWG
+        - TWG could take a look at the governance update proposal https://www.loomio.com/p/OI8kEjVz/social-coop-organizing-circle-proposal
+        - NextCloud calendar doesn't seem to really notify by email -- could we raise to Mayfirst?
+            - Some reports of NextCloud jankiness in general, sometimes it just sping (tm) -- maybe we can work with Mayfirst to improve this?
+            - meet.mayfirst.org seems lower quality than other jitsi instances maybe?
+                - ping from CH to galeano.mayfirst.org is only 83ms
+                - might be a 360p default
+        - Some email issues, but not many?
+            - 5.7.23 <jag@mail.mayfirst.org>: Recipient address rejected: Message rejected due to: SPF fail - not authorized.
+        - There is some desire to have a bot that automatically boosts in-instance #introduction posts
+    - wiki next steps
+       - set up and test backup/restores
+ 
        
        
 ## [[2023-06-19]]
