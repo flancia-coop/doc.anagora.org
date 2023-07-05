@@ -32,6 +32,8 @@ Here: [[Akshay]] [[Ed Summers]] [[Flancian]]
         - Patchset should be small, no migration needed
         - #mastoadmin is a good hashtag to follow
     - join.social.coop update (thank you Ed!)
+        - https://git.coop/social.coop/tech/wiki.social.coop/-/merge_requests/8
+        - https://git.coop/social.coop/tech/ansible/-/merge_requests/28
     - Issues raised from CWG
         - TWG should choose an emissary to the [[organizing circle]], mechanism up to us.
         - TWG could take a look at the governance update proposal https://www.loomio.com/p/OI8kEjVz/social-coop-organizing-circle-proposal
@@ -41,6 +43,7 @@ Here: [[Akshay]] [[Ed Summers]] [[Flancian]]
        - We need to decide an onboarding flow -- maybe it should just be added to the registration process currently handled by the CWG?
     - Possible Hometown update next?
        - There is maybe a fork in the road leading to bonfire.social.coop for governance
+           - https://github.com/bonfire-networks/bonfire-app/tree/main/flavours/cooperation
        - Or Hometown plus self-hosted loomio?
        
 ## [[2023-06-19]]
