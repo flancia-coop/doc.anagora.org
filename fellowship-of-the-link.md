@@ -48,6 +48,8 @@
                 - Some people are saying that they won't federate period with Meta and others are saying they need particular conditions met. 
                 - That's a more interesting proposal than the one in the main fedipact site?
     - Jerry Michalski
+        - On being a good cyborg
+            - Being part of the [[noosphere]], building the wrapper around the earth
         - Won't be around for next one or next three
             - 2w in Baja California
                 - Facilitating a summit meeting to try to reduce [[open source fragmentation]]
@@ -77,7 +79,9 @@
     - [[Flancian]]
         - on #Fedipact
         - (see above)
-    - Opportunity for doing more
+    - Opportunity for doing something for open source
+        - Link to the fellowship
+        - Leaving a commons to future generations
     - Any [[high leverage opportunities]] we can spot?
     - [[generative commons]]
         - [[generative linking]] (inferring links)
