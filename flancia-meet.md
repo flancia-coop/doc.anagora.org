@@ -12,7 +12,10 @@
     - completed second year!
     - passed important exam with a 4 (which is good)
     - rules changed for one exam at the last minute
-
+- [[flancian]]
+    - Lake Constance: https://goo.gl/maps/hNJsEzt2mmXWPHkW9
+    - Greece for two weeks
+     
 # [[flancia meet 2023-06-17]]
 - Attending: [[bouncepaw]] [[flancian]]
 - #push [[blame]] film and manga
