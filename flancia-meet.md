@@ -19,7 +19,7 @@
 - [[betulagora]]
     - what's next?
         - automatic sync
-        - 
+        - issue with empty nodes
      
 # [[flancia meet 2023-06-17]]
 - Attending: [[bouncepaw]] [[flancian]]
