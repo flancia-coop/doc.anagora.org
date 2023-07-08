@@ -2,6 +2,13 @@
 - We meet best-effort every Saturday. UTC?
 - This is where we have community maintained notes :)
 
+# [[flancia meet 2023-07-08]]
+- Attending: [[bouncepaw]] [[flancian]]
+- [[nethack]]
+    - [[roguelikes]]
+    - [[rpgs]] with optional conducts -- like [[deus ex]]
+    - [[undertale]]
+- [[]]
 
 # [[flancia meet 2023-06-17]]
 - Attending: [[bouncepaw]] [[flancian]]
