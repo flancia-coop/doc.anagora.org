@@ -8,7 +8,10 @@
     - [[roguelikes]]
     - [[rpgs]] with optional conducts -- like [[deus ex]]
     - [[undertale]]
-- [[]]
+- [[bouncepaw]]
+    - completed second year!
+    - passed important exam with a 4 (which is good)
+    - rules changed for one exam at the last minute
 
 # [[flancia meet 2023-06-17]]
 - Attending: [[bouncepaw]] [[flancian]]
