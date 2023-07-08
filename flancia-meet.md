@@ -16,6 +16,10 @@
     - Lake Constance: https://goo.gl/maps/hNJsEzt2mmXWPHkW9
     - Greece for two weeks
     - Turned 40 recently
+- [[betulagora]]
+    - what's next?
+        - automatic sync
+        - 
      
 # [[flancia meet 2023-06-17]]
 - Attending: [[bouncepaw]] [[flancian]]
