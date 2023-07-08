@@ -15,6 +15,7 @@
 - [[flancian]]
     - Lake Constance: https://goo.gl/maps/hNJsEzt2mmXWPHkW9
     - Greece for two weeks
+    - Turned 40 recently
      
 # [[flancia meet 2023-06-17]]
 - Attending: [[bouncepaw]] [[flancian]]
