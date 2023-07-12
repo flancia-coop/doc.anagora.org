@@ -55,7 +55,10 @@
         - Marketplace of service providers
         - A la [[Solid]] by [[TBL]]?
             - He was in [[dweb]]!
-        - The guy from [[]]
+        - [[Roger McNamee]] -  the guy who wrote [[Zucked]]
+    - Meeting that happens on Fridays at 9am PT
+        - [[End Surveillance Capitalism]]
+            - -> https://esc.fyi
             
 ## [[2023-07-05]]
 - a [[meeting]].
