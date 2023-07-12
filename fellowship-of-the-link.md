@@ -44,6 +44,11 @@
     - [[Progressive Decentralization]] was a hot topic
     - Easier to agree on a long term goal than on intermediate ones
     - Easier to get people on mastodon (currently) than on e.g. matrix
+- Possible high leverage points:
+    - [[alternativeto]] for everything
+    - [[signup router]] for decentralized/federated systems
+    - [[prompt router]] for generative ai
+    - [[bridges]]
             
 ## [[2023-07-05]]
 - a [[meeting]].
