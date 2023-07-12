@@ -49,6 +49,9 @@
     - [[signup router]] for decentralized/federated systems
     - [[prompt router]] for generative ai
     - [[bridges]]
+- [[Utopian]] position
+    - Before everybody knows which side of the issue is red or blue, push the idea that:
+        - All the digital information that at
             
 ## [[2023-07-05]]
 - a [[meeting]].
