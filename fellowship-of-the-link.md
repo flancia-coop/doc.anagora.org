@@ -44,11 +44,11 @@
     - [[Progressive Decentralization]] was a hot topic
     - Easier to agree on a long term goal than on intermediate ones
     - Easier to get people on mastodon (currently) than on e.g. matrix
-- Possible high leverage points:
+- Possible [[high leverage points]] currently:
     - [[alternativeto]] for everything
     - [[signup router]] for decentralized/federated systems
     - [[prompt router]] for generative ai
-    - [[bridges]]
+    - Ethical [[bridges]] provider
 - [[Utopian]] position
     - Before everybody knows which side of the issue is red or blue, push the idea that:
         - All the digital information that we generate belongs to the people
@@ -59,6 +59,7 @@
     - Meeting that happens on Fridays at 9am PT
         - [[End Surveillance Capitalism]]
             - -> https://esc.fyi
+        - How to organize/contribute without starting Yet Another Organization in a crowded environment
             
 ## [[2023-07-05]]
 - a [[meeting]].
