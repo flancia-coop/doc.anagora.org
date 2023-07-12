@@ -51,7 +51,8 @@
     - [[bridges]]
 - [[Utopian]] position
     - Before everybody knows which side of the issue is red or blue, push the idea that:
-        - All the digital information that at
+        - All the digital information that we generate belongs to the people
+        - Marketplace of service providers
             
 ## [[2023-07-05]]
 - a [[meeting]].
