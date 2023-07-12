@@ -26,6 +26,15 @@
             
 ## [[2023-07-12]]
 - [[Flancian]] interested in an Agora demo next week? :)
+    - Will happen in August once Jerry's back.
+- Attending: [[Peter Kaminski]] [[Michael Grossman]] [[Flancian]]
+- [[Peter Kaminski]]
+    - Launched a course on ChatGPT for businesses
+- [[Michael Grossman]]
+    - On administering a [[commons]] -- lake case study
+    - Political alignment as it interacts with lake issues
+    - How to structure information spread
+    - [[Sensemak]]
             
 ## [[2023-07-05]]
 - a [[meeting]].
