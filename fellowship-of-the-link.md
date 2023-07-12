@@ -37,6 +37,9 @@
     - [[Sensemaking]] would be in order :)
 - [[Flancian]]
     - [[Social.coop]]
+        - Runs on [[mastodon]], [[loomio]], [[matrix]]
+        - [[bonfire]] as a potential evolution
+        - On the barrer to entry to [[matrix]]
             
 ## [[2023-07-05]]
 - a [[meeting]].
