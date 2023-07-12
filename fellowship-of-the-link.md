@@ -34,7 +34,9 @@
     - On administering a [[commons]] -- lake case study
     - Political alignment as it interacts with lake issues
     - How to structure information spread
-    - [[Sensemak]]
+    - [[Sensemaking]] would be in order :)
+- [[Flancian]]
+    - [[Social.coop]]
             
 ## [[2023-07-05]]
 - a [[meeting]].
