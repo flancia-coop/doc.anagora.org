@@ -60,6 +60,7 @@
         - [[End Surveillance Capitalism]]
             - -> https://esc.fyi
         - How to organize/contribute without starting Yet Another Organization in a crowded environment
+- Category: easy to conceive, hard/impossible to build
             
 ## [[2023-07-05]]
 - a [[meeting]].
