@@ -9,6 +9,8 @@
 - [[bouncepaw]] 
     - Finishing a comic this July 
     - Focusing in [[cyberrachael]]
+- [[Ufa]] is in [[Baskkortostan]]
+    - > Bashkortostan
     
 # [[flancia meet 2023-07-08]]
 - Attending: [[bouncepaw]] [[flancian]]
