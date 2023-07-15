@@ -2,6 +2,11 @@
 - We meet best-effort every Saturday. UTC?
 - This is where we have community maintained notes :)
 
+# [[flancia meet 2023-07-15]]
+- On exploring unknown parts of a town :)
+- Arcologies
+    - Bouncepaw started writing a novel when he was 12, [[tricube]]
+    
 # [[flancia meet 2023-07-08]]
 - Attending: [[bouncepaw]] [[flancian]]
 - [[nethack]]
