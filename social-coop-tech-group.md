@@ -56,7 +56,10 @@ Here: [[Akshay]] [[Flancian]] [[Calix]]
         - Waiting for these to be merged.
     - Issues raised from CWG
         - TWG should choose an emissary to the [[organizing circle]], mechanism up to us.
+            - This comes from https://www.loomio.com/d/txYOWJ4q/organizing-a-growing-social-coop-an-idea-for-a-proposal
         - TWG could take a look at the governance update proposal https://www.loomio.com/p/OI8kEjVz/social-coop-organizing-circle-proposal
+        - How do we choose? How often do we rotate?
+            - Let's first gauge who could be interested in this
         - There is some desire to have a bot that automatically boosts in-instance #introduction posts
     - Wiki and SSO next steps
        - We need to set up and test backup/restores
