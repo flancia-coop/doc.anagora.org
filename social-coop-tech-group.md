@@ -60,6 +60,7 @@ Here: [[Akshay]] [[Flancian]] [[Calix]]
         - TWG could take a look at the governance update proposal https://www.loomio.com/p/OI8kEjVz/social-coop-organizing-circle-proposal
         - How do we choose? How often do we rotate?
             - Let's first gauge who could be interested in this
+            - Actually let's all volunteer at https://www.loomio.com/d/GhC8oEcK/organizing-the-social-coop-organizing-circle/2 if interested and take it from there.
         - There is some desire to have a bot that automatically boosts in-instance #introduction posts
     - Wiki and SSO next steps
        - We need to set up and test backup/restores
