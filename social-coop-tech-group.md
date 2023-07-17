@@ -47,6 +47,7 @@ Here: [[Akshay]] [[Flancian]] [[Calix]]
         - What about [[glitch-soc]]?
             - [[Glitch]] was brought up by [[jonny]] as an alternate ([[glitch-soc]]).
             - But we didn't look into it deeply yet.
+            - It's unclear what their last release is.
     - join.social.coop update (thank you Ed!)
         - https://git.coop/social.coop/tech/wiki.social.coop/-/merge_requests/8
         - https://git.coop/social.coop/tech/ansible/-/merge_requests/28
