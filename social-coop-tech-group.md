@@ -18,6 +18,14 @@ Here: ...
     - Wiki next steps
        - We need to set up and test backup/restores
        
+## [[2023-07-17]]
+
+Here: [[Akshay]] [[Flancian]] [[Calix]]
+
+- Check ins
+    - Travel plans
+        - Barcelona!
+
 ## [[2023-07-05]]
 
 Here: [[Akshay]] [[Ed Summers]] [[Flancian]]
