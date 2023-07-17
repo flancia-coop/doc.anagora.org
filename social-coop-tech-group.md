@@ -43,7 +43,7 @@ Here: [[Akshay]] [[Flancian]] [[Calix]]
         - https://github.com/hometown-fork/hometown -- how long did they take to pick up the security fix? July 7th (4.0 series) and 9th (3.5 series)
         - They patched same day-ish, so it seems like a healthy situation
         - If we want to move, either we wait for them to bump to 4.1 or we look into a 4.1 -> 4.0 downgrade?
-        - Default is we wait, they seem to be working on moving 
+        - Default is we wait, they seem to be working on moving to 4.1.
         - What about [[glitch-soc]]?
             - [[Glitch]] was brought up by [[jonny]] as an alternate ([[glitch-soc]]).
             - But we didn't look into it deeply yet.
@@ -53,6 +53,7 @@ Here: [[Akshay]] [[Flancian]] [[Calix]]
     - join.social.coop update (thank you Ed!)
         - https://git.coop/social.coop/tech/wiki.social.coop/-/merge_requests/8
         - https://git.coop/social.coop/tech/ansible/-/merge_requests/28
+        - Waiting for these to be merged.
     - Issues raised from CWG
         - TWG should choose an emissary to the [[organizing circle]], mechanism up to us.
         - TWG could take a look at the governance update proposal https://www.loomio.com/p/OI8kEjVz/social-coop-organizing-circle-proposal
