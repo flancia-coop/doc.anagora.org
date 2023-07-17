@@ -40,6 +40,7 @@ Here: [[Akshay]] [[Flancian]] [[Calix]]
     - Mastodon update (thank you Akshay!)
         - Do we want to hold for Hometown?
         - They haven't upgraded yet? Still on 4.0, we're on 4.1
+        - https://github.com/hometown-fork/hometown -- how long did they take to pick up the security fix? July 7th (4.0 series) and 9th (3.5 series)
     - join.social.coop update (thank you Ed!)
         - https://git.coop/social.coop/tech/wiki.social.coop/-/merge_requests/8
         - https://git.coop/social.coop/tech/ansible/-/merge_requests/28
