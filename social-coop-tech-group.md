@@ -44,7 +44,9 @@ Here: [[Akshay]] [[Flancian]] [[Calix]]
         - They patched same day-ish, so it seems like a healthy situation
         - If we want to move, either we wait for them to bump to 4.1 or we look into a 4.1 -> 4.0 downgrade?
         - Default is we wait.
-        - [[Glitch]] was brought up by [[jonny]] as an alternate.
+        - What about [[glitch-soc]]?
+            - [[Glitch]] was brought up by [[jonny]] as an alternate ([[glitch-soc]]).
+            - But we didn't look into it deeply yet.
     - join.social.coop update (thank you Ed!)
         - https://git.coop/social.coop/tech/wiki.social.coop/-/merge_requests/8
         - https://git.coop/social.coop/tech/ansible/-/merge_requests/28
