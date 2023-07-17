@@ -30,8 +30,12 @@ Here: [[Akshay]] [[Flancian]] [[Calix]]
                 - Miró
         - Eduardo: Swiss Jura / Anarchism tour
         - Calix: Glasgow! Then Berlin
+            - Akshay: would be great to catch up!
+            - Mid-Aug to Mid-Sep
+                - CCC Camp Tickets still around: https://tickets.events.ccc.de/camp2023/
+            - September sounds good
     - Calix: getting over a cold but also had a super productive day \o/
-        - 
+    - CCC Camp in Berlin around the same dates
 
 ## [[2023-07-05]]
 
