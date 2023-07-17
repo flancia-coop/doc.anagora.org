@@ -67,6 +67,7 @@ Here: [[Akshay]] [[Flancian]] [[Calix]]
     - Wiki and SSO next steps
        - We need to set up and test backup/restores
        - We need to decide an onboarding flow -- maybe it should just be added to the registration process currently handled by the CWG?
+           - [[Calix]] there is an invite-
        - Let's also move these items, ideally well scoped, to bugs?
            - Z, A :)
     - Possible Hometown update next?
