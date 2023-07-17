@@ -25,6 +25,9 @@ Here: [[Akshay]] [[Flancian]] [[Calix]]
 - Check ins
     - Travel plans
         - Barcelona!
+            - Montjuic
+                - MNAC
+                - Miró
 
 ## [[2023-07-05]]
 
