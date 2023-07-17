@@ -62,9 +62,13 @@ Here: [[Akshay]] [[Flancian]] [[Calix]]
             - Let's first gauge who could be interested in this
             - Actually let's all volunteer at https://www.loomio.com/d/GhC8oEcK/organizing-the-social-coop-organizing-circle/2 if interested and take it from there.
         - There is some desire to have a bot that automatically boosts in-instance #introduction posts
+            - Additionally some desire to have a bot that automatically publishes loomio activity
+            - Maybe let's open some bugs and link them here: X, Y
     - Wiki and SSO next steps
        - We need to set up and test backup/restores
        - We need to decide an onboarding flow -- maybe it should just be added to the registration process currently handled by the CWG?
+       - Let's also move these items, ideally well scoped, to bugs?
+           - Z, A :)
     - Possible Hometown update next?
        - There is maybe a fork in the road leading to bonfire.social.coop for governance
            - https://github.com/bonfire-networks/bonfire-app/tree/main/flavours/cooperation
