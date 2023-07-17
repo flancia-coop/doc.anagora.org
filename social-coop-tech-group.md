@@ -24,10 +24,14 @@ Here: [[Akshay]] [[Flancian]] [[Calix]]
 
 - Check ins
     - Travel plans
-        - Barcelona!
+        - Akshay: Barcelona!
             - Montjuic
                 - MNAC
                 - Miró
+        - Eduardo: Swiss Jura / Anarchism tour
+        - Calix: Glasgow! Then Berlin
+    - Calix: getting over a cold but also had a super productive day \o/
+        - 
 
 ## [[2023-07-05]]
 
