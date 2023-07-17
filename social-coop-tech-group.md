@@ -36,6 +36,25 @@ Here: [[Akshay]] [[Flancian]] [[Calix]]
             - September sounds good
     - Calix: getting over a cold but also had a super productive day \o/
     - CCC Camp in Berlin around the same dates
+- Notes to future selves
+    - Mastodon update (thank you Akshay!)
+        - Do we want to hold for Hometown?
+        - They haven't upgraded yet? Still on 4.0, we're on 4.1
+    - join.social.coop update (thank you Ed!)
+        - https://git.coop/social.coop/tech/wiki.social.coop/-/merge_requests/8
+        - https://git.coop/social.coop/tech/ansible/-/merge_requests/28
+    - Issues raised from CWG
+        - TWG should choose an emissary to the [[organizing circle]], mechanism up to us.
+        - TWG could take a look at the governance update proposal https://www.loomio.com/p/OI8kEjVz/social-coop-organizing-circle-proposal
+        - There is some desire to have a bot that automatically boosts in-instance #introduction posts
+    - Wiki and SSO next steps
+       - We need to set up and test backup/restores
+       - We need to decide an onboarding flow -- maybe it should just be added to the registration process currently handled by the CWG?
+    - Possible Hometown update next?
+       - There is maybe a fork in the road leading to bonfire.social.coop for governance
+           - https://github.com/bonfire-networks/bonfire-app/tree/main/flavours/cooperation
+       - Or Hometown plus self-hosted loomio?
+ 
 
 ## [[2023-07-05]]
 
