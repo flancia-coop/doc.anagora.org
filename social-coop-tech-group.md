@@ -75,7 +75,7 @@ Here: [[Akshay]] [[Flancian]] [[Calix]]
        - There is maybe a fork in the road leading to bonfire.social.coop for governance
            - https://github.com/bonfire-networks/bonfire-app/tree/main/flavours/cooperation
            - Thanks Akshay and Calix for navigating the mailgun dashboard and finding the right place to add a new mailgun login :)
-           - 
+           - It's in https://app.mailgun.com/app/sending/domains/mg.social.coop/credentials
        - Or Hometown plus self-hosted loomio?
  
 
