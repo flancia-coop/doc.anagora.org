@@ -74,6 +74,8 @@ Here: [[Akshay]] [[Flancian]] [[Calix]]
     - Possible Hometown update next?
        - There is maybe a fork in the road leading to bonfire.social.coop for governance
            - https://github.com/bonfire-networks/bonfire-app/tree/main/flavours/cooperation
+           - Thanks Akshay and Calix for navigating the mailgun dashboard and finding the right place to add a new mailgun login :)
+           - 
        - Or Hometown plus self-hosted loomio?
  
 
