@@ -41,6 +41,10 @@ Here: [[Akshay]] [[Flancian]] [[Calix]]
         - Do we want to hold for Hometown?
         - They haven't upgraded yet? Still on 4.0, we're on 4.1
         - https://github.com/hometown-fork/hometown -- how long did they take to pick up the security fix? July 7th (4.0 series) and 9th (3.5 series)
+        - They patched same day-ish, so it seems like a healthy situation
+        - If we want to move, either we wait for them to bump to 4.1 or we look into a 4.1 -> 4.0 downgrade?
+        - Default is we wait.
+        - [[Glitch]] was brought up by [[jonny]] as an alternate.
     - join.social.coop update (thank you Ed!)
         - https://git.coop/social.coop/tech/wiki.social.coop/-/merge_requests/8
         - https://git.coop/social.coop/tech/ansible/-/merge_requests/28
