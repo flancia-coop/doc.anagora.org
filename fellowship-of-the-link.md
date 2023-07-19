@@ -25,11 +25,12 @@
             - [[github]] by default?
             
 ## [[2023-07-12]]
-- [[Flancian]] interested in an Agora demo next week? :)
+- [[Flancian]] interested in an Agora demo next week? :)  ++++!
     - Will happen in August once Jerry's back.
 - Attending: [[Peter Kaminski]] [[Michael Grossman]] [[Flancian]]
 - [[Peter Kaminski]]
     - Launched a course on ChatGPT for businesses
+    - <3  link?
 - [[Michael Grossman]]
     - On administering a [[commons]] -- lake case study
     - Political alignment as it interacts with lake issues
@@ -44,6 +45,7 @@
     - [[Progressive Decentralization]] was a hot topic
     - Easier to agree on a long term goal than on intermediate ones
     - Easier to get people on mastodon (currently) than on e.g. matrix
+        - [[SJ] was there too but didn't get to hang out enough :)
 - Possible [[high leverage points]] currently:
     - [[alternativeto]] for everything
     - [[signup router]] for decentralized/federated systems
