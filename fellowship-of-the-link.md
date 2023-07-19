@@ -17,7 +17,8 @@
             - volunteered https://tftmap.massive.wiki/map/aram_zucker-scharff
     - [[Aram Zucker-Scharff]] would like to generalize the archiving tool / link card generator he's been working on.
     - [[Flancian]] would like to discuss [[Interwiki]] links and the [[common hub]] approach for search and entity resolution
-    - [[SJ]] wants to discuss / address this at hacking days at Wikimania in August (you're all invited to Singapore ;) https://wikimania.wikimedia.org/wiki/2023:Wikimania 
+    - [[SJ]] wants to discuss / address this at hacking days at Wikimania in August (you're all invited to Singapore ;) https://wikimania.wikimedia.org/wiki/2023:Wikimania
+        - and to have a clear standard for hub/cascade-based resolution that can be referenced at https://meta.wikimedia.org/wiki/Go_links (perhaps w/ cross-references to haw)
 - #push [[fotl threads]]
     - define:
         - [[wiki]] / root URL
