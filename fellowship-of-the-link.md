@@ -17,6 +17,7 @@
             - volunteered https://tftmap.massive.wiki/map/aram_zucker-scharff
     - [[Aram Zucker-Scharff]] would like to generalize the archiving tool / link card generator he's been working on.
     - [[Flancian]] would like to discuss [[Interwiki]] links and the [[common hub]] approach for search and entity resolution
+    - [[SJ]] wants to discuss / address this at hacking days at Wikimania in August (you're all invited to Singapore ;) https://wikimania.wikimedia.org/wiki/2023:Wikimania 
 - #push [[fotl threads]]
     - define:
         - [[wiki]] / root URL
@@ -24,6 +25,9 @@
         - [[issue tracker]] / [[project tracker]] URL
             - [[github]] by default?
             
+## [[2023-07-19]] ?
+- [[SJ]] waving hello remotely.
+ 
 ## [[2023-07-12]]
 - [[Flancian]] interested in an Agora demo next week? :)  ++++!
     - Will happen in August once Jerry's back.
