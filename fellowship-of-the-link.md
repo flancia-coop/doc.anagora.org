@@ -29,6 +29,7 @@
 - [[SJ]] waving hello remotely. 
     - Added a thread to follow up on, above.  As part of that: I'd like to have a clear standard for hub/cascade-based resolution that can be referenced at https://meta.wikimedia.org/wiki/Go_links (perhaps w/ cross-references to how DNS and package-resolution and other routing specs do this)
     - Also looking to formalize how we link different global entity graphs (System.com, Golden, proprietary graphs, Wikidata), formalize how well-sourced each statement is (via an explicit Wikicite w/ metadata about confidence + contextual applicability), and either declare similarity + crosswalks b/t them (A is meant to be a copy of B; A is derived from B,C, and judgement) or indicate none is known
+    - Haven't forgotten the postcard art project, but it was delayed by a house move !
  
 ## [[2023-07-12]]
 - [[Flancian]] interested in an Agora demo next week? :)  ++++!
