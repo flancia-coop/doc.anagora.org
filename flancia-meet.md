@@ -15,6 +15,10 @@
         - a journey into the lower tier to find a lost book
     - [[flancian]] made me think of:
         - [[time machine]] by [[h g wells]]
+        - [[flashback]], old computer game
+    - takeaways from doing a comic
+        - shouldn't have done it in paper first, extra work with little benefit
+        - fully digital panels are better
     - https://en.wikipedia.org/wiki/Jew%27s_harp
     - [[I am a strange loop]]
         - scales for consciousness/soul
