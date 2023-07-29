@@ -4,6 +4,10 @@
 
 # [[flancia meet 2023-07-15]]
 - On exploring unknown parts of a town :)
+-
+
+# [[flancia meet 2023-07-15]]
+- On exploring unknown parts of a town :)
 - [[Arcologies]]
     - Bouncepaw started writing a novel when he was 12, [[tricube]], which had structures like this
 - [[bouncepaw]] 
