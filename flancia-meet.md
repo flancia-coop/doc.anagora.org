@@ -7,6 +7,11 @@
     - both used to have long hair at some point
 - [[bouncepaw]]
     - comic can be turned in as is, but polishing for a better result
+    - https://en.wikipedia.org/wiki/Jew%27s_harp
+    - [[I am a strange loop]]
+        - scales for consciousness/soul
+            - estimating the number of categories that can be perceived/thought about
+            - [[hunecker scale]]
 
 # [[flancia meet 2023-07-15]]
 - On exploring unknown parts of a town :)
@@ -16,7 +21,6 @@
     - Finishing a comic this July 
     - Focusing in [[cyberrachael]]
 - [[Ufa]] is in [[Bashkortostan]]
-    - > Bashkortostan
     
 # [[flancia meet 2023-07-08]]
 - Attending: [[bouncepaw]] [[flancian]]
