@@ -14,6 +14,7 @@
             - [[huneker scale]]
             - [[low resource text classification]] https://links.bouncepaw.com/448 ~ [[448]] -> https://aclanthology.org/2023.findings-acl.426 -> https://kenschutte.com/gzip-knn-paper/
         - "souls: a little needed feature"
+- no [[soul]]
 
 # [[flancia meet 2023-07-15]]
 - On exploring unknown parts of a town :)
