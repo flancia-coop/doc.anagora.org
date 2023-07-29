@@ -2,9 +2,10 @@
 - We meet best-effort every Saturday. UTC?
 - This is where we have community maintained notes :)
 
-# [[flancia meet 2023-07-15]]
-- On exploring unknown parts of a town :)
--
+# [[flancia meet 2023-07-29]]
+- Haircuts
+- [[bouncepaw]]
+    - comic can be turned in anytime, polishing
 
 # [[flancia meet 2023-07-15]]
 - On exploring unknown parts of a town :)
