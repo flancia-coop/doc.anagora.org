@@ -9,7 +9,12 @@
     - comic can be turned in as is, but polishing for a better result
         - [[the lower tier]]
         - takes place in a great megastructure city
-            - lower tier, machin
+            - lower tier, machines
+            - habitable tier, people
+            - cosmo tier, for transportation
+        - a journey into the lower tier to find a lost book
+    - [[flancian]] made me think of:
+        - [[time machine]] by [[h g wells]]
     - https://en.wikipedia.org/wiki/Jew%27s_harp
     - [[I am a strange loop]]
         - scales for consciousness/soul
