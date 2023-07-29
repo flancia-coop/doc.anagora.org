@@ -25,6 +25,8 @@
             - estimating the number of categories that can be perceived/thought about
             - [[huneker scale]]
             - [[low resource text classification]] https://links.bouncepaw.com/448 ~ [[448]] -> https://aclanthology.org/2023.findings-acl.426 -> https://kenschutte.com/gzip-knn-paper/
+                - [[marcus hutter]]
+                - [[pareto efficiency]]
         - "souls: a little needed feature"
 - no [[soul]] in the Agora
     - ...or is there? :)
