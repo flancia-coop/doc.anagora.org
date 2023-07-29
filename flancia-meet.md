@@ -4,8 +4,9 @@
 
 # [[flancia meet 2023-07-29]]
 - Haircuts
+    - both used to have long hair at some point
 - [[bouncepaw]]
-    - comic can be turned in anytime, polishing
+    - comic can be turned in as is, but polishing for a better result
 
 # [[flancia meet 2023-07-15]]
 - On exploring unknown parts of a town :)
@@ -14,7 +15,7 @@
 - [[bouncepaw]] 
     - Finishing a comic this July 
     - Focusing in [[cyberrachael]]
-- [[Ufa]] is in [[Baskkortostan]]
+- [[Ufa]] is in [[Bashkortostan]]
     - > Bashkortostan
     
 # [[flancia meet 2023-07-08]]
