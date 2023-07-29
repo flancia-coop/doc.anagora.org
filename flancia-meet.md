@@ -29,7 +29,8 @@
 - no [[soul]] in the Agora
     - ...or is there? :)
     - backlinks, etc.
-    - 
+- [[agora chapter]] in [[pkg book]] 
+    - have it on kindle but I haven't read it yet! maybe in August
 
 # [[flancia meet 2023-07-15]]
 - On exploring unknown parts of a town :)
