@@ -7,6 +7,9 @@
     - both used to have long hair at some point
 - [[bouncepaw]]
     - comic can be turned in as is, but polishing for a better result
+        - [[the lower tier]]
+        - takes place in a great megastructure city
+            - lower tier, machin
     - https://en.wikipedia.org/wiki/Jew%27s_harp
     - [[I am a strange loop]]
         - scales for consciousness/soul
@@ -14,7 +17,10 @@
             - [[huneker scale]]
             - [[low resource text classification]] https://links.bouncepaw.com/448 ~ [[448]] -> https://aclanthology.org/2023.findings-acl.426 -> https://kenschutte.com/gzip-knn-paper/
         - "souls: a little needed feature"
-- no [[soul]]
+- no [[soul]] in the Agora
+    - ...or is there? :)
+    - backlinks, etc.
+    - 
 
 # [[flancia meet 2023-07-15]]
 - On exploring unknown parts of a town :)
