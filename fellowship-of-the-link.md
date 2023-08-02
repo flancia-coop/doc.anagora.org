@@ -83,7 +83,8 @@ https://boffosocko.com/2023/07/24/vocabulary-notebooks-criminally-insane-asylum-
    - Previous experiences with Go links in the group?
        - Peter Kaminski has some in the shape of interwiki links
        - SisterSites has some similarities with this and interwiki links
-       - How do these 
+       - Could we build these on top of e.g. nostr or ActivityPub
+           - Yes, definitely
  
             
 ## [[2023-07-19]] ?
