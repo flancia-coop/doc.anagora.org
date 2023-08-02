@@ -85,6 +85,7 @@ https://boffosocko.com/2023/07/24/vocabulary-notebooks-criminally-insane-asylum-
        - SisterSites has some similarities with this and interwiki links
        - Could we build these on top of e.g. nostr or ActivityPub
            - Yes, definitely
+   - On link.agor.ai
  
             
 ## [[2023-07-19]] ?
