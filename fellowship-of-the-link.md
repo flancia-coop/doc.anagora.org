@@ -49,6 +49,10 @@ https://boffosocko.com/2023/07/24/vocabulary-notebooks-criminally-insane-asylum-
     - [[threads]]
     - [[bluesky]]
     - [[mastodon]]
+    - but what we 'lost' won't be fully recovered
+    - then again, this is true for every community of the past
+    - [[social text]] and [[seed wiki]] for Jerry
+- Climate change news
             
 ## [[2023-07-19]] ?
 - [[SJ]] waving hello remotely. 
