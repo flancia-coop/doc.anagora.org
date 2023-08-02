@@ -56,6 +56,9 @@ https://boffosocko.com/2023/07/24/vocabulary-notebooks-criminally-insane-asylum-
     - what does it take to convince people at large this is real; convince them that donald trump is a felon; etc.
     - side question: how many people do we want to convince and why?
     - on governance in the future 
+- How to convince people? 
+    - https://twitter.com/TheGreenLineTO
+    - 
             
 ## [[2023-07-19]] ?
 - [[SJ]] waving hello remotely. 
