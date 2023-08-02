@@ -43,8 +43,12 @@ https://boffosocko.com/2023/07/24/vocabulary-notebooks-criminally-insane-asylum-
     - Compare [[Go links]] with the old [InterWiki](http://meatballwiki.org/wiki/InterWiki) work
 - #JK on the conference to reduce fragmentation in the open source community/communities
     - https://events.linuxfoundation.org/open-source-congress/
-- On the [[indictment of donald trump]]:w
-- 
+- On the [[indictment of donald trump]]
+- On alternatives to [[twitter]/[[x]]: [[third spaces]]
+    - [[nostr]]
+    - [[threads]]
+    - [[bluesky]]
+    - [[mastodon]]
             
 ## [[2023-07-19]] ?
 - [[SJ]] waving hello remotely. 
