@@ -32,6 +32,13 @@
 - Jerry's experiences in Geneva.
     - Museum under the cathedral.
     - Art from [[children who have survived genocides]].
+- #CA
+    - Speaking of fortresses and intellectual history, I did find a 10 million slip zettelkasten in the Bavarian Royal Family's old palace: 
+https://boffosocko.com/2023/07/24/vocabulary-notebooks-criminally-insane-asylum-patients-zettelkasten-the-thesaurus-linguae-latinae-and-digital-dictionaries/
+    - [[Thesaurus Linguae Latinae]]
+- #PK
+    - "L'Escalade - Wikipedia"
+https://en.wikipedia.org/wiki/L%27Escalade
 - Hello to [[SJ]] remotely!
             
 ## [[2023-07-19]] ?
