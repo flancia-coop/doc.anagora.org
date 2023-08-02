@@ -39,6 +39,9 @@ https://boffosocko.com/2023/07/24/vocabulary-notebooks-criminally-insane-asylum-
 - #PK
     - "L'Escalade - Wikipedia" https://en.wikipedia.org/wiki/L%27Escalade
 - Hello to [[SJ]] remotely!
+    - Discussed his updates, thank you Samuel!
+    - Compare [[Go links]] with the old [InterWiki] work
+- #JK on the conference to reduce fragmentation in the open source community/communities
             
 ## [[2023-07-19]] ?
 - [[SJ]] waving hello remotely. 
