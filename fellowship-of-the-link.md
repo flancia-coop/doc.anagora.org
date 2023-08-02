@@ -37,8 +37,7 @@
 https://boffosocko.com/2023/07/24/vocabulary-notebooks-criminally-insane-asylum-patients-zettelkasten-the-thesaurus-linguae-latinae-and-digital-dictionaries/
     - [[Thesaurus Linguae Latinae]]
 - #PK
-    - "L'Escalade - Wikipedia"
-https://en.wikipedia.org/wiki/L%27Escalade
+    - "L'Escalade - Wikipedia" https://en.wikipedia.org/wiki/L%27Escalade
 - Hello to [[SJ]] remotely!
             
 ## [[2023-07-19]] ?
