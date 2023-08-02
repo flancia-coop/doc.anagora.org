@@ -86,7 +86,7 @@ https://boffosocko.com/2023/07/24/vocabulary-notebooks-criminally-insane-asylum-
        - Could we build these on top of e.g. nostr or ActivityPub
            - Yes, definitely
    - On link.agor.ai and how it provides go links already if you want to try :)
-       - 
+       - Trying out adding my own system - https://github.com/flancian/link.agor.ai/pull/1/files
  
             
 ## [[2023-07-19]] ?
