@@ -73,7 +73,11 @@ https://boffosocko.com/2023/07/24/vocabulary-notebooks-criminally-insane-asylum-
     - Resolution of websites more broadly? 
     - Customizing your cascade of Go providers as a method of search? 
         - [[flancian]] +100
-    - Could be useful for resolving non traditional URLs like Hyper, 
+    - Could be useful for resolving non traditional URLs like Hyper, Gemini, Onion, etc... 
+    - [[Aram Zucker-Scharff]] MVP Idea: 
+        - List your Go Link resolvers 
+        - They provide /go/x mapping 
+        - Browser extention pulls autocomplete from a sitemap of the /go/x providers 
  
             
 ## [[2023-07-19]] ?
