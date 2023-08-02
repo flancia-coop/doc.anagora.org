@@ -56,9 +56,22 @@ https://boffosocko.com/2023/07/24/vocabulary-notebooks-criminally-insane-asylum-
     - what does it take to convince people at large this is real; convince them that donald trump is a felon; etc.
     - side question: how many people do we want to convince and why?
     - on governance in the future 
-- How to convince people? 
+- How to convince people? What works for mass persuasion?
+    - Why Doesn’t Politics Focus on Deep Relationships? https://bra.in/7vArza
+    - Misinformation Context - https://context.center/topics/misinformation/
     - https://twitter.com/TheGreenLineTO
-    - 
+    - https://www.youtube.com/watch?v=GEPZQ13kh7U
+    - Why Doesn’t Politics Focus on Deep Relationships? https://bra.in/7vArza
+    - Jerry Michalski says:the NYT articles on Portland: 
+Jerry Michalski says:
+https://www.nytimes.com/2023/07/29/us/portland-oregon-fentanyl-homeless.html
+ 
+Jerry Michalski says:and 
+https://www.nytimes.com/2023/07/31/health/portland-oregon-drugs.html
+ 
+    
+ 
+ 
             
 ## [[2023-07-19]] ?
 - [[SJ]] waving hello remotely. 
