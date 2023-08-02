@@ -68,6 +68,10 @@ https://boffosocko.com/2023/07/24/vocabulary-notebooks-criminally-insane-asylum-
 - [[Go links]]!
     - #SJ there is a version of these in [[xanadu]] and in [[early wikis]]
     - for some reason we stopped thinking of browsers as a place to do additional/indirection/substitution work
+    - Gather examples somewhere to talk of what we can do with them and how they work? 
+    - As a means of search 
+    - Resolution of websites more broadly? 
+    - Customizing your cascade of domains/
  
             
 ## [[2023-07-19]] ?
