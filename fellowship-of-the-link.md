@@ -53,6 +53,8 @@ https://boffosocko.com/2023/07/24/vocabulary-notebooks-criminally-insane-asylum-
     - then again, this is true for every community of the past
     - [[social text]] and [[seed wiki]] for Jerry
 - Climate change news
+    - what does it take to convince people at large this is real; convince them that donald trump is a felon; etc.
+    - side question: how many people do we want to convince and why?
             
 ## [[2023-07-19]] ?
 - [[SJ]] waving hello remotely. 
