@@ -79,7 +79,11 @@ https://boffosocko.com/2023/07/24/vocabulary-notebooks-criminally-insane-asylum-
         - They provide /go/x mapping 
         - Browser extention pulls autocomplete from a sitemap of the /go/x providers and lets you store local /go/x links. 
         - Does this exist? 
-        - Could expand to archiving the links as well and then the /go/x provider 
+        - Could expand to archiving the links as well and then the /go/x provider checks if the links are live and decides to route you to the live or archived link.
+   - Previous experiences with Go links in the group?
+       - Peter Kaminski has some in the shape of interwiki links
+       - SisterSites has some similarities with this and interwiki links
+       - How do these 
  
             
 ## [[2023-07-19]] ?
