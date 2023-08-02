@@ -26,8 +26,12 @@
             - [[github]] by default?
             
 ## [[2023-08-02]]
-- Attending: [[Jerry Michalski]], [[Peter Kaminski]]
+- Attending: [[Jerry Michalski]], [[Peter Kaminski]], [[Chris Aldrich]], [[Flancian]]
 - GPT4 + integrated code interpreter
+- (Missed Chris's update due to a call)
+- Jerry's experiences in Geneva.
+    - Museum under the cathedral.
+    - Art from [[children who have survived genocides]].
 - Hello to [[SJ]] remotely!
             
 ## [[2023-07-19]] ?
