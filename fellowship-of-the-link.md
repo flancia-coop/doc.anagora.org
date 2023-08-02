@@ -71,7 +71,9 @@ https://boffosocko.com/2023/07/24/vocabulary-notebooks-criminally-insane-asylum-
     - Gather examples somewhere to talk of what we can do with them and how they work? 
     - As a means of search 
     - Resolution of websites more broadly? 
-    - Customizing your cascade of domains/
+    - Customizing your cascade of Go providers as a method of search? 
+        - [[flancian]] +100
+    - Could be useful for resolving non traditional URLs like Hyper, 
  
             
 ## [[2023-07-19]] ?
