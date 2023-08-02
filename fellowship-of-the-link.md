@@ -66,7 +66,8 @@ https://boffosocko.com/2023/07/24/vocabulary-notebooks-criminally-insane-asylum-
     - [[Chris Aldrich]] on the idea of critical thinking as layered on top of christianity, which caused the earlier to go into a very specific direction
         - Q: do democracies require critical thinkers?
 - [[Go links]]!
-    - there is a version of these in [[xanadu]] and in [[early wikis]]
+    - #SJ there is a version of these in [[xanadu]] and in [[early wikis]]
+    - for some reason we stopped thinking of browsers as a place to do additional/indirection/substitution work
  
             
 ## [[2023-07-19]] ?
