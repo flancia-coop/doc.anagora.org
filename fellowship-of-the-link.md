@@ -65,6 +65,8 @@ https://boffosocko.com/2023/07/24/vocabulary-notebooks-criminally-insane-asylum-
     - Jerry Michalski says:the NYT articles on Portland:  https://www.nytimes.com/2023/07/29/us/portland-oregon-fentanyl-homeless.html  https://www.nytimes.com/2023/07/31/health/portland-oregon-drugs.html
     - [[Chris Aldrich]] on the idea of critical thinking as layered on top of christianity, which caused the earlier to go into a very specific direction
         - Q: do democracies require critical thinkers?
+- [[Go links]]!
+    - there is a version of these in [[xanadu]] and in [[early wikis]]
  
             
 ## [[2023-07-19]] ?
