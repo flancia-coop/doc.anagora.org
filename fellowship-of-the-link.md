@@ -25,6 +25,9 @@
         - [[issue tracker]] / [[project tracker]] URL
             - [[github]] by default?
             
+## [[2023-08-02]]
+- Hello to [[SJ]] remotely!
+            
 ## [[2023-07-19]] ?
 - [[SJ]] waving hello remotely. 
     - Added a thread to follow up on, above.  As part of that: I'd like to have a clear standard for hub/cascade-based resolution that can be referenced at https://meta.wikimedia.org/wiki/Go_links (perhaps w/ cross-references to how DNS and package-resolution and other routing specs do this)
