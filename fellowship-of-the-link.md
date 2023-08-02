@@ -26,6 +26,8 @@
             - [[github]] by default?
             
 ## [[2023-08-02]]
+- Attending: [[Jerry Michalski]], [[Peter Kaminski]]
+- GPT4 + integrated code interpreter
 - Hello to [[SJ]] remotely!
             
 ## [[2023-07-19]] ?
