@@ -62,15 +62,9 @@ https://boffosocko.com/2023/07/24/vocabulary-notebooks-criminally-insane-asylum-
     - https://twitter.com/TheGreenLineTO
     - https://www.youtube.com/watch?v=GEPZQ13kh7U
     - Why Doesn’t Politics Focus on Deep Relationships? https://bra.in/7vArza
-    - Jerry Michalski says:the NYT articles on Portland: 
-Jerry Michalski says:
-https://www.nytimes.com/2023/07/29/us/portland-oregon-fentanyl-homeless.html
- 
-Jerry Michalski says:and 
-https://www.nytimes.com/2023/07/31/health/portland-oregon-drugs.html
- 
-    
- 
+    - Jerry Michalski says:the NYT articles on Portland:  https://www.nytimes.com/2023/07/29/us/portland-oregon-fentanyl-homeless.html  https://www.nytimes.com/2023/07/31/health/portland-oregon-drugs.html
+    - [[Chris Aldrich]] on the idea of critical thinking as layered on top of christianity, which caused the earlier to go into a very specific direction
+        - Q: do democracies require critical thinkers?
  
             
 ## [[2023-07-19]] ?
