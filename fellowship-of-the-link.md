@@ -75,9 +75,11 @@ https://boffosocko.com/2023/07/24/vocabulary-notebooks-criminally-insane-asylum-
         - [[flancian]] +100
     - Could be useful for resolving non traditional URLs like Hyper, Gemini, Onion, etc... 
     - [[Aram Zucker-Scharff]] MVP Idea: 
-        - List your Go Link resolvers 
+        - List your Go Link resolvers with any URL your browser can resolve
         - They provide /go/x mapping 
-        - Browser extention pulls autocomplete from a sitemap of the /go/x providers 
+        - Browser extention pulls autocomplete from a sitemap of the /go/x providers and lets you store local /go/x links. 
+        - Does this exist? 
+        - Could expand to archiving the links as well and then the /go/x provider 
  
             
 ## [[2023-07-19]] ?
