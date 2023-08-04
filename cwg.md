@@ -6,18 +6,16 @@
     - Moderation issues
     - Registration issues
 - Rotation of ops team activities
-Tasks:
-Communications coordinator (currently Emi)
-note taking
-record keeping
-updating loomio
-publishing minutes
-updating calendars
-Team coordinator (currently Matt)
-coordinating meeting 
-setting agenda
-facilitating
-start with rotating coordinators within the current ops team on a monthly basis
-Action: post on the instance soliciting new members? (Emi)
-document all these things -- where?
-https://wiki.social.coop/wiki/Community_Working_Group_Ops_Team is the place
+    - Communications coordinator (currently Emi)
+        - note taking
+        - record keeping
+        - updating loomio
+        - publishing minutes
+        - updating calendars
+    - Team coordinator (currently Matt)
+        - coordinating meeting 
+        - setting agenda
+        - facilitating
+        - start with rotating coordinators within the current ops team on a monthly basis
+    - Where to document this?
+        - https://wiki.social.coop/wiki/Community_Working_Group_Ops_Team is the place, probably
