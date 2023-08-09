@@ -31,6 +31,9 @@
     - https://www.washingtonpost.com/weather/2023/08/02/southamerica-record-winter-heat-argentina-chile/ 
     - [[global citizenship]]
         - prepare now to give climate refugees: an identity, a nationality, internet connection, internet services
+        - what does citizenship mean now and in the future?
+        - snow crash vs star trek
+        - cory doctorow's [[walkaway]]
 
 ## [[2023-08-02]]
 - Attending: [[Jerry Michalski]], [[Peter Kaminski]], [[Chris Aldrich]], [[Flancian]]
