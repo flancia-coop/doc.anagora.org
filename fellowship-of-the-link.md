@@ -50,7 +50,31 @@
 - how do we take the outputs of all the calls we're in and do more with them?
     - [[peter kaminski]] working on some automation for downloading e.g. zoom call logs
     - Vincent (who?) is working in this space as well
+    - [[dogsheep]] and tools to help users get out of [[walled gardens]]
+- [[peter kaminski]] some links to share and a question :)
+- Stowe Boyd: 
+https://medium.com/workings/more-on-tufte-style-sidenotes-db61d3d8dce0
 
+---
+
+Ink and Switch: [Upwelling: Combining real-time collaboration with version control for writers.](
+https://www.inkandswitch.com/upwelling/
+)
+
+> By combining elements of **real-time collaboration** with **ideas from version control systems,** Upwelling supports writers in maintaining their creative privacy and editors in ensuring accurate results.
+
+---
+
+[Democratic databases: science on GitHub | Nature](
+https://www.nature.com/articles/538127a
+)
+
+---
+
+https://cloudisland.nz/@dinosaur/110851324071181980
+
+
+> I have had the uncomfortable impression that the space of decentralized projects is constantly reinventing Git-like concepts under different names. So I am personally going to explore how much we can directly leverage Git rather than reinventing eventually-consistent databases and reconciliation protocols. 
 
 ## [[2023-08-02]]
 - Attending: [[Jerry Michalski]], [[Peter Kaminski]], [[Chris Aldrich]], [[Flancian]]
