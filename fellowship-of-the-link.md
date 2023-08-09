@@ -41,6 +41,11 @@
                 - [[The End of Average]]: How We Succeed in a World That Values Sameness (2016) 
                 - on (jet) fighter seats
                 - on the old belief that people used to live very little
+        - on cancers :(
+            - When did people start understanding what cancer was?
+                - https://chat.openai.com/share/3d3e3f93-9449-420a-914f-bc27c4912a49
+                    > In the late 1850's, "Virchow was the first to correctly link the origin of cancers from otherwise normal cells, believing that cancer is caused by severe irritation in the tissues (the ‘chronic irritation theory’). Not all of his work was correct, however. He also proposed that cancer spreads around the body by the spread of the irritation in liquid form."
+                - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5665122/)
 - [[flancian]] progress on https://link.agor.ai -- ready for your perusal and/or joining :)
 - how do we take the outputs of all the calls we're in and do more with them?
     - [[peter kaminski]] working on some automation for downloading e.g. zoom call logs
