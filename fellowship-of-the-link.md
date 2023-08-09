@@ -35,9 +35,13 @@
         - snow crash vs star trek
         - cory doctorow's [[walkaway]]
             - also [[catalog of missing devices]]
+        - on modelling solutions to big problems
         - https://blogs.worldbank.org/dev4peace/how-many-years-do-refugees-stay-exile
             - on averages
-            - 
+                - [[The End of Average]]: How We Succeed in a World That Values Sameness (2016) 
+                - on (jet) fighter seats
+
+
 ## [[2023-08-02]]
 - Attending: [[Jerry Michalski]], [[Peter Kaminski]], [[Chris Aldrich]], [[Flancian]]
 - GPT4 + integrated code interpreter
