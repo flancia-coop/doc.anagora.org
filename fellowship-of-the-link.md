@@ -52,7 +52,7 @@
     - Vincent (who?) is working in this space as well
     - [[dogsheep]] and tools to help users get out of [[walled gardens]]
 - [[peter kaminski]] some links to share and a question :)
-- Stowe Boyd: 
+- Stowe Boyd has gotten deep into [[Obsidian]]: 
 https://medium.com/workings/more-on-tufte-style-sidenotes-db61d3d8dce0
 
 ---
@@ -73,8 +73,11 @@ https://www.nature.com/articles/538127a
 
 https://cloudisland.nz/@dinosaur/110851324071181980
 
-
 > I have had the uncomfortable impression that the space of decentralized projects is constantly reinventing Git-like concepts under different names. So I am personally going to explore how much we can directly leverage Git rather than reinventing eventually-consistent databases and reconciliation protocols. 
+
+- question
+    - git is amazing and we love it, it is awesome, etc. -- we love it.
+    - however it's an obstacle for massivewiki 
 
 ## [[2023-08-02]]
 - Attending: [[Jerry Michalski]], [[Peter Kaminski]], [[Chris Aldrich]], [[Flancian]]
