@@ -41,7 +41,10 @@
                 - [[The End of Average]]: How We Succeed in a World That Values Sameness (2016) 
                 - on (jet) fighter seats
                 - on the old belief that people used to live very little
-- connections with [[]]
+- [[flancian]] progress on https://link.agor.ai -- ready for your perusal and/or joining :)
+- how do we take the outputs of all the calls we're in and do more with them?
+    - [[peter kaminski]] working on some automation for downloading e.g. zoom call logs
+    - Vincent (who?) is working in this space as well
 
 
 ## [[2023-08-02]]
