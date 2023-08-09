@@ -41,7 +41,7 @@
                 - [[The End of Average]]: How We Succeed in a World That Values Sameness (2016) 
                 - on (jet) fighter seats
                 - on the old belief that people used to live very little
-- 
+- connections with [[]]
 
 
 ## [[2023-08-02]]
