@@ -80,6 +80,8 @@ https://cloudisland.nz/@dinosaur/110851324071181980
     - however it's an obstacle for massivewiki -- great for 85% of cases but breaking the remainder of 15%
     - a recent obsidian experiment was accumulating frustrations -- until we switched to obsidian sync and all woes went away
     - note [[massive wiki builder]] is now [[massive wiki publisher]]
+    - what is your experience with [[git]]?
+        - [[]]
 
 ## [[2023-08-02]]
 - Attending: [[Jerry Michalski]], [[Peter Kaminski]], [[Chris Aldrich]], [[Flancian]]
