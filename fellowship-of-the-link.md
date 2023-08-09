@@ -35,8 +35,9 @@
         - snow crash vs star trek
         - cory doctorow's [[walkaway]]
             - also [[catalog of missing devices]]
-        - 
-
+        - https://blogs.worldbank.org/dev4peace/how-many-years-do-refugees-stay-exile
+            - on averages
+            - 
 ## [[2023-08-02]]
 - Attending: [[Jerry Michalski]], [[Peter Kaminski]], [[Chris Aldrich]], [[Flancian]]
 - GPT4 + integrated code interpreter
