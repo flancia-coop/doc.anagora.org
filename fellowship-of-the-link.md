@@ -86,7 +86,7 @@ https://cloudisland.nz/@dinosaur/110851324071181980
         - maybe we don't need all the fancy stuff of git?
         - [[syncthing]] is not good enough -- our use case is same files + version log of them
     - is it crazy to ditch git and try to roll our own service for syncing?
-        - [[flancian]] default answer: yes :) we should try to better package/complement git
+        - [[flancian]] default answer: yes :) we should try to better package/complement git first
 
 ## [[2023-08-02]]
 - Attending: [[Jerry Michalski]], [[Peter Kaminski]], [[Chris Aldrich]], [[Flancian]]
