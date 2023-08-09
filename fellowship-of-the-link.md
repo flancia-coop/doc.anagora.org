@@ -26,7 +26,7 @@
             - [[github]] by default?
             
 ## [[2023-08-09]]
-- Attending: [[Jerry Michalski]], [[Flancian]]
+- Attending: [[Jerry Michalski]], [[Flancian]], [[Peter Kaminski]], [[Michael Grossman]]
 - [[climate change]]
     - https://www.washingtonpost.com/weather/2023/08/02/southamerica-record-winter-heat-argentina-chile/ 
     - [[global citizenship]]
@@ -34,6 +34,8 @@
         - what does citizenship mean now and in the future?
         - snow crash vs star trek
         - cory doctorow's [[walkaway]]
+            - also [[catalog of missing devices]]
+        - 
 
 ## [[2023-08-02]]
 - Attending: [[Jerry Michalski]], [[Peter Kaminski]], [[Chris Aldrich]], [[Flancian]]
