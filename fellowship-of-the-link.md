@@ -90,7 +90,7 @@ https://cloudisland.nz/@dinosaur/110851324071181980
         - this could also do auto-merge of wiki-like "conflicts"
 - [[michael grossman]] paradigms for information gathering and dealing with the notion that we live in [[push world]]
     - moderation and filtering are our best efforts now
-    - but what we really want is a [[pull world]] -- where we make available what we want to share
+    - but what we really want is a [[pull world]] -- where we make available what we want to share, and we choose what we want in our timelines (opt-in)
 
 ## [[2023-08-02]]
 - Attending: [[Jerry Michalski]], [[Peter Kaminski]], [[Chris Aldrich]], [[Flancian]]
