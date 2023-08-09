@@ -87,7 +87,10 @@ https://cloudisland.nz/@dinosaur/110851324071181980
         - [[syncthing]] is not good enough -- our use case is same files + version log of them
     - is it crazy to ditch git and try to roll our own service for syncing?
         - [[flancian]] default answer: yes :) we should try to better package/complement git first
-        - 
+        - this could also do auto-merge of wiki-like "conflicts"
+- [[michael grossman]] paradigms for information gathering and dealing with the notion that we live in [[push world]]
+    - moderation and filtering are our best efforts now
+    - but what we really want is a [[pull world]] -- where we make available what we want to share
 
 ## [[2023-08-02]]
 - Attending: [[Jerry Michalski]], [[Peter Kaminski]], [[Chris Aldrich]], [[Flancian]]
