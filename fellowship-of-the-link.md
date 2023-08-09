@@ -26,7 +26,11 @@
             - [[github]] by default?
             
 ## [[2023-08-09]]
-- Attending: [[Jerry Michalski]], [[Peter Kaminski]], [[Chris Aldrich]], [[Flancian]]
+- Attending: [[Jerry Michalski]], [[Flancian]]
+- [[climate change]]
+    - https://www.washingtonpost.com/weather/2023/08/02/southamerica-record-winter-heat-argentina-chile/ 
+    - [[global citizenship]]
+        - prepare now to give climate refugees: an identity, a nationality, internet connection, internet services
 
 ## [[2023-08-02]]
 - Attending: [[Jerry Michalski]], [[Peter Kaminski]], [[Chris Aldrich]], [[Flancian]]
