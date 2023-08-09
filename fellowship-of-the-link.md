@@ -84,7 +84,7 @@ https://cloudisland.nz/@dinosaur/110851324071181980
         - [[jerry michalski]]: too arcane to use.
     - question :)
         - maybe we don't need all the fancy stuff of git?
-        - [[syncthing]] is not good enough -- our use case is 
+        - [[syncthing]] is not good enough -- our use case is same files + version log of them
 
 ## [[2023-08-02]]
 - Attending: [[Jerry Michalski]], [[Peter Kaminski]], [[Chris Aldrich]], [[Flancian]]
