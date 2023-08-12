@@ -12,6 +12,7 @@
     - https://excalidraw.com/#room=3ff78d03b83cabe946dd,I0ETyCy4uNqW8gXp9O8Q_A
     - [[announce]] activities in ActivityPub mean [[boosts]]
         - Takes a pointer to a different activity or URL
+    - [[undo/announce]] would be published when a boost is undone
 
 # [[flancia meet 2023-07-29]]
 - Haircuts
