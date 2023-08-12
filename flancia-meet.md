@@ -13,7 +13,11 @@
     - [[announce]] activities in ActivityPub mean [[boosts]]
         - Takes a pointer to a different activity or URL
     - [[undo/announce]] would be published when a boost is undone
-- [[azoreus]]
+- on [[lemmy]]
+    - what do they use? note or article? https://github.com/LemmyNet/lemmy/blob/main/migrations/2019-03-03-163336_create_post/up.sql
+    - https://github.com/LemmyNet/lemmy/blob/main/crates/apub/src/activity_lists.rs
+    - [[kbin]]
+    - [[azoreus]] (sp?)
 
 # [[flancia meet 2023-07-29]]
 - Haircuts
