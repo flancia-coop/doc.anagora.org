@@ -2,6 +2,9 @@
 - We meet best-effort every Saturday. UTC?
 - This is where we have community maintained notes :)
 
+# [[flancia meet 2023-08-12]]
+- 
+
 # [[flancia meet 2023-07-29]]
 - Haircuts
     - both used to have long hair at some point
