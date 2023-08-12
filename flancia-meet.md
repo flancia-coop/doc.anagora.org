@@ -13,6 +13,8 @@
     - [[announce]] activities in ActivityPub mean [[boosts]]
         - Takes a pointer to a different activity or URL
     - [[undo/announce]] would be published when a boost is undone
+    - [[note]] or [[article]]? the eternal question which likely doesn't matter
+    - [[follow]] for subscriptions
 - on [[lemmy]]
     - what do they use? note or article? https://github.com/LemmyNet/lemmy/blob/main/migrations/2019-03-03-163336_create_post/up.sql
     - https://github.com/LemmyNet/lemmy/blob/main/crates/apub/src/activity_lists.rs
