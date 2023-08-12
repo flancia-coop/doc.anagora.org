@@ -8,6 +8,7 @@
     - [[Insomnia]]
         - Comes and goes
         - Six hours today
+- [[ActivityPub]]
     - https://excalidraw.com/#room=3ff78d03b83cabe946dd,I0ETyCy4uNqW8gXp9O8Q_A
 
 # [[flancia meet 2023-07-29]]
