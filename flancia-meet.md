@@ -24,7 +24,8 @@
 - [[federation.md]] file
     - we will totally have one of these in [[betula]] and [[agora]]
 - [[j0lms]]'s [[emacs distribution]]
-    - [[voidmacs]]
+    - [[voidmacs]]!
+    - there's also a [[void linux]]
 
 # [[flancia meet 2023-07-29]]
 - Haircuts
