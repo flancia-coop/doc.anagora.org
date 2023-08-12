@@ -3,7 +3,12 @@
 - This is where we have community maintained notes :)
 
 # [[flancia meet 2023-08-12]]
-- 
+- Health
+    - Dentist issues
+    - [[Insomnia]]
+        - Comes and goes
+        - Six hours today
+    - https://excalidraw.com/#room=3ff78d03b83cabe946dd,I0ETyCy4uNqW8gXp9O8Q_A
 
 # [[flancia meet 2023-07-29]]
 - Haircuts
