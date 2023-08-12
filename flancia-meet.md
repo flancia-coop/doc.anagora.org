@@ -18,6 +18,8 @@
     - https://github.com/LemmyNet/lemmy/blob/main/crates/apub/src/activity_lists.rs
     - [[kbin]]
     - [[azoreus]] (sp?)
+- [[federation.md]] file
+    - we will totally have one of these in [[betula]] and [[agora]]
 
 # [[flancia meet 2023-07-29]]
 - Haircuts
