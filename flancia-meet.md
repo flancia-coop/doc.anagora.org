@@ -26,6 +26,7 @@
 - [[j0lms]]'s [[emacs distribution]]
     - [[voidmacs]]!
     - there's also a [[void linux]]
+    
 
 # [[flancia meet 2023-07-29]]
 - Haircuts
