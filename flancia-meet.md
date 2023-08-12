@@ -23,6 +23,8 @@
     - [[azoreus]] (sp?)
 - [[federation.md]] file
     - we will totally have one of these in [[betula]] and [[agora]]
+- [[j0lms]]'s [[emacs distribution]]
+    - [[voidmacs]]
 
 # [[flancia meet 2023-07-29]]
 - Haircuts
