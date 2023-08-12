@@ -9,7 +9,8 @@
         - Comes and goes
         - Six hours today
 - [[ActivityPub]]
-    - https://excalidraw.com/#room=3ff78d03b83cabe946dd,I0ETyCy4uNqW8gXp9O8Q_A
+    - [[betula]] https://excalidraw.com/#room=3ff78d03b83cabe946dd,I0ETyCy4uNqW8gXp9O8Q_A
+    - [[agora]] https://excalidraw.com/#room=f01087723da957c54b37,lasfWvbHt2SGVw5uoB7niQ
     - [[announce]] activities in ActivityPub mean [[boosts]]
         - Takes a pointer to a different activity or URL
     - [[undo/announce]] would be published when a boost is undone
