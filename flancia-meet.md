@@ -13,6 +13,7 @@
     - [[announce]] activities in ActivityPub mean [[boosts]]
         - Takes a pointer to a different activity or URL
     - [[undo/announce]] would be published when a boost is undone
+- [[azoreus]]
 
 # [[flancia meet 2023-07-29]]
 - Haircuts
