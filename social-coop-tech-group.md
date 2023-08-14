@@ -29,6 +29,11 @@ Here: [[Flancian]]
     - first finding: abra app backup auth.social.coop worked as expected I think -- it left me with a (quite small) auth_social_coop_db tarfile in ~/.abra/backups. this is nice :)
     - second finding: abra app backup wiki.social.coop says 'no backup configs discovered for wiki.social.coop' -- maybe the recipe doesn't support this yet?
     - same for bonfire.social.coop.
+    - oh, but https://git.coopcloud.tech/coop-cloud/mediawiki/commit/3018af938260691337bdf34da5a42d41e330894a makes me think upgrading the wiki recipe should be enough to get us backups though
+    - trying updating wiki-alpha first with: abra app deploy -C wiki-alpha.social.coop (after git pull in ~/.abra/recipes/mediawiki)
+    - success -- after this update, abra app backup wiki-alpha.social.coop worked :)
+    - updating wiki.social.coop with: abra app deploy -C wiki.social.coop
+    - now `abra app backup` works for wiki.social.coop \o/
 - Notes to future selves
     - Issues raised from CWG
         - TWG could take a look at the governance update proposal https://www.loomio.com/p/OI8kEjVz/social-coop-organizing-circle-proposal
