@@ -23,11 +23,12 @@ Here: ...
 Here: [[Flancian]]
 
 - Check ins
-    - Just chillin' :)
-- abra backups
+    - Just chillin' in https://meet.mayfirst.org/social-coop-tech :)
+- [[abra backups]]
     - Started experimenting with `abra app backup`.
     - first finding: abra app backup auth.social.coop worked as expected I think -- it left me with a (quite small) auth_social_coop_db tarfile in ~/.abra/backups. this is nice :)
     - second finding: abra app backup wiki.social.coop says 'no backup configs discovered for wiki.social.coop' -- maybe the recipe doesn't support this yet?
+    - same for bonfire.social.coop.
 - Notes to future selves
     - Issues raised from CWG
         - TWG could take a look at the governance update proposal https://www.loomio.com/p/OI8kEjVz/social-coop-organizing-circle-proposal
