@@ -18,6 +18,31 @@ Here: ...
     - Wiki next steps
        - We need to set up and test backup/restores
        
+## [[2023-08-14]]
+
+Here: [[Flancian]]
+
+- Check ins
+    - Just chillin' :)
+- abra backups
+    - Started experimenting with `abra app backup`.
+    - first finding: abra app backup auth.social.coop worked as expected I think -- it left me with a (quite small) auth_social_coop_db tarfile in ~/.abra/backups. this is nice :)
+    - second finding: abra app backup wiki.social.coop says 'no backup configs discovered for wiki.social.coop' -- maybe the recipe doesn't support this yet?
+- Notes to future selves
+    - Issues raised from CWG
+        - TWG could take a look at the governance update proposal https://www.loomio.com/p/OI8kEjVz/social-coop-organizing-circle-proposal
+        - NextCloud calendar doesn't seem to really notify by email -- could we raise to Mayfirst?
+            - Some reports of NextCloud jankiness in general, sometimes it just sping (tm) -- maybe we can work with Mayfirst to improve this?
+            - meet.mayfirst.org seems lower quality than other jitsi instances maybe?
+                - ping from CH to galeano.mayfirst.org is only 83ms
+                - might be a 360p default
+        - Some email issues, but not many?
+            - 5.7.23 <jag@mail.mayfirst.org>: Recipient address rejected: Message rejected due to: SPF fail - not authorized.
+        - There is some desire to have a bot that automatically boosts in-instance #introduction posts
+    - Wiki next steps
+       - We need to set up and test backup/restores
+ 
+       
 ## [[2023-07-17]]
 
 Here: [[Akshay]] [[Flancian]] [[Calix]]
