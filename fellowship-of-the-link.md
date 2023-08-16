@@ -78,6 +78,8 @@
 - [[Jerry Michalski]] on [[five minute universities]]
     - lightning classes: 5 minutes for presenting, 5 minutes for questions, follow up conversation happens later
     - video on [[the great transformation]]
+    - Jerry Michalski says: https://bra.in/2qa2BE
+ 
 
 ## [[2023-08-09]]
 - Attending: [[Jerry Michalski]], [[Flancian]], [[Peter Kaminski]], [[Michael Grossman]]
