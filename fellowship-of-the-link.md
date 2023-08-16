@@ -71,7 +71,9 @@
         - promoting thinking about relative expertise of individuals
 - [[Jerry Michalski]]
     - on [[yelling louder]] "forcing the stack"
-    - [[darvo]]
+    - on [[darvo]]
+        - [[Aram Zucker-Scharff]]
+            - ah, this is just fascist politicking as defined in stuff like  https://theanarchistlibrary.org/library/umberto-eco-ur-fascism
 
 ## [[2023-08-09]]
 - Attending: [[Jerry Michalski]], [[Flancian]], [[Peter Kaminski]], [[Michael Grossman]]
