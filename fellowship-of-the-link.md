@@ -52,6 +52,10 @@
         - other tools in the [[debate]] space
     - [[Flancian]] on agreeing on definitions and more generally on procedures to resolve definitions
         - Maybe on defining a [[default commons]] as an advantage for a group that tries this
+    - [[Aram Zucker-Scharff]]
+        - The libertarian concept of finding an answer is what we get by default nowadays: different websites compete to provide the "best answer"
+        - But there is more than one answer to each problem based on context/expected use
+        - [[V]] on contextual ranking in the Agora: ranking results based on relevance for your social context
 
 ## [[2023-08-09]]
 - Attending: [[Jerry Michalski]], [[Flancian]], [[Peter Kaminski]], [[Michael Grossman]]
