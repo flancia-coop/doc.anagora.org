@@ -69,6 +69,9 @@
         - promoting higher dimensionality thinking
         - promoting thinking about interesting problems in categories
         - promoting thinking about relative expertise of individuals
+- [[Jerry Michalski]]
+    - on [[yelling louder]] "forcing the stack"
+    - [[darvo]]
 
 ## [[2023-08-09]]
 - Attending: [[Jerry Michalski]], [[Flancian]], [[Peter Kaminski]], [[Michael Grossman]]
