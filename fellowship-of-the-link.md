@@ -36,6 +36,8 @@
         - Thoughts on living on confiscated land
     - [[Jerry Michalski]]
         - On the concept of [[wokeness]] as it's weaponized by the right
+        - Worried about how the concept of [[woke]] is maybe seen as toxic also by some progressives now?
+- On the [[Agora]] as a prototype for simplifederating ideas and definitions
 
 ## [[2023-08-09]]
 - Attending: [[Jerry Michalski]], [[Flancian]], [[Peter Kaminski]], [[Michael Grossman]]
