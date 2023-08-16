@@ -37,7 +37,12 @@
     - [[Jerry Michalski]]
         - On the concept of [[wokeness]] as it's weaponized by the right
         - Worried about how the concept of [[woke]] is maybe seen as toxic also by some progressives now?
-- On the [[Agora]] as a prototype for simplifederating ideas and definitions
+        - On the "anti-reclaiming" of terms
+    - [[Aram Zucker-Scharff]]
+        - On providing sources and timelines relevant to things
+        - As a way to reverse [[context collapse]] and how it relates to the goals of the fellowship
+    - [[Flancian]]
+        - On the [[Agora]] as a prototype for "simply" federating ideas and definitions
 
 ## [[2023-08-09]]
 - Attending: [[Jerry Michalski]], [[Flancian]], [[Peter Kaminski]], [[Michael Grossman]]
