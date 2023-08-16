@@ -31,6 +31,11 @@
     - Welcome [[V]]!
         - [[V]] loves federated systems, has been building those since the 2000s/2010s
             - Neighbours with Jerry!
+    - [[Michael Grossman]]
+        - Doing well
+        - Thoughts on living on confiscated land
+    - [[Jerry Michalski]]
+        - On the concept of [[wokeness]] as it's weaponized by the right
 
 ## [[2023-08-09]]
 - Attending: [[Jerry Michalski]], [[Flancian]], [[Peter Kaminski]], [[Michael Grossman]]
