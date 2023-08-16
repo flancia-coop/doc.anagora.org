@@ -49,7 +49,7 @@
         - The Agora can be seen as a tool to enable [dialectics](https://en.wikipedia.org/wiki/Dialectic#Hegelian_dialectic) (thesis antithesis synthesis) / help communities go through this process
     - [[Jerry Michalski]]
         - [[argumentation theory]] maybe generalizes this
-        - other tools in the [[debate]]
+        - other tools in the [[debate]] space
 
 ## [[2023-08-09]]
 - Attending: [[Jerry Michalski]], [[Flancian]], [[Peter Kaminski]], [[Michael Grossman]]
