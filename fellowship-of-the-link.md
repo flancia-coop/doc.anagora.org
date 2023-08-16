@@ -60,13 +60,15 @@
     - [[Michael Grossman]] 
         - On delegating filtering to friends/communities as it relates to [[liquid democracy]]
         - On [[owning your social graph]]
-    - [[liquid democracy]] :)
-        - https://bra.in/9jYawA
-        - https://anagora.org/liquid-democracy 
-        - [[colorado]] experiment
-        - on its potential side effects:
-            - [[depolarization]]
-            - br
+- on [[liquid democracy]] :)
+    - https://bra.in/9jYawA
+    - https://anagora.org/liquid-democracy 
+    - [[colorado]] experiment
+    - on its potential side effects:
+        - [[depolarization]]
+        - promoting higher dimensionality thinking
+        - promoting thinking about interesting problems in categories
+        - promoting thinking about relative expertise of individuals
 
 ## [[2023-08-09]]
 - Attending: [[Jerry Michalski]], [[Flancian]], [[Peter Kaminski]], [[Michael Grossman]]
