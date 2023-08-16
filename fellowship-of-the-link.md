@@ -56,9 +56,10 @@
         - The libertarian concept of finding an answer is what we get by default nowadays: different websites compete to provide the "best answer"
         - But there is more than one answer to each problem based on context/expected use
         - [[V]] on contextual ranking in the Agora: ranking results based on relevance for your social context
-        - Maybe thinking of [[positive opt-in social filter bubbles]]
+        - Maybe thinking of [[positive opt-in community filter bubbles]]
     - [[Michael Grossman]] 
         - On delegating filtering to friends/communities as it relates to [[liquid democracy]]
+        - On [[owning your social graph]]
 
 ## [[2023-08-09]]
 - Attending: [[Jerry Michalski]], [[Flancian]], [[Peter Kaminski]], [[Michael Grossman]]
