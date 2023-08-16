@@ -43,6 +43,13 @@
         - As a way to reverse [[context collapse]] and how it relates to the goals of the fellowship
     - [[Flancian]]
         - On the [[Agora]] as a prototype for "simply" federating ideas and definitions
+        - And precisely to push back against concept collapse and understand our points of contact and also of divergence
+    - [[V]]
+        - This conversation reminds me of [[dialectics]]
+        - The Agora can be seen as a tool to enable [dialectics](https://en.wikipedia.org/wiki/Dialectic#Hegelian_dialectic) (thesis antithesis synthesis) / help communities go through this process
+    - [[Jerry Michalski]]
+        - [[argumentation theory]] maybe generalizes this
+        - other tools in the [[debate]]
 
 ## [[2023-08-09]]
 - Attending: [[Jerry Michalski]], [[Flancian]], [[Peter Kaminski]], [[Michael Grossman]]
