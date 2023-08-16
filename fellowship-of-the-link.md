@@ -79,6 +79,7 @@
     - lightning classes: 5 minutes for presenting, 5 minutes for questions, follow up conversation happens later
     - video on [[the great transformation]]
     - Jerry Michalski says: https://bra.in/2qa2BE
+    - Interested in making timelines with 11ty? [[Aram Zucker-Scharff]] is looking for testers of https://github.com/AramZS/timelinety based on https://web3isgoinggreat.com/
  
 
 ## [[2023-08-09]]
