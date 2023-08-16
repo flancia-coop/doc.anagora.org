@@ -74,6 +74,7 @@
     - on [[darvo]]
         - [[Aram Zucker-Scharff]]
             - ah, this is just fascist politicking as defined in stuff like  https://theanarchistlibrary.org/library/umberto-eco-ur-fascism
+            - [[small government]] usually means withdrawing support from causes
 
 ## [[2023-08-09]]
 - Attending: [[Jerry Michalski]], [[Flancian]], [[Peter Kaminski]], [[Michael Grossman]]
