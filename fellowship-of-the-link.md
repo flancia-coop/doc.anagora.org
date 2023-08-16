@@ -26,7 +26,11 @@
             - [[github]] by default?
             
 ## [[2023-08-16]]
-- Attending: [[Jerry Michalski]], [[Flancian]], [[V]]
+- Attending: [[Jerry Michalski]], [[Flancian]], [[V]], [[Aram Zucker-Scharff]], [[Michael Grossman]]
+- Check ins
+    - Welcome [[V]]!
+        - [[V]] loves federated systems, has been building those since the 2000s/2010s
+            - Neighbours with Jerry!
 
 ## [[2023-08-09]]
 - Attending: [[Jerry Michalski]], [[Flancian]], [[Peter Kaminski]], [[Michael Grossman]]
