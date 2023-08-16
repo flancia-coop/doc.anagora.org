@@ -73,8 +73,10 @@
     - on [[yelling louder]] "forcing the stack"
     - on [[darvo]]
         - [[Aram Zucker-Scharff]]
-            - ah, this is just fascist politicking as defined in stuff like  https://theanarchistlibrary.org/library/umberto-eco-ur-fascism
+            - ah, this is just fascist politicking as defined in stuff like https://theanarchistlibrary.org/library/umberto-eco-ur-fascism
             - [[small government]] usually means withdrawing support from causes
+- [[Jerry Michalski]] on [[five minute universities]]
+    - lightning classes: 5 minutes for presenting, 5 minutes for questions, follow up conversation happens later
 
 ## [[2023-08-09]]
 - Attending: [[Jerry Michalski]], [[Flancian]], [[Peter Kaminski]], [[Michael Grossman]]
