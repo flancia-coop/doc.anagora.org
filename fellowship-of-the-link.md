@@ -62,7 +62,11 @@
         - On [[owning your social graph]]
     - [[liquid democracy]] :)
         - https://bra.in/9jYawA
-        -  
+        - https://anagora.org/liquid-democracy 
+        - [[colorado]] experiment
+        - on its potential side effects:
+            - [[depolarization]]
+            - br
 
 ## [[2023-08-09]]
 - Attending: [[Jerry Michalski]], [[Flancian]], [[Peter Kaminski]], [[Michael Grossman]]
