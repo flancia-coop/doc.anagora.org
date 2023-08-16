@@ -27,6 +27,9 @@
             
 ## [[2023-08-09]]
 - Attending: [[Jerry Michalski]], [[Flancian]], [[Peter Kaminski]], [[Michael Grossman]]
+
+## [[2023-08-09]]
+- Attending: [[Jerry Michalski]], [[Flancian]], [[Peter Kaminski]], [[Michael Grossman]]
 - [[climate change]]
     - https://www.washingtonpost.com/weather/2023/08/02/southamerica-record-winter-heat-argentina-chile/ 
     - [[global citizenship]]
