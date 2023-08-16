@@ -50,6 +50,8 @@
     - [[Jerry Michalski]]
         - [[argumentation theory]] maybe generalizes this
         - other tools in the [[debate]] space
+    - [[Flancian]] on agreeing on definitions and more generally on procedures to resolve definitions
+        - Maybe on defining a [[default commons]] as an advantage for a group that tries this
 
 ## [[2023-08-09]]
 - Attending: [[Jerry Michalski]], [[Flancian]], [[Peter Kaminski]], [[Michael Grossman]]
