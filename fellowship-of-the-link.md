@@ -25,8 +25,8 @@
         - [[issue tracker]] / [[project tracker]] URL
             - [[github]] by default?
             
-## [[2023-08-09]]
-- Attending: [[Jerry Michalski]], [[Flancian]], [[Peter Kaminski]], [[Michael Grossman]]
+## [[2023-08-16]]
+- Attending: [[Jerry Michalski]], [[Flancian]], [[V]]
 
 ## [[2023-08-09]]
 - Attending: [[Jerry Michalski]], [[Flancian]], [[Peter Kaminski]], [[Michael Grossman]]
