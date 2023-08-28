@@ -32,17 +32,11 @@ Here: [[Calix]] [[Flancian]]
                 - we rotate as people want/can, [[Calix]] volunteered whenever time frees up :)
     - Issue of attendance
         - Low attendance to these meetings as of late
-            - Common 
-        - NextCloud calendar doesn't seem to really notify by email -- could we raise to Mayfirst?
-            - Some reports of NextCloud jankiness in general, sometimes it just sping (tm) -- maybe we can work with Mayfirst to improve this?
-            - meet.mayfirst.org seems lower quality than other jitsi instances maybe?
-                - ping from CH to galeano.mayfirst.org is only 83ms
-                - might be a 360p default
-        - Some email issues, but not many?
-            - 5.7.23 <jag@mail.mayfirst.org>: Recipient address rejected: Message rejected due to: SPF fail - not authorized.
-        - There is some desire to have a bot that automatically boosts in-instance #introduction posts
+            - Common after summer breaks, but we want to make sure we keep critical mass going forward
+            - Idea: start writing a roadmap document with possible next steps for the group, good opportunity to converge on plans *and* get them reviewed by other working groups and the social.coop community
     - Wiki next steps
        - We need to set up and test backup/restores
+           - [[Flancian]] tested backups, restores come next :)
  
        
 ## [[2023-08-14]]
