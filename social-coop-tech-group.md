@@ -27,6 +27,12 @@ Here: [[Calix]] [[Flancian]]
 - Notes to future selves
     - Issues raised from CWG
         - TWG could take a look at the governance update proposal https://www.loomio.com/p/OI8kEjVz/social-coop-organizing-circle-proposal
+            - Default plan:
+                - [[flancian]] attends the first few meetings as representative if nobody else volunteers (by default) :)
+                - we rotate as people want/can, [[Calix]] volunteered whenever time frees up :)
+    - Issue of attendance
+        - Low attendance to these meetings as of late
+            - Common 
         - NextCloud calendar doesn't seem to really notify by email -- could we raise to Mayfirst?
             - Some reports of NextCloud jankiness in general, sometimes it just sping (tm) -- maybe we can work with Mayfirst to improve this?
             - meet.mayfirst.org seems lower quality than other jitsi instances maybe?
