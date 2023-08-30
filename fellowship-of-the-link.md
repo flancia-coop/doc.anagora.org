@@ -26,7 +26,7 @@
             - [[github]] by default?
             
 ## [[2023-08-30]]
-- Attending: [[Jerry Michalski]], [[Chris Aldrich]], [[Flancian]], [[Samuel Klein]], [[Aram Zucker-Scharff]]
+- Attending: [[Jerry Michalski]], [[Chris Aldrich]], [[Flancian]], [[Samuel Klein]], [[Aram Zucker-Scharff]], [[Michael Grossman]]
 - Check ins
     - [[Chris Aldrich]]
         - Took the full July off and did a family cruise to Alaska :)
