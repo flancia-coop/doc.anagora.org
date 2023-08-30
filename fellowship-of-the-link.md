@@ -25,6 +25,13 @@
         - [[issue tracker]] / [[project tracker]] URL
             - [[github]] by default?
             
+## [[2023-08-30]]
+- Attending: [[Jerry Michalski]], [[Chris Aldrich]], [[Flancian]]
+- Check ins
+    - [[Chris Aldrich]]
+        - Took the full July off and did a family cruise to Alaska :)
+        - Not as rainy as expected
+      
 ## [[2023-08-16]]
 - Attending: [[Jerry Michalski]], [[Flancian]], [[V]], [[Aram Zucker-Scharff]], [[Michael Grossman]]
 - Check ins
