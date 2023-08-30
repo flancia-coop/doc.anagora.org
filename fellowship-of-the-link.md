@@ -26,7 +26,7 @@
             - [[github]] by default?
             
 ## [[2023-08-30]]
-- Attending: [[Jerry Michalski]], [[Chris Aldrich]], [[Flancian]]
+- Attending: [[Jerry Michalski]], [[Chris Aldrich]], [[Flancian]], [[Samuel Klein]]
 - Check ins
     - [[Chris Aldrich]]
         - Took the full July off and did a family cruise to Alaska :)
@@ -36,8 +36,9 @@
     - [[Jerry Michalski]] One question that came up in a recent conversation: now that AI is around, do we need to still bother to take notes/curate links? :)
         - Yes :D
         - [[Chris Aldrich]] AI as it is now is interesting but it lacks:
-            - a [[compass]]
-            - a [[ratchet]]
+            - a [[compass]].
+            - a [[ratchet]].
+                - it can aggregate/conglomerate but it won't choose a solution or direction for you.
 - Topics
     - 
 
