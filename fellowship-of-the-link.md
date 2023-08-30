@@ -48,6 +48,7 @@
     - [[Samuel Klein]]
         - [[e. e. kim]]]
         - on the potential of [[marginalia]] and [[inter-linealia]] (?)
+        - Purple numbers: https://eekim.com/software/purple/purple.html 
         - and the use of color maybe?
             - culturally dependent
             - #JM uses purple for opinions and yellow to call attention to things
