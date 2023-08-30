@@ -46,7 +46,8 @@
         - [[e. e. kim]]]
         - on the potential of [[marginalia]] and [[inter-linealia]] (?)
         - and the use of color maybe?
-            - cultural
+            - culturally dependent
+            - #JM uses purple for opinions and yellow to call attention to things
 - Topics
     - 
 
