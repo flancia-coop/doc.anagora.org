@@ -39,6 +39,8 @@
             - a [[compass]].
             - a [[ratchet]].
                 - it can aggregate/conglomerate but it won't choose a solution or direction for you.
+    - [[Flancian]]
+        - Read [[Engelbart]] over the summer and it was very in
 - Topics
     - 
 
