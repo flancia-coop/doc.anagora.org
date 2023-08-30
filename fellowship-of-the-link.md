@@ -30,8 +30,14 @@
 - Check ins
     - [[Chris Aldrich]]
         - Took the full July off and did a family cruise to Alaska :)
-        - Not as rainy as expected
-      
+        - Not as rainy as expected, gorgeous scenery
+        - Q: did you keep a journal/notebook?
+        - A: did, but haven't done anything with it yet
+        - One question that came up 
+- Topics
+    - 
+
+
 ## [[2023-08-16]]
 - Attending: [[Jerry Michalski]], [[Flancian]], [[V]], [[Aram Zucker-Scharff]], [[Michael Grossman]]
 - Check ins
