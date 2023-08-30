@@ -33,7 +33,11 @@
         - Not as rainy as expected, gorgeous scenery
         - Q: did you keep a journal/notebook?
         - A: did, but haven't done anything with it yet
-        - One question that came up 
+    - [[Jerry Michalski]] One question that came up in a recent conversation: now that AI is around, do we need to still bother to take notes/curate links? :)
+        - Yes :D
+        - [[Chris Aldrich]] AI as it is now is interesting but it lacks:
+            - a [[compass]]
+            - a [[ratchet]]
 - Topics
     - 
 
