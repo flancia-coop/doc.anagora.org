@@ -40,7 +40,13 @@
             - a [[ratchet]].
                 - it can aggregate/conglomerate but it won't choose a solution or direction for you.
     - [[Flancian]]
-        - Read [[Engelbart]] over the summer and it was very in
+        - Read [[Engelbart]] over the summer and it was very interested in the context of GenAI developments/this conversation
+            - https://social.coop/@flancian/110720124777315271
+    - [[Samuel Klein]]
+        - [[e. e. kim]]]
+        - on the potential of [[marginalia]] and [[inter-linealia]] (?)
+        - and the use of color maybe?
+            - cultural
 - Topics
     - 
 
