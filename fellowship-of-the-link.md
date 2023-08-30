@@ -42,6 +42,9 @@
     - [[Flancian]]
         - Read [[Engelbart]] over the summer and it was very interested in the context of GenAI developments/this conversation
             - https://social.coop/@flancian/110720124777315271
+            - Augmenting Human Intellect: A Conceptual Framework By Douglas C. Engelbart October 1962 
+                - https://via.hypothes.is/https://dougengelbart.org/content/view/138 (Copy with Hypothesis annotations)
+ 
     - [[Samuel Klein]]
         - [[e. e. kim]]]
         - on the potential of [[marginalia]] and [[inter-linealia]] (?)
