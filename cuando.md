@@ -14,4 +14,4 @@ Bueno, en realidad no creo que mucho más, creo que haría falta nomás hacer un
 
 La ventaja de Hedgedoc es que soporta Markdown de forma nativa.
 
-Lástima que no tiene chat y tantos colores como Etherpad!:w
+Lástima que no tiene chat y tantos colores como Etherpad!
