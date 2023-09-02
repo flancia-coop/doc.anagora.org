@@ -11,6 +11,7 @@
 - [[flancian]]
     - will try to focus on some small items this weekend/cleanup
     - found a [[PR]] thanks to bouncepaw's mentions of emails
+- serv
 
 # [[flancia meet 2023-08-12]]
 - Health
