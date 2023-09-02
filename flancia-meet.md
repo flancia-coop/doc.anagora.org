@@ -2,6 +2,12 @@
 - We meet best-effort every Saturday. UTC?
 - This is where we have community maintained notes :)
 
+# [[flancia meet 2023-09-02]]
+- tried another VC platform but it wasn't very featureful yet (maybe because it's a demo)
+- [[bouncepaw]]
+    - interview at end of Sep
+    - six months of work/internship would cover rent for many 
+
 # [[flancia meet 2023-08-12]]
 - Health
     - Dentist issues
