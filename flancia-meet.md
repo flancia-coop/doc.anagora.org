@@ -11,7 +11,8 @@
 - [[flancian]]
     - will try to focus on some small items this weekend/cleanup
     - found a [[PR]] thanks to bouncepaw's mentions of emails
-- serv
+- servers
+    - bouncepaw has a 1 GB server
 
 # [[flancia meet 2023-08-12]]
 - Health
