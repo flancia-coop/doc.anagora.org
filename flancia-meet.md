@@ -10,7 +10,7 @@
     - going through emails
 - [[flancian]]
     - will try to focus on some small items this weekend/cleanup
-    -
+    - found a [[PR]] thanks to bouncepaw's mentions of emails
 
 # [[flancia meet 2023-08-12]]
 - Health
