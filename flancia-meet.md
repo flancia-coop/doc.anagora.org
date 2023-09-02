@@ -13,8 +13,8 @@
     - found a [[PR]] thanks to bouncepaw's mentions of emails
 - servers
     - bouncepaw has a 1 GB server
-    - got access to flancian's s
-- [[flancian]] wants to run a [[gotosocial]]
+    - got access to flancian's servers
+- [[flancian]] wants to run a [[gotosocial]] instance
 
 # [[flancia meet 2023-08-12]]
 - Health
