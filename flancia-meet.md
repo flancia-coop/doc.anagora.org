@@ -6,7 +6,10 @@
 - tried another VC platform but it wasn't very featureful yet (maybe because it's a demo)
 - [[bouncepaw]]
     - interview at end of Sep
-    - six months of work/internship would cover rent for many 
+    - six months of work/internship would cover rent for many semesters
+    - going through emails
+- [[flancian]]
+    - will try to focus on some small items this weekend/cleanup
 
 # [[flancia meet 2023-08-12]]
 - Health
