@@ -54,7 +54,8 @@
             - moving to do audio
         - long time [[brain]] user
 - What's on people's minds?
-    - [[Michael Grossman]] curious to ask David about book.io -- there are public domain works wh
+    - [[Michael Grossman]] curious to ask David about book.io -- there are public domain works with many covers, how does that work?
+        - artists working with GenAI
 
 
 ## [[2023-08-30]]
