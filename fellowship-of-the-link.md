@@ -73,7 +73,7 @@
     - note taking in the fediverse: exploring this space
     - [[AZS]] don't know anything in this space.
         - obsidian can push to the agora, then the agora can provide activitypub services
-    - [[Chris Aldrich]] there is potential for UI in
+    - [[Chris Aldrich]] there is potential for UI innovation in this space, something beyond streams
 - placeholder
     - 
 
