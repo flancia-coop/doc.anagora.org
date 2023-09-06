@@ -34,12 +34,18 @@
     - [[Flancian]]
         - welcome [[David]]!
         - SRE by profession here, knowledge commons/graphs tinkerer by hobby :)
-        - https://anagora.org is my main project in this space
+        - [[agora]] ~ https://anagora.org is my main project in this space
     - [[Michael Grossman]]
+        - designer - editor - archivist - activist
         - interested in [[information meritocracy]]
         - working on a platform named [[factor]]
         - hanging out in [[ogm]] for a while
+        - https://factr.com
+        - https://collaborative.tech
+        - worked in magazines previously
+            - maybe the [[20th century]] was the [[magazine century]] -- there weren't many before then, and it looks like there won't be many after it
     - [[David Pickrell]]
+        - soft
 - a [[meeting]].
 
 
