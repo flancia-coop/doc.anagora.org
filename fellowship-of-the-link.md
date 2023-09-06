@@ -29,8 +29,11 @@
 - Attending: [[Jerry Michalski]], [[Chris Aldrich]],[[Aram Zucker-Scharff]], [[David Pickrell]], [[Flancian]]
 - Introductions
     - [[Aram Zucker-Scharff]]
-        - to
-
+        - tool making experience as it interacts with the indyweb
+        - current project: how we link note tools together. personally using [[eleventy]] based [[context.center]]
+    - [[Flancian]]
+        - 
+    - [[David Pickrell]]
 - a [[meeting]].
     - #go https://meet.jit.si/fellowship-of-the-link
     - #calendar https://plex.collectivesensecommons.org/calendar/
