@@ -24,7 +24,17 @@
         - /now
         - [[issue tracker]] / [[project tracker]] URL
             - [[github]] by default?
-            
+
+## [[2023-09-06]]
+- Attending: [[Jerry Michalski]], [[Chris Aldrich]],[[Aram Zucker-Scharff]], [[David Pickrell]]
+- Introductions
+
+- a [[meeting]].
+    - #go https://meet.jit.si/fellowship-of-the-link
+    - #calendar https://plex.collectivesensecommons.org/calendar/
+    - #when Wednesdays at [[6PM UTC]]
+- Attending: [[x]], [[y]]
+
 ## [[2023-08-30]]
 - Attending: [[Jerry Michalski]], [[Chris Aldrich]], [[Flancian]], [[Samuel Klein]], [[Aram Zucker-Scharff]], [[Michael Grossman]]
 - Check ins
