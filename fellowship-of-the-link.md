@@ -70,8 +70,10 @@
 - Presentation on the Agora?
     - 20th of September -- the date is set!
 - Fediverse and Agora integration in the works
-    - note taking in the fediverse: 
-    - [[AZS]] don't know anything
+    - note taking in the fediverse: exploring this space
+    - [[AZS]] don't know anything in this space.
+        - obsidian can push to the agora, then the agora can provide activitypub services
+    - [[Chris Aldrich]] there is potential for UI in
 - placeholder
     - 
 
