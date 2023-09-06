@@ -95,7 +95,7 @@
     - [[David Pickrell]] recording/transcription services you can add to meetings.
         - using [[ChatGPT]] can help get a sense of material but might not help actually learn that material
         - [[JM]] [[story threads]]
-    - [[AZS]] wikipedia is essentia
+    - [[AZS]] wikipedia is essentially the biggest collection of knowledge, yet people also get degrees
 - chat / link dump
     - https://medium.com/intelliboosters/is-tiago-fortes-build-a-second-brain-still-relevant-in-the-age-of-chatgpt-b7a7c5e8637c
     - https://youtu.be/UvYcunuF3Eo?si=_rabLEL9qXVcg1sB
