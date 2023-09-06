@@ -91,12 +91,15 @@
         - surfacing the note that somebody you trust has shared with you is what's golden
     - [[Jerry Michalski]] when Google came out, we outsourced our memories to Google
         - proponent of humans-in-the-loop
-        - [[AZS]] technology is a tool, not an outcome
+        - [[AZS]] [[technology is a tool, not an outcome]]
     - [[David Pickrell]] recording/transcription services you can add to meetings.
-       
+        - using [[ChatGPT]] can help get a sense of material but might not help actually learn that material
+        - [[JM]] [[story threads]]
+    - [[AZS]] wikipedia is essentia
 - chat / link dump
     - https://medium.com/intelliboosters/is-tiago-fortes-build-a-second-brain-still-relevant-in-the-age-of-chatgpt-b7a7c5e8637c
     - https://youtu.be/UvYcunuF3Eo?si=_rabLEL9qXVcg1sB
+    - https://pressforward.org/
  
 
 
