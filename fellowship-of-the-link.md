@@ -52,7 +52,9 @@
             - unique covers for each of the books (NFT space, in the cardano chain)
             - they release unique digital books at 20-30 USD a piece
             - moving to do audio
-- a [[meeting]].
+        - long time [[brain]] user
+- What's on people's minds?
+    - [[Michael Grossman]] curious to ask David about book.io -- there are public domain works wh
 
 
 ## [[2023-08-30]]
