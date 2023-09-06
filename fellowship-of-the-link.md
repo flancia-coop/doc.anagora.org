@@ -56,6 +56,7 @@
 - What's on people's minds?
     - [[Michael Grossman]] curious to ask David about book.io -- there are public domain works with many covers, how does that work?
         - artists working with GenAI
+    - [[Jerry Michalski]] is book.io a scarcity play or a publisher which is trying to be useful to creators?
 
 
 ## [[2023-08-30]]
