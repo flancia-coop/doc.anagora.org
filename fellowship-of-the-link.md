@@ -68,7 +68,10 @@
             - there is no translator information for translations of public domain books, e.g. [[anna karenina]]
             - 
 - Presentation on the Agora?
-    - 20th of September
+    - 20th of September -- the date is set!
+- Fediverse and Agora integration in the works
+    - note taking in the fediverse: 
+    - [[AZS]] don't know anything
 - placeholder
     - 
 
