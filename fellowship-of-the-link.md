@@ -67,6 +67,8 @@
         - reviewed some books in book.io
             - there is no translator information for translations of public domain books, e.g. [[anna karenina]]
             - 
+- Presentation on the Agora?
+    - 20th of September
 - placeholder
     - 
 
