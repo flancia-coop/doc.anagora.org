@@ -26,9 +26,10 @@
             - [[github]] by default?
 
 ## [[2023-09-06]]
-- Attending: [[Jerry Michalski]], [[Chris Aldrich]],[[Aram Zucker-Scharff]], [[David Pickrell]], [[Flancian]]
+- Attending: [[Jerry Michalski]], [[Chris Aldrich]],[[Aram Zucker-Scharff]], [[David Pickrell]], [[Flancian]], [[Michael Grossman]]
 - Introductions
     - [[Aram Zucker-Scharff]]
+        - Lead engineering for years on [[Pressforward]]
         - tool making experience as it interacts with the indyweb
         - current project: how we link note tools together. personally using [[eleventy]] based [[context.center]]
     - [[Flancian]]
@@ -45,7 +46,12 @@
         - worked in magazines previously
             - maybe the [[20th century]] was the [[magazine century]] -- there weren't many before then, and it looks like there won't be many after it
     - [[David Pickrell]]
-        - soft
+        - itinerant "software salesman" :)
+        - focused on helping people solve problems with software
+        - one pitch for the group: son-in-law works on book.io which is a publishing environment that tries to empower authors
+            - unique covers for each of the books (NFT space, in the cardano chain)
+            - they release unique digital books at 20-30 USD a piece
+            - moving to do audio
 - a [[meeting]].
 
 
