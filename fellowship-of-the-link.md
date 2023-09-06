@@ -77,8 +77,11 @@
 - [[does chatgpt obsolete notetaking]]
     - [[AZS]] typical AI-disruption-take.
         - These are tools for thinking and not just for ingestion.
-        - our computers/mobile phones already turn us into cyborgs; AI is another 
+        - our computers/mobile phones already turn us into cyborgs; AI just adds another layer to this
+        - human intervention is what gives these things/outputs a value
     - [[CA]] note taking is a ratchet
+        - "chat-gpt, build me something like the ethereum network to distribute books"
+            - we're not 
 
 
 ## [[2023-08-30]]
