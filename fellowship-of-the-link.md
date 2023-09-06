@@ -61,7 +61,11 @@
         - targets mostly self-publishing authors currently
         - every time a book gets resold, the author gets a percentage
     - [[Aram Zucker-Scharff]]
-        - write professionally, would like to use 
+        - write professionally, would like to use editors more, and would not like to use them for free.
+        - would like to use such a platform to give participating editors a cut of produced works.
+    - [[Chris Aldrich]]
+        - reviewed some books in book.io
+            - there are no tra
 - placeholder
     - 
 
