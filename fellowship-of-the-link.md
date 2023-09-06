@@ -66,16 +66,15 @@
     - [[Chris Aldrich]]
         - reviewed some books in book.io
             - there is no translator information for translations of public domain books, e.g. [[anna karenina]]
-            - 
 - Presentation on the Agora?
-    - 20th of September -- the date is set!
+    - 20th of September -- the date is set! :D
 - Fediverse and Agora integration in the works
     - note taking in the fediverse: exploring this space
     - [[AZS]] don't know anything in this space.
         - obsidian can push to the agora, then the agora can provide activitypub services
     - [[Chris Aldrich]] there is potential for UI innovation in this space, something beyond streams
+    - wikilinks everywhere :D
 - placeholder
-    - 
 
 
 ## [[2023-08-30]]
