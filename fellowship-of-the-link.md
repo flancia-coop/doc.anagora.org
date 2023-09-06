@@ -74,7 +74,11 @@
         - obsidian can push to the agora, then the agora can provide activitypub services
     - [[Chris Aldrich]] there is potential for UI innovation in this space, something beyond streams
     - wikilinks everywhere :D
-- placeholder
+- [[does chatgpt obsolete notetaking]]
+    - [[AZS]] typical AI-disruption-take.
+        - These are tools for thinking and not just for ingestion.
+        - our computers/mobile phones already turn us into cyborgs; AI is another 
+    - [[CA]] note taking is a ratchet
 
 
 ## [[2023-08-30]]
