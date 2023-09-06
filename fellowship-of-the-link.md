@@ -83,7 +83,12 @@
         - "chat-gpt, build me something like the ethereum network to distribute books"
             - we're not anywhere near there yet.
             - "what is the next thing", in the sense of Einstein in 1904, is not something that this level of AI can solve.
-        - [[JM]] unclear on whether LLMs can only regurgigate known things or can actually improve on them
+        - [[JM]] unclear on whether LLMs can only regurgigate known things or can actually improve on them -- compare with e.g. alphago coming up with novel moves
+    - [[Michael Grossman]] podcast: https://a16z.simplecast.com/episodes/a-true-second-brain-xrODaBD2
+- chat / link dump
+    - https://medium.com/intelliboosters/is-tiago-fortes-build-a-second-brain-still-relevant-in-the-age-of-chatgpt-b7a7c5e8637c
+    - https://youtu.be/UvYcunuF3Eo?si=_rabLEL9qXVcg1sB
+ 
 
 
 ## [[2023-08-30]]
