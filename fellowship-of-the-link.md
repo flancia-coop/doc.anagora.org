@@ -32,13 +32,16 @@
         - tool making experience as it interacts with the indyweb
         - current project: how we link note tools together. personally using [[eleventy]] based [[context.center]]
     - [[Flancian]]
-        - 
+        - welcome [[David]]!
+        - SRE by profession here, knowledge commons/graphs tinkerer by hobby :)
+        - https://anagora.org is my main project in this space
+    - [[Michael Grossman]]
+        - interested in [[information meritocracy]]
+        - working on a platform named [[factor]]
+        - hanging out in [[ogm]] for a while
     - [[David Pickrell]]
 - a [[meeting]].
-    - #go https://meet.jit.si/fellowship-of-the-link
-    - #calendar https://plex.collectivesensecommons.org/calendar/
-    - #when Wednesdays at [[6PM UTC]]
-- Attending: [[x]], [[y]]
+
 
 ## [[2023-08-30]]
 - Attending: [[Jerry Michalski]], [[Chris Aldrich]], [[Flancian]], [[Samuel Klein]], [[Aram Zucker-Scharff]], [[Michael Grossman]]
