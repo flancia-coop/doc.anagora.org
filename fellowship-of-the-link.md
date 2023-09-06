@@ -81,7 +81,9 @@
         - human intervention is what gives these things/outputs a value
     - [[CA]] note taking is a ratchet
         - "chat-gpt, build me something like the ethereum network to distribute books"
-            - we're not 
+            - we're not anywhere near there yet.
+            - "what is the next thing", in the sense of Einstein in 1904, is not something that this level of AI can solve.
+        - [[JM]] unclear on whether LLMs can only regurgigate known things or can actually improve on them
 
 
 ## [[2023-08-30]]
