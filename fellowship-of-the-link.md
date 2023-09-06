@@ -65,7 +65,8 @@
         - would like to use such a platform to give participating editors a cut of produced works.
     - [[Chris Aldrich]]
         - reviewed some books in book.io
-            - there are no tra
+            - there is no translator information for translations of public domain books, e.g. [[anna karenina]]
+            - 
 - placeholder
     - 
 
