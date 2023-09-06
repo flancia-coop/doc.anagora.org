@@ -26,8 +26,10 @@
             - [[github]] by default?
 
 ## [[2023-09-06]]
-- Attending: [[Jerry Michalski]], [[Chris Aldrich]],[[Aram Zucker-Scharff]], [[David Pickrell]]
+- Attending: [[Jerry Michalski]], [[Chris Aldrich]],[[Aram Zucker-Scharff]], [[David Pickrell]], [[Flancian]]
 - Introductions
+    - [[Aram Zucker-Scharff]]
+        - to
 
 - a [[meeting]].
     - #go https://meet.jit.si/fellowship-of-the-link
