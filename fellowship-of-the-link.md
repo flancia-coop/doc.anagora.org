@@ -60,6 +60,10 @@
         - it tries to be the second
         - targets mostly self-publishing authors currently
         - every time a book gets resold, the author gets a percentage
+    - [[Aram Zucker-Scharff]]
+        - write professionally, would like to use 
+- placeholder
+    - 
 
 
 ## [[2023-08-30]]
