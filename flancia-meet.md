@@ -8,6 +8,9 @@
 - perspectiva surglobalista
 - [[prompting of creativity]], an essay
     - [[plusvalía de creatividad]] ~ [[creativity plusvalue]]
+- (lots of good discussion + links here)
+- (a break)
+- [[bouncepaw]] joins!
 
 
 # [[flancia meet 2023-09-02]]
