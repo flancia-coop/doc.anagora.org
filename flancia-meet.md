@@ -11,9 +11,10 @@
 - (lots of good discussion + links here)
 - (a break)
 - [[bouncepaw]] joins!
-    - impressive news!
-    - 22 - waking up without alarm clock
     - migraines
+    - impressive news!
+        - 22 - waking up without alarm clock
+    - [[chinese tea house]]
 
 
 # [[flancia meet 2023-09-02]]
