@@ -4,7 +4,8 @@
 
 # [[flancia meet 2023-09-09]]
 - [[j0lms]] [[flancian]]
-- fase edgy
+- sobre fases edgy :)
+- perspectiva surglobalista
 
 
 # [[flancia meet 2023-09-02]]
