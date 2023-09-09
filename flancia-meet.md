@@ -11,6 +11,8 @@
 - (lots of good discussion + links here)
 - (a break)
 - [[bouncepaw]] joins!
+    - impressive news!
+    - 22 - waking up without alarm clock
 
 
 # [[flancia meet 2023-09-02]]
