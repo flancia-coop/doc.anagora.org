@@ -15,6 +15,9 @@
     - impressive news!
         - 22 - waking up without alarm clock
     - [[chinese tea house]]
+    - travel by train
+        - in russia
+        - -> https://en.wikipedia.org/wiki/The_Great_Railway_Bazaar
 
 
 # [[flancia meet 2023-09-02]]
