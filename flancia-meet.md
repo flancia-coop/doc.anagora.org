@@ -6,6 +6,8 @@
 - [[j0lms]] [[flancian]]
 - sobre fases edgy :)
 - perspectiva surglobalista
+- [[prompting of creativity]], an essay
+    - [[plusvalía de creatividad]] ~ [[creativity plusvalue]]
 
 
 # [[flancia meet 2023-09-02]]
