@@ -2,6 +2,20 @@
 - We meet best-effort every Saturday. UTC?
 - This is where we have community maintained notes :)
 
+# [[flancia meet 2023-09-09]]
+- 
+- [[bouncepaw]]
+    - interview at end of Sep
+    - six months of work/internship would cover rent for many semesters
+    - going through emails
+- [[flancian]]
+    - will try to focus on some small items this weekend/cleanup
+    - found a [[PR]] thanks to bouncepaw's mentions of emails
+- servers
+    - bouncepaw has a 1 GB server
+    - got access to flancian's servers
+- [[flancian]] wants to run a [[gotosocial]] instance
+
 # [[flancia meet 2023-09-02]]
 - tried another VC platform but it wasn't very featureful yet (maybe because it's a demo)
 - [[bouncepaw]]
