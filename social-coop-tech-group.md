@@ -18,6 +18,11 @@ Here: ...
     - Wiki next steps
        - We need to set up and test backup/restores
        
+       
+## [[2023-09-11]]
+
+Here: [[Flancian]]
+       
 ## [[2023-08-28]]
 
 Here: [[Calix]] [[Flancian]]
@@ -34,9 +39,10 @@ Here: [[Calix]] [[Flancian]]
         - Low attendance to these meetings as of late
             - Common after summer breaks, but we want to make sure we keep critical mass going forward
             - Idea: start writing a roadmap document with possible next steps for the group, good opportunity to converge on plans *and* get them reviewed by other working groups and the social.coop community
-    - Wiki next steps
-       - We need to set up and test backup/restores
-           - [[Flancian]] tested backups, restores come next :)
+   - Wiki next steps
+   - We need to set up and test backup/restores
+       - [[Flancian]] tested backups for the wiki, restores come next :)
+   - 
  
        
 ## [[2023-08-14]]
