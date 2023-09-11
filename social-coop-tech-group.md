@@ -22,6 +22,23 @@ Here: ...
 ## [[2023-09-11]]
 
 Here: [[Flancian]]
+
+- Check ins
+- Notes to future selves
+   - Wiki next steps
+       - Pretty stable/usable.
+   - SSO next steps
+       - Backup/restore of users
+       - Keeping users in sync with other sources we have currently:
+           - loomio
+           - social.coop instance (Mastodon)
+   - Bonfire next steps
+       - Configure SSO (Mayel sent a build to try)
+       - Test federation fixes once they're there
+       
+   - We need to exercise backup/restores in general
+       - [[Flancian]] tested backups for the wiki, restores come next :)
+ 
        
 ## [[2023-08-28]]
 
@@ -42,7 +59,6 @@ Here: [[Calix]] [[Flancian]]
    - Wiki next steps
    - We need to set up and test backup/restores
        - [[Flancian]] tested backups for the wiki, restores come next :)
-   - 
  
        
 ## [[2023-08-14]]
