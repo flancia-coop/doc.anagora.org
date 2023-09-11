@@ -34,7 +34,9 @@ Here: [[Flancian]]
        - Keeping users in sync with other sources we have currently:
            - loomio
            - social.coop instance (Mastodon)
-   - Bonfire next steps
+   - Mastodon next steps (main instance)
+       - Move to Hometown: yay or nay?
+   - Bonfire next steps (for a second instance)
        - Configure SSO (Mayel sent a build to try)
        - Test federation fixes once they're there
    - We need to exercise backup/restores in general
