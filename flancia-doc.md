@@ -18,3 +18,7 @@ How are you today?
 (Some Flancians identify as Buddhists like me, but these labels are optional.)
 
 If you need help, please [[reach out]] at 0@flancia.org.
+
+<hr />
+
+Next: https://anagora.org/go/flancia-doc
