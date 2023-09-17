@@ -13,4 +13,8 @@ How are you today?
 - [[well]]
 - [[not so well]]
 
-<hr
+<hr />
+
+(Some Flancians identify as Buddhists like me, but these labels are optional.)
+
+If you need help, please [[reach out]] at 0@flancia.org.
