@@ -26,7 +26,7 @@
             - [[github]] by default?
 
 ## [[2023-09-06]]
-- Attending: [[Jerry Michalski]], [[Chris Aldrich]],[[Aram Zucker-Scharff]], [[David Pickrell]], [[Flancian]], [[Michael Grossman]]
+- Attending: [[Jerry Michalski]], [[Chris Aldrich]], [[Aram Zucker-Scharff]], [[David Pickrell]], [[Flancian]], [[Michael Grossman]]
 - Introductions
     - [[Aram Zucker-Scharff]]
         - Lead engineering for years on [[Pressforward]]
