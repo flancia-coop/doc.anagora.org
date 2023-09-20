@@ -69,7 +69,8 @@
             - Software
             - User repositories 
             - Social media 
-            - ... 
+            - ...
+            - Imports users' repositories every 30s and handles them. Usually git. Takes MassiveWiki and Social Media  
         - Agora root repository 
             - List of repositories 
             - Configuration and bootstrap procedures 
@@ -81,7 +82,8 @@
             - Accessed by browser 
             - Python and Flask server 
             - Points to a root repository and with those resources attempt to find the patterns and pull out nodes which then get served to the user. 
-        - 
+            - May present notes on the same node by different users across different contexts. 
+
 
 ## [[2023-09-06]]
 - Attending: [[Jerry Michalski]], [[Chris Aldrich]], [[Aram Zucker-Scharff]], [[David Pickrell]], [[Flancian]], [[Michael Grossman]]
