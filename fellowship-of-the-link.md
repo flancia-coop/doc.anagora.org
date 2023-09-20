@@ -31,8 +31,9 @@
     - [[Jerry Michalski]] would be interested in being hired for more presentations/speeches
         - On [[cyborg]] as a term, some people apparently object to the term?
         - ([[Jitsi]] melted down at this point)
-    - [[Aram Zucker-Scharff]] on [[Cyborgness]] - https://www.youtube.com/watch?v=UvYcunuF3Eo&t=1709s
-        - 
+    - [[Aram Zucker-Scharff]] on [[Cyborgness]] - video cued to the specific part of the discusion - https://www.youtube.com/watch?v=UvYcunuF3Eo&t=1709s
+        - On babies reaching into ipads
+        - [[digital retinas]]
 - [[flancian]] presentation (maybe): https://anagora.org/go/agora-slides
 
 ## [[2023-09-06]]
