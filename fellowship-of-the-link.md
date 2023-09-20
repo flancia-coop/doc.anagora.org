@@ -83,6 +83,20 @@
             - Python and Flask server 
             - Points to a root repository and with those resources attempt to find the patterns and pull out nodes which then get served to the user. 
             - May present notes on the same node by different users across different contexts. 
+    - Node 
+        - High level entity
+        - Location on the knowledge graph 
+        - Can hold information from multiple users and join different files 
+        - Node can have Subnodes by different authors. 
+        - Links in Nodes will be seen and link those nodes together at the Agora level. 
+        - Nodes are social 
+        - See anagora.org/nodes for visualization 
+        - Common patterns:
+            - Digital Garden Note
+            - Blog Post 
+            - Personal WIki Page 
+            - Journal 
+            - Node Club
 
 
 ## [[2023-09-06]]
