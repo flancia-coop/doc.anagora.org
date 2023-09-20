@@ -45,7 +45,11 @@
             - public, mostly virtual, but has semi public sub-spaces (stoas). Different groups met in the different spaces and allowed people to join in and be part of something. 
             - Go beyond the commons concern of the market 
         - A distributed knowledge graph 
-            - Give it a list or repositories or 
+            - Give it a list or repositories or resources and the agora will try to mash them together, find connections, find patterns, connect them. 
+        - A social network
+            - an integration between social graphs and knowledge graphs and hopefully will make it part of the fediverse and t/f give it a clearer part of the social network concept. 
+    - Both a vision and a hypothesis 
+        - pro-social subsets of the internet would benefit from wide availability of a free interlay provisioned and governed by a community as a commons. 
 
 ## [[2023-09-06]]
 - Attending: [[Jerry Michalski]], [[Chris Aldrich]], [[Aram Zucker-Scharff]], [[David Pickrell]], [[Flancian]], [[Michael Grossman]]
