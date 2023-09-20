@@ -49,7 +49,12 @@
         - A social network
             - an integration between social graphs and knowledge graphs and hopefully will make it part of the fediverse and t/f give it a clearer part of the social network concept. 
     - Both a vision and a hypothesis 
-        - pro-social subsets of the internet would benefit from wide availability of a free interlay provisioned and governed by a community as a commons. 
+        - pro-social subsets of the internet would benefit from wide availability of a free [[interlay]] (as in the [[underlay project]]) provisioned and governed by a community as a commons. 
+        - For the common good. 
+        - Follow the principles of a commons. 
+        - Develop tools and instructions to make it more likely that such a connective layer arrises with these characteristics. 
+        - The agora is not good enough yet to be the connective layer but aims to be a bootstrap. 
+    - Note taking, wiki building, web annotating, communities, seem to have unique 
 
 ## [[2023-09-06]]
 - Attending: [[Jerry Michalski]], [[Chris Aldrich]], [[Aram Zucker-Scharff]], [[David Pickrell]], [[Flancian]], [[Michael Grossman]]
