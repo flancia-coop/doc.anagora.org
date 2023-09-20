@@ -25,6 +25,10 @@
         - [[issue tracker]] / [[project tracker]] URL
             - [[github]] by default?
 
+## [[2023-09-20]]
+- Attending: [[Jerry Michalski]], [[Flancian]], ...
+- Check ins
+- https://a
 ## [[2023-09-06]]
 - Attending: [[Jerry Michalski]], [[Chris Aldrich]], [[Aram Zucker-Scharff]], [[David Pickrell]], [[Flancian]], [[Michael Grossman]]
 - Introductions
