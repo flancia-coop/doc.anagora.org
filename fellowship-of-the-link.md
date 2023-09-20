@@ -26,13 +26,13 @@
             - [[github]] by default?
 
 ## [[2023-09-20]]
-- Attending: [[Jerry Michalski]], [[Flancian]], ...
+- Attending: [[Jerry Michalski]], [[Flancian]], [[Aram Zucker-Scharff]], [[Peter Kaminski]]
 - Check ins
     - [[Jerry Michalski]] would be interested in being hired for more presentations/speeches
         - On [[cyborg]] as a term, some people apparently object to the term?
         - ([[Jitsi]] melted down at this point)
-
-    - Cyborgness - https://www.youtube.com/watch?v=UvYcunuF3Eo&t=1709s
+    - [[Aram Zucker-Scharff]] on [[Cyborgness]] - https://www.youtube.com/watch?v=UvYcunuF3Eo&t=1709s
+        - 
 - [[flancian]] presentation (maybe): https://anagora.org/go/agora-slides
 
 ## [[2023-09-06]]
