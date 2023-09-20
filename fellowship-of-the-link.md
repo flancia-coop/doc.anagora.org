@@ -116,7 +116,9 @@
         - Edges are [[wikilinks]] which refer to other nodes as found in volunteered subnodes 
     - Idea of composing notes 
         - Some notes have special behavior 
-        - [[go]] notes - `#go url` or `[[go/foo]]` will
+        - [[go]] notes - `#go url` or `[[go/foo]]`
+        - [[pull]] - bring in the resource at bar with `#pull bar`
+        - [[push]] - push out the resource to foo with `#push foo`
 
 ## [[2023-09-06]]
 - Attending: [[Jerry Michalski]], [[Chris Aldrich]], [[Aram Zucker-Scharff]], [[David Pickrell]], [[Flancian]], [[Michael Grossman]]
