@@ -113,7 +113,7 @@
         - Publish in platform - usually git. 
         - Let an Agora maintainer know about it. 
     - Wikilinks everywhere 
-        - Edges are pp
+        - Edges are [[wikilinks]] which refer to other nodes as found in volunteered subnodes 
 
 ## [[2023-09-06]]
 - Attending: [[Jerry Michalski]], [[Chris Aldrich]], [[Aram Zucker-Scharff]], [[David Pickrell]], [[Flancian]], [[Michael Grossman]]
