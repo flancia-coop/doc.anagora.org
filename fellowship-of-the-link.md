@@ -108,6 +108,12 @@
         - Etherpad and Jitsi both can get pulled in to a Stoas. 
     - Heavily uses iFrames whenever possible 
     - Default empty pages are a call to action
+    - How to join!
+        - Take notes in your fav tool
+        - Publish in platform - usually git. 
+        - Let an Agora maintainer know about it. 
+    - Wikilinks everywhere 
+        - Edges are pp
 
 ## [[2023-09-06]]
 - Attending: [[Jerry Michalski]], [[Chris Aldrich]], [[Aram Zucker-Scharff]], [[David Pickrell]], [[Flancian]], [[Michael Grossman]]
