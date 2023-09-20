@@ -61,7 +61,17 @@
         - Leverage existing conventions and formats 
         - bootstrap and build better ones from the bootstrap
     - Key characteristics 
-        - free software enabling a community to provision a basi
+        - free software enabling a community to provision a basic knowledge commons 
+        - requires little of would be integrators and give back generously to participating communities. 
+        - inclusive and makes use of existing conventions, formats, tools, and networks for as long as practical. 
+    - Architecture 
+        - Agora Bridge
+            - User repositories 
+            - Social media 
+            - ... 
+        - Agora root repository 
+        - Agora Server 
+            - 
 
 ## [[2023-09-06]]
 - Attending: [[Jerry Michalski]], [[Chris Aldrich]], [[Aram Zucker-Scharff]], [[David Pickrell]], [[Flancian]], [[Michael Grossman]]
