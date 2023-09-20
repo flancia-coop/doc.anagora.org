@@ -107,7 +107,7 @@
         - Will get processed into the Angora within 30 sec. 
         - Etherpad and Jitsi both can get pulled in to a Stoas. 
     - Heavily uses iFrames whenever possible 
-    - 
+    - Default empty pages are a call to action
 
 ## [[2023-09-06]]
 - Attending: [[Jerry Michalski]], [[Chris Aldrich]], [[Aram Zucker-Scharff]], [[David Pickrell]], [[Flancian]], [[Michael Grossman]]
