@@ -34,6 +34,8 @@
     - [[Aram Zucker-Scharff]] on [[Cyborgness]] - video cued to the specific part of the discusion - https://www.youtube.com/watch?v=UvYcunuF3Eo&t=1709s
         - On babies reaching into ipads
         - [[digital retinas]]
+
+- Useful open source video editing with [[OpenShot]] - https://www.openshot.org/
 - [[flancian]] presentation (maybe): https://anagora.org/go/agora-slides
 
 ## [[2023-09-06]]
