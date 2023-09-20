@@ -80,6 +80,7 @@
             - Interlink procedures 
             - Accessed by browser 
             - Python and Flask server 
+            - Points to a root repository and with those resources attempt to find the patterns and pull out nodes which then get served to the user. 
         - 
 
 ## [[2023-09-06]]
