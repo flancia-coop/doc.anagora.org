@@ -56,6 +56,12 @@
         - The agora is not good enough yet to be the connective layer but aims to be a bootstrap. 
     - Note taking, wiki building, web annotating, communities, seem to have unique opportunity at hand. Possible to self-organize in cooperative groups and set up ways to federate within a commons. 
     - Find common patterns and exploit them using the system where we can. 
+    - Design principles 
+        - Simple as possible 
+        - Leverage existing conventions and formats 
+        - bootstrap and build better ones from the bootstrap
+    - Key characteristics 
+        - free software enabling a community to provision a basi
 
 ## [[2023-09-06]]
 - Attending: [[Jerry Michalski]], [[Chris Aldrich]], [[Aram Zucker-Scharff]], [[David Pickrell]], [[Flancian]], [[Michael Grossman]]
