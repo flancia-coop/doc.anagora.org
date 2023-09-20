@@ -28,7 +28,8 @@
 ## [[2023-09-20]]
 - Attending: [[Jerry Michalski]], [[Flancian]], ...
 - Check ins
-- https://a
+- [[flancian]] presentation (maybe): https://anagora.org/go/agora-slides
+
 ## [[2023-09-06]]
 - Attending: [[Jerry Michalski]], [[Chris Aldrich]], [[Aram Zucker-Scharff]], [[David Pickrell]], [[Flancian]], [[Michael Grossman]]
 - Introductions
