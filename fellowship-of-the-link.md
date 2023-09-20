@@ -92,12 +92,19 @@
         - Nodes are social 
         - See anagora.org/nodes for visualization 
         - Common patterns:
-            - Digital Garden Note
-            - Blog Post 
-            - Personal WIki Page 
-            - Journal 
-            - Node Club
-
+            - [[Digital Garden Note]]
+            - [[Blog Post ]]
+            - [[Personal Wiki Page]] 
+            - [[Journal]] 
+            - [[Node Club]]
+        - You can agree on a slice for a concept and then right away start coordinating - exactly like using a hashtag 
+            - Socail media works with hashtags to integrate into this concept. 
+            - Agora lets you hashtag anywhere 
+    - Stoas 
+        - Social too
+        - Locaitons that act as semi public spaces
+        - Set up a hedge doc that is totally anonymous. 
+        - Will get
 
 ## [[2023-09-06]]
 - Attending: [[Jerry Michalski]], [[Chris Aldrich]], [[Aram Zucker-Scharff]], [[David Pickrell]], [[Flancian]], [[Michael Grossman]]
