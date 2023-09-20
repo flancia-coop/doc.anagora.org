@@ -35,7 +35,10 @@
         - On babies reaching into ipads
         - [[digital retinas]]
 
-- Useful open source video editing with [[OpenShot]] - https://www.openshot.org/
+- Useful open source video editing with 
+    - [[OpenShot]] - https://www.openshot.org/
+    - avidemux
+    - Drop into Quicktime
 - [[flancian]] presentation (maybe): https://anagora.org/go/agora-slides
 
 ## [[2023-09-06]]
