@@ -114,6 +114,9 @@
         - Let an Agora maintainer know about it. 
     - Wikilinks everywhere 
         - Edges are [[wikilinks]] which refer to other nodes as found in volunteered subnodes 
+    - Idea of composing notes 
+        - Some notes have special behavior 
+        - [[go]] notes - `#go url` or `[[go/foo]]` will
 
 ## [[2023-09-06]]
 - Attending: [[Jerry Michalski]], [[Chris Aldrich]], [[Aram Zucker-Scharff]], [[David Pickrell]], [[Flancian]], [[Michael Grossman]]
