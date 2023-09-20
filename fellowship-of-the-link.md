@@ -28,6 +28,9 @@
 ## [[2023-09-20]]
 - Attending: [[Jerry Michalski]], [[Flancian]], ...
 - Check ins
+    - [[Jerry Michalski]] would be interested in being hired for more presentations/speeches
+        - On [[cyborg]] as a term, some people apparently object to the term?
+        - ([[Jitsi]] melted down at this point)
 - [[flancian]] presentation (maybe): https://anagora.org/go/agora-slides
 
 ## [[2023-09-06]]
