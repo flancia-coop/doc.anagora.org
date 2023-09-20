@@ -40,6 +40,12 @@
     - avidemux
     - Drop into Quicktime
 - [[flancian]] presentation (maybe): https://anagora.org/go/agora-slides
+    - three facets 
+        - a space - the definition of an agora the one best known 
+            - public, mostly virtual, but has semi public sub-spaces (stoas). Different groups met in the different spaces and allowed people to join in and be part of something. 
+            - Go beyond the commons concern of the market 
+        - A distributed knowledge graph 
+            - Give it a list or repositories or 
 
 ## [[2023-09-06]]
 - Attending: [[Jerry Michalski]], [[Chris Aldrich]], [[Aram Zucker-Scharff]], [[David Pickrell]], [[Flancian]], [[Michael Grossman]]
