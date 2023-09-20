@@ -104,7 +104,10 @@
         - Social too
         - Locaitons that act as semi public spaces
         - Set up a hedge doc that is totally anonymous. 
-        - Will get
+        - Will get processed into the Angora within 30 sec. 
+        - Etherpad and Jitsi both can get pulled in to a Stoas. 
+    - Heavily uses iFrames whenever possible 
+    - 
 
 ## [[2023-09-06]]
 - Attending: [[Jerry Michalski]], [[Chris Aldrich]], [[Aram Zucker-Scharff]], [[David Pickrell]], [[Flancian]], [[Michael Grossman]]
