@@ -54,7 +54,8 @@
         - Follow the principles of a commons. 
         - Develop tools and instructions to make it more likely that such a connective layer arrises with these characteristics. 
         - The agora is not good enough yet to be the connective layer but aims to be a bootstrap. 
-    - Note taking, wiki building, web annotating, communities, seem to have unique 
+    - Note taking, wiki building, web annotating, communities, seem to have unique opportunity at hand. Possible to self-organize in cooperative groups and set up ways to federate within a commons. 
+    - Find common patterns and exploit them using the system where we can. 
 
 ## [[2023-09-06]]
 - Attending: [[Jerry Michalski]], [[Chris Aldrich]], [[Aram Zucker-Scharff]], [[David Pickrell]], [[Flancian]], [[Michael Grossman]]
