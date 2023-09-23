@@ -2,6 +2,10 @@
 - We meet best-effort every Saturday. UTC?
 - This is where we have community maintained notes :)
 
+# [[flancia meet 2023-09-23]]
+- [[flancian]]
+    - [[bouncepaw]] told me about 
+
 # [[flancia meet 2023-09-09]]
 - [[j0lms]] [[flancian]]
 - sobre fases edgy :)
