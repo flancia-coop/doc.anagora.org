@@ -4,7 +4,7 @@
 
 # [[flancia meet 2023-09-23]]
 - [[flancian]]
-    - [[bouncepaw]] told me about 
+    - [[bouncepaw]] told me about https://code.avito.ru during the week, trying it.
 
 # [[flancia meet 2023-09-09]]
 - [[j0lms]] [[flancian]]
