@@ -62,6 +62,8 @@ Here: [[Akshay]] [[Flancian]]
        - [[Flancian]] tested backups for the wiki, restores come next :)
        - next action: cronjobs? those could be in ansible?
            - [[Akshay]] does coop cloud have cronjobs?
+   - Can we model moderation using [[ActivityPub]]?
+       - Instances could 
  
        
 ## [[2023-09-11]]
