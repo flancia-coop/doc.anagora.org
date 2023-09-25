@@ -63,8 +63,8 @@ Here: [[Akshay]] [[Flancian]]
        - next action: cronjobs? those could be in ansible?
            - [[Akshay]] does coop cloud have cronjobs?
    - Can we model moderation using [[ActivityPub]]?
-       - Instances could 
- 
+       - Instances could federate moderation decisions, optionally also ranking.
+       - e.g. social.coop and autonomic reciprocally trust each other
        
 ## [[2023-09-11]]
 
