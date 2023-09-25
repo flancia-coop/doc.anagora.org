@@ -56,7 +56,7 @@ Here: [[Akshay]] [[Flancian]]
            - Find the build/incantation?
        - Test federation fixes once they're there
        - This can be run at a lower SLO until the community finds it critical
-       - Potential: we could potentially move go
+       - Potential: we could potentially move governance to it if the features land.
    - We need to exercise backup/restores in general
        - [[Flancian]] tested backups for the wiki, restores come next :)
        - next action: cronjobs? those could be in ansible?
