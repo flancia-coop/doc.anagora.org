@@ -11,7 +11,10 @@
     - [[visa por búsqueda de trabajo]] después del master
     - [[portugal]] [[manifestación de interés]]
     - [[irlanda]] [[visa por estudios]]
-        - [[posible reno]]
+    - [[nueva zelanda]] [[visa de trabajo]]
+    - [[australia
+        - [[work and holiday]] 
+
 
 
 # [[flancia meet 2023-09-23]]
