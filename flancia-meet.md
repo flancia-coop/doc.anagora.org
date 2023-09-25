@@ -5,11 +5,13 @@
 # [[flancia meet 2023-09-25]]
 
 - [[j0lms]] [[bernardo]]
+    - [[migración]]
     - [[currículum]] [[analítico]] [[pasaporte]] [[titulo]] [[certificados]] debidamente [[apostillado]] [[legalizado]]
     - [[requisitos para visado de estudio]] https://drive.google.com/file/d/1eZtX8_nRZmMpbQ9gp4N89xSVBNujM0yV/view?usp=sharing
     - [[visa por búsqueda de trabajo]] después del master
     - [[portugal]] [[manifestación de interés]]
-    - 
+    - [[irlanda]] [[visa por estudios]]
+        - [[posible reno]]
 
 
 # [[flancia meet 2023-09-23]]
