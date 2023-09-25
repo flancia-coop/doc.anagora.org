@@ -30,6 +30,10 @@ Here: [[Akshay]] [[Flancian]]
        - [[twg 2024]] is the default work in progress, meaning https://anagora.org/twg-2024.
    - Wiki next steps
        - Pretty stable/usable.
+       - our position on [[coop cloud]]
+           - interesting
+           - [[akshay]] concerns with putting stuff in the home directory.
+           - [[reproducibility]] seems maybe a fuzzy area
    - SSO next steps
        - Backup/restore of users
        - Keeping users in sync with other sources we have currently:
