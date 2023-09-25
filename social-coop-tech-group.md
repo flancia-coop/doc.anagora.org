@@ -23,7 +23,8 @@ Here: ...
 Here: [[Akshay]] [[Flancian]]
 
 - Check ins
-    - [[Akshay]]
+    - [[Akshay]] super busy, finding a house
+    - [[Flancian]] busy with + layoffs, but trying to keep optimistic
 - Notes to future selves
    - [[flancian]] Proposal to seed a roadmap to track projects at a high level and request comments from the community
        - [[twg 2024]] is the default work in progress, meaning https://anagora.org/twg-2024.
