@@ -52,7 +52,11 @@ Here: [[Akshay]] [[Flancian]]
        - Move to Hometown: yay or nay?
    - Bonfire next steps (for a second instance)
        - Configure SSO (Mayel sent a build to try)
+           - We need to try this
+           - Find the build/incantation?
        - Test federation fixes once they're there
+       - This can be run at a lower SLO until the community finds it critical
+       - Potential: we could potentially move go
    - We need to exercise backup/restores in general
        - [[Flancian]] tested backups for the wiki, restores come next :)
        - next action: cronjobs? those could be in ansible?
