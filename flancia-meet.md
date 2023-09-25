@@ -6,11 +6,11 @@
 
 - [[j0lms]] [[bernardo]]
     - [[migración]]
-    - [[currículum]] [[analítico]] [[pasaporte]] [[titulo]] [[certificados]] debidamente [[apostillado]] [[legalizado]]
-    - [[requisitos para visado de estudio]] https://drive.google.com/file/d/1eZtX8_nRZmMpbQ9gp4N89xSVBNujM0yV/view?usp=sharing
+    - [[currículum]] [[analítico]] [[pasaporte]] [[título]] [[certificados]] debidamente [[apostillado]] [[legalizado]]
+    - requisitos para visado de estudio https://drive.google.com/file/d/1eZtX8_nRZmMpbQ9gp4N89xSVBNujM0yV/view?usp=sharing
     - [[junta de andalucía]] https://www.juntadeandalucia.es/economiaconocimientoempresasyuniversidad/sguit/?q=masteres
         - búsqueda laboral limitada a area de estudios
-    - [[visa por búsqueda de trabajo]] después del master
+    - visa por búsqueda de trabajo **después del master**
     - [[portugal]] [[manifestación de interés]]
     - [[irlanda]] [[visa por estudios]]
     - [[nueva zelanda]] [[visa de trabajo]]
