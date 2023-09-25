@@ -6,7 +6,7 @@
 
 - [[j0lms]] [[bernardo]]
     - [[currículum]] [[analítico]] [[pasaporte]] [[titulo]] [[certificados]] debidamente [[apostillado]] [[legalizado]]
-    - [[requisitos para visado de estudio]]
+    - [[requisitos para visado de estudio]] https://drive.google.com/file/d/1eZtX8_nRZmMpbQ9gp4N89xSVBNujM0yV/view?usp=sharing
     - 
 
 
