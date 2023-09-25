@@ -66,6 +66,9 @@ Here: [[Akshay]] [[Flancian]]
        - Instances could federate moderation decisions, optionally also ranking.
        - e.g. social.coop and autonomic reciprocally trust each other
        - extending/generalizing #fediblock
+   - On [[Open source governance]]
+       - [[Codeberg]] and [[Forgejo]] might have this solved
+       - [[Concourse]]
        
 ## [[2023-09-11]]
 
