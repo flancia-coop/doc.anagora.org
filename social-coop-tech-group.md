@@ -18,6 +18,30 @@ Here: ...
     - Wiki next steps
        - We need to set up and test backup/restores
        
+## [[2023-09-25]]
+
+Here: [[Akshay]] [[Flancian]]
+
+- Check ins
+    - [[Akshay]]
+- Notes to future selves
+   - [[flancian]] Proposal to seed a roadmap to track projects at a high level and request comments from the community
+       - [[twg 2024]] is the default work in progress, meaning https://anagora.org/twg-2024.
+   - Wiki next steps
+       - Pretty stable/usable.
+   - SSO next steps
+       - Backup/restore of users
+       - Keeping users in sync with other sources we have currently:
+           - loomio
+           - social.coop instance (Mastodon)
+   - Mastodon next steps (main instance)
+       - Move to Hometown: yay or nay?
+   - Bonfire next steps (for a second instance)
+       - Configure SSO (Mayel sent a build to try)
+       - Test federation fixes once they're there
+   - We need to exercise backup/restores in general
+       - [[Flancian]] tested backups for the wiki, restores come next :)
+ 
        
 ## [[2023-09-11]]
 
