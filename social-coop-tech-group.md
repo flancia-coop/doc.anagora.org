@@ -39,6 +39,10 @@ Here: [[Akshay]] [[Flancian]]
                - [[nix]]
                    - high barrier to entry
                    - on [[functional heads]] ;)
+           - ranked by ease-of-use
+               - if you use docker, [[coop cloud]]
+               - if you don't or want to do host-level stuff, [[ansible]]
+               - if you want full reproducibility, nix -- but that's not ease of use
    - SSO next steps
        - Backup/restore of users
        - Keeping users in sync with other sources we have currently:
