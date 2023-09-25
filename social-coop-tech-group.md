@@ -34,6 +34,11 @@ Here: [[Akshay]] [[Flancian]]
            - interesting
            - [[akshay]] concerns with putting stuff in the home directory.
            - [[reproducibility]] seems maybe a fuzzy area
+           - how does it compare with:
+               - [[ansible]]
+               - [[nix]]
+                   - high barrier to entry
+                   - on [[functional heads]] ;)
    - SSO next steps
        - Backup/restore of users
        - Keeping users in sync with other sources we have currently:
