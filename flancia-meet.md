@@ -5,7 +5,8 @@
 # [[flancia meet 2023-09-25]]
 
 - [[j0lms]] [[bernardo]]
-    - [[currículum]] [[analítico]] [[pasaporte]] [[titulo]] [[certificados]] debidamente [[apostillado]]
+    - [[currículum]] [[analítico]] [[pasaporte]] [[titulo]] [[certificados]] debidamente [[apostillado]] [[legalizado]]
+    - [[requisitos para visado de estudio]]
     - 
 
 
