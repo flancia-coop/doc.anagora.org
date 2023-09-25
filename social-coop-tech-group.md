@@ -55,6 +55,8 @@ Here: [[Akshay]] [[Flancian]]
        - Test federation fixes once they're there
    - We need to exercise backup/restores in general
        - [[Flancian]] tested backups for the wiki, restores come next :)
+       - next action: cronjobs? those could be in ansible?
+           - [[Akshay]] does coop cloud have cronjobs?
  
        
 ## [[2023-09-11]]
