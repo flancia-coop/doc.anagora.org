@@ -65,6 +65,7 @@ Here: [[Akshay]] [[Flancian]]
    - Can we model moderation using [[ActivityPub]]?
        - Instances could federate moderation decisions, optionally also ranking.
        - e.g. social.coop and autonomic reciprocally trust each other
+       - extending/generalizing #fediblock
        
 ## [[2023-09-11]]
 
