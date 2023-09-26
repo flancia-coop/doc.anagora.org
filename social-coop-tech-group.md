@@ -30,7 +30,8 @@ Mastodon upgrade party!
     - https://github.com/mastodon/mastodon/releases/tag/v4.1.7 looks good
     - https://github.com/mastodon/mastodon/releases/tag/v4.1.8 looks good
     - https://github.com/mastodon/mastodon/releases/tag/v4.1.9 looks good
-    - upgrade plan: go 4.1.4 -> 4.1.9 direct
+    - upgrade plan: go 4.1.4 -> 4.1.9 direct 
+        - PR: https://git.coop/social.coop/tech/ansible/-/merge_requests/31
     - then go 4.2
 
 ## [[2023-09-25]]
