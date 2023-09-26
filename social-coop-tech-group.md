@@ -34,6 +34,7 @@ Mastodon upgrade party!
         - PR: https://git.coop/social.coop/tech/ansible/-/merge_requests/31
     - then go 4.2
         - https://github.com/mastodon/mastodon/releases/tag/v4.2.0 non trivial
+        - PR: https://git.coop/social.coop/tech/ansible/-/merge_requests/32
 
 ## [[2023-09-25]]
 
