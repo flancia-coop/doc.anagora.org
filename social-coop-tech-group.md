@@ -29,7 +29,9 @@ Mastodon upgrade party!
     - https://github.com/mastodon/mastodon/releases/tag/v4.1.6 looks good
     - https://github.com/mastodon/mastodon/releases/tag/v4.1.7 looks good
     - https://github.com/mastodon/mastodon/releases/tag/v4.1.8 looks good
-    - https://github.com/mastodon/mastodon/releases/tag/v4.1.9
+    - https://github.com/mastodon/mastodon/releases/tag/v4.1.9 looks good
+    - upgrade plan: go 4.1.4 -> 4.1.9 direct
+    - then go 4.2
 
 ## [[2023-09-25]]
 
