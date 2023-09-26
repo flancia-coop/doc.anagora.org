@@ -20,7 +20,7 @@ Here: ...
        
 ## [[2023-09-26]]
 
-Here: [[Akshay]] [[Flancian]]
+Here: [[Akshay]] [[Flancian]] [[Calix]]
 
 Mastodon upgrade party!
 
