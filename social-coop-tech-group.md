@@ -33,6 +33,7 @@ Mastodon upgrade party!
     - upgrade plan: go 4.1.4 -> 4.1.9 direct 
         - PR: https://git.coop/social.coop/tech/ansible/-/merge_requests/31
     - then go 4.2
+        - https://github.com/mastodon/mastodon/releases/tag/v4.2.0 non trivial
 
 ## [[2023-09-25]]
 
