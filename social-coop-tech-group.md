@@ -20,6 +20,16 @@ Here: ...
        
 ## [[2023-09-26]]
 
+Here: [[Akshay]] [[Flancian]]
+
+Mastodon upgrade party!
+
+- checking update path
+    - https://github.com/mastodon/mastodon/releases/tag/v4.1.5 looks good
+    - https://github.com/mastodon/mastodon/releases/tag/v4.1.6 looks good
+    - https://github.com/mastodon/mastodon/releases/tag/v4.1.7 looks good
+    - https://github.com/mastodon/mastodon/releases/tag/v4.1.8 looks good
+    - https://github.com/mastodon/mastodon/releases/tag/v4.1.9
 
 ## [[2023-09-25]]
 
