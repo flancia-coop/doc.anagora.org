@@ -49,10 +49,16 @@
         - [[aram]] actually users are still really engaged with comments sections -- the reason that most publishers took them down was the moderation burden
             - comments-to-article pipelines were working quite well when they were being run
         - [[flancian]] on the [[moderation commons]]
+            - on quote tweets
             - an ongoing proposal
         - [[jerry michalski]] 
             - early aol forums
             - name recognition of forum handles
+        - [[aram zucker-scharff]]
+            - on different approaches to comments
+                - [[indieweb]]: you don't have normal replies to a post, you have to create a new post and link it to what you're commenting on
+                - [[twitter]] and quote tweets
+                - [[activitypub]] and [[mastodon]] design ecisions
 - Check ins
  
 ## [[2023-09-20]]
