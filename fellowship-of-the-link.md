@@ -59,10 +59,13 @@
                 - [[indieweb]]: you don't have normal replies to a post, you have to create a new post and link it to what you're commenting on
                 - [[twitter]] and quote tweets
                 - [[activitypub]] and [[mastodon]] design decisions (in particular not supporting)
+- [[neobooks]]
+    - one of Jerry's collaborators uses google docs instead of obsidian 
 - Check ins
-- Shared project
-    - [[intertwingle]] our notes together
-    - [[neobooks]]
+- Shared projects
+    - #push [[fotl projects]]
+        - [[intertwingle]] our notes together
+        - write [[neobooks]]
  
 ## [[2023-09-20]]
 - Attending: [[Jerry Michalski]], [[Flancian]], [[Aram Zucker-Scharff]], [[Peter Kaminski]]
