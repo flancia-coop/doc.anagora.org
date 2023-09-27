@@ -60,6 +60,8 @@
                 - [[twitter]] and quote tweets
                 - [[activitypub]] and [[mastodon]] design decisions (in particular not supporting)
 - Check ins
+- Shared project
+    - [[intertwingle]] our notes together
  
 ## [[2023-09-20]]
 - Attending: [[Jerry Michalski]], [[Flancian]], [[Aram Zucker-Scharff]], [[Peter Kaminski]]
