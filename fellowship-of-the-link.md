@@ -62,6 +62,7 @@
 - Check ins
 - Shared project
     - [[intertwingle]] our notes together
+    - [[neobooks]]
  
 ## [[2023-09-20]]
 - Attending: [[Jerry Michalski]], [[Flancian]], [[Aram Zucker-Scharff]], [[Peter Kaminski]]
