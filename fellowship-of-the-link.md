@@ -25,6 +25,12 @@
         - [[issue tracker]] / [[project tracker]] URL
             - [[github]] by default?
 
+## [[2023-09-27]]
+- Attending: [[Jerry Michalski]], [[Flancian]], [[Aram Zucker-Scharff]], [[Chris Aldrich]]
+- On traffic controllers and Reagan
+    - Strikes: writers, ato
+- Check ins
+ 
 ## [[2023-09-20]]
 - Attending: [[Jerry Michalski]], [[Flancian]], [[Aram Zucker-Scharff]], [[Peter Kaminski]]
 - Check ins
