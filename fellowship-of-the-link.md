@@ -61,7 +61,9 @@
                 - [[activitypub]] and [[mastodon]] design decisions (in particular not supporting)
 - [[neobooks]]
     - one of Jerry's collaborators uses google docs instead of obsidian 
-    - [[chris aldrich]] how do you leave signposts 
+    - [[chris aldrich]] how do you leave signposts to see resources elsewhere? e.g. in wikipedia, in an agora, etc.
+    - [[jerry michalski]] maintains a neighborhood visibility aspect in his brain
+    - [[chris aldrich]] [[zettel]]
 - Check ins
 - Shared projects
     - #push [[fotl projects]]
