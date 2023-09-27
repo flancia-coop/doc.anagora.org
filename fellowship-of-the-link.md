@@ -33,6 +33,9 @@
     - How did the republicans end up being middle-america/"popular" and the democrats end up being "intellectual"?
     - What about some new parties for a change ;)
     - [[Aram Zucker-Scharff]] https://twitter.com/bcmerchant/status/1706898148692762627 - [discussion about luddism in hackernews](https://news.ycombinator.com/item?id=37664682)
+    - On coopting the language of labour.
+    - [[the making of donald trump]] mentions [[4000 lawsuits]].
+    - [[Jerry Michalski]] on 
 - Check ins
  
 ## [[2023-09-20]]
