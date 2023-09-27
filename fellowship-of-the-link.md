@@ -35,7 +35,11 @@
     - [[Aram Zucker-Scharff]] https://twitter.com/bcmerchant/status/1706898148692762627 - [discussion about luddism in hackernews](https://news.ycombinator.com/item?id=37664682)
     - On coopting the language of labour.
     - [[the making of donald trump]] mentions [[4000 lawsuits]].
-    - [[Jerry Michalski]] on 
+    - [[Jerry Michalski]] on the weird hybrid of [[obamacare]] and the so called [[death panels]]
+        - https://en.wikipedia.org/wiki/Death_panel
+        - do we need a 'media drumbeat' to push back against this kind of thing?
+        - where?
+    - on the take "[[podcasts]] have become right wing media"
 - Check ins
  
 ## [[2023-09-20]]
