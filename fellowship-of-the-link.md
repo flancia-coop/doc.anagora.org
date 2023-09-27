@@ -28,7 +28,9 @@
 ## [[2023-09-27]]
 - Attending: [[Jerry Michalski]], [[Flancian]], [[Aram Zucker-Scharff]], [[Chris Aldrich]]
 - On traffic controllers and Reagan
-    - Strikes: writers, ato
+    - Ongoing strikes: writers, actors. There is high public approval for these.
+    - On the sustainability of the GOP being anti-labour.
+    - What about some new parties ;)
 - Check ins
  
 ## [[2023-09-20]]
