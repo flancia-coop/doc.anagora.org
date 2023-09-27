@@ -43,7 +43,10 @@
         - content policies are harder to enforce in audio land as it's easy to distribute (unlike video) and not too easy to parse/consume/detect (unlike text) (for now?).
     - [[vtaiwan]]
         - to reduce flamewars, they removed the reply feature (!)
-        - [[chris aldrich]] on newspapers removing comments sections.
+        - [[chris aldrich]] on newspapers removing comments sections -- and their history.
+            - [[free speech]] vs [[free reach]]
+        - [[aram]] actually users are still really engaged with comments sections -- the reason that most publishers took them down was the moderation burden
+        - [[flancian]] on the [[moderation commons]]
 - Check ins
  
 ## [[2023-09-20]]
