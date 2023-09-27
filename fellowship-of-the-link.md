@@ -65,7 +65,9 @@
     - [[jerry michalski]] maintains a neighborhood visibility aspect in his brain
     - [[chris aldrich]] [[zettelkasten]] has this in the sense of always having physical neighbors to the current index card
     - [[102 great ideas]] https://boffosocko.com/wp-content/uploads/2023/04/102-Ideas.jpg
-    - [[great books of the western world]]
+    - [[great books of the western world]] https://books.google.com/books?id=p0gEAAAAMBAJ&pg=PA92&source=gbs_toc_r&cad=2#v=onepage&q&f=false
+    - on feeding the [[noosphere]]
+        - is it a good term?
 - Check ins
 - Shared projects
     - #push [[fotl projects]]
