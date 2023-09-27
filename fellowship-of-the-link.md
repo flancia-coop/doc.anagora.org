@@ -50,7 +50,7 @@
             - comments-to-article pipelines were working quite well when they were being run
         - [[flancian]] on the [[moderation commons]]
             - on quote tweets
-            - an ongoing proposal
+            - an ongoing proposal: generalizing fediblock
         - [[jerry michalski]] 
             - early aol forums
             - name recognition of forum handles
@@ -58,7 +58,7 @@
             - on different approaches to comments
                 - [[indieweb]]: you don't have normal replies to a post, you have to create a new post and link it to what you're commenting on
                 - [[twitter]] and quote tweets
-                - [[activitypub]] and [[mastodon]] design ecisions
+                - [[activitypub]] and [[mastodon]] design decisions (in particular not supporting)
 - Check ins
  
 ## [[2023-09-20]]
