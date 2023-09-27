@@ -30,7 +30,9 @@
 - On traffic controllers and Reagan
     - Ongoing strikes: writers, actors. There is high public approval for these.
     - On the sustainability of the GOP being anti-labour.
-    - What about some new parties ;)
+    - How did the republicans end up being middle-america/"popular" and the democrats end up being "intellectual"?
+    - What about some new parties for a change ;)
+    - [[Aram Zucker-Scharff]] https://twitter.com/bcmerchant/status/1706898148692762627 - [discussion about luddism in hackernews](https://news.ycombinator.com/item?id=37664682)
 - Check ins
  
 ## [[2023-09-20]]
