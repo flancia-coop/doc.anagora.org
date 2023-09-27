@@ -45,9 +45,14 @@
         - to reduce flamewars, they removed the reply feature (!)
         - [[chris aldrich]] on newspapers removing comments sections -- and their history.
             - [[free speech]] vs [[free reach]]
+            - https://www.wired.com/story/free-speech-is-not-the-same-as-free-reach/
         - [[aram]] actually users are still really engaged with comments sections -- the reason that most publishers took them down was the moderation burden
             - comments-to-article pipelines were working quite well when they were being run
         - [[flancian]] on the [[moderation commons]]
+            - an ongoing proposal
+        - [[jerry michalski]] 
+            - early aol forums
+            - name recognition of forum handles
 - Check ins
  
 ## [[2023-09-20]]
