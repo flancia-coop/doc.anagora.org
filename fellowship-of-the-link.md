@@ -63,7 +63,7 @@
     - one of Jerry's collaborators uses google docs instead of obsidian 
     - [[chris aldrich]] how do you leave signposts to see resources elsewhere? e.g. in wikipedia, in an agora, etc.
     - [[jerry michalski]] maintains a neighborhood visibility aspect in his brain
-    - [[chris aldrich]] [[zettel]]
+    - [[chris aldrich]] [[zettelkasten]] has this in the sense of always having physical neighbors to the current index card
 - Check ins
 - Shared projects
     - #push [[fotl projects]]
