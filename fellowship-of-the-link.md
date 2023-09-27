@@ -40,6 +40,7 @@
         - do we need a 'media drumbeat' to push back against this kind of thing?
         - where?
     - on the take "[[podcasts]] have become right wing media"
+        - content policies are harder to enforce in audio land as it's easy to distribute (unlike video) and not too easy to parse/consume/detect (unlike text).
 - Check ins
  
 ## [[2023-09-20]]
