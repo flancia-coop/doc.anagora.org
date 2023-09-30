@@ -2,7 +2,12 @@
 - We meet best-effort every Saturday. UTC?
 - This is where we have community maintained notes :)
 
-# [[flancia meet 2023-09-23]]
+# [[flancia meet 2023-09-30]]
+- [[j0lms]] [[flancian]]
+- [[check ins]]
+    - [[social dilemma]]
+        - [[genocide in myanmar]] and [[meta]]'s role
+        - [[memes]] violentos
 
 # [[flancia meet 2023-09-25]]
 
