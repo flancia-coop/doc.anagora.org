@@ -2,6 +2,8 @@
 - We meet best-effort every Saturday. UTC?
 - This is where we have community maintained notes :)
 
+# [[flancia meet 2023-09-23]]
+
 # [[flancia meet 2023-09-25]]
 
 - [[j0lms]] [[bernardo]]
