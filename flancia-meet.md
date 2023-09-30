@@ -12,6 +12,7 @@
     - sobre los canales por los que fluyen los memes
     - existe gente joven que ve televisión?
         - en algunos lugares sí.
+       
 
 # [[flancia meet 2023-09-25]]
 
