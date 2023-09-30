@@ -8,6 +8,8 @@
     - [[social dilemma]]
         - [[genocide in myanmar]] and [[meta]]'s role
         - [[memes]] violentos
+    - [[memes]] constructivos
+    - sobre los canales por los que fluyen los memes
 
 # [[flancia meet 2023-09-25]]
 
