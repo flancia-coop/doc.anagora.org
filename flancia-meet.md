@@ -27,6 +27,7 @@
         - [[faerie queene]] de [[spenser]]
         - diálogo entre estados personificados
         - alegoría en la poesía como politeísmo sincretizado
+- [[brahms]]
 
 # [[flancia meet 2023-09-30]]
 - [[j0lms]] [[flancian]]
