@@ -7,6 +7,9 @@
     - researching [[telescopes]] to start the weekend :)
         - [[refractor]] vs [[reflector]]
         - [[reflectors]] require [[collimation]] but are overall more capable
+    - [[]]
+- [[j0lms]]
+    - [[metamorfosis fenomenológica]]
 
 # [[flancia meet 2023-09-30]]
 - [[j0lms]] [[flancian]]
