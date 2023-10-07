@@ -31,7 +31,10 @@
     - [[kitsch]] [[camp]] [[sonntag]]
         - https://www.cla.purdue.edu/academic/english/theory/postmodernism/terms/camp.html
         - https://www.cla.purdue.edu/academic/english/theory/postmodernism/terms/kitsch.html
-  
+- sobre [[lenin]] y la violencia
+    - puede ser shockeante :)
+    - sobre la comuna de parís
+    - https://en.wikipedia.org/wiki/The_State_and_Revolution
 
 # [[flancia meet 2023-09-30]]
 - [[j0lms]] [[flancian]]
