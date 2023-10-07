@@ -28,6 +28,7 @@
         - diálogo entre estados personificados
         - alegoría en la poesía como politeísmo sincretizado
 - [[brahms]]
+    - [[kitsch]] [[camp]] [[sonntag]]
 
 # [[flancia meet 2023-09-30]]
 - [[j0lms]] [[flancian]]
