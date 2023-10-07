@@ -12,8 +12,10 @@
     - ensayo: [[metamorfosis fenomenológica]]
     - metáforas
         - [[rueda de platón]]
-        - [[patlabor]]
-            - metáfora de la te
+        - [[patlabor]], [[evangelion]]
+            - metáfora de la tecnología
+            - el [[mecha]] como los medios masivos
+            - [[linebarger]] ~ [[cordwainer smith]]
 
 # [[flancia meet 2023-09-30]]
 - [[j0lms]] [[flancian]]
