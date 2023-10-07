@@ -25,6 +25,8 @@
     - [[cannabis]] y [[sagan]]
     - grupo de lectura en twitter
         - [[faerie queene]] de [[spenser]]
+        - diálogo entre estados personificados
+        - alegoría en la poesía como politeísmo sincretizado
 
 # [[flancia meet 2023-09-30]]
 - [[j0lms]] [[flancian]]
