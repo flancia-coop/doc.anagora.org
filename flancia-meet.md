@@ -16,6 +16,8 @@
             - metáfora de la tecnología
             - el [[mecha]] como los medios masivos
             - [[linebarger]] ~ [[cordwainer smith]]
+        - \<prefix\>/[[acc]]
+        - [[mark fisher]]
 
 # [[flancia meet 2023-09-30]]
 - [[j0lms]] [[flancian]]
