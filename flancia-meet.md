@@ -22,6 +22,9 @@
                 - prefer [[taixu]]
         - #push [[lafargue]]
             - [[right to be lazy]] 
+    - [[cannabis]] y [[sagan]]
+    - grupo de lectura en twitter
+        - [[faerie queene]] de [[spenser]]
 
 # [[flancia meet 2023-09-30]]
 - [[j0lms]] [[flancian]]
