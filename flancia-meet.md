@@ -2,6 +2,12 @@
 - We meet best-effort every Saturday. UTC?
 - This is where we have community maintained notes :)
 
+# [[flancia meet 2023-10-07]]
+- [[flancian]]
+    - researching [[telescopes]] to start the weekend :)
+        - [[refractor]] vs [[reflector]]
+        - [[reflectors]] require [[collimation]] but are 
+
 # [[flancia meet 2023-09-30]]
 - [[j0lms]] [[flancian]]
 - [[check ins]]
