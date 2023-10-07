@@ -20,7 +20,8 @@
         - [[mark fisher]]
             - comparison with self-immolating monks
                 - prefer [[taixu]]
-            - 
+        - #push [[lafargue]]
+            - [[right to be lazy]] 
 
 # [[flancia meet 2023-09-30]]
 - [[j0lms]] [[flancian]]
