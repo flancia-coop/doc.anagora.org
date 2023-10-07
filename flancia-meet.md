@@ -31,6 +31,7 @@
     - [[kitsch]] [[camp]] [[sonntag]]
         - https://www.cla.purdue.edu/academic/english/theory/postmodernism/terms/camp.html
         - https://www.cla.purdue.edu/academic/english/theory/postmodernism/terms/kitsch.html
+  
 
 # [[flancia meet 2023-09-30]]
 - [[j0lms]] [[flancian]]
