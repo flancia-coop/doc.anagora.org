@@ -7,6 +7,10 @@ Here: [[Akshay]], [[edsu]], [[Calix]]
 - Mastodon 4.1 upgrade report
     - A: was chill!
     - E: search improvements?
+- Tech roadmap? (from previous meeting)
+    - we think Flancian created a draft?
+    - https://anagora.org/twg-2024 
+    - 
 - Notes to future selves
     - Issues raised from CWG
         - TWG could take a look at the governance update proposal https://www.loomio.com/p/OI8kEjVz/social-coop-organizing-circle-proposal
