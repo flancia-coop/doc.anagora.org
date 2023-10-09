@@ -19,7 +19,9 @@ Here: [[Akshay]], [[edsu]], [[Calix]]
     - C: SSO does seem like a priority, for users to be able edit wiki they need to ask for a SSO account
     - E: Agree, it's a little better than what we had before, but not good that it's still gate-kept by the extra signin. Is the question whether to use SSO for social.coop mastodon?
     - A: Yes. wiki already uses it. Loomio we can't unless we selfhost. So just mastodon. Saw a similar migration done on another instance, was a bit of work.
-    - 
+    - A: we had good communication channels with our users via email about the change, and letting them know the change to the login
+    - C: I've only set up SSO for hometown, not sure how to hide the login button but it is important
+    - C: You can pay Loomio more money to get SSO working, but
 - Notes to future selves
     - Issues raised from CWG
         - TWG could take a look at the governance update proposal https://www.loomio.com/p/OI8kEjVz/social-coop-organizing-circle-proposal
