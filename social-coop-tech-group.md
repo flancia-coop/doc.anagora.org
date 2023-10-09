@@ -35,6 +35,9 @@ Here: [[Akshay]], [[edsu]], [[Calix]], [[Flancian]]
     - C: switching to hometown will need additionally planning since downgrading would be difficult/tricky ; we would need to slowdown updates to social.coop to let it catch up
     - F: we should leave in the roadmap in case people want to discuss, but not a priority
     - C: probably should put behind the wiki and SSO; we also should prioritize organizing circle involvement
+    - F: still is a question about Bonfire, but we can postpone discussion
+    - C: I wanted to ask about blip to access, on Sunday Oct 1. I didn't get around to seeing if datadog would be helpful to check what happened, also it's not clear if we are getting alerts about availability. I could ssh to it at the time.
+    - A: I did look at it and couldn't find any evidence; the Datadog credentials are in the password store. We don't monit
 - Notes to future selves
     - Issues raised from CWG
         - TWG could take a look at the governance update proposal https://www.loomio.com/p/OI8kEjVz/social-coop-organizing-circle-proposal
