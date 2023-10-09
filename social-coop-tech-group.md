@@ -1,7 +1,7 @@
 
 ## 2023-10-09
 
-Here: Akshay, edsu, 3wordchant
+Here: [[Akshay]], [[edsu]], [[Calix]]
 
 - Check ins
 - Mastodon 4.1 upgrade report
