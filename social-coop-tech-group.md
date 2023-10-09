@@ -4,6 +4,7 @@
 Here: Akshay, edsu, 3wordchant
 
 - Check ins
+- Mastodon 4.1 upgrade report
 - Notes to future selves
     - Issues raised from CWG
         - TWG could take a look at the governance update proposal https://www.loomio.com/p/OI8kEjVz/social-coop-organizing-circle-proposal
