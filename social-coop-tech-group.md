@@ -25,7 +25,9 @@ Here: [[Akshay]], [[edsu]], [[Calix]], [[Flancian]]
     - C: We did talk about migrating passwords, but we established that we couldn't because mastodon and keycloak use a different hashing algorithm
     - F: backups and restores are high priority still
     - F: we could extract email addresses from Mastodon, email them to create a new username and password, and give them a month, and then have a cutover. This would allow us to handwave migration.
-    - C: 
+    - C: if there's an ordering to the roadmap we could have SSO first; I think it would be confusing if you could login to mastodon with either approach (local vs sso). 
+    - F: agree
+    - A: we also did not have both, it was switched over on a particular day
 - Notes to future selves
     - Issues raised from CWG
         - TWG could take a look at the governance update proposal https://www.loomio.com/p/OI8kEjVz/social-coop-organizing-circle-proposal
