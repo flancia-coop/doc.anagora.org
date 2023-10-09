@@ -29,7 +29,7 @@ Here: [[Akshay]], [[edsu]], [[Calix]], [[Flancian]]
     - F: agree
     - A: we also did not have both, it was switched over on a particular day
     - F: we can generate a CSV of usernames and generate accounts for them, and then email them links to complete the setup
-    - 
+    - We should probably use a test instance to verify SSO/Keycloak is working with Mastodon.
 - Notes to future selves
     - Issues raised from CWG
         - TWG could take a look at the governance update proposal https://www.loomio.com/p/OI8kEjVz/social-coop-organizing-circle-proposal
