@@ -31,7 +31,7 @@ Here: [[Akshay]], [[edsu]], [[Calix]], [[Flancian]]
     - F: we can generate a CSV of usernames and generate accounts for them, and then email them links to complete the setup
     - We should probably use a test instance to verify SSO/Keycloak is working with Mastodon.
     - C: might be an opportunity to better integrate Ansible and coop.cloud tooling (abra)?
-    - 
+    - https://git.coopcloud.tech/coop-cloud/mastodon is the coop cloud recipe that we could use for this testing instance.
 - Notes to future selves
     - Issues raised from CWG
         - TWG could take a look at the governance update proposal https://www.loomio.com/p/OI8kEjVz/social-coop-organizing-circle-proposal
