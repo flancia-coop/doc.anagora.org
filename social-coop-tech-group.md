@@ -10,6 +10,8 @@ Here: [[Akshay]], [[edsu]], [[Calix]]
 - Tech roadmap? (from previous meeting)
     - we think Flancian created a draft?
     - https://anagora.org/twg-2024 
+    - A: would like to do SSO sooner vs later, then fewer people will need to go through migration steps
+    - E: Concerns about doing things just because we can (unless we're tightening up things we're already doing), e.g. bringing new services online -- does someone other than us want them?
     - 
 - Notes to future selves
     - Issues raised from CWG
