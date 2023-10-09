@@ -14,7 +14,8 @@ Here: [[Akshay]], [[edsu]], [[Calix]]
     - E: Concerns about doing things just because we can (unless we're tightening up things we're already doing), e.g. bringing new services online -- does someone other than us want them?
     - A: there has been interest in SSO, as well as some interest in Hometown
     - A: Hometown has been stuck on v4.0.x so it's of some concern
-    - 
+    - C: another concern is that there isn't a docker setup, so we would have to build our own, or move away from Docker at social.coop and lean more on Ansible
+    - C: do we want a roadmap to help us to communicate with other working groups better e.g. the Organizing Circle
 - Notes to future selves
     - Issues raised from CWG
         - TWG could take a look at the governance update proposal https://www.loomio.com/p/OI8kEjVz/social-coop-organizing-circle-proposal
