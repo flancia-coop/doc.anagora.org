@@ -1,7 +1,7 @@
 
 ## 2023-10-09
 
-Here: [[Akshay]], [[edsu]], [[Calix]]
+Here: [[Akshay]], [[edsu]], [[Calix]], [[Flancian]]
 
 - Check ins
 - Mastodon 4.1 upgrade report
@@ -23,6 +23,9 @@ Here: [[Akshay]], [[edsu]], [[Calix]]
     - C: I've only set up SSO for hometown, not sure how to hide the login button but it is important
     - C: You can pay Loomio more money to get SSO working. Agreed communication would be key, we would frustrate and potentially lose users if we didn't communicate properly.
     - C: We did talk about migrating passwords, but we established that we couldn't because mastodon and keycloak use a different hashing algorithm
+    - F: backups and restores are high priority still
+    - F: we could extract email addresses from Mastodon, email them to create a new username and password, and give them a month, and then have a cutover. This would allow us to handwave migration.
+    - C: 
 - Notes to future selves
     - Issues raised from CWG
         - TWG could take a look at the governance update proposal https://www.loomio.com/p/OI8kEjVz/social-coop-organizing-circle-proposal
