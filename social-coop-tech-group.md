@@ -28,7 +28,8 @@ Here: [[Akshay]], [[edsu]], [[Calix]], [[Flancian]]
     - C: if there's an ordering to the roadmap we could have SSO first; I think it would be confusing if you could login to mastodon with either approach (local vs sso). 
     - F: agree
     - A: we also did not have both, it was switched over on a particular day
-    - F
+    - F: we can generate a CSV of usernames and generate accounts for them, and then email them links to complete the setup
+    - 
 - Notes to future selves
     - Issues raised from CWG
         - TWG could take a look at the governance update proposal https://www.loomio.com/p/OI8kEjVz/social-coop-organizing-circle-proposal
