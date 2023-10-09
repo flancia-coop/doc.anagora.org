@@ -39,6 +39,7 @@ Here: [[Akshay]], [[edsu]], [[Calix]], [[Flancian]]
     - C: I wanted to ask about blip to access, on Sunday Oct 1. I didn't get around to seeing if datadog would be helpful to check what happened, also it's not clear if we are getting alerts about availability. I could ssh to it at the time.
     - A: I did look at it and couldn't find any evidence; the Datadog credentials are in the password store. We don't monitor a bunch of things, and maybe we should talk about that. Should we include Datadog/Grafana plans as part of the roadmap?
     - C: at coop.cloud we were using uptimerobot for a bit; we are doing self-monitoring, uptime-kuma at the moment; even signing up for a free service like pingdom.
+    - F: we should get it into the roadmap and make a request
 - Notes to future selves
     - Issues raised from CWG
         - TWG could take a look at the governance update proposal https://www.loomio.com/p/OI8kEjVz/social-coop-organizing-circle-proposal
