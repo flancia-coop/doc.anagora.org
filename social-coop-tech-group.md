@@ -21,7 +21,8 @@ Here: [[Akshay]], [[edsu]], [[Calix]]
     - A: Yes. wiki already uses it. Loomio we can't unless we selfhost. So just mastodon. Saw a similar migration done on another instance, was a bit of work.
     - A: we had good communication channels with our users via email about the change, and letting them know the change to the login
     - C: I've only set up SSO for hometown, not sure how to hide the login button but it is important
-    - C: You can pay Loomio more money to get SSO working, but
+    - C: You can pay Loomio more money to get SSO working. Agreed communication would be key, we would frustrate and potentially lose users if we didn't communicate properly.
+    - C: We did talk about migrating passwords, but we established that we couldn't because mastodon and keycloak use a different hashing algorithm
 - Notes to future selves
     - Issues raised from CWG
         - TWG could take a look at the governance update proposal https://www.loomio.com/p/OI8kEjVz/social-coop-organizing-circle-proposal
