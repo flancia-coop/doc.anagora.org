@@ -12,6 +12,8 @@ Here: [[Akshay]], [[edsu]], [[Calix]]
     - https://anagora.org/twg-2024 
     - A: would like to do SSO sooner vs later, then fewer people will need to go through migration steps
     - E: Concerns about doing things just because we can (unless we're tightening up things we're already doing), e.g. bringing new services online -- does someone other than us want them?
+    - A: there has been interest in SSO, as well as some interest in Hometown
+    - A: Hometown has been stuck on v4.0.x so it's of some concern
     - 
 - Notes to future selves
     - Issues raised from CWG
