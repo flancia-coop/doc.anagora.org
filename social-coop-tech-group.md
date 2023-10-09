@@ -33,7 +33,8 @@ Here: [[Akshay]], [[edsu]], [[Calix]], [[Flancian]]
     - C: might be an opportunity to better integrate Ansible and coop.cloud tooling (abra)?
     - https://git.coopcloud.tech/coop-cloud/mastodon is the coop cloud recipe that we could use for this testing instance.
     - C: switching to hometown will need additionally planning since downgrading would be difficult/tricky ; we would need to slowdown updates to social.coop to let it catch up
-    - 
+    - F: we should leave in the roadmap in case people want to discuss, but not a priority
+    - C: probably should put behind the wiki and SSO; we also should prioritize organizing circle involvement
 - Notes to future selves
     - Issues raised from CWG
         - TWG could take a look at the governance update proposal https://www.loomio.com/p/OI8kEjVz/social-coop-organizing-circle-proposal
