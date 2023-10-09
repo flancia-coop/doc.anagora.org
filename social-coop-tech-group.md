@@ -1,7 +1,7 @@
 
-## [[YYYY-MM-DD]]
+## 2023-10-09
 
-Here: ...
+Here: Akshay, edsu, 3wordchant
 
 - Check ins
 - Notes to future selves
@@ -17,7 +17,8 @@ Here: ...
         - There is some desire to have a bot that automatically boosts in-instance #introduction posts
     - Wiki next steps
        - We need to set up and test backup/restores
-       
+
+
 ## [[2023-09-26]]
 
 Here: [[Akshay]] [[Flancian]] [[Calix]]
