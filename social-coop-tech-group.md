@@ -16,7 +16,10 @@ Here: [[Akshay]], [[edsu]], [[Calix]]
     - A: Hometown has been stuck on v4.0.x so it's of some concern
     - C: another concern is that there isn't a docker setup, so we would have to build our own, or move away from Docker at social.coop and lean more on Ansible
     - C: do we want to add something to our roadmap about the Organizing Circle, to help us to communicate with other working groups better? e.g. how we rotate our representation there, what we should tell them, what we should ask
-    - C: SSO does seem like a priority, for users to be able edit wiki they need to ask 
+    - C: SSO does seem like a priority, for users to be able edit wiki they need to ask for a SSO account
+    - E: Agree, it's a little better than what we had before, but not good that it's still gate-kept by the extra signin. Is the question whether to use SSO for social.coop mastodon?
+    - A: Yes. wiki already uses it. Loomio we can't unless we selfhost. So just mastodon. Saw a similar migration done on another instance, was a bit of work.
+    - 
 - Notes to future selves
     - Issues raised from CWG
         - TWG could take a look at the governance update proposal https://www.loomio.com/p/OI8kEjVz/social-coop-organizing-circle-proposal
