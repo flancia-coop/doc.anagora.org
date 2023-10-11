@@ -25,6 +25,10 @@
         - [[issue tracker]] / [[project tracker]] URL
             - [[github]] by default?
 
+## [[2023-10-11]]
+- Attending: [[Jerry Michalski]], [[Flancian]], [[Aram Zucker-Scharff]], [[Peter Kaminski]]
+- 
+
 ## [[2023-09-27]]
 - Attending: [[Jerry Michalski]], [[Flancian]], [[Aram Zucker-Scharff]], [[Chris Aldrich]]
 - On traffic controllers and Reagan
