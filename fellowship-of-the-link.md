@@ -58,7 +58,7 @@
             - a lot of things are not yet scanned
             - which proportion made it already?
             - on the titanic battle brewing over copyright/ip
-            - 
+            - see also https://en.wikipedia.org/wiki/Library_Wars_(film)
 
 ## [[2023-09-27]]
 - Attending: [[Jerry Michalski]], [[Flancian]], [[Aram Zucker-Scharff]], [[Chris Aldrich]]
