@@ -37,6 +37,8 @@
             - half of the project is to create a shared vocabulary; half is putting together the community (incl. public institutions) to build a commons
             - national models -- e.g. gpt-sw3
             - [[aram zucker-scharff]] hadn't heard of these national models/sweden case, would love to read more about that
+            - [[pk]] + [[metasj]] https://www.ai.se/en/node/81535/gpt-sw3
+            - [[aram zucker-scharff]] on the potential of public data loss
 
 ## [[2023-09-27]]
 - Attending: [[Jerry Michalski]], [[Flancian]], [[Aram Zucker-Scharff]], [[Chris Aldrich]]
