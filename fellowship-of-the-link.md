@@ -63,7 +63,7 @@
         - [[pk]] think they might peter out / be settled in private
             - on the possible outcome being [[pay to play]] / [[open ai]] pulling the ladder (and complaining while they do it)
         - [[mistral]]
-        
+        - [[brainstorming]] [[open letters]] ;)
 
 ## [[2023-09-27]]
 - Attending: [[Jerry Michalski]], [[Flancian]], [[Aram Zucker-Scharff]], [[Chris Aldrich]]
