@@ -61,7 +61,7 @@
             - see also https://en.wikipedia.org/wiki/Library_Wars_(film)
     - on the legal battles that are coming
         - [[pk]] think they might peter out / be settled in private
-            - on the possible outcome being [[pay to play]]
+            - on the possible outcome being [[pay to play]] / [[open ai]] pulling the ladder (and complaining while they do it)
         - [[mistral]]
 
 ## [[2023-09-27]]
