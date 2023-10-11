@@ -53,7 +53,12 @@
                     - [[bruck fikru]]
         - [[jerry michalski]] what about the deconolizing version of [[102 great ideas]]
             - https://en.wikipedia.org/wiki/Paul_Otlet
-        - [[peter kaminski]] current LLM corpuses are large but not inclusive of 
+        - [[peter kaminski]] current LLM corpuses are large but not very inclusive of libraries
+        - are people working towards getting national libraries into LLMs?
+            - a lot of things are not yet scanned
+            - which proportion made it already?
+            - on the titanic battle brewing over copyright/ip
+            - 
 
 ## [[2023-09-27]]
 - Attending: [[Jerry Michalski]], [[Flancian]], [[Aram Zucker-Scharff]], [[Chris Aldrich]]
