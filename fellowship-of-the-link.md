@@ -26,8 +26,13 @@
             - [[github]] by default?
 
 ## [[2023-10-11]]
-- Attending: [[Jerry Michalski]], [[Flancian]], [[Aram Zucker-Scharff]], [[Peter Kaminski]]
-    - context.center has got
+- Attending: [[Jerry Michalski]], [[Flancian]], [[Aram Zucker-Scharff]], [[Peter Kaminski]], [[Samuel Klein]]
+    - context.center has gotten hooked up successfully with the Angora! 
+        - differences with linebreak interpretations 
+        - Interesting to see a paywalled personal wiki - https://wiki.nikiv.dev/web/search-engines 
+        - B/c Angora is not looking 
+    - discussing #PAIN ~ [[public ai network]]
+        - 
 
 ## [[2023-09-27]]
 - Attending: [[Jerry Michalski]], [[Flancian]], [[Aram Zucker-Scharff]], [[Chris Aldrich]]
