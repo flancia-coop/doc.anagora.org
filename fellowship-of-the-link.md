@@ -27,12 +27,14 @@
 
 ## [[2023-10-11]]
 - Attending: [[Jerry Michalski]], [[Flancian]], [[Aram Zucker-Scharff]], [[Peter Kaminski]], [[Samuel Klein]]
-    - context.center has gotten hooked up successfully with the Angora! 
+    - context.center has gotten [hooked up successfully](https://link.agor.ai/@context-center) with the Agora! 
         - differences with linebreak interpretations 
         - Interesting to see a paywalled personal wiki - https://wiki.nikiv.dev/web/search-engines 
-        - B/c Angora is not looking 
+        - B/c Agora is not looking at JSON it doesn't pull in the archived articles, but that's ok it prob shouldn't. 
     - discussing #PAIN ~ [[public ai network]]
-        - 
+        - (missed the beginning)
+        - [[metasj]] mix of closed and open models
+            - 
 
 ## [[2023-09-27]]
 - Attending: [[Jerry Michalski]], [[Flancian]], [[Aram Zucker-Scharff]], [[Chris Aldrich]]
