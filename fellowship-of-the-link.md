@@ -52,7 +52,8 @@
                     - even people at WorldCat are thinking about it (and they're not particularly bias-free)
                     - [[bruck fikru]]
         - [[jerry michalski]] what about the deconolizing version of [[102 great ideas]]
-        - https://en.wikipedia.org/wiki/Paul_Otlet
+            - https://en.wikipedia.org/wiki/Paul_Otlet
+        - [[peter kaminski]] current LLM corpuses are large but not inclusive of 
 
 ## [[2023-09-27]]
 - Attending: [[Jerry Michalski]], [[Flancian]], [[Aram Zucker-Scharff]], [[Chris Aldrich]]
