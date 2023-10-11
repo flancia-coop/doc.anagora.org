@@ -39,6 +39,8 @@
             - [[aram zucker-scharff]] hadn't heard of these national models/sweden case, would love to read more about that
             - [[pk]] + [[metasj]] https://www.ai.se/en/node/81535/gpt-sw3
             - [[aram zucker-scharff]] on the potential of public data loss
+    - what else do we want to take on today?
+        - [[flancian]] [[neobooks]]
 
 ## [[2023-09-27]]
 - Attending: [[Jerry Michalski]], [[Flancian]], [[Aram Zucker-Scharff]], [[Chris Aldrich]]
