@@ -27,7 +27,7 @@
 
 ## [[2023-10-11]]
 - Attending: [[Jerry Michalski]], [[Flancian]], [[Aram Zucker-Scharff]], [[Peter Kaminski]]
-- 
+    - context.center has got
 
 ## [[2023-09-27]]
 - Attending: [[Jerry Michalski]], [[Flancian]], [[Aram Zucker-Scharff]], [[Chris Aldrich]]
