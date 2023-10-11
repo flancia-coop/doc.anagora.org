@@ -61,6 +61,8 @@
             - see also https://en.wikipedia.org/wiki/Library_Wars_(film)
     - on the legal battles that are coming
         - [[pk]] think they might peter out / be settled in private
+            - on the possible outcome being [[pay to play]]
+        - [[mistral]]
 
 ## [[2023-09-27]]
 - Attending: [[Jerry Michalski]], [[Flancian]], [[Aram Zucker-Scharff]], [[Chris Aldrich]]
