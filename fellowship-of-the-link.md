@@ -45,7 +45,14 @@
         - or extending [[pattern language]]
             - [[metasj]] [[patternity test]] https://wiki.c2.com/?PatternityTest
             - [[Adler]] | [[Alexander]] | [[Gunkel]]
+            - [[dewey system]] for pattern languages?
+                - https://en.wikipedia.org/wiki/Universal_Decimal_Classification replaces it?
+                - [[metasj]]
+                    - there's an initiative to normalize the UDC and have it replace the DDS in the US
+                    - even people at WorldCat are thinking about it (and they're not particularly bias-free)
+                    - [[bruck fikru]]
         - [[jerry michalski]] what about the deconolizing version of [[102 great ideas]]
+        - https://en.wikipedia.org/wiki/Paul_Otlet
 
 ## [[2023-09-27]]
 - Attending: [[Jerry Michalski]], [[Flancian]], [[Aram Zucker-Scharff]], [[Chris Aldrich]]
