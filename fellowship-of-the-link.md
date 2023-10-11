@@ -31,10 +31,12 @@
         - differences with linebreak interpretations 
         - Interesting to see a paywalled personal wiki - https://wiki.nikiv.dev/web/search-engines 
         - B/c Agora is not looking at JSON it doesn't pull in the archived articles, but that's ok it prob shouldn't. 
-    - discussing #PAIN ~ [[public ai network]]
+    - discussing #PAIN ~ [[public ai network]] ~ https://publicai.network/
         - (missed the beginning)
         - [[metasj]] mix of closed and open models
-            - 
+            - half of the project is to create a shared vocabulary; half is putting together the community (incl. public institutions) to build a commons
+            - national models -- e.g. gpt-sw3
+            - [[aram zucker-scharff]] hadn't heard of these national models/sweden case, would love to read more about that
 
 ## [[2023-09-27]]
 - Attending: [[Jerry Michalski]], [[Flancian]], [[Aram Zucker-Scharff]], [[Chris Aldrich]]
