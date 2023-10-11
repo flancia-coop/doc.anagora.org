@@ -41,10 +41,11 @@
             - [[aram zucker-scharff]] on the potential of public data loss
     - what else do we want to take on today?
         - [[flancian]] [[neobooks]]
-        - extending the [[102 great ideas]] project
+        - extending the [[102 great ideas]] project and other friendly-parasitical (symbiotic) projects
         - or extending [[pattern language]]
-            - [[metasj]] https://wiki.c2.com/?PatternityTest
-            - 
+            - [[metasj]] [[patternity test]] https://wiki.c2.com/?PatternityTest
+            - [[Adler]] | [[Alexander]] | [[Gunkel]]
+        - [[jerry michalski]] what about the deconolizing version of [[102 great ideas]]
 
 ## [[2023-09-27]]
 - Attending: [[Jerry Michalski]], [[Flancian]], [[Aram Zucker-Scharff]], [[Chris Aldrich]]
