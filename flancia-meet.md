@@ -3,6 +3,12 @@
 - This is where we have community maintained notes :)
 
 # [[flancia meet 2023-12-08]]
+- [[j0lms]]
+    - very nice, see [[2023-12-08]]
+- [[doing]]:
+    - [[rocket links]] could work as [[pulls]]?
+
+# [[flancia meet 2023-12-01]]
 - [[bouncepaw]] back in university!
     - a lunch:
         - pasta with turkey cutlets
