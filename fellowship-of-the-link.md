@@ -25,6 +25,163 @@
         - [[issue tracker]] / [[project tracker]] URL
             - [[github]] by default?
 
+## [[2023-12-06]]
+- Attending: [[Aram Zucker-Scharff]] [[Bentley]] [[Jerry Michalski]] [[Flancian]] [[Chris Aldrich]] [[Michael Grossman]]
+- Checkins
+    - Health issues galore
+        - [[Slime]] / [[cold]]
+        - [[Malaria]]
+        - and other [[Parasites]] :(
+    - [[poop bank]] idea
+        - on transporting biomes
+        - [[against the grain]]: a book
+            - [[cooked]] and [[uncooked]] people
+            - [[age old divide]]: [[city]] vs [[countryside]]
+                - [[murray bookchin]]
+    - on sarcastic vs earnest AIs
+- What's on our minds?
+    - [[AIs]] as per the above
+    - [[Publishing industry]] woes
+        - #JM on [[April]]'s experience: most publishers are picking top 2-3 books to advertise/market and not marketing the others at all
+            - she participated in ~100 podcasts. 
+            - [[book]]: https://fluxmindset.com
+    - [[Neobook]]:
+        - #JM [[Books]] are rollups of [[nuggets]]
+        - #CA which licensing are you putting on the books you're writing?
+            - #JM CC0 is the default
+        - #CA are you aware of [[OER]]: [[Open Educational Resources]]?
+            - https://bra.in/2vNAeW
+            - https://boffosocko.com/2018/08/30/the-sixth-r-of-open-educational-resources-oer/
+        - [[neobooks]]:
+            - [[design from trust]]:
+                - https://wiki.openglobalmind.com/projects/jerry's_nuggets/dft_book_contents_(the_toc)
+                - https://link.agor.ai/nuggets-are-really-powerful is interesting
+                - on [[types]] of [[nuggets]] and their [[outputs]]
+            - and three-four more :)
+            - #CA on [[webmentions]] as a framework for communicating derivative work -- on getting [[linkbacks]]
+            - [[flancian]] [[webfinger]] for communicating about users/authors and [[webmentions]] for communicating about [[nuggets]]?
+            - #CA [[marginalia]] using [[indieweb]]: https://kartikprabhu.com/article/indieweb-love-blog
+            - #JM https://www.workings.tools/p/wonkish-obsidian-footnotes-as-sidenotes
+            - #CA [[the great conversation]]: "the reason you want to read Aristotle and Plato is that they started a conversation we're still having thousands of years later".
+                - https://www.amazon.com/Great-Conversation-Books-Western-World/dp/B000BO9PHY/jerrymichalskisr
+                - Jerry Michalski says: https://en.wikipedia.org/wiki/Great_Conversation
+                - https://en.wikipedia.org/wiki/Robert_Maynard_Hutchins
+            - #CA https://mitpressonpubpub.mitpress.mit.edu/pub/syyor4ra/release/1#commentary-and-the-talmud as an exam
+    - [[Agora]] + [[December Adventure]] updates
+
+## [[2023-11-29]]
+- Attending: [[Peter Kaminski]] [[Aram Zucker-Scharff]] [[Chris Aldrich]] [[Flancian]]
+- [[Peter Kaminski]]
+    - Teaching AI to people.
+    - Got back into [[NFTs]].
+        - Platform for AI art.
+        - [[Midjourney]] art.
+            - Some of it rises into fine art territory.
+    - [[Thessos]] [[hic et nunc]] [[thea]]
+    - [[question for this group]]
+        - looking for a new [[mastodon]] server
+        - [[flancian]] likes social.coop :D
+        - [[chris aldrich]] have you considered building [[activitypub]] into [[massive wiki]]?
+            - [[pk]] some concerns with how AP works as a protocol, how the community innovates
+                - [[nostr]] seems more promising community wise maybe
+                - [[aram zucker-scharff]] interesting; I like the protocol but never felt like they had any community development
+                - [[pk]] likes the [[NIP]]s
+                - [[activitypub]] is more traditional governance wise
+                - [[azs]] interesting, from my perspective it seems like the opposite! take e.g. [[pixelhub]] doing independent development of [[ap]]
+                - [[ca]] https://phanpy.social/#/universeodon.com/s/111478703259005044?view=full
+                - [[ca]] wordpress is working on being [[activitypub]] compatible
+                - [[peter kaminski]] [[ghost]] with [[activitypub]] seems really nice
+                - [[flancian]] it seems like it is near mainstream. 
+                    - planning on adding support to the [[agora]]
+                    - [[bouncepaw]] added it to [[betula]]
+                - [[azs]] it seems like it's winning for the 'event feed' space
+            - [[bluesky]] as compared to [[activitypub]] and [[nostr]]
+        - on the pitfalls of being in a small [[mastodon]] instance
+            - you don't know what you don't know: you'll only see very few hashtags
+        - on the fragmentation of the fediverse due to no platform supporting all content types/activities
+            - [[mastodon]]
+            - [[pixelfed]]
+            - [[peertube]]
+            - [[write freely]]
+        - on what [[wordpress]] managed to pull off
+            - [[automattic]]
+            - on the [[tumblr]] [[activitypub]] promise
+        - [[ca]]
+            - [[micro.blog]] is a good social reader for reading blogs, mastodon, etc. 
+                - Here's the reader version of my website in  micro.blog:  https://micro.blog/chrisaldrich@boffosocko.com
+            - I'm thinking some of the problems of supporting all the things are related to [[Ross Ashby]]'s law of requisite variety: https://www.edge.org/response-detail/27150
+        - on [[adaptive interfaces]]
+            - quality that comes out of limitations (e.g. twitter surfacing only a tiny text box to write -- or index cards)
+            - ideal writing interfaces?
+                - [[twitter]]
+                - [[ghost]]
+                - [[typora]]
+                - [[bear]]
+        - [[factr]]
+        - [[sweetcron]] https://code.google.com/archive/p/sweetcron/
+            - something like this should exist but it doesn't seem like it currently does?
+        - [[flancian]] on the idea of the [[signup router]] and integrating activitypub streams onto a higher level 'person' (or circle?) entity
+        - [[ca]] I think all the variations of cross-posting and their directionality are documented here: https://indieweb.org/cross-posting
+            - Dec 16-17 [[indieweb camp]] in person: https://indieweb.org/2023/SD
+ 
+ 
+           
+ 
+
+## [[2023-11-08]]
+- Attending: [[Jerry Michalski]], [[Aram Zucker-Scharff]], [[Peter Kaminski]], [[Chris Aldrich]], [[Michael Grossman]]
+    - GPTs new feature from open AI
+    - https://openai.com/blog/introducing-gpts
+        - Aram: Potentially helping out on licencing. 
+    - Alternative being worked on - https://poe.com/login
+        - Can be monitized. 
+    - OpenAI is crap at billing and that makes accessing new features that are gated behind a payment level hard. 
+    - https://questy.ai/ 
+    - AI Entrepreneurship 
+        - https://myhub.ai/
+        - Thinking about how to start stuff up around AI and how they can get marketing and startup help. 
+        - Special interest group of AI entrepreneurs. 
+        - What do we do with large language models and the brain? 
+        - [[AI + Knowledge Graphs]]
+    - #push [[TheClimateWeb]]
+        - Climate Change materials and research in the Brain app - a commercial product. 
+        - http://www.theclimateweb.com/
+    - Climate
+        - Chris: Interesting look at some of the problems around informing people and the history here in [[The Parrot and the Igloo: Climate and the Science of Denial]] https://www.goodreads.com/book/show/56769547-the-parrot-and-the-igloo?ac=1&from_search=true&qid=WHye3QAKxt&rank=1 
+        - Also check out [[Merchants of Doubt: How a Handful of Scientists Obscured the Truth on Issues from Tobacco Smoke to Global Warming]]
+        - Peter: von Humboldt's observation re:climate is ca. 1819. https://blog.biodiversitylibrary.org/2020/10/alexander-von-humboldt.html#:~:text=It%20was%20also%20in%20Cumana,climate%20change%20and%20destroy%20ecosystems
+            - Jerry: https://www.alternet.org/2019/09/alexander-von-humboldt-the-first-person-to-understand-climate-change-more-than-200-years-ago
+        - Aram: Some explainers I found on this that were pretty good - https://context.center/topics/climate-change/#explainers 
+            - And a collection on dealing with misinformation - https://context.center/topics/misinformation/#dealing-with-misinformation
+        - https://en.wikipedia.org/wiki/Montreal_Protocol 
+        - https://www.versobooks.com/products/2649-how-to-blow-up-a-pipeline 
+        - https://en.wikipedia.org/wiki/The_Monkey_Wrench_Gang 
+        - https://en.wikipedia.org/wiki/Jacques_Attali
+        - https://en.wikipedia.org/wiki/Ecotopia 
+    - https://en.wikipedia.org/wiki/Homestead_strike 
+    - https://en.wikipedia.org/wiki/Battle_of_Blair_Mountain
+        - Good on blair mountain - https://youtu.be/CGGWcFArufA?si=dFZH_Y1ngppfvTWR
+    - https://www.gawker.com/politics/the-joe-manchin-trolley-problem
+    - https://en.wikipedia.org/wiki/Presentism_(historical_analysis)
+ 
+
+## [[2023-10-18]]
+- Attending: [[Chris Aldrich]] [[Jerry Michalski]] [[Peter Kaminski]], [[Aram Zucker-Scharff]], [[Bentley Davis]], [[Eduardo Ivanec]]
+    - Possible projects
+        - [[social rerere]]
+        - [[knowledge commons]] extension for [[obsidian]], [[vscode]]
+            - lets you hook up vaults/repos with e.g. [[massive wiki]], [[agora]], other projects in this space.
+        - [[plugins]] are the way to go 
+        - [[chris aldrich]] if you can put together something that solves 'publishing' for free (obsidian sync-like)
+    - We had a 'split community' situation today because of Jitsi + Meet
+        - We'll be converging onto Zoom from now on for a few iterations as Jitsi is not working great sometimes, and Meet doesn't support recordings
+        - Expect the link to be: <link>
+    - More on sync
+        - [[synthing]] works quite well with obsidian, and is non-tech-user-friendly
+    - [[neobooks]] next week
+        - on transclusion: https://prosefusion.cloud/git_and_github_notes/pete's_git_tips_and_tricks/git_tips_and_tricks
+        - looking forward to write!
+
 ## [[2023-10-11]]
 - Attending: [[Jerry Michalski]], [[Flancian]], [[Aram Zucker-Scharff]], [[Peter Kaminski]], [[Samuel Klein]]
     - context.center has gotten [hooked up successfully](https://link.agor.ai/@context-center) with the Agora! 

@@ -1,6 +1,90 @@
 # Flancia Meet
-- We meet best-effort every Saturday. UTC?
+- We meet best-effort every Saturday usually around 9 UTC.
 - This is where we have community maintained notes :)
+
+# [[flancia meet 2023-12-08]]
+- [[bouncepaw]] back in university!
+    - a lunch:
+        - pasta with turkey cutlets
+        - bell pepper
+            - half a dollar for one pepper!
+        - chicory
+    - [[dobry cola]]
+    - [[belarussian]]
+        - [[addis abeba]] band
+- [[flancian]] back in non-pain land
+- [[uxn legoptics]]
+- [[december adventure 2023]]
+    - https://eli.li/december-adventure
+    - [[flancian]] will also sign up: [[doing]]
+- [[java project]]
+- [[wintergatan]] [[marble machine]] https://www.youtube.com/watch?v=IvUU8joBb1Q
+
+
+# [[flancia meet 2023-11-18]]
+- [[flancian]] back in town!
+- [[j0lms]]
+    - [[catherine malabou]]
+    - [[utilitarismo]]
+        - [[conclusión repugnante]]
+    - [[utilidad]] como [[antifrustración]]: https://en.wikipedia.org/wiki/Antifrustrationism
+    - [[elections]]
+        - [[international]]
+        - [[venezuelan]]
+            - [[maría corina machado]]: https://en.wikipedia.org/wiki/Mar%C3%ADa_Corina_Machado
+        - [[the author as producer]]: https://www.marxists.org/reference/archive/benjamin/1970/author-producer.htm
+
+# [[flancia meet 2023-10-28]] [[2023-11-04]] [[2023-11-11]]
+- Hiatus due to holidays :) 
+
+# [[flancia meet 2023-10-21]]
+- [[bouncepaw]] [[flancian]]
+- Issues joining this call
+    - [[flancian]] had to restart [[chromium]]
+    - [[bouncepaw]] now using [[yandex browser]], no way of joining from very outdated [[opera]]
+        - turns out that [[yandex browser]] does live dubbing of english videos (!)
+        - yandex browser is very popular in Russia
+        - it has many features
+        - kinda laggy
+    - on [[brave]]
+        - [[fediversians]] don't like it because of the crypto and [[Brandan Eich]]
+            - he developed [[javascript]] in a very short time
+- [[David Revoy]] illustrates free projects
+- Switching [[Jitsi]] instance
+    - [[Framatalk]]
+    - ‘It's very French but it's fine’
+- [[blog post]] by [[schroeder]]
+    - [[writing pages offline]] some of the time: https://alexschroeder.ch/view/2023-10-17-write-offline
+    - is [[email]] coming back?
+        - on comments through emails
+        - on publishing to the agora or betula through email
+        - [[flancian]] used [[sylpheed claws]] and [[mutt]]
+    - [[bouncepaw]] thinks his writing could be a great addition to the Agora
+    - [[wiki culture]] https://alexschroeder.ch/view/2023-10-11-wiki-culture
+    - [[inclusionism]] vs [[deletionism]]: https://gwern.net/inclusionism
+    - on [[wikia]] being awful
+        - [[bouncepaw]] [[minecraft wiki]] went to [[wikia]], became terrible, now moved to https://minecraft.wiki
+        - "you look like someone who would like minecraft"
+    - what are good [[wiki farms]]?
+        - https://en.wikipedia.org/wiki/Comparison_of_wiki_hosting_services looks like it could be improved
+        - But https://www.mediawiki.org/wiki/Hosting_services looks much better and it's linked from there.
+- what are we up to?
+    - [[bouncepaw]] assignment
+        - prove that a picture is worth a thousand words :)
+        - compare entropy in image and text
+        - [[R]] language
+    - [[flancian]] [[executable nodes]]
+        - compare with 2021 [[dynamic hyphae]] https://mycorrhiza.wiki/hypha/idea/dynamic_hyphae
+        - [[prime]]
+        - [[hex]]
+        - [[dice]]
+    - [[entropy]] https://arxiv.org/pdf/0911.2284.pdf
+    - [[hypercard]] -> [[decker]]
+
+# [[flancia meet 2023-10-14]]
+- [[flancian]]
+    - doing some trip planning :)
+    - [[trip to x]]
 
 # [[flancia meet 2023-10-07]]
 - [[flancian]]

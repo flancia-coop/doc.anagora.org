@@ -1,4 +1,18 @@
 
+## 2023-12-04
+
+Here: [[edsu]], [[Flancian]]
+- Check ins
+- Our mission: upgrade to Mastodon 4.2.2
+    - https://github.com/mastodon/mastodon/releases/tag/v4.2.2
+    - question: do we go to https://github.com/mastodon/mastodon/releases/tag/v4.2.1 first or go straight to 4.2.2?
+        - both migrations are straightforward, no migrations involved, so it seems we could go straight to 4.2.2
+    - let's try going to 4.2.2
+        - let's make sure backups are running
+        - they are: https://cloud.digitalocean.com/spaces/social-coop-media?i=7e7429&path=backups%2Frhizome%2F -- last backup 7h ago
+    - https://git.coop/social.coop/tech/ansible/-/merge_requests/33
+    - ...and it worked!
+
 ## 2023-10-09
 
 Here: [[Akshay]], [[edsu]], [[Calix]], [[Flancian]]
