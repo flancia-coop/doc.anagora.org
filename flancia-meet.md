@@ -14,7 +14,10 @@
         - [[lord of the wind]] (2023)
         - [[leviathan]] (2014) <- recommended
 - [[Fediverse]]
-    - does [[flancian]]
+    - does [[flancian]] read 800 people?
+        - nope
+        - would like to have +1 for profiles and have that go into weighting
+    - [[postmarks]] is like [[betula]]
         
 
 
