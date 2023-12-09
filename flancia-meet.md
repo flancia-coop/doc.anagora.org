@@ -2,6 +2,12 @@
 - We meet best-effort every Saturday usually around 9 UTC.
 - This is where we have community maintained notes :)
 
+# [[flancia meet 2023-12-09]]
+- [[bouncepaw]] [[flancian]]
+- [[Jules Verne]]
+
+
+
 # [[flancia meet 2023-12-08]]
 - [[j0lms]]
     - very nice, see [[2023-12-08]]
