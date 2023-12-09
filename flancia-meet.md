@@ -8,9 +8,11 @@
     - [[bouncepaw]] played him in a school play
     - [[flancian]] read him back when he was a kid/young teenager
     - travelling in [[balloon]]
-    - [[80 days]]
-    - [[movies]]
-        - [[leviathan]]
+    - [[around the world in 80 days]]
+    - [[flancian]] liked that and [[five weeks in balloon]] as a kid
+    - [[movies]]:
+        - [[lord of the wind]] (2023)
+        - [[leviathan]] (2014) <- recommended
 
 
 # [[flancia meet 2023-12-08]]
