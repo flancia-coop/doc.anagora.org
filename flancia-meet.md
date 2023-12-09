@@ -5,7 +5,8 @@
 # [[flancia meet 2023-12-09]]
 - [[bouncepaw]] [[flancian]]
 - [[Jules Verne]]
-
+    - [[bouncepaw]] played him in a school play
+    - [[flancian]] read him back when he was a kid/young teenager
 
 
 # [[flancia meet 2023-12-08]]
