@@ -8,6 +8,9 @@
     - [[bouncepaw]] played him in a school play
     - [[flancian]] read him back when he was a kid/young teenager
     - travelling in [[balloon]]
+    - [[80 days]]
+    - [[movies]]
+        - [[leviathan]]
 
 
 # [[flancia meet 2023-12-08]]
