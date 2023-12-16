@@ -9,6 +9,11 @@
     - [[abraham moles]]:
         - [[kitsch]] [[cibernético]]
 
+## Later on...
+
+- [[flancian]]
+    - 
+
 # [[flancia meet 2023-12-09]]
 - [[bouncepaw]] [[flancian]]
 - [[Jules Verne]]
