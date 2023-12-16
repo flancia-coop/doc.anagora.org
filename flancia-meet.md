@@ -2,6 +2,13 @@
 - We meet best-effort every Saturday usually around 9 UTC.
 - This is where we have community maintained notes :)
 
+# [[flancia meet 2023-12-16]]
+- [[j0lms]] [[flancian]]
+    - el algoritmo -> [[los algoritmos]]
+    - lo [[sublime tecnológico]]
+    - [[abraham moles]]:
+        - [[kitsch]] [[cibernético]]
+
 # [[flancia meet 2023-12-09]]
 - [[bouncepaw]] [[flancian]]
 - [[Jules Verne]]
