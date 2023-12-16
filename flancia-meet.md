@@ -12,7 +12,10 @@
 ## Later on...
 
 - [[flancian]]
-    - 
+    - testing https://anagora.org/flancia+meet in the Agora
+    - Framatalk (meeting name flancia-meet, it doesn't support pluses or many other characters out of the box) embeds very nicely.
+    - I like having the video and the document side by side.
+    - will be doing [[agora development]] here for a while
 
 # [[flancia meet 2023-12-09]]
 - [[bouncepaw]] [[flancian]]
