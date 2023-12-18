@@ -1,4 +1,13 @@
 
+## 2023-12-18
+Here: [[flancian]] :)
+
+Wish you all a great holiday season! Some topics:
+
+- We could simplify the static site and insert references to wiki.social.coop.
+    - [ ] We have to set up automatic backups for wiki.social.coop.
+- [[twg 2024]]
+
 ## 2023-12-04
 
 Here: [[edsu]], [[Flancian]]
