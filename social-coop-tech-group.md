@@ -15,7 +15,7 @@ Here: [[edsu]], [[Flancian]]
 
 ## 2023-10-09
 
-Here: [[Akshay]], [[edsu]], [[Calix]], [[Flancian]]
+Here: [[Akshay]], [[edsu]]I'll b, [[Calix]], [[Flancian]]
 
 - Check ins
 - Mastodon 4.1 upgrade report
