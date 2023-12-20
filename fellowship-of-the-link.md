@@ -31,6 +31,9 @@
 - On [[sizzle reels]]
     - [[April Rinne]]: https://vimeo.com/885454720?share=copy
     - on [[GPTV]] and [[Pika]]
+    - on [[storyboard generator]]
+- [[Topics]]
+    - [[flancian]] has a maybe demo :)
 
 ## [[2023-12-06]]
 - Attending: [[Aram Zucker-Scharff]] [[Bentley]] [[Jerry Michalski]] [[Flancian]] [[Chris Aldrich]] [[Michael Grossman]]
