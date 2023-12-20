@@ -25,6 +25,10 @@
         - [[issue tracker]] / [[project tracker]] URL
             - [[github]] by default?
 
+## [[2023-12-20]]
+- Attending: [[Jerry Michalski]] [[Flancian]]
+- On end of the year and the year as it was
+
 ## [[2023-12-06]]
 - Attending: [[Aram Zucker-Scharff]] [[Bentley]] [[Jerry Michalski]] [[Flancian]] [[Chris Aldrich]] [[Michael Grossman]]
 - Checkins
