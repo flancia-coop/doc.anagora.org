@@ -35,13 +35,14 @@
 - [[Topics]]
     - [[flancian]] has a demo :)
         - as part of [[december adventure]]
+        - [[mistral]] integration :)
         - on [[neobooks]]
     - [[michael grossman]] thoughts about objects and [[personal archiving]]
         - how to help people [[inventory]] and deal with facts in their lives
         - this is particularly relevant for older people maybe
         - would like to:
             - help people know what they have
-            - 
+            - and their value as it relates with e.g. online markets
     - [[jerry michalski]] [[thinking like a neobook]]
 
 ## [[2023-12-06]]
