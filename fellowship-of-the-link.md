@@ -46,6 +46,8 @@
             - [[passive marketplace]] and also [[not a marketplace]]
         - [[jerry michalski]]
             - take pictures of spines of books
+        - #MG From the Tenement museum, people tell stories attached to objects: 
+https://yourstory.tenement.org/stories
     - [[jerry michalski]] [[thinking like a neobook]]
     - [[aram zucker-scharff]] 
         - working on a demo of a media player and website configuration that lets you build static pages but have them act in a single page application style way, with the particularity that the media player is sticky/always on top while you browse around the site
