@@ -47,6 +47,8 @@
         - [[jerry michalski]]
             - take pictures of spines of books
     - [[jerry michalski]] [[thinking like a neobook]]
+    - [[aram zucker-scharff]] 
+        - working on a demo of a media player and website configuration that lets you build stati
 
 ## [[2023-12-06]]
 - Attending: [[Aram Zucker-Scharff]] [[Bentley]] [[Jerry Michalski]] [[Flancian]] [[Chris Aldrich]] [[Michael Grossman]]
