@@ -28,6 +28,8 @@
 ## [[2023-12-20]]
 - Attending: [[Jerry Michalski]] [[Flancian]]
 - On end of the year and the year as it was
+- On [[sizzle reels]]
+    - [[April Rinne]]: https://vimeo.com/885454720?share=copy
 
 ## [[2023-12-06]]
 - Attending: [[Aram Zucker-Scharff]] [[Bentley]] [[Jerry Michalski]] [[Flancian]] [[Chris Aldrich]] [[Michael Grossman]]
