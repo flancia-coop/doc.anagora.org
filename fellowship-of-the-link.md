@@ -33,10 +33,16 @@
     - on [[GPTV]] and [[Pika]]
     - on [[storyboard generator]]
 - [[Topics]]
+    - [[flancian]] has a demo :)
+        - as part of [[december adventure]]
+        - on [[neobooks]]
     - [[michael grossman]] thoughts about objects and [[personal archiving]]
+        - how to help people [[inventory]] and deal with facts in their lives
+        - this is particularly relevant for older people maybe
+        - would like to:
+            - help people know what they have
+            - 
     - [[jerry michalski]] [[thinking like a neobook]]
-    - [[flancian]] has a maybe demo :)
-        - as part is [[december adventure]]
 
 ## [[2023-12-06]]
 - Attending: [[Aram Zucker-Scharff]] [[Bentley]] [[Jerry Michalski]] [[Flancian]] [[Chris Aldrich]] [[Michael Grossman]]
