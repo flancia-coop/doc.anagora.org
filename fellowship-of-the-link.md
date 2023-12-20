@@ -44,6 +44,8 @@
             - help people know what they have
             - and their value as it relates with e.g. online markets
             - [[passive marketplace]] and also [[not a marketplace]]
+        - [[jerry michalski]]
+            - take pictures of spines of books
     - [[jerry michalski]] [[thinking like a neobook]]
 
 ## [[2023-12-06]]
