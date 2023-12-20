@@ -48,7 +48,7 @@
             - take pictures of spines of books
     - [[jerry michalski]] [[thinking like a neobook]]
     - [[aram zucker-scharff]] 
-        - working on a demo of a media player and website configuration that lets you build stati
+        - working on a demo of a media player and website configuration that lets you build static pages but have them act in a single page application style way, with the particularity that the media player is sticky/always on top while you browse around the site
 
 ## [[2023-12-06]]
 - Attending: [[Aram Zucker-Scharff]] [[Bentley]] [[Jerry Michalski]] [[Flancian]] [[Chris Aldrich]] [[Michael Grossman]]
