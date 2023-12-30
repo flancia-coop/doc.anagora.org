@@ -10,6 +10,10 @@
     - [[amnesiac]] is flancian's favorite
     - [[pablo honey]]
 - bouncepaw is going to [[Ufa]] in several hours
+- [[napster]]
+    - kinda like [[syncthing]]!
+    - was used for pirating music
+    - then people moved on to: [[emule]] (not so great), [[bittorrent]] (distributed), [[soulseek]] (more in the spirit of Napster)
 
 # [[flancia meet 2023-12-16]]
 - [[j0lms]] [[flancian]]
