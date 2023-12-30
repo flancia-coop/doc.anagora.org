@@ -25,7 +25,7 @@
 - being kind is not easy nor simple
     - but it's usually constructive/worth a try
 - on [[magyar]] in [[bashkortostan]]
-    
+- comfort back home
 
 
 # [[flancia meet 2023-12-16]]
