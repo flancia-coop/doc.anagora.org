@@ -26,7 +26,7 @@
     - but it's usually constructive/worth a try
 - on [[magyar]] in [[bashkortostan]]
 - comfort back home
-
+- [[Zelenodolsk]]
 
 # [[flancia meet 2023-12-16]]
 - [[j0lms]] [[flancian]]
