@@ -2,6 +2,15 @@
 - We meet best-effort every Saturday usually around 9 UTC.
 - This is where we have community maintained notes :)
 
+# [[flancia meet 2023-12-30]]
+- [[bouncepaw]] [[flancian]]
+- [[radiohead]]
+    - [[in rainbows]] is bouncepaw's favorite
+    - [[kid a]]
+    - [[amnesiac]] is flancian's favorite
+    - [[pablo honey]]
+- bouncepaw is going to [[Ufa]] in several hours
+
 # [[flancia meet 2023-12-16]]
 - [[j0lms]] [[flancian]]
     - el algoritmo -> [[los algoritmos]]
