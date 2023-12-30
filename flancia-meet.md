@@ -16,6 +16,9 @@
     - then people moved on to: [[emule]] (not so great), [[bittorrent]] (distributed), [[soulseek]] (more in the spirit of Napster)
 - flancian's [[icq]] number is [[47436440]]
     - would like to go back at least for a while to ~2004, when [[pidgin]] ([[gaim]]) could connect to *every*  network anybody used
+    - a time of [[open standards]] hopefully also in our future
+    - is [[beeper]] the thing?
+    - [[enshittifaction of telegram]]
 
 # [[flancia meet 2023-12-16]]
 - [[j0lms]] [[flancian]]
