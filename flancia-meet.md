@@ -22,6 +22,7 @@
     - [[matrix]] is OK
 - https://en.wikipedia.org/wiki/Teletransportation_paradox
 - [[pelmeni]]
+- being kind is not easy nor simple
 
 # [[flancia meet 2023-12-16]]
 - [[j0lms]] [[flancian]]
