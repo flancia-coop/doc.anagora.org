@@ -19,6 +19,7 @@
     - a time of [[open standards]] hopefully also in our future
     - is [[beeper]] the thing?
     - [[enshittifaction of telegram]]
+    - [[matrix]] is OK
 
 # [[flancia meet 2023-12-16]]
 - [[j0lms]] [[flancian]]
