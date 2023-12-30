@@ -23,6 +23,10 @@
 - https://en.wikipedia.org/wiki/Teletransportation_paradox
 - [[pelmeni]]
 - being kind is not easy nor simple
+    - but it's usually constructive/worth a try
+- on [[magyar]] in [[bashkortostan]]
+    
+
 
 # [[flancia meet 2023-12-16]]
 - [[j0lms]] [[flancian]]
