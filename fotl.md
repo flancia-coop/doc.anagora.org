@@ -57,6 +57,8 @@
             - [[indieweb]] should be as resilient
             - can indieweb endpoints be redirected from multi-user-hosts to single-user if you go that way? do multi-user-hosts exist?
         - [[aram]] wants something more like [[nostr]]
+        - on the issues of [[governance]] / scaling organizations involved in lowering bus factors
+            - linked to [[training]] and [[documentation]]
 
 # Older
 - See https://doc.anagora.org/fellowship-of-the-link.
