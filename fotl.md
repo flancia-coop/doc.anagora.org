@@ -62,6 +62,7 @@
             - on the issue of [[succession planning]]
             - [[hachyderm]] and [[krisnova]]
         - [[100 years site]] by [[automattic]]: https://wordpress.com/100-year/
+        - on the advantages of [[static sites]] for long term storage
 
 # Older
 - See https://doc.anagora.org/fellowship-of-the-link.
