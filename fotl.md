@@ -43,7 +43,9 @@
     - [[indieweb meetup]] took place in [[san diego]]
     - it was very cool, suggest you check out [[indieweb]] more if you haven't
     - (this is how [[aram]] found us)
-    - cool tech, but the community is not much into diffusion 
+    - cool tech, but the community is not much into diffusion/proselitization
+    - can it be adopted easily?
+        - [[indieauth]] could be
 
 # Older
 - See https://doc.anagora.org/fellowship-of-the-link.
