@@ -55,6 +55,8 @@
         - does [[Mastodon]] provide examples?
             - individual instances go down, but the network remains
             - [[indieweb]] should be as resilient
+            - can indieweb endpoints be redirected from multi-user-hosts to single-user if you go that way? do multi-user-hosts exist?
+        - 
 
 # Older
 - See https://doc.anagora.org/fellowship-of-the-link.
