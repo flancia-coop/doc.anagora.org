@@ -1,8 +1,15 @@
 # [[2024-01-03]]
 - [[flancian]] Welcome to 2024!
     - Two changes today, that we might or might not choose to stick with:
-        - Conference is in https://framatalk.org/fotl instead of https:
+        - Conference is in https://framatalk.org/fotl instead of https://meet.jit.si/fellowship-of-the-link.
+        - Notes are at https://doc.anagora.org/fotl instead of https://doc.anagora.org/fellowship-of-the-link.
+    - Thoughts?
 
+# Older
+- See https://doc.anagora.org/fellowship-of-the-link.
+- #pull [[fellowship of the link]] 
+
+## Scratch space
 - #pull [[fellowship of the link]]
     - that has lots of actual notes for meetings, these are random chat logs and other items that we factored out for one reason or the other
     - (HedgeDoc used to be hitting note size limits, but not anymore).
