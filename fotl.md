@@ -52,6 +52,9 @@
         - how hard would it be to re-bootstrap into e.g. [[indieweb2]]? 
     - [[webmentions]] -- can be saved with e.g. [[brid.gy]]
     - Q: who runs community infrastructure well?
+        - does [[Mastodon]] provide examples?
+            - individual instances go down, but the network remains
+            - [[indieweb]] should be as resilient
 
 # Older
 - See https://doc.anagora.org/fellowship-of-the-link.
