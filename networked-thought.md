@@ -1,0 +1,1 @@
+bagaimana aku mencatat
