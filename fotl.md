@@ -64,6 +64,8 @@
         - [[100 years site]] by [[automattic]]: https://wordpress.com/100-year/
         - on the advantages of [[static sites]] for long term storage
     - disagreements with [[long now]] foundation
+        - [[aram]] will write something down about this :)
+    - [[college media]]
 
 # Older
 - See https://doc.anagora.org/fellowship-of-the-link.
