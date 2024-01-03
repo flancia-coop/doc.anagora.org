@@ -1,3 +1,32 @@
+# Fellowship of the Link
+
+- a [[meeting]].
+    - #go https://meet.jit.si/fellowship-of-the-link
+    - #calendar https://plex.collectivesensecommons.org/calendar/
+    - #when Wednesdays at [[6PM UTC]]
+- Attending: [[x]], [[y]]
+- Start recording, we're currently using Jitsi and that works best with a [[Chromium]] based browser.
+- Last thread / previous notes: https://doc.anagora.org/fellowship-of-the-link?view 
+- Threads from last time we would like to pick up:
+    - [[high leverage opportunities]] we can spot
+    - [[generative commons]]
+        - [[generative linking]] (inferring links)
+        - [[general commons agreement]] https://bra.in/8qeNWy
+    - [[wishlist]] approach to worldbuilding
+    - [[Jerry Michalski]] let's discuss: note sharing.
+        - [[Aram Zucker-Scharff]] let's discuss conventions? Added something in [[massive wiki]].
+            - volunteered https://tftmap.massive.wiki/map/aram_zucker-scharff
+    - [[Aram Zucker-Scharff]] would like to generalize the archiving tool / link card generator he's been working on.
+    - [[Flancian]] would like to discuss [[Interwiki]] links and the [[common hub]] approach for search and entity resolution
+    - [[SJ]] wants to discuss / address this at hacking days at Wikimania in August (you're all invited to Singapore ;) https://wikimania.wikimedia.org/wiki/2023:Wikimania 
+- #push [[fotl threads]]
+    - define:
+        - [[wiki]] / root URL
+        - /now
+        - [[issue tracker]] / [[project tracker]] URL
+            - [[github]] by default?
+
+
 # [[2024-01-03]]
 - [[peter kaminski]] [[flancian]] [[aram]]
 - [[plex dispatch]] https://plex.collectivesensecommons.org/
