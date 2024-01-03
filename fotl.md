@@ -39,6 +39,11 @@
     - Thoughts?
 - [[jerry]] lots of calls in this beginning of [[2024]]
     - project: [[everyday]] -- a wiki-like collaboration environment
+- [[peter kaminski]]
+    - [[indieweb meetup]] took place in [[san diego]]
+    - it was very cool, suggest you check out [[indieweb]] more if you haven't
+    - (this is how [[aram]] found us)
+    - cool tech, but the community is not much into diffusion 
 
 # Older
 - See https://doc.anagora.org/fellowship-of-the-link.
