@@ -1,3 +1,8 @@
+# [[2024-01-03]]
+- [[flancian]] Welcome to 2024!
+    - Two changes today, that we might or might not choose to stick with:
+        - Conference is in https://framatalk.org/fotl instead of https:
+
 - #pull [[fellowship of the link]]
     - that has lots of actual notes for meetings, these are random chat logs and other items that we factored out for one reason or the other
     - (HedgeDoc used to be hitting note size limits, but not anymore).
