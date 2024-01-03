@@ -34,6 +34,7 @@
     - Two changes today, that we might or might not choose to stick with:
         - Conference is in https://framatalk.org/fotl instead of https://meet.jit.si/fellowship-of-the-link.
         - Notes are at https://doc.anagora.org/fotl instead of https://doc.anagora.org/fellowship-of-the-link.
+            - Maybe we could keep the same doc?
     - Thoughts?
 
 # Older
