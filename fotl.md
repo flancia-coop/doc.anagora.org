@@ -28,14 +28,17 @@
 
 
 # [[2024-01-03]]
-- [[peter kaminski]] [[flancian]] [[aram]]
+- [[peter kaminski]] [[flancian]] [[aram]] [[jerry]]
 - [[plex dispatch]] https://plex.collectivesensecommons.org/
 - [[flancian]] Welcome to 2024!
     - Two changes today, that we might or might not choose to stick with:
         - Conference is in https://framatalk.org/fotl instead of https://meet.jit.si/fellowship-of-the-link.
         - Notes are at https://doc.anagora.org/fotl instead of https://doc.anagora.org/fellowship-of-the-link.
             - Maybe we could keep the same doc?
+            - We might want to at least import all the history here?
     - Thoughts?
+- [[jerry]] lots of calls in this beginning of [[2024]]
+    - project: [[everyday]] -- a wiki-like collaboration environment
 
 # Older
 - See https://doc.anagora.org/fellowship-of-the-link.
