@@ -59,6 +59,8 @@
         - [[aram]] wants something more like [[nostr]]
         - on the issues of [[governance]] / scaling organizations involved in lowering bus factors
             - linked to [[training]] and [[documentation]]
+            - on the issue of [[succession planning]]
+            - [[hachyderm]] and [[krisnova]]
 
 # Older
 - See https://doc.anagora.org/fellowship-of-the-link.
