@@ -68,7 +68,8 @@
     - [[college media]]
 - [[aram]] shares screen, hopefully :)
     - [[song obsessed]]: https://songobsessed.com/
-        - [[gi]]
+        - #git https://github.com/AramZS/songobsessed
+    - [[jerry]] https://www.liveplasma.com/
 
 
 # Older
