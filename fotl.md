@@ -45,7 +45,9 @@
     - (this is how [[aram]] found us)
     - cool tech, but the community is not much into diffusion/proselitization
     - can it be adopted easily?
-        - [[indieauth]] could be
+        - [[indieauth]] could be -- indeed it seems like [[django]] is doing this
+    - [[aram]]: on the [[bus factor]] of some of the projects
+    - [[indielogin]] stopped working for Pete at some point
 
 # Older
 - See https://doc.anagora.org/fellowship-of-the-link.
