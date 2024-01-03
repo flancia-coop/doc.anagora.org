@@ -1,4 +1,6 @@
 # [[2024-01-03]]
+- [[peter kaminski]] [[flancian]]
+- [[plex dispatch]]
 - [[flancian]] Welcome to 2024!
     - Two changes today, that we might or might not choose to stick with:
         - Conference is in https://framatalk.org/fotl instead of https://meet.jit.si/fellowship-of-the-link.
