@@ -66,6 +66,7 @@
     - disagreements with [[long now]] foundation
         - [[aram]] will write something down about this :)
     - [[college media]]
+- [[aram]] shares screen, hopefully :)
 
 # Older
 - See https://doc.anagora.org/fellowship-of-the-link.
