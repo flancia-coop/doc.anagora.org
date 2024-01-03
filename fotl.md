@@ -49,7 +49,9 @@
     - [[aram]]: on the [[bus factor]] of some of the projects
         - [[indielogin]] stopped working for Pete at some point
         - it's hard to tell how much of the common infrastructure they are building is sustainable/will still be around in a few years?
-        -  
+        - how hard would it be to re-bootstrap into e.g. [[indieweb2]]? 
+    - [[webmentions]] -- can be saved with e.g. [[brid.gy]]
+    - Q: who runs community infrastructure well?
 
 # Older
 - See https://doc.anagora.org/fellowship-of-the-link.
