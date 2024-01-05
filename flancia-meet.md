@@ -6,9 +6,11 @@
 - [[bouncepaw]] [[flancian]]
 - [[chinese candy]]
 - [[activity pub]]
-    - how do boosts work?
+    - on federating [[betula]] and [[agora]]
+    - how do [[boosts]] work?
         - [[announce]] activity
-        - the booster publishes an announce which has a cop
+        - the booster publishes an announce which has a copy of the original message or a reference to it
+    - [[postmarks]] uses a [[note]] activity for bookmarks, bookmarks are just an href in the message
 
 # [[flancia meet 2023-12-30]]
 - [[bouncepaw]] [[flancian]]
