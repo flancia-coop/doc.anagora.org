@@ -4,6 +4,11 @@
 
 # [[flancia meet 2024-01-05]]
 - [[bouncepaw]] [[flancian]]
+- [[chinese candy]]
+- [[activity pub]]
+    - how do boosts work?
+        - [[announce]] activity
+        - the booster publishes an announce which has a cop
 
 # [[flancia meet 2023-12-30]]
 - [[bouncepaw]] [[flancian]]
