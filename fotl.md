@@ -51,7 +51,9 @@
     - [[debt: first five thousand years]]
         - [[chris aldrich]] two kinds of debt, one internal (to a community?) and the second of which is the more capitalist. The second has taken over all day to day functions.
         - [[The Great Transformation]]: The Political and Economic Origins of Our Time (1944 TGT) http://www.youtube.com/watch?v=rSuz01zvOjE
-    - 
+    - The [[Milei]] question
+        - The worries
+        - The potential of anarchism]
 
  
 # [[2024-01-03]]
