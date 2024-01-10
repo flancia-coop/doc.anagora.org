@@ -45,6 +45,8 @@
     - [[flancia]]
         - [[bonfire]] <- [[fediverse]] software with a focus on governance
         - on countering [[illiberal democracy]]
+            - [[fake democracy]]
+    - Q: are capitalism and democracy complementing each other or countering?
  
 # [[2024-01-03]]
 - [[peter kaminski]] [[flancian]] [[aram]] [[jerry]]
