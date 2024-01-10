@@ -86,6 +86,10 @@ https://www.youtube.com/watch?v=gbMgwDIdScY&lc=Ugzs7M838Khq1pNTFj94AaABAg
         - Where does this come from?
         - Maybe https://www.theatlantic.com/science/archive/2018/06/the-tipping-point-when-minority-views-take-over/562307/
     - [[jerry]] https://bra.in/8jMkXe
+    
+a scan of "Organisation du travail", par M. Louis Blanc, doesn't seem to have embedded OCR:
+
+http://davidmhart.com/liberty/OtherWorks/Blanc/1840-OrganisationTravail/Blanc_OrganisationTravail1840.pdf
      
  
 
