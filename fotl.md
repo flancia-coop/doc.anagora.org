@@ -4,7 +4,7 @@
     - #go https://meet.jit.si/fellowship-of-the-link
     - #calendar https://plex.collectivesensecommons.org/calendar/
     - #when Wednesdays at [[6PM UTC]]
-- Attending: [[J]], [[y]]
+- Attending: [[x]], [[y]]
 - Start recording, we're currently using Jitsi and that works best with a [[Chromium]] based browser.
 - Last thread / previous notes: https://doc.anagora.org/fellowship-of-the-link?view 
 - Threads from last time we would like to pick up:
@@ -27,7 +27,7 @@
             - [[github]] by default?
 
 # [[2024-01-10]]
-- Attending: ...
+- Attending: [[Jerry Michalski]], [[Flancian]], [[Chris Aldrich]], [[Peter Kaminski]], [[Bentley]]
 - [[Jerry Michalski]]
     - https://bra.in/4qeA7y call ~2w ago
     - On functional systems of governance. Tomorrow's call: https://us02web.zoom.us/j/4154650256?pwd=Zm5DWGRJcmFmZGtBMmI1Wkx2WUQyZz09
@@ -44,6 +44,7 @@
     - [[peter kaminski]] on [[decentralization]] as the link between [[democracy]] and the [[fellowship]] :)
     - [[flancia]]
         - [[bonfire]] <- [[fediverse]] software with a focus on governance
+        - on countering [[illiberal democracy]]
  
 # [[2024-01-03]]
 - [[peter kaminski]] [[flancian]] [[aram]] [[jerry]]
