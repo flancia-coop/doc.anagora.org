@@ -29,9 +29,12 @@
 # [[2024-01-10]]
 - Attending: ...
 - [[Jerry Michalski]]
+    - https://bra.in/4qeA7y call ~2w ago
     - On functional systems of governance. Tomorrow's call: https://us02web.zoom.us/j/4154650256?pwd=Zm5DWGRJcmFmZGtBMmI1Wkx2WUQyZz09
     - [[Peter Kaminski]] on democracy in America :)
-        - We don't have modern discussions about anything *except* democracy 
+        - We don't have modern discussions about anything *except* democracy
+        - [[Conference about democracy in Iceland]]: https://framtidarsetur.is/futures-of-democracy-reykjavik-2024/
+            - [[Hank Kune]]
  
 # [[2024-01-03]]
 - [[peter kaminski]] [[flancian]] [[aram]] [[jerry]]
