@@ -39,6 +39,8 @@
     - [[Swiss democracy]]
     - https://www.politicalcompass.org/
     - Jury duty is per sortition; could public office work the same way?
+        - But in a capitalist society that could mean people losing on "making more money" and that would be seen as an issue
+    - book: [[institutional revolution]]
  
 # [[2024-01-03]]
 - [[peter kaminski]] [[flancian]] [[aram]] [[jerry]]
