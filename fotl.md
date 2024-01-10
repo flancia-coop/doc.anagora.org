@@ -53,7 +53,7 @@
         - [[The Great Transformation]]: The Political and Economic Origins of Our Time (1944 TGT) http://www.youtube.com/watch?v=rSuz01zvOjE
     - The [[Milei]] question
         - The worries
-        - The potential of anarchism]
+        - The potential of [[anarchism]]
 
  
 # [[2024-01-03]]
