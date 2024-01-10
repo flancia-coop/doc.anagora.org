@@ -4,7 +4,7 @@
     - #go https://meet.jit.si/fellowship-of-the-link
     - #calendar https://plex.collectivesensecommons.org/calendar/
     - #when Wednesdays at [[6PM UTC]]
-- Attending: [[x]], [[y]]
+- Attending: [[J]], [[y]]
 - Start recording, we're currently using Jitsi and that works best with a [[Chromium]] based browser.
 - Last thread / previous notes: https://doc.anagora.org/fellowship-of-the-link?view 
 - Threads from last time we would like to pick up:
@@ -42,6 +42,8 @@
         - But in a capitalist society that could mean people losing on "making more money" and that would be seen as an issue
     - book: [[institutional revolution]]
     - [[peter kaminski]] on [[decentralization]] as the link between [[democracy]] and the [[fellowship]] :)
+    - [[flancia]]
+        - [[bonfire]] <- [[fediverse]] software with a focus on governance
  
 # [[2024-01-03]]
 - [[peter kaminski]] [[flancian]] [[aram]] [[jerry]]
