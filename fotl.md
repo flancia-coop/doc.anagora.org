@@ -67,7 +67,8 @@ https://www.youtube.com/watch?v=gbMgwDIdScY
 The first comment is an amazing and dense recollection:
 
 https://www.youtube.com/watch?v=gbMgwDIdScY&lc=Ugzs7M838Khq1pNTFj94AaABAg
-    - [[critiques of capitalism]] can work / be accepted; but the moment you talk about replacement 
+    - [[critiques of capitalism]] can work / be accepted; but the moment you talk about replacement, you get shut down with 'this is impossible'.
+- [[Peter Kaminski]]
  
 
 # [[2024-01-03]]
