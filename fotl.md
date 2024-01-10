@@ -35,6 +35,7 @@
         - We don't have modern discussions about anything *except* democracy
         - [[Conference about democracy in Iceland]]: https://framtidarsetur.is/futures-of-democracy-reykjavik-2024/
             - [[Hank Kune]]
+        - Opaque practices (by now) existed like Athenian [[Sortition]] and [[Ostracism]]
  
 # [[2024-01-03]]
 - [[peter kaminski]] [[flancian]] [[aram]] [[jerry]]
