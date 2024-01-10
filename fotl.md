@@ -46,7 +46,10 @@
         - [[bonfire]] <- [[fediverse]] software with a focus on governance
         - on countering [[illiberal democracy]]
             - [[fake democracy]]
+            - [[cuckoo pattern]] https://bra.in/5jk43Z
     - Q: are capitalism and democracy complementing each other or countering?
+    - [[debt: first five thousand years]]
+        - [[chris aldrich]] two kinds of debt, one internal (to a community?) and the second of which is the more capitalist. The second has taken over all day to day functions.
  
 # [[2024-01-03]]
 - [[peter kaminski]] [[flancian]] [[aram]] [[jerry]]
