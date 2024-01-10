@@ -33,7 +33,7 @@
     - On functional systems of governance. Tomorrow's call: https://us02web.zoom.us/j/4154650256?pwd=Zm5DWGRJcmFmZGtBMmI1Wkx2WUQyZz09
     - [[Peter Kaminski]] on democracy in America :)
         - We don't have modern discussions about anything *except* democracy
-        - [[Conference about democracy in Iceland]]: https://framtidarsetur.is/futures-of-democracy-reykjavik-2024/
+        - [[Conference about democracy in Iceland]]: [Futures of Democracies](https://framtidarsetur.is/futures-of-democracy-reykjavik-2024/)
             - [[Hank Kune]]
         - Opaque practices (by now) existed like Athenian [[Sortition]] and [[Ostracism]]
     - [[Swiss democracy]]
@@ -54,8 +54,11 @@
     - The [[Milei]] question
         - The worries
         - The potential of [[anarchism]]
-
+   https://anagora.org/what+is+the+relationship+between+decentralization+of+ownership+and+governance+and+the+many+kinds+of+anarchism
  
+- [[Chris Aldrich]] on The [[paradox of tolerance]] as it applies to late stage capitalism (it does not allow other forms of economy/allocation to coexist).
+    - [[Bentley Davis]]
+
 # [[2024-01-03]]
 - [[peter kaminski]] [[flancian]] [[aram]] [[jerry]]
 - [[plex dispatch]] https://plex.collectivesensecommons.org/
