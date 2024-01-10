@@ -68,7 +68,10 @@ The first comment is an amazing and dense recollection:
 
 https://www.youtube.com/watch?v=gbMgwDIdScY&lc=Ugzs7M838Khq1pNTFj94AaABAg
     - [[critiques of capitalism]] can work / be accepted; but the moment you talk about replacement, you get shut down with 'this is impossible'.
-- [[Peter Kaminski]]
+- [[Peter Kaminski]] question about the Agora and [[bonfire]]
+- [[Bentley]] on the problem of [[capitalism]] as a word/label
+    - Profit and profit-seeking in particular is not necessarily implied by the word
+    - [[Chris Aldrich]] 
  
 
 # [[2024-01-03]]
