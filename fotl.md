@@ -26,7 +26,13 @@
         - [[issue tracker]] / [[project tracker]] URL
             - [[github]] by default?
 
-
+# [[2024-01-10]]
+- Attending: ...
+- [[Jerry Michalski]]
+    - On functional systems of governance. Tomorrow's call: https://us02web.zoom.us/j/4154650256?pwd=Zm5DWGRJcmFmZGtBMmI1Wkx2WUQyZz09
+    - [[Peter Kaminski]] on democracy in America :)
+        - We don't have modern discussions about anything *except* democracy 
+ 
 # [[2024-01-03]]
 - [[peter kaminski]] [[flancian]] [[aram]] [[jerry]]
 - [[plex dispatch]] https://plex.collectivesensecommons.org/
