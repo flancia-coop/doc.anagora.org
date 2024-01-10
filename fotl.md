@@ -43,7 +43,7 @@
     - book: [[institutional revolution]]
     - [[peter kaminski]] on [[decentralization]] as the link between [[democracy]] and the [[fellowship]] :)
     - [[flancia]]
-        - [[bonfire]] <- [[fediverse]] software with a focus on governance
+        - [[bonfire]] <- [[fediverse]] software with a focus on governance, [Bonfire](https://bonfirenetworks.org/)
         - on countering [[illiberal democracy]]
             - [[fake democracy]]
             - [[cuckoo pattern]] https://bra.in/5jk43Z
@@ -57,7 +57,18 @@
    https://anagora.org/what+is+the+relationship+between+decentralization+of+ownership+and+governance+and+the+many+kinds+of+anarchism
  
 - [[Chris Aldrich]] on The [[paradox of tolerance]] as it applies to late stage capitalism (it does not allow other forms of economy/allocation to coexist).
-    - [[Bentley Davis]]
+    - [[Bentley Davis]] maybe capitalism fears alternatives that imply its vanquishing/replacement.
+    - off-topic link for Jerry and me (and whomeber else) later, ye olde youtube recommendation gave me this interesting-looking video:
+
+"Turbo Compound Piston Engines. Almost magic tech. - YouTube"
+https://www.youtube.com/watch?v=gbMgwDIdScY
+
+
+The first comment is an amazing and dense recollection:
+
+https://www.youtube.com/watch?v=gbMgwDIdScY&lc=Ugzs7M838Khq1pNTFj94AaABAg
+    - [[critiques of capitalism]] can work / be accepted; but the moment you talk about replacement 
+ 
 
 # [[2024-01-03]]
 - [[peter kaminski]] [[flancian]] [[aram]] [[jerry]]
