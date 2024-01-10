@@ -74,6 +74,7 @@ https://www.youtube.com/watch?v=gbMgwDIdScY&lc=Ugzs7M838Khq1pNTFj94AaABAg
         - [[Profitism]] as an alternative for the buggy implementation we have now
         - [[Toxic capitalism]] which can devolve into [[Fascist Capitalism]]
     - [[Chris Aldrich]] the term didn't exist before Marx followers started using it
+- On how to m
      
  
 
