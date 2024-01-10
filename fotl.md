@@ -85,6 +85,7 @@ https://www.youtube.com/watch?v=gbMgwDIdScY&lc=Ugzs7M838Khq1pNTFj94AaABAg
     - [[15%]] as the tip-off point for social change 
         - Where does this come from?
         - Maybe https://www.theatlantic.com/science/archive/2018/06/the-tipping-point-when-minority-views-take-over/562307/
+    - [[jerry]] https://bra.in/8jMkXe
      
  
 
