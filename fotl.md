@@ -80,6 +80,11 @@ https://www.youtube.com/watch?v=gbMgwDIdScY&lc=Ugzs7M838Khq1pNTFj94AaABAg
         - model hard and try to do it piecemeal/locally
         - [[walkaway]] / [[omelas]] approach
         - ignore political lines / go by geographic criteria like watershed
+        - by affinity of people/groups/neighborhoods/cities even at a distance (cities have more in common, etc.)
+    - Moving from 'majority first' to 'enough people to solve a particular problem first'.
+    - [[15%]] as the tip-off point for social change 
+        - Where does this come from?
+        - Maybe https://www.theatlantic.com/science/archive/2018/06/the-tipping-point-when-minority-views-take-over/562307/
      
  
 
