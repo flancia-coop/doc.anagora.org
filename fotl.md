@@ -71,7 +71,9 @@ https://www.youtube.com/watch?v=gbMgwDIdScY&lc=Ugzs7M838Khq1pNTFj94AaABAg
 - [[Peter Kaminski]] question about the Agora and [[bonfire]]
 - [[Bentley]] on the problem of [[capitalism]] as a word/label
     - Profit and profit-seeking in particular is not necessarily implied by the word
-    - [[Chris Aldrich]] 
+        - [[Profitism]] as an alternative for the negative implementation we have now
+    - [[Chris Aldrich]] the term didn't exist before Marx followers started using it
+    - 
  
 
 # [[2024-01-03]]
