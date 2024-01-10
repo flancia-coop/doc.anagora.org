@@ -74,7 +74,12 @@ https://www.youtube.com/watch?v=gbMgwDIdScY&lc=Ugzs7M838Khq1pNTFj94AaABAg
         - [[Profitism]] as an alternative for the buggy implementation we have now
         - [[Toxic capitalism]] which can devolve into [[Fascist Capitalism]]
     - [[Chris Aldrich]] the term didn't exist before Marx followers started using it
-- On how to m
+- On how to migrate systems
+    - On the difficulty of upgrading complex systems in-place
+    - Options:
+        - model hard and try to do it piecemeal/locally
+        - [[walkaway]] / [[omelas]] approach
+        - ignore political lines / go by geographic criteria like watershed
      
  
 
