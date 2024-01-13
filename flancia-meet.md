@@ -4,6 +4,12 @@
 
 # [[flancia meet 2024-01-13]]
 - [[bouncepaw]] [[flancian]]
+- [[ramen]]
+    - [[japanese noodles]] -> [[chinese noodles]] -> [[xi'an]]
+        - interest in [[China]]
+        - [[cixin liu]]
+        - [[bouncepaw]] read the trilogy, [[flancian]] only the first one
+    - returned to [[]]
 
 # [[flancia meet 2024-01-05]]
 - [[bouncepaw]] [[flancian]]
