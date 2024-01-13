@@ -20,6 +20,7 @@
     - Like [[Moloch]]
 - [[echopraxia]]:
     - sequel to [[blindsight]]
+    - [[bookwyrm]] 
 
 # [[flancia meet 2024-01-05]]
 - [[bouncepaw]] [[flancian]]
