@@ -12,6 +12,7 @@
     - returned to [[reading]]
     - [[audiobooks]]
         - [[audible]] is not great but maybe still the best (?)
+        - [[librivox]]
 
 # [[flancia meet 2024-01-05]]
 - [[bouncepaw]] [[flancian]]
