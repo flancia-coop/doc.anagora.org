@@ -9,7 +9,9 @@
         - interest in [[China]]
         - [[cixin liu]]
         - [[bouncepaw]] read the trilogy, [[flancian]] only the first one
-    - returned to [[]]
+    - returned to [[reading]]
+    - [[audiobooks]]
+        - [[audible]] is not great but maybe still the best (?)
 
 # [[flancia meet 2024-01-05]]
 - [[bouncepaw]] [[flancian]]
