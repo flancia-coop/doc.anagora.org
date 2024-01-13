@@ -2,6 +2,9 @@
 - We meet best-effort every Saturday usually around 9 UTC.
 - This is where we have community maintained notes :)
 
+# [[flancia meet 2024-01-13]]
+- [[bouncepaw]] [[flancian]]
+
 # [[flancia meet 2024-01-05]]
 - [[bouncepaw]] [[flancian]]
 - [[chinese candy]]
