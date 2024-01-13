@@ -13,6 +13,8 @@
     - [[audiobooks]]
         - [[audible]] is not great but maybe still the best (?)
         - [[librivox]]
+            - tried [[middlemarch]]
+        - [[yandex plus]]
 
 # [[flancia meet 2024-01-05]]
 - [[bouncepaw]] [[flancian]]
