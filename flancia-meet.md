@@ -25,6 +25,7 @@
 - [[war]] :(
     - [[the world at war]]
     - [[All Quiet on the Western Front]] (2022 film)
+    - [[journey to the end of night]]
 
 # [[flancia meet 2024-01-05]]
 - [[bouncepaw]] [[flancian]]
