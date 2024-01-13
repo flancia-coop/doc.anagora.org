@@ -14,7 +14,10 @@
         - [[audible]] is not great but maybe still the best (?)
         - [[librivox]]
             - tried [[middlemarch]]
-        - [[yandex plus]]
+        - [[yandex plus]] has an audiobook service (300 RUB)
+- [[layoffs]], again
+    - like a ritual
+    - Like [[Moloch]]
 
 # [[flancia meet 2024-01-05]]
 - [[bouncepaw]] [[flancian]]
