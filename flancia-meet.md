@@ -22,6 +22,9 @@
     - sequel to [[blindsight]]
     - [[bookwyrm]]
 - [[sourcehut]] outage triggered by [[ddos]]
+- [[war]] :(
+    - [[the world at war]]
+    - [[All Quiet on the Western Front]] (2022 film)
 
 # [[flancia meet 2024-01-05]]
 - [[bouncepaw]] [[flancian]]
