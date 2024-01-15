@@ -81,6 +81,9 @@ Wish you all a great holiday season! Some topics:
 - [[authorized fetch]]
     - F: currently not into it because it would lock some implementations (non-mastodon) out?
     - C: IIUC it's part of standards but if it's difficult to implement it might result in this
+    - F: Maybe we should have an alpha.social.coop to experiment with such things?
+        - It could run on SSO? ;)
+        - C: agreed, lot of information missing from docs
 - [[fedipact]]
     - already covered partly below
 
