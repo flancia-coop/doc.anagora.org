@@ -27,9 +27,13 @@ Wish you all a great holiday season! Some topics:
             - C: other platforms like [[cloudron]] [[sandstorm]] have a little more integration between apps but not much, would also be a great opportunity for documentation / collaboration. gaps: mastodon-to-archive, mastodon-to-other-instance, matrix on top of SSO.
                  - F: [[beeper]] interactions -- messaging as the next social platform. pidgin, libpurple, moa.party (need to pay Elon Tax™ tho -- although could be an option for smaller communities).
                  - F: anti-fedipact position is based on wanting to help users get out. corporation which interops is offering ways to defeat walled gardens. give users an option.
-                     - success stories
+                     - success stories in this space
                          - [[pixelfed]] importing Instagram GDPR archives
                          - [[bookwyrm]] does something similar with [[goodreads]]
+                     - related communication on the instance w/[[calix]], [[ntnsndr]], [[flancian]] et al
+                         - [[meta]] it is quite a bit better than loomio for this kind of conversation...
+                         - C: TWG could work on importing Twitter / Facebook archives into mastodon, on behalf of social.coop.
+                         - F: Like the bidirectionality where it encour
         - backups
             - at first glance unexciting but so necessary :)
         - etc.
