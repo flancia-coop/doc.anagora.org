@@ -70,9 +70,14 @@ Wish you all a great holiday season! Some topics:
     - [[edsu]] deployed!
         - \o/ awesome!
         - some possible further changes:
-            - first link should go to the instance prop
+            - first link should go to the instance proper
+            - join 'call to action' could go straight to the form
         - [ ] We have to set up automatic backups for wiki.social.coop.
+            - as per the above
 - [[ntnsndr]]'s bot
+    - https://git.coop/social.coop/socialcoop-govbot
+    - would be nice to run in our infra
+    - would like to discuss with ed
 - [[authorized fetch]]
 - [[fedipact]]
 
