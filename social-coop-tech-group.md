@@ -79,7 +79,10 @@ Wish you all a great holiday season! Some topics:
     - would be nice to run in our infra
     - would like to discuss with ed
 - [[authorized fetch]]
+    - F: currently not into it because it would lock some implementations (non-mastodon) out?
+    - C: IIUC it's part of standards but if it's difficult to implement it might result in this
 - [[fedipact]]
+    - already covered partly below
 
 ## 2023-12-04
 
