@@ -39,18 +39,20 @@ Wish you all a great holiday season! Some topics:
                      - C: this seems like something worth exploring; it seems like it would require support by threads.net and/or other large instances, like for example mastodon.social. Also have hope that we can achieve this on a cultural and technical level to make it easier to host smaller servers than large monolithic ones overall (vs current reality where it's kind of the opposite).
                      - F: If fediverse ends up being decentralised; improving the toolchain so people can mostly be on small instances, that would be the best outcome. We should hedge and try and do both. As long as there's a motivation under capitalism to centralise it will continue to happen. In 5-10 years there will be new platforms, formats, which could again see capitalist entities trying to centralise for profit. Fediverse could be more resilient. Idea: write an addendum to Fedipact which says "this is how Threads could federate". FRom a point of view of the company, harder to push back on specific technical demands.
                      - C: they certainly find it easy to push on ethical arguments; trying to get them on a technical argument might make sense.
-                     - F: Hedging, we can see which of the toolchains / approaches we invest most in, happy to start with 50:50. Personally wany to try the corporation negotiation approach. Would take any chance to push FB in the right direction. Also full respect to people who say the safest thing is to not 
+                     - F: Hedging, we can see which of the toolchains / approaches we invest most in, happy to start with 50:50. Personally wany to try the corporation negotiation approach. Would take any chance to push FB in the right direction. Also full respect to people who say the safest thing is to not federate for now. Happy to help on both fronts.
         - backups
             - at first glance unexciting but so necessary :)
         - etc.
     - [[meta]] do we want to poll for a new time/day?
+- [[organizing circle]] update
+- [[flancian]] will attend the kickoff tomorrow 15 
+    - anything to relay?
+        - F: could bring up fedipact, authorized fetch, for awareness. group is in a good position to drive in a more organised way than loomio thread
 - https://git.coop/social.coop/tech/wiki.social.coop/-/merge_requests/9
     - [[edsu]] deployed!
     - We could simplify the static site and insert references to wiki.social.coop.
         - [ ] We have to set up automatic backups for wiki.social.coop.
-- [[organizing circle]] update
-    - [[flancian]] will attend the kickoff tomorrow 15 
-- [[ntnsndr]]'s bot
+ [[ntnsndr]]'s bot
 - [[authorized fetch]]
 - [[fedipact]]
 
