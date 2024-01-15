@@ -23,8 +23,11 @@ Wish you all a great holiday season! Some topics:
             - F: even though migration to SSO seems like a bit of would be cool to write docs on it to benefit the federation.
         - other services/more integrations?
             - this seems like it could be a good cooperative effort with [[coop cloud]]?
-            - F: would love to run new services on [[coop cloud]]. examples of recipes where you can optionally compose containers. ideally would love to base mastodon SSO on keycloak. what else? 
+            - F: would love to run new services on [[coop cloud]]. examples of recipes where you can optionally compose containers. ideally would love to base mastodon SSO on keycloak. what else? people have been asking for other services. could do a poll?
+            - C: other platforms like [[cloudron]] [[sandstorm]] have a little more integration between apps but not m
+                - C: other gaps: mastodon-to-archive, mastodon-to-other-instance, matrix on top of SSO
         - backups
+            - at first glance unexciting but so necessary :)
         - etc.
     - [[meta]] do we want to poll for a new time/day?
 - https://git.coop/social.coop/tech/wiki.social.coop/-/merge_requests/9
