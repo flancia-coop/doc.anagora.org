@@ -4,6 +4,11 @@ Here: [[flancian]] [[Calix]] :)
 
 Wish you all a great holiday season! Some topics:
 
+- [[check ins]]
+    - [[calix]] in [[Buenos Aires]] 🤘
+        - on the [[three word chant]] pattern  
+    - [[Flancian]]
+        - 
 - [[2024]]
     - [[twg 2024]]
         - [[single sign on]]
