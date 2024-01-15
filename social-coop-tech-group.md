@@ -1,13 +1,14 @@
 
-## 2023-12-18 .. [[2024-01-01]]
-Here: [[flancian]] :)
+## 2023-12-18 .. [[2024-01-01]] .. [[2024-01-15]]
+Here: [[flancian]] [[Calix]]:)
 
 Wish you all a great holiday season! Some topics:
 
 - We could simplify the static site and insert references to wiki.social.coop.
     - [ ] We have to set up automatic backups for wiki.social.coop.
-- [[twg 2024]]
 - https://git.coop/social.coop/tech/wiki.social.coop/-/merge_requests/9
+    - [[edsu]] deployed!
+- [[twg 2024]]
 
 ## 2023-12-04
 
