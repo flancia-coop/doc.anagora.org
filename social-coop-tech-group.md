@@ -56,7 +56,9 @@ Wish you all a great holiday season! Some topics:
         - C: +1 -- we talked about this back in September. Would suggest:
             - Plan A: we do a one-off date poll for a [[social coop tech working group goalsetting]] session. People commit to attending that; then we discuss further engagements there.
             - Plan B: we work on a roadmap ourselves and we announce the roadmap at the same time as the poll.
-            - Plan C: do a date poll for continuous
+                - There is a roadmap draft at [[twg 2024]]: https://anagora.org/twg+2024
+            - Plan C: do a date poll for recurrent meetings straight.
+            - F: will share these options and these notes in the room, and then let the room choose the plan using emojis :D
 - [[organizing circle]] update
     - [[flancian]] will attend the kickoff tomorrow 15 
     - anything to relay?
