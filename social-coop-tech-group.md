@@ -17,6 +17,7 @@ Wish you all a great holiday season! Some topics:
         - writing as [[catharsis]]
     - [[cooperative journals]]
 - [[2024]]
+    - F: how can we serve social.coop. how can s.c serve greater purpose? in the fediverse, in international tech coop movement.
     - [[twg 2024]]
         - [[single sign on]]
         - other services/more integrations?
