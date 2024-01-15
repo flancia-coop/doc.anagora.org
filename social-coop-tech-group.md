@@ -42,17 +42,24 @@ Wish you all a great holiday season! Some topics:
                      - F: Hedging, we can see which of the toolchains / approaches we invest most in, happy to start with 50:50. Personally wany to try the corporation negotiation approach. Would take any chance to push FB in the right direction. Also full respect to people who say the safest thing is to not federate for now. Happy to help on both fronts.
         - backups
             - at first glance unexciting but so necessary :)
+                - we probably want to cut bugs for what remains?
+                - for sure:
+                    - [ ] test restores for social.coop instance
+                    - [ ] set up backups (cron) for [[mediawiki]] 
+                    - [ ] set up backups (cron) for [[keycloak]] 
         - etc.
     - [[meta]] do we want to poll for a new time/day?
 - [[organizing circle]] update
-- [[flancian]] will attend the kickoff tomorrow 15 
+    - [[flancian]] will attend the kickoff tomorrow 15 
     - anything to relay?
         - F: could bring up fedipact, authorized fetch, for awareness. group is in a good position to drive in a more organised way than loomio thread
+        - C: how frequent are meetings? wondering about raising Q of other services.
+        - https://www.loomio.com/d/iobhRrMZ/oc-meetings-thread-when-and-how-to-meet- -- will discuss cadence I think
 - https://git.coop/social.coop/tech/wiki.social.coop/-/merge_requests/9
     - [[edsu]] deployed!
     - We could simplify the static site and insert references to wiki.social.coop.
         - [ ] We have to set up automatic backups for wiki.social.coop.
- [[ntnsndr]]'s bot
+- [[ntnsndr]]'s bot
 - [[authorized fetch]]
 - [[fedipact]]
 
