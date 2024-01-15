@@ -85,7 +85,7 @@ Wish you all a great holiday season! Some topics:
         - It could run on SSO? ;)
         - C: agreed, lot of information missing from docs
 - [[fedipact]]
-    - already covered partly below
+    - already covered partly above
 
 ## 2023-12-04
 
