@@ -37,7 +37,7 @@ Wish you all a great holiday season! Some topics:
                          - Let's try to do both? :D
                      - F: Moderation and federation actions should be federated within activitypub, multi-software. Federation within groups not just within instances. Threads is the next iteration of scaling. Maybe reasonable to model as sub-networks; reasonable people, fascists -- saying we won't federate with fascists. A lot of the work of fediverse is banning fascists. That needs to be automated; that's a lot of work.
                      - C: this seems like something worth exploring; it seems like it would require support by threads.net and/or other large instances, like for example mastodon.social. Also have hope that we can achieve this on a cultural and technical level to make it easier to host smaller servers than large monolithic ones overall (vs current reality where it's kind of the opposite).
-                     - F: If fediverse converge
+                     - F: If fediverse ends up being decentralised; improving the toolchain so people can mostly be on small instances, that would be the best outcome. We should hedge and try and do both. As long as there's a motivation under capitalism to centralise it will continue to happen. In 5-10 years there will be new platforms, formats, which could again see capitalist entities trying to centralise for profit. Fediverse could be more resilient. Idea: write an addendum to Fedipact which says "this is how Threads could federate". FRom a point of view of the company, harder to push back on s
         - backups
             - at first glance unexciting but so necessary :)
         - etc.
