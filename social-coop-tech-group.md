@@ -26,6 +26,10 @@ Wish you all a great holiday season! Some topics:
             - F: would love to run new services on [[coop cloud]]. examples of recipes where you can optionally compose containers. ideally would love to base mastodon SSO on keycloak. what else? people have been asking for other services. could do a poll?
             - C: other platforms like [[cloudron]] [[sandstorm]] have a little more integration between apps but not much, would also be a great opportunity for documentation / collaboration. gaps: mastodon-to-archive, mastodon-to-other-instance, matrix on top of SSO.
                  - F: [[beeper]] interactions -- messaging as the next social platform. pidgin, libpurple, moa.party (need to pay Elon Tax™ tho -- although could be an option for smaller communities).
+                 - F: anti-fedipact position is based on wanting to help users get out. corporation which interops is offering ways to defeat walled gardens. give users an option.
+                     - success stories
+                         - [[pixelfed]] importing Instagram GDPR archives
+                         - [[bookwyrm]] does something similar with [[goodreads]]
         - backups
             - at first glance unexciting but so necessary :)
         - etc.
