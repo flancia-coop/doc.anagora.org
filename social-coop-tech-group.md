@@ -52,6 +52,11 @@ Wish you all a great holiday season! Some topics:
                 - **calix** will make some bug reports
         - etc.
     - [[meta]] do we want to poll for a new time/day?
+        - F: seems worth doing?
+        - C: +1 -- we talked about this back in September. Would suggest:
+            - Plan A: we do a one-off date poll for a [[social coop tech working group goalsetting]] session. People commit to attending that; then we discuss further engagements there.
+            - Plan B: we work on a roadmap ourselves and we announce the roadmap at the same time as the poll.
+            - Plan C: do a date poll for continuous
 - [[organizing circle]] update
     - [[flancian]] will attend the kickoff tomorrow 15 
     - anything to relay?
