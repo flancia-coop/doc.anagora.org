@@ -8,7 +8,8 @@ Wish you all a great holiday season! Some topics:
     - [[calix]] in [[Buenos Aires]] 🤘
         - on the [[three word chant]] pattern  
     - [[Flancian]]
-        - 
+        - one hand: doing great, excited to be in this historical / physical context. interesting projects!
+        - bedbugs 😔 ethical and practical horror. Google 
 - [[2024]]
     - [[twg 2024]]
         - [[single sign on]]
