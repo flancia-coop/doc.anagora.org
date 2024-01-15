@@ -35,7 +35,8 @@ Wish you all a great holiday season! Some topics:
                          - C: TWG could work on importing Twitter / Facebook archives into mastodon, on behalf of social.coop.
                          - F: Like the bidirectionality where it encourages companies to add interoperability. Also usability of logging in is better than e.g. Twitter Takeout.
                          - Let's try to do both? :D
-                     - F: Moderation and federation actions should be federat
+                     - F: Moderation and federation actions should be federated within activitypub, multi-software. Federation within groups not just within instances. Threads is the next iteration of scaling. Maybe reasonable to model as sub-networks; reasonable people, fascists -- saying we won't federate with fascists. A lot of the work of fediverse is banning fascists. Th
+                     - 
         - backups
             - at first glance unexciting but so necessary :)
         - etc.
