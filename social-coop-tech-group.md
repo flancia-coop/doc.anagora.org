@@ -43,10 +43,13 @@ Wish you all a great holiday season! Some topics:
         - backups
             - at first glance unexciting but so necessary :)
                 - we probably want to cut bugs for what remains?
+                    - https://anagora.org/go/twg/bugs redirects to the component
                 - for sure:
                     - [ ] test restores for social.coop instance
                     - [ ] set up backups (cron) for [[mediawiki]] 
                     - [ ] set up backups (cron) for [[keycloak]] 
+                    - [ ] test restores for wiki and keycloak
+                - **calix** will make some bug reports
         - etc.
     - [[meta]] do we want to poll for a new time/day?
 - [[organizing circle]] update
