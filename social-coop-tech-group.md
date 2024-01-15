@@ -1,14 +1,25 @@
 
 ## 2023-12-18 .. [[2024-01-01]] .. [[2024-01-15]]
-Here: [[flancian]] [[Calix]]:)
+Here: [[flancian]] [[Calix]] :)
 
 Wish you all a great holiday season! Some topics:
 
-- We could simplify the static site and insert references to wiki.social.coop.
-    - [ ] We have to set up automatic backups for wiki.social.coop.
+- [[2024]]
+    - [[twg 2024]]
+        - [[single sign on]]
+        - other services/more integrations?
+        - backups
+        - etc.
+    - [[meta]] do we want to poll for a new time/day?
 - https://git.coop/social.coop/tech/wiki.social.coop/-/merge_requests/9
     - [[edsu]] deployed!
-- [[twg 2024]]
+    - We could simplify the static site and insert references to wiki.social.coop.
+        - [ ] We have to set up automatic backups for wiki.social.coop.
+- [[organizing circle]] update
+    - [[flancian]] will attend the kickoff tomorrow 15 
+- [[ntnsndr]]'s bot
+- [[fedipact]]
+- [[authorized fetch]]
 
 ## 2023-12-04
 
