@@ -66,8 +66,11 @@ Wish you all a great holiday season! Some topics:
         - C: how frequent are meetings? wondering about raising Q of other services.
         - https://www.loomio.com/d/iobhRrMZ/oc-meetings-thread-when-and-how-to-meet- -- will discuss cadence I think
 - https://git.coop/social.coop/tech/wiki.social.coop/-/merge_requests/9
-    - [[edsu]] deployed!
     - We could simplify the static site and insert references to wiki.social.coop.
+    - [[edsu]] deployed!
+        - \o/ awesome!
+        - some possible further changes:
+            - first link should go to the instance prop
         - [ ] We have to set up automatic backups for wiki.social.coop.
 - [[ntnsndr]]'s bot
 - [[authorized fetch]]
