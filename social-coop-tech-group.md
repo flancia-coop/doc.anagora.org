@@ -33,7 +33,9 @@ Wish you all a great holiday season! Some topics:
                      - related communication on the instance w/[[calix]], [[ntnsndr]], [[flancian]] et al
                          - [[meta]] it is quite a bit better than loomio for this kind of conversation...
                          - C: TWG could work on importing Twitter / Facebook archives into mastodon, on behalf of social.coop.
-                         - F: Like the bidirectionality where it encour
+                         - F: Like the bidirectionality where it encourages companies to add interoperability. Also usability of logging in is better than e.g. Twitter Takeout.
+                         - Let's try to do both? :D
+                     - F: Moderation and federation actions should be federat
         - backups
             - at first glance unexciting but so necessary :)
         - etc.
@@ -45,8 +47,8 @@ Wish you all a great holiday season! Some topics:
 - [[organizing circle]] update
     - [[flancian]] will attend the kickoff tomorrow 15 
 - [[ntnsndr]]'s bot
-- [[fedipact]]
 - [[authorized fetch]]
+- [[fedipact]]
 
 ## 2023-12-04
 
