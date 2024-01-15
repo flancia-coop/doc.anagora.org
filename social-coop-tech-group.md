@@ -20,7 +20,10 @@ Wish you all a great holiday season! Some topics:
     - F: how can we serve social.coop. how can s.c serve greater purpose? in the fediverse, in international tech coop movement.
     - [[twg 2024]]
         - [[single sign on]]
+            - F: even though migration to SSO seems like a bit of would be cool to write docs on it to benefit the federation.
         - other services/more integrations?
+            - this seems like it could be a good cooperative effort with [[coop cloud]]?
+            - F: would love to run new services on [[coop cloud]]. examples of recipes where you can optionally compose containers. ideally would love to base mastodon SSO on keycloak. what else? 
         - backups
         - etc.
     - [[meta]] do we want to poll for a new time/day?
