@@ -33,7 +33,10 @@
     - [[Design from Trust]]
         - Like a [[books playlist]]
     - Meta on how to write [[neobooks]]
-    - 
+    - [[Markdown extension levels]]
+        - [[Peter Kaminski]]
+        - [[agora protocol]]
+        - [[github links]]
 
 ## [[2023-12-20]]
 - Attending: [[Jerry Michalski]] [[Michael Grossman]] [[Flancian]]
