@@ -1,4 +1,7 @@
 Generative AI services provided by Mistral AI. To save a generation into the Agora, for now please copy/paste into the document Stoa above.
+
+--
+
 The Agora of Flancia is a fictional concept from the webcomic "Order of the Stick" ([[[[OOTS]]). In the comic, the Agora of Flancia is depicted as a marketplace and gathering place for the citizens of the city of Flancia. It is a hub of commerce and social activity, where characters often go to buy and sell goods, exchange information, and engage in political discourse. The Agora of Flancia is an important location in the comic, as it serves as a central meeting place for many of the main characters and a backdrop for many of the comic's most memorable scenes.
 
 Here are a few more entities related to the Agora of Flancia:
@@ -12,7 +15,6 @@ Here are a few more entities related to the Agora of Flancia:
 
 
 --
-
 
 The Agora of Flancia is a concept that comes from the science fiction novel "The Lifecycle of Software Objects" by Ted Chiang. In the novel, Flancia is a virtual world where digital beings, or "software objects," are created and raised by human caretakers. The Agora of Flancia is a central marketplace and gathering place within this virtual world, where the software objects can interact with each other and with their human caretakers.
 
