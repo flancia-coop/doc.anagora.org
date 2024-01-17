@@ -32,6 +32,8 @@
 - [[Jerry Michalski]] on [[neobooks]]
     - [[Design from Trust]]
         - Like a [[books playlist]]
+    - Meta on how to write [[neobooks]]
+    - 
 
 ## [[2023-12-20]]
 - Attending: [[Jerry Michalski]] [[Michael Grossman]] [[Flancian]]
