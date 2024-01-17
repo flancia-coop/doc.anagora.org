@@ -29,6 +29,8 @@
 - Attending: [[Jerry Michalski]] [[Flancian]] [[Chris Aldrich]] [[Michael Grossman]] [[Bentley Davis]] [[Aram Zucker-Scharff]]
 - [[flancian]] on [[layoffs]] :(
     - and [[Barbarians]], the [[Market]], maybe [[Moloch]])
+- [[Jerry Michalski]] on [[neobooks]]
+    - [[Design from Trust]]
 
 ## [[2023-12-20]]
 - Attending: [[Jerry Michalski]] [[Michael Grossman]] [[Flancian]]
