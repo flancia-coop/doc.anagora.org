@@ -25,6 +25,11 @@
         - [[issue tracker]] / [[project tracker]] URL
             - [[github]] by default?
 
+## [[2023-01-17]]
+- Attending: [[Jerry Michalski]] [[Flancian]] [[Chris Aldrich]] [[Michael Grossman]] [[Bentley Davis]] [[Aram Zucker-Scharff]]
+- [[flancian]] on [[layoffs]] :(
+    - and [[Barbarians]], the [[Market]], maybe [[Moloch]])
+
 ## [[2023-12-20]]
 - Attending: [[Jerry Michalski]] [[Michael Grossman]] [[Flancian]]
 - On end of the year and the year as it was
