@@ -31,6 +31,7 @@
     - and [[Barbarians]], the [[Market]], maybe [[Moloch]])
 - [[Jerry Michalski]] on [[neobooks]]
     - [[Design from Trust]]
+        - Like a [[books playlist]]
 
 ## [[2023-12-20]]
 - Attending: [[Jerry Michalski]] [[Michael Grossman]] [[Flancian]]
