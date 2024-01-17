@@ -26,7 +26,7 @@
             - [[github]] by default?
 
 ## [[2023-01-17]]
-- Attending: [[Jerry Michalski]] [[Flancian]] [[Chris Aldrich]] [[Michael Grossman]] [[Bentley Davis]] [[Aram Zucker-Scharff]]
+- Attending: [[Jerry Michalski]] [[Flancian]] [[Chris Aldrich]] [[Michael Grossman]] [[Bentley Davis]] [[Aram Zucker-Scharff]] [[Peter Kaminski]]
 - [[flancian]] on [[layoffs]] :(
     - and [[Barbarians]], the [[Market]], maybe [[Moloch]])
 - [[Jerry Michalski]] on [[neobooks]]
