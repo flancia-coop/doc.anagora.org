@@ -13,7 +13,10 @@
     - layoffs :(
 - plans for the weekend
     - [[bouncepaw]] working on betula today, maybe tomorrow spending time with friends
-    - [[bouncepaw]] [[poetry lecture]] and 
+    - [[bouncepaw]] [[poetry lecture]] and [[boardgames]] on Monday
+    - [[bouncepaw]] time with friends
+- @bouncepaw@links.bouncepaw.com lost all followers while trying to fix the database
+    - resubscribe 
 
 # [[flancia meet 2024-01-13]]
 - [[bouncepaw]] [[flancian]]
