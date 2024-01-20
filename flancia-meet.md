@@ -2,6 +2,19 @@
 - We meet best-effort every Saturday usually around 9 UTC.
 - This is where we have community maintained notes :)
 
+# [[flancia meet 2024-01-20]]
+- [[bouncepaw]] [[flancian]]
+- [[bouncepaw]]
+    - doing chores
+    - finishing the exams
+    - waiting for [[shawarma]]
+- [[flancian]]
+    - losing tabs
+    - layoffs :(
+- plans for the weekend
+    - [[bouncepaw]] working on betula today, maybe tomorrow spending time with friends
+    - [[bouncepaw]] [[poetry lecture]] and 
+
 # [[flancia meet 2024-01-13]]
 - [[bouncepaw]] [[flancian]]
 - [[ramen]]
