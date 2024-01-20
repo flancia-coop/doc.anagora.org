@@ -17,6 +17,8 @@
     - [[bouncepaw]] time with friends
 - @bouncepaw@links.bouncepaw.com lost all followers while trying to fix the database
     - resubscribe 
+        - done!
+        - the receiving server must respond to a follow with accept follow -- which panda.anagora.org doesn't do currently
 
 # [[flancia meet 2024-01-13]]
 - [[bouncepaw]] [[flancian]]
