@@ -26,6 +26,8 @@
 - [[opensearch]] sounds fun
     - should add this to [[betula]] and [[mycorrhiza]] too
     - [[chromium]] is a bit of a pain to deal with, but when it works it's great
+- [[flancian]] sharing work plan, fediverse/sqlite/neobooks as per today's journal
+    - [[neobooks]] concept
     
 
 # [[flancia meet 2024-01-13]]
