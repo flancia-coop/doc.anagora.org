@@ -31,7 +31,7 @@
     - embedding
     - [[oembed]] might have been effectively replaced by [[opengraph]]
     - [[transclusion]] seems key, but [[agora speed]] is probably a painpoint that is relevant -- people would not transclude the agora if it's super slow
-        - ont
+        - on the other hand, it should be cached?
     
 
 # [[flancia meet 2024-01-13]]
