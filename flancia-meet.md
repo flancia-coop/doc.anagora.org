@@ -34,6 +34,7 @@
         - on the other hand, it should be cached?
 - [[federation]] overall is more important than [[federated search]]
     - overlaps with coursework :)
+    - [[flancian]] will try to tag along
     
 
 # [[flancia meet 2024-01-13]]
