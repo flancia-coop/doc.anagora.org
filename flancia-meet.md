@@ -19,7 +19,7 @@
     - resubscribe 
         - done!
         - the receiving server must respond to a follow with accept follow -- which panda.anagora.org doesn't do currently
-- [[federated search]]
+- [[federated search]] seems interesting but not a priority
     - fanning out to 'friend instances'
     - https://links.bouncepaw.com/tag/federated_search
     - there *must* be an existing protocol for this? fan out search queries, get back structured URLs directly or as a callback?
@@ -32,6 +32,8 @@
     - [[oembed]] might have been effectively replaced by [[opengraph]]
     - [[transclusion]] seems key, but [[agora speed]] is probably a painpoint that is relevant -- people would not transclude the agora if it's super slow
         - on the other hand, it should be cached?
+- [[federation]] overall is more important than [[federated search]]
+    - overlaps with coursework :)
     
 
 # [[flancia meet 2024-01-13]]
