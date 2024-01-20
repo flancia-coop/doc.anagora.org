@@ -35,6 +35,7 @@
 - [[federation]] overall is more important than [[federated search]]
     - overlaps with coursework :)
     - [[flancian]] will try to tag along
+    - [[activitypub ]]
     
 
 # [[flancia meet 2024-01-13]]
