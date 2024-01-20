@@ -35,7 +35,9 @@
 - [[federation]] overall is more important than [[federated search]]
     - overlaps with coursework :)
     - [[flancian]] will try to tag along
-    - [[activitypub ]]
+    - [[activitypub testing]]:
+        - official test suite has been dead for at least four years: https://github.com/w3c/activitypub/issues/337
+        - https://socialhub.activitypub.rocks/t/the-activitypub-test-suite/290/38 might be an alternative
     
 
 # [[flancia meet 2024-01-13]]
