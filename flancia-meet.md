@@ -22,6 +22,8 @@
 - [[federated search]]
     - fanning out
     - https://links.bouncepaw.com/tag/federated_search
+- [[opensearch]] sounds fun
+    - should add this to [[betula]] and [[mycorrhiza]] too
 
 # [[flancia meet 2024-01-13]]
 - [[bouncepaw]] [[flancian]]
