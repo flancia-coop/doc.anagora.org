@@ -20,10 +20,12 @@
         - done!
         - the receiving server must respond to a follow with accept follow -- which panda.anagora.org doesn't do currently
 - [[federated search]]
-    - fanning out to 'friend instan'
+    - fanning out to 'friend instances'
     - https://links.bouncepaw.com/tag/federated_search
+    - there *must* be an existing protocol for this? fan out search queries, get back structured URLs directly or as a callback?
 - [[opensearch]] sounds fun
     - should add this to [[betula]] and [[mycorrhiza]] too
+    - [[chromium]] is a bit of a pain to deal with, but when it works it's great
     
 
 # [[flancia meet 2024-01-13]]
