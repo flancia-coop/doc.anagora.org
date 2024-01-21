@@ -10,9 +10,15 @@ One famous example of an open letter is the "Letter from Birmingham Jail," writt
 Other notable open letters include:
 
 The "Open Letter to the Stockholders of Berkshire Hathaway," written by Warren Buffett in 1977, in which he explained his investment philosophy and the principles that guide his company.
+
 The "Open Letter to My Daughter," written by Pakistani activist Malala Yousafzai in 2013, in which she expressed her hopes and dreams for the future and called for girls around the world to have the opportunity to go to school.
+
 The "Open Letter to the President of the United States," written by a group of scientists and experts in 2016, urging the president to take action on climate change.
+
 Overall, open letters are a powerful way for individuals and groups to express their views and make their voices heard on important issues. They can be a valuable resource for anyone who is interested in learning more about current events and social issues.
 
 --
+
+- #meta [[flancian]] [[2024-01-21]]
+    - 
 
