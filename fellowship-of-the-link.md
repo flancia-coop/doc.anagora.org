@@ -107,7 +107,7 @@
             - [[bridgy fed]] by [[snarfed]]
                 - some concerns about the difficulty of self-hosting
                 - for now some consider it a SPOF
-                - ideal 
+                - ideal model could be: something that works like nostr, where you can just point your system to a set of bridgy fed instances and it balances
         - we can start by posting to the mattermost challenge -- links to anything
         
 
