@@ -74,6 +74,13 @@
             - -> the fear
         - [[glass bead game]]
             - -> [[neuromancer]]
+        - are [[neobooks]]:
+            - [[nuggets]] as objects
+                - they have [[metadata]]
+                - and [[ordering]]
+            - [[linked]] 
+            - and [[transcluded]]?
+        - [[anything missing]]?
 
 ## [[2023-01-17]]
 - Attending: [[Jerry Michalski]] [[Flancian]] [[Chris Aldrich]] [[Michael Grossman]] [[Bentley Davis]] [[Aram Zucker-Scharff]] [[Peter Kaminski]]
