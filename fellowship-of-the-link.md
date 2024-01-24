@@ -113,6 +113,7 @@
             - the maybe-problem of [[Mastodon]]
                 - [[Mastodon]] copies Twitter too much
                 - [[Mastodon]] does not do enough
+            - [[twitter is not a microphone]] https://www.schizochronotopia.com/p/fk-you-to-threads-in-app-browser
             
         
 
