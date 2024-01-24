@@ -51,6 +51,15 @@
     - There are some similarities
     - Neobooks and how they connect 
         - Same shape as an Agora node
+        - Open letters are hugely interesting. 
+        - They get amplified with history
+        - Similarly new media 
+        - The internet evolves similar 
+- [[Aram Zucker-Scharff]]
+    - Also a useful characteristic to think of for both neobooks and open letters is portability
+        - +1, and publishing has been a key factor in which open letters became popular/"successful" for a purpo
+- [[Jerry Michalski]]
+    - composability 
 
 ## [[2023-01-17]]
 - Attending: [[Jerry Michalski]] [[Flancian]] [[Chris Aldrich]] [[Michael Grossman]] [[Bentley Davis]] [[Aram Zucker-Scharff]] [[Peter Kaminski]]
