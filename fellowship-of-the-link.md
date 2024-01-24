@@ -84,8 +84,11 @@
             - aggregation?
                 - MVP is: a new nugget which transcludes everything in a list
             - Ordering?
-            - Contexting
-            - Can b
+            - Contexting?
+                - Can be seen as 1. composition and 2. a type system.
+            - [[extraclusion]]
+                - 'take this part of this page and publish it there'
+                - this sou
 
 ## [[2023-01-17]]
 - Attending: [[Jerry Michalski]] [[Flancian]] [[Chris Aldrich]] [[Michael Grossman]] [[Bentley Davis]] [[Aram Zucker-Scharff]] [[Peter Kaminski]]
