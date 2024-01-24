@@ -91,7 +91,12 @@
                 - this sounds a lot like [[push]] in the Agora
             - ability to include/exclude e.g. headers
                 - rich contextual snippets -- [[oembed]] like
-            - would like to conceptually transclude or aggregate a number of pages, and 
+                - embed modes? Full, [[oembed]], brief? 
+            - would like to conceptually transclude or aggregate a number of pages, and I want that to be the corpus or knowledge base for a chat bot
+                - throw a [[lasso]] around a set of nuggets and produce something with them
+                - -> like a doc, to begin with simply
+                - -> [[fruiting bodies]]
+                    - leads back to the notion of multiple language levels on top of languages, which we have covered before
 
 ## [[2023-01-17]]
 - Attending: [[Jerry Michalski]] [[Flancian]] [[Chris Aldrich]] [[Michael Grossman]] [[Bentley Davis]] [[Aram Zucker-Scharff]] [[Peter Kaminski]]
