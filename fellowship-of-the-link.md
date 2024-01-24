@@ -57,9 +57,11 @@
         - The internet evolves similar 
 - [[Aram Zucker-Scharff]]
     - Also a useful characteristic to think of for both neobooks and open letters is portability
-        - +1, and publishing has been a key factor in which open letters became popular/"successful" for a purpo
+        - +1, and publishing has been a key factor in which open letters became popular/"successful" for a purpose in the past. MLK's publishing story is interesting
 - [[Jerry Michalski]]
     - composability 
+    - https://bra.in/3jgE2p 
+- 
 
 ## [[2023-01-17]]
 - Attending: [[Jerry Michalski]] [[Flancian]] [[Chris Aldrich]] [[Michael Grossman]] [[Bentley Davis]] [[Aram Zucker-Scharff]] [[Peter Kaminski]]
