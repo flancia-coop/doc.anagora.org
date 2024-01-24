@@ -67,6 +67,11 @@
     - [[letter on corpulence]] :)
     - on expanding circles of trust
     - [[google docs]] as defacto publishing platform
+    - #JM about inspirations for [[neobooks]]
+        - [[nuggets]] are supposed to be small yet valuable
+        - [[indra's net]]
+            - -> [[fritjof capra]]
+            - -> the fear
 
 ## [[2023-01-17]]
 - Attending: [[Jerry Michalski]] [[Flancian]] [[Chris Aldrich]] [[Michael Grossman]] [[Bentley Davis]] [[Aram Zucker-Scharff]] [[Peter Kaminski]]
