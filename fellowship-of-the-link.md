@@ -97,6 +97,9 @@
                 - -> like a doc, to begin with simply
                 - -> [[fruiting bodies]]
                     - leads back to the notion of multiple language levels on top of languages, which we have covered before
+                    - neobooks are Mushrooms from The Big Fungus - https://app.thebrain.com/brain/3d80058c-14d8-5361-0b61-a061f89baf87/51b0b67d-d333-435d-af18-7f0194683289
+                - -> on context as user set prompt
+             - [[open letters]] in the brain
 
 ## [[2023-01-17]]
 - Attending: [[Jerry Michalski]] [[Flancian]] [[Chris Aldrich]] [[Michael Grossman]] [[Bentley Davis]] [[Aram Zucker-Scharff]] [[Peter Kaminski]]
