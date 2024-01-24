@@ -100,6 +100,11 @@
                     - neobooks are Mushrooms from The Big Fungus - https://app.thebrain.com/brain/3d80058c-14d8-5361-0b61-a061f89baf87/51b0b67d-d333-435d-af18-7f0194683289
                 - -> on context as user set prompt
              - [[open letters]] in the brain: https://app.thebrain.com/brain/3d80058c-14d8-5361-0b61-a061f89baf87/a030353f-c917-3d29-fc19-70912f8aef80
+             - a [[]]
+
+### Assignment 
+
+- Compose a 1 paragraph nugget on something that struck you in a [[FotL]] meeting
 
 ## [[2023-01-17]]
 - Attending: [[Jerry Michalski]] [[Flancian]] [[Chris Aldrich]] [[Michael Grossman]] [[Bentley Davis]] [[Aram Zucker-Scharff]] [[Peter Kaminski]]
