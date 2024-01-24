@@ -109,6 +109,11 @@
                 - for now some consider it a SPOF
                 - ideal model could be: something that works like nostr, where you can just point your system to a set of bridgy fed instances and it balances
         - we can start by posting to the mattermost challenge -- links to anything
+        - [[IETF]]: a protocol is not ready until you have two independent implementations
+            - the maybe-problem of [[Mastodon]]
+                - [[Mastodon]] copies Twitter too much
+                - [[Mastodon]] does not do enough
+            
         
 
 ### Assignment 
