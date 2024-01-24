@@ -113,7 +113,7 @@
             - the maybe-problem of [[Mastodon]]
                 - [[Mastodon]] copies Twitter too much
                 - [[Mastodon]] does not do enough
-            - [[twitter is not a microphone]] https://www.schizochronotopia.com/p/fk-you-to-threads-in-app-browser
+            - [[twitter is not a microphone]] https://www.schizochronotopia.com/p/on-twitter-we-look-down 
                 - [[meta]] on [[substack]] as a hosting platform
                     - [[micro.blog]] as federated alternative maybe?
                     - c.f. something open like  https://github.com/tsileo/microblog.pub ?
