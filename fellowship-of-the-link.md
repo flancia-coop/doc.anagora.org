@@ -81,6 +81,11 @@
             - [[linked]] 
             - and [[transcluded]]?
         - [[anything missing]]?
+            - aggregation?
+                - MVP is: a new nugget which transcludes everything in a list
+            - Ordering?
+            - Contexting
+            - Can b
 
 ## [[2023-01-17]]
 - Attending: [[Jerry Michalski]] [[Flancian]] [[Chris Aldrich]] [[Michael Grossman]] [[Bentley Davis]] [[Aram Zucker-Scharff]] [[Peter Kaminski]]
