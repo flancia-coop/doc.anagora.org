@@ -72,6 +72,8 @@
         - [[indra's net]]
             - -> [[fritjof capra]]
             - -> the fear
+        - [[glass bead game]]
+            - -> [[neuromancer]]
 
 ## [[2023-01-17]]
 - Attending: [[Jerry Michalski]] [[Flancian]] [[Chris Aldrich]] [[Michael Grossman]] [[Bentley Davis]] [[Aram Zucker-Scharff]] [[Peter Kaminski]]
