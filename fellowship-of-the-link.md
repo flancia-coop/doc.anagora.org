@@ -32,8 +32,16 @@
     - 1h30m later than this call
     - Will cover the future of Massive Wiki
 - Could we have a dashboard of all [[calls]] in our space
-    - #PK has something Google Sheets based (using SHee)
+    - #PK has something Google Sheets based (using Sheets as a grid/table editor)
+        - https://docs.google.com/spreadsheets/d/1qjSuYW1xChKJNCLK_cyMjJO_Ejc53RDYwRcvtRONLY0/edit
+        - Pete is proud of the timezone legend columns at the left
     - Present as a neobook?
+        - Shared agenda
+- [[Flancian]]
+    - Open letters and neobooks 
+    - Looking at open letters in history
+    - https://bra.in/2jM4Qe
+    - 
 
 ## [[2023-01-17]]
 - Attending: [[Jerry Michalski]] [[Flancian]] [[Chris Aldrich]] [[Michael Grossman]] [[Bentley Davis]] [[Aram Zucker-Scharff]] [[Peter Kaminski]]
