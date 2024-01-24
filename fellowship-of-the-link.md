@@ -103,7 +103,13 @@
              - See assignment section below -> let's all produce one [[nugget]] for next week? something having to do with the fellowship directly or indirectly :)
 - which direction to go to now?
     - [[nugget a week]]
-    - we can start by posting
+        - [[webmentions]] would be ideal
+            - [[bridgy fed]] by [[snarfed]]
+                - some concerns about the difficulty of self-hosting
+                - for now some consider it a SPOF
+                - ideal 
+        - we can start by posting to the mattermost challenge -- links to anything
+        
 
 ### Assignment 
 
