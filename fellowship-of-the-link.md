@@ -32,16 +32,25 @@
     - 1h30m later than this call
     - Will cover the future of Massive Wiki
 - Could we have a dashboard of all [[calls]] in our space
-    - #PK has something Google Sheets based (using Sheets as a grid/table editor)
+    - #PK has something Google Sheets based, using Sheets as a grid/table editor
         - https://docs.google.com/spreadsheets/d/1qjSuYW1xChKJNCLK_cyMjJO_Ejc53RDYwRcvtRONLY0/edit
         - Pete is proud of the timezone legend columns at the left
+        - stopped updating in Sheets because some boxes and their borders span multiple cells; like overall look, but need a better grid editor that is better at multiple cell boxes
     - Present as a neobook?
         - Shared agenda
 - [[Flancian]]
     - Open letters and neobooks 
     - Looking at open letters in history
     - https://bra.in/2jM4Qe
-    - 
+- [[Jerry Michalski]]
+    - How is it different from a viral post
+- [[Flancian]]
+    - Intention
+    - Notion of who is reading 
+    - Some level of meta awareness 
+    - There are some similarities
+    - Neobooks and how they connect 
+        - Same shape as an Agora node
 
 ## [[2023-01-17]]
 - Attending: [[Jerry Michalski]] [[Flancian]] [[Chris Aldrich]] [[Michael Grossman]] [[Bentley Davis]] [[Aram Zucker-Scharff]] [[Peter Kaminski]]
