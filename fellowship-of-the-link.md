@@ -32,7 +32,8 @@
     - 1h30m later than this call
     - Will cover the future of Massive Wiki
 - Could we have a dashboard of all [[calls]] in our space
-    - #PK has something Google Sheets based
+    - #PK has something Google Sheets based (using SHee)
+    - Present as a neobook?
 
 ## [[2023-01-17]]
 - Attending: [[Jerry Michalski]] [[Flancian]] [[Chris Aldrich]] [[Michael Grossman]] [[Bentley Davis]] [[Aram Zucker-Scharff]] [[Peter Kaminski]]
