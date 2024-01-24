@@ -115,13 +115,15 @@
                 - [[Mastodon]] does not do enough
             - [[twitter is not a microphone]] https://www.schizochronotopia.com/p/fk-you-to-threads-in-app-browser
                 - [[meta]] on [[substack]] as a hosting platform
-                - [[micro.blog]] as federated alternative maybe?
-                - c.f. something open like  https://github.com/tsileo/microblog.pub ?
-                - what about the [[payment]] aspect of it? it's important for many writers.
-                - [[ghost]] is very opinionated engineering
-                    - #PK observes that Ghost has a great post editing interface, and the email newsletter distribution works well
-                - [[beehiiv]] is also focused on newsletters
-                - 
+                    - [[micro.blog]] as federated alternative maybe?
+                    - c.f. something open like  https://github.com/tsileo/microblog.pub ?
+                    - what about the [[payment]] aspect of it? it's important for many writers.
+                    - [[ghost]] is very opinionated engineering
+                        - #PK observes that Ghost has a great post editing interface, and the email newsletter distribution works well
+                    - [[beehiiv]] is also focused on newsletters
+                    - [[buttondown]]
+                    - [[aram]] on the challenges of independent tools in this space -- in particular the problem of email deliveraspam as it affects newsletters
+
             
         
 
