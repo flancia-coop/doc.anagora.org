@@ -100,7 +100,10 @@
                     - neobooks are Mushrooms from The Big Fungus - https://app.thebrain.com/brain/3d80058c-14d8-5361-0b61-a061f89baf87/51b0b67d-d333-435d-af18-7f0194683289
                 - -> on context as user set prompt
              - [[open letters]] in the brain: https://app.thebrain.com/brain/3d80058c-14d8-5361-0b61-a061f89baf87/a030353f-c917-3d29-fc19-70912f8aef80
-             - a [[]]
+             - See assignment section below -> let's all produce one [[nugget]] for next week? something having to do with the fellowship directly or indirectly :)
+- which direction to go to now?
+    - [[nugget a week]]
+    - we can start by posting
 
 ### Assignment 
 
