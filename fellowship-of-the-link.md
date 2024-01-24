@@ -122,7 +122,7 @@
                         - #PK observes that Ghost has a great post editing interface, and the email newsletter distribution works well
                     - [[beehiiv]] is also focused on newsletters
                     - [[buttondown]]
-                    - [[aram]] on the challenges of independent tools in this space -- in particular the problem of email deliveraspam as it affects newsletters
+                    - [[aram]] on the challenges of independent tools in this space -- in particular the problem of email deliverability (negotiating automated anti-spam false positives as it affects newsletters)
 
             
         
