@@ -119,7 +119,9 @@
                 - c.f. something open like  https://github.com/tsileo/microblog.pub ?
                 - what about the [[payment]] aspect of it? it's important for many writers.
                 - [[ghost]] is very opinionated engineering
-                    - #
+                    - #PK observes that Ghost has a great post editing interface, and the email newsletter distribution works well
+                - [[beehiiv]] is also focused on newsletters
+                - 
             
         
 
