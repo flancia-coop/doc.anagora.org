@@ -61,7 +61,9 @@
 - [[Jerry Michalski]]
     - composability 
     - https://bra.in/3jgE2p 
-- 
+    - Manifestos - too many authors have robbed them of a degree of their potency? 
+- [[Aram]] an interesting characteristic of open letters:
+    - in modern times open letters are implied to have many authors, or 
 
 ## [[2023-01-17]]
 - Attending: [[Jerry Michalski]] [[Flancian]] [[Chris Aldrich]] [[Michael Grossman]] [[Bentley Davis]] [[Aram Zucker-Scharff]] [[Peter Kaminski]]
