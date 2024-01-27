@@ -19,7 +19,8 @@
     - [[nyonpa]]
         - [[sadhu]]
         - [[chogyam trungpa
-        - [[shm]]]]
+        - [[shambhala]]
+        - https://web.archive.org/web/20150311071045/http://www.quietmountain.org/links/teachings/yogi_chen/87.htm
 
 # [[flancia meet 2024-01-20]]
 - [[bouncepaw]] [[flancian]]
