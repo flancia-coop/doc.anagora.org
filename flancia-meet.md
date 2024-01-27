@@ -2,6 +2,13 @@
 - We meet best-effort every Saturday usually around 9 UTC.
 - This is where we have community maintained notes :)
 
+# [[flancia meet 2024-01-27]]
+- [[j0lms]] [[flancian]]
+- feliz año nuevo!
+- [[chinches]] == [[bed bugs]]
+- [[milei]]
+- [[elecciones en venezuela]]
+
 # [[flancia meet 2024-01-20]]
 - [[bouncepaw]] [[flancian]]
 - [[bouncepaw]]
