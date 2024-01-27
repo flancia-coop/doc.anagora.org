@@ -15,6 +15,7 @@
 - [[valis]]
 - [[ernesto de martino]]
     - [[reencantar el mundo]]
+    - [[vervaeke]]
 
 # [[flancia meet 2024-01-20]]
 - [[bouncepaw]] [[flancian]]
