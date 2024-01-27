@@ -11,6 +11,10 @@
     - [[agosto]]
 - [[russian elections]]:
     - [[september]]
+- [[the world at war]]
+- [[valis]]
+- [[ernesto de martino]]
+    - [[reencantar el mundo]]
 
 # [[flancia meet 2024-01-20]]
 - [[bouncepaw]] [[flancian]]
