@@ -61,7 +61,7 @@
         - but took two days to visit [[Thun]]
 - FotL Nuggets
     - "Assignment for Next Call: Everyone Write a Nugget about Something Memorable from These Calls"
-    - [[aram zucker-scharff]] [Aggregation, Amplification, and Archiving | Fellowship of the Link](https://fightwithtools.dev/posts/writing/aggregation-amplification-and-archiving/)
+    - [[aram zucker-scharff]] [Aggregation, Amplification, and Archiving - Fellowship of the Link](https://fightwithtools.dev/posts/writing/aggregation-amplification-and-archiving/)
         - [[comment section]] is just github issues
         - would love all feedback/responses!
     - -> [[nuggets]] in the Agora :)
