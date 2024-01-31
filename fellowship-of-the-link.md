@@ -110,7 +110,8 @@
         - is [[complete]] yet [[composable]]
     - How does this notion relate to the concept of neobook? Should we use something which is a book-related metaphor?
     - #CA or do music and call them playlists
-    - [[thesaurus]]
+    - #CA [[thesaurus]] as 'repository for treasure'
+    - [[jewels]] and [[indra's net]]
     
 
 
