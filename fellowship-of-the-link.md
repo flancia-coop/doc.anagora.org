@@ -81,6 +81,7 @@
                 - [[Jerry]] Chapter size would be too large likely. They might be 
         - [[Flancian]] maybe similar
             - and types
+            - [[node]] as verb from [[everything2]]
 - [Ben Werdmuller to Propublica](https://www.propublica.org/people/ben-werdmuller)
 
 
