@@ -26,17 +26,21 @@
             - [[github]] by default?
 
 ## [[2023-01-31]]
-- Attending: [[Jerry Michalski]] [[Flancian]] [[Chris Aldrich]] [[Aram Zucker-Scharff]] [[Peter Kaminski]]
+- Attending: [[Jerry Michalski]] [[Flancian]] [[Chris Aldrich]] [[Aram Zucker-Scharff]] (Half time) [[Peter Kaminski]]
 - Round the table
     - January is gone! But the year is only just started ;)
     - [[Jerry]] 
         - Met an [[NLP]] master, in the [[neurolinguistic programming]] sense
             - [[family constellations]]
-                
-- Agenda
-    - [[nuggets]]?
+                - facillitated (sp?) exercise, elicited emotions in several
+                - family structure as it influences personality development
+                - exercise recommended
+            - [[Burt something]]
+        - 
+    - 
 - FotL Nuggets
-    - https://fightwithtools.dev/posts/writing/aggregation-amplification-and-archiving/
+    - [Aggregation, Amplification, and Archiving | Fellowship of the Link](https://fightwithtools.dev/posts/writing/aggregation-amplification-and-archiving/)
+    - -> [[nuggets]]
 
 ## [[2023-01-24]]
 - Attending: [[Jerry Michalski]] [[Flancian]] [[Chris Aldrich]] [[Michael Grossman]] [[Bentley Davis]] [[Aram Zucker-Scharff]] [[Peter Kaminski]]
