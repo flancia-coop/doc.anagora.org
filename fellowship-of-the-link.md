@@ -87,6 +87,7 @@
                 - [[Jerry]] some experiences in the past, was turned off by page renaming not rippling back -- some clunkyness
                 - [[Peter Kaminski]] set it up :)
                 - [[Chris Aldrich]] on the tradeoff between flexibility and complexity (and clunkiness)
+                    - Example from [[drupal]]
 - [Ben Werdmuller to Propublica](https://www.propublica.org/people/ben-werdmuller)
 
 
