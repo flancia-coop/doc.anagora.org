@@ -84,7 +84,9 @@
             - [[node]] as verb from [[everything2]]
             - [[Jerry]] on mediawiki
                 - [[flancian]] on [[semantic mediawiki]]
-                - [[Jerry]] some experiences in the past, was turned off by page renaming not rippling back
+                - [[Jerry]] some experiences in the past, was turned off by page renaming not rippling back -- some clunkyness
+                - [[Peter Kaminski]] set it up :)
+                - [[Chris Aldrich]] on the tradeoff between flexibility and complexity (and clunkiness)
 - [Ben Werdmuller to Propublica](https://www.propublica.org/people/ben-werdmuller)
 
 
