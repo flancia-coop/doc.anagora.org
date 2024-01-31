@@ -54,6 +54,8 @@
         - working on a [[book project]] and trying to figure out how that relates to [[neobooks]] as per ongoing conversations
     - [[Flancian]]
         - working on worker relations
+            - [[aram]] on that at the post
+                - shift to more traditional engineering organization structure
         - but took two days to visit [[Thun]]
 - FotL Nuggets
     - "Assignment for Next Call: Everyone Write a Nugget about Something Memorable from These Calls"
