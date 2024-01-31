@@ -93,6 +93,9 @@
     - Pro: something valuable and small-ish; memorable.
     - #PK in feedback it seems like people might focus on different attributes; what is key to me from the thing is the [[composability]]
     - [[Jerry]] [[mother]] from [[SCOBY]]
+    - [[legos]] but better?
+    - planting seeds and [[grafting]]?
+    - threads and knitting, weaving
 
 
 ## [[2023-01-24]]
