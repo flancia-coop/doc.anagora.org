@@ -52,7 +52,11 @@
     - [[Chris Aldrich]]
         - recovering
         - working on a [[book project]] and trying to figure out how that relates to [[neobooks]] as per ongoing conversations
+    - [[Flancian]]
+        - working on worker relations
+        - but took two days to visit [[Thun]]
 - FotL Nuggets
+    - "Assignment for Next Call: Everyone Write a Nugget about Something Memorable from These Calls"
     - [Aggregation, Amplification, and Archiving | Fellowship of the Link](https://fightwithtools.dev/posts/writing/aggregation-amplification-and-archiving/)
     - -> [[nuggets]] in the Agora :)
 
