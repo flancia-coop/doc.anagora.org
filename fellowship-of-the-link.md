@@ -108,6 +108,8 @@
         - it makes it seem as it's incomplete
     - an [[x]], or a [[nugget]]:
         - is [[complete]] yet [[composable]]
+    - How does this notion relate to the concept of neobook? Should we use something which is a book-related metaphor?
+    - #CA or do music and call them playlists
 
 
 ## [[2023-01-24]]
