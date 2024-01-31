@@ -64,8 +64,12 @@
     - [[aram zucker-scharff]] [Aggregation, Amplification, and Archiving - Fellowship of the Link](https://fightwithtools.dev/posts/writing/aggregation-amplification-and-archiving/)
         - [[comment section]] is just github issues
         - would love all feedback/responses!
-    - -> [[nuggets]] in the Agora :)
-        - https://anagora.org/nuggets
+    - [[Flancian]] cheated and made my nugget the node [[nuggets]] in the Agora :)
+        - https://anagora.org/nuggets is/will be a list of all known nuggets we mention
+    - [[Chris Aldrich]] on the [[X nugget]], a newspaper in a gold rush town :)
+    - [[Peter Kaminski]] some feedback on [[nugget]] as a name, from a conversation with other people:
+        - too concrete
+        - and too nounish
 - [Ben Werdmuller to Propublica](https://www.propublica.org/people/ben-werdmuller)
 
 
