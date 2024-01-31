@@ -26,7 +26,10 @@
             - [[github]] by default?
 
 ## [[2023-01-31]]
-
+- Attending: [[Jerry Michalski]] [[Flancian]] [[Chris Aldrich]] [[Michael Grossman]] [[Bentley Davis]] [[Aram Zucker-Scharff]] [[Peter Kaminski]]
+-
+- Agenda
+    - [[nuggets]]?
 
 ## [[2023-01-24]]
 - Attending: [[Jerry Michalski]] [[Flancian]] [[Chris Aldrich]] [[Michael Grossman]] [[Bentley Davis]] [[Aram Zucker-Scharff]] [[Peter Kaminski]]
