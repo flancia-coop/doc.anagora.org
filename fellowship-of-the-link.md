@@ -89,6 +89,9 @@
                 - [[Chris Aldrich]] on the tradeoff between flexibility and complexity (and clunkiness)
                     - Example from [[drupal]]
 - [Ben Werdmuller to Propublica](https://www.propublica.org/people/ben-werdmuller)
+- Meta/vocabulary check on whether we want to iterate on the [[nugget]] terminology.
+    - Pro: something valuable and small-ish; memorable.
+    - 
 
 
 ## [[2023-01-24]]
