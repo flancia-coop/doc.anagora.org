@@ -100,7 +100,7 @@
     - [[quipus]]
         - different
         - but in the same "universe"
-    - [[pearls]] (as nuggets of value) and [[purls]]
+    - [[pearls]] (as nuggets of value) and [[purls]] (as in [[purl stitch]])
 
 
 ## [[2023-01-24]]
