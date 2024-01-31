@@ -101,6 +101,13 @@
         - different
         - but in the same "universe"
     - [[pearls]] (as nuggets of value) and [[purls]] (as in [[purl stitch]])
+    - [[pattern]]?
+        - too large
+    - [[particle]]
+    - would [[fragment]] describe it?
+        - it makes it seem as it's incomplete
+    - an [[x]], or a [[nugget]]:
+        - is [[complete]] yet [[composable]]
 
 
 ## [[2023-01-24]]
