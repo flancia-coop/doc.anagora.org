@@ -99,7 +99,8 @@
     - threads and knitting, weaving
     - [[quipus]]
         - different
-        - but in the same univers
+        - but in the same "universe"
+    - [[pearls]] (as nuggets of value) and [[purls]]
 
 
 ## [[2023-01-24]]
