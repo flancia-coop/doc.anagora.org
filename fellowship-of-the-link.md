@@ -38,11 +38,14 @@
             - [[Burt something]] :) http://en.wikipedia.org/wiki/Bert_Hellinger
     - [[Aram Zucker-Scharff]] dealing with team reorgs 
         - Also pushing forward on code projects like [[song obsessed]]
+            - Looking at http://www.liveplasma.com/ for integration into the site
         - Looking forward to next week -- vacation in a cabin!
+            - With someone who bakes bread \o/
+    - [[Peter Kaminski]] connecting  
     - 
 - FotL Nuggets
     - [Aggregation, Amplification, and Archiving | Fellowship of the Link](https://fightwithtools.dev/posts/writing/aggregation-amplification-and-archiving/)
-    - -> [[nuggets]]
+    - -> [[nuggets]] in the Agora :)
 
 ## [[2023-01-24]]
 - Attending: [[Jerry Michalski]] [[Flancian]] [[Chris Aldrich]] [[Michael Grossman]] [[Bentley Davis]] [[Aram Zucker-Scharff]] [[Peter Kaminski]]
