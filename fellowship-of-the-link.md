@@ -35,8 +35,10 @@
                 - facillitated (sp?) exercise, elicited emotions in several
                 - family structure as it influences personality development
                 - exercise recommended
-            - [[Burt something]]
-        - 
+            - [[Burt something]] :) http://en.wikipedia.org/wiki/Bert_Hellinger
+    - [[Aram Zucker-Scharff]] dealing with team reorgs 
+        - Also pushing forward on code projects like [[song obsessed]]
+        - Looking forward to next week -- vacation in a cabin!
     - 
 - FotL Nuggets
     - [Aggregation, Amplification, and Archiving | Fellowship of the Link](https://fightwithtools.dev/posts/writing/aggregation-amplification-and-archiving/)
