@@ -44,7 +44,9 @@
     - [[Peter Kaminski]] connecting GPT and the brain!
         - [[curl]] was hanging
             - wasn't specifying 'don't search full text' thing, it was super slow
-            - full text search doesn't really seem to work
+            - full text search doesn't really seem to work in the Brain API
+            - will try to report the bug to tech support
+            - the idea is to make gpt call the brain api
     - 
 - FotL Nuggets
     - [Aggregation, Amplification, and Archiving | Fellowship of the Link](https://fightwithtools.dev/posts/writing/aggregation-amplification-and-archiving/)
