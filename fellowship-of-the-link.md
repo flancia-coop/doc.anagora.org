@@ -65,6 +65,9 @@
         - [[comment section]] is just github issues
         - would love all feedback/responses!
     - -> [[nuggets]] in the Agora :)
+        - https://anagora.org/nuggets
+- [Ben Werdmuller to Propublica](https://www.propublica.org/people/ben-werdmuller)
+
 
 ## [[2023-01-24]]
 - Attending: [[Jerry Michalski]] [[Flancian]] [[Chris Aldrich]] [[Michael Grossman]] [[Bentley Davis]] [[Aram Zucker-Scharff]] [[Peter Kaminski]]
