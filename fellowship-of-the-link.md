@@ -71,6 +71,7 @@
         - too concrete
         - and too "[[nounish]]" and not "[[verbish]]" enough
             - or, too much of an object, and not enough of a process
+            - [The (Hopi) World According to Whorf](https://azorion.tripod.com/whorf.htm)
         - what would the verb be?
             - part of it would be an adjective, "composable" (and thence, decomposable)
         - [[Jerry Michalski]] also got some feedback on the focus on the book aspect -- maybe it's good to recenter from the object to the community
@@ -96,6 +97,9 @@
     - [[legos]] but better?
     - planting seeds and [[grafting]]?
     - threads and knitting, weaving
+    - [[quipus]]
+        - different
+        - but in the same univers
 
 
 ## [[2023-01-24]]
