@@ -69,7 +69,14 @@
     - [[Chris Aldrich]] on the [[X nugget]], a newspaper in a gold rush town :)
     - [[Peter Kaminski]] some feedback on [[nugget]] as a name, from a conversation with other people:
         - too concrete
-        - and too nounish
+        - and too "[[nounish]]" and not "[[verbish]]" enough
+            - or, too much of an object, and not enough of a process
+        - what would the verb be?
+            - part of it would be an adjective, "composable" (and then)
+        - [[Jerry Michalski]] also got some feedback on the focus on the book aspect -- maybe it's good to recenter from the object to the community
+            - Note though that verb-centric languages are a minority
+        - [[Chris Aldrich]] related dissonance in the note taking space
+        - [[Flancian]] related dis
 - [Ben Werdmuller to Propublica](https://www.propublica.org/people/ben-werdmuller)
 
 
