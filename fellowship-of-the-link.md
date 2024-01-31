@@ -82,6 +82,9 @@
         - [[Flancian]] maybe similar
             - and types
             - [[node]] as verb from [[everything2]]
+            - [[Jerry]] on mediawiki
+                - [[flancian]] on [[semantic mediawiki]]
+                - [[Jerry]] some experiences in the past, was turned off by page renaming not rippling back
 - [Ben Werdmuller to Propublica](https://www.propublica.org/people/ben-werdmuller)
 
 
