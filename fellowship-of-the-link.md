@@ -112,7 +112,7 @@
     - #CA or do music and call them playlists
     - #CA [[thesaurus]] as 'repository for treasure'
     - [[jewels]] and [[indra's net]]
-    - [[trichobezoars]] and [[]]
+    - [[trichobezoars]] and [[ambergris]]
     - further on grain: https://en.wikipedia.org/wiki/Horreum
 
 
