@@ -47,6 +47,7 @@
             - full text search doesn't really seem to work in the Brain API
             - will try to report the bug to tech support
             - the idea is to make gpt call the brain api
+            - (on the pros and cons of using the gpt marketplace approach vs server-side calling both the [[brain api]] and the [[openai api]])
     - 
 - FotL Nuggets
     - [Aggregation, Amplification, and Archiving | Fellowship of the Link](https://fightwithtools.dev/posts/writing/aggregation-amplification-and-archiving/)
