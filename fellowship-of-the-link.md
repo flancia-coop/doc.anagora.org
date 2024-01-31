@@ -72,11 +72,15 @@
         - and too "[[nounish]]" and not "[[verbish]]" enough
             - or, too much of an object, and not enough of a process
         - what would the verb be?
-            - part of it would be an adjective, "composable" (and then)
+            - part of it would be an adjective, "composable" (and thence, decomposable)
         - [[Jerry Michalski]] also got some feedback on the focus on the book aspect -- maybe it's good to recenter from the object to the community
             - Note though that verb-centric languages are a minority
-        - [[Chris Aldrich]] related dissonance in the note taking space
-        - [[Flancian]] related dis
+        - [[Chris Aldrich]] related dissonance in the note taking space and the tension between different "levels" (e.g. from note to section to book)
+            - Everybody's perspective will be different
+            - How do you reuse a whole chapter?
+                - [[Jerry]] Chapter size would be too large likely. They might be 
+        - [[Flancian]] maybe similar
+            - and types
 - [Ben Werdmuller to Propublica](https://www.propublica.org/people/ben-werdmuller)
 
 
