@@ -48,7 +48,10 @@
             - will try to report the bug to tech support
             - the idea is to make gpt call the brain api
             - (on the pros and cons of using the gpt marketplace approach vs server-side calling both the [[brain api]] and the [[openai api]])
-    - 
+        - https://ai101.peterkaminski.wiki/let's_build_an_api_and_a_gpt,_2023-12-05
+    - [[Chris Aldrich]]
+        - recovering
+        - working on a [[book project]] and trying to figure out how that relates to [[neobooks]] as per ongoing conversations
 - FotL Nuggets
     - [Aggregation, Amplification, and Archiving | Fellowship of the Link](https://fightwithtools.dev/posts/writing/aggregation-amplification-and-archiving/)
     - -> [[nuggets]] in the Agora :)
