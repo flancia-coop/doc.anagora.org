@@ -41,7 +41,10 @@
             - Looking at http://www.liveplasma.com/ for integration into the site
         - Looking forward to next week -- vacation in a cabin!
             - With someone who bakes bread \o/
-    - [[Peter Kaminski]] connecting  
+    - [[Peter Kaminski]] connecting GPT and the brain!
+        - [[curl]] was hanging
+            - wasn't specifying 'don't search full text' thing, it was super slow
+            - full text search doesn't really seem to work
     - 
 - FotL Nuggets
     - [Aggregation, Amplification, and Archiving | Fellowship of the Link](https://fightwithtools.dev/posts/writing/aggregation-amplification-and-archiving/)
