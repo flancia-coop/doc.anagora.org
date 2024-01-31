@@ -25,6 +25,9 @@
         - [[issue tracker]] / [[project tracker]] URL
             - [[github]] by default?
 
+## [[2023-01-31]]
+
+
 ## [[2023-01-24]]
 - Attending: [[Jerry Michalski]] [[Flancian]] [[Chris Aldrich]] [[Michael Grossman]] [[Bentley Davis]] [[Aram Zucker-Scharff]] [[Peter Kaminski]]
 - [[Jerry Michalski]] and [[Peter Kaminski]] on a productive call about [[massive wiki]] and lots more!
