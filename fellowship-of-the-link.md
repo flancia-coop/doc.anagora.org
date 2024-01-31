@@ -91,7 +91,8 @@
 - [Ben Werdmuller to Propublica](https://www.propublica.org/people/ben-werdmuller)
 - Meta/vocabulary check on whether we want to iterate on the [[nugget]] terminology.
     - Pro: something valuable and small-ish; memorable.
-    - 
+    - #PK in feedback it seems like people might focus on different attributes; what is key to me from the thing is the [[composability]]
+    - [[Jerry]] [[mother]] from [[SCOBY]]
 
 
 ## [[2023-01-24]]
