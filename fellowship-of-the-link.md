@@ -32,10 +32,10 @@
     - [[Jerry]] 
         - Met an [[NLP]] master, in the [[neurolinguistic programming]] sense
             - [[family constellations]]
-                - facillitated (sp?) exercise, elicited emotions in several
+                - facilitated exercise, elicited emotions in several
                 - family structure as it influences personality development
                 - exercise recommended
-            - [[Burt something]] :) http://en.wikipedia.org/wiki/Bert_Hellinger
+            - [[Bert Hellinger]] :) http://en.wikipedia.org/wiki/Bert_Hellinger
     - [[Aram Zucker-Scharff]] dealing with team reorgs 
         - Also pushing forward on code projects like [[song obsessed]]
             - Looking at http://www.liveplasma.com/ for integration into the site
@@ -57,7 +57,7 @@
             - [[aram]] on that at the post
                 - shift to more traditional engineering organization structure
                 - would like to see more stability soon
-                - [[chris aldrich]] contact from [[indieweb]] in [[pro publica]]
+                - [[chris aldrich]] contact [[Ben Werdmuller]] from [[indieweb]] now heading up technology at [[pro publica]]
         - but took two days to visit [[Thun]]
 - FotL Nuggets
     - "Assignment for Next Call: Everyone Write a Nugget about Something Memorable from These Calls"
