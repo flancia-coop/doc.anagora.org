@@ -66,7 +66,8 @@
         - would love all feedback/responses!
     - [[Flancian]] cheated and made my nugget the node [[nuggets]] in the Agora :)
         - https://anagora.org/nuggets is/will be a list of all known nuggets we mention
-    - [[Chris Aldrich]] on the [[X nugget]], a newspaper in a gold rush town :)
+    - [[Chris Aldrich]] on the [[Dahlonega Nugget]], a newspaper in a gold rush town :)
+        - His daughter named a stuffed racoon toy she got there "Nugget"
     - [[Peter Kaminski]] some feedback on [[nugget]] as a name, from a conversation with other people:
         - too concrete
         - and too "[[nounish]]" and not "[[verbish]]" enough
