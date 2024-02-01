@@ -110,11 +110,11 @@
     - an [[x]], or a [[nugget]]:
         - is [[complete]] yet [[composable]]
     - How does this notion relate to the concept of neobook? Should we use something which is a book-related metaphor?
-    - #CA or do music and call them playlists
+    - #CA or from the idea of playlists, call them "music"
     - #CA [[thesaurus]] as 'repository for treasure'
     - [[jewels]] and [[indra's net]]
     - [[trichobezoars]] and [[ambergris]]
-    - further on grain: https://en.wikipedia.org/wiki/Horreum
+    - further on grain metaphor: https://en.wikipedia.org/wiki/Horreum
 
 
 ## [[2023-01-24]]
