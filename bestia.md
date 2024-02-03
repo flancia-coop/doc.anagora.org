@@ -1,2 +1,0 @@
-- un [[corto]]
-  - [[chile]]

@@ -1,1 +1,0 @@
-- #pull [[30 days of yoga]]

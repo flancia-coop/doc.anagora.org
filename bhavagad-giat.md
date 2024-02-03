@@ -1,1 +1,0 @@
-#pull [[bhavagad gita]]

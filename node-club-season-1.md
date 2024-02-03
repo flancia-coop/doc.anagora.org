@@ -1,140 +1,204 @@
-[[node club]].
+<!DOCTYPE html>
+<html lang="en">
 
-## season 1
-
-### week 18 (19th Dec - 26th Dec)
-
-- [[Gift economy]] -- [[neil]]
-
-### week 17 (12 Dec - 19th Dec)
-
-- [[ValueFlows]] / [[value flows]] -- [[neil]]
-
-### week 16 (5 Nov - 12 Dec)
-
-- [[knowledge commons]] -- [[neil]]
-
-### week 15 (28 Nov - 5 Dec)
-Welcome to the last month of 2021! 🎉
-- [[digital commons]] -- [[neil]]
-
-### week 14 (21 - 28 Nov)
-- [[free-fair-and-alive]] -- [[vera]]
-- [[Choose Commons-Friendly Financing]] -- [[neil]]
-
-### week 13 (14 - 21 Nov)
-- [[nonprofit funding]] - [[vera]]
-- [[Triad of Commoning]] - [[neil]]
-- 
-### week 12 (7 Nov - 14 Nov)
-- [[Convivial tools]] - [[neil]]
-
-### week 11 (31 Oct - 7 Nov)
-- [[grant writing]] - [[vera]]
-- [[Liberatory technology]] - [[neil]]
-### week 10 (24 Oct - 31 Oct )
-- [[Errico Malatesta]] - [[vera]]
-- [[Platformism]] - [[neil]]
-### week 9 (18 Oct - 24 Oct )
-- [[pedagogy of the oppressed]]
-  - suggested from last week
-
-### week 8 (10 Oct - 17 Oct )
-- [[especifismo]] -- [[vera]]
-    - +1 [[neil]]
-    - also [[pedagogy of the oppressed]]
-### week 7 (4 Oct - 10 Oct)
-- [[discrimination in digital finance]] -- [[vera]]
-### week 6 (27 Sep-3 Oct)
-- [[legal drugs]] (i.e. kratom, blue lily, etc) - [[vera]]
-- [[October]] 
-  - [[flancian]] October at last week of September could be good for exercising community/public 4-week planning if we are interested in exploring that :)
-- [[common language]]
-    - [[flancian]] Interested in the general concept, both "natural" and computer
-    - [[vera]] [[esperanto]]
-- [[Permaculture]]
-  - forward link from [[Murray Bookchin]]
-  - +1 [[neil]]
-  - +1 [[vera]]
-
-### week 5 (20 Sep-26 Sep) 
-
-please vote on one or many or add a new suggestion
- some forward links from last week:
- 
-- [[Murray Bookchin]] 
-  - +1 [[neil]] quoted in one of the critiques of Transition town, someone I'd like to learn more on
-  - +1 even tho I've already noded this haha -- [[vera]]
-- [[What are the similarities and differences between Agora and FedWiki?]]
-  - +1 [[neil]] A question I'd like to explore and would be interested on others view on
-- [[permaculture]] this is my vote for next week if it doesn't make the cut -- [[vera]]
-
-### week 4 (13 Sep-19 Sep) 
-
-please vote on one or many or add a new suggestion
-
-- [[What do I think about the Agora?]]
-  - I'm voting on a proposal last week [[Why do I like the agora?]] but suggesting we make it broader like [[what do I think about the agora]] or something similar -- [[vera]]
-  - +1 [[neil]] sounds good, agreed [[What I think about the agora]] is better, we shouldn't presuppose that people like it! :)
-- [[Transition town]]
-    - anyone have a link for this? sounds interesting
-      - https://en.wikipedia.org/wiki/Transition_town
-    - It's mentioned in the intro to the 30th anniversary edition of [[bolo'bolo]]
-    - +1 [[neil]]
-- [[Revolution]]
-
-### week 3 (6 Sep-12 Sep) - winner [[bolo'bolo]]
-
-please vote on one or many or add a new suggestion
-
-- [[The Matrix]] 
-  - the film
-- [[Big Bang]] 
-  - the scientific theory
-  - [[flancian]] I recently "learnt" (using quotes as I'm not sure how much I'll remember) several things new about this while reading [[david deutsch]] and particular [[max tegmark]], this sounds like a great moment to dump some thoughts on this node
-- [[HyperCard]] 
-  - the cool thing
-  - [[flancian]] good idea, never used it but I remember (fuzzily) reading about it and finding it interesting; would like to learn more
-- [[Why do I like Agora?]] 
-  - questions / prompts could be interesting
-  - [[flancian]] this sounds great, I'd love to read someone else's thoughts on the Agora -- but then again I'm biased
-- [[bolo'bolo]]
-  - +1 [[neil]]
+<head>
+    <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<meta name="mobile-web-app-capable" content="yes">
+<link rel="apple-touch-icon" sizes="180x180" href="https://doc.anagora.org/icons/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://doc.anagora.org/icons/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://doc.anagora.org/icons/favicon-16x16.png">
+<link rel="manifest" href="https://doc.anagora.org/icons/site.webmanifest">
+<link rel="mask-icon" href="https://doc.anagora.org/icons/safari-pinned-tab.svg" color="#b51f08">
+<link rel="shortcut icon" href="https://doc.anagora.org/icons/favicon.ico">
+<meta name="apple-mobile-web-app-title" content="HedgeDoc - Collaborative markdown notes">
+<meta name="application-name" content="HedgeDoc - Collaborative markdown notes">
+<meta name="msapplication-TileColor" content="#b51f08">
+<meta name="msapplication-config" content="https://doc.anagora.org/icons/browserconfig.xml">
+<meta name="theme-color" content="#b51f08">
 
 
+<meta property="og:image" content="https://doc.anagora.org/icons/android-chrome-512x512.png">
+<meta property="og:image:alt" content="HedgeDoc logo">
+<meta property="og:image:type" content="image/png">
 
-### week 2 (30 Aug-5 Sep) - winner [[Moloch]]
+<base href="https://doc.anagora.org/">
+<title>500 Internal Error wtf.</title>
 
-two suggestions rolled over from week.
-please vote on one or many or add a new suggestion
+<link rel="stylesheet" href='https://doc.anagora.org/build/emojify.js/dist/css/basic/emojify.min.css'>
+<link href="build/font-pack.7f8ad7b6ec95ff6949ef.css" rel="stylesheet"><link href="build/index-styles-pack.acf64c9aebcea120b873.css" rel="stylesheet"><link href="build/index-styles.5f8c70cf90e15ec7de7c.css" rel="stylesheet"><link href="build/index.5d26453578f665b661eb.css" rel="stylesheet">
 
 
-- [[howl]]
-  - https://www.poetryfoundation.org/poems/49303/howl
-- [[moloch (poem)]]
-  - it's the second part of [[howl]]
-  - https://www.poetryfoundation.org/poems/49303/howl
-  - +1 [[neil]] i like the idea of doing just this part, people can read more of howl if they want.
-  - +1 [[flancian]] love it, and I agree, howl is a lot and this is a great entry point
-  - +1 [[vera]]
-  
+    <link rel="stylesheet" href="https://doc.anagora.org/css/center.css">
+</head>
 
-### week 1 (23-29 Aug) - decision made
+<body>
+    <nav class="navbar navbar-default navbar-fixed-top unselectable hidden-print">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+        <div class="pull-right" style="margin-top: 17px; color: #777;">
+            <div class="visible-xs">&nbsp;</div>
+            <div class="visible-sm">&nbsp;</div>
+            <div class="visible-md">&nbsp;</div>
+            <div class="visible-lg">&nbsp;</div>
+        </div>
+        <div class="nav-mobile nav-status visible-xs" id="short-online-user-list">
+            <a class="ui-short-status" data-toggle="dropdown"><span class="label label-danger"><i class="fa fa-plug"></i> </span>
+            </a>
+            <ul class="dropdown-menu list" role="menu" aria-labelledby="menu">
+            </ul>
+        </div>
+        <a class="navbar-brand pull-left header-brand" href="https://doc.anagora.org/" title="HedgeDoc (formerly CodiMD)">
+            <img src="https://doc.anagora.org/banner/banner_h_bw.svg" alt="HedgeDoc" class="h-100 no-night">
+            <img src="https://doc.anagora.org/banner/banner_h_wb.svg" alt="HedgeDoc" class="h-100 night">
+        </a>
+        <div class="nav-mobile pull-right visible-xs">
+            <a data-toggle="dropdown" class="btn btn-link">
+                <i class="fa fa-caret-down"></i>
+            </a>
+            <ul class="dropdown-menu list" role="menu" aria-labelledby="menu">
+                <li role="presentation"><a role="menuitem" class="ui-new" tabindex="-1" href="https://doc.anagora.org/new" target="_blank" rel="noopener"><i class="fa fa-plus fa-fw"></i> New</a>
+                </li>
+                <li role="presentation"><a role="menuitem" class="ui-publish" tabindex="-1" href="#" target="_blank" rel="noopener"><i class="fa fa-share-square-o fa-fw"></i> Publish</a>
+                </li>
+                <li class="divider"></li>
+                <li class="dropdown-header">Extra</li>
+                <li role="presentation"><a role="menuitem" class="ui-extra-revision" tabindex="-1" data-toggle="modal" data-target="#revisionModal"><i class="fa fa-history fa-fw"></i> Revision</a>
+                </li>
+                <li role="presentation"><a role="menuitem" class="ui-extra-slide" tabindex="-1" href="#" target="_blank" rel="noopener"><i class="fa fa-tv fa-fw"></i> Slide Mode</a>
+                </li>
+                
+                <li class="divider"></li>
+                <li class="dropdown-header">Export</li>
+                <li role="presentation"><a role="menuitem" class="ui-save-dropbox" tabindex="-1" href="#" target="_self"><i class="fa fa-dropbox fa-fw"></i> Dropbox</a>
+                </li>
+                
+                <li role="presentation"><a role="menuitem" class="ui-save-gist" tabindex="-1" href="#" target="_blank" rel="noopener"><i class="fa fa-github fa-fw"></i> Gist</a>
+                </li>
+                
+                
+                
+                <li class="divider"></li>
+                <li class="dropdown-header">Import</li>
+                <li role="presentation"><a role="menuitem" class="ui-import-dropbox" tabindex="-1" href="#" target="_self"><i class="fa fa-dropbox fa-fw"></i> Dropbox</a>
+                </li>
+                <li role="presentation"><a role="menuitem" class="ui-import-gist" href="#" data-toggle="modal" data-target="#gistImportModal"><i class="fa fa-github fa-fw"></i> Gist</a>
+                </li>
+                
+                <li role="presentation"><a role="menuitem" class="ui-import-clipboard" href="#" data-toggle="modal" data-target="#clipboardModal"><i class="fa fa-clipboard fa-fw"></i> Clipboard</a>
+                </li>
+                <li class="divider"></li>
+                <li class="dropdown-header">Download</li>
+                <li role="presentation"><a role="menuitem" class="ui-download-markdown" tabindex="-1" href="#" target="_self"><i class="fa fa-file-text fa-fw"></i> Markdown</a>
+                </li>
+                <li role="presentation"><a role="menuitem" class="ui-download-html" tabindex="-1" href="#" target="_self"><i class="fa fa-file-code-o fa-fw"></i> HTML</a>
+                </li>
+                <li role="presentation"><a role="menuitem" class="ui-download-raw-html" tabindex="-1" href="#" target="_self"><i class="fa fa-file-code-o fa-fw"></i> Raw HTML</a>
+                </li>
+                <li class="divider"></li>
+                <li role="presentation"><a role="menuitem" class="ui-help" href="#" data-toggle="modal" data-target=".help-modal"><i class="fa fa-question-circle fa-fw"></i> Help</a>
+                </li>
+            </ul>
+            <a class="btn btn-link ui-mode">
+                <i class="fa fa-pencil"></i>
+            </a>
+        </div>
+    </div>
+    <div class="collapse navbar-collapse">
+        <ul class="nav navbar-nav navbar-form navbar-left" style="padding:0;">
+            <div class="btn-group" data-toggle="buttons">
+                <label class="btn btn-default ui-view" title="View (Ctrl+Alt+V)">
+                    <input type="radio" name="mode" autocomplete="off"><i class="fa fa-eye"></i>
+                </label>
+                <label class="btn btn-default ui-both" title="Both (Ctrl+Alt+B)">
+                    <input type="radio" name="mode" autocomplete="off"><i class="fa fa-columns"></i>
+                </label>
+                <label class="btn btn-default ui-edit" title="Edit (Ctrl+Alt+E)">
+                    <input type="radio" name="mode" autocomplete="off"><i class="fa fa-pencil"></i>
+                </label>
+            </div>
+            <div class="btn-group" data-toggle="buttons">
+                <label class="btn ui-night" title="Night Theme">
+                    <input type="checkbox" name="night"><i class="fa fa-moon-o"></i>
+                </label>
+            </div>
+            <span class="btn btn-link btn-file ui-help" title="Help" data-toggle="modal" data-target=".help-modal">
+                <i class="fa fa-question-circle"></i>
+            </span>
+        </ul>
+        <ul class="nav navbar-nav navbar-right">
+            <li id="online-user-list">
+                <a class="ui-status" data-toggle="dropdown">
+                    <span class="label label-danger"><i class="fa fa-plug"></i> OFFLINE</span>
+                </a>
+                <ul class="dropdown-menu list" role="menu" aria-labelledby="menu" style="right: 15px;width: 200px;">
+                </ul>
+            </li>
+        </ul>
+        <ul class="nav navbar-nav navbar-right" style="padding:0;">
+            <li>
+                <a href="https://doc.anagora.org/new" target="_blank" rel="noopener" class="ui-new">
+                    <i class="fa fa-plus"></i> New
+                </a>
+            </li>
+            <li>
+                <a href="#" target="_blank" rel="noopener" class="ui-publish">
+                    <i class="fa fa-share-square-o"></i> Publish
+                </a>
+            </li>
+            <li>
+                <a data-toggle="dropdown">
+                    Menu <i class="fa fa-caret-down"></i>
+                </a>
+                <ul class="dropdown-menu list" role="menu" aria-labelledby="menu">
+                    <li class="dropdown-header">Extra</li>
+                    <li role="presentation"><a role="menuitem" class="ui-extra-revision" tabindex="-1" data-toggle="modal" data-target="#revisionModal"><i class="fa fa-history fa-fw"></i> Revision</a>
+                    </li>
+                    <li role="presentation"><a role="menuitem" class="ui-extra-slide" tabindex="-1" href="#" target="_blank" rel="noopener"><i class="fa fa-tv fa-fw"></i> Slide Mode</a>
+                    </li>
+                    
+                    <li class="divider"></li>
+                    <li class="dropdown-header">Export</li>
+                    <li role="presentation"><a role="menuitem" class="ui-save-dropbox" tabindex="-1" href="#" target="_self"><i class="fa fa-dropbox fa-fw"></i> Dropbox</a>
+                    </li>
+                    
+                    <li role="presentation"><a role="menuitem" class="ui-save-gist" tabindex="-1" href="#" target="_blank" rel="noopener"><i class="fa fa-github fa-fw"></i> Gist</a>
+                    </li>
+                    
+                    
+                    
+                    <li class="divider"></li>
+                    <li class="dropdown-header">Import</li>
+                    <li role="presentation"><a role="menuitem" class="ui-import-dropbox" tabindex="-1" href="#" target="_self"><i class="fa fa-dropbox fa-fw"></i> Dropbox</a>
+                    </li>
+                    <li role="presentation"><a role="menuitem" class="ui-import-gist" href="#" data-toggle="modal" data-target="#gistImportModal"><i class="fa fa-github fa-fw"></i> Gist</a>
+                    </li>
+                    
+                    <li role="presentation"><a role="menuitem" class="ui-import-clipboard" href="#" data-toggle="modal" data-target="#clipboardModal"><i class="fa fa-clipboard fa-fw"></i> Clipboard</a>
+                    </li>
+                    <li class="divider"></li>
+                    <li class="dropdown-header">Download</li>
+                    <li role="presentation"><a role="menuitem" class="ui-download-markdown" tabindex="-1" href="#" target="_self"><i class="fa fa-file-text fa-fw"></i> Markdown</a>
+                    </li>
+                    <li role="presentation"><a role="menuitem" class="ui-download-html" tabindex="-1" href="#" target="_self"><i class="fa fa-file-code-o fa-fw"></i> HTML</a>
+                    </li>
+                    <li role="presentation"><a role="menuitem" class="ui-download-raw-html" tabindex="-1" href="#" target="_self"><i class="fa fa-file-code-o fa-fw"></i> Raw HTML</a>
+                    </li>
+                </ul>
+            </li>
+        </ul>
+    </div>
+</nav>
+<div class="ui-spinner unselectable hidden-print"></div>
 
-- [[meditations on moloch]]
-  - +0 [[neil]] looks like a great essay but I feel it's a bit too long for a weekly node club. i think the source topic should be short and sweet enough to encourage people to node something about it even if they have little time.
-      - I agree
-- [[howl (poem)]]
-  - +1 [[neil]] quite long but not too long
-  - Anyone have a link to this?
-    - https://www.poetryfoundation.org/poems/49303/howl
-- [[moloch (poem)]]
-  - +1 [[neil]]
-  - @[[flancian]] Is this a piece of reading material or just a writing prompt?
-    - it's just the second part of [[howl]] I believe
-- [[all watched over by machines of loving grace (poem)]] by richard brautigan
-  - +1 [[neil]]
-  - +1 [[vera]] I like the title on this one
-  - +1 [[flancian]] I like this one and recently watched the film/three part series of the same name by [[adam curtis]] so it sounds great to me :)
+    <div class="container-fluid text-center">
+        <div class="vertical-center-row">
+            <h1>500 Internal Error <small>wtf.</small></h1>
+        </div>
+    </div>
+</body>
 
-please vote on one or many or add a new suggestion
+</html>

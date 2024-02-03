@@ -1,3 +1,0 @@
-- #pull [[agora plan]]
-- #push [[hypercard]]
-    - [[dimensions]] 770x475px

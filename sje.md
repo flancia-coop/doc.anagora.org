@@ -1,106 +1,204 @@
-- [[2022-05-19]]
-    - [[jerry michalski]]
-        - Grew up in [[Lima]] and then [[Buenos Aires]]!
-        - Buenos Aires in the 1960s!
-        - The status of [[South America]] and [[Africa]].
-        - The role of the [[catholic church]] in the problems of the continent.
-            - [[liberation theology]]
-            - [[curas tercermundistas]]
-            - [[bergoglio]]
-    - [[sj]]
-        - brother in [[Santiago]] :)  ([not my brother](https://jhoansebastiangrey.com/))
-    - -> [[jerry's brain]] [[cybersyn]] [[salvador allende]]
-        - #book [[overthrow]]
-- how do we frame this conversation?
-    - we have a lot of things we could talk about, what's a nice useful way to start this conversation?
-    - [[sj]]
-        - [[wikilinks everywhere]]
-        - [[fellowship]]
-        - [[stress testing new technology]] in this space
-- [[wikilinks everywhere]]
-    - [[jerry]] how we handle links seems very powerful
-        - "how can I be the [[chuck yeager]] of a the new platform"
-        - would love to get out of the current tool into something freer
-        - [[500000]] nodes, [[1000000]] links
-            - [[flancian]] FYI the Agora is small but has 1:4 linking ratio currently
-        - "linking freely but not promiscuously helps find things later"
-        - [[note taking]] vs [[thebrain]]
-            - note taking does happen in the brain
-            - but Jerry doesn't actually use the notes field per se
-            - it's not even outliner mode: it's an actual graph that Jerry navigates dynamically
-                - what about the time dimension?
-                - [[thebrain]] timestamps everything, but it's not really retrievable via an API
-            - wish: interop between tools that support every useful workflow
-        - #push [[open global mind]] group, every Thu there is a check in call, as an example of taking notes here
-            - ![](https://doc.anagora.org/uploads/upload_a6763abac582c19f6140b7f68bf880d0.png)
-- [[thebrain]]
-    - Jerry's their largest user.
-    - Has never paid for it.
-    - Freeing Jerry's Brain
-        - what else might we do with the structure that it's easy for him to capture / has been captured?
-        - Exploring migration to other platforms. 
-    - Asked for an [[rss]] feed twenty years ago (!)
-    - No other tool seems to be up to the task of migrating to it.
-    - Export is a [[json]] dump
-        - Has imported it into a [[nosql]] database ~1y ago
-        - Some thoughts are [[private]] though, which adds some complexity. Those need to be filtered out.
-    - Would love to offer his brain to others to take a snapshot and start building on it.
-        - [[sj]] [[huggingmind]]?
-            - [[content hash]] based tools have failed so far
-            - if you get into [[decentralized sharing]], there are:
-                - [[named based models]]
-                - [[content hash models]]
-                    - no clustering, no updates, need to solve equivalence and relationships in a different level (ipfs has ipdns)
-            - both of these are missing the higher level point: what humans want to share is [[concepts]]
-                - "you want the latest [[human genome]]"
-                - "you want to find a map of [[charging stations]]"
-                    - it'd make sense to compose canonical lists at different levels (city, region, global)
-                - [[coordination problem]]
-                - [[hashtags]] as an example of grassroot technology
-                - [[wikilinks]] as acceptable search queries for whatever you're trying to store
-                    - [[metasj]] [[chatoyancy]]
-                - [[query based event addressing]]
-                    - [[search engine company]] experimented with crowdsourced query editing
-                    - Jerry: "do you have any other [[vector]] into it"
-    - [[flancian]] have you done a [[mindmeld]] with someone else?
-        - Jerry knows one more advanced user, but [[thebrain]] doesn't offer any way to do this
-        - the exported bag of [[json]] objects is available, people are interested
-        - [[free jerry's brain]] group, meets Mondays at 1PM Pacific, part of [[open global mind]]
-        - also [[mattermost]] has a channel dedicated to it
-        - [[peter kaminski]]
-        - where to chat?
-            - https://chat.collectivesensecommons.org/agora/tips
-            - [[matrix]] 
-            - [[google groups]]
-            - [[fellowship of the link]]
-        - [[zsolt]] did a [[excalidraw]] + [[obsidian]] mashup
-            - "https://www.linkedin.com/in/zsolt-viczian/ TheBrain-like graph-based navigation in Obsidian with Excalidraw, Dataview, and Hover Editor (V2)  https://www.youtube.com/watch?v=plYobK-VufM"
-            - [[metasj]]: [[bretv]] is great and would be a good addition to these conversations
-        - a healthy way forward is to have a series of design sessions for the interop ecosystem, identify components, identify the pieces that will make it easy for others to adopt the system and get value from it
-        - [[jerry]] [[Rel8]] Use Cases: https://www.youtube.com/watch?v=bWkwOefBPZY
-        - Jerry: "sharing our notes to fix civilization"
-        - Replacing [[powerpoint]] with better storytelling tool
-            - [[prezi]] was great and then regressed :(
-            - there's an opportunity in this space
-            - [[powerpoint killers]][
-            - [[samuel]] [[h5p]]
-        - [[jerry]] 
-            - #push [[dxos]]
-                - https://dxos.org/
-                - https://github.com/dxos
-            - [[codex editor]] == [[codex]] in the Agora
-- questions:
-    - chat platform: [[mattermost]] or something else?
-    - [[open]] by default or not?
-        - open
-    - build conceptual outline
-        - [[google doc]]?
-        - [[node]] it?
-    - think about [[diversity]]
-    - meet again in 1w/2w? on https://meet.jit.si/fotl
-- start an [[awesome foundation]] chapter?
-    - [[wikimedia]] has a grants program for experiments, but they are grant-like and larger
-    - [[public bounties]]?
-        - what's a good platform for bounties?
-        - [[samuel]] [[expensify]] is a good example
-    - [[building bridges]]
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<meta name="mobile-web-app-capable" content="yes">
+<link rel="apple-touch-icon" sizes="180x180" href="https://doc.anagora.org/icons/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://doc.anagora.org/icons/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://doc.anagora.org/icons/favicon-16x16.png">
+<link rel="manifest" href="https://doc.anagora.org/icons/site.webmanifest">
+<link rel="mask-icon" href="https://doc.anagora.org/icons/safari-pinned-tab.svg" color="#b51f08">
+<link rel="shortcut icon" href="https://doc.anagora.org/icons/favicon.ico">
+<meta name="apple-mobile-web-app-title" content="HedgeDoc - Collaborative markdown notes">
+<meta name="application-name" content="HedgeDoc - Collaborative markdown notes">
+<meta name="msapplication-TileColor" content="#b51f08">
+<meta name="msapplication-config" content="https://doc.anagora.org/icons/browserconfig.xml">
+<meta name="theme-color" content="#b51f08">
+
+
+<meta property="og:image" content="https://doc.anagora.org/icons/android-chrome-512x512.png">
+<meta property="og:image:alt" content="HedgeDoc logo">
+<meta property="og:image:type" content="image/png">
+
+<base href="https://doc.anagora.org/">
+<title>500 Internal Error wtf.</title>
+
+<link rel="stylesheet" href='https://doc.anagora.org/build/emojify.js/dist/css/basic/emojify.min.css'>
+<link href="build/font-pack.7f8ad7b6ec95ff6949ef.css" rel="stylesheet"><link href="build/index-styles-pack.acf64c9aebcea120b873.css" rel="stylesheet"><link href="build/index-styles.5f8c70cf90e15ec7de7c.css" rel="stylesheet"><link href="build/index.5d26453578f665b661eb.css" rel="stylesheet">
+
+
+    <link rel="stylesheet" href="https://doc.anagora.org/css/center.css">
+</head>
+
+<body>
+    <nav class="navbar navbar-default navbar-fixed-top unselectable hidden-print">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+        <div class="pull-right" style="margin-top: 17px; color: #777;">
+            <div class="visible-xs">&nbsp;</div>
+            <div class="visible-sm">&nbsp;</div>
+            <div class="visible-md">&nbsp;</div>
+            <div class="visible-lg">&nbsp;</div>
+        </div>
+        <div class="nav-mobile nav-status visible-xs" id="short-online-user-list">
+            <a class="ui-short-status" data-toggle="dropdown"><span class="label label-danger"><i class="fa fa-plug"></i> </span>
+            </a>
+            <ul class="dropdown-menu list" role="menu" aria-labelledby="menu">
+            </ul>
+        </div>
+        <a class="navbar-brand pull-left header-brand" href="https://doc.anagora.org/" title="HedgeDoc (formerly CodiMD)">
+            <img src="https://doc.anagora.org/banner/banner_h_bw.svg" alt="HedgeDoc" class="h-100 no-night">
+            <img src="https://doc.anagora.org/banner/banner_h_wb.svg" alt="HedgeDoc" class="h-100 night">
+        </a>
+        <div class="nav-mobile pull-right visible-xs">
+            <a data-toggle="dropdown" class="btn btn-link">
+                <i class="fa fa-caret-down"></i>
+            </a>
+            <ul class="dropdown-menu list" role="menu" aria-labelledby="menu">
+                <li role="presentation"><a role="menuitem" class="ui-new" tabindex="-1" href="https://doc.anagora.org/new" target="_blank" rel="noopener"><i class="fa fa-plus fa-fw"></i> New</a>
+                </li>
+                <li role="presentation"><a role="menuitem" class="ui-publish" tabindex="-1" href="#" target="_blank" rel="noopener"><i class="fa fa-share-square-o fa-fw"></i> Publish</a>
+                </li>
+                <li class="divider"></li>
+                <li class="dropdown-header">Extra</li>
+                <li role="presentation"><a role="menuitem" class="ui-extra-revision" tabindex="-1" data-toggle="modal" data-target="#revisionModal"><i class="fa fa-history fa-fw"></i> Revision</a>
+                </li>
+                <li role="presentation"><a role="menuitem" class="ui-extra-slide" tabindex="-1" href="#" target="_blank" rel="noopener"><i class="fa fa-tv fa-fw"></i> Slide Mode</a>
+                </li>
+                
+                <li class="divider"></li>
+                <li class="dropdown-header">Export</li>
+                <li role="presentation"><a role="menuitem" class="ui-save-dropbox" tabindex="-1" href="#" target="_self"><i class="fa fa-dropbox fa-fw"></i> Dropbox</a>
+                </li>
+                
+                <li role="presentation"><a role="menuitem" class="ui-save-gist" tabindex="-1" href="#" target="_blank" rel="noopener"><i class="fa fa-github fa-fw"></i> Gist</a>
+                </li>
+                
+                
+                
+                <li class="divider"></li>
+                <li class="dropdown-header">Import</li>
+                <li role="presentation"><a role="menuitem" class="ui-import-dropbox" tabindex="-1" href="#" target="_self"><i class="fa fa-dropbox fa-fw"></i> Dropbox</a>
+                </li>
+                <li role="presentation"><a role="menuitem" class="ui-import-gist" href="#" data-toggle="modal" data-target="#gistImportModal"><i class="fa fa-github fa-fw"></i> Gist</a>
+                </li>
+                
+                <li role="presentation"><a role="menuitem" class="ui-import-clipboard" href="#" data-toggle="modal" data-target="#clipboardModal"><i class="fa fa-clipboard fa-fw"></i> Clipboard</a>
+                </li>
+                <li class="divider"></li>
+                <li class="dropdown-header">Download</li>
+                <li role="presentation"><a role="menuitem" class="ui-download-markdown" tabindex="-1" href="#" target="_self"><i class="fa fa-file-text fa-fw"></i> Markdown</a>
+                </li>
+                <li role="presentation"><a role="menuitem" class="ui-download-html" tabindex="-1" href="#" target="_self"><i class="fa fa-file-code-o fa-fw"></i> HTML</a>
+                </li>
+                <li role="presentation"><a role="menuitem" class="ui-download-raw-html" tabindex="-1" href="#" target="_self"><i class="fa fa-file-code-o fa-fw"></i> Raw HTML</a>
+                </li>
+                <li class="divider"></li>
+                <li role="presentation"><a role="menuitem" class="ui-help" href="#" data-toggle="modal" data-target=".help-modal"><i class="fa fa-question-circle fa-fw"></i> Help</a>
+                </li>
+            </ul>
+            <a class="btn btn-link ui-mode">
+                <i class="fa fa-pencil"></i>
+            </a>
+        </div>
+    </div>
+    <div class="collapse navbar-collapse">
+        <ul class="nav navbar-nav navbar-form navbar-left" style="padding:0;">
+            <div class="btn-group" data-toggle="buttons">
+                <label class="btn btn-default ui-view" title="View (Ctrl+Alt+V)">
+                    <input type="radio" name="mode" autocomplete="off"><i class="fa fa-eye"></i>
+                </label>
+                <label class="btn btn-default ui-both" title="Both (Ctrl+Alt+B)">
+                    <input type="radio" name="mode" autocomplete="off"><i class="fa fa-columns"></i>
+                </label>
+                <label class="btn btn-default ui-edit" title="Edit (Ctrl+Alt+E)">
+                    <input type="radio" name="mode" autocomplete="off"><i class="fa fa-pencil"></i>
+                </label>
+            </div>
+            <div class="btn-group" data-toggle="buttons">
+                <label class="btn ui-night" title="Night Theme">
+                    <input type="checkbox" name="night"><i class="fa fa-moon-o"></i>
+                </label>
+            </div>
+            <span class="btn btn-link btn-file ui-help" title="Help" data-toggle="modal" data-target=".help-modal">
+                <i class="fa fa-question-circle"></i>
+            </span>
+        </ul>
+        <ul class="nav navbar-nav navbar-right">
+            <li id="online-user-list">
+                <a class="ui-status" data-toggle="dropdown">
+                    <span class="label label-danger"><i class="fa fa-plug"></i> OFFLINE</span>
+                </a>
+                <ul class="dropdown-menu list" role="menu" aria-labelledby="menu" style="right: 15px;width: 200px;">
+                </ul>
+            </li>
+        </ul>
+        <ul class="nav navbar-nav navbar-right" style="padding:0;">
+            <li>
+                <a href="https://doc.anagora.org/new" target="_blank" rel="noopener" class="ui-new">
+                    <i class="fa fa-plus"></i> New
+                </a>
+            </li>
+            <li>
+                <a href="#" target="_blank" rel="noopener" class="ui-publish">
+                    <i class="fa fa-share-square-o"></i> Publish
+                </a>
+            </li>
+            <li>
+                <a data-toggle="dropdown">
+                    Menu <i class="fa fa-caret-down"></i>
+                </a>
+                <ul class="dropdown-menu list" role="menu" aria-labelledby="menu">
+                    <li class="dropdown-header">Extra</li>
+                    <li role="presentation"><a role="menuitem" class="ui-extra-revision" tabindex="-1" data-toggle="modal" data-target="#revisionModal"><i class="fa fa-history fa-fw"></i> Revision</a>
+                    </li>
+                    <li role="presentation"><a role="menuitem" class="ui-extra-slide" tabindex="-1" href="#" target="_blank" rel="noopener"><i class="fa fa-tv fa-fw"></i> Slide Mode</a>
+                    </li>
+                    
+                    <li class="divider"></li>
+                    <li class="dropdown-header">Export</li>
+                    <li role="presentation"><a role="menuitem" class="ui-save-dropbox" tabindex="-1" href="#" target="_self"><i class="fa fa-dropbox fa-fw"></i> Dropbox</a>
+                    </li>
+                    
+                    <li role="presentation"><a role="menuitem" class="ui-save-gist" tabindex="-1" href="#" target="_blank" rel="noopener"><i class="fa fa-github fa-fw"></i> Gist</a>
+                    </li>
+                    
+                    
+                    
+                    <li class="divider"></li>
+                    <li class="dropdown-header">Import</li>
+                    <li role="presentation"><a role="menuitem" class="ui-import-dropbox" tabindex="-1" href="#" target="_self"><i class="fa fa-dropbox fa-fw"></i> Dropbox</a>
+                    </li>
+                    <li role="presentation"><a role="menuitem" class="ui-import-gist" href="#" data-toggle="modal" data-target="#gistImportModal"><i class="fa fa-github fa-fw"></i> Gist</a>
+                    </li>
+                    
+                    <li role="presentation"><a role="menuitem" class="ui-import-clipboard" href="#" data-toggle="modal" data-target="#clipboardModal"><i class="fa fa-clipboard fa-fw"></i> Clipboard</a>
+                    </li>
+                    <li class="divider"></li>
+                    <li class="dropdown-header">Download</li>
+                    <li role="presentation"><a role="menuitem" class="ui-download-markdown" tabindex="-1" href="#" target="_self"><i class="fa fa-file-text fa-fw"></i> Markdown</a>
+                    </li>
+                    <li role="presentation"><a role="menuitem" class="ui-download-html" tabindex="-1" href="#" target="_self"><i class="fa fa-file-code-o fa-fw"></i> HTML</a>
+                    </li>
+                    <li role="presentation"><a role="menuitem" class="ui-download-raw-html" tabindex="-1" href="#" target="_self"><i class="fa fa-file-code-o fa-fw"></i> Raw HTML</a>
+                    </li>
+                </ul>
+            </li>
+        </ul>
+    </div>
+</nav>
+<div class="ui-spinner unselectable hidden-print"></div>
+
+    <div class="container-fluid text-center">
+        <div class="vertical-center-row">
+            <h1>500 Internal Error <small>wtf.</small></h1>
+        </div>
+    </div>
+</body>
+
+</html>

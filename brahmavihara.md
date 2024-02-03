@@ -1,1 +1,0 @@
-- #pull [[metta]] [[karuna]] [[mudita]] [[upeksa]]

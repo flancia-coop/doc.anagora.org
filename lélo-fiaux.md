@@ -26,7 +26,7 @@
 <meta property="og:image:type" content="image/png">
 
 <base href="https://doc.anagora.org/">
-<title>404 Not Found oops.</title>
+<title>500 Internal Error wtf.</title>
 
 <link rel="stylesheet" href='https://doc.anagora.org/build/emojify.js/dist/css/basic/emojify.min.css'>
 <link href="build/font-pack.7f8ad7b6ec95ff6949ef.css" rel="stylesheet"><link href="build/index-styles-pack.acf64c9aebcea120b873.css" rel="stylesheet"><link href="build/index-styles.5f8c70cf90e15ec7de7c.css" rel="stylesheet"><link href="build/index.5d26453578f665b661eb.css" rel="stylesheet">
@@ -196,7 +196,7 @@
 
     <div class="container-fluid text-center">
         <div class="vertical-center-row">
-            <h1>404 Not Found <small>oops.</small></h1>
+            <h1>500 Internal Error <small>wtf.</small></h1>
         </div>
     </div>
 </body>
