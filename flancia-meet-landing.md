@@ -2,7 +2,7 @@
 
 https://anagora.org/go/flancia-meet
 
-F
+Flancia Meet is a weekly video conference 
 
 what is it
 
