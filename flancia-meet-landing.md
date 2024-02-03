@@ -2,7 +2,11 @@
 
 [[go/flancia-meet]]
 
-Flancia Meet is a weekly video conference where we discuss our projects and goals, and occasionally work in public.
+Flancia Meet is a weekly video conference where we discuss our projects and goals, and occasionally work in public. Most participants are programmers.
+
+We meet on Saturdays. Usually around 11 UTC.
+
+We have a Matrix chat: [[go/agora-discuss]].
 
 ## Values
 * **No FOMO.** It's fine to miss these meetings and join sometimes. Sometimes nobody shows up. It's fine.
@@ -15,4 +19,4 @@ Flancia Meet is a weekly video conference where we discuss our projects and goal
 * [Betula](https://betula.mycorrhiza.wiki), a federated bookmarking software.
 * [Flancia](https://flancia.org), a protopia.
 * [Mycorrhiza](https://mycorrhiza.wiki), a wiki engine.
-* [Social Coop](https://social.coop), a cooperative that runs social media services (Mastodon).
+* [Social Coop](https://social.coop), a cooperative that runs a Mastodon instance.
