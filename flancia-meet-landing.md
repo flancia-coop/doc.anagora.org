@@ -1,3 +1,5 @@
+This stoa was used to draft https://flancia.org/meet. Go there and see the live version. The text below is preserved for historical interest.
+
 # Flancia meet
 
 [[go/flancia-meet]]
