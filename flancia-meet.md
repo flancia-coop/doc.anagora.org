@@ -12,6 +12,8 @@
         - good security
         - high-quality [[man]] pages indeed
     - will try [[fedora]] next
+    - on [[solaris]] -- blast from the past
+- [[flancia meet landing]]
 
 # [[flancia meet 2024-01-27]]
 - [[j0lms]] [[flancian]]
