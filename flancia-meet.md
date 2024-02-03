@@ -14,6 +14,7 @@
     - will try [[fedora]] next
     - on [[solaris]] -- blast from the past
 - [[flancia meet landing]]
+    - static page
 
 # [[flancia meet 2024-01-27]]
 - [[j0lms]] [[flancian]]
