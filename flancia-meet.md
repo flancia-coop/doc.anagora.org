@@ -15,6 +15,7 @@
     - on [[solaris]] -- blast from the past
 - [[flancia meet landing]]
     - static page
+    - https://doc.anagora.org/flancia-meet-landing?edit#
 
 # [[flancia meet 2024-01-27]]
 - [[j0lms]] [[flancian]]
