@@ -10,8 +10,9 @@ Flancia Meet is a weekly video conference where we discuss our projects and goal
 * **We practice Loving Kindness and the Principle of Charity** when interacting with each other and with people outside the group.
 * **Flancia** values apply. See https://flancia.org.
 
-## Our projects so far, in alphabetical order
-* [[Agora]]
-* https://betula.mycor
-*
-* 
+## Some of our projects, in alphabetical order
+* [Agora](https://anagora.org), a knowledge commons.
+* [Betula](https://betula.mycorrhiza.wiki), a federated bookmarking software.
+* [Flancia](https://flancia.org), a protopia.
+* [Mycorrhiza](https://mycorrhiza.wiki), a wiki engine.
+* [Social Coop](https://social.coop), a cooperative that runs social media services (Mastodon).
