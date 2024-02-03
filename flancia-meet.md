@@ -16,6 +16,10 @@
 - [[flancia meet landing]]
     - static page
     - https://doc.anagora.org/flancia-meet-landing?edit#
+- [[boris mann]] work:
+    - https://fission.codes/
+    - https://odd.dev/
+- [[local-first]]
 
 # [[flancia meet 2024-01-27]]
 - [[j0lms]] [[flancian]]
