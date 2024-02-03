@@ -1,204 +1,105 @@
-<!DOCTYPE html>
-<html lang="en">
+# Newer/Unanswered Questions
 
-<head>
-    <meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
-<meta name="apple-mobile-web-app-capable" content="yes">
-<meta name="apple-mobile-web-app-status-bar-style" content="black">
-<meta name="mobile-web-app-capable" content="yes">
-<link rel="apple-touch-icon" sizes="180x180" href="https://doc.anagora.org/icons/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="https://doc.anagora.org/icons/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="https://doc.anagora.org/icons/favicon-16x16.png">
-<link rel="manifest" href="https://doc.anagora.org/icons/site.webmanifest">
-<link rel="mask-icon" href="https://doc.anagora.org/icons/safari-pinned-tab.svg" color="#b51f08">
-<link rel="shortcut icon" href="https://doc.anagora.org/icons/favicon.ico">
-<meta name="apple-mobile-web-app-title" content="HedgeDoc - Collaborative markdown notes">
-<meta name="application-name" content="HedgeDoc - Collaborative markdown notes">
-<meta name="msapplication-TileColor" content="#b51f08">
-<meta name="msapplication-config" content="https://doc.anagora.org/icons/browserconfig.xml">
-<meta name="theme-color" content="#b51f08">
+# Older Questions
+- Are we currently using the interlay git repo/graph on the current agora?
+    - It's my understanding that the agora is using gardens.yaml to build the agora. I feel like we need to make a decision on that before we can programatically add repos to the agora
+    - Yes, we're *not* currently using git submodules or subtrees; we're still just using https://github.com/flancian/agora-bridge/blob/main/pull.py which clones each repo in a target dir.
+        - We could move to git submodules, but I'm not sure it is blocking?
+        - Yeah I guess it's not blocking we can just put in the current "garden" path into the config file and I'll leave out any sort of magic for now
+            - totally, yeah -- 'target' in the yaml should actually be relative to the agora root, it's an easy fix to make that I can do independently in pull.py. feel free to assume target works like this :)
+        - E.g. [[agora bridge]] could just write a file like `gardens.py` 'mounting' each of the git repositories it's serving so pull.py can then pull them in -- that way it seems like we can keep the complexity of 'mounting' all in pull.py
+- Q: could you use [[go/agora-bridge]] repo (the one in github) to do development? maybe in a branch? I know it's a bit of a hassle as you started in -js but I think it's better if we use the same repo for now. wdyt?
+    - Sure I just had the existing repo with the code, but we can move this to python if you want. See the stoa is useful. We weren't even working in the same language lol.
+    - No, I mean, I think JS is the right language for this :) It's just that I think we should stick with one repo for all agora bridging :) wdyt?
 
 
-<meta property="og:image" content="https://doc.anagora.org/icons/android-chrome-512x512.png">
-<meta property="og:image:alt" content="HedgeDoc logo">
-<meta property="og:image:type" content="image/png">
+# Agora Bridge
+- Hello my **friend**!
+- [[push]] [[hedgedoc]]
+    - [[meta]] We should make [[wikilinks]] work :)
+    - I actually really like how it supports a reasonable featureset out of the box, like images:
+    - ![](https://doc.anagora.org/uploads/upload_c0f8839ace0a4b1a732fefacb0b928d9.png)
+- Now about actual [[agora bridge]]:
+  - api to add repo to agora
+      - /repo/add (takes json?)
+  - api to push content to agora using managed repos
+      - /push/node? (takes arbitrary resource?)
+if we push content via http how is this a benefit over just using an [[agora client]]
+  - this is more generic, lets anyone say 'please add this URL or resource to this Agora at a certain place' -- it is resource-granularity instead of user granularity essentially
+  - in a way it would feel more like people using the stoa: they need only care about a (resource, node) pair, no need to become agora users?
+  - also this way people don't need to learn git :) 
+interesting. i wonder if we should have a writable ui like we were working on so people can edit managed repo from the site
 
-<base href="https://doc.anagora.org/">
-<title>500 Internal Error wtf.</title>
+I'm on mobile so my formatting is shite lol
+- haha, I was wondering! that makes complete sense :)
+- I think yes, we need more write paths to the agora. the nice thing about this is that we keep clients super simple: an agora client becomes anything that 1. writes to a repo and tells us about it or 2. asks us to take something and put it in a repo for them. the second is more of a nice to have than strictly needed; if everyone was running things like promnesia, we wouldn't need this :) but IMHO this will make it more 1. diverse and 2. hackable
+    - also I totally need this so agora bot doesn't need to deal with git repos. it seems like it'll be great to be able to 'just curl to an agora nearby' and get git repo management done by a server
+    - i like this idea a lot
+    - then again perhaps I'm old school and always thinking of the server side :) unsure.
+what's old is new again
+:)
+    - [[meta]] also honestly I'm digging hedgedoc, this coloring thing actually kind of works? it'd be nice to have 'different colors for different users' as an option though, perhaps that's doable
+yeah I'm liking it a lot actually
+- (I probably have to go take a walk/deal with some packages, will be back later) 
+- do you think /repo/add and /push/node make sense? if not in name/path, in essence?
+i would use /repo with POST verb then we can use same url for GET
+oh, that makes sense, yes. I did a few REST APIs once upon a time but I sort of became a fan of 'anything goes' Agora style :) I think you're right though
+I would recommend same with /node
+so /push takes a post which is a json payload with node=x and body=y?
 
-<link rel="stylesheet" href='https://doc.anagora.org/build/emojify.js/dist/css/basic/emojify.min.css'>
-<link href="build/font-pack.7f8ad7b6ec95ff6949ef.css" rel="stylesheet"><link href="build/index-styles-pack.acf64c9aebcea120b873.css" rel="stylesheet"><link href="build/index-styles.5f8c70cf90e15ec7de7c.css" rel="stylesheet"><link href="build/index.5d26453578f665b661eb.css" rel="stylesheet">
+no /node takes a PUT that updates or creates
+SGTM :)
+
+rest is for managing resources 
 
 
-    <link rel="stylesheet" href="https://doc.anagora.org/css/center.css">
-</head>
+- about `gardens.yaml`: I think I'll rename it. or perhaps I already have :) need to check. in any case, I want to make it so that target: takes a path relative to the agora root. this way we can really map git repos to any agora path and have the agora mount them, essentially turning the agora into a layered filesystem.
 
-<body>
-    <nav class="navbar navbar-default navbar-fixed-top unselectable hidden-print">
-    <!-- Brand and toggle get grouped for better mobile display -->
-    <div class="navbar-header">
-        <div class="pull-right" style="margin-top: 17px; color: #777;">
-            <div class="visible-xs">&nbsp;</div>
-            <div class="visible-sm">&nbsp;</div>
-            <div class="visible-md">&nbsp;</div>
-            <div class="visible-lg">&nbsp;</div>
-        </div>
-        <div class="nav-mobile nav-status visible-xs" id="short-online-user-list">
-            <a class="ui-short-status" data-toggle="dropdown"><span class="label label-danger"><i class="fa fa-plug"></i> </span>
-            </a>
-            <ul class="dropdown-menu list" role="menu" aria-labelledby="menu">
-            </ul>
-        </div>
-        <a class="navbar-brand pull-left header-brand" href="https://doc.anagora.org/" title="HedgeDoc (formerly CodiMD)">
-            <img src="https://doc.anagora.org/banner/banner_h_bw.svg" alt="HedgeDoc" class="h-100 no-night">
-            <img src="https://doc.anagora.org/banner/banner_h_wb.svg" alt="HedgeDoc" class="h-100 night">
-        </a>
-        <div class="nav-mobile pull-right visible-xs">
-            <a data-toggle="dropdown" class="btn btn-link">
-                <i class="fa fa-caret-down"></i>
-            </a>
-            <ul class="dropdown-menu list" role="menu" aria-labelledby="menu">
-                <li role="presentation"><a role="menuitem" class="ui-new" tabindex="-1" href="https://doc.anagora.org/new" target="_blank" rel="noopener"><i class="fa fa-plus fa-fw"></i> New</a>
-                </li>
-                <li role="presentation"><a role="menuitem" class="ui-publish" tabindex="-1" href="#" target="_blank" rel="noopener"><i class="fa fa-share-square-o fa-fw"></i> Publish</a>
-                </li>
-                <li class="divider"></li>
-                <li class="dropdown-header">Extra</li>
-                <li role="presentation"><a role="menuitem" class="ui-extra-revision" tabindex="-1" data-toggle="modal" data-target="#revisionModal"><i class="fa fa-history fa-fw"></i> Revision</a>
-                </li>
-                <li role="presentation"><a role="menuitem" class="ui-extra-slide" tabindex="-1" href="#" target="_blank" rel="noopener"><i class="fa fa-tv fa-fw"></i> Slide Mode</a>
-                </li>
-                
-                <li class="divider"></li>
-                <li class="dropdown-header">Export</li>
-                <li role="presentation"><a role="menuitem" class="ui-save-dropbox" tabindex="-1" href="#" target="_self"><i class="fa fa-dropbox fa-fw"></i> Dropbox</a>
-                </li>
-                
-                <li role="presentation"><a role="menuitem" class="ui-save-gist" tabindex="-1" href="#" target="_blank" rel="noopener"><i class="fa fa-github fa-fw"></i> Gist</a>
-                </li>
-                
-                
-                
-                <li class="divider"></li>
-                <li class="dropdown-header">Import</li>
-                <li role="presentation"><a role="menuitem" class="ui-import-dropbox" tabindex="-1" href="#" target="_self"><i class="fa fa-dropbox fa-fw"></i> Dropbox</a>
-                </li>
-                <li role="presentation"><a role="menuitem" class="ui-import-gist" href="#" data-toggle="modal" data-target="#gistImportModal"><i class="fa fa-github fa-fw"></i> Gist</a>
-                </li>
-                
-                <li role="presentation"><a role="menuitem" class="ui-import-clipboard" href="#" data-toggle="modal" data-target="#clipboardModal"><i class="fa fa-clipboard fa-fw"></i> Clipboard</a>
-                </li>
-                <li class="divider"></li>
-                <li class="dropdown-header">Download</li>
-                <li role="presentation"><a role="menuitem" class="ui-download-markdown" tabindex="-1" href="#" target="_self"><i class="fa fa-file-text fa-fw"></i> Markdown</a>
-                </li>
-                <li role="presentation"><a role="menuitem" class="ui-download-html" tabindex="-1" href="#" target="_self"><i class="fa fa-file-code-o fa-fw"></i> HTML</a>
-                </li>
-                <li role="presentation"><a role="menuitem" class="ui-download-raw-html" tabindex="-1" href="#" target="_self"><i class="fa fa-file-code-o fa-fw"></i> Raw HTML</a>
-                </li>
-                <li class="divider"></li>
-                <li role="presentation"><a role="menuitem" class="ui-help" href="#" data-toggle="modal" data-target=".help-modal"><i class="fa fa-question-circle fa-fw"></i> Help</a>
-                </li>
-            </ul>
-            <a class="btn btn-link ui-mode">
-                <i class="fa fa-pencil"></i>
-            </a>
-        </div>
-    </div>
-    <div class="collapse navbar-collapse">
-        <ul class="nav navbar-nav navbar-form navbar-left" style="padding:0;">
-            <div class="btn-group" data-toggle="buttons">
-                <label class="btn btn-default ui-view" title="View (Ctrl+Alt+V)">
-                    <input type="radio" name="mode" autocomplete="off"><i class="fa fa-eye"></i>
-                </label>
-                <label class="btn btn-default ui-both" title="Both (Ctrl+Alt+B)">
-                    <input type="radio" name="mode" autocomplete="off"><i class="fa fa-columns"></i>
-                </label>
-                <label class="btn btn-default ui-edit" title="Edit (Ctrl+Alt+E)">
-                    <input type="radio" name="mode" autocomplete="off"><i class="fa fa-pencil"></i>
-                </label>
-            </div>
-            <div class="btn-group" data-toggle="buttons">
-                <label class="btn ui-night" title="Night Theme">
-                    <input type="checkbox" name="night"><i class="fa fa-moon-o"></i>
-                </label>
-            </div>
-            <span class="btn btn-link btn-file ui-help" title="Help" data-toggle="modal" data-target=".help-modal">
-                <i class="fa fa-question-circle"></i>
-            </span>
-        </ul>
-        <ul class="nav navbar-nav navbar-right">
-            <li id="online-user-list">
-                <a class="ui-status" data-toggle="dropdown">
-                    <span class="label label-danger"><i class="fa fa-plug"></i> OFFLINE</span>
-                </a>
-                <ul class="dropdown-menu list" role="menu" aria-labelledby="menu" style="right: 15px;width: 200px;">
-                </ul>
-            </li>
-        </ul>
-        <ul class="nav navbar-nav navbar-right" style="padding:0;">
-            <li>
-                <a href="https://doc.anagora.org/new" target="_blank" rel="noopener" class="ui-new">
-                    <i class="fa fa-plus"></i> New
-                </a>
-            </li>
-            <li>
-                <a href="#" target="_blank" rel="noopener" class="ui-publish">
-                    <i class="fa fa-share-square-o"></i> Publish
-                </a>
-            </li>
-            <li>
-                <a data-toggle="dropdown">
-                    Menu <i class="fa fa-caret-down"></i>
-                </a>
-                <ul class="dropdown-menu list" role="menu" aria-labelledby="menu">
-                    <li class="dropdown-header">Extra</li>
-                    <li role="presentation"><a role="menuitem" class="ui-extra-revision" tabindex="-1" data-toggle="modal" data-target="#revisionModal"><i class="fa fa-history fa-fw"></i> Revision</a>
-                    </li>
-                    <li role="presentation"><a role="menuitem" class="ui-extra-slide" tabindex="-1" href="#" target="_blank" rel="noopener"><i class="fa fa-tv fa-fw"></i> Slide Mode</a>
-                    </li>
-                    
-                    <li class="divider"></li>
-                    <li class="dropdown-header">Export</li>
-                    <li role="presentation"><a role="menuitem" class="ui-save-dropbox" tabindex="-1" href="#" target="_self"><i class="fa fa-dropbox fa-fw"></i> Dropbox</a>
-                    </li>
-                    
-                    <li role="presentation"><a role="menuitem" class="ui-save-gist" tabindex="-1" href="#" target="_blank" rel="noopener"><i class="fa fa-github fa-fw"></i> Gist</a>
-                    </li>
-                    
-                    
-                    
-                    <li class="divider"></li>
-                    <li class="dropdown-header">Import</li>
-                    <li role="presentation"><a role="menuitem" class="ui-import-dropbox" tabindex="-1" href="#" target="_self"><i class="fa fa-dropbox fa-fw"></i> Dropbox</a>
-                    </li>
-                    <li role="presentation"><a role="menuitem" class="ui-import-gist" href="#" data-toggle="modal" data-target="#gistImportModal"><i class="fa fa-github fa-fw"></i> Gist</a>
-                    </li>
-                    
-                    <li role="presentation"><a role="menuitem" class="ui-import-clipboard" href="#" data-toggle="modal" data-target="#clipboardModal"><i class="fa fa-clipboard fa-fw"></i> Clipboard</a>
-                    </li>
-                    <li class="divider"></li>
-                    <li class="dropdown-header">Download</li>
-                    <li role="presentation"><a role="menuitem" class="ui-download-markdown" tabindex="-1" href="#" target="_self"><i class="fa fa-file-text fa-fw"></i> Markdown</a>
-                    </li>
-                    <li role="presentation"><a role="menuitem" class="ui-download-html" tabindex="-1" href="#" target="_self"><i class="fa fa-file-code-o fa-fw"></i> HTML</a>
-                    </li>
-                    <li role="presentation"><a role="menuitem" class="ui-download-raw-html" tabindex="-1" href="#" target="_self"><i class="fa fa-file-code-o fa-fw"></i> Raw HTML</a>
-                    </li>
-                </ul>
-            </li>
-        </ul>
-    </div>
-</nav>
-<div class="ui-spinner unselectable hidden-print"></div>
+i like this idea
 
-    <div class="container-fluid text-center">
-        <div class="vertical-center-row">
-            <h1>500 Internal Error <small>wtf.</small></h1>
-        </div>
-    </div>
-</body>
 
-</html>
+let met check if I've already done the first part -- i want to do this and also add hedgedoc as stoa before leaving for vacation :) but if not I'll do it on some free moment in Italy, even though the plan is to disconnect as much as possible to fight against burnout :) do you think you will be able to give the api a shot? no pressure of course.
+
+yeah that's why i wanted this doc lol
+
+:D
+
+also, when you said rest is for managing resources, do you mean that it applies here well or doesn't? I think you meant the earlier.
+
+wait, hedgedoc is coloring the left hand side with user information! the line by the number
+
+i meant it applies well because we are doing literal resource management. create/read/update/delete of nodes and repos
+
+yes, I like that a lot. and then the pitch is: if you have CURL and are fine with a REST API, you can write to an agora without auth
+
+later on we might want to solve hard things like file storage in special repos and such :) there's a git plugin/extension that is meant for large/binary file management, I forget the name
+
+
+git lfs
+large file storage
+
+
+indeed :) I wonder if there's lfs in ipfs? :)
+
+I'm not sure why ipfs would need it. large files are a failing of git internals
+
+no, I mean the other way around -- like, store large files on ipfs. unsure if it makes sense though.
+
+oh you mean use ipfs for lfs storage. that might be a thing already
+
+yeah, true.
+
+[[aside]] perhaps [[radicle]] is something close to this
+
+
+radicle sounds familiar i need to check it out again
+
+
+
+
+
+:)
+
+
+
+

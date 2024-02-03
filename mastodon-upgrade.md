@@ -1,204 +1,89 @@
-<!DOCTYPE html>
-<html lang="en">
+# Mastodon Upgrade Plan
 
-<head>
-    <meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
-<meta name="apple-mobile-web-app-capable" content="yes">
-<meta name="apple-mobile-web-app-status-bar-style" content="black">
-<meta name="mobile-web-app-capable" content="yes">
-<link rel="apple-touch-icon" sizes="180x180" href="https://doc.anagora.org/icons/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="https://doc.anagora.org/icons/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="https://doc.anagora.org/icons/favicon-16x16.png">
-<link rel="manifest" href="https://doc.anagora.org/icons/site.webmanifest">
-<link rel="mask-icon" href="https://doc.anagora.org/icons/safari-pinned-tab.svg" color="#b51f08">
-<link rel="shortcut icon" href="https://doc.anagora.org/icons/favicon.ico">
-<meta name="apple-mobile-web-app-title" content="HedgeDoc - Collaborative markdown notes">
-<meta name="application-name" content="HedgeDoc - Collaborative markdown notes">
-<meta name="msapplication-TileColor" content="#b51f08">
-<meta name="msapplication-config" content="https://doc.anagora.org/icons/browserconfig.xml">
-<meta name="theme-color" content="#b51f08">
+This is a writeup on how the [[social coop tech group]] plans to upgrade and improve our Mastodon instance, and potentially offer the community new services, as of the time of writing ([[Q4 2022]]).
 
+For more documentation from the working group, please refer to node [[TWG]] or [[social coop tech group]].
 
-<meta property="og:image" content="https://doc.anagora.org/icons/android-chrome-512x512.png">
-<meta property="og:image:alt" content="HedgeDoc logo">
-<meta property="og:image:type" content="image/png">
+- Canonical URL: https://anagora.org/mastodon-upgrade.
+- Authors: [[flancian]], [[edsu]], your_name_here (this document is open to the public).
 
-<base href="https://doc.anagora.org/">
-<title>500 Internal Error wtf.</title>
+# Goals
 
-<link rel="stylesheet" href='https://doc.anagora.org/build/emojify.js/dist/css/basic/emojify.min.css'>
-<link href="build/font-pack.7f8ad7b6ec95ff6949ef.css" rel="stylesheet"><link href="build/index-styles-pack.acf64c9aebcea120b873.css" rel="stylesheet"><link href="build/index-styles.5f8c70cf90e15ec7de7c.css" rel="stylesheet"><link href="build/index.5d26453578f665b661eb.css" rel="stylesheet">
+- Detail how we plan to perform Mastodon minor version upgrades safely, and how we plan to keep our instance up to date after that.
+- Detail how we plan to experiment with new versions and mods without unnecessarily disrupting the [[social.coop]] community.
+- Detail how we could evaluate and potentially adopt [[Hometown]], a promising [[Mastodon]] fork.
+  - Extend this to other promising forks like [[Smalltown]], or alternate codebases such as [[Pleroma]] or [[Bonfire]].
+- (Meta) Communicate to the community how the [[social coop tech group]] plans to run this project and others like it.
+  
+# Plan
 
+## Organizational, meta
 
-    <link rel="stylesheet" href="https://doc.anagora.org/css/center.css">
-</head>
+This section covers prerequisites for the work being undertaken below coming to fruition. Our intention is to do the needful to ensure that our community's well being and stated preferences are prioritized.
 
-<body>
-    <nav class="navbar navbar-default navbar-fixed-top unselectable hidden-print">
-    <!-- Brand and toggle get grouped for better mobile display -->
-    <div class="navbar-header">
-        <div class="pull-right" style="margin-top: 17px; color: #777;">
-            <div class="visible-xs">&nbsp;</div>
-            <div class="visible-sm">&nbsp;</div>
-            <div class="visible-md">&nbsp;</div>
-            <div class="visible-lg">&nbsp;</div>
-        </div>
-        <div class="nav-mobile nav-status visible-xs" id="short-online-user-list">
-            <a class="ui-short-status" data-toggle="dropdown"><span class="label label-danger"><i class="fa fa-plug"></i> </span>
-            </a>
-            <ul class="dropdown-menu list" role="menu" aria-labelledby="menu">
-            </ul>
-        </div>
-        <a class="navbar-brand pull-left header-brand" href="https://doc.anagora.org/" title="HedgeDoc (formerly CodiMD)">
-            <img src="https://doc.anagora.org/banner/banner_h_bw.svg" alt="HedgeDoc" class="h-100 no-night">
-            <img src="https://doc.anagora.org/banner/banner_h_wb.svg" alt="HedgeDoc" class="h-100 night">
-        </a>
-        <div class="nav-mobile pull-right visible-xs">
-            <a data-toggle="dropdown" class="btn btn-link">
-                <i class="fa fa-caret-down"></i>
-            </a>
-            <ul class="dropdown-menu list" role="menu" aria-labelledby="menu">
-                <li role="presentation"><a role="menuitem" class="ui-new" tabindex="-1" href="https://doc.anagora.org/new" target="_blank" rel="noopener"><i class="fa fa-plus fa-fw"></i> New</a>
-                </li>
-                <li role="presentation"><a role="menuitem" class="ui-publish" tabindex="-1" href="#" target="_blank" rel="noopener"><i class="fa fa-share-square-o fa-fw"></i> Publish</a>
-                </li>
-                <li class="divider"></li>
-                <li class="dropdown-header">Extra</li>
-                <li role="presentation"><a role="menuitem" class="ui-extra-revision" tabindex="-1" data-toggle="modal" data-target="#revisionModal"><i class="fa fa-history fa-fw"></i> Revision</a>
-                </li>
-                <li role="presentation"><a role="menuitem" class="ui-extra-slide" tabindex="-1" href="#" target="_blank" rel="noopener"><i class="fa fa-tv fa-fw"></i> Slide Mode</a>
-                </li>
-                
-                <li class="divider"></li>
-                <li class="dropdown-header">Export</li>
-                <li role="presentation"><a role="menuitem" class="ui-save-dropbox" tabindex="-1" href="#" target="_self"><i class="fa fa-dropbox fa-fw"></i> Dropbox</a>
-                </li>
-                
-                <li role="presentation"><a role="menuitem" class="ui-save-gist" tabindex="-1" href="#" target="_blank" rel="noopener"><i class="fa fa-github fa-fw"></i> Gist</a>
-                </li>
-                
-                
-                
-                <li class="divider"></li>
-                <li class="dropdown-header">Import</li>
-                <li role="presentation"><a role="menuitem" class="ui-import-dropbox" tabindex="-1" href="#" target="_self"><i class="fa fa-dropbox fa-fw"></i> Dropbox</a>
-                </li>
-                <li role="presentation"><a role="menuitem" class="ui-import-gist" href="#" data-toggle="modal" data-target="#gistImportModal"><i class="fa fa-github fa-fw"></i> Gist</a>
-                </li>
-                
-                <li role="presentation"><a role="menuitem" class="ui-import-clipboard" href="#" data-toggle="modal" data-target="#clipboardModal"><i class="fa fa-clipboard fa-fw"></i> Clipboard</a>
-                </li>
-                <li class="divider"></li>
-                <li class="dropdown-header">Download</li>
-                <li role="presentation"><a role="menuitem" class="ui-download-markdown" tabindex="-1" href="#" target="_self"><i class="fa fa-file-text fa-fw"></i> Markdown</a>
-                </li>
-                <li role="presentation"><a role="menuitem" class="ui-download-html" tabindex="-1" href="#" target="_self"><i class="fa fa-file-code-o fa-fw"></i> HTML</a>
-                </li>
-                <li role="presentation"><a role="menuitem" class="ui-download-raw-html" tabindex="-1" href="#" target="_self"><i class="fa fa-file-code-o fa-fw"></i> Raw HTML</a>
-                </li>
-                <li class="divider"></li>
-                <li role="presentation"><a role="menuitem" class="ui-help" href="#" data-toggle="modal" data-target=".help-modal"><i class="fa fa-question-circle fa-fw"></i> Help</a>
-                </li>
-            </ul>
-            <a class="btn btn-link ui-mode">
-                <i class="fa fa-pencil"></i>
-            </a>
-        </div>
-    </div>
-    <div class="collapse navbar-collapse">
-        <ul class="nav navbar-nav navbar-form navbar-left" style="padding:0;">
-            <div class="btn-group" data-toggle="buttons">
-                <label class="btn btn-default ui-view" title="View (Ctrl+Alt+V)">
-                    <input type="radio" name="mode" autocomplete="off"><i class="fa fa-eye"></i>
-                </label>
-                <label class="btn btn-default ui-both" title="Both (Ctrl+Alt+B)">
-                    <input type="radio" name="mode" autocomplete="off"><i class="fa fa-columns"></i>
-                </label>
-                <label class="btn btn-default ui-edit" title="Edit (Ctrl+Alt+E)">
-                    <input type="radio" name="mode" autocomplete="off"><i class="fa fa-pencil"></i>
-                </label>
-            </div>
-            <div class="btn-group" data-toggle="buttons">
-                <label class="btn ui-night" title="Night Theme">
-                    <input type="checkbox" name="night"><i class="fa fa-moon-o"></i>
-                </label>
-            </div>
-            <span class="btn btn-link btn-file ui-help" title="Help" data-toggle="modal" data-target=".help-modal">
-                <i class="fa fa-question-circle"></i>
-            </span>
-        </ul>
-        <ul class="nav navbar-nav navbar-right">
-            <li id="online-user-list">
-                <a class="ui-status" data-toggle="dropdown">
-                    <span class="label label-danger"><i class="fa fa-plug"></i> OFFLINE</span>
-                </a>
-                <ul class="dropdown-menu list" role="menu" aria-labelledby="menu" style="right: 15px;width: 200px;">
-                </ul>
-            </li>
-        </ul>
-        <ul class="nav navbar-nav navbar-right" style="padding:0;">
-            <li>
-                <a href="https://doc.anagora.org/new" target="_blank" rel="noopener" class="ui-new">
-                    <i class="fa fa-plus"></i> New
-                </a>
-            </li>
-            <li>
-                <a href="#" target="_blank" rel="noopener" class="ui-publish">
-                    <i class="fa fa-share-square-o"></i> Publish
-                </a>
-            </li>
-            <li>
-                <a data-toggle="dropdown">
-                    Menu <i class="fa fa-caret-down"></i>
-                </a>
-                <ul class="dropdown-menu list" role="menu" aria-labelledby="menu">
-                    <li class="dropdown-header">Extra</li>
-                    <li role="presentation"><a role="menuitem" class="ui-extra-revision" tabindex="-1" data-toggle="modal" data-target="#revisionModal"><i class="fa fa-history fa-fw"></i> Revision</a>
-                    </li>
-                    <li role="presentation"><a role="menuitem" class="ui-extra-slide" tabindex="-1" href="#" target="_blank" rel="noopener"><i class="fa fa-tv fa-fw"></i> Slide Mode</a>
-                    </li>
-                    
-                    <li class="divider"></li>
-                    <li class="dropdown-header">Export</li>
-                    <li role="presentation"><a role="menuitem" class="ui-save-dropbox" tabindex="-1" href="#" target="_self"><i class="fa fa-dropbox fa-fw"></i> Dropbox</a>
-                    </li>
-                    
-                    <li role="presentation"><a role="menuitem" class="ui-save-gist" tabindex="-1" href="#" target="_blank" rel="noopener"><i class="fa fa-github fa-fw"></i> Gist</a>
-                    </li>
-                    
-                    
-                    
-                    <li class="divider"></li>
-                    <li class="dropdown-header">Import</li>
-                    <li role="presentation"><a role="menuitem" class="ui-import-dropbox" tabindex="-1" href="#" target="_self"><i class="fa fa-dropbox fa-fw"></i> Dropbox</a>
-                    </li>
-                    <li role="presentation"><a role="menuitem" class="ui-import-gist" href="#" data-toggle="modal" data-target="#gistImportModal"><i class="fa fa-github fa-fw"></i> Gist</a>
-                    </li>
-                    
-                    <li role="presentation"><a role="menuitem" class="ui-import-clipboard" href="#" data-toggle="modal" data-target="#clipboardModal"><i class="fa fa-clipboard fa-fw"></i> Clipboard</a>
-                    </li>
-                    <li class="divider"></li>
-                    <li class="dropdown-header">Download</li>
-                    <li role="presentation"><a role="menuitem" class="ui-download-markdown" tabindex="-1" href="#" target="_self"><i class="fa fa-file-text fa-fw"></i> Markdown</a>
-                    </li>
-                    <li role="presentation"><a role="menuitem" class="ui-download-html" tabindex="-1" href="#" target="_self"><i class="fa fa-file-code-o fa-fw"></i> HTML</a>
-                    </li>
-                    <li role="presentation"><a role="menuitem" class="ui-download-raw-html" tabindex="-1" href="#" target="_self"><i class="fa fa-file-code-o fa-fw"></i> Raw HTML</a>
-                    </li>
-                </ul>
-            </li>
-        </ul>
-    </div>
-</nav>
-<div class="ui-spinner unselectable hidden-print"></div>
+- We will create a proposal in [[loomio]] to spend a monthly sum paying for a [[secondary server]] to  [[runko]].
+- We will define [[sources of truth]] for shared projects undertaken by the [[TWG]], including [[channels]] to communicate with members of the [[social coop tech group]] and otherwise influencing the process.
+- We will report back to the community on progress, by default [[monthly]].
 
-    <div class="container-fluid text-center">
-        <div class="vertical-center-row">
-            <h1>500 Internal Error <small>wtf.</small></h1>
-        </div>
-    </div>
-</body>
+## Mastodon upgrades
 
-</html>
+Our highest user-visible priority is to keep the [[Mastodon]] instance behind https://social.coop running smoothly.
+
+- #todo Link to existing upgrade procedures here; then integrate them into a single source of truth, inline or linked.
+  - Those we found in the [[twg]].
+    -> https://git.coop/social.coop/tech/operations#mastodon-upgrade-notes
+  - The Mastodon Official ones.
+    -> https://github.com/mastodon/mastodon/releases
+      - As of the time of writing, https://social.coop is running version [[3.4.6]] (eight months old). Latest is [[3.5.3]].
+  - Those gotten from our predecessors through the social.coop thread :)
+    -> https://social.coop/web/statuses/109080658507991367 points to https://git.coop/social.coop/tech/operations#mastodon-upgrade-notes, so we found what we have it seems :)
+
+### Recurring update schedule
+
+It's a loop of: 
+
+- Test backups.
+- Maybe upgrade [[postgres]] or another dependency.
+- Put the instance in [[maintenance mode]].
+- Upgrade the instance proper.
+
+The [[work schedule]] we got from the previous members of the [[twg]] is at https://git.coop/social.coop/tech/operations/-/wikis/jobs. Linking is sparse for now; https://git.coop/social.coop/tech/operations#mastodon-upgrade-notes exists, for example, but the link to [[mastodon upgrade]] leads nowhere currently.
+
+We should look at the Mastodon/Hometown update cadence and plan accordingly; if it's roughly monthly on average, schedule a monthly run. As detailed in the section above, we are currently eight months behind on releases.
+
+## Backups and restores
+
+Our highest overall priority is actually to test backups and restores. These are a prerequisite to make any changes to our setup, and indeed for safely running https://social.coop for the community. We must maintain a reasonable certainty that we would be able to bootstrap a replacement setup with minimal data loss in a bounded amount of time (low *Time To Restore*.)
+
+Tech procedures are kept mainly in [[go/twg/wiki]].
+
+## Experiments
+
+In addition to keeping the lights out, we would like to explore other possible [[upgrades]] and [[improvements]] to the services run by and for [[social coop]].
+
+### Hometown
+
+We would like to trial [[Hometown]] as an improvement over the default [[Mastodon]] experience. We could start by running it as a separate instance. The rest of this section tries to detail how we would go about this as an experiment. 
+
+The proposal is to do this on a designated subdomain e.g. https://alpha.social.coop (if we would like to reuse this approach for testing upgrades/new software packages in general) or https://town.social.coop. We would be bootstrapping a parallel ActivityPub instance. This could be done in two ways:
+
+- Set up a read only instance off database restores, read only meaning also with federation off. Let users play with it and reach a conclusion on whether they are interested in the change.
+- Set up a new instance where users can sign up for independent profiles to fully test drive [[Hometown]] also as a writing/local collaboration/governance platform.
+
+In the medium term (after a set experimentation phase) users would vote on whether they want to move to [[Hometown]] as the primary software serving their social.coop [[Fediverse]] profiles.
+
+### Matrix
+
+There has been interest in running a [[Matrix]] instance (#todo link). If we had a secondary server and thus could achieve a reasonable primary/secondary hot spare setup for arbitrary services, we'd be more comfortable running more services for the community.
+
+# Alternatives considered
+
+## [[Coop Cloud]]
+
+We could build on top of https://coopcloud.tech/ instead of running our own stack. This requires further exploration.
+
+If we go this way, it could be a good idea to experiment first on this stack with one of the additional services being considered, like [[Matrix]], instead of trying to upgrade or replace already-core functionality like Mastodon.
+
+## [[VPS]]
+
+For the purpose of running a secondary server, it might very well be that VPSs as offered by Hetzner or Digital Ocean are sufficient and more cost-effective. We need to explore this as an option and report back to the community.

@@ -1,204 +1,119 @@
-<!DOCTYPE html>
-<html lang="en">
+**This document is world writable and has been seeded with a copy of what I ([[flancian]]) sent to the [[editors]] in an intermediate deadline. Feel free to make it your own! That is, edit and expand this to fit your vision of what the [[Agora]] should be like.**
 
-<head>
-    <meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
-<meta name="apple-mobile-web-app-capable" content="yes">
-<meta name="apple-mobile-web-app-status-bar-style" content="black">
-<meta name="mobile-web-app-capable" content="yes">
-<link rel="apple-touch-icon" sizes="180x180" href="https://doc.anagora.org/icons/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="https://doc.anagora.org/icons/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="https://doc.anagora.org/icons/favicon-16x16.png">
-<link rel="manifest" href="https://doc.anagora.org/icons/site.webmanifest">
-<link rel="mask-icon" href="https://doc.anagora.org/icons/safari-pinned-tab.svg" color="#b51f08">
-<link rel="shortcut icon" href="https://doc.anagora.org/icons/favicon.ico">
-<meta name="apple-mobile-web-app-title" content="HedgeDoc - Collaborative markdown notes">
-<meta name="application-name" content="HedgeDoc - Collaborative markdown notes">
-<meta name="msapplication-TileColor" content="#b51f08">
-<meta name="msapplication-config" content="https://doc.anagora.org/icons/browserconfig.xml">
-<meta name="theme-color" content="#b51f08">
+**Feel free to also contribute your own subnodes to this node by tweeting/tooting [[agora pkg graph]] (and following [[agora bot]]) or by joining this Agora and contributing notes from your [[digital garden]] directly.**
 
+**Have fun!**
 
-<meta property="og:image" content="https://doc.anagora.org/icons/android-chrome-512x512.png">
-<meta property="og:image:alt" content="HedgeDoc logo">
-<meta property="og:image:type" content="image/png">
+## Introduction
 
-<base href="https://doc.anagora.org/">
-<title>500 Internal Error wtf.</title>
+- In this chapter we describe an **Agora**, a **social knowledge graph** provisioned and maintained by a community as a [commons](https://anagora.org/commons).
+    - An Agora is designed to be a cooperative platform that integrates and complements both [[personal knowledge graphs]] and [[social networks]] with minimal effort.
+- An Agora stands out from many other projects in knowledge graph space in a few ways: 
+    - Whereas links in a personal knowledge graph or wiki usually have a single target, **Agora links fan out by default** and its targets can be thought of as mapping to collections of resources. 
+    - Whereas a **personal knowledge graph** usually contains resources and links authored or collected by a single person, and a **wiki** usually contains resources provisioned by a group in (a priori) a shared voice, an Agora tries to integrate and interlink both personal and group resources into a [[chorus of voices]].
+    - Whereas as of the time of writing several tools in the personal knowledge graph space are exploring collaborative editing in their individual way, **the reference Agora tries to be tool, format and platform agnostic** to maximize interoperability and data exchange.
+- This [[chapter]] describes a set of [[conventions]], [[protocols]], and [[contracts]] that can be said to define an Agora. 
+- It also covers a work-in-progress reference implementation developed as free software built on those.
+    - Its guiding architectural principle being to build as much as possible on already existing conventions common to as many tools and platforms as it is possible with the aim to achieve maximal inclusivity and diversity.
+- Finally, we cover potential applications of a network built around such a platform in the [[knowledge]] and [[social]] domains in the form of short exploratory essays.
 
-<link rel="stylesheet" href='https://doc.anagora.org/build/emojify.js/dist/css/basic/emojify.min.css'>
-<link href="build/font-pack.7f8ad7b6ec95ff6949ef.css" rel="stylesheet"><link href="build/index-styles-pack.acf64c9aebcea120b873.css" rel="stylesheet"><link href="build/index-styles.5f8c70cf90e15ec7de7c.css" rel="stylesheet"><link href="build/index.5d26453578f665b661eb.css" rel="stylesheet">
+## Graph definition 
+- Being built around a knowledge graph, an Agora can be defined as a set of vertices or **nodes** `N` (each mapping to an entity in a knowledge base) and **edges** `E` (each mapping to a relationship between entities, annotated by context). 
+    - An Agora [[node]] is a collection; it contains the set of all known resources *about* (or *related* to) the entity described by the node id, defaulting to its name as an arbitrary length unicode string. 
+        - (But potentially overrided or extended with provided metadata and annotations.)
+        - In this paper each such resource attached to node `N` is known as a **subnode** `N_s`. 
+    - Note that because links can be annotated by context (as they can be considered to be by nearby #tags and [[wikilinks]]), an Agora graph can be said to be a **hypergraph** [^hypergraph].
 
+[^hypergraph]: "Wolfram likes them."
 
-    <link rel="stylesheet" href="https://doc.anagora.org/css/center.css">
-</head>
+## Data format
+- Layer 0: [[plain text]].
+    - Plain text is ubiquituous.
+    - It is not only a common standard for all tools in the knowledge space, which simplifies interoperability; it is a common standard for thought as shown by thousands of years of preserved culture.
+    - It can trivially encode outlines.
+        - It can be made to encode trees, like in this example.
+    - It generalizes to binary data.
+        - It can be made to encode arbitrary data via application of uuencode or other encoding conventions.
+- Layer 1: [[markup]] and conventions for cross-referencing and linking.
+    - Markdown, org mode, HTML or other rich markups building on top of plain text belong to this layer.
+    - [[wikilinks]] and #hashtags seem like sensible cross-format extensions for semantic linking. 
+    - Markdown plus [[wikilinks]] is the default Agora layer 1 format.
+    - More generally, this is an [[inline metadata]] layer. The above are just relatively unobstrusive generally available implicit standards that inline well.
+- Layer 3: JSON, EDN, RDF, protobufs.
+    - In general, data exchange formats.
+    - The Agora reference implementation currently provides JSON and RDF endpoints.
+    
+## Reference implementation
+- Here we cover some details of the provided free and open source reference Agora which provides a minimum viable implementation of the [[underlay]], [[interlay]], and [[overlay]] components of a [[distributed knowledge graph]][^kfg].
+    - The reference system is based on off-the-shelf components like git and Markdown. 
+    - Individual Agora instances, initially provisioned and maintained by like-minded groups but later moving to a fully distributed model, are expected to **federate** and organize into a greater [[Agora network]]. 
+    - We describe how this network can integrate with the wider internet ecosystem and how it could be used to run experiments on distributed thought.
 
-<body>
-    <nav class="navbar navbar-default navbar-fixed-top unselectable hidden-print">
-    <!-- Brand and toggle get grouped for better mobile display -->
-    <div class="navbar-header">
-        <div class="pull-right" style="margin-top: 17px; color: #777;">
-            <div class="visible-xs">&nbsp;</div>
-            <div class="visible-sm">&nbsp;</div>
-            <div class="visible-md">&nbsp;</div>
-            <div class="visible-lg">&nbsp;</div>
-        </div>
-        <div class="nav-mobile nav-status visible-xs" id="short-online-user-list">
-            <a class="ui-short-status" data-toggle="dropdown"><span class="label label-danger"><i class="fa fa-plug"></i> </span>
-            </a>
-            <ul class="dropdown-menu list" role="menu" aria-labelledby="menu">
-            </ul>
-        </div>
-        <a class="navbar-brand pull-left header-brand" href="https://doc.anagora.org/" title="HedgeDoc (formerly CodiMD)">
-            <img src="https://doc.anagora.org/banner/banner_h_bw.svg" alt="HedgeDoc" class="h-100 no-night">
-            <img src="https://doc.anagora.org/banner/banner_h_wb.svg" alt="HedgeDoc" class="h-100 night">
-        </a>
-        <div class="nav-mobile pull-right visible-xs">
-            <a data-toggle="dropdown" class="btn btn-link">
-                <i class="fa fa-caret-down"></i>
-            </a>
-            <ul class="dropdown-menu list" role="menu" aria-labelledby="menu">
-                <li role="presentation"><a role="menuitem" class="ui-new" tabindex="-1" href="https://doc.anagora.org/new" target="_blank" rel="noopener"><i class="fa fa-plus fa-fw"></i> New</a>
-                </li>
-                <li role="presentation"><a role="menuitem" class="ui-publish" tabindex="-1" href="#" target="_blank" rel="noopener"><i class="fa fa-share-square-o fa-fw"></i> Publish</a>
-                </li>
-                <li class="divider"></li>
-                <li class="dropdown-header">Extra</li>
-                <li role="presentation"><a role="menuitem" class="ui-extra-revision" tabindex="-1" data-toggle="modal" data-target="#revisionModal"><i class="fa fa-history fa-fw"></i> Revision</a>
-                </li>
-                <li role="presentation"><a role="menuitem" class="ui-extra-slide" tabindex="-1" href="#" target="_blank" rel="noopener"><i class="fa fa-tv fa-fw"></i> Slide Mode</a>
-                </li>
-                
-                <li class="divider"></li>
-                <li class="dropdown-header">Export</li>
-                <li role="presentation"><a role="menuitem" class="ui-save-dropbox" tabindex="-1" href="#" target="_self"><i class="fa fa-dropbox fa-fw"></i> Dropbox</a>
-                </li>
-                
-                <li role="presentation"><a role="menuitem" class="ui-save-gist" tabindex="-1" href="#" target="_blank" rel="noopener"><i class="fa fa-github fa-fw"></i> Gist</a>
-                </li>
-                
-                
-                
-                <li class="divider"></li>
-                <li class="dropdown-header">Import</li>
-                <li role="presentation"><a role="menuitem" class="ui-import-dropbox" tabindex="-1" href="#" target="_self"><i class="fa fa-dropbox fa-fw"></i> Dropbox</a>
-                </li>
-                <li role="presentation"><a role="menuitem" class="ui-import-gist" href="#" data-toggle="modal" data-target="#gistImportModal"><i class="fa fa-github fa-fw"></i> Gist</a>
-                </li>
-                
-                <li role="presentation"><a role="menuitem" class="ui-import-clipboard" href="#" data-toggle="modal" data-target="#clipboardModal"><i class="fa fa-clipboard fa-fw"></i> Clipboard</a>
-                </li>
-                <li class="divider"></li>
-                <li class="dropdown-header">Download</li>
-                <li role="presentation"><a role="menuitem" class="ui-download-markdown" tabindex="-1" href="#" target="_self"><i class="fa fa-file-text fa-fw"></i> Markdown</a>
-                </li>
-                <li role="presentation"><a role="menuitem" class="ui-download-html" tabindex="-1" href="#" target="_self"><i class="fa fa-file-code-o fa-fw"></i> HTML</a>
-                </li>
-                <li role="presentation"><a role="menuitem" class="ui-download-raw-html" tabindex="-1" href="#" target="_self"><i class="fa fa-file-code-o fa-fw"></i> Raw HTML</a>
-                </li>
-                <li class="divider"></li>
-                <li role="presentation"><a role="menuitem" class="ui-help" href="#" data-toggle="modal" data-target=".help-modal"><i class="fa fa-question-circle fa-fw"></i> Help</a>
-                </li>
-            </ul>
-            <a class="btn btn-link ui-mode">
-                <i class="fa fa-pencil"></i>
-            </a>
-        </div>
-    </div>
-    <div class="collapse navbar-collapse">
-        <ul class="nav navbar-nav navbar-form navbar-left" style="padding:0;">
-            <div class="btn-group" data-toggle="buttons">
-                <label class="btn btn-default ui-view" title="View (Ctrl+Alt+V)">
-                    <input type="radio" name="mode" autocomplete="off"><i class="fa fa-eye"></i>
-                </label>
-                <label class="btn btn-default ui-both" title="Both (Ctrl+Alt+B)">
-                    <input type="radio" name="mode" autocomplete="off"><i class="fa fa-columns"></i>
-                </label>
-                <label class="btn btn-default ui-edit" title="Edit (Ctrl+Alt+E)">
-                    <input type="radio" name="mode" autocomplete="off"><i class="fa fa-pencil"></i>
-                </label>
-            </div>
-            <div class="btn-group" data-toggle="buttons">
-                <label class="btn ui-night" title="Night Theme">
-                    <input type="checkbox" name="night"><i class="fa fa-moon-o"></i>
-                </label>
-            </div>
-            <span class="btn btn-link btn-file ui-help" title="Help" data-toggle="modal" data-target=".help-modal">
-                <i class="fa fa-question-circle"></i>
-            </span>
-        </ul>
-        <ul class="nav navbar-nav navbar-right">
-            <li id="online-user-list">
-                <a class="ui-status" data-toggle="dropdown">
-                    <span class="label label-danger"><i class="fa fa-plug"></i> OFFLINE</span>
-                </a>
-                <ul class="dropdown-menu list" role="menu" aria-labelledby="menu" style="right: 15px;width: 200px;">
-                </ul>
-            </li>
-        </ul>
-        <ul class="nav navbar-nav navbar-right" style="padding:0;">
-            <li>
-                <a href="https://doc.anagora.org/new" target="_blank" rel="noopener" class="ui-new">
-                    <i class="fa fa-plus"></i> New
-                </a>
-            </li>
-            <li>
-                <a href="#" target="_blank" rel="noopener" class="ui-publish">
-                    <i class="fa fa-share-square-o"></i> Publish
-                </a>
-            </li>
-            <li>
-                <a data-toggle="dropdown">
-                    Menu <i class="fa fa-caret-down"></i>
-                </a>
-                <ul class="dropdown-menu list" role="menu" aria-labelledby="menu">
-                    <li class="dropdown-header">Extra</li>
-                    <li role="presentation"><a role="menuitem" class="ui-extra-revision" tabindex="-1" data-toggle="modal" data-target="#revisionModal"><i class="fa fa-history fa-fw"></i> Revision</a>
-                    </li>
-                    <li role="presentation"><a role="menuitem" class="ui-extra-slide" tabindex="-1" href="#" target="_blank" rel="noopener"><i class="fa fa-tv fa-fw"></i> Slide Mode</a>
-                    </li>
-                    
-                    <li class="divider"></li>
-                    <li class="dropdown-header">Export</li>
-                    <li role="presentation"><a role="menuitem" class="ui-save-dropbox" tabindex="-1" href="#" target="_self"><i class="fa fa-dropbox fa-fw"></i> Dropbox</a>
-                    </li>
-                    
-                    <li role="presentation"><a role="menuitem" class="ui-save-gist" tabindex="-1" href="#" target="_blank" rel="noopener"><i class="fa fa-github fa-fw"></i> Gist</a>
-                    </li>
-                    
-                    
-                    
-                    <li class="divider"></li>
-                    <li class="dropdown-header">Import</li>
-                    <li role="presentation"><a role="menuitem" class="ui-import-dropbox" tabindex="-1" href="#" target="_self"><i class="fa fa-dropbox fa-fw"></i> Dropbox</a>
-                    </li>
-                    <li role="presentation"><a role="menuitem" class="ui-import-gist" href="#" data-toggle="modal" data-target="#gistImportModal"><i class="fa fa-github fa-fw"></i> Gist</a>
-                    </li>
-                    
-                    <li role="presentation"><a role="menuitem" class="ui-import-clipboard" href="#" data-toggle="modal" data-target="#clipboardModal"><i class="fa fa-clipboard fa-fw"></i> Clipboard</a>
-                    </li>
-                    <li class="divider"></li>
-                    <li class="dropdown-header">Download</li>
-                    <li role="presentation"><a role="menuitem" class="ui-download-markdown" tabindex="-1" href="#" target="_self"><i class="fa fa-file-text fa-fw"></i> Markdown</a>
-                    </li>
-                    <li role="presentation"><a role="menuitem" class="ui-download-html" tabindex="-1" href="#" target="_self"><i class="fa fa-file-code-o fa-fw"></i> HTML</a>
-                    </li>
-                    <li role="presentation"><a role="menuitem" class="ui-download-raw-html" tabindex="-1" href="#" target="_self"><i class="fa fa-file-code-o fa-fw"></i> Raw HTML</a>
-                    </li>
-                </ul>
-            </li>
-        </ul>
-    </div>
-</nav>
-<div class="ui-spinner unselectable hidden-print"></div>
+[^kfg]: https://www.knowledgefutures.org/
 
-    <div class="container-fluid text-center">
-        <div class="vertical-center-row">
-            <h1>500 Internal Error <small>wtf.</small></h1>
-        </div>
-    </div>
-</body>
+### Architecture
+![agora architecture](https://social-coop-media.ams3.cdn.digitaloceanspaces.com/media_attachments/files/108/346/148/636/771/913/original/9ffcfe84fe738daf.jpeg)
 
-</html>
+- The reference Agora is a simple distributed architecture based on off the shelf components.
+    - [[agora root]] is a git repository containing the Agora definition, meaning a base [[contract]] which sets the tone and high level goals of the Agora, and a list of data sources to be recurringly integrated.
+    - [[agora bridge]] is a git repository containing connectors and importers for supported data sources.
+        - User controlled [[git]] repositories are the default data source.
+    - [[agora server]] provides a UI supporting querying and composition and [[json]], [[rss]], [[rdf]] endpoints.
+    
+### Protocol
+- The Agora network should be built on a federated protocol to limit the negative impact of diasporas. Groups might temporarily diverge in their views enough to want to run separate Agoras, but ideally Agoras should be able to cooperate on problems and solutions for which there is enough ideological alignment, and eventually merge back.
+- #pull [[agora protocol]]
+
+### Data model
+- Users can contribute [[repositories]] to an Agora.
+    - To do so, they publish their resources to a repository they control and then they let an Agora know of their intention to integrate, a desired username and their agreement with an Agora's contract.
+    - [[git]] repositories are the default data source, with other repository providers ([[http]], [[ipfs]], [[drive]], [[dropbox]]) to follow.
+- Users can contribute individual [[resources]] to an Agora.
+    - As of the time of writing they can interact with an Agora system account (i.e. bot) in supported platforms like [[twitter]] and [[mastodon]] while indicating nodes they want to attach to using a Layer 1 convention.
+    - (Soon they will be able to submit this information directly on the [[agora server]] provided interface.)
+
+## Applications
+
+### Building meaning best effort
+- An Agora supports taxonomies in principle but mostly provides a set of basic tools to converge on meaning best effort through social processes.
+    - (cover:
+        - [[agora actions]]
+        - #push and #pull
+        - #go links
+        - open source ranking)
+
+### Collaborative world building
+- We seek to provision and maintain a distributed knowledge graph tailored specifically to the goal of solving problems: those of its users and society at large.
+    - This [[knowledge graph]] will be a [[commons]].
+- Its users, as a cooperative group, are promped to take a naive but rational and constructive approach to problem solving by default:
+    - For each problem in the set `P` of all problems:
+        - Describe it as thoroughly as possible.
+        - Maintain a set of known and supported possible solutions, `S(P)`.
+    - For each solution in `S(P)`:
+        - Describe it thoroughly as an algorithm, a dependency graph or both.
+        - Maintain a set of resources (people, time, attention, wealth) needed to implement it, `R(S(P))`.
+    - Individual users can also declare their views on the state of the world explicitly: they define which subsets of `P`, `S` and `R` they agree with, in the sense that they believe they are feasible, true, interesting.
+        - Users that agree on their defined subsets can then efficiently collaborate on solutions as they become available by pooling of resources.
+- Assuming the existence of such a graph we apply some good old recursivity and bootstrap an Agora with the problem of building itself. 
+    - That is, we are tasked with solving the problem of building a system that allows participating users and entities to collaborate optimally in the face of adversity (such as biases and irrationality, but perhaps assuming good intent).
+
+### Coordination problems
+- A working Agora is a [[schelling point]] built around the [[principle of charity]].
+
+### [[Counter anti disintermediation]] through [[adversarial interoperability]]
+- An Agora can be used to solve coordination problems like those we need to solve to enable users to leave walled gardens and protect the [[commons]] against [[enclosure]] by [[anti disintermediating]] parties.
+    - An Agora provides free [[bridges]] to escape [[walled gardens]] with your friends.
+    - An Agora can help people regain and maintain control of their data, including their [[social graphs]].
+
+### Flow problems 
+- #pull [[liquid democracy]]
+- We bootstrap a Universal Basic Income experiment using an Agora with a set of simple rules:
+    - If you consider yourself under-privileged, you sign up to receive an income.
+    - If you consider yourself over-privileged, you sign up to donate an income.
+    - Incomes are recurring donations for a set number of months.
+- Optional virality rule: the person receiving the income should elect to forward e.g. 10% of the sum received to someone less privileged than them.
+    - The virality rule both pushes network growth and constructively exploits wealth inequality and asymmetry of information: an under-privileged person is closer in the world to a more severely under-privileged person than the initial donor, so can more efficiently allocate the resources. This also empowers under-privileged people to also make ethical decisions.
+
+## Thanks
+
+To [[Flancia Collective]], [[Agora Discuss]] and the [[Fellowship of the Link]] for discussion and inspiration. To my [[friends]] for their support.

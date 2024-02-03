@@ -1,204 +1,65 @@
-<!DOCTYPE html>
-<html lang="en">
+See also:
 
-<head>
-    <meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
-<meta name="apple-mobile-web-app-capable" content="yes">
-<meta name="apple-mobile-web-app-status-bar-style" content="black">
-<meta name="mobile-web-app-capable" content="yes">
-<link rel="apple-touch-icon" sizes="180x180" href="https://doc.anagora.org/icons/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="https://doc.anagora.org/icons/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="https://doc.anagora.org/icons/favicon-16x16.png">
-<link rel="manifest" href="https://doc.anagora.org/icons/site.webmanifest">
-<link rel="mask-icon" href="https://doc.anagora.org/icons/safari-pinned-tab.svg" color="#b51f08">
-<link rel="shortcut icon" href="https://doc.anagora.org/icons/favicon.ico">
-<meta name="apple-mobile-web-app-title" content="HedgeDoc - Collaborative markdown notes">
-<meta name="application-name" content="HedgeDoc - Collaborative markdown notes">
-<meta name="msapplication-TileColor" content="#b51f08">
-<meta name="msapplication-config" content="https://doc.anagora.org/icons/browserconfig.xml">
-<meta name="theme-color" content="#b51f08">
+- [[[metasj flancian](http://anagora.org/go/metasj-flancian)]]
+- [[[social knowledge graphs discussion](http://anagora.org/node/social-knowledge-graph-discussion)]]
 
+By: [[[samuel klein](http://anagora.org/node/samuel-klein)]], [[[dan whaley](http://anagora.org/node/dan-whaley)]], [[[flancian](http://anagora.org/node/flancian)]], your\_name\_here
 
-<meta property="og:image" content="https://doc.anagora.org/icons/android-chrome-512x512.png">
-<meta property="og:image:alt" content="HedgeDoc logo">
-<meta property="og:image:type" content="image/png">
+## Project description
 
-<base href="https://doc.anagora.org/">
-<title>500 Internal Error wtf.</title>
+**Wikilinks everywhere: a web extension/library/bookmarklet that eagerly or lazily resolves [[**[**wikilinks**](http://anagora.org/node/wikilinks)**]] in any web property within a user-chosen context, e.g. an Agora or other distributed knowledge graph.**
 
-<link rel="stylesheet" href='https://doc.anagora.org/build/emojify.js/dist/css/basic/emojify.min.css'>
-<link href="build/font-pack.7f8ad7b6ec95ff6949ef.css" rel="stylesheet"><link href="build/index-styles-pack.acf64c9aebcea120b873.css" rel="stylesheet"><link href="build/index-styles.5f8c70cf90e15ec7de7c.css" rel="stylesheet"><link href="build/index.5d26453578f665b661eb.css" rel="stylesheet">
+While using the web, users often need to interact with or refer to their **personal knowledge databases (PKB)**. This means taking notes (about web content or otherwise), and then **referring** and **linking** to them (as they can be resolved in their PKB). This process is needlessly cumbersome; users often _know_ precisely which PKB entries they would like to refer to, and can remember their titles, but have no interactive, real time way to **insert** or **resolve** these links. Currently they need to go through a multi-step process to fetch them (open database; search for them; select them; get a canonical URL if available; copy/paste it and any relevant information), or they&#39;ll flag the term and remember to revisit it later. Instead, a user could type [[_wikilink_]], with wikilink standing for the title of the note in question, and depend on a **web extension** to resolve the note reference to canonical URL either eagerly (at the time of writing) or lazily (at read-time).
 
+## Use cases
 
-    <link rel="stylesheet" href="https://doc.anagora.org/css/center.css">
-</head>
+- As a writer, I know that a KB entry exists, but don't have immediate access to it. So, when I am typing I&#39;ll create a stub pointer to a KB entity by typing "[[entity]]". At some point later, those links will be resolved by an asynchronous process.
+- As a writer, I want immediate access to my KB graph, or other public graphs I&#39;m connected to, wherever I am so that as I&#39;m taking notes around the web I can add wikilinks in real time through the wikilink convention &quot;[[entity]]&quot;. Real-time KB linking should work w/ type-ahead so that as I&#39;m typing, suggestions of entities that satisfy the characters I&#39;ve typed (from whichever KB) are presented instantaneously, and I can click to confirm.
+- Unresolved [[wikilinks]] as produced by users through the above use case could be resolved _socially_; that is, the resolution need not be scoped necessarily to a particular personal knowledge graph, but rather to a set of them. This opens up a second use case: that in which a _reader_ of an unresolved [[wiklink]] created by a third party can choose to resolve the wikilink in a user-specified content; by default, their own knowledge base or user chosen set of knowledge bases (Agora).
+  - Note that, if the above use cases prove popular/valuable, unresolved [[wikilinks]] may proliferate within certain social circles and drive adoption of the system.
 
-<body>
-    <nav class="navbar navbar-default navbar-fixed-top unselectable hidden-print">
-    <!-- Brand and toggle get grouped for better mobile display -->
-    <div class="navbar-header">
-        <div class="pull-right" style="margin-top: 17px; color: #777;">
-            <div class="visible-xs">&nbsp;</div>
-            <div class="visible-sm">&nbsp;</div>
-            <div class="visible-md">&nbsp;</div>
-            <div class="visible-lg">&nbsp;</div>
-        </div>
-        <div class="nav-mobile nav-status visible-xs" id="short-online-user-list">
-            <a class="ui-short-status" data-toggle="dropdown"><span class="label label-danger"><i class="fa fa-plug"></i> </span>
-            </a>
-            <ul class="dropdown-menu list" role="menu" aria-labelledby="menu">
-            </ul>
-        </div>
-        <a class="navbar-brand pull-left header-brand" href="https://doc.anagora.org/" title="HedgeDoc (formerly CodiMD)">
-            <img src="https://doc.anagora.org/banner/banner_h_bw.svg" alt="HedgeDoc" class="h-100 no-night">
-            <img src="https://doc.anagora.org/banner/banner_h_wb.svg" alt="HedgeDoc" class="h-100 night">
-        </a>
-        <div class="nav-mobile pull-right visible-xs">
-            <a data-toggle="dropdown" class="btn btn-link">
-                <i class="fa fa-caret-down"></i>
-            </a>
-            <ul class="dropdown-menu list" role="menu" aria-labelledby="menu">
-                <li role="presentation"><a role="menuitem" class="ui-new" tabindex="-1" href="https://doc.anagora.org/new" target="_blank" rel="noopener"><i class="fa fa-plus fa-fw"></i> New</a>
-                </li>
-                <li role="presentation"><a role="menuitem" class="ui-publish" tabindex="-1" href="#" target="_blank" rel="noopener"><i class="fa fa-share-square-o fa-fw"></i> Publish</a>
-                </li>
-                <li class="divider"></li>
-                <li class="dropdown-header">Extra</li>
-                <li role="presentation"><a role="menuitem" class="ui-extra-revision" tabindex="-1" data-toggle="modal" data-target="#revisionModal"><i class="fa fa-history fa-fw"></i> Revision</a>
-                </li>
-                <li role="presentation"><a role="menuitem" class="ui-extra-slide" tabindex="-1" href="#" target="_blank" rel="noopener"><i class="fa fa-tv fa-fw"></i> Slide Mode</a>
-                </li>
-                
-                <li class="divider"></li>
-                <li class="dropdown-header">Export</li>
-                <li role="presentation"><a role="menuitem" class="ui-save-dropbox" tabindex="-1" href="#" target="_self"><i class="fa fa-dropbox fa-fw"></i> Dropbox</a>
-                </li>
-                
-                <li role="presentation"><a role="menuitem" class="ui-save-gist" tabindex="-1" href="#" target="_blank" rel="noopener"><i class="fa fa-github fa-fw"></i> Gist</a>
-                </li>
-                
-                
-                
-                <li class="divider"></li>
-                <li class="dropdown-header">Import</li>
-                <li role="presentation"><a role="menuitem" class="ui-import-dropbox" tabindex="-1" href="#" target="_self"><i class="fa fa-dropbox fa-fw"></i> Dropbox</a>
-                </li>
-                <li role="presentation"><a role="menuitem" class="ui-import-gist" href="#" data-toggle="modal" data-target="#gistImportModal"><i class="fa fa-github fa-fw"></i> Gist</a>
-                </li>
-                
-                <li role="presentation"><a role="menuitem" class="ui-import-clipboard" href="#" data-toggle="modal" data-target="#clipboardModal"><i class="fa fa-clipboard fa-fw"></i> Clipboard</a>
-                </li>
-                <li class="divider"></li>
-                <li class="dropdown-header">Download</li>
-                <li role="presentation"><a role="menuitem" class="ui-download-markdown" tabindex="-1" href="#" target="_self"><i class="fa fa-file-text fa-fw"></i> Markdown</a>
-                </li>
-                <li role="presentation"><a role="menuitem" class="ui-download-html" tabindex="-1" href="#" target="_self"><i class="fa fa-file-code-o fa-fw"></i> HTML</a>
-                </li>
-                <li role="presentation"><a role="menuitem" class="ui-download-raw-html" tabindex="-1" href="#" target="_self"><i class="fa fa-file-code-o fa-fw"></i> Raw HTML</a>
-                </li>
-                <li class="divider"></li>
-                <li role="presentation"><a role="menuitem" class="ui-help" href="#" data-toggle="modal" data-target=".help-modal"><i class="fa fa-question-circle fa-fw"></i> Help</a>
-                </li>
-            </ul>
-            <a class="btn btn-link ui-mode">
-                <i class="fa fa-pencil"></i>
-            </a>
-        </div>
-    </div>
-    <div class="collapse navbar-collapse">
-        <ul class="nav navbar-nav navbar-form navbar-left" style="padding:0;">
-            <div class="btn-group" data-toggle="buttons">
-                <label class="btn btn-default ui-view" title="View (Ctrl+Alt+V)">
-                    <input type="radio" name="mode" autocomplete="off"><i class="fa fa-eye"></i>
-                </label>
-                <label class="btn btn-default ui-both" title="Both (Ctrl+Alt+B)">
-                    <input type="radio" name="mode" autocomplete="off"><i class="fa fa-columns"></i>
-                </label>
-                <label class="btn btn-default ui-edit" title="Edit (Ctrl+Alt+E)">
-                    <input type="radio" name="mode" autocomplete="off"><i class="fa fa-pencil"></i>
-                </label>
-            </div>
-            <div class="btn-group" data-toggle="buttons">
-                <label class="btn ui-night" title="Night Theme">
-                    <input type="checkbox" name="night"><i class="fa fa-moon-o"></i>
-                </label>
-            </div>
-            <span class="btn btn-link btn-file ui-help" title="Help" data-toggle="modal" data-target=".help-modal">
-                <i class="fa fa-question-circle"></i>
-            </span>
-        </ul>
-        <ul class="nav navbar-nav navbar-right">
-            <li id="online-user-list">
-                <a class="ui-status" data-toggle="dropdown">
-                    <span class="label label-danger"><i class="fa fa-plug"></i> OFFLINE</span>
-                </a>
-                <ul class="dropdown-menu list" role="menu" aria-labelledby="menu" style="right: 15px;width: 200px;">
-                </ul>
-            </li>
-        </ul>
-        <ul class="nav navbar-nav navbar-right" style="padding:0;">
-            <li>
-                <a href="https://doc.anagora.org/new" target="_blank" rel="noopener" class="ui-new">
-                    <i class="fa fa-plus"></i> New
-                </a>
-            </li>
-            <li>
-                <a href="#" target="_blank" rel="noopener" class="ui-publish">
-                    <i class="fa fa-share-square-o"></i> Publish
-                </a>
-            </li>
-            <li>
-                <a data-toggle="dropdown">
-                    Menu <i class="fa fa-caret-down"></i>
-                </a>
-                <ul class="dropdown-menu list" role="menu" aria-labelledby="menu">
-                    <li class="dropdown-header">Extra</li>
-                    <li role="presentation"><a role="menuitem" class="ui-extra-revision" tabindex="-1" data-toggle="modal" data-target="#revisionModal"><i class="fa fa-history fa-fw"></i> Revision</a>
-                    </li>
-                    <li role="presentation"><a role="menuitem" class="ui-extra-slide" tabindex="-1" href="#" target="_blank" rel="noopener"><i class="fa fa-tv fa-fw"></i> Slide Mode</a>
-                    </li>
-                    
-                    <li class="divider"></li>
-                    <li class="dropdown-header">Export</li>
-                    <li role="presentation"><a role="menuitem" class="ui-save-dropbox" tabindex="-1" href="#" target="_self"><i class="fa fa-dropbox fa-fw"></i> Dropbox</a>
-                    </li>
-                    
-                    <li role="presentation"><a role="menuitem" class="ui-save-gist" tabindex="-1" href="#" target="_blank" rel="noopener"><i class="fa fa-github fa-fw"></i> Gist</a>
-                    </li>
-                    
-                    
-                    
-                    <li class="divider"></li>
-                    <li class="dropdown-header">Import</li>
-                    <li role="presentation"><a role="menuitem" class="ui-import-dropbox" tabindex="-1" href="#" target="_self"><i class="fa fa-dropbox fa-fw"></i> Dropbox</a>
-                    </li>
-                    <li role="presentation"><a role="menuitem" class="ui-import-gist" href="#" data-toggle="modal" data-target="#gistImportModal"><i class="fa fa-github fa-fw"></i> Gist</a>
-                    </li>
-                    
-                    <li role="presentation"><a role="menuitem" class="ui-import-clipboard" href="#" data-toggle="modal" data-target="#clipboardModal"><i class="fa fa-clipboard fa-fw"></i> Clipboard</a>
-                    </li>
-                    <li class="divider"></li>
-                    <li class="dropdown-header">Download</li>
-                    <li role="presentation"><a role="menuitem" class="ui-download-markdown" tabindex="-1" href="#" target="_self"><i class="fa fa-file-text fa-fw"></i> Markdown</a>
-                    </li>
-                    <li role="presentation"><a role="menuitem" class="ui-download-html" tabindex="-1" href="#" target="_self"><i class="fa fa-file-code-o fa-fw"></i> HTML</a>
-                    </li>
-                    <li role="presentation"><a role="menuitem" class="ui-download-raw-html" tabindex="-1" href="#" target="_self"><i class="fa fa-file-code-o fa-fw"></i> Raw HTML</a>
-                    </li>
-                </ul>
-            </li>
-        </ul>
-    </div>
-</nav>
-<div class="ui-spinner unselectable hidden-print"></div>
+## Applications
 
-    <div class="container-fluid text-center">
-        <div class="vertical-center-row">
-            <h1>500 Internal Error <small>wtf.</small></h1>
-        </div>
-    </div>
-</body>
+- Ex: resolving wikilinks on hypothes.is notes. [default InstantLinks]
+- Ex: resolving wikilinks in Twitter, Facebook, Google Docs/Etherpad -- anywhere there is user generated content that happens to make use of them.
+- Make this work with [[w:Wikis]], [[d:Wikidata]], [[f:Files]], and {{t:Templates}}
+  - Then make subst: work [like \_flattening\_ for go-links]
+- Make a default resolution pathway for each source, &amp;
+ a default meta-resolution $path (where to look for the pathway config)
+  - $path can include localfile, agora:config, metawiki:config, ul:r ...
+- could say: whenever you force flattening of a link [in agora] you could explicitly note this as an addition
 
-</html>
+## Resolution flow
+
+- The extension should maintain a list of &#39;wikilink providers&#39;, that is, sites that are known to offer wikilink resolution as a service.
+- The user can configure resolution priority for providers.
+- The extension may default to resolving wikilinks to the top priority provider in every case, although it may also choose to do background presence checks to link wikilinks at the top priority provider that already hosts a valid node in the wikilink in question.
+
+[[foo]] -\&gt; $base\_url/foo
+
+## Plan
+
+- Define an interface to resolve wikilinks in an Agora/DKG
+  - Could be [[[agora protocol](http://anagora.org/go/agora-protocol)]] or a simpler subset.
+  - Default: /resolve/\&lt;node\&gt; returns:
+    - Json with node information, including canonical URL (to point the wikilink to) and perhaps optimally full node information (like number of subnodes, content) to inline as the client sees fit.
+  - Alternative: /api/v0/node/\&lt;node\&gt;
+- Implement interface as per the above
+  - Estimate: ~2h
+- Write a browser extension that resolves wikilinks in a given Agora using the above
+  - MVP: fetches the list of [[wikilinks]] in the current page and builds links to those resolved in a default Agora.
+    - Usability improvement: actually live-links them by modifying the DOM
+  - Next action: find a good &quot;hello world&quot; extension to base this on? Perhaps ideally written in typescript
+    - See perhaps [[[browser extensions](http://anagora.org/node/browser-extension)]] for breadcrumbs (check)
+    - https://github.com/MarkaPola/Linkificator[https://github.com/MarkaPola/Linkificator](https://github.com/MarkaPola/Linkificator) could be a reasonable base, license is MPL.
+    - [https://github.com/eight04/linkify-plus-plus](https://github.com/eight04/linkify-plus-plus) is BSD
+    - These two may give ideas for live suggestions while writing: [Type Autosuggest](https://addons.mozilla.org/en-US/firefox/addon/type-autosuggest/) and [TextFast](https://addons.mozilla.org/en-US/firefox/addon/textfast/).
+
+## Side projects
+
+- Chat
+  - Zulip streams could map to Agora nodes
+  - Related because it&#39;s another type of wikilink integration adapted to a particular website
+  - Make use of the magic-hat node-resolution that&#39;s trustworthy.
+- Twitter
+  - See anagora.org/node/agora-twitter-integration

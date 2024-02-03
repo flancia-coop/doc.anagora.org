@@ -1,204 +1,141 @@
-<!DOCTYPE html>
-<html lang="en">
+Self: [flancia.org/go/agora-protocol](http://flancia.org/go/agora-protocol)
 
-<head>
-    <meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
-<meta name="apple-mobile-web-app-capable" content="yes">
-<meta name="apple-mobile-web-app-status-bar-style" content="black">
-<meta name="mobile-web-app-capable" content="yes">
-<link rel="apple-touch-icon" sizes="180x180" href="https://doc.anagora.org/icons/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="https://doc.anagora.org/icons/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="https://doc.anagora.org/icons/favicon-16x16.png">
-<link rel="manifest" href="https://doc.anagora.org/icons/site.webmanifest">
-<link rel="mask-icon" href="https://doc.anagora.org/icons/safari-pinned-tab.svg" color="#b51f08">
-<link rel="shortcut icon" href="https://doc.anagora.org/icons/favicon.ico">
-<meta name="apple-mobile-web-app-title" content="HedgeDoc - Collaborative markdown notes">
-<meta name="application-name" content="HedgeDoc - Collaborative markdown notes">
-<meta name="msapplication-TileColor" content="#b51f08">
-<meta name="msapplication-config" content="https://doc.anagora.org/icons/browserconfig.xml">
-<meta name="theme-color" content="#b51f08">
+See also: flancia.org/agora (motivation and TLDR), [flancia.org/go/agora](http://flancia.org/go/agora) (early stage implementation), [flancia.org/go/agora-roadmap](http://flancia.org/go/agora-roadmap) (roadmap)
 
+By: [[D. W.]], [[Flancian]], your name here!
 
-<meta property="og:image" content="https://doc.anagora.org/icons/android-chrome-512x512.png">
-<meta property="og:image:alt" content="HedgeDoc logo">
-<meta property="og:image:type" content="image/png">
+**[Meta, and a note to contributors](#_aj3q4ry5d83x) 1**
 
-<base href="https://doc.anagora.org/">
-<title>500 Internal Error wtf.</title>
+**[Background](#_3eqemxdhgf1m) 1**
 
-<link rel="stylesheet" href='https://doc.anagora.org/build/emojify.js/dist/css/basic/emojify.min.css'>
-<link href="build/font-pack.7f8ad7b6ec95ff6949ef.css" rel="stylesheet"><link href="build/index-styles-pack.acf64c9aebcea120b873.css" rel="stylesheet"><link href="build/index-styles.5f8c70cf90e15ec7de7c.css" rel="stylesheet"><link href="build/index.5d26453578f665b661eb.css" rel="stylesheet">
+[Wikilinks](#_5cbrmexi5exl) 2
 
+[Backlinks](#_kq6hhyllsx2e) 2
 
-    <link rel="stylesheet" href="https://doc.anagora.org/css/center.css">
-</head>
+[Block references](#_qzyeq2l8mef2) 2
 
-<body>
-    <nav class="navbar navbar-default navbar-fixed-top unselectable hidden-print">
-    <!-- Brand and toggle get grouped for better mobile display -->
-    <div class="navbar-header">
-        <div class="pull-right" style="margin-top: 17px; color: #777;">
-            <div class="visible-xs">&nbsp;</div>
-            <div class="visible-sm">&nbsp;</div>
-            <div class="visible-md">&nbsp;</div>
-            <div class="visible-lg">&nbsp;</div>
-        </div>
-        <div class="nav-mobile nav-status visible-xs" id="short-online-user-list">
-            <a class="ui-short-status" data-toggle="dropdown"><span class="label label-danger"><i class="fa fa-plug"></i> </span>
-            </a>
-            <ul class="dropdown-menu list" role="menu" aria-labelledby="menu">
-            </ul>
-        </div>
-        <a class="navbar-brand pull-left header-brand" href="https://doc.anagora.org/" title="HedgeDoc (formerly CodiMD)">
-            <img src="https://doc.anagora.org/banner/banner_h_bw.svg" alt="HedgeDoc" class="h-100 no-night">
-            <img src="https://doc.anagora.org/banner/banner_h_wb.svg" alt="HedgeDoc" class="h-100 night">
-        </a>
-        <div class="nav-mobile pull-right visible-xs">
-            <a data-toggle="dropdown" class="btn btn-link">
-                <i class="fa fa-caret-down"></i>
-            </a>
-            <ul class="dropdown-menu list" role="menu" aria-labelledby="menu">
-                <li role="presentation"><a role="menuitem" class="ui-new" tabindex="-1" href="https://doc.anagora.org/new" target="_blank" rel="noopener"><i class="fa fa-plus fa-fw"></i> New</a>
-                </li>
-                <li role="presentation"><a role="menuitem" class="ui-publish" tabindex="-1" href="#" target="_blank" rel="noopener"><i class="fa fa-share-square-o fa-fw"></i> Publish</a>
-                </li>
-                <li class="divider"></li>
-                <li class="dropdown-header">Extra</li>
-                <li role="presentation"><a role="menuitem" class="ui-extra-revision" tabindex="-1" data-toggle="modal" data-target="#revisionModal"><i class="fa fa-history fa-fw"></i> Revision</a>
-                </li>
-                <li role="presentation"><a role="menuitem" class="ui-extra-slide" tabindex="-1" href="#" target="_blank" rel="noopener"><i class="fa fa-tv fa-fw"></i> Slide Mode</a>
-                </li>
-                
-                <li class="divider"></li>
-                <li class="dropdown-header">Export</li>
-                <li role="presentation"><a role="menuitem" class="ui-save-dropbox" tabindex="-1" href="#" target="_self"><i class="fa fa-dropbox fa-fw"></i> Dropbox</a>
-                </li>
-                
-                <li role="presentation"><a role="menuitem" class="ui-save-gist" tabindex="-1" href="#" target="_blank" rel="noopener"><i class="fa fa-github fa-fw"></i> Gist</a>
-                </li>
-                
-                
-                
-                <li class="divider"></li>
-                <li class="dropdown-header">Import</li>
-                <li role="presentation"><a role="menuitem" class="ui-import-dropbox" tabindex="-1" href="#" target="_self"><i class="fa fa-dropbox fa-fw"></i> Dropbox</a>
-                </li>
-                <li role="presentation"><a role="menuitem" class="ui-import-gist" href="#" data-toggle="modal" data-target="#gistImportModal"><i class="fa fa-github fa-fw"></i> Gist</a>
-                </li>
-                
-                <li role="presentation"><a role="menuitem" class="ui-import-clipboard" href="#" data-toggle="modal" data-target="#clipboardModal"><i class="fa fa-clipboard fa-fw"></i> Clipboard</a>
-                </li>
-                <li class="divider"></li>
-                <li class="dropdown-header">Download</li>
-                <li role="presentation"><a role="menuitem" class="ui-download-markdown" tabindex="-1" href="#" target="_self"><i class="fa fa-file-text fa-fw"></i> Markdown</a>
-                </li>
-                <li role="presentation"><a role="menuitem" class="ui-download-html" tabindex="-1" href="#" target="_self"><i class="fa fa-file-code-o fa-fw"></i> HTML</a>
-                </li>
-                <li role="presentation"><a role="menuitem" class="ui-download-raw-html" tabindex="-1" href="#" target="_self"><i class="fa fa-file-code-o fa-fw"></i> Raw HTML</a>
-                </li>
-                <li class="divider"></li>
-                <li role="presentation"><a role="menuitem" class="ui-help" href="#" data-toggle="modal" data-target=".help-modal"><i class="fa fa-question-circle fa-fw"></i> Help</a>
-                </li>
-            </ul>
-            <a class="btn btn-link ui-mode">
-                <i class="fa fa-pencil"></i>
-            </a>
-        </div>
-    </div>
-    <div class="collapse navbar-collapse">
-        <ul class="nav navbar-nav navbar-form navbar-left" style="padding:0;">
-            <div class="btn-group" data-toggle="buttons">
-                <label class="btn btn-default ui-view" title="View (Ctrl+Alt+V)">
-                    <input type="radio" name="mode" autocomplete="off"><i class="fa fa-eye"></i>
-                </label>
-                <label class="btn btn-default ui-both" title="Both (Ctrl+Alt+B)">
-                    <input type="radio" name="mode" autocomplete="off"><i class="fa fa-columns"></i>
-                </label>
-                <label class="btn btn-default ui-edit" title="Edit (Ctrl+Alt+E)">
-                    <input type="radio" name="mode" autocomplete="off"><i class="fa fa-pencil"></i>
-                </label>
-            </div>
-            <div class="btn-group" data-toggle="buttons">
-                <label class="btn ui-night" title="Night Theme">
-                    <input type="checkbox" name="night"><i class="fa fa-moon-o"></i>
-                </label>
-            </div>
-            <span class="btn btn-link btn-file ui-help" title="Help" data-toggle="modal" data-target=".help-modal">
-                <i class="fa fa-question-circle"></i>
-            </span>
-        </ul>
-        <ul class="nav navbar-nav navbar-right">
-            <li id="online-user-list">
-                <a class="ui-status" data-toggle="dropdown">
-                    <span class="label label-danger"><i class="fa fa-plug"></i> OFFLINE</span>
-                </a>
-                <ul class="dropdown-menu list" role="menu" aria-labelledby="menu" style="right: 15px;width: 200px;">
-                </ul>
-            </li>
-        </ul>
-        <ul class="nav navbar-nav navbar-right" style="padding:0;">
-            <li>
-                <a href="https://doc.anagora.org/new" target="_blank" rel="noopener" class="ui-new">
-                    <i class="fa fa-plus"></i> New
-                </a>
-            </li>
-            <li>
-                <a href="#" target="_blank" rel="noopener" class="ui-publish">
-                    <i class="fa fa-share-square-o"></i> Publish
-                </a>
-            </li>
-            <li>
-                <a data-toggle="dropdown">
-                    Menu <i class="fa fa-caret-down"></i>
-                </a>
-                <ul class="dropdown-menu list" role="menu" aria-labelledby="menu">
-                    <li class="dropdown-header">Extra</li>
-                    <li role="presentation"><a role="menuitem" class="ui-extra-revision" tabindex="-1" data-toggle="modal" data-target="#revisionModal"><i class="fa fa-history fa-fw"></i> Revision</a>
-                    </li>
-                    <li role="presentation"><a role="menuitem" class="ui-extra-slide" tabindex="-1" href="#" target="_blank" rel="noopener"><i class="fa fa-tv fa-fw"></i> Slide Mode</a>
-                    </li>
-                    
-                    <li class="divider"></li>
-                    <li class="dropdown-header">Export</li>
-                    <li role="presentation"><a role="menuitem" class="ui-save-dropbox" tabindex="-1" href="#" target="_self"><i class="fa fa-dropbox fa-fw"></i> Dropbox</a>
-                    </li>
-                    
-                    <li role="presentation"><a role="menuitem" class="ui-save-gist" tabindex="-1" href="#" target="_blank" rel="noopener"><i class="fa fa-github fa-fw"></i> Gist</a>
-                    </li>
-                    
-                    
-                    
-                    <li class="divider"></li>
-                    <li class="dropdown-header">Import</li>
-                    <li role="presentation"><a role="menuitem" class="ui-import-dropbox" tabindex="-1" href="#" target="_self"><i class="fa fa-dropbox fa-fw"></i> Dropbox</a>
-                    </li>
-                    <li role="presentation"><a role="menuitem" class="ui-import-gist" href="#" data-toggle="modal" data-target="#gistImportModal"><i class="fa fa-github fa-fw"></i> Gist</a>
-                    </li>
-                    
-                    <li role="presentation"><a role="menuitem" class="ui-import-clipboard" href="#" data-toggle="modal" data-target="#clipboardModal"><i class="fa fa-clipboard fa-fw"></i> Clipboard</a>
-                    </li>
-                    <li class="divider"></li>
-                    <li class="dropdown-header">Download</li>
-                    <li role="presentation"><a role="menuitem" class="ui-download-markdown" tabindex="-1" href="#" target="_self"><i class="fa fa-file-text fa-fw"></i> Markdown</a>
-                    </li>
-                    <li role="presentation"><a role="menuitem" class="ui-download-html" tabindex="-1" href="#" target="_self"><i class="fa fa-file-code-o fa-fw"></i> HTML</a>
-                    </li>
-                    <li role="presentation"><a role="menuitem" class="ui-download-raw-html" tabindex="-1" href="#" target="_self"><i class="fa fa-file-code-o fa-fw"></i> Raw HTML</a>
-                    </li>
-                </ul>
-            </li>
-        </ul>
-    </div>
-</nav>
-<div class="ui-spinner unselectable hidden-print"></div>
+[Multi-user experience](#_s9cref8d65dp) 2
 
-    <div class="container-fluid text-center">
-        <div class="vertical-center-row">
-            <h1>500 Internal Error <small>wtf.</small></h1>
-        </div>
-    </div>
-</body>
+**[Proposal](#_7og55z6k3nv0) 2**
 
-</html>
+[Concepts](#_980lm5aevkiv) 3
+
+[Multinodes, or constructive conflict handling](#_633wbc2fqf1v) 3
+
+[Other clients](#_gk5lbppzxvux) 3
+
+[Data format](#_wax3irvckshk) 3
+
+[Go links](#_41drleozcqrb) 4
+
+[Contexts](#_x8svdb9axfmf) 4
+
+[Open questions](#_kovtovaz35su) 4
+
+**[Possible Applications](#_4tdtpf29ytug) 4**
+
+## Meta, and a note to contributors
+
+- _Agora_ is just a working code name; it is a recurrent label that one of the authors has been using as a placeholder for a set of concurrent, only occasionally convergent ideas. Please feel free to propose a different name, or indeed to ignore the name overall.
+- This document will probably make use of unresolved [[wikilinks]] both for the purpose of demonstrating the concept and labelling entities. Eventually this text is expected to move into a reference Agora, and such links will resolve.
+- I tried keeping Background to about one page and Proposal to about one page. Unsure if this is the right proportion/format at all. Open to any and all feedback :)
+
+## Background
+
+_The Agora is an annotation layer for the internet based on a loosely coupled socially maintained [[_[_distributed knowledge graph_](http://flancia.org/go/distributed-knowledge-graphs)_]] based on [[_[_wikilinks_](http://flancia.org/go/wikilinks)_]] and back references._
+
+Some conventions may be emerging in a new batch of personal knowledge management tools
+# 1
+, or amenable to them; for the duration of this document, we&#39;ll refer to these tools as [_Roam-like_](http://flancia.org/mine/roam-like). These systems have caught on over more legacy apps such as Evernote, because associations can be created in a mesh or graph style between concepts and notes instead of relying on folders and more traditionally hierarchical organizational approaches.
+
+This document seeks to explore common ground and propose a way towards a protocol for cross-tool distributed collaboration including aspects like interop, federation, etc.
+
+### Wikilinks
+
+The ubiquity of [[[wikilinks](https://en.wikipedia.org/wiki/Help:Link)]] is a notable innovation over the previous batch of Personal Knowledge Management tools. The [[wikilink]] convention is in wide use not only in wikis proper, but also in all Roam-likes.
+
+At their core, they allow a user to quickly make a relative &quot;wiki-style link&quot; between a note in one place and a note or concept in another. Typically the user will employ a wiki-like convention to begin-- for instance, typing &quot;[[&quot;-- at which point an increasingly constrained set of options will be offered in real time as the user continues typing, against a set of notes or concepts that have already been created in their personal knowledge graph.
+
+As of the time of writing, all Roam-likes support [[wikilinks]] with optimistic resolution
+# 2
+; following a non-existent [[wikilink]] triggers a new note creation. This **encourages link-driven writing and enables users to easily create stub pointers to entries to be filled in later.**
+
+### Backlinks
+
+Backlinks are core to the note taking and navigation experience in Roam-likes. They are the main innovation over most common Wiki tools previously in widespread use.
+
+Backlinks are usually implemented as a list of incoming edges to the currently focused node.
+
+### Block references
+
+Block references are critical to some, but not all, of Roam-likes; notably Roam Research and Athens Research support them. Block references are an instance of block-level transclusion.
+
+Obsidian, Foam and other players either don&#39;t support References at all or support only limited forms (e.g. Obsidian can transclude sections only). It is unclear whether this should be a core feature of a protocol aiming to federate between tools.
+
+### Multi-user experience
+
+At the time of writing Roam is the only tool with an established multi-user (a.k.a. &quot;multiplayer&quot;) experience being developed.
+
+## Proposal
+
+We propose to develop Agora, a protocol that
+
+1. Enables interop between Roam-likes and the rest of the participating internet, in particular the [[[fediverse](http://anagora.org/node/fediverse)]] and the [[[semantic web](http://anagora.org/node/semantic-web)]].
+2. Offers a common interface for tools targeting Roam-like databases as knowledge graph backends.
+
+### Concepts
+
+An _Agora_ hostsa collection of interlinked _gardens_
+_# 3_. Each garden is an instance of a personal knowledge graph such as that produced by any Roam-like targeting a database. For the purpose of this document, assume that distinct users A, B and C all publish their digital gardens in an Agora.
+
+### Multinodes, or constructive conflict handling
+
+Whereas in a Garden each node id is expected to be unique, in an Agora conflicts are desired and enable _multinoding_
+_# 4__._Assume users A and B have nodes in their gardens with a given id, for example _Stoa_.
+
+Multinoding results in the following behaviour:
+
+- When a user of the Agora (not necessarily A or B) visits a [[Stoa]], _both_ A and B&#39;s nodes will resolve, and be shown one after the other.
+- When user C creates a new node in [[Stoa]], they are made aware of A and B&#39;s node (it is shown as related context).
+
+### Other clients
+
+One of the most common uses of tools such as Hypothesis is for users to create annotations which are then imported into a wiki-note application for other purposes.
+
+An obvious affordance would be for folks to directly reference their or other&#39;s knowledge graphs in their own annotation bodies. Both the Hypothesis app and others in this category are often using a flavor of markdown as the editor syntax, so the applications are already conceptually similar to each other.
+
+Annotation tools could connect to an Agora of the user&#39;s choosing so that while an annotation was being created, a direct reference to a concept node could be created inline. The editor would need to be able to query the remote knowledge graph in real time such that candidate concepts could be presented as the user types, just like in a native client. One could imagine this kind of capability becoming social, if some knowledge graphs were exposed publicly and one could query across them and choose amongst them. In this way, if the Hypothesis note were to be exported to another system— including the remote knowledge app itself— the direct reference to the graph would automatically work.
+
+### Data format
+
+Most Roam-likes, with the notable exception of Roam, store their data as plain Markdown files. This makes their databases amenable to being hosted in common version control systems.
+
+With the exception of block references, Roam notes can be exported to this format in a lossless way.
+
+The [Agora v0.5 reference implementation](http://flancia.org/go/agora) makes use of this data format and is based on git subtrees. This makes it so that each participating user can host their gardens independently, and rely on the Agora exclusively for Agora-enabled flows (such as multinoding and publishing).
+
+### Contexts
+
+To be written. See [[[distributed knowledge graph](http://flancia.org/go/distributed-knowledge-graph)]].
+
+### Open questions
+
+- Should [[wikilink]] resolution collapse or maintain plurals and other common variations? Same for go links.
+
+## Possible Applications
+
+### Go links
+
+Note [[[go links](http://flancia.org/mine/go-links)]] and [[wikilinks]] have synergies. Go links can be seen as HTTP 302 as a service; they can provide both simple social bookmarking (letting users easily claim &quot;URL space&quot;) and be seen as a social knowledge graph client. Making clients resolve also resolve [[wikilinks]] to [[go links]] as published by participating domains (perhaps those in a list controlled by the user, or those of their &quot;friends&quot;) would allow users to crowdsource interesting targets.
+
+### Wikilinks everywhere
+
+See: [anagora.org/go/wikilinks-everywhere](http://anagora.org/go/wikilinks-everywhere).
+
+[1](#sdfootnote1anc)Roam Research; Athens Research; Obsidian; Foam; Notion.
+
+[2](#sdfootnote2anc) Or as Ward Cunningham said: &quot;When you reach the edge of your knowledge, create a new Wiki Page&quot; (h/t Gyuri Lajos for the quotation).
+
+[3](#sdfootnote3anc) The term comes from _digital garden_, as exposed in [https://joelhooks.com/digital-garden](https://joelhooks.com/digital-garden).
+
+[4](#sdfootnote4anc) Noding is borrowed from [everything2.com](http://everything2.com/), which successfully explored a similar setup.
