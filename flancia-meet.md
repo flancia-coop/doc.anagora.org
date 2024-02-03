@@ -20,6 +20,8 @@
     - https://fission.codes/
     - https://odd.dev/
 - [[local-first]]
+- working on [[flancia meet landing]]
+    - live on https://flancia.org/meet
 
 # [[flancia meet 2024-01-27]]
 - [[j0lms]] [[flancian]]
