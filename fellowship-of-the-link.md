@@ -27,7 +27,8 @@
 
 ## [[2024-02-07]]
 - Attending: [[Jerry Michalski]] [[Chris Aldrich]] [[Peter Kaminski]] [[Bentley Davis]]
-- Ne
+- [[NeoBooks]] how to lower the bar both technologically as well as from a community perspective
+- 
 
 
 ## [[2023-01-31]]
