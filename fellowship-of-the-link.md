@@ -25,6 +25,11 @@
         - [[issue tracker]] / [[project tracker]] URL
             - [[github]] by default?
 
+## [[2024-02-07]]
+- Attending: [[Jerry Michalski]] [[Chris Aldrich]] [[Peter Kaminski]] [[Bentley Davis]]
+- Ne
+
+
 ## [[2023-01-31]]
 - Attending: [[Jerry Michalski]] [[Flancian]] [[Chris Aldrich]] [[Aram Zucker-Scharff]] (Half time) [[Peter Kaminski]]
 - Round the table
