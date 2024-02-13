@@ -9,10 +9,13 @@ Here: [[flancian]] [[Calix]] [[andrewe]]
         - been doing some videogame dev, nice break
             - trying [[haxe]]
     - [[Flancian]]
-        - fighting work nonsense. layoffs, stress from withing group. mediation is hard.
-        - 
+        - fighting work nonsense. layoffs, stress from withing group. mediation is hard. missing actual dayjob.
+        - doing some writing that hopefully can help navigate this process within the company
     - [[andrewe]]
+        - 
 - [[cwg]] passdowns
+- schedule for this meeting
+- 
 
 ## 2023-12-18 .. [[2024-01-01]] .. [[2024-01-15]]
 Here: [[flancian]] [[Calix]] :)
