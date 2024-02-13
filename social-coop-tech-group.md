@@ -33,7 +33,8 @@ Here: [[flancian]] [[Calix]] [[andrewe]]
 - [[cwg]] passdowns
     - F: main thing: boost bot!
 - organising circle
-    - F: attended first meeting, missed second, hoping to hit next one.
+    - F: attended first meeting, missed second, hoping to hit next one. carried question of running more services. want to get a sense from community about w
+    - shared https://anagora.org/twg+2024 with them
 
 
 ## 2023-12-18 .. [[2024-01-01]] .. [[2024-01-15]]
