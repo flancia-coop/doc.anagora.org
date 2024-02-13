@@ -20,8 +20,14 @@ Here: [[flancian]] [[Calix]] [[andrewe]]
 - [[bug bash]]!
     - https://anagora.org/go/twg/bugs
     - great progress on some, like the domain issue!
-- making some bugs (https://anagora.org/go/twg/bugs) for:
-    - 
+- peering at some bugs (https://anagora.org/go/twg/bugs)
+    - https://git.coop/social.coop/tech/operations/-/issues/71
+        - F: good first ticket. unrelated to day-to-day ops. will try to work on it to define it more.
+    - [ ] test restores for social.coop instance
+    - [ ] set up backups (cron) for [[mediawiki]] 
+    - [ ] set up backups (cron) for [[keycloak]] 
+    - [ ] test restores for wiki and keycloak
+ 
 
 
 ## 2023-12-18 .. [[2024-01-01]] .. [[2024-01-15]]
