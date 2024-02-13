@@ -47,7 +47,7 @@ Here: [[flancian]] [[Calix]] [[andrewe]]
         - F: "goalsetting" sounds good. but what about new people? "call for contributors" / "call for feedback". "open day"
         - C: really like "open day" / "open house"
         - C: Shoot for March deadline for poll, mid-late April for meeting?
-        - F: align priorities in next month. come up with tasks. community call: these are the tasks up for 
+        - F: align priorities in next month. come up with tasks. community call: these are the tasks up for grabs. make it concrete for people to see how they could contribute.
     - Update the shared calendar if we make any changes to the cadence
 
 
