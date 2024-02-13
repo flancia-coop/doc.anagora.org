@@ -38,8 +38,14 @@ Here: [[flancian]] [[Calix]] [[andrewe]]
     - Andrew: this should be bidirectional, a shared discussion
         - More generally the interaction between working groups must be n-directional
         - Andrew is interested in the interface with the 'real world' of laws and finance
+- Shared calendar stuff
+    - F: nextcloud is a bit unideal because access 
+    - C: used Radicale but no SSO https://radicale.org/
 - Next actions:
     - Set up one-off wider call
+        - What is the scope of this? What should we call it?
+        - F: "goalsetting" sounds good. but what about new people? "call for contributors" / "call for feedback"
+        - C: 
     - Update the shared calendar if we make any changes to the cadence
 
 
