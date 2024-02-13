@@ -38,6 +38,9 @@ Here: [[flancian]] [[Calix]] [[andrewe]]
     - Andrew: this should be bidirectional, a shared discussion
         - More generally the interaction between working groups must be n-directional
         - Andrew is interested in the interface with the 'real world' of laws and finance
+- Next actions:
+    - Set up one-off wider call
+    - Update the shared calendar if we make any changes to the cadence
 
 
 ## 2023-12-18 .. [[2024-01-01]] .. [[2024-01-15]]
