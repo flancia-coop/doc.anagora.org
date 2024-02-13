@@ -17,8 +17,12 @@ Here: [[flancian]] [[Calix]] [[andrewe]]
 - schedule for this meeting?
     - we did a vote, only one participant. what 2 do?
     - F: let's do both: keep regular meeting slots. also poll for a one-off meeting. we can make regular time a topic of that.
+- [[bug bash]]!
+    - https://anagora.org/go/twg/bugs
+    - great progress on some, like the domain issue!
 - making some bugs (https://anagora.org/go/twg/bugs) for:
     - 
+
 
 ## 2023-12-18 .. [[2024-01-01]] .. [[2024-01-15]]
 Here: [[flancian]] [[Calix]] :)
