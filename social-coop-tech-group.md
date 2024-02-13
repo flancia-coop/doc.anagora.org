@@ -17,7 +17,8 @@ Here: [[flancian]] [[Calix]] [[andrewe]]
     - we did a vote, only one participant. what 2 do?
     - F: let's do both: keep regular meeting slots. also poll for a one-off meeting. we can make regular time a topic of that.
     - C: date poll?
-    - F: 
+    - F: make sure we post it as widely as possible
+    - C: crab.fit? https://crab.fit/
 - [[bug bash]]!
     - https://anagora.org/go/twg/bugs
     - great progress on some, like the domain issue!
@@ -30,6 +31,9 @@ Here: [[flancian]] [[Calix]] [[andrewe]]
     - [x] test restores for social.coop instance
     - [x] test restores for wiki and keycloak
 - [[cwg]] passdowns
+    - F: main thing: boost bot!
+- organising circle
+    - F: attended first meeting, missed second, hoping to hit next one.
 
 
 ## 2023-12-18 .. [[2024-01-01]] .. [[2024-01-15]]
