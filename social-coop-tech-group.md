@@ -48,6 +48,7 @@ Here: [[flancian]] [[Calix]] [[andrewe]]
         - C: really like "open day" / "open house"
         - C: Shoot for March deadline for poll, mid-late April for meeting?
         - F: align priorities in next month. come up with tasks. community call: these are the tasks up for grabs. make it concrete for people to see how they could contribute.
+        - https://crab.fit/socialcoop-tech-working-group-open-house-175110
     - Update the shared calendar if we make any changes to the cadence
 
 
