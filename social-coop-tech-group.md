@@ -14,8 +14,11 @@ Here: [[flancian]] [[Calix]] [[andrewe]]
     - [[andrewe]]
         - 
 - [[cwg]] passdowns
-- schedule for this meeting
-- 
+- hotpatch! well done gang
+- schedule for this meeting?
+    - we did a vote, only one participant. what 2 do?
+    - F: let's do both: keep regular meeting slots. also poll for a one-off meeting. we can make regular time a topic of that.
+    - 
 
 ## 2023-12-18 .. [[2024-01-01]] .. [[2024-01-15]]
 Here: [[flancian]] [[Calix]] :)
