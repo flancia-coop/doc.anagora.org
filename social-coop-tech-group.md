@@ -9,7 +9,8 @@ Here: [[flancian]] [[Calix]] [[andrewe]]
         - been doing some videogame dev, nice break
             - trying [[haxe]]
     - [[Flancian]]
-        - fighting work nonsense
+        - fighting work nonsense. layoffs, stress from withing group. mediation is hard.
+        - 
     - [[andrewe]]
 - [[cwg]] passdowns
 
