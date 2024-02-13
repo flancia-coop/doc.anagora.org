@@ -9,7 +9,7 @@ Here: [[flancian]] [[Calix]] [[andrewe]]
         - been doing some videogame dev, nice break
             - trying [[haxe]]
     - [[Flancian]]
-        - 
+        - fighting work nonsense
     - [[andrewe]]
 - [[cwg]] passdowns
 
