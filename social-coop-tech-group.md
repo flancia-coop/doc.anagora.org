@@ -12,11 +12,12 @@ Here: [[flancian]] [[Calix]] [[andrewe]]
         - fighting work nonsense. layoffs, stress from withing group. mediation is hard. missing actual dayjob.
         - doing some writing that hopefully can help navigate this process within the company
     - [[andrewe]]
-- [[cwg]] passdowns
 - hotpatch! well done gang
 - schedule for this meeting?
     - we did a vote, only one participant. what 2 do?
     - F: let's do both: keep regular meeting slots. also poll for a one-off meeting. we can make regular time a topic of that.
+    - C: date poll?
+    - F: 
 - [[bug bash]]!
     - https://anagora.org/go/twg/bugs
     - great progress on some, like the domain issue!
@@ -28,8 +29,7 @@ Here: [[flancian]] [[Calix]] [[andrewe]]
     - [x] upload new backups to digital ocean
     - [x] test restores for social.coop instance
     - [x] test restores for wiki and keycloak
-- [ ]  
- 
+- [[cwg]] passdowns
 
 
 ## 2023-12-18 .. [[2024-01-01]] .. [[2024-01-15]]
