@@ -33,8 +33,11 @@ Here: [[flancian]] [[Calix]] [[andrewe]]
 - [[cwg]] passdowns
     - F: main thing: boost bot!
 - organising circle
-    - F: attended first meeting, missed second, hoping to hit next one. carried question of running more services. want to get a sense from community about w
-    - shared https://anagora.org/twg+2024 with them
+    - F: attended first meeting, missed second, hoping to hit next one. carried question of running more services. want to get a sense from community about what folks are interested in having.
+    - shared https://anagora.org/twg+2024 with them, suggestion to poll the community for which services they would like to see take shape
+    - Andrew: this should be bidirectional, a shared discussion
+        - More generally the interaction between working groups must be n-directional
+        - Andrew is interested in the interface with the 'real world' of laws and finance
 
 
 ## 2023-12-18 .. [[2024-01-01]] .. [[2024-01-15]]
