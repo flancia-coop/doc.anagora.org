@@ -23,10 +23,12 @@ Here: [[flancian]] [[Calix]] [[andrewe]]
 - peering at some bugs (https://anagora.org/go/twg/bugs)
     - https://git.coop/social.coop/tech/operations/-/issues/71
         - F: good first ticket. unrelated to day-to-day ops. will try to work on it to define it more.
-    - [ ] test restores for social.coop instance
-    - [ ] set up backups (cron) for [[mediawiki]] 
-    - [ ] set up backups (cron) for [[keycloak]] 
-    - [ ] test restores for wiki and keycloak
+    - [x] set up backups (cron) for [[mediawiki]] 
+    - [x] set up backups (cron) for [[keycloak]] 
+    - [x] upload new backups to digital ocean
+    - [x] test restores for social.coop instance
+    - [x] test restores for wiki and keycloak
+- [ ]  
  
 
 
@@ -76,10 +78,11 @@ Wish you all a great holiday season! Some topics:
                 - we probably want to cut bugs for what remains?
                     - https://anagora.org/go/twg/bugs redirects to the component
                 - for sure:
-                    - [ ] test restores for social.coop instance
-                    - [ ] set up backups (cron) for [[mediawiki]] 
-                    - [ ] set up backups (cron) for [[keycloak]] 
-                    - [ ] test restores for wiki and keycloak
+                    - [x] test restores for social.coop instance
+                    - [x] set up backups (cron) for [[mediawiki]] 
+                    - [x] set up backups (cron) for [[keycloak]] 
+                    - [x] test restores for wiki
+                    - [x] test restores for keycloak
                 - **calix** will make some bug reports
         - etc.
     - [[meta]] do we want to poll for a new time/day?
