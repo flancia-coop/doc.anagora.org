@@ -46,10 +46,14 @@
     - distributed open source platform, own your own data
     - [[braneframe]]: https://www.braneframe.com
     - [[dxos]]: https://dxos.org
+- Topics from last time
+    - [[autopoiesis]]
 
 ## [[2024-02-07]]
 - Attending: [[Jerry Michalski]] [[Chris Aldrich]] [[Peter Kaminski]] [[Bentley Davis]]
 - [[NeoBooks]] how to lower the bar both technologically as well as from a community perspective
+- Notes in [[Jerry]]: https://bra.in/9vAgo3
+ 
 
 
 ## [[2023-01-31]]
