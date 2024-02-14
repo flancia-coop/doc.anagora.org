@@ -75,7 +75,7 @@
         - [[the internet con]] by [[doctorow]] makes the case that we should go towards smaller distributed communities that can make their decisions
         - on how choosing an instance or platform is also about choosing what one wants to signal (or broadcast)
         - [[posse]] lets you pick and choose which communities you cross-post to; if you're [[indieweb]] first you probably don't care as much about the visibility that one single instance has over the rest of the fediverse
-        - #AZS 
+        - #AZS people are not necessarily posting on social media with the assumption that everybody will care; they assume there is in practice a small neighborhood. That is true until it isn't (see e.g. unexpected virality)
         - #JM about [[boundaries]]: a well functioning group understands its boundaries and its norms
 - #CA [[Book Club]] on [[Cataloging the World]] and Index, A History of the 
   - https://boffosocko.com/2024/02/11/book-club-on-cataloging-the-world-and-index-a-history-of-the/
