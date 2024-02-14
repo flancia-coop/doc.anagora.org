@@ -57,6 +57,7 @@
     - do we need an analog for copy-and-paste for how to collaborate in a distributed mesh of documents?
         - [[conflict resolution]] is one part of this
         - we can check the variety of wikis that are built on top of [[git]] plus [[markdown]] plus [[wikilinks]]
+    - there is a reason we end up with git as a backend; the alternatives are more computationally expensive, require servers or parties to run software.
 
 ## [[2024-02-07]]
 - Attending: [[Jerry Michalski]] [[Chris Aldrich]] [[Peter Kaminski]] [[Bentley Davis]]
