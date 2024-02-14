@@ -30,8 +30,13 @@
 - [[check ins]]
     - [[Flancian]]
         - sick again :( but not terrible
+        - still dealing with labour and interpersonal issues at work, but getting better
     - [[Jerry Michalski]]
         - will be in [[Bahrain]] for a panel, connected with the grand prix and the [[metaverse]]
+        - long flights, in particular on the way back!
+            - might read + write
+        - [[masters of the air]] like [[band of brothers]] but not as good
+- Next Monday: [[free Jerry's brain]] demo, [[1PM Pacific]]
 
 ## [[2024-02-07]]
 - Attending: [[Jerry Michalski]] [[Chris Aldrich]] [[Peter Kaminski]] [[Bentley Davis]]
