@@ -37,6 +37,10 @@
             - might read + write
         - [[masters of the air]] like [[band of brothers]] but not as good
 - Next Monday: [[free Jerry's brain]] demo, [[1PM Pacific]]
+    - [[rich burdon]]
+    - distributed open source platform, own your own data
+    - [[braneframe]]: https://www.braneframe.com
+    - [[dxos]]: https://dxos.org
 
 ## [[2024-02-07]]
 - Attending: [[Jerry Michalski]] [[Chris Aldrich]] [[Peter Kaminski]] [[Bentley Davis]]
