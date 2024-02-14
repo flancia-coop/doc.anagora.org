@@ -70,7 +70,9 @@
     - https://snarfed.org/2024-01-21_moderate-people-not-code
     - https://snarfed.org/2024-02-05_52058
     - #AZS wish there were different models of federation
-        - broadcast
+        - on being more focused on being broadcasters than collectors
+    - #CA how do we map thousands of years of social evolution onto the possibilities of digital communities
+        - [[the internet can]]
 - #CA [[Book Club]] on [[Cataloging the World]] and Index, A History of the 
   - https://boffosocko.com/2024/02/11/book-club-on-cataloging-the-world-and-index-a-history-of-the/
   - [[Dan Allosso]]
