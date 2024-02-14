@@ -55,6 +55,8 @@
         - commenting systems
         - [[hypothes.is]]
     - do we need an analog for copy-and-paste for how to collaborate in a distributed mesh of documents?
+        - [[conflict resolution]] is one part of this
+        - we can check the variety of wikis that are built on top of [[git]] plus [[markdown]] plus [[wikilinks]]
 
 ## [[2024-02-07]]
 - Attending: [[Jerry Michalski]] [[Chris Aldrich]] [[Peter Kaminski]] [[Bentley Davis]]
