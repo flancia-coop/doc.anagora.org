@@ -25,10 +25,17 @@
         - [[issue tracker]] / [[project tracker]] URL
             - [[github]] by default?
 
+## [[2024-02-14]]
+- Attending: [[Jerry Michalski]] [[Chris Aldrich]] [[Peter Kaminski]] [[Bentley Davis]]
+- [[check ins]]
+    - [[Flancian]]
+        - sick again :( but not terrible
+    - [[Jerry Michalski]]
+        - will be in [[Bahrain]] for a panel, connected with the grand prix and the [[metaverse]]
+
 ## [[2024-02-07]]
 - Attending: [[Jerry Michalski]] [[Chris Aldrich]] [[Peter Kaminski]] [[Bentley Davis]]
 - [[NeoBooks]] how to lower the bar both technologically as well as from a community perspective
-- 
 
 
 ## [[2023-01-31]]
