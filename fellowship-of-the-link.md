@@ -63,6 +63,7 @@
         - something built on [[crdt]]
         - #push [[P2]]
             - Editing collaboratively meets comment threading via https://wordpress.com/p2/ 
+    - on the topic of group memory; how not to start every conversation with a relatively blank slate
 
 ## [[2024-02-07]]
 - Attending: [[Jerry Michalski]] [[Chris Aldrich]] [[Peter Kaminski]] [[Bentley Davis]]
