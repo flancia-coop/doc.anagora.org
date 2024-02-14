@@ -83,6 +83,8 @@
   - [[Dan Allosso]]
 - [[Intimacy Gradient]]
     - Expectations around where and when you expect people to engage with you. 
+    - Maybe we could carry our own 'terms of service' / privacy and engagement settings in a platform-agnostic way
+    - #CA media has adapted and changed in its standards as well; newspapers in the early 20th century had completely different standards w.r.t. privacy expectations than towards the end.
  
 
 ## [[2024-02-07]]
