@@ -87,7 +87,7 @@
     - #CA media has adapted and changed in its standards as well; newspapers in the early 20th century had completely different standards w.r.t. privacy expectations than towards the end.
     - On evolving [[civility standards]]
         - [[Trump]] exploiting this
-- 
+- Need different spaces and contexts where it one can be in rough notes, drafty, professional, etc...
 
 ## [[2024-02-07]]
 - Attending: [[Jerry Michalski]] [[Chris Aldrich]] [[Peter Kaminski]] [[Bentley Davis]]
