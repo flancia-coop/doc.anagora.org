@@ -40,6 +40,7 @@
         - Joining a meetup! [[Tinderbox]] podcast
             - Sunday 18th, 9am-10:30 Pacific
             - #JM did that podcast: https://bra.in/2qeYrg
+        - [[Tinderbox meetup]]: https://forum.eastgate.com/c/events-for-tinderbox-storyspace/13
 - Next Monday: [[free Jerry's brain]] demo, [[1PM Pacific]]
     - [[rich burdon]]
     - distributed open source platform, own your own data
