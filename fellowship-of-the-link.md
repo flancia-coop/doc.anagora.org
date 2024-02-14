@@ -36,6 +36,10 @@
         - long flights, in particular on the way back!
             - might read + write
         - [[masters of the air]] like [[band of brothers]] but not as good
+    - [[Chris Aldrich]]
+        - Joining a meetup! [[Tinderbox]] podcast
+            - Sunday 18th, 9am-10:30 Pacific
+            - #JM did that podcast: https://bra.in/2qeYrg
 - Next Monday: [[free Jerry's brain]] demo, [[1PM Pacific]]
     - [[rich burdon]]
     - distributed open source platform, own your own data
