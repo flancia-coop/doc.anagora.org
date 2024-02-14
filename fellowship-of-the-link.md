@@ -26,7 +26,7 @@
             - [[github]] by default?
 
 ## [[2024-02-14]]
-- Attending: [[Jerry Michalski]] [[Chris Aldrich]] [[Peter Kaminski]] [[Bentley Davis]]
+- Attending: [[Jerry Michalski]] [[Chris Aldrich]] [[Peter Kaminski]] [[Bentley Davis]] [[Aram Zucker-Scharff]]
 - [[check ins]]
     - [[Flancian]]
         - sick again :( but not terrible
@@ -48,12 +48,17 @@
     - [[dxos]]: https://dxos.org
 - Topics from last time
     - [[autopoiesis]]
+    - [[neobooks]]
+- [[collective authoring]] as distinct from the basics of [[book publishing]]
+    - the default sort of social interaction so far for neobooks are github/git forge fork-and-send-PRs
+    - are there any less geeky ways to contribute/interact?
+        - commenting systems
+        - [[hypothes.is]]
 
 ## [[2024-02-07]]
 - Attending: [[Jerry Michalski]] [[Chris Aldrich]] [[Peter Kaminski]] [[Bentley Davis]]
 - [[NeoBooks]] how to lower the bar both technologically as well as from a community perspective
-- Notes in [[Jerry]]: https://bra.in/9vAgo3
- 
+- Notes in [[Jerry's Brain]]: https://bra.in/9vAgo3
 
 
 ## [[2023-01-31]]
