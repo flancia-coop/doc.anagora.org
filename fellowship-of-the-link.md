@@ -54,6 +54,7 @@
     - are there any less geeky ways to contribute/interact?
         - commenting systems
         - [[hypothes.is]]
+    - do we need an analog for copy-and-paste for how to collaborate in a distributed mesh of documents?
 
 ## [[2024-02-07]]
 - Attending: [[Jerry Michalski]] [[Chris Aldrich]] [[Peter Kaminski]] [[Bentley Davis]]
