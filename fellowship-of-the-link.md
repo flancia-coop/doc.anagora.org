@@ -73,6 +73,7 @@
         - on being more focused on being broadcasters than collectors
     - #CA how do we map thousands of years of social evolution onto the possibilities of digital communities
         - [[the internet con]] by [[doctorow]] makes the case that we should go towards smaller distributed communities that can make their decisions
+        - on how choosing an instance or platform is also about choosing what one wants to signal (or broadcast)
 - #CA [[Book Club]] on [[Cataloging the World]] and Index, A History of the 
   - https://boffosocko.com/2024/02/11/book-club-on-cataloging-the-world-and-index-a-history-of-the/
   - [[Dan Allosso]]
