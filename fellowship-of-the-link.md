@@ -77,9 +77,12 @@
         - [[posse]] lets you pick and choose which communities you cross-post to; if you're [[indieweb]] first you probably don't care as much about the visibility that one single instance has over the rest of the fediverse
         - #AZS people are not necessarily posting on social media with the assumption that everybody will care; they assume there is in practice a small neighborhood. That is true until it isn't (see e.g. unexpected virality)
         - #JM about [[boundaries]]: a well functioning group understands its boundaries and its norms
+            - and expectations
 - #CA [[Book Club]] on [[Cataloging the World]] and Index, A History of the 
   - https://boffosocko.com/2024/02/11/book-club-on-cataloging-the-world-and-index-a-history-of-the/
   - [[Dan Allosso]]
+- [[Intimacy Gradient]]
+    - Expectations around where and when you expect people to engage with you. 
  
 
 ## [[2024-02-07]]
