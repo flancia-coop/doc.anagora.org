@@ -65,10 +65,11 @@
             - Editing collaboratively meets comment threading via https://wordpress.com/p2/ 
     - on the topic of group memory; how not to start every conversation with a relatively blank slate
         - [[denormalization]] and [[cross posting]] of notes
-        - [[posse]]
+        - [[posse]]: https://indieweb.org/POSSE
+- [[cross posting]] of [[bluesky]] / [[federation]]
 - #CA [[Book Club]] on [[Cataloging the World]] and Index, A History of the 
   - https://boffosocko.com/2024/02/11/book-club-on-cataloging-the-world-and-index-a-history-of-the/
-  - [[]]
+  - [[Dan Allosso]]
  
 
 ## [[2024-02-07]]
