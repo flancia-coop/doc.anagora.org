@@ -61,8 +61,7 @@
     - [[google docs]] as a model maybe -- the comments-only access is something we might want an equivalent for
         - [[etherpad]]
         - something built on [[crdt]]
-        - [[P2]]
-            - #push
+        - #push [[P2]]
             - Editing collaboratively meets comment threading via https://wordpress.com/p2/ 
 
 ## [[2024-02-07]]
