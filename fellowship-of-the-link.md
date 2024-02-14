@@ -66,7 +66,11 @@
     - on the topic of group memory; how not to start every conversation with a relatively blank slate
         - [[denormalization]] and [[cross posting]] of notes
         - [[posse]]: https://indieweb.org/POSSE
-- [[cross posting]] of [[bluesky]] / [[federation]]
+- [[cross posting]] of [[bluesky]] and the [[federation]]
+    - https://snarfed.org/2024-01-21_moderate-people-not-code
+    - https://snarfed.org/2024-02-05_52058
+    - #AZS wish there were different models of federation
+        - broadcast
 - #CA [[Book Club]] on [[Cataloging the World]] and Index, A History of the 
   - https://boffosocko.com/2024/02/11/book-club-on-cataloging-the-world-and-index-a-history-of-the/
   - [[Dan Allosso]]
