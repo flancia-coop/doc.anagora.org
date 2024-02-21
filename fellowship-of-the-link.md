@@ -26,7 +26,8 @@
             - [[github]] by default?
 
 ## [[2024-02-21]]
-- Attending: [[Peter Kaminski]] [[Flancian]] [[Jerry Michalski]] [[Bentley Davis]] [[Aram Zucker-Scharff]] [[Chris Aldrich]] 
+- Attending: [[Peter Kaminski]] [[Flancian]] [[Jerry Michalski]] [[Samuel Klein]]
+    - ([[Bentley Davis]] [[Aram Zucker-Scharff]] [[Chris Aldrich]] might join)
 - [[check ins]]
     - [[Peter Kaminski]]
         - working on an [[AI newsletter]]:
@@ -36,7 +37,8 @@
             - https://plex.collectivesensecommons.org/2024-02-07/ for the latest
         - [[meta]] Q: how much time per newsletter?
             - Plex: 6-8h per issue
-            - f
+            - AI: still unsure, but it's probably 1h for each (a few times a week).
+        - 
 
 ## [[2024-02-14]]
 - Attending: [[Jerry Michalski]] [[Chris Aldrich]] [[Peter Kaminski]] [[Bentley Davis]] [[Aram Zucker-Scharff]]
