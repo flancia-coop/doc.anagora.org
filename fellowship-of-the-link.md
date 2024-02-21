@@ -26,11 +26,12 @@
             - [[github]] by default?
 
 ## [[2024-02-21]]
-- Attending: [[Jerry Michalski]] [[Chris Aldrich]] [[Peter Kaminski]] [[Bentley Davis]] [[Aram Zucker-Scharff]] [[Flancian]]
+- Attending: [[Peter Kaminski]] [[Flancian]] [[Jerry Michalski]] [[Bentley Davis]] [[Aram Zucker-Scharff]] [[Chris Aldrich]] 
 - [[check ins]]
     - [[Peter Kaminski]]
-        - working on AI newsletter
-        - and the [[Plex]]
+        - working on an [[AI newsletter]]
+        - and the [[Plex newsletter]]
+            - inter community newsletter for [[OGM]] and other related communities
 
 ## [[2024-02-14]]
 - Attending: [[Jerry Michalski]] [[Chris Aldrich]] [[Peter Kaminski]] [[Bentley Davis]] [[Aram Zucker-Scharff]]
