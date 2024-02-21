@@ -57,7 +57,7 @@
              - [[interpersonal]] limitations
          - #SJ but [[head up displays]] are great
          - on [[ambient computing]]
-         
+             - and [[plug and play]] everything: e.g. [[battery packs]] for cars
      - [[Flancian]]
          - found (and really like) [[silver bullet]] == [[silverbullet.md]]
          - [[huggingchat]]
