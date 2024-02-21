@@ -69,6 +69,13 @@
                  - people from a dozen countries working on their own projects
                  - there's definitely potential in this
                  - let's start a stone soup
+             - #JM should we start a plan?
+                 - +1
+                 - #SJ I like starting with a namespace
+                     - in order to call it a commons we need to:
+                         - have a namespace
+                         - a mechanism for classifying
+                     - people seem interested in participating in a commons in general, but we need to have one we can poi
          - [[huggingchat]]
          - found (and really like) [[silver bullet]] == [[silverbullet.md]]
 - [[gemma]]:
