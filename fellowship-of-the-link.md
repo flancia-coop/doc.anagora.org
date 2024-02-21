@@ -86,8 +86,10 @@
              - #PK pays for [[stealth mode]] in [[midjourney]]
              - #SJ whatever this commons is, it should be a good place to develop alternatives to services provided by corporations
                  - The commons could be a better market than the market, decouple also provider/producer communities from walled gardens (and empower them)
-             - #PK [[AI Salon]] https://www.meetup.com/the-ai-salon/
-             - #PK [[nanopub]] and [[nanodash]]: https://nanodash.knowledgepixels.com/explore?id=RAxPdvy5RN-jyPOMcBNEsUEn2CPBtAa3W0Ct3tbID4PiM
+             - #JM [[AI Salon]] https://www.meetup.com/the-ai-salon/
+             - #JM [[nanopub]]: https://nanopub.net/ 
+                 - [[nanodash]]: https://nanodash.knowledgepixels.com/explore?id=RAxPdvy5RN-jyPOMcBNEsUEn2CPBtAa3W0Ct3tbID4PiM
+             - #PK [[nostr]] and [[nips]]
          - [[huggingchat]]
          - found (and really like) [[silver bullet]] == [[silverbullet.md]]
 - [[gemma]]:
