@@ -90,6 +90,9 @@
              - #JM [[nanopub]]: https://nanopub.net/ 
                  - [[nanodash]]: https://nanodash.knowledgepixels.com/explore?id=RAxPdvy5RN-jyPOMcBNEsUEn2CPBtAa3W0Ct3tbID4PiM
              - #PK [[nostr]] and [[nips]]
+             - on the problem of [[moderation]] and how it relates to [[commons]]
+                 - governing the commons
+                 - 
          - [[huggingchat]]
          - found (and really like) [[silver bullet]] == [[silverbullet.md]]
 - [[gemma]]:
