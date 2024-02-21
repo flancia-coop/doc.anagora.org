@@ -49,6 +49,9 @@
             - on [[toy story]] and the affordances it provided early in the development of computer graphics
             - on the pipeline from unique distinguishing factor to 'given'
         - #JM on [[creativity inc]]
+        - on [[Sora]] and other pushback against current approaches
+     - [[Flancian]]
+         - found (and really like)
 
 ## [[2024-02-14]]
 - Attending: [[Jerry Michalski]] [[Chris Aldrich]] [[Peter Kaminski]] [[Bentley Davis]] [[Aram Zucker-Scharff]]
