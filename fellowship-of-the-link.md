@@ -46,6 +46,9 @@
         - would [[pixelthesia]] scale to millions of images?
             - it's [[smugmug]] underneath
             - [[pixelthesia]]: https://www.pixelthesia.ai/
+            - on [[toy story]] and the affordances it provided early in the development of computer graphics
+            - on the pipeline from unique distinguishing factor to 'given'
+        - #JM on [[creativity inc]]
 
 ## [[2024-02-14]]
 - Attending: [[Jerry Michalski]] [[Chris Aldrich]] [[Peter Kaminski]] [[Bentley Davis]] [[Aram Zucker-Scharff]]
