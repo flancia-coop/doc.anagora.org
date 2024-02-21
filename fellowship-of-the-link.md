@@ -55,9 +55,12 @@
          - [[issues with the metaverse]]:
              - [[ergonomics]]
              - [[interpersonal]] limitations
-             
+         - #SJ but [[head up displays]] are great
+         - on [[ambient computing]]
+         
      - [[Flancian]]
          - found (and really like) [[silver bullet]] == [[silverbullet.md]]
+         - [[huggingchat]]
 
 ## [[2024-02-14]]
 - Attending: [[Jerry Michalski]] [[Chris Aldrich]] [[Peter Kaminski]] [[Bentley Davis]] [[Aram Zucker-Scharff]]
