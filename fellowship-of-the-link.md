@@ -85,6 +85,8 @@
              - #JM my approach was very intentional
              - #PK pays for [[stealth mode]] in [[midjourney]]
              - #SJ whatever this commons is, it should be a good place to develop alternatives to services provided by corporations
+                 - The commons could be a better market than the market, decouple also provider/producer communities from walled gardens (and empower them)
+             - #PK [[AI Salon]] https://www.meetup.com/the-ai-salon/
          - [[huggingchat]]
          - found (and really like) [[silver bullet]] == [[silverbullet.md]]
 - [[gemma]]:
