@@ -30,8 +30,9 @@
 - [[check ins]]
     - [[Peter Kaminski]]
         - working on an [[AI newsletter]]
-        - and the [[Plex newsletter]]
+        - and the [[Plex dispatch]]
             - inter community newsletter for [[OGM]] and other related communities
+            - https://plex.collectivesensecommons.org/2024-02-07/ for the latest
 
 ## [[2024-02-14]]
 - Attending: [[Jerry Michalski]] [[Chris Aldrich]] [[Peter Kaminski]] [[Bentley Davis]] [[Aram Zucker-Scharff]]
