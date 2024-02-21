@@ -82,7 +82,7 @@
                      - [[generated outputs]]
                  - the default interface could be a playground connecting sources, prompts to outputs
                      - [[prompt router]] with flows to contribute back to the commons
-             - #JM 
+             - #JM my approach was very intentional
          - [[huggingchat]]
          - found (and really like) [[silver bullet]] == [[silverbullet.md]]
 - [[gemma]]:
