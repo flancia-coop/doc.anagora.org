@@ -55,6 +55,7 @@
          - [[issues with the metaverse]]:
              - [[ergonomics]]
              - [[interpersonal]] limitations
+             
      - [[Flancian]]
          - found (and really like) [[silver bullet]] == [[silverbullet.md]]
 
