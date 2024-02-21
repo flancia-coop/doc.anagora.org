@@ -38,7 +38,8 @@
         - [[meta]] Q: how much time per newsletter?
             - Plex: 6-8h per issue
             - AI: still unsure, but it's probably 1h for each (a few times a week).
-        - 
+        - on doing away with stock photography
+            - legal insurance apparently is a factor here
 
 ## [[2024-02-14]]
 - Attending: [[Jerry Michalski]] [[Chris Aldrich]] [[Peter Kaminski]] [[Bentley Davis]] [[Aram Zucker-Scharff]]
