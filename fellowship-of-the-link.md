@@ -50,8 +50,13 @@
             - on the pipeline from unique distinguishing factor to 'given'
         - #JM on [[creativity inc]]
         - on [[Sora]] and other pushback against current approaches
+        - #JM on mispredicting the future
+     - [[Jerry Michalski]] thinking about the Metaverse in preparation for Bahrain
+         - [[issues with the metaverse]]:
+             - [[ergonomics]]
+             - [[interpersonal]] limitations
      - [[Flancian]]
-         - found (and really like)
+         - found (and really like) [[silver bullet]] == [[silverbullet.md]]
 
 ## [[2024-02-14]]
 - Attending: [[Jerry Michalski]] [[Chris Aldrich]] [[Peter Kaminski]] [[Bentley Davis]] [[Aram Zucker-Scharff]]
