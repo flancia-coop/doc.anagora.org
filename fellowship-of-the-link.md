@@ -25,6 +25,13 @@
         - [[issue tracker]] / [[project tracker]] URL
             - [[github]] by default?
 
+## [[2024-02-21]]
+- Attending: [[Jerry Michalski]] [[Chris Aldrich]] [[Peter Kaminski]] [[Bentley Davis]] [[Aram Zucker-Scharff]] [[Flancian]]
+- [[check ins]]
+    - [[Peter Kaminski]]
+        - working on AI newsletter
+        - and the [[Plex]]
+
 ## [[2024-02-14]]
 - Attending: [[Jerry Michalski]] [[Chris Aldrich]] [[Peter Kaminski]] [[Bentley Davis]] [[Aram Zucker-Scharff]]
 - [[check ins]]
