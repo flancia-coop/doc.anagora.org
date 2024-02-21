@@ -62,8 +62,12 @@
          - any progress on finding or building the [[generative commons]]?
              - [[mistral]] is great
              - [[huggingchat]] is solid
-             - #JM generativecommons.org 
-             - #SJ publicai.network and gen.studio
+             - #JM https://generativecommons.org 
+                 - https://bra.in/2qzKJ6
+             - #SJ https://publicai.network and https://gen.studio
+                 - have been running a seminar for people building infrastructure
+                 - people from a dozen countries working on their own projects
+                 - there's definitely potential in this
          - found (and really like) [[silver bullet]] == [[silverbullet.md]]
          - [[huggingchat]]
 
