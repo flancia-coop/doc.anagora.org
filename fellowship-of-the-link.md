@@ -40,6 +40,9 @@
             - AI: still unsure, but it's probably 1h for each (a few times a week).
         - on doing away with stock photography
             - legal insurance apparently is a factor here
+            - is this a risk if we replace more stock photography companies with fewer AI companies?
+                - maybe but it's not a very democratic industry/market to begin with
+                
 
 ## [[2024-02-14]]
 - Attending: [[Jerry Michalski]] [[Chris Aldrich]] [[Peter Kaminski]] [[Bentley Davis]] [[Aram Zucker-Scharff]]
