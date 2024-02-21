@@ -83,6 +83,8 @@
                  - the default interface could be a playground connecting sources, prompts to outputs
                      - [[prompt router]] with flows to contribute back to the commons
              - #JM my approach was very intentional
+             - #PK pays for [[stealth mode]] in [[midjourney]]
+             - #SJ whatever this commons is, it should be a good place to develop alternatives to corporations
          - [[huggingchat]]
          - found (and really like) [[silver bullet]] == [[silverbullet.md]]
 - [[gemma]]:
