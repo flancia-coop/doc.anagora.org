@@ -59,6 +59,11 @@
          - on [[ambient computing]]
              - and [[plug and play]] everything: e.g. [[battery packs]] for cars
      - [[Flancian]]
+         - any progress on finding or building the [[generative commons]]?
+             - [[mistral]] is great
+             - [[huggingchat]] is solid
+             - #JM generativecommons.org 
+             - #SJ publicai.network and gen.studio
          - found (and really like) [[silver bullet]] == [[silverbullet.md]]
          - [[huggingchat]]
 
