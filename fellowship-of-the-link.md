@@ -84,7 +84,7 @@
                      - [[prompt router]] with flows to contribute back to the commons
              - #JM my approach was very intentional
              - #PK pays for [[stealth mode]] in [[midjourney]]
-             - #SJ whatever this commons is, it should be a good place to develop alternatives to corporations
+             - #SJ whatever this commons is, it should be a good place to develop alternatives to services provided by corporations
          - [[huggingchat]]
          - found (and really like) [[silver bullet]] == [[silverbullet.md]]
 - [[gemma]]:
