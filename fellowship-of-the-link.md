@@ -68,8 +68,11 @@
                  - have been running a seminar for people building infrastructure
                  - people from a dozen countries working on their own projects
                  - there's definitely potential in this
-         - found (and really like) [[silver bullet]] == [[silverbullet.md]]
+                 - let's start a stone soup
          - [[huggingchat]]
+         - found (and really like) [[silver bullet]] == [[silverbullet.md]]
+- [[gemma]]:
+    - https://opensource.googleblog.com/2024/02/building-open-models-responsibly-gemini-era.html
 
 ## [[2024-02-14]]
 - Attending: [[Jerry Michalski]] [[Chris Aldrich]] [[Peter Kaminski]] [[Bentley Davis]] [[Aram Zucker-Scharff]]
