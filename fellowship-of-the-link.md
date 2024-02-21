@@ -80,7 +80,9 @@
                  - the [[generative commons]] could include:
                      - [[corpora]]
                      - [[generated outputs]]
-                 - the default interfac
+                 - the default interface could be a playground connecting sources, prompts to outputs
+                     - [[prompt router]] with flows to contribute back to the commons
+             - #JM 
          - [[huggingchat]]
          - found (and really like) [[silver bullet]] == [[silverbullet.md]]
 - [[gemma]]:
