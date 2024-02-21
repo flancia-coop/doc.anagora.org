@@ -75,7 +75,8 @@
                      - in order to call it a commons we need to:
                          - have a namespace
                          - a mechanism for classifying
-                     - people seem interested in participating in a commons in general, but we need to have one we can poi
+                     - people seem interested in participating in a commons in general, but we need to have one we can point to as successful
+                     - it probably needs to be as general as possible, close to just a set of thing
          - [[huggingchat]]
          - found (and really like) [[silver bullet]] == [[silverbullet.md]]
 - [[gemma]]:
