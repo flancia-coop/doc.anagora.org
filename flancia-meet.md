@@ -2,11 +2,18 @@
 - We meet best-effort every Saturday usually around 9 UTC.
 - This is where we have community maintained notes :)
 
+# [[flancia meet 2024-02-24]]
+- [[flancian]] doing generally cleanup and planning 
+
+# [[flancia meet 2024-02-17]]
+- [[flancian]] waited for [[aldhari]] but he had an issue :(
+
 # [[flancia meet 2024-02-03]]
 - [[flancian]] [[bouncepaw]]
 - [[flancian]]
     - [[hedgedoc]] was down due to no disk left in [[patera]]
-    - [ ] should enable the free disk script I added to [[thecla]]
+    - [x] should enable the free disk script I added to [[thecla]]
+        - I did do this eventually ;)
 - [[bouncepaw]]
     - tried [[openbsd]]: [[quercus]]
         - good security
