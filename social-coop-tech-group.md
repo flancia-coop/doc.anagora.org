@@ -1,3 +1,9 @@
+## 2024-03-XX
+
+- this time:
+    - announce open house in loomio? if it hasn't happened yet
+    - [[twg roadmap]] updates
+     
 ## 2024-02-27
 
 Here: [[Calix]] [[edsu]] [[flancian]]
@@ -15,8 +21,12 @@ Here: [[Calix]] [[edsu]] [[flancian]]
         - welcoming new contributors, or returning comrades
         - next actions:
             - fill this ourselves ;)
+            - determine 1-2 best slots
+                - 1700 UTC wednesday
+                - 1600 or 1700 saturday
             - share (again?) in the chat(s) (also the open room?)
-            - (later) share in loomio
+            - (next time) share slots/announce in loomio
+    - [[fediverse spam]]
  
  
 ## 2024-02-13
