@@ -37,6 +37,8 @@ Here: [[Calix]] [[edsu]] [[flancian]]
             - next action: give it a stab / share if we get something working?
         - the spam might have been trying to 'make a point' this time
         - it seemed quite targeted/singled out certain users
+        - we could have a mastodon release announcement bot in matrix?
+            - maybe there's a release bot for github CI?
  
  
 ## 2024-02-13
