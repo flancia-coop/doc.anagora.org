@@ -29,6 +29,8 @@ Here: [[Calix]] [[edsu]] [[flancian]]
     - [[fediverse spam]] 🥫🌊
         - [[meta spam]] ;)
             - we hit our mailgun quota again by virtue of notifying all admins of all reports (ha)
+        - how to react next time
+            - a script that auto-resolved reports matching a regex would have been great
  
  
 ## 2024-02-13
