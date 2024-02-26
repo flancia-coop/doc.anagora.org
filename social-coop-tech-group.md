@@ -8,7 +8,14 @@ Here: [[Calix]] [[edsu]] [[flancian]]
     - [[flancian]] still dealing with layoffs but trying to also go back to the technical day-to-day job
 - [[last episode]] 📺
     - dealt with the Mastodon upgrade (thanks!)
-- 
+- this time!
+    - open house, mid-April
+        - poll https://crab.fit/socialcoop-tech-working-group-open-house-175110
+        - meet and greet
+        - welcoming new contributors, or returning comrades
+        - next actions:
+            - share (again?) in the chat(s) (also the open room?)
+            - share in loomio
  
 ## 2024-02-13
 
