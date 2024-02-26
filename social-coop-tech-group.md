@@ -1,3 +1,9 @@
+## 2024-02-27
+
+Here: [[flancian]] [[Calix]] [[andrewe]]
+
+- [[check ins]]
+ 
 ## 2024-02-13
 
 Here: [[flancian]] [[Calix]] [[andrewe]]
