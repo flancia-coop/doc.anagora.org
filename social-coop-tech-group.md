@@ -43,7 +43,10 @@ Here: [[Calix]] [[edsu]] [[flancian]]
             - maybe there's a release bot for github CI?
     - single-sign-on
         - there's interest in SSO in the organizing circle
-        - 
+            - F: great place for us to get a feel of what other working groups need. requests may naturally flow through org. circle, instead of needing full-graph connectivity between working groups
+            - F: next steps? auth.social.coop working, open. test logging in as admin (deets in `pass`)
+            - E: open reg?
+            - F: no approval flow
 
 ## 2024-02-13
 
