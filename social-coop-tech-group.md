@@ -17,6 +17,7 @@ Here: [[Calix]] [[edsu]] [[flancian]]
             - share (again?) in the chat(s) (also the open room?)
             - share in loomio
  
+ 
 ## 2024-02-13
 
 Here: [[flancian]] [[Calix]] [[andrewe]]
