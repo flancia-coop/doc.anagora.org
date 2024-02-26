@@ -30,6 +30,7 @@ Here: [[Calix]] [[edsu]] [[flancian]]
         - [[meta spam]] ;)
             - we hit our mailgun quota again by virtue of notifying all admins of all reports (ha)
         - a script that auto-resolved reports matching a regex would have been great
+            - open (or find) a bug report against [[mastodon]] to improve this in some incremental way.
         - the spam might have been trying to 'make a point' this time
         - it seemed quite targeted/singled out certain users
  
