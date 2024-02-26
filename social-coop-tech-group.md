@@ -14,8 +14,9 @@ Here: [[Calix]] [[edsu]] [[flancian]]
         - meet and greet
         - welcoming new contributors, or returning comrades
         - next actions:
+            - fill this ourselves ;)
             - share (again?) in the chat(s) (also the open room?)
-            - share in loomio
+            - (later) share in loomio
  
  
 ## 2024-02-13
