@@ -1,8 +1,14 @@
 ## 2024-02-27
 
-Here: [[flancian]] [[Calix]] [[andrewe]]
+Here: [[Calix]] [[edsu]] [[flancian]]
 
 - [[check ins]]
+    - [[Calix]] in [[Rio de Janeiro]] \o/
+    - [[edsu]] welcoming spring
+    - [[flancian]] still dealing with layoffs but trying to also go back to the technical day-to-day job
+- [[last episode]] 📺
+    - dealt with the Mastodon upgrade (thanks!)
+- 
  
 ## 2024-02-13
 
