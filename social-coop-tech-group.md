@@ -33,6 +33,8 @@ Here: [[Calix]] [[edsu]] [[flancian]]
             - open (or find) a bug report against [[mastodon]] to improve this in some incremental way.
             - it would be nice to federate instance-level blocks
             - is there an API endpoint we could use to automate this or do we need to go to the database?
+                - https://docs.joinmastodon.org/methods/admin/accounts/#action seems like it could be it! it takes an account ID (fully qualified hopefully?) and allows for a report id to be attached.
+            - next action: give it a stab / share if we get something working?
         - the spam might have been trying to 'make a point' this time
         - it seemed quite targeted/singled out certain users
  
