@@ -26,7 +26,9 @@ Here: [[Calix]] [[edsu]] [[flancian]]
                 - 1600 or 1700 saturday
             - share (again?) in the chat(s) (also the open room?)
             - (next time) share slots/announce in loomio
-    - [[fediverse spam]]
+    - [[fediverse spam]] 🥫🌊
+        - [[meta spam]] ;)
+            - we hit our mailgun quota again by virtue of notifying all admins of all reports (ha)
  
  
 ## 2024-02-13
