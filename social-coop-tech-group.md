@@ -47,6 +47,9 @@ Here: [[Calix]] [[edsu]] [[flancian]]
             - F: next steps? auth.social.coop working, open. test logging in as admin (deets in `pass`)
             - E: open reg?
             - F: no approval flow
+            - C: tried plugin, but didn't work so great at autonomic. were trying to combine with email domain allowlisting, maybe doing approval by itself would be easier. https://gruchalski.com/posts/2021-06-06-extending-keycloak-required-action-providers/
+            - C: the only flow which we've tested and works is invite links, using keycloak-collective-portal 
+            - F: we send invite link (CWG) which isn't really secure.  
 
 ## 2024-02-13
 
