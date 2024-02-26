@@ -51,7 +51,7 @@ Here: [[Calix]] [[edsu]] [[flancian]]
             - C: the only flow which we've tested and works is invite links, using keycloak-collective-portal https://git.autonomic.zone/autonomic-cooperative/keycloak-collective-portal
             - F: invite link could work well for new users. currently we send invite link (CWG) by email which isn't really secure. could replace signup screen with hardcoded "reach out to admins". low-tech solution. CWG also brought up that it would be nice if some part of the wiki could only be edited by people in a working group.
             - E: the organizing circle was asking about the calendar, and how to restrict editing to some people.
-            - Our position: we prefer [[trust but verify]].
+            - Our position: we prefer [[trust but verify]]. Meaning: we'll check 'is in social coop' programmatically; but everything else is up to group trust/human protocols.
 
 ## 2024-02-13
 
