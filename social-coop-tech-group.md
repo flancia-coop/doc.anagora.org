@@ -41,8 +41,10 @@ Here: [[Calix]] [[edsu]] [[flancian]]
         - it seemed quite targeted/singled out certain users
         - we could have a mastodon release announcement bot in matrix?
             - maybe there's a release bot for github CI?
- 
- 
+    - single-sign-on
+        - there's interest in SSO in the organizing circle
+        - 
+
 ## 2024-02-13
 
 Here: [[flancian]] [[Calix]] [[andrewe]]
