@@ -32,6 +32,7 @@ Here: [[Calix]] [[edsu]] [[flancian]]
         - a script that auto-resolved reports matching a regex would have been great
             - open (or find) a bug report against [[mastodon]] to improve this in some incremental way.
             - it would be nice to federate instance-level blocks
+            - is there an API endpoint we could use to automate this or do we need to go to the database?
         - the spam might have been trying to 'make a point' this time
         - it seemed quite targeted/singled out certain users
  
