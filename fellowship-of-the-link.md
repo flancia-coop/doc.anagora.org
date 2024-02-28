@@ -52,7 +52,7 @@
      - Repository of good nuggets?
          - https://wiki.openglobalmind.com/search
              - Q: how do you do search?
-             - A: [[LUNR]].
+             - A: [[LUNR]]. https://stork-search.net/ also exists.
          - https://hypothes.is/users/chrisaldrich
  
 
