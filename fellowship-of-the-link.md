@@ -39,7 +39,10 @@
         - AI will tend to 'overwrite' towards a particular problem
         - [[Peter Kaminski]] would agree, and in the case we're discussing the AI expansion made the end result harder to process. But AI in general seems like a powertool: it can be used with skill and make you go faster, but they can get out of control.
         - [[Flancian]] on maybe defining nugget as 'human written' or at least 'full of human meaning/curated by a human'.
-        - 
+        - [[Chris Aldrich]] have you thought about going from Agora nodes to books/other format?
+            - As per <reference></reference>
+                - ne
+            - [[the case for books]]
 
 ## [[2024-02-21]]
 - Attending: [[Peter Kaminski]] [[Flancian]] [[Jerry Michalski]] [[Samuel Klein]]
