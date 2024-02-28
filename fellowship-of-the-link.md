@@ -35,7 +35,9 @@
         - how it relates to translating between [[worldviews]]
     - [[Aram Zucker-Scharff]]
         - it seems likely that [[nuggets]] that are intended to be used within a [[neobook]] are going to be even harder to integrate elsewhere once "enhanced" by AI
-        - 
+        - AI will tend to 'overwrite' towards a particular problem
+        - [[Peter Kaminski]] would agree, and in the case we're discussing the AI expansion made the end result harder to process
+        - [[Flancian]]
 
 ## [[2024-02-21]]
 - Attending: [[Peter Kaminski]] [[Flancian]] [[Jerry Michalski]] [[Samuel Klein]]
