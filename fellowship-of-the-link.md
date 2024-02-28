@@ -25,6 +25,15 @@
         - [[issue tracker]] / [[project tracker]] URL
             - [[github]] by default?
 
+
+## [[2024-02-28]]
+- Attending: [[Peter Kaminski]] [[Flancian]] [[Samuel Klein]] [[Chris Aldrich]] [[Aram Zucker-Scharff]]
+- On [[neobooks]]
+    - The [[BFDL]] concept as it applies to this project :)
+    - Reference [[neobook]]/first [[neobook]]
+    - [[nuggetization]]
+    - ho
+
 ## [[2024-02-21]]
 - Attending: [[Peter Kaminski]] [[Flancian]] [[Jerry Michalski]] [[Samuel Klein]]
     - ([[Bentley Davis]] [[Aram Zucker-Scharff]] [[Chris Aldrich]] might join)
