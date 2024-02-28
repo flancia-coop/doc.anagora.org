@@ -49,6 +49,9 @@
              - as per the above examples
          - nuggetization
              - wiki culture
+     - Repository of good nuggets?
+         - https://wiki.openglobalmind.com/search
+ 
 
 ## [[2024-02-21]]
 - Attending: [[Peter Kaminski]] [[Flancian]] [[Jerry Michalski]] [[Samuel Klein]]
