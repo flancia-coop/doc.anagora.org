@@ -54,7 +54,8 @@
              - Q: how do you do search?
              - A: [[LUNR]]. https://stork-search.net/ also exists.
          - https://hypothes.is/users/chrisaldrich
-     - [[stati]]
+     - [[indie search]]:
+         - [[static search]]: https://context.center/topics/indie-search/#search-for-static-sites
  
 
 ## [[2024-02-21]]
