@@ -41,9 +41,14 @@
         - [[Flancian]] on maybe defining nugget as 'human written' or at least 'full of human meaning/curated by a human'.
         - [[Chris Aldrich]] have you thought about going from Agora nodes to books/other format?
             - As per <reference></reference>
-                - The Spectatornewspaper from the early 1700s
+                - The Spectator newspaper from the early 1700s
                 - https://en.wikipedia.org/wiki/The_Spectator_(1711)
             - [[the case for books]] by [[Robert Darnton]] as an anthology "book" comprised of previously written magazine articles
+     - Precedents for [[nuggetization]] and [[composition]]
+         - composition: 
+             - as per the above examples
+         - nuggetization
+             - wiki culture
 
 ## [[2024-02-21]]
 - Attending: [[Peter Kaminski]] [[Flancian]] [[Jerry Michalski]] [[Samuel Klein]]
