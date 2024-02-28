@@ -54,6 +54,7 @@
              - Q: how do you do search?
              - A: [[LUNR]]. https://stork-search.net/ also exists.
          - https://hypothes.is/users/chrisaldrich
+     - [[stati]]
  
 
 ## [[2024-02-21]]
