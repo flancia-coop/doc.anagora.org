@@ -32,7 +32,10 @@
     - The [[BFDL]] concept as it applies to this project :)
     - Reference [[neobook]]/first [[neobook]]
     - [[nuggetization]]
-    - ho
+        - how it relates to translating between [[worldviews]]
+    - [[Aram Zucker-Scharff]]
+        - it seems likely that [[nuggets]] that are intended to be used within a [[neobook]] are going to be even harder to integrate elsewhere once "enhanced" by AI
+        - 
 
 ## [[2024-02-21]]
 - Attending: [[Peter Kaminski]] [[Flancian]] [[Jerry Michalski]] [[Samuel Klein]]
