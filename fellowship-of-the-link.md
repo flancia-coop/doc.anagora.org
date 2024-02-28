@@ -33,10 +33,11 @@
     - Reference [[neobook]]/first [[neobook]]
     - [[nuggetization]]
         - how it relates to translating between [[worldviews]]
+        - The difficulty of finding editors to work with to help work them into neobooks 
     - [[Aram Zucker-Scharff]]
         - it seems likely that [[nuggets]] that are intended to be used within a [[neobook]] are going to be even harder to integrate elsewhere once "enhanced" by AI
         - AI will tend to 'overwrite' towards a particular problem
-        - [[Peter Kaminski]] would agree, and in the case we're discussing the AI expansion made the end result harder to process
+        - [[Peter Kaminski]] would agree, and in the case we're discussing the AI expansion made the end result harder to process. But AI in general seems like a powertool: it can be used with skill and make you go faster, but they can get out of control.
         - [[Flancian]]
 
 ## [[2024-02-21]]
