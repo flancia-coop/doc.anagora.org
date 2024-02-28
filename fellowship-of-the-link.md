@@ -51,6 +51,9 @@
              - wiki culture
      - Repository of good nuggets?
          - https://wiki.openglobalmind.com/search
+             - Q: how do you do search?
+             - A: [[LUNR]].
+         - https://hypothes.is/users/chrisaldrich
  
 
 ## [[2024-02-21]]
