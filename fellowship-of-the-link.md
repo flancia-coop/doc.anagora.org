@@ -56,6 +56,8 @@
         - #CA https://indieweb.org/local_first
         - on the limitations of the distributed-first approach, and whether they are inherent to the model or just tend to produce interfaces of a particular kind
         - #AZS on [[glitch]]
+    - [[metasj]] on [[Flickr Commons]] and [[WikiPortraits]]
+        - #JM [[storycorps]] meets [[tiktok]]
  
 
 ## [[2024-02-28]]
