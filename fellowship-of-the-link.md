@@ -31,6 +31,8 @@
     - [[Chris Aldrich]] shows us his Zettelkasten 
         - 8 thousand approx. in one drawer (!)
         - But the background drawers hold many tens of thousands
+        - [[flancian]] thought about digitizing?
+        - [[aram zucker-scharff]] for backup purposes
 
 ## [[2024-02-28]]
 - Attending: [[Peter Kaminski]] [[Flancian]] [[Samuel Klein]] [[Chris Aldrich]] [[Aram Zucker-Scharff]]
