@@ -51,6 +51,9 @@
         - [[metasj]] would like something with incremental statements about provenance instead of high barrier to entry
         - [[metasj]] and definitely something that the [[internet archive]] can archive
         - strong privacy / strong identity is part of the requirements of the project
+        - #CA I'm reminded here of  https://linkingmanifesto.org/
+        - #SJ says:chris: nice 😃 [[pdurbin]] likes to be "slopi"  https://github.com/pdurbin/slopi-communication
+ 
 
 ## [[2024-02-28]]
 - Attending: [[Peter Kaminski]] [[Flancian]] [[Samuel Klein]] [[Chris Aldrich]] [[Aram Zucker-Scharff]]
