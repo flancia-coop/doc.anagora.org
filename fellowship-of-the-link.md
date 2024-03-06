@@ -25,9 +25,11 @@
         - [[issue tracker]] / [[project tracker]] URL
             - [[github]] by default?
             
-## [[2024-03-]]
-- Attending: [[Peter Kaminski]] [[Flancian]] [[Samuel Klein]] [[Chris Aldrich]] [[Aram Zucker-Scharff]]
--
+## [[2024-03-06]]
+- Attending: [[Peter Kaminski]] [[Flancian]] [[Chris Aldrich]] [[Aram Zucker-Scharff]]
+- [[Check ins]]
+    - [[Chris Aldrich]] shows us his Zettelkasten 
+        - 8 thousand approx. in one drawer (!)
 
 ## [[2024-02-28]]
 - Attending: [[Peter Kaminski]] [[Flancian]] [[Samuel Klein]] [[Chris Aldrich]] [[Aram Zucker-Scharff]]
