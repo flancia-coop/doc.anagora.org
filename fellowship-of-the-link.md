@@ -37,6 +37,11 @@
     - [[Jerry Michalski]]
         - on [[Bahrain]] https://photos.app.goo.gl/S2MVcGm7Rg6VbAta9
         - on being a [[Beard]]
+            - vs a [[Merkin]]
+        - [[DXOS]] demo on [[Free Jerry's Brain]] call
+            - we'll use [[composer]] for note taking
+        - Q: freedom status of the brain?
+            - Pete is looking into connectin
 
 ## [[2024-02-28]]
 - Attending: [[Peter Kaminski]] [[Flancian]] [[Samuel Klein]] [[Chris Aldrich]] [[Aram Zucker-Scharff]]
