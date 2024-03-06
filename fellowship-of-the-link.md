@@ -48,7 +48,8 @@
         - https://blog.opencollective.com/open-collective-official-statement-ocf-dissolution/
     - is [[composer]] and the [[local first]] approach without deep [[interlinking]]
         - better to invest on something simpler that can be gathered by the internet archive?
-        - [[metasj]] would like something with increment
+        - [[metasj]] would like something with incremental statements about provenance instead of high barrier to entry
+        - [[metasj]] and definitely something that the [[internet archive]] can archive
 
 ## [[2024-02-28]]
 - Attending: [[Peter Kaminski]] [[Flancian]] [[Samuel Klein]] [[Chris Aldrich]] [[Aram Zucker-Scharff]]
