@@ -41,7 +41,7 @@
         - [[DXOS]] demo on [[Free Jerry's Brain]] call
             - we'll use [[composer]] for note taking
         - Q: freedom status of the brain?
-            - Pete is looking into connectin
+            - Pete is looking into connecting the brain to GPT
 
 ## [[2024-02-28]]
 - Attending: [[Peter Kaminski]] [[Flancian]] [[Samuel Klein]] [[Chris Aldrich]] [[Aram Zucker-Scharff]]
