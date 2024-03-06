@@ -36,6 +36,7 @@
             - https://simonwillison.net/2024/Feb/21/gemini-pro-video/ as a possible strategy for backups
     - [[Jerry Michalski]]
         - on [[Bahrain]] https://photos.app.goo.gl/S2MVcGm7Rg6VbAta9
+        - on being a [[Beard]]
 
 ## [[2024-02-28]]
 - Attending: [[Peter Kaminski]] [[Flancian]] [[Samuel Klein]] [[Chris Aldrich]] [[Aram Zucker-Scharff]]
