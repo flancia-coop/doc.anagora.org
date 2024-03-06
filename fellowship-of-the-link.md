@@ -24,7 +24,10 @@
         - /now
         - [[issue tracker]] / [[project tracker]] URL
             - [[github]] by default?
-
+            
+## [[2024-03-]]
+- Attending: [[Peter Kaminski]] [[Flancian]] [[Samuel Klein]] [[Chris Aldrich]] [[Aram Zucker-Scharff]]
+-
 
 ## [[2024-02-28]]
 - Attending: [[Peter Kaminski]] [[Flancian]] [[Samuel Klein]] [[Chris Aldrich]] [[Aram Zucker-Scharff]]
