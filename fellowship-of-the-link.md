@@ -42,6 +42,8 @@
             - we'll use [[composer]] for note taking
         - Q: freedom status of the brain?
             - Pete is looking into connecting the brain to GPT
+    - [[Peter Kaminski]]: [[composer]] demo
+        - https://tinyurl.com/3cfysbvp
 
 ## [[2024-02-28]]
 - Attending: [[Peter Kaminski]] [[Flancian]] [[Samuel Klein]] [[Chris Aldrich]] [[Aram Zucker-Scharff]]
