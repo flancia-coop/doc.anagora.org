@@ -46,6 +46,9 @@
         - https://tinyurl.com/3cfysbvp
     - On one [[opencollective]] shutting down -- and three not doing so and doing well (?).
         - https://blog.opencollective.com/open-collective-official-statement-ocf-dissolution/
+    - is [[composer]] and the [[local first]] approach without deep [[interlinking]]
+        - better to invest on something simpler that can be gathered by the internet archive?
+        - [[metasj]] would like something with increment
 
 ## [[2024-02-28]]
 - Attending: [[Peter Kaminski]] [[Flancian]] [[Samuel Klein]] [[Chris Aldrich]] [[Aram Zucker-Scharff]]
