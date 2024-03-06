@@ -26,13 +26,14 @@
             - [[github]] by default?
             
 ## [[2024-03-06]]
-- Attending: [[Peter Kaminski]] [[Flancian]] [[Chris Aldrich]] [[Aram Zucker-Scharff]]
+- Attending: [[Peter Kaminski]] [[Flancian]] [[Chris Aldrich]] [[Aram Zucker-Scharff]] [[Samuel Klein]]
 - [[Check ins]]
     - [[Chris Aldrich]] shows us his Zettelkasten 
         - 8 thousand approx. in one drawer (!)
         - But the background drawers hold many tens of thousands
         - [[flancian]] thought about digitizing?
         - [[aram zucker-scharff]] for backup purposes
+            - https://simonwillison.net/2024/Feb/21/gemini-pro-video/ as a possible strategy for backups
 
 ## [[2024-02-28]]
 - Attending: [[Peter Kaminski]] [[Flancian]] [[Samuel Klein]] [[Chris Aldrich]] [[Aram Zucker-Scharff]]
