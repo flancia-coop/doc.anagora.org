@@ -44,6 +44,8 @@
             - Pete is looking into connecting the brain to GPT
     - [[Peter Kaminski]]: [[composer]] demo
         - https://tinyurl.com/3cfysbvp
+    - On one [[opencollective]] shutting down -- and three not doing so and doing well (?).
+        - https://blog.opencollective.com/open-collective-official-statement-ocf-dissolution/
 
 ## [[2024-02-28]]
 - Attending: [[Peter Kaminski]] [[Flancian]] [[Samuel Klein]] [[Chris Aldrich]] [[Aram Zucker-Scharff]]
