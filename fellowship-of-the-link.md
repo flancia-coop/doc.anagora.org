@@ -50,6 +50,7 @@
         - better to invest on something simpler that can be gathered by the internet archive?
         - [[metasj]] would like something with incremental statements about provenance instead of high barrier to entry
         - [[metasj]] and definitely something that the [[internet archive]] can archive
+        - strong privacy / strong identity is part of the requirements of the project
 
 ## [[2024-02-28]]
 - Attending: [[Peter Kaminski]] [[Flancian]] [[Samuel Klein]] [[Chris Aldrich]] [[Aram Zucker-Scharff]]
