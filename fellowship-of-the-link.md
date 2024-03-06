@@ -53,6 +53,9 @@
         - strong privacy / strong identity is part of the requirements of the project
         - #CA I'm reminded here of  https://linkingmanifesto.org/
         - #SJ says:chris: nice 😃 [[pdurbin]] likes to be "slopi"  https://github.com/pdurbin/slopi-communication
+        - #CA https://indieweb.org/local_first
+        - on the limitations of the distributed-first approach, and whether they are inherent to the model or just tend to produce interfaces of a particular kind
+        - #AZS on [[glitch]]
  
 
 ## [[2024-02-28]]
