@@ -4,7 +4,7 @@
 
 # [[flancia meet 2024-03-02]]
 - [[flancian]] doing generally cleanup and planning :)
-    - installed [[llm]] CLI by [[simonw]] and had fun after setting up API keys for: [[openai]] [[mistral]] [[google]] 
+    - installed [[llm]] CLI by [[simonw]] and had fun after setting up API keys for: [[openai]] [[mistral] [[google]] 
     - [[gemini]] was the hardest (needlessly, as usual) because I had to use a VPN to be able to create an API key due to random enterprise-y large-company restrictions
 
 # [[flancia meet 2024-02-24]]
