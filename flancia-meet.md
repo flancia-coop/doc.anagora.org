@@ -4,7 +4,9 @@
 
 # [[flancia meet 2024-03-09]]
 - [[flancian]] [[bouncepaw]]
-- whlie waiting for [[flancian]] to come bac
+- whlie waiting for [[flancian]] to come back, [[bouncepaw]] was watching [[compudanzas]] updating the [[uxn]] tutorial:
+    - [[twitch]]: https://www.twitch.tv/compudanzas
+    - the tutorial: https://compudanzas.net/uxn_tutorial.html
 
 # [[flancia meet 2024-03-02]]
 - [[flancian]] doing generally cleanup and planning :)
