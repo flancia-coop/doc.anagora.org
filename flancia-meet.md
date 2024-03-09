@@ -10,8 +10,10 @@
 - [[bouncepaw]] has an internship now
     - [[go]] is getting widely used in Russian IT
         - microservices are all the rage now huh
-    - [[[[rust]]:
+        - [[antigospiel]]
+    - [[flancian]] wants to pick up [[rust]]:
         - on [[rusty vibes]]
+        - and the [[functional phase]]
 
 # [[flancia meet 2024-03-02]]
 - [[flancian]] doing generally cleanup and planning :)
