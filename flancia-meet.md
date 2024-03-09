@@ -7,7 +7,11 @@
 - while waiting for [[flancian]] to come back, [[bouncepaw]] was watching [[compudanzas]] updating the [[uxn]] tutorial:
     - [[twitch]]: https://www.twitch.tv/compudanzas
     - the tutorial: https://compudanzas.net/uxn_tutorial.html
-- [[bouncepaw]] on an internship
+- [[bouncepaw]] has an internship now
+    - [[go]] is getting widely used in Russian IT
+        - microservices are all the rage now huh
+    - [[[[rust]]:
+        - on [[rusty vibes]]
 
 # [[flancia meet 2024-03-02]]
 - [[flancian]] doing generally cleanup and planning :)
