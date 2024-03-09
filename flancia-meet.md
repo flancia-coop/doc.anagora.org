@@ -11,6 +11,7 @@
     - [[go]] is getting widely used in Russian IT
         - microservices are all the rage now huh
         - [[antigospiel]]
+        - https://git.sr.ht/~bouncepaw/betula/tree/master/item/web/handlers.go is where you'd start reading [[betula]] code
     - [[flancian]] wants to pick up [[rust]]:
         - on [[rusty vibes]]
         - and the [[functional phase]]
