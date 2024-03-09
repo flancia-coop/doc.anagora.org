@@ -27,6 +27,7 @@
         - [[lyudi]] ~ [[leute]]: https://www.quora.com/Is-the-German-word-Leute-etymologically-related-to-the-Slavic-Lyudi-both-words-meaning-people
         - on the news of [[navalny]] dying
         - on [[systemic change]]
+        - on cherrypicking by [[news]] and [[media]]
         
 
 # [[flancia meet 2024-03-02]]
