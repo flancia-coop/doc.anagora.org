@@ -18,6 +18,8 @@
 - [[compudanzas]]
 - [[flancian]] hackathon
 - [[barcelona]] [[catalonia]]
+    - [[separatist movement]]
+        - "would be [[heavily outlawed]]"
     - [[swiss]] [[canton]]
         - [[helvetia]]
 
