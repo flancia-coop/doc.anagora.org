@@ -28,6 +28,7 @@
         - on the news of [[navalny]] dying
         - on [[systemic change]]
         - on cherrypicking by [[news]] and [[media]]
+- [[Silverbullet]]
         
 
 # [[flancia meet 2024-03-02]]
