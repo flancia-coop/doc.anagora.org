@@ -15,6 +15,7 @@
     - [[flancian]] wants to pick up [[rust]]:
         - on [[rusty vibes]]
         - and the [[functional phase]]
+    - 
 - [[compudanzas]]
 - [[flancian]] hackathon
 - [[barcelona]] [[catalonia]]
@@ -24,6 +25,8 @@
         - [[helvetia]]
     - [[russian elections]]
         - in russian there are two words for people
+        - [[lyudi]] ~ [[leute]]: https://www.quora.com/Is-the-German-word-Leute-etymologically-related-to-the-Slavic-Lyudi-both-words-meaning-people
+        
 
 # [[flancia meet 2024-03-02]]
 - [[flancian]] doing generally cleanup and planning :)
