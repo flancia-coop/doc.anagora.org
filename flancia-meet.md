@@ -15,6 +15,7 @@
     - [[flancian]] wants to pick up [[rust]]:
         - on [[rusty vibes]]
         - and the [[functional phase]]
+- [[compudanzas]]
 
 # [[flancia meet 2024-03-02]]
 - [[flancian]] doing generally cleanup and planning :)
