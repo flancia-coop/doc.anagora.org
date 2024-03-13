@@ -54,7 +54,10 @@
             - take N top PLs and integrate them?
             - #JM on [[liberating structures]] which is an [[almost pattern language]]
                 - [[flancian]] is interested in the class
-                - #JM can envision a zoom/meet widget that helps facilitate meetings and run e.g. [[one two ]]
+                - #JM can envision a zoom/meet widget that helps facilitate meetings and run e.g. [[1 1 2 4 all]]: https://www.liberatingstructures.com/1-1-2-4-all/
+                - In general an LLM interface to PLs
+            - #CA reminds me of [[brian eno's]] [[oblique strategies]]
+ 
  
 ## [[2024-03-06]]
 - Attending: [[Jerry Michalski]] [[Peter Kaminski]] [[Flancian]] [[Chris Aldrich]] [[Aram Zucker-Scharff]] [[Samuel Klein]]
