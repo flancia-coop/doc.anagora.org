@@ -25,8 +25,16 @@
         - [[issue tracker]] / [[project tracker]] URL
             - [[github]] by default?
             
+## [[2024-03-13]]
+- Attending: [[Jerry Michalski]] [[Peter Kaminski]] [[Flancian]] [[Chris Aldrich]] 
+- Daylight savings excitement :)
+    - [[flancian]] now moved the next two instances to an earlier timeslot in EU
+- [[check ins]]
+    - [[Chris Aldrich]] doing well, also with writing projects, but car not doing so well
+    - 
+
 ## [[2024-03-06]]
-- Attending: [[Peter Kaminski]] [[Flancian]] [[Chris Aldrich]] [[Aram Zucker-Scharff]] [[Samuel Klein]]
+- Attending: [[Jerry Michalski]] [[Peter Kaminski]] [[Flancian]] [[Chris Aldrich]] [[Aram Zucker-Scharff]] [[Samuel Klein]]
 - [[Check ins]]
     - [[Chris Aldrich]] shows us his Zettelkasten 
         - 8 thousand approx. in one drawer (!)
