@@ -48,7 +48,8 @@
         - some overhead in figuring out links between all projects
 - Where do we want to go from here?
     - Last time we discussed [[composer]]
-    - 
+    - [[Neobooks]]
+        - [[Pattern Languages]]
  
 ## [[2024-03-06]]
 - Attending: [[Jerry Michalski]] [[Peter Kaminski]] [[Flancian]] [[Chris Aldrich]] [[Aram Zucker-Scharff]] [[Samuel Klein]]
