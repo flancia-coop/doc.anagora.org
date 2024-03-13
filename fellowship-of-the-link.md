@@ -34,6 +34,9 @@
     - [[Peter Kaminski]] read about [[hookmark]]:
         - [[mac os]] only
         - https://hookproductivity.com/help/integration/using-hook-with-obsidian/
+    - [[Flancian]] is using [[betula]] for bookmarks, e.g. https://links.flancia.org/
+        - https://betula.mycorrhiza.wiki/ for more on it
+        - federates
  
 
 ## [[2024-03-06]]
