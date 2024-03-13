@@ -68,11 +68,13 @@ https://obsidian.md/blog/json-canvas/
         - Working on a simple frontend for [[LLMs]]
         - Calling it [[salamander]]
             - CLI and Flask
-    - #CA Notes from 1w-2w ago when we were talking about [[neobooks]]
+    - #CA Notes from 1w-2w ago when we were talking about [[neobooks]] and a possible pipeline
         - having a repository of ideas
             - generally indexed or interlinked
         - having a tool for creating an outline
-        - 
+        - having a tool to go from outline to full text
+        - similar preexisting tools:
+            - tools that take URLs and create 'books' for people to read as pdf or mobi
  
  
  
