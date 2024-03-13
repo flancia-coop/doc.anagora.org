@@ -34,6 +34,9 @@
     - [[Peter Kaminski]] read about [[hookmark]]:
         - [[mac os]] only
         - https://hookproductivity.com/help/integration/using-hook-with-obsidian/
+        - on [[deep links]] and [[uri schemes]]
+        - [[Jerry]] on [[elgato stream pad]] and macro programming
+        - [[david bovill]] and [[liquid democracy]]
     - [[Flancian]] is using [[betula]] for bookmarks, e.g. https://links.flancia.org/
         - https://betula.mycorrhiza.wiki/ for more on it
         - federates
