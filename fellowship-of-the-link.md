@@ -45,9 +45,11 @@
             - thanks for the bug report on weird behavior from embedding docs :)
     - [[Jerry Michalski]] 
         - trying to succintly explain the thread connecting all the things I'm working on
-        - some overhead in figuring links between 
+        - some overhead in figuring out links between all projects
+- Where do we want to go from here?
+    - Last time we discussed [[composer]]
+    - 
  
-
 ## [[2024-03-06]]
 - Attending: [[Jerry Michalski]] [[Peter Kaminski]] [[Flancian]] [[Chris Aldrich]] [[Aram Zucker-Scharff]] [[Samuel Klein]]
 - [[Check ins]]
