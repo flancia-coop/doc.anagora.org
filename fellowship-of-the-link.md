@@ -37,6 +37,7 @@
         - on [[deep links]] and [[uri schemes]]
         - [[Jerry]] on [[elgato stream pad]] and macro programming
         - [[david bovill]] and [[liquid democracy]]
+            - https://bra.in/2qZEZB
     - [[Flancian]] is using [[betula]] for bookmarks, e.g. https://links.flancia.org/
         - https://betula.mycorrhiza.wiki/ for more on it
         - federates
