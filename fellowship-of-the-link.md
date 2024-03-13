@@ -31,7 +31,10 @@
     - [[flancian]] now moved the next two instances to an earlier timeslot in EU
 - [[check ins]]
     - [[Chris Aldrich]] doing well, also with writing projects, but car not doing so well
-    - 
+    - [[Peter Kaminski]] read about [[hookmark]]:
+        - [[mac os]] only
+        - https://hookproductivity.com/help/integration/using-hook-with-obsidian/
+ 
 
 ## [[2024-03-06]]
 - Attending: [[Jerry Michalski]] [[Peter Kaminski]] [[Flancian]] [[Chris Aldrich]] [[Aram Zucker-Scharff]] [[Samuel Klein]]
