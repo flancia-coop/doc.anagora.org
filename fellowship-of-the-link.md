@@ -49,7 +49,7 @@
 - Where do we want to go from here?
     - Last time we discussed [[composer]]
     - [[Neobooks]]
-        - On [[Pattern Languages]]
+        - [[Flancian]] On [[Pattern Languages]]
             - [[Meta Pattern Language]]
             - take N top PLs and integrate them?
             - #JM on [[liberating structures]] which is an [[almost pattern language]]
@@ -57,6 +57,10 @@
                 - #JM can envision a zoom/meet widget that helps facilitate meetings and run e.g. [[1 1 2 4 all]]: https://www.liberatingstructures.com/1-1-2-4-all/
                 - In general an LLM interface to PLs
             - #CA reminds me of [[brian eno's]] [[oblique strategies]]
+            - http://en.wikipedia.org/wiki/Oblique_Strategies
+            - "Announcing JSON Canvas: an open file format for infinite canvas data - Obsidian" https://obsidian.md/blog/json-canvas/
+       - #CA been working on a [[neobook]] (that I wasn't calling as such)
+           - structuring one: https://pkmsummit.com/
  
  
 ## [[2024-03-06]]
