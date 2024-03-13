@@ -60,7 +60,7 @@
             - http://en.wikipedia.org/wiki/Oblique_Strategies
             - "Announcing JSON Canvas: an open file format for infinite canvas data - Obsidian" https://obsidian.md/blog/json-canvas/
        - #CA been working on a [[neobook]] (that I wasn't calling as such)
-           - structuring one: https://pkmsummit.com/
+           - structuring one for https://pkmsummit.com/
  
  
 ## [[2024-03-06]]
