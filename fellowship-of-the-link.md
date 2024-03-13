@@ -41,6 +41,11 @@
     - [[Flancian]] is using [[betula]] for bookmarks, e.g. https://links.flancia.org/
         - https://betula.mycorrhiza.wiki/ for more on it
         - federates
+        - new https://anagora.org homepage
+            - thanks for the bug report on weird behavior from embedding docs :)
+    - [[Jerry Michalski]] 
+        - trying to succintly explain the thread connecting all the things I'm working on
+        - some overhead in figuring links between 
  
 
 ## [[2024-03-06]]
