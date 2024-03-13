@@ -49,7 +49,12 @@
 - Where do we want to go from here?
     - Last time we discussed [[composer]]
     - [[Neobooks]]
-        - [[Pattern Languages]]
+        - On [[Pattern Languages]]
+            - [[Meta Pattern Language]]
+            - take N top PLs and integrate them?
+            - #JM on [[liberating structures]] which is an [[almost pattern language]]
+                - [[flancian]] is interested in the class
+                - #JM can envision a zoom/meet widget that helps facilitate meetings and run e.g. [[one two ]]
  
 ## [[2024-03-06]]
 - Attending: [[Jerry Michalski]] [[Peter Kaminski]] [[Flancian]] [[Chris Aldrich]] [[Aram Zucker-Scharff]] [[Samuel Klein]]
