@@ -75,8 +75,10 @@ https://obsidian.md/blog/json-canvas/
         - having a tool to go from outline to full text
         - similar preexisting tools in this space:
             - tools that take URLs and create 'books' for people to read as pdf or mobi
-        - #PK Here's some of the prior art research on these sorts of reading lists:  https://indieweb.org/reading_list
+        - #CA Here's some of the prior art research on these sorts of reading lists:  https://indieweb.org/reading_list
         - #FL would like to experiment with this last process in particular (outline to full text, set of nodes to text)
+        - #PK A fast, free image viewer I use for sifting through thousands of images:  Phoenix Slides https://blyt.net/phxslides/
+ 
  
  
  
