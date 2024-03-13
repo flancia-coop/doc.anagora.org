@@ -73,7 +73,7 @@ https://obsidian.md/blog/json-canvas/
             - generally indexed or interlinked
         - having a tool for creating an outline
         - having a tool to go from outline to full text
-        - similar preexisting tools:
+        - similar preexisting tools in this space:
             - tools that take URLs and create 'books' for people to read as pdf or mobi
  
  
