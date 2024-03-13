@@ -65,7 +65,9 @@
 https://obsidian.md/blog/json-canvas/
     - [[Flancian]] is a huge fan of [[silverbullet]]
     - [[Peter Kaminski]] working on [[Midjourney]] and [[LLM]] classes
-        - Working 
+        - Working on a simple frontend for [[LLMs]]
+        - Calling it [[salamander]]
+            - CLI and Flask
  
  
  
