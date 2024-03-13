@@ -64,6 +64,8 @@
        - #PK And interesting news:  "Announcing JSON Canvas: an open file format for infinite canvas data - Obsidian"
 https://obsidian.md/blog/json-canvas/
     - [[Flancian]] is a huge fan of [[silverbullet]]
+    - [[Peter Kaminski]] working on [[Midjourney]] and [[LLM]] classes
+        - Working 
  
  
  
