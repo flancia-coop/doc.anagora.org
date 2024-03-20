@@ -39,6 +39,12 @@
         - Midjourney is $5/mo.
         - On the topic of curating/heavily editing/not publishing everything
         - Currently using [[gumroad]].
+        - On contributing to the commons?
+        - [[AZS]] you are generating a lot -- how are you doing it?
+            - [[PK]] have a lot of prepared prompts. Midjourney is also very well tuned to produce nice images, and it does so even with almost random prompts.
+            - [[PK]] Midjourney doesn't allow programmatic access in their terms of service.
+            - [[AZS]] uses Midjourney to generate material for DMing, characters and maps.
+            - [[AZS]] can you creative comm
 - [[Eduardo]]
     - Participating in the [[Fediversalist Papers]] in 1h
     - Helping organize a [[GenAI hackathon]] at the day job
