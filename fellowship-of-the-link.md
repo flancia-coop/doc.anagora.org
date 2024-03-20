@@ -25,6 +25,14 @@
         - [[issue tracker]] / [[project tracker]] URL
             - [[github]] by default?
             
+## [[2024-03-20]]
+- Attending: [[Peter Kaminski]] [[Flancian]] [[Aram Zucker-Scharff]] 
+- [[Aram]]
+    - aramzs.me/baw 
+- [[Peter]]
+- [[Eduardo]]
+    - Participating in the [[Fediversalist Papers]] in 1h
+
 ## [[2024-03-13]]
 - Attending: [[Jerry Michalski]] [[Peter Kaminski]] [[Flancian]] [[Chris Aldrich]] 
 - Daylight savings excitement :)
