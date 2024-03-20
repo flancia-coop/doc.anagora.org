@@ -46,6 +46,9 @@
             - [[AZS]] uses Midjourney to generate material for DMing, characters and maps.
             - [[AZS]] can you creative commons AI images given that you can't copyright them? Maybe they are only [[public domain]]?
             - Can we just train further AIs on those and leave copyright behind? :)
+        - [[Pete's Courses]]: 
+            - [[Path shift people]]: https://pathshiftpeople.gumroad.com/
+            - [[AI 101]]: https://ai101.peterkaminski.wiki/
 - [[Eduardo]]
     - Participating in the [[Fediversalist Papers]] in 1h
     - Helping organize a [[GenAI hackathon]] at the day job
