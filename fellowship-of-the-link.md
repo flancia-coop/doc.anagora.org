@@ -38,6 +38,7 @@
         - Experimenting with 'pay what you want' with the obsidian one
         - Midjourney is $5/mo.
         - On the topic of curating/heavily editing/not publishing everything
+        - Currently using [[gumroad]].
 - [[Eduardo]]
     - Participating in the [[Fediversalist Papers]] in 1h
     - Helping organize a [[GenAI hackathon]] at the day job
