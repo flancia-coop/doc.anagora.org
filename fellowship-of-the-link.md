@@ -28,7 +28,8 @@
 ## [[2024-03-20]]
 - Attending: [[Peter Kaminski]] [[Flancian]] [[Aram Zucker-Scharff]] 
 - [[Aram]]
-    - aramzs.me/baw 
+    - [[build a website]]:
+        - aramzs.me/baw -> https://aramzs.github.io/build-a-website/#/
 - [[Peter]]
 - [[Eduardo]]
     - Participating in the [[Fediversalist Papers]] in 1h
