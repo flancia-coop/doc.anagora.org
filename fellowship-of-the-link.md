@@ -33,6 +33,10 @@
     - on [[fenced frame]]:
         - https://wicg.github.io/fenced-frame/
 - [[Peter]]
+    - Working on courses, teaching people: [[chatgpt]] [[obsidian]] [[midjourney]]
+    - On getting from there to 'products'
+        - Experimenting with 'pay what you want' with the obsidian one
+        - Midjourney is $5/mo.
 - [[Eduardo]]
     - Participating in the [[Fediversalist Papers]] in 1h
 
