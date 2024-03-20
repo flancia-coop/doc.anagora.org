@@ -44,7 +44,8 @@
             - [[PK]] have a lot of prepared prompts. Midjourney is also very well tuned to produce nice images, and it does so even with almost random prompts.
             - [[PK]] Midjourney doesn't allow programmatic access in their terms of service.
             - [[AZS]] uses Midjourney to generate material for DMing, characters and maps.
-            - [[AZS]] can you creative comm
+            - [[AZS]] can you creative commons AI images given that you can't copyright them? Maybe they are only [[public domain]]?
+            - Can we just train further AIs on those and leave copyright behind? :)
 - [[Eduardo]]
     - Participating in the [[Fediversalist Papers]] in 1h
     - Helping organize a [[GenAI hackathon]] at the day job
