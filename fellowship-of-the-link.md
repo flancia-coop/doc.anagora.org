@@ -49,6 +49,9 @@
         - [[Pete's Courses]]: 
             - [[Path shift people]]: https://pathshiftpeople.gumroad.com/
             - [[AI 101]]: https://ai101.peterkaminski.wiki/
+            - the "beginner's curriculum" i've started working on: 
+https://ai101.peterkaminski.wiki/ai_101_building_blocks
+ 
 - [[Eduardo]]
     - Participating in the [[Fediversalist Papers]] in 1h
     - Helping organize a [[GenAI hackathon]] at the day job
