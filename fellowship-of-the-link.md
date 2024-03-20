@@ -39,6 +39,7 @@
         - Midjourney is $5/mo.
 - [[Eduardo]]
     - Participating in the [[Fediversalist Papers]] in 1h
+    - Helping organize a [[GenAI hackathon]] at the day job
 
 ## [[2024-03-13]]
 - Attending: [[Jerry Michalski]] [[Peter Kaminski]] [[Flancian]] [[Chris Aldrich]] 
