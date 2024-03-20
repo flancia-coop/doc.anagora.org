@@ -49,6 +49,7 @@
 - [[Eduardo]]
     - Participating in the [[Fediversalist Papers]] in 1h
     - Helping organize a [[GenAI hackathon]] at the day job
+- On how to combine massive wiki / agora with new AI tools?
 
 ## [[2024-03-13]]
 - Attending: [[Jerry Michalski]] [[Peter Kaminski]] [[Flancian]] [[Chris Aldrich]] 
