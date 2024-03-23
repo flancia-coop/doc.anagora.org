@@ -15,6 +15,7 @@
     - [[tkemali]]
     - [[satsebeli]]
     - will look for this in [[lakomka]]
+- [[internship]]
    
 # [[flancia meet 2024-03-09]]
 - [[flancian]] [[bouncepaw]]
