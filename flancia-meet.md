@@ -19,6 +19,11 @@
     - usually putting open source on hold 
 - [[fediversalists]]:
     - [[fediversalist papers]] by [[darius kazemi]] and [[erin kissane]]
+    - on federating [[moderation]] and other [[meta]]
+    - [[idea]] 
+        - on [[group actors]]
+        - on publishing updates/deprecation notices to those
+        - on using that channel to publish also federation/defederation notices
    
 # [[flancia meet 2024-03-09]]
 - [[flancian]] [[bouncepaw]]
