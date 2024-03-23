@@ -18,7 +18,7 @@
 - [[internship]]
     - usually putting open source on hold 
 - [[fediversalists]]:
-    - [[fediversalist papers]] by [[]]
+    - [[fediversalist papers]] by [[darius kazemi]] and [[erin kissane]]
    
 # [[flancia meet 2024-03-09]]
 - [[flancian]] [[bouncepaw]]
