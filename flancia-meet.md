@@ -3,8 +3,11 @@
 - This is where we have community maintained notes :)
 
 # [[flancia meet 2024-03-23]]
-- 
-
+- [[flancian]] [[bouncepaw]]
+- [[Moscow concert hall attack]] :(
+    - [[flancian]] hadn't heard about this
+- [[machine learning]] classes
+    
 # [[flancia meet 2024-03-09]]
 - [[flancian]] [[bouncepaw]]
 - while waiting for [[flancian]] to come back, [[bouncepaw]] was watching [[compudanzas]] updating the [[uxn]] tutorial:
