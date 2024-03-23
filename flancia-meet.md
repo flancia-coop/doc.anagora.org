@@ -17,6 +17,8 @@
     - will look for this in [[lakomka]]
 - [[internship]]
     - usually putting open source on hold 
+- [[fediversalists]]:
+    - [[fediversalist papers]] by [[]]
    
 # [[flancia meet 2024-03-09]]
 - [[flancian]] [[bouncepaw]]
