@@ -7,10 +7,11 @@
 - [[Moscow concert hall attack]] :(
     - [[flancian]] hadn't heard about this
 - [[machine learning]] classes
+    - doing [[python]] with [[numpy]]
 - [[georgian sauces]]:
     - [[ajika]]
     - will look for this in [[lakomka]]
-    
+   
 # [[flancia meet 2024-03-09]]
 - [[flancian]] [[bouncepaw]]
 - while waiting for [[flancian]] to come back, [[bouncepaw]] was watching [[compudanzas]] updating the [[uxn]] tutorial:
