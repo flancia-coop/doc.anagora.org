@@ -8,9 +8,12 @@
     - [[flancian]] hadn't heard about this
 - [[machine learning]] classes
     - doing [[python]] with [[numpy]]
-    
+    - https://www.coursera.org/specializations/machine-learning-introduction as an alternative?
+        - [[andrew ng]]
 - [[georgian sauces]]:
     - [[ajika]]
+    - [[tkemali]]
+    - [[satsebeli]]
     - will look for this in [[lakomka]]
    
 # [[flancia meet 2024-03-09]]
