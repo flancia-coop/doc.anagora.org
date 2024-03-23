@@ -25,7 +25,11 @@
         - on publishing updates/deprecation notices to those
         - on using that channel to publish also federation/defederation notices
 - [[ozon]] is the [[russian amazon]]
-    - 
+    - bought lens containers
+- [[fonts]]
+    - [[pt sans]], [[pt serif]], [[pt mono]]
+    - [[futura]]
+    - [[garamond]]
    
 # [[flancia meet 2024-03-09]]
 - [[flancian]] [[bouncepaw]]
