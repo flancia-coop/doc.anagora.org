@@ -7,6 +7,8 @@
 - [[Moscow concert hall attack]] :(
     - [[flancian]] hadn't heard about this
 - [[machine learning]] classes
+- [[georgian sauces]]:
+    - [[ajika]]
     
 # [[flancia meet 2024-03-09]]
 - [[flancian]] [[bouncepaw]]
