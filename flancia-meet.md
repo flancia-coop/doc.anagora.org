@@ -24,6 +24,7 @@
         - on [[group actors]]
         - on publishing updates/deprecation notices to those
         - on using that channel to publish also federation/defederation notices
+- [[ozon]] is the [[russian amazon]]
    
 # [[flancia meet 2024-03-09]]
 - [[flancian]] [[bouncepaw]]
