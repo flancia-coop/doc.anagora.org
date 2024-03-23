@@ -8,6 +8,7 @@
     - [[flancian]] hadn't heard about this
 - [[machine learning]] classes
     - doing [[python]] with [[numpy]]
+    
 - [[georgian sauces]]:
     - [[ajika]]
     - will look for this in [[lakomka]]
