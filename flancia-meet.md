@@ -9,6 +9,7 @@
 - [[machine learning]] classes
 - [[georgian sauces]]:
     - [[ajika]]
+    - will 
     
 # [[flancia meet 2024-03-09]]
 - [[flancian]] [[bouncepaw]]
