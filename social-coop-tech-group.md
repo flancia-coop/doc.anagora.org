@@ -15,6 +15,8 @@ Here: [[Calix]] [[flancian]]
 - [[twg roadmap]] updates
     - come back to this at open house
     - [[flancian]]: was interviewed for the [[fediversalist papers]] interview -- touched on some technical proposals
+        - asked to maybe get in contact with other instances having their own TWGs
+        - discussed [[meta federation]], meaning federating moderation actions/blocks/limits/etc. within activitypub proper
 - organizing circle requests / passdowns
     - notes:
         - https://www.loomio.com/d/xMeTqRsg/organizing-circle-meeting-2024-27-february-tuesday-1300utc
