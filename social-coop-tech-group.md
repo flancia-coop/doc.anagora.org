@@ -8,7 +8,7 @@ Here: [[Calix]] [[flancian]]
         - Back in Buenos Aires
         - Inspiring experience in the día de la memoria ([[24 de marzo]]).
         - Waiting on US Visa application.
-- announce open house in loomio? if it hasn't happened yet
+- announce [[open house]] in loomio? if it hasn't happened yet
     - oh right!
 - [[twg roadmap]] updates
 - organizing circle requests / passdowns
