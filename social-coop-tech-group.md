@@ -1,8 +1,11 @@
-## 2024-03-XX
+## 2024-03-25
+
+Here: [[Calix]] [[flancian]]
 
 - this time:
     - announce open house in loomio? if it hasn't happened yet
     - [[twg roadmap]] updates
+- 
      
 ## 2024-02-27
 
