@@ -23,6 +23,7 @@ Here: [[Calix]] [[flancian]]
         - https://www.loomio.com/d/K4ybf7I1/organizing-circle-meeting-2024-12-march-tuesday-1300utc
     - TLDR:
         - some concern about wiki access
+            - they brought up the possibility of setting up a namespace that the organizing cir
         - some asks related to calendar management
         - interest in the open house
 - spam response preparation
