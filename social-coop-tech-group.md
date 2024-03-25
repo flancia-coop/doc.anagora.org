@@ -23,7 +23,10 @@ Here: [[Calix]] [[flancian]]
         - https://www.loomio.com/d/K4ybf7I1/organizing-circle-meeting-2024-12-march-tuesday-1300utc
     - TLDR:
         - some concern about wiki access
-            - they brought up the possibility of setting up a namespace that the organizing cir
+            - they brought up the possibility of setting up a namespace that the organizing circle can write to/access
+                - it seems fair but [[flancian]] and [[calix]] have no personal interest in setting this up
+                - would rather use version history and protect the very few pages that need to be protected
+                - configuring mediawiki ACLs is a bit annoying
         - some asks related to calendar management
         - interest in the open house
 - spam response preparation
