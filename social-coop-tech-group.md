@@ -14,7 +14,7 @@ Here: [[Calix]] [[flancian]]
     - Calix will post in the general loomio space today
 - [[twg roadmap]] updates
     - come back to this at open house
-    - [[fediversa]]
+    - [[flancian]]: was interviewed for the [[fediversalist papers]] interview -- touched on some technical proposals
 - organizing circle requests / passdowns
     - notes:
         - https://www.loomio.com/d/xMeTqRsg/organizing-circle-meeting-2024-27-february-tuesday-1300utc
