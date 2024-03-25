@@ -28,6 +28,8 @@ Here: [[Calix]] [[flancian]]
                 - would rather use version history and protect the very few pages that need to be protected
                 - configuring mediawiki ACLs is a bit annoying
         - some asks related to calendar management
+            - would rather give them the keys to mayfirst admin instead of having to set up stuff for other groups
+            - C: wou
         - interest in the open house
 - spam response preparation
      
