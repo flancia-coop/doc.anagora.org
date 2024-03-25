@@ -31,9 +31,12 @@ Here: [[Calix]] [[flancian]]
             - would rather give them the keys to mayfirst admin instead of having to set up stuff for other groups
             - C: would be nice if mayfirst could find a way to allow SSO to their hosted nextcloud
             - we could set up our own nextcloud on top of our SSO as an alternative, mid-term, but it comes with extra admin overhead (does it?)
-            - Q: is anyone using nextclou
+            - Q: is anyone using nextcloud filestorage?
+                - A: we don't know.
+            - Maybe it's worth signing into the admin console and checking it out.
         - interest in the open house
 - spam response preparation
+    - on hold -- maybe something to add to the roadmap?
      
 ## 2024-02-27
 
