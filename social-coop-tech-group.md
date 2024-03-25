@@ -3,7 +3,7 @@
 Here: [[Calix]] [[flancian]]
 
 - [[check ins]]
-    - [[flancian]] 
+    - [[flancian]] - no more layoffs! agreement signed after 6mo of work. positive reactions.
     - [[Calix]]
 - announce open house in loomio? if it hasn't happened yet
     - oh right!
