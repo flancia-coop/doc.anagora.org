@@ -10,6 +10,7 @@ Here: [[Calix]] [[flancian]]
         - Waiting on US Visa application.
 - announce [[open house]] in loomio? if it hasn't happened yet
     - oh right!
+    - **saturday 13th April, 1600-1800**
 - [[twg roadmap]] updates
 - organizing circle requests / passdowns
     - notes:
