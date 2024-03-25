@@ -11,7 +11,11 @@ Here: [[Calix]] [[flancian]]
 - organizing circle requests / passdowns
     - notes:
         - https://www.loomio.com/d/xMeTqRsg/organizing-circle-meeting-2024-27-february-tuesday-1300utc
-        - 
+        - https://www.loomio.com/d/K4ybf7I1/organizing-circle-meeting-2024-12-march-tuesday-1300utc
+    - TLDR:
+        - some concern about wiki access
+        - some asks related to calendar management
+        - interest in the open house
 - spam response preparation
      
 ## 2024-02-27
