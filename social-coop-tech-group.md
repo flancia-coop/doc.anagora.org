@@ -11,7 +11,8 @@ Here: [[Calix]] [[flancian]]
 - announce [[open house]] in loomio? if it hasn't happened yet
     - oh right!
     - **saturday 13th April, 1600-1800**
-- [[twg roadmap]] updates
+    - Calix will post in the general loomio space today
+- [[twg roadmap]] updatesT
 - organizing circle requests / passdowns
     - notes:
         - https://www.loomio.com/d/xMeTqRsg/organizing-circle-meeting-2024-27-february-tuesday-1300utc
