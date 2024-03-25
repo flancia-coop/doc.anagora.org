@@ -12,7 +12,9 @@ Here: [[Calix]] [[flancian]]
     - oh right!
     - **saturday 13th April, 1600-1800**
     - Calix will post in the general loomio space today
-- [[twg roadmap]] updatesT
+- [[twg roadmap]] updates
+    - come back to this at open house
+    - [[fediversa]]
 - organizing circle requests / passdowns
     - notes:
         - https://www.loomio.com/d/xMeTqRsg/organizing-circle-meeting-2024-27-february-tuesday-1300utc
