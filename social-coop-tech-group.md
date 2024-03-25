@@ -2,10 +2,17 @@
 
 Here: [[Calix]] [[flancian]]
 
-- this time:
-    - announce open house in loomio? if it hasn't happened yet
-    - [[twg roadmap]] updates
-- 
+- [[check ins]]
+    - [[flancian]] 
+    - [[Calix]]
+- announce open house in loomio? if it hasn't happened yet
+    - oh right!
+- [[twg roadmap]] updates
+- organizing circle requests / passdowns
+    - notes:
+        - https://www.loomio.com/d/xMeTqRsg/organizing-circle-meeting-2024-27-february-tuesday-1300utc
+        - 
+- spam response preparation
      
 ## 2024-02-27
 
