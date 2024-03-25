@@ -3,8 +3,11 @@
 Here: [[Calix]] [[flancian]]
 
 - [[check ins]]
-    - [[flancian]] - no more layoffs! agreement signed after 6mo of work. positive reactions.
+    - [[flancian]] - no more layoffs! agreement signed after 6mo of work. positive reactions. happy to return to dayjob 🥳
     - [[Calix]]
+        - Back in Buenos Aires
+        - Inspiring experience in the día de la memoria ([[24 de marzo]]).
+        - Waiting on US Visa application.
 - announce open house in loomio? if it hasn't happened yet
     - oh right!
 - [[twg roadmap]] updates
