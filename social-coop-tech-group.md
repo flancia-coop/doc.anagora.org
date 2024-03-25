@@ -29,7 +29,9 @@ Here: [[Calix]] [[flancian]]
                 - configuring mediawiki ACLs is a bit annoying
         - some asks related to calendar management
             - would rather give them the keys to mayfirst admin instead of having to set up stuff for other groups
-            - C: wou
+            - C: would be nice if mayfirst could find a way to allow SSO to their hosted nextcloud
+            - we could set up our own nextcloud on top of our SSO as an alternative, mid-term, but it comes with extra admin overhead (does it?)
+            - Q: is anyone using nextclou
         - interest in the open house
 - spam response preparation
      
