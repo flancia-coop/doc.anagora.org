@@ -14,7 +14,7 @@ Here: [[Calix]] [[flancian]]
     - Calix will post in the general loomio space today
 - [[twg roadmap]] updates
     - come back to this at open house
-    - [[flancian]]: was interviewed for the [[fediversalist papers]] interview -- touched on some technical proposals
+    - [[flancian]]: was interviewed for the [fediversalist papers](https://write.as/fediversalist-papers/) interview -- touched on some technical proposals
         - asked to maybe get in contact with other instances having their own TWGs
         - discussed [[meta federation]], meaning federating moderation actions/blocks/limits/etc. within activitypub proper
 - organizing circle requests / passdowns
