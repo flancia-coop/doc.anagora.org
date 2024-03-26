@@ -33,8 +33,8 @@ Here: [[Calix]] [[flancian]]
             - we could set up our own nextcloud on top of our SSO as an alternative, mid-term, but it comes with extra admin overhead (does it?)
             - Q: is anyone using nextcloud filestorage?
                 - A: we don't know.
-                - We looked it up, and it's at 15% of our quota (243 MB / 36 GB). 
             - Maybe it's worth signing into the admin console and checking it out.
+            - Update: [[flancian]] looked it up in the Mayfirst admin interface, and it's at 15% of our quota (243 MB / 36 GB). 
         - interest in the open house
 - spam response preparation
     - on hold -- maybe something to add to the roadmap?
