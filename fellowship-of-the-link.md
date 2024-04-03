@@ -44,7 +44,8 @@
     - [[SJ]]:
         - I would like your comments / feedback on two constructive things! 
         - 1: this (shareable) series of 5 short [[one pagers]] on [[open science]]: https://docs.google.com/document/d/155sDqLGqPTEsGB9ZuYY9LNbOHZU8_DqBcc_812rthcE/
-        - 2: 
+        - 2: [[knowledge integrity project]]: https://docs.google.com/document/d/1ixbVNtKnsPpUEwJSKm1kpxGzgm5A0CGiLrxD51lqwoE
+ 
  
  
 
