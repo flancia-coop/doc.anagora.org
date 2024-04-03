@@ -35,6 +35,7 @@
         - Spain
     - Second Trump term would suck as well (in a different way)
         - What's wrong with the democratic party?
+        - https://bra.in/2j9rrx
 
 ## [[2024-03-20]]
 - Attending: [[Peter Kaminski]] [[Flancian]] [[Aram Zucker-Scharff]] 
