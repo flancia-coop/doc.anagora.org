@@ -34,12 +34,13 @@
         - Netherlands
         - Spain
     - Second Trump term would suck as well (in a different way)
-        - What's wrong with the democratic party?
+        - What's wrong with the [[democratic party]]?
         - https://bra.in/2j9rrx
         - https://www.axios.com/2024/04/02/biden-gaza-blank-ballots-new-york-democratic-primary
         - https://en.wikipedia.org/wiki/Ranked-choice_voting_in_the_United_States
         - https://bra.in/4j32Rr
-        - Ezra Klein's take on Biden
+        - [[Ezra Klein]]'s take on [[Biden]]
+        - [[beyond left melancholy]]: https://thebaffler.com/salvos/beyond-left-melancholy-proctor
  
 
 ## [[2024-03-20]]
