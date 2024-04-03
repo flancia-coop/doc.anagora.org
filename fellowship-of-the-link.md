@@ -41,6 +41,11 @@
         - https://bra.in/4j32Rr
         - [[Ezra Klein]]'s take on [[Biden]]
         - [[beyond left melancholy]]: https://thebaffler.com/salvos/beyond-left-melancholy-proctor
+    - [[SJ]]
+        - I would like your comments / feedback on two constrctuive things! 
+SJ says:1: this series of 5 short one pagers 
+https://docs.google.com/document/d/155sDqLGqPTEsGB9ZuYY9LNbOHZU8_DqBcc_812rthcE/
+ 
  
 
 ## [[2024-03-20]]
