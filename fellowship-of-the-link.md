@@ -29,11 +29,12 @@
 - Attending: [[Jerry Michalski]] [[Flancian]] [[Aram Zucker-Scharff]] 
 - [[Check ins]]
     - (Nazis sucked)
-    - Second Trump term would suck as w
     - Emigration alternatives
         - German option
         - Netherlands
         - Spain
+    - Second Trump term would suck as well (in a different way)
+        - What's wrong with the democratic party?
 
 ## [[2024-03-20]]
 - Attending: [[Peter Kaminski]] [[Flancian]] [[Aram Zucker-Scharff]] 
