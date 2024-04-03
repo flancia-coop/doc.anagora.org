@@ -26,7 +26,7 @@
             - [[github]] by default?
             
 ## [[2024-04-03]]
-- Attending: [[Jerry Michalski]] [[Flancian]] [[Aram Zucker-Scharff]] 
+- Attending: [[Jerry Michalski]] [[Flancian]] [[Aram Zucker-Scharff]] [[Peter Kaminski]] [[Michael Grossman]] [[SJ]]
 - [[Check ins]]
     - (Nazis sucked)
     - Emigration alternatives
@@ -41,10 +41,10 @@
         - https://bra.in/4j32Rr
         - [[Ezra Klein]]'s take on [[Biden]]
         - [[beyond left melancholy]]: https://thebaffler.com/salvos/beyond-left-melancholy-proctor
-    - [[SJ]]
-        - I would like your comments / feedback on two constrctuive things! 
-SJ says:1: this series of 5 short one pagers 
-https://docs.google.com/document/d/155sDqLGqPTEsGB9ZuYY9LNbOHZU8_DqBcc_812rthcE/
+    - [[SJ]]:
+        - I would like your comments / feedback on two constructive things! 
+        - 1: this (shareable) series of 5 short [[one pagers]] on [[open science]]: https://docs.google.com/document/d/155sDqLGqPTEsGB9ZuYY9LNbOHZU8_DqBcc_812rthcE/
+        - 2: 
  
  
 
