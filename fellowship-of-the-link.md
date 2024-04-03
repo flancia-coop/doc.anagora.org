@@ -25,6 +25,12 @@
         - [[issue tracker]] / [[project tracker]] URL
             - [[github]] by default?
             
+## [[2024-04-03]]
+- Attending: [[Jerry Michalski]] [[Flancian]] [[Aram Zucker-Scharff]] 
+- [[Check ins]]
+    - (Nazis suck
+    - German option
+
 ## [[2024-03-20]]
 - Attending: [[Peter Kaminski]] [[Flancian]] [[Aram Zucker-Scharff]] 
 - [[Aram]]
