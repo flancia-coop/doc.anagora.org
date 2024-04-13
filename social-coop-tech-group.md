@@ -63,7 +63,7 @@ https://tv.undersco.re/plugins/auth-openid-connect/0.1.1/auth/openid-connect
                 - On the character limit: looking at the codebase, if the only thing we really want is the possibility of increasing the character limit, that seems to be just one file to update.
                 - [[Calix]] we believe it's two files -- but still not a lot of files. The issue is that making customizations to the instance would require us to build our own docker images, which would increase the work that the TWG needs to do (even for an e.g. security update, of which Mastodon has quite a few).
                 - [[Calix]] on the path to move to Hometown: it'd mean holding in the 4.2 branch but we could still update (apply security fixes).
-                - [[Evan Boehs]] the docker arguments makes a lot of sense. One question about that: could we just 'hot patch' the image?
+                - [[Evan Boehs]] the docker arguments makes a lot of sense. One question about that: could we just 'hot patch' the image? Another: glitch soc could be an alternative?
             - [[Billy Smith]] joins
     - BBB access
         - F: comes via mayfirst membership
