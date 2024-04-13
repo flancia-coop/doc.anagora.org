@@ -3,14 +3,24 @@
 Here: [[Calix]] [[flancian]] Melissa (ansate) Jamie
     
 - Intro
+    - BBB vs Jitsi
 - [[Check ins]]
     - [[flancian]]
         - Eduardo from Argentina, now in Switzerland
+        - social.coop since... 2020?
     - Melissa
         - ansate "to have a handle", silly puns 😍
         - joining from the US west coast
+        - appreciation
     - Jamie
+        - joining from the US east coast
+        - figuring out online meeting stuff, jitsi / BBB
+        - interested in the working group / maybe contributing later
     - [[Calix]]
+        - they/them 
+        - worker-owner at [[autonomic]]
+        - lurking in social.coop since 2020, when we launched [[coop cloud]]
+        - calling in from [[buenos aires]] currently
 - This is https://www.loomio.com/d/oPHKpefm/tech-working-group-open-house-saturday-13-april-1600-1800
 - Objectives:
     - To share with the community how the group works and what we're planning on tackling going forward
