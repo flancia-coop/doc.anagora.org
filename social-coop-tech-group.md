@@ -59,7 +59,9 @@ https://tv.undersco.re/plugins/auth-openid-connect/0.1.1/auth/openid-connect
                 - [[calix]] fair but it might be preferable to assume there will be *some* TWG continuity; which is likely to be the case given the number of members.
                 - [[flancian]] true!
             - [[Evan Boehs]] joins! :)
-            
+                - [[Evan Boehs]] there's the issue of Hometown not being updated in the last few months.
+                - On the character limit: looking at the codebase, if the only thing we really want is the possibility of increasing the character limit, that seems to be just one file to update.
+            - [[Billy Smith]] j
     - BBB access
         - F: comes via mayfirst membership
     - Expanding character limits
