@@ -8,8 +8,13 @@ Here: [[Calix]] [[flancian]] your_name_here
     - To listen to the community on feature requests/needs
     - To get to know each other :)
 - Draft agenda (add topics here as top level items, optionally tag them with your name)
-    - [[TWG 2024 roadmap]] (draft): 
-    - 
+    - [[TWG 2024]] roadmap (draft): https://anagora.org/twg+2024
+    - Expanding character limits
+    - Moving to [[Hometown]]
+    - Offering other services beyond Fediverse
+        - [[Matrix]]?
+        - [[Nextcloud]]?
+        - ...
 
 
 
