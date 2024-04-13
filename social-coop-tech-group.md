@@ -22,8 +22,9 @@ Here: [[Calix]], [[flancian]], Melissa (ansate), Jamie, Caitlin
         - lurking in social.coop since 2020, when we launched [[coop cloud]]
         - calling in from [[buenos aires]] currently
     - Evan
+    - Billy
+        - Billy based in London, GMT+1. :facepalm. :D
         - 
-    - B
 - This is https://www.loomio.com/d/oPHKpefm/tech-working-group-open-house-saturday-13-april-1600-1800
 - Objectives:
     - To share with the community how the group works and what we're planning on tackling going forward
