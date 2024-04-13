@@ -35,6 +35,10 @@ Here: [[Calix]] [[flancian]] Melissa (ansate) Jamie
             - [[calix]] IIUC we could have two login paths, although it could prove confusing to users. Possible but maybe worrying?
             - [[jamie]] wonder: can we reuse e.g. federated identity as used in the semantic web? 
                 - [[calix]] e.g. indieauth.net?
+                - https://lescommuns.org/ also uses [[keycloak]]
+                - calix :https://git.coopcloud.tech/user/login?redirect_to=%2f 
+                - calix: specific example of adding other logins to Keycloak: 
+https://tv.undersco.re/plugins/auth-openid-connect/0.1.1/auth/openid-connect
     - BBB access
     - Expanding character limits
     - Moving to [[Hometown]]
