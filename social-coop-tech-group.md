@@ -111,12 +111,16 @@ https://tv.undersco.re/plugins/auth-openid-connect/0.1.1/auth/openid-connect
             - [[flancian]] if we apply a patch, or modify the instance  in any way, the next step would be to set up alpha.social.coop. A good starter task for a new member ;)
        - next steps
            - join the TWG matrix: https://matrix.to/#/#socialcoop-tech:matrix.org
+           - element is a safe default if you don't have a client
 - [[checkouts]]
     - questions:
         - should we do this again?
         - any suggestions on what to do next time?
     - [[jamie]]
-
+        - to clarify: this was an open house that is distinct from the weekly?
+            - yes
+            - really appreciated this format
+    - b: 
 
 ## 2024-03-25
 
