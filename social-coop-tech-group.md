@@ -2,6 +2,12 @@
 
 Here: [[Calix]] [[flancian]] Melissa (ansate) Jamie
     
+- [[]]
+- [[Check ins]]
+    - [[flancian]]
+    - Melissa
+    - Jamie
+    - [[Calix]]
 - This is https://www.loomio.com/d/oPHKpefm/tech-working-group-open-house-saturday-13-april-1600-1800
 - Objectives:
     - To share with the community how the group works and what we're planning on tackling going forward
@@ -15,6 +21,10 @@ Here: [[Calix]] [[flancian]] Melissa (ansate) Jamie
         - [[Matrix]]?
         - [[Nextcloud]]?
         - ...
+    - Questions from members who couldn't attend
+        - [[Evan Boehs]]:
+            - what is the twg’s opinion on the feasibility of patching mastodon to increase the value of StatusLengthValidator::MAX_CHARS 
+            - what is going on with bonfire.social.coop?
 
 
 
