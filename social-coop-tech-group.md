@@ -100,7 +100,8 @@ https://tv.undersco.re/plugins/auth-openid-connect/0.1.1/auth/openid-connect
                 - maybe a pad? etherpad. could generate more collaboration by virtue of being there.
                 - [[matrix]] -- but I agree with Calix's comments.
                     - but we currenty do support mostly through matrix, so it seems making it easier and unproblematic to use matrix is worth it.
-                    - [[billysmith]] ne
+                    - [[billysmith]] never been able to make matrix worth properly :)
+            - [[billysmith]] more specialized in hardware 
     - Questions from members who couldn't attend
         - [[Evan Boehs]]:
             - what is going on with bonfire.social.coop?
