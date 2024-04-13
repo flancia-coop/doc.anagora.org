@@ -23,7 +23,7 @@ Here: [[Calix]], [[flancian]], Melissa (ansate), Jamie, Caitlin
         - calling in from [[buenos aires]] currently
     - Evan
     - Billy
-        - Billy based in London, GMT+1. :facepalm. :D
+        - Billy based in London, GMT+1. :facepalm. :D 
         - 
 - This is https://www.loomio.com/d/oPHKpefm/tech-working-group-open-house-saturday-13-april-1600-1800
 - Objectives:
@@ -81,7 +81,10 @@ https://tv.undersco.re/plugins/auth-openid-connect/0.1.1/auth/openid-connect
         - F: comes via meet.coop membership
         - mayfirst membership
     - Expanding character limits
+        - As per above and Evan's question
+        - next step is to designate a loomio thread to continue the discussion
     - Moving to [[Hometown]]
+        - same as above, plus the glitch alternative
     - Offering other services beyond Fediverse
         - [[Matrix]]?
         - [[Nextcloud]]?
