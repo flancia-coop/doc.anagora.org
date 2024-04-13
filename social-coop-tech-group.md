@@ -1,6 +1,6 @@
 ## 2024-04-13 -- Tech Working Group Open House!
 
-Here: [[Calix]], [[flancian]], Melissa (ansate), Jamie, 
+Here: [[Calix]], [[flancian]], Melissa (ansate), Jamie, Caitlin
     
 - Intro
     - BBB vs Jitsi
@@ -53,7 +53,8 @@ https://tv.undersco.re/plugins/auth-openid-connect/0.1.1/auth/openid-connect
                    - [[flancian]] AI: to talk to the organizing circle about the mapping of user journeys to ways to engage with the coop.
             - In general, given current TWG capacity, our position is: we shouldn't run anything we don't have to run. So loomio/nextcloud: better to get it hosted, like we do currently (either through the main instance of loomio or mayfirst in the case of nextcloud)
             - On ways forward for Mastodon
-                - Ch
+                - Character limits vs moving to hometown
+                - [[calix]] bumping character limits would up the maintenance cost; but the cost of switching to hometown would be high upfront.
     - BBB access
         - F: comes via mayfirst membership
     - Expanding character limits
