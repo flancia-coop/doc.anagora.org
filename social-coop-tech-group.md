@@ -45,12 +45,14 @@ https://tv.undersco.re/plugins/auth-openid-connect/0.1.1/auth/openid-connect
                 - J: love or hate Bluesky, but nice review of ID protocols: https://gitlab.com/bluesky-community1/decentralized-ecosystem/-/blob/master/topics/identity.md
            - On self-hosting loomio with SSO
                - [[calix]] it might actually turn out that self-hosted loomio is harder to use, as some people may log in to loomio for more than one community
+               - F: current default is to not run other services
                - [[jamie]] it might be useful to pin these to [[user journeys]] for members of the community. Would love to join that.
                    - [[flancian]] we can try to keep a map of project:person who is interested and notify when there's activity.
                    - [[flancian]] [[twg]] meetings are on Mondays at 6pm UTC by default every other week, but they can be moved :)
                - F: organising circle, started thinking about this 2 meetings ago.
                    - [[flancian]] AI: to talk to the organizing circle about the mapping of user journeys to ways to engage with the coop.
     - BBB access
+        - F: comes via mayfirst membership
     - Expanding character limits
     - Moving to [[Hometown]]
     - Offering other services beyond Fediverse
