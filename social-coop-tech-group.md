@@ -30,7 +30,10 @@ Here: [[Calix]] [[flancian]] Melissa (ansate) Jamie
     - [[TWG 2024]] roadmap (draft): https://anagora.org/twg+2024
         - [[wiki]]: considered stable, not a lot of work planned on it proper.
         - [[single sign on]]: we have a way forward to move the instance to it... but it would require people resetting their password
-            - [[ansate]]
+            - [[ansate]] would everybody need to reset their password or only people who want to have SSO for other services?
+            - [[flancian]] in principle everyone... but great question, is that true? maybe we could have two login paths, one legacy and one with sso.
+            - [[calix]] IIUC we could have two login paths, although it could prove confusing to users. Possible but maybe worrying?
+            - [[jamie]] wonder: ar
     - BBB access
     - Expanding character limits
     - Moving to [[Hometown]]
