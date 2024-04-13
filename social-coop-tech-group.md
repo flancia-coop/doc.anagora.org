@@ -91,13 +91,16 @@ https://tv.undersco.re/plugins/auth-openid-connect/0.1.1/auth/openid-connect
         - [[round the table]]?
             - [[calix]]: 
                 - can't think of any except nextcloud, and we already get that from mayfirst (as per above discussion).
-                - [[matrix]] seems hard to host. but we could consider a coop host?
+                - [[matrix]] seems hard to host. but we could consider a coop host? https://cooperative.computer 😉😉
             - [[caitlin]]: interested in this but at this point don't know the possibilities.
                 - [[flancian]] thank you, we should survey these and tell the community.
             - [[jamie]] 
                 - authentication service/sso and tools in that space
             - [[flancian]]
-                - maybe a pad? etherpad. could generate more collaboration by 
+                - maybe a pad? etherpad. could generate more collaboration by virtue of being there.
+                - [[matrix]] -- but I agree with Calix's comments.
+                    - but we currenty do support mostly through matrix, so it seems making it easier and unproblematic to use matrix is worth it.
+                    - [[billysmith]] ne
     - Questions from members who couldn't attend
         - [[Evan Boehs]]:
             - what is going on with bonfire.social.coop?
