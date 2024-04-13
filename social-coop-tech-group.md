@@ -28,6 +28,7 @@ Here: [[Calix]] [[flancian]] Melissa (ansate) Jamie
     - To get to know each other :)
 - Draft agenda (add topics here as top level items, optionally tag them with your name)
     - [[TWG 2024]] roadmap (draft): https://anagora.org/twg+2024
+    - BBB access
     - Expanding character limits
     - Moving to [[Hometown]]
     - Offering other services beyond Fediverse
@@ -36,8 +37,8 @@ Here: [[Calix]] [[flancian]] Melissa (ansate) Jamie
         - ...
     - Questions from members who couldn't attend
         - [[Evan Boehs]]:
-            - what is the twg’s opinion on the feasibility of patching mastodon to increase the value of StatusLengthValidator::MAX_CHARS 
             - what is going on with bonfire.social.coop?
+            - what is the twg’s opinion on the feasibility of patching mastodon to increase the value of StatusLengthValidator::MAX_CHARS 
 
 
 
