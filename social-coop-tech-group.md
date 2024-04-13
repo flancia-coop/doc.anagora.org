@@ -40,7 +40,8 @@ Here: [[Calix]] [[flancian]] Melissa (ansate) Jamie
                 - calix: specific example of adding other logins to Keycloak: 
 https://tv.undersco.re/plugins/auth-openid-connect/0.1.1/auth/openid-connect
                 - it seems with [[keycloak]] we could set up some sort of 'manual federation' with other coops, although it would require manual intervention
-                
+                - F: will ask Darius etc. (fediverse service) about identity federation.
+                - F: making a secondary path without a cutoff makes it easier to test
     - BBB access
     - Expanding character limits
     - Moving to [[Hometown]]
