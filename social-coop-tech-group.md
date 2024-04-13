@@ -101,7 +101,8 @@ https://tv.undersco.re/plugins/auth-openid-connect/0.1.1/auth/openid-connect
                 - [[matrix]] -- but I agree with Calix's comments.
                     - but we currenty do support mostly through matrix, so it seems making it easier and unproblematic to use matrix is worth it.
                     - [[billysmith]] never been able to make matrix worth properly :)
-            - [[billysmith]] more specialized in hardware 
+            - [[billysmith]] more specialized in hardware over here -- interested in enabling a space for people with similar interests.
+                - http://resiliencemaps.org/ 😄 
     - Questions from members who couldn't attend
         - [[Evan Boehs]]:
             - what is going on with bonfire.social.coop?
