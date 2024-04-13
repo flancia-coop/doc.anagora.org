@@ -33,7 +33,8 @@ Here: [[Calix]] [[flancian]] Melissa (ansate) Jamie
             - [[ansate]] would everybody need to reset their password or only people who want to have SSO for other services?
             - [[flancian]] in principle everyone... but great question, is that true? maybe we could have two login paths, one legacy and one with sso.
             - [[calix]] IIUC we could have two login paths, although it could prove confusing to users. Possible but maybe worrying?
-            - [[jamie]] wonder: ar
+            - [[jamie]] wonder: can we reuse e.g. federated identity as used in the semantic web? 
+                - [[calix]] e.g. indieauth.net?
     - BBB access
     - Expanding character limits
     - Moving to [[Hometown]]
