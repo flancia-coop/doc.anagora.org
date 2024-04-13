@@ -120,12 +120,13 @@ https://tv.undersco.re/plugins/auth-openid-connect/0.1.1/auth/openid-connect
     - [[jamie]]
         - to clarify: this was an open house that is distinct from the weekly?
             - yes
-                - 
+                - for regular meetings in the coop: https://share.mayfirst.org/apps/calendar/p/KG92DPwX3ww442AD
             - really appreciated this format
     - [[caitlin]] good to see you!
     - [[billysmith]] nice to put faces to the names!
     - [[calix]] really cool that you came
         - interested in doing this again -- I wonder about the frequency
+    - [[flancian]]
     
 
 ## 2024-03-25
