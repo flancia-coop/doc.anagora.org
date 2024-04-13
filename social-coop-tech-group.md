@@ -108,6 +108,7 @@ https://tv.undersco.re/plugins/auth-openid-connect/0.1.1/auth/openid-connect
         - [[Evan Boehs]]:
             - what is going on with bonfire.social.coop?
             - what is the twg’s opinion on the feasibility of patching mastodon to increase the value of StatusLengthValidator::MAX_CHARS 
+            - [[flancian]] if we apply a patch, or modify the instance 
 
 
 
