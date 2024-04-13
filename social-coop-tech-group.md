@@ -112,6 +112,7 @@ https://tv.undersco.re/plugins/auth-openid-connect/0.1.1/auth/openid-connect
        - next steps
            - join the TWG matrix: https://matrix.to/#/#socialcoop-tech:matrix.org
            - element is a safe default if you don't have a client
+           - https://fluffychat.im/ is also recommended
 - [[checkouts]]
     - questions:
         - should we do this again?
@@ -119,8 +120,13 @@ https://tv.undersco.re/plugins/auth-openid-connect/0.1.1/auth/openid-connect
     - [[jamie]]
         - to clarify: this was an open house that is distinct from the weekly?
             - yes
+                - 
             - really appreciated this format
-    - b: 
+    - [[caitlin]] good to see you!
+    - [[billysmith]] nice to put faces to the names!
+    - [[calix]] really cool that you came
+        - interested in doing this again -- I wonder about the frequency
+    
 
 ## 2024-03-25
 
