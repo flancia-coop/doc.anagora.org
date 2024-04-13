@@ -61,7 +61,8 @@ https://tv.undersco.re/plugins/auth-openid-connect/0.1.1/auth/openid-connect
             - [[Evan Boehs]] joins! :)
                 - [[Evan Boehs]] there's the issue of Hometown not being updated in the last few months.
                 - On the character limit: looking at the codebase, if the only thing we really want is the possibility of increasing the character limit, that seems to be just one file to update.
-            - [[Billy Smith]] j
+                - [[Calix]] we believe it's two files -- but still not a lot of files. The issue is that making customizations to the instance would require us to build our own docker images, which would increase the work that the TWG needs to do (even for an e.g. security update, of which Mastodon has quite a few).
+            - [[Billy Smith]] joins
     - BBB access
         - F: comes via mayfirst membership
     - Expanding character limits
