@@ -108,8 +108,14 @@ https://tv.undersco.re/plugins/auth-openid-connect/0.1.1/auth/openid-connect
         - [[Evan Boehs]]:
             - what is going on with bonfire.social.coop?
             - what is the twg’s opinion on the feasibility of patching mastodon to increase the value of StatusLengthValidator::MAX_CHARS 
-            - [[flancian]] if we apply a patch, or modify the instance 
-
+            - [[flancian]] if we apply a patch, or modify the instance  in any way, the next step would be to set up alpha.social.coop. A good starter task for a new member ;)
+       - next steps
+           - join the TWG matrix: https://matrix.to/#/#socialcoop-tech:matrix.org
+- [[checkouts]]
+    - questions:
+        - should we do this again?
+        - any suggestions on what to do next time?
+    - [[jamie]]
 
 
 ## 2024-03-25
