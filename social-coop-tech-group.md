@@ -2,10 +2,13 @@
 
 Here: [[Calix]] [[flancian]] Melissa (ansate) Jamie
     
-- [[]]
+- Intro
 - [[Check ins]]
     - [[flancian]]
+        - Eduardo from Argentina, now in Switzerland
     - Melissa
+        - ansate "to have a handle", silly puns 😍
+        - joining from the US west coast
     - Jamie
     - [[Calix]]
 - This is https://www.loomio.com/d/oPHKpefm/tech-working-group-open-house-saturday-13-april-1600-1800
