@@ -64,6 +64,10 @@ https://tv.undersco.re/plugins/auth-openid-connect/0.1.1/auth/openid-connect
                 - [[Calix]] we believe it's two files -- but still not a lot of files. The issue is that making customizations to the instance would require us to build our own docker images, which would increase the work that the TWG needs to do (even for an e.g. security update, of which Mastodon has quite a few).
                 - [[Calix]] on the path to move to Hometown: it'd mean holding in the 4.2 branch but we could still update (apply security fixes).
                 - [[Evan Boehs]] the docker arguments makes a lot of sense. One question about that: could we just 'hot patch' the image? Another: glitch soc could be an alternative?
+                - [[flancian]]
+                    - proposal: let's use one of the existing threads, or start a new one, to discuss the alternatives we have here for character limits.
+                    - to the two mentioned, let's add trying to get the PR for adjustable limits in Mastodon reactivated :)
+                    - AI: do the above.
             - [[Billy Smith]] joins
     - BBB access
         - F: comes via mayfirst membership
