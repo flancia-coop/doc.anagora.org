@@ -42,6 +42,10 @@ https://tv.undersco.re/plugins/auth-openid-connect/0.1.1/auth/openid-connect
                 - it seems with [[keycloak]] we could set up some sort of 'manual federation' with other coops, although it would require manual intervention
                 - F: will ask Darius etc. (fediverse service) about identity federation.
                 - F: making a secondary path without a cutoff makes it easier to test
+                - J: love or hate Bluesky, but nice review of ID protocols: https://gitlab.com/bluesky-community1/decentralized-ecosystem/-/blob/master/topics/identity.md
+           - On self-hosting loomio with SSO
+               - [[calix]] it might actually turn out that self-hosted loomio is harder to use, as some people may log in to loomio for more than one community
+               - [[jamie]] it might be useful to pin these to []
     - BBB access
     - Expanding character limits
     - Moving to [[Hometown]]
