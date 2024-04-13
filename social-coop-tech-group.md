@@ -21,6 +21,9 @@ Here: [[Calix]], [[flancian]], Melissa (ansate), Jamie, Caitlin
         - worker-owner at [[autonomic]]
         - lurking in social.coop since 2020, when we launched [[coop cloud]]
         - calling in from [[buenos aires]] currently
+    - Evan
+        - 
+    - B
 - This is https://www.loomio.com/d/oPHKpefm/tech-working-group-open-house-saturday-13-april-1600-1800
 - Objectives:
     - To share with the community how the group works and what we're planning on tackling going forward
@@ -70,6 +73,9 @@ https://tv.undersco.re/plugins/auth-openid-connect/0.1.1/auth/openid-connect
                     - AI: do the above.
             - [[Billy Smith]] joins
     - (five minute break!)
+    - [[check ins continue]]
+        - [[caitlin]] joining from vermont! interested in constructive procrastination ;)
+        - [[billysmith]] woke up recently, far away from UTC :)
     - BBB access
         - F: comes via meet.coop membership
         - mayfirst membership
