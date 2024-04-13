@@ -127,6 +127,9 @@ https://tv.undersco.re/plugins/auth-openid-connect/0.1.1/auth/openid-connect
     - [[calix]] really cool that you came
         - interested in doing this again -- I wonder about the frequency
     - [[flancian]]
+        - https://share.mayfirst.org/apps/calendar/p/KG92DPwX3ww442AD
+        - yes, would love to do this ~quarterly by default
+    - [[evan]] it was great!
     
 
 ## 2024-03-25
