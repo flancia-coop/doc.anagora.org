@@ -69,8 +69,10 @@ https://tv.undersco.re/plugins/auth-openid-connect/0.1.1/auth/openid-connect
                     - to the two mentioned, let's add trying to get the PR for adjustable limits in Mastodon reactivated :)
                     - AI: do the above.
             - [[Billy Smith]] joins
+    - (five minute break!)
     - BBB access
-        - F: comes via mayfirst membership
+        - F: comes via meet.coop membership
+        - mayfirst membership
     - Expanding character limits
     - Moving to [[Hometown]]
     - Offering other services beyond Fediverse
