@@ -58,6 +58,8 @@ https://tv.undersco.re/plugins/auth-openid-connect/0.1.1/auth/openid-connect
                 - [[flancian]] +1, unclear what would be better for TWG members of the future if this generation disappears. Maybe moving to hometown and reducing the maintenance cost upgrade-to-upgrade would be preferable. But then again hometown would eventually 'fade away'.
                 - [[calix]] fair but it might be preferable to assume there will be *some* TWG continuity; which is likely to be the case given the number of members.
                 - [[flancian]] true!
+            - [[Evan Boehs]] joins! :)
+            
     - BBB access
         - F: comes via mayfirst membership
     - Expanding character limits
