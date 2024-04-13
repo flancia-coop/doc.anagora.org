@@ -1,7 +1,15 @@
-## 2024-04-13
+## 2024-04-13 -- Tech Working Group Open House!
 
-Here: [[Calix]] [[flancian]] xyour name here>
+Here: [[Calix]] [[flancian]] your_name_here
     
+- This is https://www.loomio.com/d/oPHKpefm/tech-working-group-open-house-saturday-13-april-1600-1800
+- Objectives:
+    - To share with the community how the group works and what we're planning on tackling going forward
+    - To listen to the community on feature requests/needs
+    - To get to know each other :)
+- Draft agenda (add topics here as top level items, optionally tag them with your name)
+    - [[TWG 2024 roadmap]] (draft): 
+    - 
 
 
 
