@@ -1,6 +1,6 @@
 ## 2024-04-13 -- Tech Working Group Open House!
 
-Here: [[Calix]] [[flancian]] your_name_here
+Here: [[Calix]] [[flancian]] Melissa (ansate) Jamie
     
 - This is https://www.loomio.com/d/oPHKpefm/tech-working-group-open-house-saturday-13-april-1600-1800
 - Objectives:
