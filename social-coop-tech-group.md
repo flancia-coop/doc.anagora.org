@@ -28,6 +28,9 @@ Here: [[Calix]] [[flancian]] Melissa (ansate) Jamie
     - To get to know each other :)
 - Draft agenda (add topics here as top level items, optionally tag them with your name)
     - [[TWG 2024]] roadmap (draft): https://anagora.org/twg+2024
+        - [[wiki]]: considered stable, not a lot of work planned on it proper.
+        - [[single sign on]]: we have a way forward to move the instance to it... but it would require people resetting their password
+            - [[ansate]]
     - BBB access
     - Expanding character limits
     - Moving to [[Hometown]]
