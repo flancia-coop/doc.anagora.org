@@ -55,7 +55,9 @@ https://tv.undersco.re/plugins/auth-openid-connect/0.1.1/auth/openid-connect
             - On ways forward for Mastodon
                 - Character limits vs moving to hometown
                 - [[calix]] bumping character limits would up the maintenance cost; but the cost of switching to hometown would be high upfront.
-                - [[flancian]] +1, unclear what would be better for TWG members if 
+                - [[flancian]] +1, unclear what would be better for TWG members of the future if this generation disappears. Maybe moving to hometown and reducing the maintenance cost upgrade-to-upgrade would be preferable. But then again hometown would eventually 'fade away'.
+                - [[calix]] fair but it might be preferable to assume there will be *some* TWG continuity; which is likely to be the case given the number of members.
+                - [[flancian]] true!
     - BBB access
         - F: comes via mayfirst membership
     - Expanding character limits
