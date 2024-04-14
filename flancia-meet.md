@@ -6,8 +6,14 @@
 - [[flancian]] [[bouncepaw]]
 - [[flancia meet landing]] works well
     - [ ] update flancia.org to point to the landing page
-- [[f]]
-- us trip 
+- [[flancia meet]] history
+    - a few years old already
+    - when did it start? first notes inline here seem from 2022-01 but I think it was earlier
+    - a timeline of flancia could be useful?
+- [[united states]] trip 
+- [[lakomka]]
+    - will visit when back in [[Oerlikon]]
+        - Örlikon or Œrlikon?
 
 # [[flancia meet 2024-03-23]]
 - [[flancian]] [[bouncepaw]]
