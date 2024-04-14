@@ -30,7 +30,8 @@
         - “read these two books” and it reads in 30 secs, cool
 - [[Agora]]
     - broken in old safari (2020)
-    -  
+    - Agora activity seems relatively down 
+        - [[flancian]] has been a bit absent due to work + not being home
 
 
 # [[flancia meet 2024-03-23]]
