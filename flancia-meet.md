@@ -16,15 +16,17 @@
     - [[mycorrhiza]] has great packaging coverage!
     - [[wikimatrix]]
 - [[archival]] and [[curation]]
-- [[united states]] trip 
+- [[united states]] trip
+    - previous one was in [[2022]]
 - [[lakomka]]
     - will visit when back in [[Oerlikon]]
         - Örlikon or Œrlikon?
-        - örlikon in Swiss
+        - Örlikon in Swiss
 - [[AI hackathon]]
     - [[Markdown]] as the lingua franca
     - 30 people
     - using [[google gemini]] and 1M tokens window
+        - “read these two books” and it reads in 30 secs, cool
 
 
 # [[flancia meet 2024-03-23]]
