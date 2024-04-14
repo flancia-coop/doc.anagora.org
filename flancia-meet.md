@@ -2,6 +2,10 @@
 - We meet best-effort every Saturday usually around 9 UTC.
 - This is where we have community maintained notes :)
 
+# [[flancia meet 2024-04-14]]
+- [[flancian]] [[bouncepaw]]
+- [[flancia meet landing]] works well
+
 # [[flancia meet 2024-03-23]]
 - [[flancian]] [[bouncepaw]]
 - [[Moscow concert hall attack]] :(
