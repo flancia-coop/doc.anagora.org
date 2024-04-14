@@ -5,7 +5,9 @@
 # [[flancia meet 2024-04-14]]
 - [[flancian]] [[bouncepaw]]
 - [[flancia meet landing]] works well
-- 
+    - [ ] update flancia.org to point to the landing page
+- [[f]]
+- us trip 
 
 # [[flancia meet 2024-03-23]]
 - [[flancian]] [[bouncepaw]]
