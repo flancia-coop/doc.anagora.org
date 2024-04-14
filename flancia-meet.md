@@ -23,6 +23,8 @@
         - örlikon in Swiss
 - [[AI hackathon]]
     - [[Markdown]] as the lingua franca
+    - 30 people
+    - using [[google gemini]] and 1M tokens window
 
 
 # [[flancia meet 2024-03-23]]
