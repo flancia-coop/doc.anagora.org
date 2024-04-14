@@ -12,6 +12,8 @@
     - a timeline of flancia could be useful?
     - january 8 is the first update of node [[flancia meet]] in [[flancian]]'s garden
 - review of open source competition results
+    - [[betula]]
+    - [[mycorrhiza]] has great packaging coverage!
 - [[united states]] trip 
 - [[lakomka]]
     - will visit when back in [[Oerlikon]]
