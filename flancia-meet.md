@@ -24,9 +24,13 @@
         - Örlikon in Swiss
 - [[AI hackathon]]
     - [[Markdown]] as the lingua franca
+        - How to teach mycomarkup to AI?
     - 30 people
     - using [[google gemini]] and 1M tokens window
         - “read these two books” and it reads in 30 secs, cool
+- [[Agora]]
+    - broken in old safari (2020)
+    -  
 
 
 # [[flancia meet 2024-03-23]]
