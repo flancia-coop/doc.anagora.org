@@ -17,6 +17,8 @@
         - Örlikon or Œrlikon?
         - örlikon in Swiss
 - [[AI hackathon]]
+    - [[Markdown]] as the lingua franca
+
 
 # [[flancia meet 2024-03-23]]
 - [[flancian]] [[bouncepaw]]
