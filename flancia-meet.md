@@ -41,6 +41,8 @@
         - would like to see modern art and spend time with friends
     - got a scholarship
         - \o/
+- talking [[cinema]]
+    - new [[dune]] 2 is cool
 
 # [[flancia meet 2024-03-23]]
 - [[flancian]] [[bouncepaw]]
