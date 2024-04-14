@@ -14,6 +14,7 @@
 - review of open source competition results
     - [[betula]]
     - [[mycorrhiza]] has great packaging coverage!
+    - [[wikimatrix]]
 - [[united states]] trip 
 - [[lakomka]]
     - will visit when back in [[Oerlikon]]
