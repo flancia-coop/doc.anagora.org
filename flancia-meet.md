@@ -13,7 +13,8 @@
     - january 8 is the first update of node [[flancia meet]] in [[flancian]]'s garden
 - review of open source competition results
     - [[betula]]
-    - [[mycorrhiza]] has great packaging coverage!
+        - 35th place
+- [[mycorrhiza]] has great packaging coverage!
     - [[wikimatrix]]
 - [[archival]] and [[curation]]
 - [[united states]] trip
