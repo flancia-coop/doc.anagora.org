@@ -15,7 +15,8 @@
 - [[lakomka]]
     - will visit when back in [[Oerlikon]]
         - Örlikon or Œrlikon?
-        - örlikon in 
+        - örlikon in Swiss
+- [[AI hackathon]]
 
 # [[flancia meet 2024-03-23]]
 - [[flancian]] [[bouncepaw]]
