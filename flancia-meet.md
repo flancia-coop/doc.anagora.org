@@ -11,6 +11,7 @@
     - when did it start? first notes inline here seem from 2022-01 but I think it was earlier
     - a timeline of flancia could be useful?
     - january 8 is the first update of node [[flancia meet]] in [[flancian]]'s garden
+- review of open source competition results
 - [[united states]] trip 
 - [[lakomka]]
     - will visit when back in [[Oerlikon]]
