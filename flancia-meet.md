@@ -31,8 +31,13 @@
 - [[Agora]]
     - broken in old safari (2020)
     - Agora activity seems relatively down 
+  
         - [[flancian]] has been a bit absent due to work + not being home
-
+- [[birthdays]]:
+    - [[bouncepaw]]: 9th of April
+- [[bouncepaw]]
+    - going to [[saint-petersburg]] soon
+    - got a scholarship
 
 # [[flancia meet 2024-03-23]]
 - [[flancian]] [[bouncepaw]]
