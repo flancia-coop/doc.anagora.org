@@ -15,6 +15,7 @@
 - [[lakomka]]
     - will visit when back in [[Oerlikon]]
         - Örlikon or Œrlikon?
+        - örlikon in 
 
 # [[flancia meet 2024-03-23]]
 - [[flancian]] [[bouncepaw]]
