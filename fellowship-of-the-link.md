@@ -25,6 +25,9 @@
         - [[issue tracker]] / [[project tracker]] URL
             - [[github]] by default?
             
+## [[2024-05-01]]
+- Attending: [[Jerry Michalski]] [[Flancian]] [[Aram Zucker-Scharff]] [[Peter Kaminski]] [[Michael Grossman]] [[SJ]]
+
 ## [[2024-04-03]]
 - Attending: [[Jerry Michalski]] [[Flancian]] [[Aram Zucker-Scharff]] [[Peter Kaminski]] [[Michael Grossman]] [[SJ]]
 - [[Check ins]]
