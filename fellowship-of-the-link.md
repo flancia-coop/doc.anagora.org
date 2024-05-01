@@ -63,9 +63,9 @@ https://davekarpf.substack.com/p/the-only-thing-university-administrators) by [[
         - [[founders letter]] and [[open letter]] idea
         - two questions ;)
             - do companies have no real encoded principles other than making more money? :( 
+                - maybe the founders were well meaning but they were naive millionaires
             - is this a good idea or a bad one?
- 
- 
+                - https://www.wheresyoured.at/the-men-who-killed-google/
 
 ## [[2024-04-03]]
 - Attending: [[Jerry Michalski]] [[Flancian]] [[Aram Zucker-Scharff]] [[Peter Kaminski]] [[Michael Grossman]] [[SJ]]
