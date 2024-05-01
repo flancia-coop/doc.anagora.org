@@ -38,6 +38,9 @@ https://nypost.com/2024/05/01/us-news/hundreds-of-protesters-arrested-at-columbi
         - #CA This was an interesting take about campus protests recently: [The only thing university administrators had to do was NOTHING.](
 https://davekarpf.substack.com/p/the-only-thing-university-administrators) by [[Dave Karpf]] 
         - #AZS on the issue of double-standards. Some students are disruptive on campus, pretty much always -- but response is sometimes disproportionate.
+        - #F about university autonomy
+            - Same rules than elsewhere, but in this case the administration invited the police in.
+        - https://twitter.com/BFriedmanDC/status/1785683633270829403 https://twitter.com/MattBinder/status/1785682880963780785 https://twitter.com/outlivethemnyc/status/1785508769859875219 
 
 ## [[2024-04-03]]
 - Attending: [[Jerry Michalski]] [[Flancian]] [[Aram Zucker-Scharff]] [[Peter Kaminski]] [[Michael Grossman]] [[SJ]]
