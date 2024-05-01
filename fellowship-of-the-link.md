@@ -71,6 +71,8 @@ https://davekarpf.substack.com/p/the-only-thing-university-administrators) by [[
         - On the issue of bait-and-switch
         - Is capitalism strictly evil or not?
             - Devil's advocate: capitalism is not necessarily toxic, but we have ended up with the cancerous kind
+            - Variants of Capitalism:  https://bra.in/5vmPJj
+ 
 
 ## [[2024-04-03]]
 - Attending: [[Jerry Michalski]] [[Flancian]] [[Aram Zucker-Scharff]] [[Peter Kaminski]] [[Michael Grossman]] [[SJ]]
