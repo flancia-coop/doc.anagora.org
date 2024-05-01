@@ -45,7 +45,10 @@ https://davekarpf.substack.com/p/the-only-thing-university-administrators) by [[
         - https://www.insidehighered.com/news/governance/executive-leadership/2024/04/29/presidents-grapple-how-respond-student-protesters
         - #CA the students are relatively better informed on most of these issues than the average citizen (but they will have to fight prejudices?)
         - #JM what should we do about this?
-        - 
+            - Tolerate protest
+            - Telling people to protest differently is usually not productive
+            - Dis-investment movement will probably not work
+            - Respond with facts -- carry a factsheet, #AZS did this in campus years :)
 
 ## [[2024-04-03]]
 - Attending: [[Jerry Michalski]] [[Flancian]] [[Aram Zucker-Scharff]] [[Peter Kaminski]] [[Michael Grossman]] [[SJ]]
