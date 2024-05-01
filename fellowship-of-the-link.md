@@ -66,6 +66,8 @@ https://davekarpf.substack.com/p/the-only-thing-university-administrators) by [[
                 - maybe the founders were well meaning but they were naive millionaires
             - is this a good idea or a bad one?
                 - https://www.wheresyoured.at/the-men-who-killed-google/
+    - Jerry: will [[generative AI]] survive capitalism?
+        - Peter: and vice-versa :)
 
 ## [[2024-04-03]]
 - Attending: [[Jerry Michalski]] [[Flancian]] [[Aram Zucker-Scharff]] [[Peter Kaminski]] [[Michael Grossman]] [[SJ]]
