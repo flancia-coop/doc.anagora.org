@@ -52,6 +52,7 @@ https://davekarpf.substack.com/p/the-only-thing-university-administrators) by [[
         - #F naive position / on campus as safe debate spaces ideally
         - #AZS Collection of campus protest links:  https://aramzs.xyz/topic/academia/
         - Israel vs Palestine as one of the hardest issues to debate due to the difficulty of reaching 'ground truth'.
+        - On deescalation not being a function that the police force *has* historically, even though it was the right function here.
  
 
 ## [[2024-04-03]]
