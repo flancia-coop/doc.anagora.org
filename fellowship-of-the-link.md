@@ -26,7 +26,12 @@
             - [[github]] by default?
             
 ## [[2024-05-01]]
-- Attending: [[Jerry Michalski]] [[Flancian]] [[Aram Zucker-Scharff]] [[Peter Kaminski]] [[Michael Grossman]] [[SJ]]
+- Attending: [[Jerry Michalski]] [[Aram Zucker-Scharff]] [[Peter Kaminski]] [[Chris Aldrich]] [[Flancian]]
+- [[Check ins]]
+    - [[Chris Aldrich]] -- just back from constructive protests :)
+        - On polarization vs support of 'sides'
+        - This was an interesting take about campus protests recently: [The only thing university administrators had to do was NOTHING.](
+https://davekarpf.substack.com/p/the-only-thing-university-administrators) by [[Dave Karpf]] 
 
 ## [[2024-04-03]]
 - Attending: [[Jerry Michalski]] [[Flancian]] [[Aram Zucker-Scharff]] [[Peter Kaminski]] [[Michael Grossman]] [[SJ]]
