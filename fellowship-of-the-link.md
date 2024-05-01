@@ -69,6 +69,8 @@ https://davekarpf.substack.com/p/the-only-thing-university-administrators) by [[
     - Jerry: will [[generative AI]] survive capitalism?
         - Peter: and vice-versa :)
         - On the issue of bait-and-switch
+        - Is capitalism strictly evil or not?
+            - Devil's advocate: capitalism is not necessarily toxic, but we have ended up with the cancerous kind
 
 ## [[2024-04-03]]
 - Attending: [[Jerry Michalski]] [[Flancian]] [[Aram Zucker-Scharff]] [[Peter Kaminski]] [[Michael Grossman]] [[SJ]]
