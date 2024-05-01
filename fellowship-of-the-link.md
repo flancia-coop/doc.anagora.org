@@ -29,8 +29,11 @@
 - Attending: [[Jerry Michalski]] [[Aram Zucker-Scharff]] [[Peter Kaminski]] [[Chris Aldrich]] [[Flancian]]
 - [[Check ins]]
     - [[Chris Aldrich]] -- just back from constructive protests :)
-        - On polarization vs support of 'sides'
-        - This was an interesting take about campus protests recently: [The only thing university administrators had to do was NOTHING.](
+        - #JM On polarization vs support of 'sides'
+            - #PK And proponents of a cause vs destabilizers
+            - #PK "'Outside agitators' descended on Columbia campus to radicalize students: Eric Adams"
+https://nypost.com/2024/05/01/us-news/hundreds-of-protesters-arrested-at-columbia-as-anti-israel-group-calls-for-support/
+        - #CA This was an interesting take about campus protests recently: [The only thing university administrators had to do was NOTHING.](
 https://davekarpf.substack.com/p/the-only-thing-university-administrators) by [[Dave Karpf]] 
 
 ## [[2024-04-03]]
