@@ -26,13 +26,15 @@
             - [[github]] by default?
             
 ## [[2024-05-01]]
-- Attending: [[Jerry Michalski]] [[Aram Zucker-Scharff]] [[Peter Kaminski]] [[Chris Aldrich]] [[Flancian]]
+- Attending: [[Jerry Michalski]] [[Aram Zucker-Scharff]] [[Peter Kaminski]] [[Chris Aldrich]] [[Flancian]] [[Aram Zucker-Scharff]]
 - [[Check ins]]
     - [[Chris Aldrich]] -- just back from constructive protests :)
         - #JM On polarization vs support of 'sides'
             - #PK And proponents of a cause vs destabilizers
             - #PK "'Outside agitators' descended on Columbia campus to radicalize students: Eric Adams"
 https://nypost.com/2024/05/01/us-news/hundreds-of-protesters-arrested-at-columbia-as-anti-israel-group-calls-for-support/
+            - #AZS The NYPD said they couldn't find any actual non-students 
+            - #AZS NYPD walked back some earlier statements
         - #CA This was an interesting take about campus protests recently: [The only thing university administrators had to do was NOTHING.](
 https://davekarpf.substack.com/p/the-only-thing-university-administrators) by [[Dave Karpf]] 
 
