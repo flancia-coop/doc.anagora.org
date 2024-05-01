@@ -57,6 +57,10 @@ https://davekarpf.substack.com/p/the-only-thing-university-administrators) by [[
         - #JM https://dangerousspeech.org/ https://en.wikipedia.org/wiki/Susan_Benesch
         - #CA [[schrodinger’s douchebag]]:  One who makes douchebag statements, particularly sexist, racist or otherwise bigoted ones, then decides whether they were “just joking” or dead serious based on whether other people in the group approve or not. (via  https://www.urbandictionary.com/define.php?term=schrodinger%E2%80%99s%20douchebag
 ) 
+- Check ins
+    - Flancian: what did I miss in the last few sessions? :)
+        - New potential member!
+        - 
  
  
 
