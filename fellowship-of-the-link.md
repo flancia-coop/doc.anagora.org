@@ -74,6 +74,22 @@ https://davekarpf.substack.com/p/the-only-thing-university-administrators) by [[
             - Variants of Capitalism:  https://bra.in/5vmPJj
         - #PK you need to 'hack culture' to codify the values that would actually counteract the constant pressure to make money
         - #AZS on what levers can realistically effect change in a large corporation
+        - #PK frame it as a cautionary tale: don't let what happened to Google happen to your company
+        - On open source: 
+Aram Zucker-Scharff says:
+https://www.computerworld.com/article/2074112/software-vendors-dump-open-source-go-for-the-cash-grab.html
+ 
+Aram Zucker-Scharff says:
+https://www.technologyreview.com/2023/08/17/1077498/future-open-source/
+ 
+Aram Zucker-Scharff says:
+https://thenewstack.io/open-source-needs-maintainers-but-how-can-they-get-paid/
+ 
+Aram Zucker-Scharff says:Hmmmm, Google not doing great with that 
+Aram Zucker-Scharff says:
+https://www.theguardian.com/technology/2024/apr/27/google-project-nimbus-israel
+
+ 
  
 
 ## [[2024-04-03]]
