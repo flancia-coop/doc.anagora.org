@@ -55,6 +55,8 @@ https://davekarpf.substack.com/p/the-only-thing-university-administrators) by [[
         - On deescalation not being a function that the police force *has* historically, even though it was the right function here.
         - On the boundaries between hate speech and free speech
         - #JM https://dangerousspeech.org/ https://en.wikipedia.org/wiki/Susan_Benesch
+        - #CA [[schrodinger’s douchebag]]:  One who makes douchebag statements, particularly sexist, racist or otherwise bigoted ones, then decides whether they were “just joking” or dead serious based on whether other people in the group approve or not. (via  https://www.urbandictionary.com/define.php?term=schrodinger%E2%80%99s%20douchebag
+) 
  
  
 
