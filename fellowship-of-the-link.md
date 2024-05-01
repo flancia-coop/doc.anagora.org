@@ -43,6 +43,7 @@ https://davekarpf.substack.com/p/the-only-thing-university-administrators) by [[
         - #AZS https://twitter.com/BFriedmanDC/status/1785683633270829403 https://twitter.com/MattBinder/status/1785682880963780785 https://twitter.com/outlivethemnyc/status/1785508769859875219 
         - This vs 1968
         - https://www.insidehighered.com/news/governance/executive-leadership/2024/04/29/presidents-grapple-how-respond-student-protesters
+        - #CA t
 
 ## [[2024-04-03]]
 - Attending: [[Jerry Michalski]] [[Flancian]] [[Aram Zucker-Scharff]] [[Peter Kaminski]] [[Michael Grossman]] [[SJ]]
