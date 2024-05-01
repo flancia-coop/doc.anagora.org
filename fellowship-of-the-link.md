@@ -60,7 +60,7 @@ https://davekarpf.substack.com/p/the-only-thing-university-administrators) by [[
 - Check ins
     - Flancian: what did I miss in the last few sessions? :)
         - New potential member!
-        - 
+        - [[founders letter]] and [[open letters]]
  
  
 
