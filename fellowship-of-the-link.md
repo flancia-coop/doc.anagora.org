@@ -72,6 +72,8 @@ https://davekarpf.substack.com/p/the-only-thing-university-administrators) by [[
         - Is capitalism strictly evil or not?
             - Devil's advocate: capitalism is not necessarily toxic, but we have ended up with the cancerous kind
             - Variants of Capitalism:  https://bra.in/5vmPJj
+        - #PK you need to 'hack culture' to codify the values that would actually counteract the constant pressure to make money
+        - #AZS on what levers can realistically effect change in a large corporation
  
 
 ## [[2024-04-03]]
