@@ -68,6 +68,7 @@ https://davekarpf.substack.com/p/the-only-thing-university-administrators) by [[
                 - https://www.wheresyoured.at/the-men-who-killed-google/
     - Jerry: will [[generative AI]] survive capitalism?
         - Peter: and vice-versa :)
+        - On the issue of bait-and-switch
 
 ## [[2024-04-03]]
 - Attending: [[Jerry Michalski]] [[Flancian]] [[Aram Zucker-Scharff]] [[Peter Kaminski]] [[Michael Grossman]] [[SJ]]
