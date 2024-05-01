@@ -53,6 +53,9 @@ https://davekarpf.substack.com/p/the-only-thing-university-administrators) by [[
         - #AZS Collection of campus protest links:  https://aramzs.xyz/topic/academia/
         - Israel vs Palestine as one of the hardest issues to debate due to the difficulty of reaching 'ground truth'.
         - On deescalation not being a function that the police force *has* historically, even though it was the right function here.
+        - On the boundaries between hate speech and free speech
+        - #JM https://dangerousspeech.org/ https://en.wikipedia.org/wiki/Susan_Benesch
+ 
  
 
 ## [[2024-04-03]]
