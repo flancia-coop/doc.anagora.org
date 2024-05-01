@@ -49,9 +49,9 @@ https://davekarpf.substack.com/p/the-only-thing-university-administrators) by [[
             - Telling people to protest differently is usually not productive
             - Dis-investment movement will probably not work
             - Respond with facts -- carry a factsheet, #AZS did this in campus years :)
-            - #F naive position / on campus as safe debate spaces ideally
         - #F naive position / on campus as safe debate spaces ideally
         - #AZS Collection of campus protest links:  https://aramzs.xyz/topic/academia/
+        - Israel vs Palestine as one of the hardest issues to debate due to the difficulty of reaching 'ground truth'.
  
 
 ## [[2024-04-03]]
