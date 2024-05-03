@@ -6,7 +6,8 @@
 
 ### episode 1
 
-- [[International ]]
+- [[International Workers' Day]] -- [[flancian]]
+- [[Digital capitalism]] -- [[neil]]
 
 ## season 3
 
@@ -94,6 +95,6 @@
 - [[agroecology]] (this led to [[i like agroecology]]) -- [[neil]]
 - [[objects conceive other objects in capitalism]] -- [[Jayu]]
 
-## season 1
+## previously on node club
 
 - [[node club season 1]]
