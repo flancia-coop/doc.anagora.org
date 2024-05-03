@@ -2,6 +2,12 @@
 ### Under each week add some nodes you think other people will be interested in. We can study them together.
 #### join us on matrix #anagora:matrix.org
 
+## season 4
+
+### episode 1
+
+- [[International ]]
+
 ## season 3
 
 ### episode 6 (30th October - 6th November)
