@@ -26,7 +26,8 @@ Here: [[flancian]], [[dphiffer]], [[evan boehs]]?
         - [[dphiffer]] is 1000 the right number?
             - [[evan]] has seen instances with a billion :)
             - never gotten why mastodon doesn't want to produce long posts by default even though they have to manage them
-            - [[dphi]]
+            - [[evan]] https://gist.github.com/shleeable/101b131653c0ff0e21a81bf99a31c7f0 shows the max char distribution
+                - [[flancian]] 5000 seems better maybe?
 - Accessibility day recap
     - https://stefanbohacek.com/blog/fediverse-world-sight-day-global-accessibility-awareness-day/ is the known proposal
         - discussion about the proposal
