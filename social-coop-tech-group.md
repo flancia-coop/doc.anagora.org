@@ -40,6 +40,15 @@ Here: [[flancian]], [[dphiffer]], [[evan boehs]]?
     - Pros and cons of breaking this feature for this campaign; S3 complications likely.
         - We need alpha.social.coop first to test anything like this
     - Also, Alternatives
+- alpha.social.coop
+    - one server: hypha.social.coop
+    - two ways:
+        - fork ansible recipe or otherwise just deploy the mastodon role to hypha
+            - downside: potentially trickier/dangerous if we mess up anything in the fork
+        - use [[coop cloud]] to deploy the mastodon recipe in hypha
+            - requires abra install
+    - both require server access
+        - 
 
 ## 2024-04-13 -- Tech Working Group Open House!
 
