@@ -51,7 +51,7 @@ Here: [[flancian]], [[dphiffer]], [[evan boehs]]?
             - requires abra install
     - both require server access
         - hypha: can give server access earlier/more informally
-            - first step here would be to get git.coop access, which can take place before the ritual signing-of-the-keys and the full proposal below
+            - -> first step here would be to get git.coop access, which can take place before the ritual signing-of-the-keys and the full proposal below
         - rhizome/full access; requires a vote to add members to the working group and showing up to the weekly meetings for a while 
             - [[flancian]] will find a past proposal so you can see the model/reuse
 
