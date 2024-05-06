@@ -21,6 +21,9 @@ Here: [[flancian]], [[dphiffer]], [[evan boehs]]?
         - can be removed/simplified once Mastodon supports the backend setting
         - do we want to support patching for arbitrary features?
             - maybe, but moving to [[glitch soc]] or [[hometown]] is overkill and has downsides 
+            - [[flancian]] would like social.coop to contribute to shipping features all the way to mastodon upstream -- at least as options?
+        - [[dphiffer]] is 1000 the right number?
+            - [[evan]] has seen instances with a billion :)
 
 - Accessibility day recap
     - https://stefanbohacek.com/blog/fediverse-world-sight-day-global-accessibility-awareness-day/ is the known proposal
