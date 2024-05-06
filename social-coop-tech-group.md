@@ -19,6 +19,8 @@ Here: [[flancian]], [[dphiffer]], [[evan boehs]]?
             - running a poll in the thread for the character limit would be the next step
         - is it technically feasible? (yes)
         - can be removed/simplified once Mastodon supports the backend setting
+        - do we want to support patching for arbitrary features?
+            - maybe, but moving to [[glitch soc]] or [[hometown]] is overkill and has downsides 
 
 - Accessibility day recap
     - https://stefanbohacek.com/blog/fediverse-world-sight-day-global-accessibility-awareness-day/ is the known proposal
