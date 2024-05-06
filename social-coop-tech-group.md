@@ -29,7 +29,10 @@ Here: [[flancian]], [[dphiffer]], [[evan boehs]]?
 - Accessibility day recap
     - https://stefanbohacek.com/blog/fediverse-world-sight-day-global-accessibility-awareness-day/ is the known proposal
         - discussion about the proposal
-            - [[evan]] "none in its current form"
+            - [[evan]] "none in its current form".
+            - alternate proposals:
+                - replace images with their actual alt text instead, more representative
+                - host/offer bounty on accessibility features for mastodon as a coop
     - It seems more likely we can get community + tech stack agreemend with such an effort by October (the second day proposed)
     - Pros and cons of breaking this feature for this campaign; S3 complications likely.
     - Also, Alternatives
