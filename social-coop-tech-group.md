@@ -31,8 +31,10 @@ Here: [[flancian]], [[dphiffer]], [[evan boehs]]?
         - discussion about the proposal
             - [[evan]] "none in its current form".
             - alternate proposals:
-                - replace images with their actual alt text instead, more representative
+                - [[evan]] replace images with their actual alt text instead, more representative
                 - host/offer bounty on accessibility features for mastodon as a coop
+                - [[dphiffer]] inject UI code instead of messing the backend
+                - file a proposa, any proposal, to the mastodon project -- e.g. 'disable images' as a setting, or disable posting images without al
     - It seems more likely we can get community + tech stack agreemend with such an effort by October (the second day proposed)
     - Pros and cons of breaking this feature for this campaign; S3 complications likely.
     - Also, Alternatives
