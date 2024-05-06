@@ -8,11 +8,17 @@ Here: [[flancian]], [[dphiffer]], [[evan boehs]]?
 - Check ins
     - Dan: doing good, although got reported for some toots! some infosec discussion about e2e encryption and metadata.
         - Flancian: interested
+        - https://social.coop/@dphiffer/112382733287207301
     - Evan: spent the last week playing with [[docker]] containers :) 
     - Flancian: work, biking and trying to get from planning to doing
 - Patching mastodon (for now mainly for the character limit)
     - Evan is proposing having a modified entrypoint script that hot-patches the character limit in two files and recompiles js
     - e.g. `/bin/sh -c "ls && sed -i -e 's/500/1000/g' app/javascript/mastodon/features/compose/components/compose_form.jsx && sed -i -e 's/500/1000/g' app/validators/status_length_validator.rb && RAILS_ENV=production rails assets:precompile && /start.sh".`
+    - questions:
+        - does the community want this? (let's see)
+            - running a poll in the thread for the character limit would be the next step
+        - is it technically feasible? (yes)
+        - can be removed/simplified once Mastodon supports the backend setting
 
 - Accessibility day recap
     - https://stefanbohacek.com/blog/fediverse-world-sight-day-global-accessibility-awareness-day/ is the known proposal
