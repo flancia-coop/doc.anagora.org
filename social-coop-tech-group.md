@@ -48,7 +48,9 @@ Here: [[flancian]], [[dphiffer]], [[evan boehs]]?
         - use [[coop cloud]] to deploy the mastodon recipe in hypha
             - requires abra install
     - both require server access
-        - 
+        - hypha: can give server access earlier/more informally
+        - rhizome/full access; requires a vote to add members to the working group and showing up to the weekly meetings for a while 
+            - [[flancian]] will find a past proposal so you can see the model/reuse
 
 ## 2024-04-13 -- Tech Working Group Open House!
 
