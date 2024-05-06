@@ -3,7 +3,10 @@
 Here: [[flancian]], [[dphiffer]], [[evan boehs]]?
 
 - Introductions
+    - Welcome Evan!
+    - Dan in his nth, probably 2-3rd meeting
 - Check ins
+    - Dan: doing good, although got reported for some toots! some infosec discussion about e2e encryption
 - Accessibility day recap
     - https://stefanbohacek.com/blog/fediverse-world-sight-day-global-accessibility-awareness-day/ is the known proposal
     - It seems more likely we can get community + tech stack agreemend with such an effort by October (the second day proposed)
