@@ -24,6 +24,7 @@ Here: [[flancian]], [[dphiffer]], [[evan boehs]]?
             - [[flancian]] would like social.coop to contribute to shipping features all the way to mastodon upstream -- at least as options?
         - [[dphiffer]] is 1000 the right number?
             - [[evan]] has seen instances with a billion :)
+            - never gotten why mastodon doesn't want to produce long posts by default even though they have to manage them
 
 - Accessibility day recap
     - https://stefanbohacek.com/blog/fediverse-world-sight-day-global-accessibility-awareness-day/ is the known proposal
