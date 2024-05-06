@@ -1,6 +1,14 @@
 ## 2024-05-07 -- Long time no see! (at least with notes?) :)
 
-Here: [[flancian]], [[dphiffer]]
+Here: [[flancian]], [[dphiffer]], [[evan boehs]]?
+
+- Introductions
+- Check ins
+- Accessibility day recap
+    - https://stefanbohacek.com/blog/fediverse-world-sight-day-global-accessibility-awareness-day/ is the known proposal
+    - It seems more likely we can get community + tech stack agreemend with such an effort by October (the second day proposed)
+    - Pros and cons of breaking this feature for this campaign
+- Patching mastodon (for now mainly for the character limit)
 
 ## 2024-04-13 -- Tech Working Group Open House!
 
