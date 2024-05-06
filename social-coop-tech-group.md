@@ -35,8 +35,10 @@ Here: [[flancian]], [[dphiffer]], [[evan boehs]]?
                 - host/offer bounty on accessibility features for mastodon as a coop
                 - [[dphiffer]] inject UI code instead of messing the backend
                 - file a proposal, any proposal, to the mastodon project -- e.g. 'disable images' as a setting, or disable posting images without alt text? or prompt users to do it in every case.
+                - TLDR: may 16 is too soon to ship any of this, or even test the proposed breakage safely currently -- but we could "commit" to doing *something* for the October date
     - It seems more likely we can get community + tech stack agreemend with such an effort by October (the second day proposed)
     - Pros and cons of breaking this feature for this campaign; S3 complications likely.
+        - We need alpha.social.coop first to test anything like this
     - Also, Alternatives
 
 ## 2024-04-13 -- Tech Working Group Open House!
