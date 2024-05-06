@@ -17,6 +17,7 @@ Here: [[flancian]], [[dphiffer]], [[evan boehs]]?
     - questions:
         - does the community want this? (let's see)
             - running a poll in the thread for the character limit would be the next step
+            - [[evan]] will start one
         - is it technically feasible? (yes)
         - can be removed/simplified once Mastodon supports the backend setting
         - do we want to support patching for arbitrary features?
@@ -25,9 +26,10 @@ Here: [[flancian]], [[dphiffer]], [[evan boehs]]?
         - [[dphiffer]] is 1000 the right number?
             - [[evan]] has seen instances with a billion :)
             - never gotten why mastodon doesn't want to produce long posts by default even though they have to manage them
-
 - Accessibility day recap
     - https://stefanbohacek.com/blog/fediverse-world-sight-day-global-accessibility-awareness-day/ is the known proposal
+        - discussion about the proposal
+            - [[evan]] "none in its current form"
     - It seems more likely we can get community + tech stack agreemend with such an effort by October (the second day proposed)
     - Pros and cons of breaking this feature for this campaign; S3 complications likely.
     - Also, Alternatives
