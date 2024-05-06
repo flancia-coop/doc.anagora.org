@@ -1,3 +1,7 @@
+## 2024-05-07 -- Long time no see! (at least with notes?) :)
+
+Here: [[flancian]], [[dphiffer]]
+
 ## 2024-04-13 -- Tech Working Group Open House!
 
 Here: [[Calix]], [[flancian]], Melissa (ansate), Jamie, Caitlin
