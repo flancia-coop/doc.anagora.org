@@ -19,6 +19,8 @@
     - On writing to our [[Max Brods]]
         - As an open letter? Or maybe even a traditional one
 - [[Saint-Petersburg]]
+    - [[cathedrals]]
+    - played [[go]]
 
 # [[flancia meet 2024-04-14]]
 - [[flancian]] [[bouncepaw]]
