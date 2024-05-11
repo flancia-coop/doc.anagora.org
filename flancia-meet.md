@@ -25,6 +25,10 @@
     - books books
     - tasty food
     - met [[grishka]] and [[danila]] and other people
+    - cool city!!
+- About [[immortality]]
+    - Different takes, different paths
+    - On preserving the body vs trascending it
 
 # [[flancia meet 2024-04-14]]
 - [[flancian]] [[bouncepaw]]
