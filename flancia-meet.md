@@ -35,7 +35,7 @@
     - some buddhist ones are atheist probably ;) and there's probably many atheists in monasteries of all kinds
 - [[haiku]]
     - [[teoria tanketki]]
-    - https://poets.org/glossary/tanka
+    - -> [[tanka]] ~ https://poets.org/glossary/tanka
     
 
 # [[flancia meet 2024-04-14]]
