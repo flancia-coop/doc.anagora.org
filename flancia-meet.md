@@ -4,8 +4,11 @@
 
 # [[flancia meet 2024-05-11]]
 - [[flancian]] [[bouncepaw]]
-- the secret [[zine]]
-    - no digita l
+- git.agor.ai is down
+    - bouncepaw is not really surprised
+- The secret [[zine]] coming this summer
+    - No digital version shall be released.
+    - I'm not deleting _old_ stuff, I'm _curating_.
 
 # [[flancia meet 2024-04-14]]
 - [[flancian]] [[bouncepaw]]
