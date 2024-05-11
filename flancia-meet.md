@@ -21,6 +21,7 @@
 - [[Saint-Petersburg]]
     - [[cathedrals]]
     - played [[go]]
+    - architecture looks sometimes very much like [[paris]] (hausmann)
 
 # [[flancia meet 2024-04-14]]
 - [[flancian]] [[bouncepaw]]
