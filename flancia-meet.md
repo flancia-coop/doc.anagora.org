@@ -21,7 +21,10 @@
 - [[Saint-Petersburg]]
     - [[cathedrals]]
     - played [[go]]
-    - architecture looks sometimes very much like [[paris]] (hausmann)
+    - architecture looks sometimes very much like [[paris]] (hausmann style)
+    - books books
+    - tasty food
+    - [[grishka]]
 
 # [[flancia meet 2024-04-14]]
 - [[flancian]] [[bouncepaw]]
