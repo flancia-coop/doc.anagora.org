@@ -29,6 +29,10 @@
 - About [[immortality]]
     - Different takes, different paths
     - On preserving the body vs trascending it
+- [[time]], [[monasteries]]
+    - could we have an [[atheist monastery]]?
+    - totally -- a humanist one?
+    - some buddhist ones are atheist probably ;) and 
 
 # [[flancia meet 2024-04-14]]
 - [[flancian]] [[bouncepaw]]
