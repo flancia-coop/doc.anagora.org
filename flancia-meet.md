@@ -34,6 +34,7 @@
     - totally -- a humanist one?
     - some buddhist ones are atheist probably ;) and there's probably many atheists in monasteries of all kinds
 - [[haiku]]
+    - [[tanketki]]
 
 # [[flancia meet 2024-04-14]]
 - [[flancian]] [[bouncepaw]]
