@@ -9,7 +9,7 @@
     - flancian isn't either :)
 - The secret [[zine]] coming this summer
     - Shall be published under a pseudonym.
-        - I'm not telling the pseu
+        - I'm not telling the pseudonym though teehee.
     - No digital version shall be released.
         - The humanity shall distribute it hand-to-hand :-)
     - I'm not deleting _old_ stuff, I'm _curating_.
