@@ -10,9 +10,11 @@
 - The secret [[zine]] coming this summer
     - Shall be published under a pseudonym.
         - I'm not telling the pseudonym though teehee.
+        - 
     - No digital version shall be released.
         - The humanity shall distribute it hand-to-hand :-)
     - I'm not deleting _old_ stuff, I'm _curating_.
+        - Makes sense, different styles is good
 
 # [[flancia meet 2024-04-14]]
 - [[flancian]] [[bouncepaw]]
