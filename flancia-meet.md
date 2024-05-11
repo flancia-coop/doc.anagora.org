@@ -24,7 +24,7 @@
     - architecture looks sometimes very much like [[paris]] (hausmann style)
     - books books
     - tasty food
-    - [[grishka]]
+    - met [[grishka]] and [[danila]] and other people
 
 # [[flancia meet 2024-04-14]]
 - [[flancian]] [[bouncepaw]]
