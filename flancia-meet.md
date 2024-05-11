@@ -10,11 +10,16 @@
 - The secret [[zine]] coming this summer
     - Shall be published under a pseudonym.
         - I'm not telling the pseudonym though teehee.
-        - 
+        - Ishmael Zhelezny (Iron)
+            - Hello adventureous history digger! This is for you. <3
+        - What about long term?
+            - Ideally there would be subtle cues
     - No digital version shall be released.
         - The humanity shall distribute it hand-to-hand :-)
     - I'm not deleting _old_ stuff, I'm _curating_.
         - Makes sense, different styles is good
+    - On writing to our [[Max Brods]]
+        - As an open letter? Or maybe even a traditional 
 
 # [[flancia meet 2024-04-14]]
 - [[flancian]] [[bouncepaw]]
