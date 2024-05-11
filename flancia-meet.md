@@ -32,7 +32,8 @@
 - [[time]], [[monasteries]]
     - could we have an [[atheist monastery]]?
     - totally -- a humanist one?
-    - some buddhist ones are atheist probably ;) and 
+    - some buddhist ones are atheist probably ;) and there's probably many atheists in monasteries of all kinds
+- [[haiku]]
 
 # [[flancia meet 2024-04-14]]
 - [[flancian]] [[bouncepaw]]
