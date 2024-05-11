@@ -8,10 +8,11 @@
     - bouncepaw is not really surprised
     - flancian isn't either :)
 - The secret [[zine]] coming this summer
+    - Shall be published under a pseudonym.
+        - I'm not telling the pseu
     - No digital version shall be released.
         - The humanity shall distribute it hand-to-hand :-)
     - I'm not deleting _old_ stuff, I'm _curating_.
-       
 
 # [[flancia meet 2024-04-14]]
 - [[flancian]] [[bouncepaw]]
