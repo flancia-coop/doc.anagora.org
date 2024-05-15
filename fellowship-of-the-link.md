@@ -74,6 +74,9 @@
     - Organize classes in digital knowledge tools
     - Take all our notes and artifacts and feed them to an LLM
     - Run a semilink (seminar) series
+        - One link 15m session - 3m, about link, 5m about discussion, then a wrapup. Embed the link in the full history of its context. 
+- Let's come back next week with ideas in any form you want and present
+    - We'll call it [[semilink]] as per Samuel's 
  
 
 ## [[2024-05-01]]
