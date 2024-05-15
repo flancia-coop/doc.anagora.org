@@ -38,8 +38,7 @@
     - [[Palo Alto]] by [[Malcolm Harris]]: https://www.hachettebookgroup.com/titles/malcolm-harris/palo-alto/9780316592031/
 - #AZS 
     - [[breakthrough technology]] vs [[breakdown technology]]
-- #AZS [[breakthrough technology]] vs [[breakdown technology]]
-    - 
+    - https://www.bloodinthemachine.com/p/for-tech-ceos-the-dystopia-is-the?utm_source=pocket_saves
 
 ## [[2024-05-01]]
 - Attending: [[Jerry Michalski]] [[Aram Zucker-Scharff]] [[Peter Kaminski]] [[Chris Aldrich]] [[Flancian]] [[Aram Zucker-Scharff]]
