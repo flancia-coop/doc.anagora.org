@@ -39,6 +39,12 @@
 - #AZS 
     - [[breakthrough technology]] vs [[breakdown technology]]
     - https://www.bloodinthemachine.com/p/for-tech-ceos-the-dystopia-is-the?utm_source=pocket_saves
+- on [[maximizing shareholder value]]:
+    https://www.theatlantic.com/technology/archive/2024/05/google-io-gemini-learnlm/678379/
+    https://www.washingtonpost.com/opinions/harold-meyerson-the-myth-of-maximizing-shareholder-value/2014/02/11/00cdfb14-9336-11e3-84e1-27626c5ef5fb_story.html
+    SJ says:none of it is a function of law 
+    SJ says:it's all social norms 
+- 
 
 ## [[2024-05-01]]
 - Attending: [[Jerry Michalski]] [[Aram Zucker-Scharff]] [[Peter Kaminski]] [[Chris Aldrich]] [[Flancian]] [[Aram Zucker-Scharff]]
