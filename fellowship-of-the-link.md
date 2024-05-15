@@ -29,7 +29,9 @@
 - Attending: [[Jerry Michalski]] [[Aram Zucker-Scharff]] [[Peter Kaminski]] [[Samuel Klein]] [[Flancian]] [[Aram Zucker-Scharff]]
 - On [[Google I/O]] and [[OpenAI]]'s presentation
     - The [[Her]] factor of marketing
-    
+    - On compentition and incentives
+- On [[wealth redistribution]] and giving back to creators
+    - Nice it if happened, but will it? It didn't happen in earlier/non-AI stages 
 
 ## [[2024-05-01]]
 - Attending: [[Jerry Michalski]] [[Aram Zucker-Scharff]] [[Peter Kaminski]] [[Chris Aldrich]] [[Flancian]] [[Aram Zucker-Scharff]]
