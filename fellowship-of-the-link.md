@@ -55,6 +55,12 @@ https://context.center/topics/maintaining-open-source/
     - Q: why didn't Google join efforts with the [[Internet Archive]] then?
     - [[SJ]] on the history
     - Good article -  https://www.wired.com/2017/04/how-google-book-search-got-lost/
+    - [[SJ]] lots of companies spend their $ on user or society surplus.  on average, most companies don't survive.  the itnersection of those that invest in public surplus and those survive decreases over time... if you weather a downturn you probably cut out most areas of surplus.  and it's rare that it comes back 
+    - SJ says:but coops are also companies and often defined in terms of helping one another survive downturns. let's design future orgs and systems from good models 
+    - https://context.center/topics/maintaining-open-source/
+    - https://aramzs.xyz/glossary/shifting-baselines/
+ 
+
  
 
 ## [[2024-05-01]]
