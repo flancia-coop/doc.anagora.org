@@ -30,9 +30,12 @@
 - On [[Google I/O]] and [[OpenAI]]'s presentation
     - The [[Her]] factor of marketing
     - On compentition and incentives
+    - The dystopia is the point https://www.bloodinthemachine.com/p/for-tech-ceos-the-dystopia-is-the?utm_source=pocket_saves
 - On [[wealth redistribution]] and giving back to creators
     - Nice it if happened, but will it? It didn't happen in earlier/non-AI stages of aggregations
     - If you want the sources of information to stick around in the long term, 
+    - They keep saying profit sharing but it never happens 
+    - 
 
 ## [[2024-05-01]]
 - Attending: [[Jerry Michalski]] [[Aram Zucker-Scharff]] [[Peter Kaminski]] [[Chris Aldrich]] [[Flancian]] [[Aram Zucker-Scharff]]
