@@ -36,6 +36,10 @@
     - If you want the sources of information to stick around in the long term, you should give back to them?
     - They keep saying profit sharing but it never happens 
     - [[Palo Alto]] by [[Malcolm Harris]]: https://www.hachettebookgroup.com/titles/malcolm-harris/palo-alto/9780316592031/
+- #AZS 
+    - [[breakthrough technology]] vs [[breakdown technology]]
+- #AZS [[breakthrough technology]] vs [[breakdown technology]]
+    - 
 
 ## [[2024-05-01]]
 - Attending: [[Jerry Michalski]] [[Aram Zucker-Scharff]] [[Peter Kaminski]] [[Chris Aldrich]] [[Flancian]] [[Aram Zucker-Scharff]]
