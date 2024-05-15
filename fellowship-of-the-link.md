@@ -59,6 +59,11 @@
     - SJ says:but coops are also companies and often defined in terms of helping one another survive downturns. let's design future orgs and systems from good models 
     - https://context.center/topics/maintaining-open-source/
     - https://aramzs.xyz/glossary/shifting-baselines/
+ - The Long Next
+    - [[SJ]] we don't need to 'fix capitalism' 
+    - SJ says:most of society still runs on other isms 
+    - me says:+1, we want to upgrade existing systems and build more and better bridges between them 
+    - /now and ending urls with `/json` and `/md` to get JSON and MD versions of the data respectively. Standard data sharing flows. 
  
 
  
