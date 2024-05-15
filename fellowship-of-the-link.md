@@ -44,10 +44,13 @@
     https://www.washingtonpost.com/opinions/harold-meyerson-the-myth-of-maximizing-shareholder-value/2014/02/11/00cdfb14-9336-11e3-84e1-27626c5ef5fb_story.html
     SJ says:none of it is a function of law 
     SJ says:it's all social norms 
+    Good book on this: "The Man Who Broke Capitalism: How Jack Welch Gutted the Heartland and Crushed the Soul of Corporate America―and How to Undo His Legacy"
 - Google Books
     - A google utopian project?
-    - https://www.wired.com/2017/04/how-google-book-search-got-lost/ 
     - Q: why didn't Google join efforts with the [[Internet Archive]] then?
+    - [[SJ]] on the history
+    - Good article -  https://www.wired.com/2017/04/how-google-book-search-got-lost/
+ 
 
 ## [[2024-05-01]]
 - Attending: [[Jerry Michalski]] [[Aram Zucker-Scharff]] [[Peter Kaminski]] [[Chris Aldrich]] [[Flancian]] [[Aram Zucker-Scharff]]
