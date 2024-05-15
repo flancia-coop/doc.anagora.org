@@ -48,8 +48,8 @@
     - WIAB https://incubator.apache.org/projects/wave.html
     - Jerry: What is the phenomenon where the norms that got a company or country to where they are get thrown out?
     - Aram: That phenomenon is Shifting Baselines https://aramzs.xyz/glossary/shifting-baselines/
-    - Links collected on the open source crisis 
-https://context.center/topics/maintaining-open-source/
+    - Links collected on the open source crisis https://context.center/topics/maintaining-open-source/
+    - Scatter, Adapt, and Remember: How Humans Will Survive a Mass Extinction, Annalee Newitz 
 - Google Books
     - A google utopian project?
     - Q: why didn't Google join efforts with the [[Internet Archive]] then?
