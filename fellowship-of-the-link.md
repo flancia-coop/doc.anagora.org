@@ -31,7 +31,8 @@
     - The [[Her]] factor of marketing
     - On compentition and incentives
 - On [[wealth redistribution]] and giving back to creators
-    - Nice it if happened, but will it? It didn't happen in earlier/non-AI stages 
+    - Nice it if happened, but will it? It didn't happen in earlier/non-AI stages of aggregations
+    - If you want the sources of information to stick around in the long term, 
 
 ## [[2024-05-01]]
 - Attending: [[Jerry Michalski]] [[Aram Zucker-Scharff]] [[Peter Kaminski]] [[Chris Aldrich]] [[Flancian]] [[Aram Zucker-Scharff]]
