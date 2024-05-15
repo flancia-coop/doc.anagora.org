@@ -64,6 +64,12 @@
     - SJ says:most of society still runs on other isms 
     - me says:+1, we want to upgrade existing systems and build more and better bridges between them 
     - /now and ending urls with `/json` and `/md` to get JSON and MD versions of the data respectively. Standard data sharing flows. 
+    - Webfinger 
+    - Webmention 
+    - ActivityPub
+    - https://github.com/jhass/nodeinfo
+        - https://codeberg.org/thefederationinfo/nodeinfo_metadata_survey
+    - 
  
 
  
