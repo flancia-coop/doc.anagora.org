@@ -33,9 +33,9 @@
     - The dystopia is the point https://www.bloodinthemachine.com/p/for-tech-ceos-the-dystopia-is-the?utm_source=pocket_saves
 - On [[wealth redistribution]] and giving back to creators
     - Nice it if happened, but will it? It didn't happen in earlier/non-AI stages of aggregations
-    - If you want the sources of information to stick around in the long term, 
+    - If you want the sources of information to stick around in the long term, you should give back to them?
     - They keep saying profit sharing but it never happens 
-    - 
+    - [[Palo Alto]] by [[Malcolm Harris]]: https://www.hachettebookgroup.com/titles/malcolm-harris/palo-alto/9780316592031/
 
 ## [[2024-05-01]]
 - Attending: [[Jerry Michalski]] [[Aram Zucker-Scharff]] [[Peter Kaminski]] [[Chris Aldrich]] [[Flancian]] [[Aram Zucker-Scharff]]
