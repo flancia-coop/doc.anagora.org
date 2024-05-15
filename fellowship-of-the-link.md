@@ -69,9 +69,11 @@
     - ActivityPub
     - https://github.com/jhass/nodeinfo
         - https://codeberg.org/thefederationinfo/nodeinfo_metadata_survey
-    - 
- 
-
+- Ideas for shared projects
+    - Frame the fellowship as a community of practice, use knowledge tools together and showcase/present the results
+    - Organize classes in digital knowledge tools
+    - Take all our notes and artifacts and feed them to an LLM
+    - Run a semilink (seminar) series
  
 
 ## [[2024-05-01]]
