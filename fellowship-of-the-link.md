@@ -42,9 +42,11 @@
 - on [[maximizing shareholder value]]:
     https://www.theatlantic.com/technology/archive/2024/05/google-io-gemini-learnlm/678379/
     https://www.washingtonpost.com/opinions/harold-meyerson-the-myth-of-maximizing-shareholder-value/2014/02/11/00cdfb14-9336-11e3-84e1-27626c5ef5fb_story.html
-    SJ says:none of it is a function of law 
-    SJ says:it's all social norms 
-    Good book on this: "The Man Who Broke Capitalism: How Jack Welch Gutted the Heartland and Crushed the Soul of Corporate America―and How to Undo His Legacy"
+    - SJ says:none of it is a function of law 
+    - SJ says:it's all social norms 
+    - Good book on this: "The Man Who Broke Capitalism: How Jack Welch Gutted the Heartland and Crushed the Soul of Corporate America―and How to Undo His Legacy"
+    - WIAB
+https://incubator.apache.org/projects/wave.html
 - Google Books
     - A google utopian project?
     - Q: why didn't Google join efforts with the [[Internet Archive]] then?
