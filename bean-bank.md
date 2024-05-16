@@ -1,1 +1,2 @@
-- The good 
+- The good thing about the Stoa is that this one will end up at the same place that [[bean bank]] without the hyphen.
+    - It loses some dimensionality currently but I think that's alright, we're all dealing with fuzziness here and can make the most with it sometimes ;)
