@@ -9,7 +9,8 @@ Here: [[Calix]] [[flancian]]
 - Recap https://www.loomio.com/d/C4HKmTOa/proposal-to-revisit-extending-the-character-limit-for-posts/32
 - alpha.social.coop 
     - status
-        - [[mastodon]] vs [[hometown]] recipes
+        - [[mastodon]] vs [[hometown]] recipes in [[coop cloud]]
+        - mastodon recipe is less maintained because it has no known users. bit out of date.
     - next steps
 - Result of the 1k chars poll
 - Git.coop API key
