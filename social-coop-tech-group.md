@@ -22,7 +22,7 @@ Here: [[Calix]] [[flancian]]
                     - (need a new server to still have the reverse proxy setup work without breaking hypha)
                 - modify ansible recipe to deploy alpha to hypha without reverse proxy
                     - can we set up [[traefik]] to work as reverse proxy only and forward to a non-coop-cloud-managed container?
-                        - [[calix]]: if you add traefik labels to the docker compose file, traefik would configure itself automatically
+                        - [[calix]]: if you add traefik labels to the docker compose file, traefik would configure itself automatically https://git.coopcloud.tech/coop-cloud/mastodon/src/branch/main/compose.yml#L19-L20
                         - you can also provide a traefik configuration file to the coop cloud traefik https://docs.coopcloud.tech/operators/handbook/#proxying-apps-outside-of-co-op-cloud-with-traefik
 - Result of the 1k chars poll
 - Git.coop API key
