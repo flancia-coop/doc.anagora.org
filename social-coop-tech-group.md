@@ -2,7 +2,14 @@
 
 Here: ...
 
-- 
+- Check ins
+- Git.coop API key
+    - ![](https://doc.anagora.org/uploads/upload_d18b0a750f7762179948fcaa71edeb63.png)
+- Result of the 1k chars poll
+- alpha.social.coop
+    - status
+    - next steps
+- Other topics
 
 ## 2024-05-06 -- Long time no see! (at least with notes?) :)
 
