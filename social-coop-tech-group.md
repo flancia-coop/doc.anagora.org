@@ -26,7 +26,10 @@ Here: [[Calix]] [[flancian]]
                         - you can also provide a traefik configuration file to the coop cloud traefik https://docs.coopcloud.tech/operators/handbook/#proxying-apps-outside-of-co-op-cloud-with-traefik
 - Result of the 1k chars poll
     - Q: if we're 'hot patching' the character limits, are we OK with the extra build time for the frontend?
-        - [[calix]]: it's a `yarn build` that might add a minute or so to every container star
+        - [[calix]]: it's a `yarn build` that might add a minute or so to every container start
+        - we're 'up two weeks' currently
+        - but any time we restart the container during [[twg]] operations, we'll be more disruptive
+        - 
 - Git.coop API key
     - ![](https://doc.anagora.org/uploads/upload_d18b0a750f7762179948fcaa71edeb63.png)
 - Other topics
