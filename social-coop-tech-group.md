@@ -6,13 +6,14 @@ Here: [[Calix]] [[flancian]]
     - [[patio.coop]] meeting in spanish
     - doing the [[reverse theroux]]: https://www.goodreads.com/book/show/130515.The_Old_Patagonian_Express soon!
     - biking
-- Recap
+- Recap https://www.loomio.com/d/C4HKmTOa/proposal-to-revisit-extending-the-character-limit-for-posts/32
+- alpha.social.coop 
+    - status
+        - [[mastodon]] vs [[hometown]] recipes
+    - next steps
 - Result of the 1k chars poll
 - Git.coop API key
     - ![](https://doc.anagora.org/uploads/upload_d18b0a750f7762179948fcaa71edeb63.png)
-- alpha.social.coop
-    - status
-    - next steps
 - Other topics
     - onboarding new members
 
