@@ -3,6 +3,7 @@
 Here: ...
 
 - Check ins
+    - [[patio.coop]] meeting in spanish
 - Git.coop API key
     - ![](https://doc.anagora.org/uploads/upload_d18b0a750f7762179948fcaa71edeb63.png)
 - Result of the 1k chars poll
