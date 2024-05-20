@@ -1,16 +1,20 @@
 ## 2024-05-20
 
-Here: ...
+Here: [[Calix]] [[flancian]]
 
 - Check ins
     - [[patio.coop]] meeting in spanish
+    - doing the [[reverse theroux]]: https://www.goodreads.com/book/show/130515.The_Old_Patagonian_Express soon!
+    - biking
+- Recap
+- Result of the 1k chars poll
 - Git.coop API key
     - ![](https://doc.anagora.org/uploads/upload_d18b0a750f7762179948fcaa71edeb63.png)
-- Result of the 1k chars poll
 - alpha.social.coop
     - status
     - next steps
 - Other topics
+    - onboarding new members
 
 ## 2024-05-06 -- Long time no see! (at least with notes?) :)
 
