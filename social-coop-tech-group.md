@@ -20,7 +20,8 @@ Here: [[Calix]] [[flancian]]
                     - upgrade/fix mastodon
                 - set up a new alpha server and deploy a variation of the ansible role there
                     - (need a new server to still have the reverse proxy setup work without breaking hypha)
-                - 
+                - modify ansible recipe to deploy alpha to hypha without reverse proxy
+                    - can we set up [[traefik]] to work as reverse proxy only and forward to a non-coop-cloud-managed container?
 - Result of the 1k chars poll
 - Git.coop API key
     - ![](https://doc.anagora.org/uploads/upload_d18b0a750f7762179948fcaa71edeb63.png)
