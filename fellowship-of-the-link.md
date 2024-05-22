@@ -73,9 +73,13 @@ Aram Zucker-Scharff says:
 https://github.com/AramZS/aramzs.xyz
 https://www.flavorwire.com/515783/brooklyn-author-recreates-borges-library-of-babel-as-infinite-website
 - On scraping [[kindle]] / exporting our data from there
+    - #PK an old (6 years) project that readwise maintained, to export kindle highlights: [TristanH/bookcision](
+    - #AZS I used  https://clippings.io/ for the curious. Have to do a writeup on how I used it more extensively. 
+https://github.com/tristanh/bookcision
 - [[open letters]]
     - #PK like the idea but probably won't work due to people finding it too challenging
         - an alternate approach: make things that [[commonize]] stuff; focus on improving usability of tools aligned with our goals / the good of the commons.
+- on manual indexing 
 - [[semilink]] update
     - [[aram]] https://aramzs.xyz/essays/the-internet-is-a-series-of-webs/
     - we want a bot to nudge us to do our homework halfway through the week (measured wed-to-tue?)
