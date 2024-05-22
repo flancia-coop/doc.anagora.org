@@ -35,7 +35,10 @@
     - [[Peter]]
         - [[ChatGPT]] and memory
             - initially thought it was an "anti-feature"
-            - "could you keep separate memories for different thin
+            - "could you keep separate memories for different things"
+            - asked them what they would call the categories around which memories were clustered
+            - they suggested 'project' or 'topic'
+            - queried 'books that came up in calls', now interactively asked them to add the cyberfeminist index to a project
         
 ## [[2024-05-15]]
 - Attending: [[Jerry Michalski]] [[Aram Zucker-Scharff]] [[Peter Kaminski]] [[Samuel Klein]] [[Flancian]] [[Aram Zucker-Scharff]]
