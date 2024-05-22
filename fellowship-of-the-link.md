@@ -40,6 +40,8 @@
             - they suggested 'project' or 'topic'
             - queried 'books that came up in calls', now interactively asked them to add the cyberfeminist index to a project
         - [[tools for thought]] in the age of [[conversational ai]]
+            - 
+        - [[shared memory in the commons]]
 - #F [[subconscious]] is gone/done :(
     - https://subconscious.substack.com/p/subconscious-is-winding-down
         
