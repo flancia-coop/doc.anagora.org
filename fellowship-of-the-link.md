@@ -49,6 +49,8 @@
         - [[chatgpt exporter]]: https://github.com/pionxzh/chatgpt-exporter
     - [[Chris Aldrich]]
         - idea attribution and [[my self told my self]]
+        - #AZS keyword: [[rendition]] as used in [[the age of surveillance capitalism]]:
+            - “The prediction imperative transforms the things that we have into things that have us in order that it might render the range and richness of our world, our homes, and our bodies as behaving objects for its calculations and fabrications on the path to profit....there can be rendition without surveillance capitalism." 
 - #F [[subconscious]] is gone/done :(
     - https://subconscious.substack.com/p/subconscious-is-winding-down
 - #PK fwiw, i don't have many books in my chatgpt memory yet, so the Cyberfeminism book had big influence. i asked chatgpt about more books that would fit with others, and it listed these:
