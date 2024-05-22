@@ -42,6 +42,8 @@
         - [[tools for thought]] in the age of [[conversational ai]]
             - [[assistants]] participating in meetings and facilitating them
         - [[shared memory in the commons]]
+    - #AZS on the risk of enshittification of chat-gpt and it turning further into a walled garden
+        - what if we cease being able to export stuff from chatgpt?
 - #F [[subconscious]] is gone/done :(
     - https://subconscious.substack.com/p/subconscious-is-winding-down
 - #PK fwiw, i don't have many books in my chatgpt memory yet, so the Cyberfeminism book had big influence. i asked chatgpt about more books that would fit with others, and it listed these:
