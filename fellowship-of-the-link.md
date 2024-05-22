@@ -44,6 +44,17 @@
         - [[shared memory in the commons]]
 - #F [[subconscious]] is gone/done :(
     - https://subconscious.substack.com/p/subconscious-is-winding-down
+- #PK fwiw, i don't have many books in my chatgpt memory yet, so the Cyberfeminism book had big influence. i asked chatgpt about more books that would fit with others, and it listed these:
+    - "The Fourth Industrial Revolution" by Klaus Schwab
+    - "Technofeminism" by Judy Wajcman
+    - "Data Feminism" by Catherine D'Ignazio and Lauren F. Klein
+    - "Weapons of Math Destruction" by Cathy O'Neil
+    - "Algorithms of Oppression: How Search Engines Reinforce Racism" by Safiya Umoja Noble
+    - "The Second Self: Computers and the Human Spirit" by Sherry Turkle
+    - "The Age of Surveillance Capitalism" by Shoshana Zuboff
+    - "How We Became Posthuman: Virtual Bodies in Cybernetics, Literature, and Informatics" by N. Katherine Hayles
+    - "Emergent Strategy: Shaping Change, Changing Worlds" by Adrienne Maree Brown
+    - "The Future of Another Timeline" by Annalee Newitz 
         
 ## [[2024-05-15]]
 - Attending: [[Jerry Michalski]] [[Aram Zucker-Scharff]] [[Peter Kaminski]] [[Samuel Klein]] [[Flancian]] [[Aram Zucker-Scharff]]
