@@ -72,6 +72,11 @@ Chris Aldrich says:"No piece of information is superior to any other. Power lies
 Aram Zucker-Scharff says:
 https://github.com/AramZS/aramzs.xyz
 https://www.flavorwire.com/515783/brooklyn-author-recreates-borges-library-of-babel-as-infinite-website
+- On scraping [[kindle]] / exporting our data from there
+- [[semilink]] update
+    - [[aram]] https://aramzs.xyz/essays/the-internet-is-a-series-of-webs/
+ 
+
  
         
 ## [[2024-05-15]]
