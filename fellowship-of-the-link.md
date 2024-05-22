@@ -47,6 +47,7 @@
         - we need browser plugins
         - [[rhizome conifer]]: https://conifer.rhizome.org/
         - [[chatgpt exporter]]: https://github.com/pionxzh/chatgpt-exporter
+    - 
 - #F [[subconscious]] is gone/done :(
     - https://subconscious.substack.com/p/subconscious-is-winding-down
 - #PK fwiw, i don't have many books in my chatgpt memory yet, so the Cyberfeminism book had big influence. i asked chatgpt about more books that would fit with others, and it listed these:
