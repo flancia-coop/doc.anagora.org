@@ -51,7 +51,7 @@
         - idea attribution and [[my self told my self]] :D
         - #AZS keyword: [[rendition]] as used in [[the age of surveillance capitalism]]:
             - “The prediction imperative transforms the things that we have into things that have us in order that it might render the range and richness of our world, our homes, and our bodies as behaving objects for its calculations and fabrications on the path to profit....there can be rendition without surveillance capitalism." 
-            - [[meta]] on the problem of search/retr
+            - [[meta]] on the problem of search/retrieval
 - #F [[subconscious]] is gone/done :(
     - https://subconscious.substack.com/p/subconscious-is-winding-down
 - #PK fwiw, i don't have many books in my chatgpt memory yet, so the Cyberfeminism book had big influence. i asked chatgpt about more books that would fit with others, and it listed these:
@@ -65,6 +65,25 @@
     - "How We Became Posthuman: Virtual Bodies in Cybernetics, Literature, and Informatics" by N. Katherine Hayles
     - "Emergent Strategy: Shaping Change, Changing Worlds" by Adrienne Maree Brown
     - "The Future of Another Timeline" by Annalee Newitz 
+- Peter Kaminski
+Peter Kaminski says:Borges's Library of Babel has EVEN MORE books than the Library of Congress! 
+Jerry says:that's the cheaper version 
+20:48
+CA
+Chris Aldrich
+Chris Aldrich says:"No piece of information is superior to any other. Power lies in having them all on file and then finding the connections. There are always connections; you have only to want to find them."—Umberto Eco (Foucault's Pendulum) 
+20:49
+avatar
+Aram Zucker-Scharff
+Aram Zucker-Scharff says:
+https://github.com/AramZS/aramzs.xyz
+ 
+20:49
+J
+Jerry
+Jerry says:
+https://www.flavorwire.com/515783/brooklyn-author-recreates-borges-library-of-babel-as-infinite-website
+ 
         
 ## [[2024-05-15]]
 - Attending: [[Jerry Michalski]] [[Aram Zucker-Scharff]] [[Peter Kaminski]] [[Samuel Klein]] [[Flancian]] [[Aram Zucker-Scharff]]
