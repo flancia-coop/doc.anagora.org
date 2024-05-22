@@ -39,6 +39,9 @@
             - asked them what they would call the categories around which memories were clustered
             - they suggested 'project' or 'topic'
             - queried 'books that came up in calls', now interactively asked them to add the cyberfeminist index to a project
+        - [[tools for thought]] in the age of [[conversational ai]]
+- #F [[subconscious]] is gone/done :(
+    - https://subconscious.substack.com/p/subconscious-is-winding-down
         
 ## [[2024-05-15]]
 - Attending: [[Jerry Michalski]] [[Aram Zucker-Scharff]] [[Peter Kaminski]] [[Samuel Klein]] [[Flancian]] [[Aram Zucker-Scharff]]
