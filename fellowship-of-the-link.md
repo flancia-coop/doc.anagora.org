@@ -31,8 +31,8 @@
     - [[Flancian]] under a pile of work somehow! Will stay only for part of this unfortunately. But fine otherwise!
         - [[Cyberfeminism index]]: https://cyberfeminismindex.com/
     - [[Jerry]]
-        - Experimented with 
-        https://wiki.openglobalmind.com/projects/jerry's_nuggets/gpt-4o_riffs_on_fungal_ideas
+        - Experimented with [[fungal metaphors]] and [[chat-gpt]]: https://wiki.openglobalmind.com/projects/jerry's_nuggets/gpt-4o_riffs_on_fungal_ideas
+        
 ## [[2024-05-15]]
 - Attending: [[Jerry Michalski]] [[Aram Zucker-Scharff]] [[Peter Kaminski]] [[Samuel Klein]] [[Flancian]] [[Aram Zucker-Scharff]]
 - On [[Google I/O]] and [[OpenAI]]'s presentation
