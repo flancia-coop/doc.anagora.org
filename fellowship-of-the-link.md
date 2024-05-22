@@ -74,7 +74,8 @@ https://github.com/AramZS/aramzs.xyz
 https://www.flavorwire.com/515783/brooklyn-author-recreates-borges-library-of-babel-as-infinite-website
 - On scraping [[kindle]] / exporting our data from there
 - [[open letters]]
-    - #PK like the idea but probably wo
+    - #PK like the idea but probably won't work due to people finding it too challenging
+        - an alternate approach: make things that [[commonize]] stuff; focus on improving usability of tools aligned with our goals / the good of the commons.
 - [[semilink]] update
     - [[aram]] https://aramzs.xyz/essays/the-internet-is-a-series-of-webs/
     - we want a bot to nudge us to do our homework halfway through the week (measured wed-to-tue?)
