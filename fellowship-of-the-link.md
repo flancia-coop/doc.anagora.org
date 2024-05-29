@@ -49,6 +49,10 @@
         - [[Chris Aldrich]]: on the lifecycle of ideas. Sometimes one outgrows ideas and they drop out of conversation because of this.
             - Is [[David Allen]] tired of [[GTD]]?
         - [[Design from Trust]]: https://wiki.openglobalmind.com/projects/jerry's_nuggets/design_from_trust_(neobook)
+        - #AZS
+            - need to establish authority
+            - need a hook into people's attention (paraphrasing)
+            - the "easiest" (or most common currently) way of solving both is publishing a book
         
         
 ## [[2024-05-22]]
