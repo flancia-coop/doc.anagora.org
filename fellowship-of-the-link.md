@@ -26,6 +26,7 @@
             - [[github]] by default?
             
 ## [[2024-05-22]]
+## [[2024-05-22]]
 - Attending: [[Jerry Michalski]] [[Aram Zucker-Scharff]] [[Peter Kaminski]] [[Flancian]] [[Aram Zucker-Scharff]]
 - Check ins
     - [[Flancian]] under a pile of work somehow! Will stay only for part of this unfortunately. But fine otherwise!
