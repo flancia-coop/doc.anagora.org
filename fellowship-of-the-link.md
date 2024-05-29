@@ -40,8 +40,11 @@
         - [[Jerry Michalski]] on [[Bayard Rustin]] 
         - [[Chris Aldrich]] zettelkasten for MLK:   https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F00151650-d518-4267-8cdb-c9b843f6e24c_1440x1198.webp
     - Friday appointment :D
-    - On being in the [[speaker circuit]].
+    - On being in the [[speaker circuit]] / getting back to the arena.
         - Book question
+            - What are book-equivalent projects in your past?
+                - Binders of research
+                - Newsletter pr
         
         
 ## [[2024-05-22]]
