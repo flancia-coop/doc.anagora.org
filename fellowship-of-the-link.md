@@ -33,7 +33,11 @@
     - Keywords:
         - [[rethinking]] [[constraints]]
     - [[design from trust]] -- what we can unlock if we stop assuming everybody is out for the worst.
-    - four-s methodology <- 
+    - four-s methodology <- focus of the second half of the presentation.
+    - About strategic thinking methods.
+    - [[Chris Aldrich]] Ed DeBono (sp?) thinking hats for the new millenium
+        - [[flancian]] aside about [[MLK]]
+        - [[Jerry[[Bayard Rustin]]
 
 ## [[2024-05-22]]
 - Attending: [[Jerry Michalski]] [[Aram Zucker-Scharff]] [[Peter Kaminski]] [[Flancian]] [[Aram Zucker-Scharff]]
