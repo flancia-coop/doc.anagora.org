@@ -46,7 +46,8 @@
                 - Binders of research
                 - Newsletter production
                 - Brain
-        - [[Chris Aldrich]]: on the lifecycle of focus
+        - [[Chris Aldrich]]: on the lifecycle of ideas. Sometimes one outgrows ideas and they drop out of conversation because of this.
+            - Is [[David Allen]] tired of [[GTD]]?
         
         
 ## [[2024-05-22]]
