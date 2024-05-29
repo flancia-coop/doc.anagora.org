@@ -26,7 +26,7 @@
             - [[github]] by default?
             
 ## [[2024-05-29]]
-- Attending: [[Jerry Michalski]] [[Chris Aldrich]] [[Flancian]] 
+- Attending: [[Jerry Michalski]] [[Chris Aldrich]] [[Flancian]] Late: [[Aram Zucker-Scharff]]
 - (in media res)
 - On [[Jerry's keynote]]:
     - Modelled after April's earlier.
@@ -44,7 +44,9 @@
         - Book question
             - What are book-equivalent projects in your past?
                 - Binders of research
-                - Newsletter pr
+                - Newsletter production
+                - Brain
+        - [[Chris Aldrich]]: on the lifecycle of focus
         
         
 ## [[2024-05-22]]
