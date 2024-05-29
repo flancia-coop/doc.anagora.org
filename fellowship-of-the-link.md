@@ -39,6 +39,10 @@
         - [[flancian]] aside about [[MLK]]
         - [[Jerry Michalski]] on [[Bayard Rustin]] 
         - [[Chris Aldrich]] zettelkasten for MLK:   https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F00151650-d518-4267-8cdb-c9b843f6e24c_1440x1198.webp
+    - Friday appointment :D
+    - On being in the [[speaker circuit]].
+        - Book question
+        
         
 ## [[2024-05-22]]
 - Attending: [[Jerry Michalski]] [[Aram Zucker-Scharff]] [[Peter Kaminski]] [[Flancian]] [[Aram Zucker-Scharff]]
