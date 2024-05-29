@@ -53,6 +53,7 @@
             - need to establish authority
             - need a hook into people's attention (paraphrasing)
             - the "easiest" (or most common currently) way of solving both is publishing a book
+            - respect for the [[POSSE]] but unsure it works -- except for [[Cory Doctorow]].
         
         
 ## [[2024-05-22]]
