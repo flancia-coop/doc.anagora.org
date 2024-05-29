@@ -50,10 +50,13 @@
             - Is [[David Allen]] tired of [[GTD]]?
         - [[Design from Trust]]: https://wiki.openglobalmind.com/projects/jerry's_nuggets/design_from_trust_(neobook)
         - #AZS
-            - need to establish authority
+            - need to establish authority and standing
             - need a hook into people's attention (paraphrasing)
-            - the "easiest" (or most common currently) way of solving both is publishing a book
-            - respect for the [[POSSE]] but unsure it works -- except for [[Cory Doctorow]].
+            - the "easiest" (or most common and socially accepted currently) way of solving both is publishing a book
+            - respect for the [[POSSE]] but unsure it works -- except for [[Cory Doctorow]]. But even he didn't start that way. 
+        - [[Jerry Michalski]] something that leads people to discover the thing themselves, so they want my help with it 
+        - [[Chris Aldrich]] parallel with the studio system, which is mostly owned by corporations for which making films is a secondary concern (e.g. Sony is an electronics company first).
+            - 
         
         
 ## [[2024-05-22]]
