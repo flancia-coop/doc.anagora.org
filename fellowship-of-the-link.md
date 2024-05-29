@@ -48,6 +48,7 @@
                 - Brain
         - [[Chris Aldrich]]: on the lifecycle of ideas. Sometimes one outgrows ideas and they drop out of conversation because of this.
             - Is [[David Allen]] tired of [[GTD]]?
+        - [[Design from Trust]]: https://wiki.openglobalmind.com/projects/jerry's_nuggets/design_from_trust_(neobook)
         
         
 ## [[2024-05-22]]
