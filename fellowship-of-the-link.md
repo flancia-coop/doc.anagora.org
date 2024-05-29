@@ -26,7 +26,7 @@
             - [[github]] by default?
             
 ## [[2024-05-29]]
-- Attending: [[Jerry Michalski]] [[Chris Aldrich]] [[Flancian]] Late: [[Aram Zucker-Scharff]]
+- Attending: [[Jerry Michalski]] [[Chris Aldrich]] Late: [[Aram Zucker-Scharff]] [[Flancian]] 
 - (in media res)
 - On [[Jerry's keynote]]:
     - Modelled after April's earlier.
