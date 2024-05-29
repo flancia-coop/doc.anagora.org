@@ -35,10 +35,11 @@
     - [[design from trust]] -- what we can unlock if we stop assuming everybody is out for the worst.
     - four-s methodology <- focus of the second half of the presentation.
     - About strategic thinking methods.
-    - [[Chris Aldrich]] Ed DeBono (sp?) thinking hats for the new millenium
+    - [[Chris Aldrich]] Ed DeBono (sp?) thinking hats for the new millenium -- related to the preaching circuit.
         - [[flancian]] aside about [[MLK]]
-        - [[Jerry[[Bayard Rustin]]
-
+        - [[Jerry Michalski]] on [[Bayard Rustin]] 
+        - [[Chris Aldrich]] zettelkasten for MLK:   https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F00151650-d518-4267-8cdb-c9b843f6e24c_1440x1198.webp
+        
 ## [[2024-05-22]]
 - Attending: [[Jerry Michalski]] [[Aram Zucker-Scharff]] [[Peter Kaminski]] [[Flancian]] [[Aram Zucker-Scharff]]
 - Check ins
