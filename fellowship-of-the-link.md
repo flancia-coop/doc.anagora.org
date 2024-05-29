@@ -53,10 +53,12 @@
             - need to establish authority and standing
             - need a hook into people's attention (paraphrasing)
             - the "easiest" (or most common and socially accepted currently) way of solving both is publishing a book
-            - respect for the [[POSSE]] but unsure it works -- except for [[Cory Doctorow]]. But even he didn't start that way. 
+            - respect for the [[POSSE]] but unsure it works for this specific problem -- except for [[Cory Doctorow]]. But even he didn't start that way. It is a solution intended for online identity as an object.  
         - [[Jerry Michalski]] something that leads people to discover the thing themselves, so they want my help with it 
-        - [[Chris Aldrich]] parallel with the studio system, which is mostly owned by corporations for which making films is a secondary concern (e.g. Sony is an electronics company first).
-            - 
+            - #AZS 
+                - I sorta think the answer lies somewhere in documenting the history of the thing 
+        - [[Chris Aldrich]] parallels between the publishing industry and the studio system, which is mostly owned by corporations for which making films is a secondary concern (e.g. Sony is an electronics company first).
+            - One of the questions that publishing houses ask is: 'who already cares about you'.
         
         
 ## [[2024-05-22]]
