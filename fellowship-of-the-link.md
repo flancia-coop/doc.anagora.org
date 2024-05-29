@@ -25,7 +25,16 @@
         - [[issue tracker]] / [[project tracker]] URL
             - [[github]] by default?
             
-## [[2024-05-22]]
+## [[2024-05-29]]
+- Attending: [[Jerry Michalski]] [[Chris Aldrich]] [[Flancian]] 
+- (in media res)
+- On [[Jerry's keynote]]:
+    - Modelled after April's earlier.
+    - Keywords:
+        - [[rethinking]] [[constraints]]
+    - [[design from trust]] -- what we can unlock if we stop assuming everybody is out for the worst.
+    - four-s methodology <- 
+
 ## [[2024-05-22]]
 - Attending: [[Jerry Michalski]] [[Aram Zucker-Scharff]] [[Peter Kaminski]] [[Flancian]] [[Aram Zucker-Scharff]]
 - Check ins
