@@ -65,3 +65,4 @@
 - Generative AI seemed not core to the presentation, you could drop it and make room for one more top level concept to mention early on?
 - [[Upkido]] made me wonder what it was, nice :)
     - Then it paid off.
+- Consider having a map somewhere towards the beginning or as a recurring term -- this would match your way of thinking incidentally, and also show the audience which things you're mentioning en passant
