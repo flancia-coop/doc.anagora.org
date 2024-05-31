@@ -26,13 +26,21 @@
             - nice examples for organizational vs personal
             - the odd benefits of being an outcast -- interesting facts about [[quakers]]
         - on flipping away from [[systems designed from mistrust]]
-    - [[John Taylor Gatto]]
-        - Stay in the class where you belong
-        - Turn on and off when I tell you to
-        - Surrender your will to a predestined chain of command
-        - Only I determine what curriculum you will study
-        - Your  self-respect should depend on an observer's measure of your worth
-        - 
+        - [[John Taylor Gatto]] on the [[Hidden Curriculum of Schooling]]:
+            - Stay in the class where you belong
+            - Turn on and off when I tell you to
+            - Surrender your will to a predestined chain of command
+            - Only I determine what curriculum you will study
+            - Your  self-respect should depend on an observer's measure of your worth
+            - You are being watched
+            - -> this was great but I felt that you maybe shifted away from this slide without fully driving the point across.
+        - Your mission tomorrow
+            - Enumerate your constraints
+            - Examine your assumptions
+            - Look for imbalances
+            - How ought things be?
+    - [[shift]]
+        - Liked the idea of 'hard fun'
 
 # Other feedback
 
