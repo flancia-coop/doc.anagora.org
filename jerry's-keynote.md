@@ -20,6 +20,9 @@
 - [[generative ai]] moving the [[impossible line]]
 - framework -- [[4s]]:
     - [[see shift shape set]]
+    - [[see]]
+        - slides on what 'see' means seem like they maybe aren't as needed and you could go straight to your quote.
+        - [[constraints]]
 
 # Other feedback
 
