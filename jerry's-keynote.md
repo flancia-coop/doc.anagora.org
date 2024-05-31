@@ -56,6 +56,8 @@
         - cool example from polynesian navigators
     - [[recap]]
         - some of the suggestions seemed like they could belong earlier in a 4s section -- for example 'invite a contrarian to coffee' could be in 'shift'?
+        - taboos could be mentioned earlier in particular, and linked to the kodak example/the blindspots of an established enterprise.
+        - design from trust and upkido could be more detailed and m
 
 # Other feedback
 
