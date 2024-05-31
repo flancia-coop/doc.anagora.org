@@ -17,7 +17,9 @@
 (~fifteen minute mark)
 
 - [[traffic calming]]
-- b
+- [[generative ai]] moving the [[impossible line]]
+- framework -- [[4s]]:
+    - [[see shift shape set]]
 
 # Other feedback
 
