@@ -43,7 +43,11 @@
         - Liked its description as 'hard fun'
         - (...)
     - [[shape]]
-        - "your offer"
+        - (...)
+- [[design from trust]]
+    - assumes good intent -- without being naïve
+    - designs systems around the good actors
+    - nice -- but how does it fit within the framework? it seems to be a pattern or a lens through which to 
 
 # Other feedback
 
