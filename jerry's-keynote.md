@@ -55,10 +55,11 @@
         - a course, in motion, expectations
         - cool example from polynesian navigators
     - [[recap]]
+        - some of the suggestions seemed like they could belong earlier in a 4s section -- for example 'invite a contrarian to coffee' could be in 'shift'?
 
 # Other feedback
 
+- I missed a slide on who you are / why you are here -- and ideally on how this relates to the framework you'll be presenting.
+- Generative AI seemed not core to the presentation, you could drop it and make room for one more top level concept to mention early on?
 - [[Upkido]] made me wonder what it was, nice :)
     - Then it paid off.
-- I missed a slide on who you are / why you are here -- and ideally on how this relates to the framework you'll be presenting.
-- Generative AI seemed not core to the presentation, you could drop it and make room for one more top level concept to mention
