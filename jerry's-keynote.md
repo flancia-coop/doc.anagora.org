@@ -40,7 +40,10 @@
             - Look for imbalances
             - How ought things be?
     - [[shift]]
-        - Liked the idea of 'hard fun'
+        - Liked its description as 'hard fun'
+        - (...)
+    - [[shape]]
+        - "your offer"
 
 # Other feedback
 
