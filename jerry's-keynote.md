@@ -23,6 +23,7 @@
     - [[see]]
         - slides on what 'see' means seem like they maybe aren't as needed and you could go straight to your quote.
         - [[constraints]]
+            - nice examples for organizational vs personal
 
 # Other feedback
 
