@@ -24,7 +24,9 @@
         - slides on what 'see' means seem like they maybe aren't as needed and you could go straight to your quote.
         - [[constraints]]
             - nice examples for organizational vs personal
+            - the odd benefits of being an outcast
 
 # Other feedback
 
-- [[Upkido]] made me wonder what it was.
+- [[Upkido]] made me wonder what it was, nice :)
+- I missed a slide on who you are / why you are here.
