@@ -45,4 +45,4 @@
 # Other feedback
 
 - [[Upkido]] made me wonder what it was, nice :)
-- I missed a slide on who you are / why you are here.
+- I missed a slide on who you are / why you are here -- and ideally on how this relates to the framework you'll be presenting.
