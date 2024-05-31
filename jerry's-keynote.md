@@ -1,7 +1,7 @@
 - a [[presentation]].
     - I saw on [[2024-05-31]].
 
-# Per-slide feedback
+# "Per-slide" feedback
 
 - On 'impossible' intro slide: 'long' and abstract slides like this would probably work better standing up/on a stage, but the examples you gave otherwise seemed like they could have done with some 'slide support'.
 - You started with this question but it wasn't clear to me how it related to the objective of the session. 
@@ -63,6 +63,5 @@
 
 - I missed a slide on who you are / why you are here -- and ideally on how this relates to the framework you'll be presenting.
 - Generative AI seemed not core to the presentation, you could drop it and make room for one more top level concept to mention early on?
-- [[Upkido]] made me wonder what it was, nice :)
-    - Then it paid off.
+- [[Upkido]] made me wonder what it was, nice name :)
 - Consider having a map somewhere towards the beginning or as a recurring term -- this would match your way of thinking incidentally, and also show the audience which things you're mentioning en passant
