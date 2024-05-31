@@ -43,7 +43,7 @@
         - Liked its description as 'hard fun'
         - (...)
     - [[shape]]
-        - 'your offer' -
+        - 'your offer' -- is there a better word than offer for a generic audience that is not necessarily in a for-profit/in the market? unsure
     - [[design from trust]]
         - assumes good intent -- without being naïve
         - designs systems around the good actors
@@ -53,8 +53,12 @@
         - mindfulness practice
     - [[set]]
         - a course, in motion, expectations
+        - cool example from polynesian navigators
+    - [[recap]]
 
 # Other feedback
 
 - [[Upkido]] made me wonder what it was, nice :)
+    - Then it paid off.
 - I missed a slide on who you are / why you are here -- and ideally on how this relates to the framework you'll be presenting.
+- Generative AI seemed not core to the presentation, you could drop it and make room for one more top level concept to mention
