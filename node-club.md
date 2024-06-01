@@ -1,5 +1,5 @@
 ## interesting nodes of the week
-### We provision the commons together.  Under each week add some nodes you would like to learn more about and plan to write about.  Other Agorans might join you on that node, or they might choose their own adventure.  
+### We provision the commons together.  For each episode simply add a node that you would like to learn more about and plan to write about.  Other Agorans might join you on that node, or they might choose their own adventure.  
 #### join us on matrix #anagora:matrix.org
 
 ## season 4
