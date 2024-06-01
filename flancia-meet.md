@@ -16,6 +16,8 @@
     - [[bouncepaw]] has seen pretty much exclusively good aspects of the job so far
 - [[zine]]
     - urban lifestyle, difficulties of it and working a job
+    - using [[latex]]
+    - targetting [[30 pages]]
         
 
 # [[flancia meet 2024-05-11]]
