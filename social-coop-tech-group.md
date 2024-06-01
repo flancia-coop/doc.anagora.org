@@ -1,3 +1,8 @@
+## 2024-06-01
+Here: [[flancian]] trying to bump to the latest security patch :)
+
+- Reported by
+
 ## 2024-05-20
 
 Here: [[Calix]] [[flancian]]
