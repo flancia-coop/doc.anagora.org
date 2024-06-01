@@ -13,6 +13,10 @@
     - [[autocracy]]
     - [[moloch]] everywhere
     - but also some good aspects as usual
+    - [[bounce]]
+- [[zine]]
+    - urban lifestyle, difficulties of it and working a job
+        
 
 # [[flancia meet 2024-05-11]]
 - [[flancian]] [[bouncepaw]]
