@@ -4,12 +4,15 @@
 
 # [[flancia meet 2024-06-01]]
 - [[bouncepaw]] [[flancian]] 
-- [[summertime]]
+- [[summertime]]:
     - https://www.youtube.com/watch?v=8epnNzRSUdI
 - [[big empanada]]
     - [[cheburek]]
 - [[exams]]
 - [[work]]
+    - [[autocracy]]
+    - [[moloch]] everywhere
+    - but also some good aspects as usual
 
 # [[flancia meet 2024-05-11]]
 - [[flancian]] [[bouncepaw]]
