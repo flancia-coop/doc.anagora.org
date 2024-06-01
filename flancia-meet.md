@@ -13,7 +13,7 @@
     - [[autocracy]]
     - [[moloch]] everywhere
     - but also some good aspects as usual
-    - [[bounce]]
+    - [[bouncepaw]] has seen pretty much exclusively good aspects of the job so far
 - [[zine]]
     - urban lifestyle, difficulties of it and working a job
         
