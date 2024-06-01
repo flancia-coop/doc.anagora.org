@@ -6,7 +6,8 @@
 
 ### episode 2
 
-- ...
+- [[Big Tech]] -- [[neil]]
+- [[Digital Ecosocialism]]
 
 ### episode 1
 
