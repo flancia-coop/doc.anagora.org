@@ -5,7 +5,10 @@
 # [[flancia meet 2024-06-01]]
 - [[bouncepaw]] [[flancian]] 
 - [[summertime]]
+    - https://www.youtube.com/watch?v=8epnNzRSUdI
 - [[big empanada]]
+    - [[cheburek]]
+- [[exams]]
 
 # [[flancia meet 2024-05-11]]
 - [[flancian]] [[bouncepaw]]
