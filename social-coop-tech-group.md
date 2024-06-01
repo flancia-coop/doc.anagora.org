@@ -1,7 +1,8 @@
 ## 2024-06-01
 Here: [[flancian]] trying to bump to the latest security patch :)
 
-- Reported by
+- Reported by [[dphiffer]], thank you!
+- 
 
 ## 2024-05-20
 
