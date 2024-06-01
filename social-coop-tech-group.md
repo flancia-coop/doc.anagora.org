@@ -4,6 +4,16 @@ Here: [[flancian]] trying to bump to the latest security patch :)
 - Reported by [[dphiffer]], thank you!
 - Mastodon 4.2.7 -> 4.2.9
     - https://social.coop/@flancian/112542709489666310
+    - PR: https://git.coop/social.coop/tech/ansible/-/merge_requests/new?merge_request%5Bsource_branch%5D=4.2.9
+    - Then ran:
+
+```
+cd social.coop/ansible
+vi roles/social.coop/files/docker-compose.yml
+. .env
+ansible-playbook -CD rhizome.playbook.yml  # check the diff in dry run
+ansible-playbook -D rhizome.playbook.yml  # -D means diff, omitting -C makes it stick
+```
 
 ## 2024-05-20
 
