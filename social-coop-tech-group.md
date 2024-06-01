@@ -2,7 +2,8 @@
 Here: [[flancian]] trying to bump to the latest security patch :)
 
 - Reported by [[dphiffer]], thank you!
-- Mastodon 4.2.7 -> 
+- Mastodon 4.2.7 -> 4.2.9
+    - https://social.coop/@flancian/112542709489666310
 
 ## 2024-05-20
 
