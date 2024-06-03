@@ -1,2 +1,1 @@
-bagaimana aku mencatat
-jika sudah sama akan di[tugas]pakai
+I'm busy right now, try again later.
