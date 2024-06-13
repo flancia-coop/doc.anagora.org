@@ -17,7 +17,7 @@
 - [[z-run]] aliased to [[j]]
     - https://links.bouncepaw.com/323
 - [[comment router]] or [[suggestion router]] or [[crdt agora]] that opens PRs
-    - 
+    - [[hypothes.is]]
     
 # [[flancia meet 2024-06-01]]
 - [[bouncepaw]] [[flancian]] 
