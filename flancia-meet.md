@@ -14,7 +14,8 @@
 - [[taking notes]] in university
 - [[latex]] in [[mycorrhiza]]
     - [[mathjax]]
-
+- [[z-run]] aliased to [[j]]
+    - https://links.bouncepaw.com/323
 # [[flancia meet 2024-06-01]]
 - [[bouncepaw]] [[flancian]] 
 - [[summertime]]:
