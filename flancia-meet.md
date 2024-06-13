@@ -18,6 +18,8 @@
     - https://links.bouncepaw.com/323
 - [[comment router]] or [[suggestion router]] or [[crdt agora]] that opens PRs
     - [[hypothes.is]]
+    - [[well known uris]] doesn't seem to have something for this
+    - [[offer]] in [[activitypub]]
     
 # [[flancia meet 2024-06-01]]
 - [[bouncepaw]] [[flancian]] 
