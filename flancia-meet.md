@@ -7,6 +7,8 @@
 - Weeks off!
     - [[bouncepaw]] with a week off work for academic reasons (passing exams)
     - [[flancian]] off work for a week due to friends visiting/AG's birthday/Agora time
+- [[bouncepaw]]:
+    - writing an ORM in Python
 
 # [[flancia meet 2024-06-01]]
 - [[bouncepaw]] [[flancian]] 
