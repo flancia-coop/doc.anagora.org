@@ -11,6 +11,9 @@
     - writing an ORM in Python
     - procrastinating studying for one particular exam that involves remembering a lot of arbitrary stuff
 - [[mathematical optimization]]
+- [[taking notes]] in university
+- [[latex]] in [[mycorrhiza]]
+    - [[mathjax]]
 
 # [[flancia meet 2024-06-01]]
 - [[bouncepaw]] [[flancian]] 
