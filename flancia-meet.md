@@ -9,6 +9,8 @@
     - [[flancian]] off work for a week due to friends visiting/AG's birthday/Agora time
 - [[bouncepaw]]:
     - writing an ORM in Python
+    - procrastinating studying for one particular exam that involves remembering a lot of arbitrary stuff
+- [[mathematical optimization]]
 
 # [[flancia meet 2024-06-01]]
 - [[bouncepaw]] [[flancian]] 
