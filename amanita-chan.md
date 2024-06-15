@@ -1,1 +1,1 @@
-- [[go]] https://mycorrhiza.wiki/hypha/amanita-chan
+I'm busy right now, try again later.
