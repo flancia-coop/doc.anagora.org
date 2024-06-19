@@ -84,7 +84,7 @@
                 - [[How Brains Think]]
                 - [[Throwing Madonna]]
                     - Hypothesis
-                    - We became unreasonably good at throwing by being bad at throwing, and then bootstrapped into having the right neuronal st
+                    - We became unreasonably good at throwing by being bad at throwing, and then bootstrapped into having the right neuronal structures evolving for precision timing of throws. Those neural structures could then be coopted for intelligence, music, speech, etc.
         
 
 
