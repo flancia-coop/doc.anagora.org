@@ -1,4 +1,1 @@
-- a [[tool]].
-    - [[digital garden]] [[hosting]]
-    - #go https://quartz.jzhao.xyz/
-    - [[darlim]] == [[@darlim]] told me about it
+I'm busy right now, try again later.
