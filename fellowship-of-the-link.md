@@ -62,6 +62,10 @@
         - [[Prompt router]]?
             - #PK doesn't use them (do they exist yet?) because the top-of-the-line models (e.g. [[gpt 4o]] currently) are good enough in most aspects
             - #F But what if other models were optimistically/lazily surfaced? :)
+            - It is true that sometimes you know that your model isn't doing as good as it could do (e.g. with coding)
+        - [[LMStudio]]
+            - neeGGUF support
+        
 
 
 ## [[2024-05-29]]
