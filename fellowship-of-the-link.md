@@ -40,16 +40,17 @@
             - Some people have very good ideas
             - Some people are very good at 'finishing'/touching up
     - [[movies]] <-> [[games]] spectrum
-    - [[David]] from [[Midjourney]]:
+    - [[David]], CEO of [[Midjourney]]:
         - [[davidh]], [[David Holz]]
         - Movies (no interactivity) -> games (interactivity; game maker and player are distinct) -> [[immersive, open world simulations]] (creative interactivity, everybody is a maker)
         - [[AI Dungeon]]
         - [[Infinite Zork]]
-    - [[multi-level]] architecturs to develop full length books
+    - [[multi-level]] architectures to develop full length books; difference betwen published fiction and interactive text games blurring
 - [[PKM]] and [[AI]] interactions
     - Removing distinction between finding a note and writing it on the fly
     - Tracking provenance
     - [[Color of the bits]]
+        - [[AI EXIF]] 
     - [[Marc-Antoine Parent]] - knowing the "edges" of a dataset, and knowing if/when the AI is reaching "outside" of the edges
 
 
@@ -57,7 +58,7 @@
 - Attending: [[Jerry Michalski]] [[Chris Aldrich]] Late: [[Aram Zucker-Scharff]] [[Flancian]] 
 - (in media res)
 - On [[Jerry's keynote]]:
-    - Modelled after April's earlier.
+    - Modelled after [[April Rinne]]'s earlier.
     - Keywords:
         - [[rethinking]] [[constraints]]
     - [[design from trust]] -- what we can unlock if we stop assuming everybody is out for the worst.
