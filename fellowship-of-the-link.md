@@ -47,11 +47,16 @@
         - [[Infinite Zork]]
     - [[multi-level]] architectures to develop full length books; difference betwen published fiction and interactive text games blurring
 - [[PKM]] and [[AI]] interactions
-    - Removing distinction between finding a note and writing it on the fly
-    - Tracking provenance
-    - [[Color of the bits]]
-        - [[AI EXIF]] 
-    - [[Marc-Antoine Parent]] - knowing the "edges" of a dataset, and knowing if/when the AI is reaching "outside" of the edges
+    - Interesting question the first
+        - Removing distinction between finding a note and writing it on the fly
+        - Tracking provenance
+        - [[Color of the bits]]
+            - Do we need [[EXIF for AI]] (sourcing metadata)
+        - [[Marc-Antoine Parent]] - knowing the "edges" of a dataset, and knowing if/when the AI is reaching "outside" of the edges
+    - Interesting question the second
+        - Corpus gathering
+            - Original source data
+            - Synthetic data
 
 
 ## [[2024-05-29]]
