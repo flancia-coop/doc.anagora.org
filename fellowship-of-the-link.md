@@ -61,6 +61,7 @@
             - Communities of practice and the potential of their corpora
         - [[Prompt router]]?
             - #PK doesn't use them (do they exist yet?) because the top-of-the-line models (e.g. [[gpt 4o]] currently) are good enough in most aspects
+            - #F But what if other models were optimistically/lazily surfaced? :)
 
 
 ## [[2024-05-29]]
