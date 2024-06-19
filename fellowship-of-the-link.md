@@ -40,6 +40,10 @@
             - Some people have very good ideas
             - Some people are very good at 'finishing'/touching up
     - [[movies]] <-> [[games]] spectrum
+    - [[David]] from [[Midjourney]]:
+        - [[davidh]]
+        - Movies (no interactivity) -> games (interactivity; game maker and player are distinct) -> [[immersive worlds]] (creative interactivity, everybody is a maker)
+        - [[AI Dungeon]]
 
 
 ## [[2024-05-29]]
