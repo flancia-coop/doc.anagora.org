@@ -75,7 +75,12 @@
                 - fulcrum/stick; [[trimtabs]] (Buckminster Fuller)
             - #F enjoyed https://www.youtube.com/watch?v=wwhTfyX9J34 with [[Sara Walker]], related
             - [[Deep history]]
-            - #PK enjoyed [3.3 million years of stone tool complexity suggests that cumulative culture began during the Middle Pleistocene | PNAS](https://www.pnas.org/doi/10.1073/pnas.2319175121)
+            - #PK enjoyed [3.3 million years of stone tool complexity suggests that cumulative culture began during the Middle Pleistocene | PNAS](https://www.pnas.org/doi/10.1073/pnas.2319175121) - the beginning of social knowledge?
+            - [[David Deutsch]]
+                - [[The Fabric of Reality]]
+                - [[The Beginning of Infinity]] <- fav
+            - [[William Calviin]]
+                - 
         
 
 
