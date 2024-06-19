@@ -39,6 +39,7 @@
             - Some people are very good at writing prompts
             - Some people have very good ideas
             - Some people are very good at 'finishing'/touching up
+    - [[movies]] <-> [[games]] spectrum
 
 
 ## [[2024-05-29]]
