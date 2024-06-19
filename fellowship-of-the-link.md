@@ -70,6 +70,8 @@
             - Carrying the ring of power -- why not have a fellowship?
             - Why be so proprietary and non-open?
         - Do we need better [[open letters]]? ;)
+            - Let's try to convince key players of the importance of the [[commons]] approach?
+            - 
         
 
 
