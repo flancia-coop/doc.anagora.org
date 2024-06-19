@@ -64,7 +64,9 @@
             - #F But what if other models were optimistically/lazily surfaced? :)
             - It is true that sometimes you know that your model isn't doing as good as it could do (e.g. with coding)
         - [[LMStudio]]
-            - neeGGUF support
+            - needs models in [[GGUF]]
+        - Do we worry about enshittification in the AI space, e.g. [[OpenAI]]?
+            - Will they be captured by capitalism?
         
 
 
