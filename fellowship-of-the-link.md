@@ -46,6 +46,8 @@
         - [[AI Dungeon]]
         - [[Infinite Zork]]
     - [[multi-level]] architecturs to develop full length books
+- [[PKM]] and [[AI]] interactions
+    
 
 
 ## [[2024-05-29]]
