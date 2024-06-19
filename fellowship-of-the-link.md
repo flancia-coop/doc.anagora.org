@@ -79,8 +79,11 @@
             - [[David Deutsch]]
                 - [[The Fabric of Reality]]
                 - [[The Beginning of Infinity]] <- fav
-            - [[William Calviin]]
-                - 
+            - [[William Calvin]]
+                - https://en.wikipedia.org/wiki/William_H._Calvin
+                - [[How Brains Think]]
+                - [[Throwing Madonna]]
+                    - Hypothesis
         
 
 
