@@ -69,6 +69,7 @@
             - Will they be captured by capitalism?
             - Carrying the ring of power -- why not have a fellowship?
             - Why be so proprietary and non-open?
+        - Do we need better [[open letters]]? ;)
         
 
 
