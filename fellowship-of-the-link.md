@@ -47,7 +47,10 @@
         - [[Infinite Zork]]
     - [[multi-level]] architecturs to develop full length books
 - [[PKM]] and [[AI]] interactions
-    
+    - Removing distinction between finding a note and writing it on the fly
+    - Tracking provenance
+    - [[Color of the bits]]
+    - [[Marc-Antoine Parent]] - knowing the "edges" of a dataset, and knowing if/when the AI is reaching "outside" of the edges
 
 
 ## [[2024-05-29]]
