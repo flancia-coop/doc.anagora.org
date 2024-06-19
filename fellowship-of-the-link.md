@@ -67,6 +67,8 @@
             - needs models in [[GGUF]]
         - Do we worry about enshittification in the AI space, e.g. [[OpenAI]]?
             - Will they be captured by capitalism?
+            - Carrying the ring of power -- why not have a fellowship?
+            - Why be so proprietary and non-open?
         
 
 
