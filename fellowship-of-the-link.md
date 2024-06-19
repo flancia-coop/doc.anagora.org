@@ -41,10 +41,11 @@
             - Some people are very good at 'finishing'/touching up
     - [[movies]] <-> [[games]] spectrum
     - [[David]] from [[Midjourney]]:
-        - [[davidh]]
+        - [[davidh]], [[David Holz]]
         - Movies (no interactivity) -> games (interactivity; game maker and player are distinct) -> [[immersive, open world simulations]] (creative interactivity, everybody is a maker)
         - [[AI Dungeon]]
         - [[Infinite Zork]]
+    - [[multi-level]] architecturs to develop full length books
 
 
 ## [[2024-05-29]]
