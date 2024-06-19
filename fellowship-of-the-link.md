@@ -25,6 +25,9 @@
         - [[issue tracker]] / [[project tracker]] URL
             - [[github]] by default?
             
+## [[2024-06-19]]
+- Attending: ...
+
 ## [[2024-05-29]]
 - Attending: [[Jerry Michalski]] [[Chris Aldrich]] Late: [[Aram Zucker-Scharff]] [[Flancian]] 
 - (in media res)
