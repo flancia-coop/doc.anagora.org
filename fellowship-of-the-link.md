@@ -26,7 +26,9 @@
             - [[github]] by default?
             
 ## [[2024-06-19]]
-- Attending: [[Peter Kaminski]]
+- Attending: [[Peter Kaminski]] [[Bentley Davis]] [[Flancian]]
+- Green screens and [[Jitsi]] < [[Meet]] < [[Zoom]]
+
 
 ## [[2024-05-29]]
 - Attending: [[Jerry Michalski]] [[Chris Aldrich]] Late: [[Aram Zucker-Scharff]] [[Flancian]] 
