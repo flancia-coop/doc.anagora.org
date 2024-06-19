@@ -28,6 +28,12 @@
 ## [[2024-06-19]]
 - Attending: [[Peter Kaminski]] [[Bentley Davis]] [[Flancian]]
 - Green screens and [[Jitsi]] < [[Meet]] < [[Zoom]]
+- [[Flancian]]
+    - Introspection and soul searching :)
+- [[Peter Kaminski]]
+    - Doing well and making progress on how to deliver educational content
+    - Epiphany with GenAI
+        - When "most" people can generate e.g. images via GenAI, where does that leave the creator/curator/etc.?
 
 
 ## [[2024-05-29]]
