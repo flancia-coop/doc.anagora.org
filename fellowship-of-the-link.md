@@ -58,6 +58,9 @@
             - Original source data
             - Synthetic data
                 - [[Nemotron-4 340B]], an open-source pipeline for generating synthetic data. 98 percent of the training data used to fine-tune the Instruct model is synthetic and was created using Nvidia's pipeline.
+            - Communities of practice and the potential of their corpora
+        - [[Prompt router]]?
+            - #PK doesn't use them (do they exist yet?) because the top-of-the-line models (e.g. [[gpt 4o]] currently) are good enough in most aspects
 
 
 ## [[2024-05-29]]
