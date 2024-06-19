@@ -34,6 +34,7 @@
     - Doing well and making progress on how to deliver educational content
     - Epiphany with GenAI
         - When "most" people can generate e.g. images via GenAI, where does that leave the creator/curator/etc.?
+        - The understanding of the craft is still valuable; the role might be helping people make better images/work with creative tools better
 
 
 ## [[2024-05-29]]
