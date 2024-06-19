@@ -42,8 +42,9 @@
     - [[movies]] <-> [[games]] spectrum
     - [[David]] from [[Midjourney]]:
         - [[davidh]]
-        - Movies (no interactivity) -> games (interactivity; game maker and player are distinct) -> [[immersive worlds]] (creative interactivity, everybody is a maker)
+        - Movies (no interactivity) -> games (interactivity; game maker and player are distinct) -> [[immersive, open world simulations]] (creative interactivity, everybody is a maker)
         - [[AI Dungeon]]
+        - [[Infinite Zork]]
 
 
 ## [[2024-05-29]]
