@@ -57,6 +57,7 @@
         - Corpus gathering
             - Original source data
             - Synthetic data
+                - [[Nemotron-4 340B]], an open-source pipeline for generating synthetic data. 98 percent of the training data used to fine-tune the Instruct model is synthetic and was created using Nvidia's pipeline.
 
 
 ## [[2024-05-29]]
