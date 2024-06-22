@@ -1,1 +1,3 @@
-I'm busy right now, try again later.
+- a [[podcast]].
+    - [[go]] https://podcasts.google.com/feed/aHR0cHM6Ly9yZXZvbHV0aW9uc3BvZGNhc3QubGlic3luLmNvbS9yc3M?sa=X&ved=0CAMQ4aUDahcKEwiI9eDIzvL0AhUAAAAAHQAAAAAQAQ&hl=en-CH
+    - [[mike duncan]]
