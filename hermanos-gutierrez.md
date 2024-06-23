@@ -1,4 +1,1 @@
-- a [[band]].
-    - #go https://www.hermanosgutierrez.ch/
-    - #music https://www.hermanosgutierrez.ch/music
-    - [[mb]] told me about them
+I'm busy right now, try again later.
