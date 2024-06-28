@@ -1,1 +1,43 @@
-I'm busy right now, try again later.
+I think I'm going to start using the stoa in [[do]] to keep my top level todo list -- or at least my [[inbox]]. Unfortunately [[do]] the node is overloaded, and this is very convenient as I can just edit it in any browser :) Feel free to do the same if it helps! (I'll likely soon add one doc per user in the Agora.)
+
+# [[flancian]]
+- #push [[done]]
+    - I don't finish a lot of things, but when I do, sometimes I push them to [[done]] :)
+- #push [[agora plan]]
+    - [[agora 2022]]
+        - [[agora chapter]]
+    - [[agora 2023]]
+    - [[agora 2024]]
+    - maybe sign up for [[open university]]
+    - write [[building bridges]]
+      - I think about this a lot but for some reason I never get to work on it
+          - related to [[knowledge commons]] and [[protopoi]]
+          - the [[commons]] aspect is probably top priority
+          - some of this is now in [[agora chapter]]
+- code [[agora server]] / default UI
+    - [x] [[recursive]] experiment
+      - I shipped this and I'm happy :) It did away with a lot of bugs!
+- code [[agora bridge]] / bots
+  - [x] [[agora bot replies to wikilinks from followers]]
+  - [x] [[agora bot links wikilinked posts from followers]]
+  - [x] [[agora bot]] links from [[matrix]]
+  - [x] [[agora bot stores messages for users]]
+      - I shipped this as-is (writing to disk) but only for users who opted in, like I did.
+      - we are for now blocking on giving each user an independent (git) repository that stores their messages instead of using a centralized approach.
+      - it *does* do this for matrix messages by default though, as users have joined a room with an agora bot or have remained in its presence + used wikilinks, and the fact that this happens has been communicated
+          - let me know if you find it problematic though
+          - [ ] add support for #noxp tag, like [[moa]]
+- code [[auto pull]]
+  - perhaps base it on inline transclusion like wikipedia/url pulls
+      - update (2023): yes, this is the default approach to all integrations nowadays.
+  - this is partially implemented now, finally
+      - I think I added this as 'node X pulled by Agora'
+          - I don't remember where the code is :) I think there are currently two different paths that pull things?
+          - It should be easy to find though.
+- code [[auto push]]
+  - [[foo]]
+      - foo gets this line auto pushed because it's a wikilinked parent of a block (as defined by indentation or user set syntax)
+      - this is still not done surprisingly! I'm not sure it's actually blocking on getting a proper [[agora protocol]] [[ast]]; we could extend the current [[lxml]]-based hack.
+      - honestly parsing the DOM of a site sounds like an OK approach? that is, when it doesn't include microformats, etc.
+- see also: all pulled and my [[journals]].
+    - #pull [[todo]], [[now]], [[later]], [[next action]], [[plan]], [[did]], [[done]] :)
