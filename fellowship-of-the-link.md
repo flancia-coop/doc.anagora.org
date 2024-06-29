@@ -8,7 +8,7 @@
 - Start recording, we're currently using Jitsi and that works best with a [[Chromium]] based browser.
 - Threads from last time we would like to pick up:
     - [[high leverage opportunities]] we can spot
-    - [[generative commons]]
+    - [ K[generative commons]]
         - [[generative linking]] (inferring links)
         - [[general commons agreement]] https://bra.in/8qeNWy
     - [[wishlist]] approach to worldbuilding
