@@ -1,9 +1,16 @@
 ## 2024-07-01
 
 - Here: [[flancian]] [[evan boehs]]
-- [[flancian]] dealing with hardware issues as half the time
 - [[evan boehs]] working:
-    - on bookmarking software, 
+    - on bookmarking software, Fediverse compatible
+        - sounds like [[betula]] / in that space
+        - but Evan is focusing more on the community aspects
+        - 20k lines of code in!
+    - actually joining a company soon, contracting
+- [[flancian]] dealing with hardware issues as half the time
+    - tied up with work as well
+    - limited amount of time dedicated to social.coop
+        - including CWG and organizing circle
 
 ## 2024-06-01
 Here: [[flancian]] trying to bump to the latest security patch :)
