@@ -1,3 +1,10 @@
+## 2024-07-01
+
+- Here: [[flancian]] [[evan boehs]]
+- [[flancian]] dealing with hardware issues as half the time
+- [[evan boehs]] working:
+    - on bookmarking software, 
+
 ## 2024-06-01
 Here: [[flancian]] trying to bump to the latest security patch :)
 
