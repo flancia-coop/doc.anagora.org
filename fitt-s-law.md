@@ -1,1 +1,1 @@
-I'm busy right now, try again later.
+- "Fitts's law (often cited as Fitts' law) is a predictive model of human movement primarily used in human–computer interaction and [[ergonomics]]. This scientific law predicts that the time required to rapidly move to a target area is a function of the ratio between the distance to the target and the width of the target. Fitts's law is used to model the act of [[pointing]], either by physically touching an object with a hand or finger, or virtually, by pointing to an object on a computer monitor using a pointing device."
