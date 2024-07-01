@@ -15,7 +15,9 @@
     - it would be nice to go back to a cadence of biweekly meetings, and finishing onboarding of new members
 - shared projects
     - bump character limits
-        - next steps: 
+        - next steps: get alpha.social.coop on mastodon mainline
+            - we could fix the [[coop cloud]] recipe for mastodon
+            - we could move to deploying alpha.social.coop with ansible
     - 
 
 ## 2024-06-01
