@@ -11,6 +11,9 @@
     - tied up with work as well
     - limited amount of time dedicated to social.coop
         - including CWG and organizing circle
+- sustainability or this group
+    - it would be nice to go back to a cadence of biweekly meetings, 
+- shared project
 
 ## 2024-06-01
 Here: [[flancian]] trying to bump to the latest security patch :)
