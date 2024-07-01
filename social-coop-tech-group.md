@@ -17,7 +17,8 @@
     - bump character limits
         - next steps: get alpha.social.coop on mastodon mainline
             - we could fix the [[coop cloud]] recipe for mastodon
-            - we could move to deploying alpha.social.coop with ansible
+            - we could move to deploying alpha.social.coop with ansible <- this seems like the best way to go probably
+        - soft timeline: get alpha.social.coop running via an ansi
     - 
 
 ## 2024-06-01
