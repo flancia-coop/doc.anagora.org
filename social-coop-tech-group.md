@@ -18,8 +18,10 @@
         - next steps: get alpha.social.coop on mastodon mainline
             - we could fix the [[coop cloud]] recipe for mastodon
             - we could move to deploying alpha.social.coop with ansible <- this seems like the best way to go probably
-        - soft timeline: get alpha.social.coop running via an ansi
-    - 
+        - soft timeline: get alpha.social.coop running via an ansible recipe by the next meeting
+            - -> flancian
+        - get access to ansible
+            - -> evan
 
 ## 2024-06-01
 Here: [[flancian]] trying to bump to the latest security patch :)
