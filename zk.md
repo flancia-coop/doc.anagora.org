@@ -1,1 +1,4 @@
-I'm busy right now, try again later.
+- a [[tool]]
+    - [[note taking]]
+    - [[go]] https://github.com/mickael-menu/zk
+    - [[zk nvim]] https://github.com/mickael-menu/zk-nvim
