@@ -1,3 +1,1 @@
-**Welcome to https://doc.anagora.org!** All documents are by default **public** and **world-writeable**. Documents will be embedded within the [Agora](https://anagora.org) in the node matching their name. Feel free to click the edit button above and delete this text -- or just write whatever is on your mind below!
-
-[[flancian]]: I think I would stash it for 7d, then revisit the decision. At that time burning it is the default action for the conservative; I'd announce the possession of the knowledge, enter a 7d embargo and ask my [[party]] how they would proceed in turn.
+I'm busy right now, try again later.
