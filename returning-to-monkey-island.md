@@ -1,2 +1,1 @@
-- #go https://www.youtube.com/watch?v=SdWzlDwxBmQ
-    - by [[noclip]]
+I'm busy right now, try again later.
