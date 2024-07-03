@@ -28,11 +28,14 @@
 ## [[2024-07-03]]
 - Attending: [[Peter Kaminski]] [[Aram Zucker-Scharff]] [[Jerry Michalski]] [[Chris Aldrich]]
 - Talk about Obsidian's attraction for world building tools 
-    - Alts: World Anvil, Campfire Writing, Scribner, fantasia archive
+    - Alt: World Anvil, Campfire Writing, Scribner, fantasia archive
     - Most alts are costly, Obsidian is free and popular among 'how to use tool' video makers
         - [[Jerry Michalski]]: that's important! 
-- How books fail?
-- fantasia  
+- [[Jerry Michalski]] How books fail us? - https://app.thebrain.com/brain/3d80058c-14d8-5361-0b61-a061f89baf87/122ff55a-e125-4009-8f74-b20f3a0997ce
+    - [[Chris Aldrich]]
+        - Format effects what is written and what is read. 
+        - Twitter is useful as a writing tool because of limited input
+- 
 
 ## [[2024-06-19]]
 - Attending: [[Peter Kaminski]] [[Bentley Davis]] [[Flancian]]
