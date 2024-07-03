@@ -26,11 +26,13 @@
             - [[github]] by default?
 
 ## [[2024-07-03]]
-- Attending: [[Peter Kaminski]] [[Bentley Davis]] [[Flancian]]
+- Attending: [[Peter Kaminski]] [[Aram Zucker-Scharff]] [[Jerry Michalski]] [[Chris Aldrich]]
 - Talk about Obsidian's attraction for world building tools 
-    - Alts: World Anvil, Campfire Writing, Scribner,
-    - Most alts are costly, Obsidian is free and popular among 'how to use tool makers'
-    -  
+    - Alts: World Anvil, Campfire Writing, Scribner, fantasia archive
+    - Most alts are costly, Obsidian is free and popular among 'how to use tool' video makers
+        - [[Jerry Michalski]]: that's important! 
+- How books fail?
+- fantasia  
 
 ## [[2024-06-19]]
 - Attending: [[Peter Kaminski]] [[Bentley Davis]] [[Flancian]]
