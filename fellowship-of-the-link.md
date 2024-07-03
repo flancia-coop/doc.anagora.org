@@ -31,6 +31,15 @@
     - Alt: World Anvil, Campfire Writing, Scribner, fantasia archive
     - Most alts are costly, Obsidian is free and popular among 'how to use tool' video makers
         - [[Jerry Michalski]]: that's important! 
+        - [[Peter Kaminski]]
+            - ai world building / interactive fiction tools / role playing (from <https://ai101.peterkaminski.wiki/live_session_notes/learn_and_do_with_peter_notes,_2024-04-17>):
+            - "DreamGen Opus" - uncensored models fine-tuned for (steerable) story writing, chat, role-playing
+                - https://huggingface.co/dreamgen/opus-v0-7b
+            - "SillyTavern" - interact with text generation AIs and chat/roleplay with characters you or the community create 
+                - https://sillytavernai.com/
+            - "GOAT-Storytelling-Agent" - Arbitrarily Long Story Writing Agent
+                - https://www.blog.goat.ai/goat-st/
+            - Kobold AI, Kobold Lite, KoboldCpp - browser-based front-end for AI-assisted writing with multiple local & remote AI models
 - [[Jerry Michalski]] How books fail us? - https://app.thebrain.com/brain/3d80058c-14d8-5361-0b61-a061f89baf87/122ff55a-e125-4009-8f74-b20f3a0997ce
     - [[Chris Aldrich]]
         - Format effects what is written and what is read. 
