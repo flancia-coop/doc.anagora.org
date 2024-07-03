@@ -40,6 +40,7 @@
             - "GOAT-Storytelling-Agent" - Arbitrarily Long Story Writing Agent
                 - https://www.blog.goat.ai/goat-st/
             - Kobold AI, Kobold Lite, KoboldCpp - browser-based front-end for AI-assisted writing with multiple local & remote AI models
+            - https://www.reddit.com/r/LocalLLaMA/comments/18lve2x/whats_the_difference_between_koboldcpp/ 
 - [[Jerry Michalski]] How books fail us? - https://app.thebrain.com/brain/3d80058c-14d8-5361-0b61-a061f89baf87/122ff55a-e125-4009-8f74-b20f3a0997ce
     - [[Chris Aldrich]]
         - Format effects what is written and what is read. 
