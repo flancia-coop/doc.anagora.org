@@ -44,7 +44,8 @@
     - [[Chris Aldrich]]
         - Format effects what is written and what is read. 
         - Twitter is useful as a writing tool because of limited input
-- 
+    - [[Aram Zucker-Scharff]]: Twitter style writing with the limited input seems effective for creating forward motion. 
+    - 
 
 ## [[2024-06-19]]
 - Attending: [[Peter Kaminski]] [[Bentley Davis]] [[Flancian]]
