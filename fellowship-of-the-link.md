@@ -24,7 +24,14 @@
         - /now
         - [[issue tracker]] / [[project tracker]] URL
             - [[github]] by default?
-            
+
+## [[2024-07-03]]
+- Attending: [[Peter Kaminski]] [[Bentley Davis]] [[Flancian]]
+- Talk about Obsidian's attraction for world building tools 
+    - Alts: World Anvil, Campfire Writing, Scribner,
+    - Most alts are costly, Obsidian is free and popular among 'how to use tool makers'
+    -  
+
 ## [[2024-06-19]]
 - Attending: [[Peter Kaminski]] [[Bentley Davis]] [[Flancian]]
 - Green screens and [[Jitsi]] < [[Meet]] < [[Zoom]]
