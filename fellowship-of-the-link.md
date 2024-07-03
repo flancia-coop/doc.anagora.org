@@ -46,7 +46,8 @@
         - Format effects what is written and what is read. 
         - Twitter is useful as a writing tool because of limited input
     - [[Aram Zucker-Scharff]]: Twitter style writing with the limited input seems effective for creating forward motion. 
-    - 
+- Lacy, Tim. The Dream of a Democratic Culture: Mortimer J. Adler and the Great Books Idea. New York: Palgrave Macmillan, 2013 - https://www.amazon.com/Dream-Democratic-Culture-Mortimer-Intellectual/dp/0230337465?&linkCode=sl1&tag=boffosocko-20&linkId=377b8ccd203cd114ebfec8df3f2d26c1&language=en_US&ref_=as_li_ss_tl 
+- "Culture War" as a perpetual historical cycle - https://en.wikipedia.org/wiki/Kulturkampf
 
 ## [[2024-06-19]]
 - Attending: [[Peter Kaminski]] [[Bentley Davis]] [[Flancian]]
