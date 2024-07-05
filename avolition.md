@@ -1,1 +1,1 @@
-Avolition, as a symptom of various forms of [psychopathology](https://anagora.org/psychopathology), is the decrease in the ability to initiate and persist in self-directed purposeful activities.[1]
+I'm busy right now, try again later.
