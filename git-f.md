@@ -1,1 +1,1 @@
-I'm busy right now, try again later.
+#pull [[git alias]]
