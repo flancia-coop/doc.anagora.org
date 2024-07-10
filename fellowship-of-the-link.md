@@ -37,6 +37,25 @@
         - lots of recent but by now historical data -- e.g. how to best prompt a one year old model
             - could make for good content to publish (on a delayed schedule)
     - the [[newspaper paywall]] model could also apply/have advantages
+        - free articles and gifting the obligation of signing up to read them
+    - Good post by Yoshua Bengio, sections of the post include:
+
+- For those who think AGI and ASI are impossible or are centuries in the future
+- For those who think AGI is possible but only in many decades
+- For those who think that we may reach AGI but not ASI
+- For those who think that AGI and ASI will be kind to us
+- For those who think that corporations will only design well-behaving AIs and existing laws are sufficient
+- For those who think that we should accelerate AI capabilities research and not delay benefits of AGI 
+- For those concerned that talking about catastrophic risks will hurt efforts to mitigate short-term human-rights issues with AI
+- For those concerned with the US-China cold war
+- For those who think that international treaties will not work
+- For those who think the genie is out of the bottle and we should just let go and avoid regulation
+- For those who think that open-source AGI code and weights are the solution
+- For those who think worrying about AGI is falling for Pascal’s wager
+
+"Reasoning through arguments against taking AI safety seriously"
+https://yoshuabengio.org/2024/07/09/reasoning-through-arguments-against-taking-ai-safety-seriously/
+ 
     
 
 ## [[2024-07-03]]
