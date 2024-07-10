@@ -80,6 +80,11 @@
         - micro.blog as a good example 
         - is there an [[easy mode]] for indieweb that then you can build on?
         - is there a set of containers that someone could run to then give indieweb services to a *group* of people?
+    - What are some good fundation-like entities giving infrastructure services?
+        - archive.org
+        - apache
+        - mozilla (at times)
+        - wikimedia
  
  
     
