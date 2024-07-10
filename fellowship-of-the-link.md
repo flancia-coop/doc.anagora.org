@@ -29,6 +29,10 @@
 - Attending: [[Peter Kaminski]] [[Flancian]]
 - [[AI Coaching Forum]]
     - will be [[Discourse]] based
+    - would love a demo once it's ready
+    - there will be a paywall
+    - on the [[productivity equation]] of AI:
+        - easy to give away 
     
 
 ## [[2024-07-03]]
