@@ -75,6 +75,9 @@
             - multi-client for Mastodon, Bluesky, Nostr, Threads 
     - On the lack of search in the Fediverse
     - #F https://tootfinder.ch does opt-in search for Mastodon
+    - Doing [[Bluesky first]] this month.
+    - #PK on [[POSSE]] and [[indieweb]]
+        - micro.blog as a good example 
         - 
  
  
