@@ -38,23 +38,27 @@
             - could make for good content to publish (on a delayed schedule)
     - the [[newspaper paywall]] model could also apply/have advantages
         - free articles and gifting the obligation of signing up to read them
-    - Good post by Yoshua Bengio, sections of the post include:
-
-- For those who think AGI and ASI are impossible or are centuries in the future
-- For those who think AGI is possible but only in many decades
-- For those who think that we may reach AGI but not ASI
-- For those who think that AGI and ASI will be kind to us
-- For those who think that corporations will only design well-behaving AIs and existing laws are sufficient
-- For those who think that we should accelerate AI capabilities research and not delay benefits of AGI 
-- For those concerned that talking about catastrophic risks will hurt efforts to mitigate short-term human-rights issues with AI
-- For those concerned with the US-China cold war
-- For those who think that international treaties will not work
-- For those who think the genie is out of the bottle and we should just let go and avoid regulation
-- For those who think that open-source AGI code and weights are the solution
-- For those who think worrying about AGI is falling for Pascal’s wager
-
-"Reasoning through arguments against taking AI safety seriously"
-https://yoshuabengio.org/2024/07/09/reasoning-through-arguments-against-taking-ai-safety-seriously/
+- #PK Good post by Yoshua Bengio, sections of the post include:
+    - For those who think AGI and ASI are impossible or are centuries in the future
+    - For those who think AGI is possible but only in many decades
+    - For those who think that we may reach AGI but not ASI
+    - For those who think that AGI and ASI will be kind to us
+    - For those who think that corporations will only design well-behaving AIs and existing laws are sufficient
+    - For those who think that we should accelerate AI capabilities research and not delay benefits of AGI 
+    - For those concerned that talking about catastrophic risks will hurt efforts to mitigate short-term human-rights issues with AI
+    - For those concerned with the US-China cold war
+    - For those who think that international treaties will not work
+    - For those who think the genie is out of the bottle and we should just let go and avoid regulation
+    - For those who think that open-source AGI code and weights are the solution
+    - For those who think worrying about AGI is falling for Pascal’s wager
+    - [[Reasoning through arguments against taking AI safety seriously]]: https://yoshuabengio.org/2024/07/09/reasoning-through-arguments-against-taking-ai-safety-seriously/ 
+- #PK Ray Kurzweil, inventor / futurist / AI optimist, envisions that humans will merge with AI, which may excite you or disgust you. He has a new sequel book, "The Singularity Is Nearer: When We Merge with Computers", and he's doing interviews to promote the book.
+    - Guardian: 
+    https://www.theguardian.com/technology/article/2024/jun/29/ray-kurzweil-google-ai-the-singularity-is-nearer
+    - NYT: 
+    https://www.nytimes.com/2024/07/04/technology/ray-kurzweil-singularity.html
+    - Wired: 
+    https://www.wired.com/story/big-interview-ray-kurzweil/
  
     
 
