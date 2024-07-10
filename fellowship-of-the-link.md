@@ -59,7 +59,11 @@
     https://www.nytimes.com/2024/07/04/technology/ray-kurzweil-singularity.html
     - Wired: 
     https://www.wired.com/story/big-interview-ray-kurzweil/
-    - On merging with AI: [[Greg Egan]]'s [[Diaspora]]
+    - On merging with AI: [[Greg Egan]]'s [[Diaspora]] is interesting (on ways forward.)
+- #F on identifying with AI and the steps/slopes that way
+- "My (Unfiltered) Take on AI Safety" https://daveshap.substack.com/p/my-unfiltered-take-on-ai-safety
+- [[itbwtcl]]: 
+ 
  
     
 
