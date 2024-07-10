@@ -52,13 +52,14 @@
     - For those who think that open-source AGI code and weights are the solution
     - For those who think worrying about AGI is falling for Pascal’s wager
     - [[Reasoning through arguments against taking AI safety seriously]]: https://yoshuabengio.org/2024/07/09/reasoning-through-arguments-against-taking-ai-safety-seriously/ 
-- #PK Ray Kurzweil, inventor / futurist / AI optimist, envisions that humans will merge with AI, which may excite you or disgust you. He has a new sequel book, "The Singularity Is Nearer: When We Merge with Computers", and he's doing interviews to promote the book.
+- #PK Ray Kurzweil, inventor / futurist / AI optimist, envisions that humans will merge with AI, which may excite you or disgust you. He has a new sequel book, "[[The Singularity Is Nearer]]: When We Merge with Computers", and he's doing interviews to promote the book.
     - Guardian: 
     https://www.theguardian.com/technology/article/2024/jun/29/ray-kurzweil-google-ai-the-singularity-is-nearer
     - NYT: 
     https://www.nytimes.com/2024/07/04/technology/ray-kurzweil-singularity.html
     - Wired: 
     https://www.wired.com/story/big-interview-ray-kurzweil/
+    - On merging with AI: [[Greg Egan]]'s [[Diaspora]]
  
     
 
