@@ -8,7 +8,7 @@
 - Start recording, we're currently using Jitsi and that works best with a [[Chromium]] based browser.
 - Threads from last time we would like to pick up:
     - [[high leverage opportunities]] we can spot
-    - [ K[generative commons]]
+    - [[generative commons]]
         - [[generative linking]] (inferring links)
         - [[general commons agreement]] https://bra.in/8qeNWy
     - [[wishlist]] approach to worldbuilding
@@ -24,6 +24,12 @@
         - /now
         - [[issue tracker]] / [[project tracker]] URL
             - [[github]] by default?
+
+## [[2024-07-10]]
+- Attending: [[Peter Kaminski]] [[Flancian]]
+- [[AI Coaching Forum]]
+    - 
+    
 
 ## [[2024-07-03]]
 - Attending: [[Peter Kaminski]] [[Aram Zucker-Scharff]] [[Jerry Michalski]] [[Chris Aldrich]]
