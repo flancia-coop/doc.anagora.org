@@ -35,7 +35,8 @@
         - AI gives a significant productivity boost
         - so it should make it easy to give away a good fraction of content
         - lots of recent but by now historical data -- e.g. how to best prompt a one year old model
-            - 
+            - could make for good content to publish (on a delayed schedule)
+    - the [[newspaper paywall]] model could also apply/have advantages
     
 
 ## [[2024-07-03]]
