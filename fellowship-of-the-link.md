@@ -73,6 +73,9 @@
     - #PK found [[openvibe]]:
         - https://openvibe.social/ 
             - multi-client for Mastodon, Bluesky, Nostr, Threads 
+    - On the lack of search in the Fediverse
+    - #F https://tootfinder.ch does opt-in search for Mastodon
+        - 
  
  
     
