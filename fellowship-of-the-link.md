@@ -62,7 +62,9 @@
     - On merging with AI: [[Greg Egan]]'s [[Diaspora]] is interesting (on ways forward.)
 - #F on identifying with AI and the steps/slopes that way
 - "My (Unfiltered) Take on AI Safety" https://daveshap.substack.com/p/my-unfiltered-take-on-ai-safety
-- [[itbwtcl]]: 
+- [[itbwtcl]]: "Sophisticated people deride Disneyesque entertainments as pat and saccharine, but, hey, if the result of that is to instill basically warm and sympathetic reflexes, at a preverbal level, into hundreds of millions of unlettered media-steepers, then how bad can it be? We killed a lobster in our kitchen last night and my daughter cried for an hour. The Japanese, who used to be just about the fiercest people on earth, have become infatuated with cuddly adorable cartoon characters. My own family--the people I know best--is divided about evenly between people who will probably read this essay and people who almost certainly won't, and I can't say for sure that one group is necessarily warmer, happier, or better-adjusted than the other." 
+    - whole hog and drills
+    - "emacs outshines..."
  
  
     
