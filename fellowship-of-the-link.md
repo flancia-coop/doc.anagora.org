@@ -28,7 +28,7 @@
 ## [[2024-07-10]]
 - Attending: [[Peter Kaminski]] [[Flancian]]
 - [[AI Coaching Forum]]
-    - 
+    - will be [[Discourse]] based
     
 
 ## [[2024-07-03]]
