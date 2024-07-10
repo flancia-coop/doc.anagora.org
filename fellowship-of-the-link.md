@@ -69,6 +69,10 @@
         - Still rocking emacs!
     - [[hackmd]] conflicts
 - [[bluesky agora support]]
+    - #PK on dropping out of social media altogether after twitter started dying
+    - #PK found [[openvibe]]:
+        - https://openvibe.social/ 
+            - multi-client for Mastodon, Bluesky, Nostr, Threads 
  
  
     
