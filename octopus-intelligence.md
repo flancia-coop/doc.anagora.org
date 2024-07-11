@@ -11,5 +11,3 @@ Overall, octopus intelligence is a fascinating and complex topic that is still b
 -   [[[Octopus Intelligence](https://anagora.org/octopus%20intelligence "[[Octopus Intelligence]]")]]: This Agora node provides more in-depth information about octopus intelligence, including their cognitive abilities, learning capacities, and problem-solving skills.
 -   [[[Cephalopod Cognition](https://anagora.org/cephalopod%20cognition "[[Cephalopod Cognition]]")]]: This Agora node explores the cognitive abilities of cephalopods, a group of marine animals that includes octopuses, squids, and cuttlefish.
 -   [[[Octopus Vulgaris](https://anagora.org/octopus%20vulgaris "[[Octopus Vulgaris]]")]]: This Agora node provides information about the common octopus, a species that is often studied for its intelligence and behavior.
-
-I hope this helps you in your exploration of octopus intelligence! Let me know if you have any other questions or if there's anything else I can help you with.
