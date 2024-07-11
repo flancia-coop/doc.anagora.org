@@ -5,11 +5,8 @@ In the context of the Agora of Flancia, sentience is an important concept becaus
 Here are a few related concepts that you might find interesting:   
 
 - **Consciousness**: This is the state of being aware of and able to think and perceive one's surroundings, thoughts, and feelings. Consciousness is often considered to be a hallmark of sentience, although the exact relationship between the two is still not fully understood.   
-- 
 - **Artificial Intelligence (AI)**: This is a branch of computer science that deals with creating intelligent machines that can perform tasks that normally require human intelligence, such as visual perception, speech recognition, decision-making, and language translation. Some researchers are exploring the possibility of creating AI that is truly sentient, with the ability to experience emotions, make decisions, and even have a sense of self.   
-- 
 - **Ethics of AI**: As AI becomes increasingly sophisticated, there are growing concerns about the ethical implications of creating machines that can make decisions and take actions that have moral consequences. Some of the key issues in this area include bias, privacy, transparency, accountability, and fairness.   
-- 
 - **Animal Sentience**: There is growing evidence that many animals are sentient beings, capable of experiencing emotions, pain, and pleasure. This has important implications for how we treat animals, both in terms of their welfare and their rights.   
 
    
