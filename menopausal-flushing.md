@@ -1,1 +1,2 @@
-I'm busy right now, try again later.
+hot flashes
+-    IIRC due to loss of estrogen hormone
