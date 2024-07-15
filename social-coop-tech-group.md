@@ -43,6 +43,9 @@
             - could be mix and match coop cloud and bare-docker?
             - in general yes, but...
             - https://docs.coopcloud.tech/operators/handbook/#proxying-apps-outside-of-co-op-cloud-with-traefik
+        - easiest = third vps *our choice*
+            - we have the budget. want to be responsible with resources. but probably a lot easier.
+            - doesn't need to have a lot of resources to start with (e.g. until we import database etc., future brain)
 
 ## 2024-07-01
 
