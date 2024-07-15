@@ -34,6 +34,12 @@
         - what is paperclip?
             - ruby on rails file upload library
         - secret_key_base
+            - rule of thumb - generate fresh ones for alpha? probably no downside cos we're not trying to migrate user DB etc.
+    - S3 -> file-based for alpha?
+        - sure
+    - main Q - how to deploy in a way that doesn't interfere
+        - not on rhizome
+        - rhizom
 
 ## 2024-07-01
 
