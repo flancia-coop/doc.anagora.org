@@ -51,10 +51,7 @@
          - Get VPS
          - Fork deployment/mastodon in pass to deployment/alpha.mastodon (or so)
          - Continue with PR
-         - Deploy new VPS (integrate into)
-
-
-         - lost you :(
+         - Deploy new VPS (integrate into ansible)
 
 ## 2024-07-01
 
