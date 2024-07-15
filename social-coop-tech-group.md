@@ -39,7 +39,10 @@
         - sure
     - main Q - how to deploy in a way that doesn't interfere
         - not on rhizome
-        - rhizom
+        - hypha - but co-op cloud, running traefik.
+            - could be mix and match coop cloud and bare-docker?
+            - in general yes, but...
+            - https://docs.coopcloud.tech/operators/handbook/#proxying-apps-outside-of-co-op-cloud-with-traefik
 
 ## 2024-07-01
 
