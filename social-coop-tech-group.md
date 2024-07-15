@@ -11,6 +11,11 @@
     - Flancian going this week
     - Would 13 UTC work better?
         - Yes.
+    - Could we have a notifier bot to nudge people to come to this meeting/block it in their agendas mores?
+        - Likely :)
+- upgrades took place
+- then the queue issue
+    - https://social.coop/sidekiq    
 
 ## 2024-07-01
 
