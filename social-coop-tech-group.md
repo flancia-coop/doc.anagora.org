@@ -22,6 +22,9 @@
         - surely but I don't know it :)
     - https://leah.is/posts/scaling-the-mastodon/ - "The push queue is handling sending local posts to the instances of your remote followers."
         - how does this interact with federation? e.g. if someone's toot gets boosted a lot, would that lead to a bunch of push queue jobs?
+    - https://hazelweakly.me/blog/scaling-mastodon/
+    - for now things are truckin along
+    - 
 
 ## 2024-07-01
 
