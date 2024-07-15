@@ -4,6 +4,7 @@
 - checkins
     - [[calix]] attended [[HOPE]]: https://hope.net/, was gr8
     - [[flancian]]: nice weekend. tax return! and divorce proceedings.
+    - on how christianity sometimes makes for regressive social laws (e.g. in Argentina and the UK).
 - 
 
 ## 2024-07-01
