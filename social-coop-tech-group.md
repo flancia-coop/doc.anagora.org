@@ -3,7 +3,7 @@
 - Here: [[calix]] [[flancian]]
 - checkins
     - [[calix]] attended [[HOPE]]: https://hope.net/, was gr8
-    - [[flancian]]: nice weekend. tax return!
+    - [[flancian]]: nice weekend. tax return! and divorce proceedings.
 - 
 
 ## 2024-07-01
