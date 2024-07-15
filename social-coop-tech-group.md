@@ -46,6 +46,12 @@
         - easiest = third vps *our choice*
             - we have the budget. want to be responsible with resources. but probably a lot easier.
             - doesn't need to have a lot of resources to start with (e.g. until we import database etc., future brain)
+     - Next steps:
+         - Publish decision for getting third vps (smaller maybe) to the matrix room for review
+         - Get VPS
+         - Fork deployment/mastodon in pass to deployment/alpha.mastodon (or so)
+         - Continue with PR
+         - Deploy new VPS (integrate int)
 
 ## 2024-07-01
 
