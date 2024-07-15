@@ -9,6 +9,8 @@
 - balancing within the group
     - [[organizing circle]] is meeting Wednesdays at... 12 UTC?
     - Flancian going this week
+    - Would 13 UTC work better?
+        - Yes.
 
 ## 2024-07-01
 
