@@ -11,13 +11,17 @@
     - Flancian going this week
     - Would 13 UTC work better?
         - Yes.
-    - Could we have a notifier bot to nudge people to come to this meeting/block it in their agendas mores?
+    - [[Could we have a notifier bot]] to nudge people to come to this meeting/block it in their agendas mores?
         - Likely :)
 - upgrades took place
 - then the queue issue
     - https://social.coop/sidekiq
     - bumped concurrency
-    - didn't find anything online about "push" queue. most info about smaller instances. would be nice to find "recipes". how can we investigate mastodon to try to f
+    - didn't find anything online about "push" queue. most info about smaller instances. would be nice to find "recipes". how can we investigate mastodon to try to find where sidekiq jobs might be coming from?
+    - [[is there a way to get sidekiq data into datadog?]]
+        - surely but I don't know it :)
+    - https://leah.is/posts/scaling-the-mastodon/ - "The push queue is handling sending local posts to the instances of your remote followers."
+        - how does this interact with federation? e.g. if someone's toot gets boosted a lot, would that lead to a bunch of push queue jobs?
 
 ## 2024-07-01
 
