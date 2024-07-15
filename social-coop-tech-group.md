@@ -24,7 +24,11 @@
         - how does this interact with federation? e.g. if someone's toot gets boosted a lot, would that lead to a bunch of push queue jobs?
     - https://hazelweakly.me/blog/scaling-mastodon/
     - for now things are truckin along
-    - 
+- we should be better at moving stuff to the wiki 🐶🥫
+    - yep
+    - this would also make it easier to onboard people 
+- alpha.social.coop branch in ansible: 
+
 
 ## 2024-07-01
 
