@@ -1,8 +1,10 @@
 ## 2024-07-15
 
 - Here: [[calix]] [[flancian]]
-- [[calix]]
-    - attended [[HOPE]]: https://hope.net/
+- checkins
+    - [[calix]] attended [[HOPE]]: https://hope.net/, was gr8
+    - [[flancian]]: nice weekend. tax return!
+- 
 
 ## 2024-07-01
 
