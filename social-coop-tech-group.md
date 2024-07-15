@@ -15,7 +15,9 @@
         - Likely :)
 - upgrades took place
 - then the queue issue
-    - https://social.coop/sidekiq    
+    - https://social.coop/sidekiq
+    - bumped concurrency
+    - didn't find anything online about "push" queue. most info about smaller instances. would be nice to find "recipes". how can we investigate mastodon to try to f
 
 ## 2024-07-01
 
