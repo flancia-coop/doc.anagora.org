@@ -27,8 +27,13 @@
 - we should be better at moving stuff to the wiki 🐶🥫
     - yep
     - this would also make it easier to onboard people 
-- alpha.social.coop branch in ansible: 
-
+- alpha.social.coop branch in ansible: https://git.coop/social.coop/tech/ansible/-/tree/alpha.social.coop?ref_type=heads
+    - so far - replacing social.coop with alpha.social.coop
+    - questions, what should be shared vs separate?
+        - mailgun can probably be shared
+        - what is paperclip?
+            - ruby on rails file upload library
+        - secret_key_base
 
 ## 2024-07-01
 
