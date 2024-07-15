@@ -1,3 +1,9 @@
+## 2024-07-15
+
+- Here: [[calix]] [[flancian]]
+- [[calix]]
+    - attended [[HOPE]]: https://hope.net/
+
 ## 2024-07-01
 
 - Here: [[flancian]] [[evan boehs]]
