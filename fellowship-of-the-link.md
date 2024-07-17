@@ -51,6 +51,8 @@
             - #PK yet AIs could also be guides to such communities
             - [[Extension 765]]
    - #PK from an org I'm part of, something to consider if you're in California: "Please sign these letters to legislators, telling them that misguided AI laws will hurt startups and small companies and discourage AI innovation and investment in California." https://docs.google.com/forms/d/e/1FAIpQLSeR5VrXxDJA3sJtkWDAKLH1TT0havDxmCf9PYAupxECu1BQYw/viewform
+       - Oligarchy -> where the rich get to write the rules?
+       - 
 
 ## [[2024-07-10]]
 - Attending: [[Peter Kaminski]] [[Flancian]]
