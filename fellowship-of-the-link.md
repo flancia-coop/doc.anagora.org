@@ -65,8 +65,6 @@
             - Aram Zucker-Scharff says: yeah, I think the big thing also is transparency from these systems. 
             - Peter Kaminski says:non sequitur, if you're an AI geek (or just AI-curious), check out Moshi: https://moshi.chat/
             - https://x.com/kyutai_labs/status/1808883086173569222
- 
- 
 
 
 ## [[2024-07-10]]
