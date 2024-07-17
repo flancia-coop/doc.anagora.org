@@ -25,6 +25,8 @@
         - [[issue tracker]] / [[project tracker]] URL
             - [[github]] by default?
 
+## [[2024-07-17]]
+
 ## [[2024-07-10]]
 - Attending: [[Peter Kaminski]] [[Flancian]]
 - [[AI Coaching Forum]]
