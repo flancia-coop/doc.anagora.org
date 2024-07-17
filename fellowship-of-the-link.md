@@ -38,6 +38,10 @@
         - #PK maybe we're going into a future in which we'll have:
             - lots of derived work based on previous work, e.g. a million star wars
             - interactive experiences
+        - [[Mashups]] enhanced by AI
+            - Less creativity due to derivative nature
+            - But more creativity in the sheer audacity of the combinations possible?
+            - [[Billy]]
 
 ## [[2024-07-10]]
 - Attending: [[Peter Kaminski]] [[Flancian]]
