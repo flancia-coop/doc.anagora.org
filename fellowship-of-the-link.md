@@ -52,7 +52,7 @@
             - [[Extension 765]]
    - #PK from an org I'm part of, something to consider if you're in California: "Please sign these letters to legislators, telling them that misguided AI laws will hurt startups and small companies and discourage AI innovation and investment in California." https://docs.google.com/forms/d/e/1FAIpQLSeR5VrXxDJA3sJtkWDAKLH1TT0havDxmCf9PYAupxECu1BQYw/viewform
        - Oligarchy -> where the rich get to write the rules?
-       - 
+       - #CA "The factory cannot only look at the profit index. It must distribute wealth, culture, services, democracy. I think factory for man, not man for factory, right? The divisions between capital and labour, industry and agriculture, production and culture must be overcome. Sometimes, when I work late I see the lights of the workers working double shifts, the clerks, the engineers, and I feel like going to pay my respects." — [[Adriano Olivetti]]
 
 ## [[2024-07-10]]
 - Attending: [[Peter Kaminski]] [[Flancian]]
