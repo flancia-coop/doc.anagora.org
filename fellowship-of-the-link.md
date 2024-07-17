@@ -27,7 +27,8 @@
 
 ## [[2024-07-17]]
 - Attending: [[Peter Kaminski]] [[Chris Aldrich]] [[Flancian]]
-- 
+- [[Jitsi]] recording is on
+- Digital [[Syphons]] as an idea
 
 ## [[2024-07-10]]
 - Attending: [[Peter Kaminski]] [[Flancian]]
