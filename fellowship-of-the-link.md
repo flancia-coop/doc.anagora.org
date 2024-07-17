@@ -26,6 +26,8 @@
             - [[github]] by default?
 
 ## [[2024-07-17]]
+- Attending: [[Peter Kaminski]] [[Chris Aldrich]] [[Flancian]]
+- 
 
 ## [[2024-07-10]]
 - Attending: [[Peter Kaminski]] [[Flancian]]
