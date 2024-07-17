@@ -35,7 +35,9 @@
         - [[Streaming]] as a factor
         - [[Piracy]]
             - Example of a company recently shut down that was doing piracy on large scale as a service
-        - 
+        - #PK maybe we're going into a future in which we'll have:
+            - lots of derived work based on previous work, e.g. a million star wars
+            - interactive experiences
 
 ## [[2024-07-10]]
 - Attending: [[Peter Kaminski]] [[Flancian]]
