@@ -58,7 +58,10 @@
        - https://en.wikipedia.org/wiki/Lindy_effect as it applies to typewriter
        - #F on the form earlier: it would be nicer to have something richer that lets you both support and oppose arbitrary proposals.
            - #AZS [[HOPE]] had a session on this
-               - https://pol.is
+               - [[polis]]:
+                   - https://pol.is
+                   - part of the [[computational democracy]] project: https://github.com/compdemocracy/
+                   - Used by these folks: https://en.wikipedia.org/wiki/G0v 
  
 
 
