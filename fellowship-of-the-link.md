@@ -29,6 +29,8 @@
 - Attending: [[Peter Kaminski]] [[Chris Aldrich]] [[Flancian]]
 - [[Jitsi]] recording is on
 - Digital [[Syphons]] as an idea
+    - On the one hand it makes sense to keep copies of a lot of what we see
+    - But what about e.g. watching a movie? Would that give you the 
 
 ## [[2024-07-10]]
 - Attending: [[Peter Kaminski]] [[Flancian]]
