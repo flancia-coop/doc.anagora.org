@@ -55,7 +55,10 @@
        - #CA "The factory cannot only look at the profit index. It must distribute wealth, culture, services, democracy. I think factory for man, not man for factory, right? The divisions between capital and labour, industry and agriculture, production and culture must be overcome. Sometimes, when I work late I see the lights of the workers working double shifts, the clerks, the engineers, and I feel like going to pay my respects." — [[Adriano Olivetti]]
        - Typewriters and degrading industrial quality, planned obsolescence
        - #PK The [[Matthew effect]] of accumulated advantage, sometimes called the Matthew principle, is the tendency of individuals to accrue social or economic success in proportion to their initial level of popularity, friends, and wealth. It is sometimes summarized by the adage or platitude "the rich get richer and the poor get poorer". The term was coined by sociologists Robert K. Merton and Harriet Zuckerman in 1968 and takes its name from the Parable of the Talents in the biblical Gospel of Matthew. https://en.wikipedia.org/wiki/Matthew_effect
-       - 
+       - https://en.wikipedia.org/wiki/Lindy_effect as it applies to typewriter
+       - #F on the form earlier: it would be nicer to have something richer that lets you both support and oppose arbitrary proposals.
+           - #AZS [[HOPE]] had a session on this
+               - https://pol.is
  
 
 
