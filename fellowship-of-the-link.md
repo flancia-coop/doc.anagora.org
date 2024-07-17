@@ -62,6 +62,10 @@
                    - https://pol.is
                    - part of the [[computational democracy]] project: https://github.com/compdemocracy/
                    - Used by these folks: https://en.wikipedia.org/wiki/G0v 
+            - Aram Zucker-Scharff says: yeah, I think the big thing also is transparency from these systems. 
+            - Peter Kaminski says:non sequitur, if you're an AI geek (or just AI-curious), check out Moshi: https://moshi.chat/
+            - https://x.com/kyutai_labs/status/1808883086173569222
+ 
  
 
 
