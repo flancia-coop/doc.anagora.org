@@ -69,6 +69,8 @@
       - Things have been crazy for a while to the extent that someone shooting Trump didn't raise the bar that much
       - On trying to, and failing, to keep up -- like in the early days of the Trump administration
       - The half-life of news seems shorter and shorter
+      - Have been building a full [[timeline of Covid]]
+      - On examples of what people/communities were able to build in the US with a glimpse of 
 
 ## [[2024-07-10]]
 - Attending: [[Peter Kaminski]] [[Flancian]]
