@@ -33,6 +33,9 @@
     - But what about e.g. watching a movie? Would that give you the right to share the recording? It seems not (currently).
     - Chris on how the entertainment industry is shaped by this question and current events.
         - [[Streaming]] as a factor
+        - [[Piracy]]
+            - Example of a company recently shut down that was doing piracy on large scale as a service
+        - 
 
 ## [[2024-07-10]]
 - Attending: [[Peter Kaminski]] [[Flancian]]
