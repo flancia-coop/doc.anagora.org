@@ -44,7 +44,8 @@
             - #PK precedent in what happened once studio level recording/editing became widely available 
                 - [[Billy Eilish]] (sp?)
         - AI derived work maybe doesn't have the 'cultural commonality' sapect of current artifacts
-            - #PK but we can expect a few creators to be 'outliers' 
+            - #PK but we can expect a few creators to be 'outliers', widely followed, providing commonality
+            - Influencers
 
 ## [[2024-07-10]]
 - Attending: [[Peter Kaminski]] [[Flancian]]
