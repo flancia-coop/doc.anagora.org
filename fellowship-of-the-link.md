@@ -70,7 +70,9 @@
       - On trying to, and failing, to keep up -- like in the early days of the Trump administration
       - The half-life of news seems shorter and shorter
       - Have been building a full [[timeline of Covid]]
-      - On examples of what people/communities were able to build in the US with a glimpse of 
+      - On examples of what people/communities were able to build in the US with a glimpse of UBI and some housing stability
+      - #F on how we could learn more from past information
+      - #AZS [[Cory Docto]]
 
 ## [[2024-07-10]]
 - Attending: [[Peter Kaminski]] [[Flancian]]
