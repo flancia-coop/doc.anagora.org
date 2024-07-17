@@ -46,6 +46,8 @@
         - AI derived work maybe doesn't have the 'cultural commonality' sapect of current artifacts
             - #PK but we can expect a few creators to be 'outliers', widely followed, providing commonality
             - Influencers
+            - Explosion in cultural context may result in context collapse -- or just something different
+            - 
 
 ## [[2024-07-10]]
 - Attending: [[Peter Kaminski]] [[Flancian]]
