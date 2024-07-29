@@ -1,8 +1,17 @@
 ## 2024-07-29
 
-- Here: [[flancian]] [[edsu]] [[calix]] [[je-ff]]
+- Here: [[flancian]] [[edsu]] [[je-ff]] [[calix]] [[Dan]]
 - checkins:
-    - [[flancian]]: awesome trip to
+    - [[flancian]]: awesome trip to the beach!
+        - [[Ischia]]
+        - lots of reading
+        - finished several books!
+    - [[edsu]]: doing well, not so hot currently in Maryland.
+        - [[Lake Michigan]] for beach time
+        
+    - [[je-ff]]: 
+    - [[calix]]: 
+    - [[Dan]]: 
 
 ## 2024-07-15
 
