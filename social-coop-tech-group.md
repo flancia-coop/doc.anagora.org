@@ -83,6 +83,7 @@
         - **Bring up with the Organizing Circle in our meeting: what do we want to cross-post?**
         - **Decide on which approach to take here? From the N tools considered**
 - onboarding new members
+    - We could set up a session to discuss infrastructure
 - are registrations working ok?
 
 ## 2024-07-15
