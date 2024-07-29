@@ -39,7 +39,11 @@
         - +1 to that great list
         - unsure if we could support both sso and not sso but it might be worth it to let the long tail not lose access to the instance
     - Ed: +1 to needing support the long tail, unsure how we would even reach out to users or they would reach out to us
-        - Calix: agree that designating contact channels is top priority in the plan. In terms of having both
+        - Calix: agree that designating contact channels is top priority in the plan. 
+            - In terms of having both -- it's an interface issue. In Mastodon you get user/password and 'sign on with single sign-on'. People *will* confuse the both.
+            - We need to decide how to get people to onboard to SSO.
+            - Should we post to loomio about this/start a poll?
+                - Dan: to which extent should this be coordinate with the community working group? 
 - What happened with the 500 char limit?
 - alpha.social.coop
     - alpha.social.coop branch in ansible: https://git.coop/social.coop/tech/ansible/-/tree/alpha.social.coop?ref_type=heads
