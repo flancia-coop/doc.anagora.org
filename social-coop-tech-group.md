@@ -35,7 +35,11 @@
                 - build up that plan
                     - https://doc.anagora.org/twg-2024?edit may have something to get started, but the list above is probably better
                 - test the setting, probably in alpha
-            - 
+    - Flancian:
+        - +1 to that great list
+        - unsure if we could support both sso and not sso but it might be worth it to let the long tail not lose access to the instance
+    - Ed: +1 to needing support the long tail, unsure how we would even reach out to users or they would reach out to us
+        - Calix: agree that designating contact channels is top priority in the plan. In terms of having both
 - What happened with the 500 char limit?
 - alpha.social.coop
     - alpha.social.coop branch in ansible: https://git.coop/social.coop/tech/ansible/-/tree/alpha.social.coop?ref_type=heads
