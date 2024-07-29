@@ -44,6 +44,8 @@
             - We need to decide how to get people to onboard to SSO.
             - Should we post to loomio about this/start a poll?
                 - Dan: to which extent should this be coordinate with the community working group? 
+                - **Flancian: will bring this up with the organizing circle and the CWG.**
+     - 
 - What happened with the 500 char limit?
 - alpha.social.coop
     - alpha.social.coop branch in ansible: https://git.coop/social.coop/tech/ansible/-/tree/alpha.social.coop?ref_type=heads
