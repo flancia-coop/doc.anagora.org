@@ -16,6 +16,7 @@
         - brand new to the coop and to the group
     - [[calix]] (3wordchant): 
         - doing fine, still in NYC
+        - trying to decide whether to attend dweb in the west coast
 - Seeded agenda
 
 ## 2024-07-15
