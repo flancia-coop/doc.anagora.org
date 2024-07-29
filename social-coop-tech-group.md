@@ -1,3 +1,9 @@
+## 2024-07-29
+
+- Here: [[flancian]] [[edsu]] [[calix]] [[je-ff]]
+- checkins:
+    - [[flancian]]: awesome trip to
+
 ## 2024-07-15
 
 - Here: [[calix]] [[flancian]]
