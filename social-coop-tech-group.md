@@ -59,8 +59,11 @@
     - Evan is interested, has the patch figured out
     - Blocking on alpha
     - https://github.com/mastodon/mastodon/pull/30091#issuecomment-2241565907 happened
-    - Ed: it's unclear what this is blocked by.
+    - Ed: it's unclear what this is blocked by, or when this will be reconsidered.
+    - [[Fediversalist papers]] might help here. 🤞
 - organizing circle pass-arounds
+    - Meeting is now on Wednesdays (every other one, including this upcoming one) at 13 UTC.
+    - Calix is in the rotation now
 - loomio RSS announcements: https://git.coop/social.coop/tech/operations/-/issues/81
 - onboarding new members
 - are registrations working ok?
