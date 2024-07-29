@@ -20,12 +20,19 @@
 - Seed agenda
     - Done :)
 - Follow-up about SSO wiki login
+    - Dan: brought this up in Matrix, understanding is that there is a possibility of pointing mastodon at auth.social.coop as the SoT for auth
+        - Happy to do exploratory work
+    - Calix: yes, had a few discussions about how to do this properly
+        - TLDR: 
+            - it seems it wouldn't be possible for people to have people keep their passwords
+            - we probably don´
 - What happened with the 500 char limit?
 - alpha.social.coop
     - alpha.social.coop branch in ansible: https://git.coop/social.coop/tech/ansible/-/tree/alpha.social.coop?ref_type=heads
 - organizing circle pass-arounds
 - loomio RSS announcements: https://git.coop/social.coop/tech/operations/-/issues/81
 - onboarding new members
+- are registrations working ok?
 - <placeholder>
 - <placeholder>
 
