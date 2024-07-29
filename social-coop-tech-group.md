@@ -73,7 +73,8 @@
         - When do we want to redo the "open house/office hours"
 - loomio RSS announcements: https://git.coop/social.coop/tech/operations/-/issues/81
     - Ed: Nathan Schneider messaged us/some of us to onboard a script that is already on git.coop to cross-post loomio activity to mastodon
-    - It would 
+    - How much would we want to surface in socialcoop@social.coop? Activity for all WGs? Or only some?
+    - Flancian: there is a question of how to do it, and where (e.g. hypha). Could start with it running it locally.  And then there is a question of what to 
 - onboarding new members
 - are registrations working ok?
 
