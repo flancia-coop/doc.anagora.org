@@ -54,8 +54,11 @@
     - Projects the alpha would unblock
         - SSO
         - >500 chars limit
-        - rest
+        - restores
 - What happened with the 500 char limit?
+    - Evan is interested, has the patch figured out
+    - Blocking on alpha
+    - 
 - organizing circle pass-arounds
 - loomio RSS announcements: https://git.coop/social.coop/tech/operations/-/issues/81
 - onboarding new members
