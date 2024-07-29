@@ -89,7 +89,7 @@
 - **are registrations working ok?**
     - They are ok-ish.
     - Sometimes work, mostly.
-        - As we were me
+        - As we were meeting there was a question posted to Matrix "did you receive XXX signup? they are asking if we got it" and I think fixing this will create more assurance all around that we didn't lose any applications.
     - But there are rough edges:
         - Sometimes the spam trap over-triggers
         - The feedback is lacking even when it processes a registration; it just dumps the user in join.social.coop's root, and you go 'huh' / are unsure if it worked
