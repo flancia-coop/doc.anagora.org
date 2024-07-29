@@ -17,7 +17,17 @@
     - [[calix]] (3wordchant): 
         - doing fine, still in NYC
         - trying to decide whether to attend dweb in the west coast
-- Seeded agenda
+- Seed agenda
+    - Done :)
+- Follow-up about SSO wiki login
+- What happened with the 500 char limit?
+- alpha.social.coop
+    - alpha.social.coop branch in ansible: https://git.coop/social.coop/tech/ansible/-/tree/alpha.social.coop?ref_type=heads
+- organizing circle pass-arounds
+- loomio RSS announcements: https://git.coop/social.coop/tech/operations/-/issues/81
+- onboarding new members
+- <placeholder>
+- <placeholder>
 
 ## 2024-07-15
 
