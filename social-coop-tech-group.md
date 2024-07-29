@@ -45,10 +45,10 @@
             - Should we post to loomio about this/start a poll?
                 - Dan: to which extent should this be coordinate with the community working group? 
                 - **Flancian: will bring this up with the organizing circle and the CWG.**
-     - 
-- What happened with the 500 char limit?
 - alpha.social.coop
     - alpha.social.coop branch in ansible: https://git.coop/social.coop/tech/ansible/-/tree/alpha.social.coop?ref_type=heads
+    - Status: one commit in the branch, needs at least one more and an update to pass. Then we need to get a VPS to deploy, and set it up in ansible. 
+- What happened with the 500 char limit?
 - organizing circle pass-arounds
 - loomio RSS announcements: https://git.coop/social.coop/tech/operations/-/issues/81
 - onboarding new members
