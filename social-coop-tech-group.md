@@ -67,6 +67,8 @@
     - Calendar entry hasn't been updated yet but it will be at 13 UTC
         - Flancian will try to update or ping MarieVC
     - https://www.loomio.com/d/02Ms4iH8/organizing-circle-meeting-2024-31-july-wednesday-1300-utc
+    - Meeting the Organizing Circle
+        - Reu
 - loomio RSS announcements: https://git.coop/social.coop/tech/operations/-/issues/81
 - onboarding new members
 - are registrations working ok?
