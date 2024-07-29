@@ -78,6 +78,7 @@
     - [[MLTSHP]]: https://github.com/MLTSHP/best-of-mltshp-bot/
     - [[Feediverse]]: https://pypi.org/project/feediverse/
     - [[MastoFeed]]: https://mastofeed.org/
+    - [[rss-to-activitypub]]: https://github.com/dariusk/rss-to-activitypub
     - Next actions:
         - **Create test account in the instance to play with?**
         - **Bring up with the Organizing Circle in our meeting: what do we want to cross-post?**
