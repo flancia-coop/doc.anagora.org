@@ -59,6 +59,7 @@
     - Evan is interested, has the patch figured out
     - Blocking on alpha
     - https://github.com/mastodon/mastodon/pull/30091#issuecomment-2241565907 happened
+    - Ed: it's unclear what this is blocked by.
 - organizing circle pass-arounds
 - loomio RSS announcements: https://git.coop/social.coop/tech/operations/-/issues/81
 - onboarding new members
