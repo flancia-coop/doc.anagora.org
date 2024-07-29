@@ -25,7 +25,15 @@
     - Calix: yes, had a few discussions about how to do this properly
         - TLDR: 
             - it seems it wouldn't be possible for people to have people keep their passwords
-            - we probably don´
+            - we probably don't want to support both SSO and non-SSO at the same time
+            - steps:
+                - notify the whole coop that the change is upcoming
+                - invite people to sign up at keycloak (auth.social.coop), before we do the switch
+                - do the switch
+                - fix issues
+            - things to do:
+                - build up that plan
+                - test the setting, probably in alpha
 - What happened with the 500 char limit?
 - alpha.social.coop
     - alpha.social.coop branch in ansible: https://git.coop/social.coop/tech/ansible/-/tree/alpha.social.coop?ref_type=heads
