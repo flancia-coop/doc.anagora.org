@@ -33,7 +33,9 @@
                 - fix issues
             - things to do:
                 - build up that plan
+                    - https://doc.anagora.org/twg-2024?edit may have something to get started, but the list above is probably better
                 - test the setting, probably in alpha
+            - 
 - What happened with the 500 char limit?
 - alpha.social.coop
     - alpha.social.coop branch in ansible: https://git.coop/social.coop/tech/ansible/-/tree/alpha.social.coop?ref_type=heads
