@@ -69,12 +69,11 @@
     - https://www.loomio.com/d/02Ms4iH8/organizing-circle-meeting-2024-31-july-wednesday-1300-utc
     - Meeting the Organizing Circle
         - Repurposing our next sync would be the easiest to organize
-        - Let's start half an hour earlier in 2w to cover tech topics, and invite them at the regular time
+        - **Let's start half an hour earlier in 2w to cover tech topics, and invite them at the regular time**
+        - When do we want to redo the "open house/office hours"
 - loomio RSS announcements: https://git.coop/social.coop/tech/operations/-/issues/81
 - onboarding new members
 - are registrations working ok?
-- <placeholder>
-- <placeholder>
 
 ## 2024-07-15
 
