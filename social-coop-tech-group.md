@@ -8,10 +8,15 @@
         - finished several books!
     - [[edsu]]: doing well, not so hot currently in Maryland.
         - [[Lake Michigan]] for beach time
-        
-    - [[je-ff]]: 
-    - [[calix]]: 
+            - "Sweet Sea"
+        - Nice to be back!
     - [[Dan]]: 
+        - Missing these meetings!
+    - [[je-ff]]:
+        - brand new to the coop and to the group
+    - [[calix]] (3wordchant): 
+        - doing fine, still in NYC
+- Seeded agenda
 
 ## 2024-07-15
 
