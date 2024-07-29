@@ -72,6 +72,8 @@
         - **Let's start half an hour earlier in 2w to cover tech topics, and invite them at the regular time**
         - When do we want to redo the "open house/office hours"
 - loomio RSS announcements: https://git.coop/social.coop/tech/operations/-/issues/81
+    - Ed: Nathan Schneider messaged us/some of us to onboard a script that is already on git.coop to cross-post loomio activity to mastodon
+    - It would 
 - onboarding new members
 - are registrations working ok?
 
