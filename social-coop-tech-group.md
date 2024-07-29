@@ -77,9 +77,11 @@
     - Flancian: there is a question of how to do it, and where (e.g. hypha). Could start with it running it locally.  And then there is a question of what to post. This could be a good question to bring up to the organizing circle.
     - [[MLTSHP]]: https://github.com/MLTSHP/best-of-mltshp-bot/
     - [[Feediverse]]: https://pypi.org/project/feediverse/
-    - Next action:
+    - [[MastoFeed]]: https://mastofeed.org/
+    - Next actions:
+        - **Create test account in the instance to play with?**
         - **Bring up with the Organizing Circle in our meeting: what do we want to cross-post?**
-        - **Decide on which approach to take here?**
+        - **Decide on which approach to take here? From the N tools considered**
 - onboarding new members
 - are registrations working ok?
 
