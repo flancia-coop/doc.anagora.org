@@ -48,6 +48,13 @@
 - alpha.social.coop
     - alpha.social.coop branch in ansible: https://git.coop/social.coop/tech/ansible/-/tree/alpha.social.coop?ref_type=heads
     - Status: one commit in the branch, needs at least one more and an update to pass. Then we need to get a VPS to deploy, and set it up in ansible. 
+    - Next steps:
+        - **Flancian: set up coworking session**
+        - **Flancian: get new VPS**
+    - Projects the alpha would unblock
+        - SSO
+        - >500 chars limit
+        - rest
 - What happened with the 500 char limit?
 - organizing circle pass-arounds
 - loomio RSS announcements: https://git.coop/social.coop/tech/operations/-/issues/81
