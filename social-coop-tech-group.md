@@ -86,7 +86,14 @@
     - We could set up a session to discuss infrastructure?
         - Would love that!
         - Let's agree over matrix? Default to sometime next week.
-- are registrations working ok?
+- **are registrations working ok?**
+    - They are ok-ish.
+    - Sometimes work, mostly.
+        - As we were me
+    - But there are rough edges:
+        - Sometimes the spam trap over-triggers
+        - The feedback is lacking even when it processes a registration; it just dumps the user in join.social.coop's root, and you go 'huh' / are unsure if it worked
+        - Fixing this/upgrading would mean some project work in node.js
 
 ## 2024-07-15
 
