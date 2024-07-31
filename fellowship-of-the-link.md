@@ -31,7 +31,8 @@
     - Jerry:
         - redesigning website
             - jerrymichalski.com
-                - sometimes still giving 
+                - sometimes still giving issues for https://jerrymichalski.com
+                - SSL issue
         - reel is in production
         - looking for speaking gigs
         - looking for ways to explain some concepts better:
