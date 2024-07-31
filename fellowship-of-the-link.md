@@ -54,9 +54,10 @@
         - Back from Ischia!
 - Homework time
     - We need a better word
-    - we want a bot to nudge us to do our homework halfway through the week (measured wed-to-tue?)
+    - We want a bot to nudge us to do our homework halfway through the week (measured wed-to-tue?)
     - [[aram]] https://aramzs.xyz/essays/the-internet-is-a-series-of-webs/
     - [[semilink]] proposals
+        - Task: pick a link and do a writeup
  
 
 ## [[2024-07-17]]
