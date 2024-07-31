@@ -40,8 +40,10 @@
     - Aram:
         - trouble with audio in jitsi, at least on firefox
         - happy with a new M1 based laptop, refurbished
-        - using [[warp]], command line tool which is ai infused
-        - working on the [[timeline]] tool, iterating on moving elements to
+        - using [[warp]]:
+            - command line tool which is ai infused
+            - https://www.warp.dev/warp-ai
+        - working on the [[timeline]] tool, iterating on moving elements to htmx
     - Peter:
         - Doing good :)
     - Flancian:
