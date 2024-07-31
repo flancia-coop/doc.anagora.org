@@ -31,6 +31,7 @@
     - Jerry:
         - redesigning website
             - jerrymichalski.com
+                - sometimes still giving 
         - reel is in production
         - looking for speaking gigs
         - looking for ways to explain some concepts better:
