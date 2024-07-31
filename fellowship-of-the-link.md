@@ -47,11 +47,12 @@
         - working on the [[timeline]] tool, iterating on moving elements to htmx
             - could we use it within the fellowship?
             - maybe extract links from these notes, and jerry's brain entries associated with our calls, and put them in a timeline?
-            - #JM [[LATCH]]: Location, Alphabets, Time, Categories, Hierarchies 
+            - #JM [[LATCH]]: Location, Alphabets, Time, Categories, Hierarchies
     - Peter:
         - Doing good :)
     - Flancian:
         - 
+- 
 
 ## [[2024-07-17]]
 - Attending: [[Peter Kaminski]] [[Chris Aldrich]] [[Flancian]]
