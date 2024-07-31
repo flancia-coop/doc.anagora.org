@@ -44,6 +44,8 @@
             - command line tool which is ai infused
             - https://www.warp.dev/warp-ai
         - working on the [[timeline]] tool, iterating on moving elements to htmx
+            - could we use it within the fellowship?
+            - maybe extract links from these notes, and jerry's brain entries associated with our calls, and put them in a timeline?
     - Peter:
         - Doing good :)
     - Flancian:
