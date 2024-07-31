@@ -25,7 +25,21 @@
         - [[issue tracker]] / [[project tracker]] URL
             - [[github]] by default?
 
-## [[2024-07-17]]
+## [[2024-07-31]]
+- Attending: [[Peter Kaminski]] [[Jerry Michalski]] [[Flancian]]
+- [[Check ins]]
+    - Jerry:
+        - redesigning website
+            - jerrymichalski.com
+        - reel is in production
+        - looking for speaking gigs
+        - looking for ways to explain some concepts better:
+            - neobooks
+    - Peter:
+        - Doing good :)
+    - Flancian:
+        - 
+
 ## [[2024-07-17]]
 - Attending: [[Peter Kaminski]] [[Chris Aldrich]] [[Flancian]]
 - [[Jitsi]] recording is on
