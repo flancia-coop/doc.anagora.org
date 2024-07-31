@@ -26,6 +26,7 @@
             - [[github]] by default?
 
 ## [[2024-07-17]]
+## [[2024-07-17]]
 - Attending: [[Peter Kaminski]] [[Chris Aldrich]] [[Flancian]]
 - [[Jitsi]] recording is on
 - Digital [[Syphons]] as an idea
