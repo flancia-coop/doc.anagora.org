@@ -56,8 +56,9 @@
     - We need a better word
     - We want a bot to nudge us to do our homework halfway through the week (measured wed-to-tue?)
     - [[aram]] https://aramzs.xyz/essays/the-internet-is-a-series-of-webs/
+        - Aram looking at a series of articles about the future of the web being better than its past.
     - [[semilink]] proposals
-        - Task: pick a link and do a writeup
+        - Task: pick a link and do a writeup on it; then discuss for five minutes.
  
 
 ## [[2024-07-17]]
