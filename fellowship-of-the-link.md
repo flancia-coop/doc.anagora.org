@@ -37,6 +37,8 @@
         - looking for speaking gigs
         - looking for ways to explain some concepts better:
             - neobooks
+    - Aram:
+        - trou
     - Peter:
         - Doing good :)
     - Flancian:
