@@ -38,7 +38,10 @@
         - looking for ways to explain some concepts better:
             - neobooks
     - Aram:
-        - trou
+        - trouble with audio in jitsi, at least on firefox
+        - happy with a new M1 based laptop, refurbished
+        - using [[warp]], command line tool which is ai infused
+        - working on the [[timeline]] tool, iterating on moving elements to
     - Peter:
         - Doing good :)
     - Flancian:
