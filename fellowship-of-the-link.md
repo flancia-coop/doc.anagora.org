@@ -18,6 +18,7 @@
     - [[Aram Zucker-Scharff]] would like to generalize the archiving tool / link card generator he's been working on.
     - [[Flancian]] would like to discuss [[Interwiki]] links and the [[common hub]] approach for search and entity resolution
     - [[SJ]] wants to discuss / address this at hacking days at Wikimania in August (you're all invited to Singapore ;) https://wikimania.wikimedia.org/wiki/2023:Wikimania 
+    - Build a timeline of links shared in these calls using Aram's tool.
 - #push [[fotl threads]]
     - define:
         - [[wiki]] / root URL
@@ -46,6 +47,8 @@
         - working on the [[timeline]] tool, iterating on moving elements to htmx
             - could we use it within the fellowship?
             - maybe extract links from these notes, and jerry's brain entries associated with our calls, and put them in a timeline?
+            - #JM [[LATCH]]: Location, Alphabets, Time, Categories, Hierarchies 
+
     - Peter:
         - Doing good :)
     - Flancian:
