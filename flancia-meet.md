@@ -35,7 +35,7 @@
 - [[Fellowship of the Link]]
 - [[Agora]]
 - Historia de [[social.coop]]
-- Cañuelas
+- [[Cañuelas]]
 
 
 # [[flancia meet 2024-07]]
