@@ -16,6 +16,11 @@
         - [[Sociocracia América Latina]]
         - Sutty quizás adopte una estructura sociocrática
     - Gobernancia
+- [[Sutty 2]]
+    - More user friendly
+    - Integración con el Fediverse
+- [[Christopher Alexander]]
+- [[Fellowship of the Link]]
 
 
 # [[flancia meet 2024-07]]
