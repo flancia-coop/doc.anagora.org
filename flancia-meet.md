@@ -5,11 +5,16 @@
 # [[flancia meet 2024-08-02]]
 - [[Eduardo Mercovich]] [[Flancian]]
 - Saludos!
-    - 
+    -  
 - Contexto
     - "Entrevista"
-    - [[Sutty]] (cooperativa)
-    - Diseño
+    - [[Sutty]] (cooperativa) -- Eduardo se unió
+- Intereses
+    - Diseño inclusivo
+    - Sociocracia / comunidad intencional
+        - [[Sociocracia América Latina]]
+        - Sutty quizás adopte una estructura sociocrática
+    - Gobernancia
 
 
 # [[flancia meet 2024-07]]
