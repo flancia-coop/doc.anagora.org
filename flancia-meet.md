@@ -2,9 +2,18 @@
 - We meet best-effort every Saturday usually around 9 UTC.
 - This is where we have community maintained notes :)
 
+# [[flancia meet 2024-08-02]]
+- [[Eduardo Mercovich]] [[Flancian]]
+- Saludos!
+    - 
+- Contexto
+    - "Entrevista"
+    - [[Sutty]] (cooperativa)
+    - Diseño
+
+
 # [[flancia meet 2024-07]]
-# [[flancia meet 2024-07]]
-- 
+- Mostly solo on/off :)
 
 
 # [[flancia meet 2024-06-13]]
