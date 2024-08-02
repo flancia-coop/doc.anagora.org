@@ -28,8 +28,8 @@
     - el Fediverso
         - lo bueno
         - lo malo
-            - los nazis
-            - la moderación
+            - los nazis/los violentos
+            - la moderación limitada
     - Posibilidades de cruce entre la web y el fediverso
 - [[Christopher Alexander]]
 - [[Fellowship of the Link]]
