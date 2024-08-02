@@ -21,7 +21,10 @@
     - Integración con el Fediverse
 - Entrevista
     - Contexto personal
+        - Historia personal
     - Redes sociales
+        - Qué redes corporativas usás?
+        - Qué es lo que te gusta de ellas?
     - el Fediverso
     - Posibilidades de cruce entre la web y el fediverso
 - [[Christopher Alexander]]
