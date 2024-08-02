@@ -34,6 +34,7 @@
 - [[Christopher Alexander]]
 - [[Fellowship of the Link]]
 - [[Agora]]
+- Historia de [[social.coop]]
 
 
 # [[flancia meet 2024-07]]
