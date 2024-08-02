@@ -19,6 +19,11 @@
 - [[Sutty 2]]
     - More user friendly
     - Integración con el Fediverse
+- Entrevista
+    - Contexto personal
+    - Redes sociales
+    - el Fediverso
+    - Posibilidades de cruce entre la web y el fediverso
 - [[Christopher Alexander]]
 - [[Fellowship of the Link]]
 - [[Agora]]
