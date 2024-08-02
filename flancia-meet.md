@@ -2,6 +2,11 @@
 - We meet best-effort every Saturday usually around 9 UTC.
 - This is where we have community maintained notes :)
 
+# [[flancia meet 2024-07]]
+# [[flancia meet 2024-07]]
+- 
+
+
 # [[flancia meet 2024-06-13]]
 - [[bouncepaw]] [[flancian]] 
 - Weeks off!
