@@ -9,6 +9,7 @@
 - Contexto
     - "Entrevista"
     - [[Sutty]] (cooperativa) -- Eduardo se unió
+    - WYSIWYG on top of Jekyll
 - Intereses
     - Diseño inclusivo
     - Sociocracia / comunidad intencional
