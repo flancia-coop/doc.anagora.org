@@ -36,6 +36,7 @@
 - [[Agora]]
 - Historia de [[social.coop]]
 - [[Cañuelas]]
+- Hagamos un proyecto!
 
 
 # [[flancia meet 2024-07]]
