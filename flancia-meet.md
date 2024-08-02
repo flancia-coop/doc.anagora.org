@@ -21,6 +21,7 @@
     - Integración con el Fediverse
 - [[Christopher Alexander]]
 - [[Fellowship of the Link]]
+- [[Agora]]
 
 
 # [[flancia meet 2024-07]]
