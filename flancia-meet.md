@@ -26,6 +26,10 @@
         - Qué redes corporativas usás?
         - Qué es lo que te gusta de ellas?
     - el Fediverso
+        - lo bueno
+        - lo malo
+            - los nazis
+            - la moderación
     - Posibilidades de cruce entre la web y el fediverso
 - [[Christopher Alexander]]
 - [[Fellowship of the Link]]
