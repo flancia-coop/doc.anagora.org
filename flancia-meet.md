@@ -5,7 +5,8 @@
 # [[flancia meet 2024-08-03]]
 - [[bouncepaw]] [[flancian]]
 - new flat!
-- [[jaybirds]]
+- [[jaybirds]] and ribbons
+- [[governable spaces]]
 
 # [[flancia meet 2024-08-02]]
 - [[Eduardo Mercovich]] [[Flancian]]
