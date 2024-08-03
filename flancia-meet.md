@@ -5,8 +5,9 @@
 # [[flancia meet 2024-08-03]]
 - [[bouncepaw]] [[flancian]]
 - new flat!
+    - very nice, modern, cool surroundings!
 - [[jaybirds]] and ribbons
-- [[governable spaces]]
+- [[social coop]] and the [[fediverse]] and [[governable spaces]]
 
 # [[flancia meet 2024-08-02]]
 - [[Eduardo Mercovich]] [[Flancian]]
