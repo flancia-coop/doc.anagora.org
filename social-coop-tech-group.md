@@ -7,8 +7,11 @@
         - Add an alias for [name]@social.coop that forwards to a personal email address
     - Get a git.coop account -- probably at https://git.coop/users/sign_up
     - Communicate your account to a TWG member so they add you to the right Git.coop groups
+        - That TWG member should add the username to the tech [Group members](https://git.coop/groups/social.coop/tech/-/group_members)
 - Git repos
     - [[pass]] contains all our shared credentials, either for logging in as a TWG member or for our systems to use when accessing resources
+- Possible AIs
+    - 
  
 
 ## 2024-07-29
