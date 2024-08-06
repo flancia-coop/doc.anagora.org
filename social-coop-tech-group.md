@@ -1,4 +1,9 @@
-## 2024-07-29
+## 2024-08-06
+- Here: [[je-ff]] [[Dan]] [[flancian]] 
+- Onboarding
+    - Get @social.coop email alias
+    - Get a git.coop account -- probably at https://git.coop/users/sign_up
+ 
 
 ## 2024-07-29
 
