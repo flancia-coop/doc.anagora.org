@@ -8,12 +8,15 @@
     - Get a git.coop account -- probably at https://git.coop/users/sign_up
     - Communicate your account to a TWG member so they add you to the right Git.coop groups
         - That TWG member should add the username to the tech [Group members](https://git.coop/groups/social.coop/tech/-/group_members)
+    - Add public keys:
+        - SSH public key to ansible repo in roles/server/files
+        - GPG public key to pass repo somewhere :)
 - Git repos
     - [[pass]] contains all our shared credentials, either for logging in as a TWG member or for our systems to use when accessing resources
     - [[ansible]] configures the servers.
         - `rhizome.playbook.yml` configures the live server that runs social.coop
         - `hypha.playbook.yml` is for an experimental server
-        - the `server` role has 
+        - the `server` role has [public keys](https://git.coop/social.coop/tech/ansible/-/tree/master/roles/server/files/public-keys?ref_type=heads) for login access
 - Possible AIs
     - Do a pass over https://git.coop/groups/social.coop/tech/-/group_members and see if we want to disable access for users that haven't been involved in very long
  
