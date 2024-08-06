@@ -2,7 +2,10 @@
 - Here: [[je-ff]] [[Dan]] [[flancian]] 
 - Onboarding
     - Get @social.coop email alias
+    - Set up using Web architect
     - Get a git.coop account -- probably at https://git.coop/users/sign_up
+- Git repos
+    - [[pass]] contains all our shared credentials, 
  
 
 ## 2024-07-29
