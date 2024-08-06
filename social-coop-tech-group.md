@@ -11,6 +11,7 @@
     - Add public keys:
         - SSH public key to ansible repo in roles/server/files
         - GPG public key to pass repo somewhere :)
+    - Someone with existing access needs to re-encrypt [[pass]] files with the new GPG key
 - Git repos
     - [[pass]] contains all our shared credentials, either for logging in as a TWG member or for our systems to use when accessing resources
     - [[ansible]] configures the servers.
