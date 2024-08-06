@@ -10,6 +10,9 @@
         - That TWG member should add the username to the tech [Group members](https://git.coop/groups/social.coop/tech/-/group_members)
 - Git repos
     - [[pass]] contains all our shared credentials, either for logging in as a TWG member or for our systems to use when accessing resources
+    - [[ansible]] configures the servers.
+        - `rhizome.playbook.yml` configures the live server that runs social.coop
+        - 
 - Possible AIs
     - Do a pass over https://git.coop/groups/social.coop/tech/-/group_members and see if we want to disable access for users that haven't been involved in very long
  
