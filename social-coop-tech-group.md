@@ -11,7 +11,7 @@
 - Git repos
     - [[pass]] contains all our shared credentials, either for logging in as a TWG member or for our systems to use when accessing resources
 - Possible AIs
-    - 
+    - Do a pass over https://git.coop/groups/social.coop/tech/-/group_members and see if we want to disable access for users that haven't been involved in very long
  
 
 ## 2024-07-29
