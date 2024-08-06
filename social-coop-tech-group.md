@@ -14,6 +14,7 @@
     - Someone with existing access needs to re-encrypt [[pass]] files with the new GPG key
     - Once you have access you can get an overview of all the infrastructure:
         - `cd ~/.password-store/social.coop && pass`
+    - To access any given sec
 - Git repos
     - [[pass]] contains all our shared credentials, either for logging in as a TWG member or for our systems to use when accessing resources
     - [[ansible]] configures the servers.
