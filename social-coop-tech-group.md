@@ -1,5 +1,7 @@
 ## 2024-07-29
 
+## 2024-07-29
+
 - Here: [[flancian]] [[edsu]] [[je-ff]] [[calix]] [[Dan]]
 - checkins:
     - [[flancian]]: awesome trip to the beach!
