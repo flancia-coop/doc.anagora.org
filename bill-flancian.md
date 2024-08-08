@@ -21,6 +21,8 @@
         - [[Interwiki]] links
     - Projects
         - [[MassiveWiki]]:
-            - [[MassiveWiki builder]]
+            - [[MassiveWiki builder]]:
+                - Takes a directory with Markdown and builds a site for you
+                - [[Flancian]]: FYI [[Sutty]] is in this space
         - [[Agora]]:
     - On computers as a mean and as an objective
