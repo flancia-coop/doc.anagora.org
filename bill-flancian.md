@@ -19,6 +19,7 @@
         - Bill uses [[Obsidian]] and [[Massive Wiki]]
         - Add/aggregate first, query later -- don't filter upfront
         - [[Interwiki]] links
+        - [[Webmentions]]
     - Projects
         - [[MassiveWiki]]:
             - [[Manifesto]] is about creating files with links in them
@@ -28,4 +29,5 @@
                 - [[Flancian]]: FYI [[Sutty]] is in this space
             - [[Mycorrhiza]] wiki has [[interwiki]] links
         - [[Agora]]:
+            - [[Agora protocol]]
     - On computers as a mean and as an objective
