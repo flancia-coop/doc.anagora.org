@@ -4,8 +4,9 @@
 - Topics for today
     - [[Idiosyncratic federation]]
         - Topic on [[Bluesky]]
-    - [[Threads]]
-        - Has a way in which you can share with Mastodon servers ([[ActivityPub]])
-        - On the migration [[Octodon]] -> [[Hackyderm]]
-    - How to build a system that promotes federation cross-network at low cost/complexity
-    - Massivewiki is completely decentralized
+        - [[Threads]]
+            - Has a way in which you can share with Mastodon servers ([[ActivityPub]])
+            - On the migration [[Octodon]] -> [[Hackyderm]]
+        - How to build a system that promotes federation cross-network at low cost/complexity
+        - Massivewiki is completely decentralized
+        - Maybe we want to make it so that we embrace diversity and allow for everyone to cross-post according to their rules
