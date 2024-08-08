@@ -33,3 +33,6 @@
             - [[Agora protocol]]
     - On computers as a mean and as an objective
     - https://anagora.org/bill+flancian
+- Next steps
+    - Let's cross link our notes for this meeting :)
+    - And have another meeting? By ~EOAug or on September
