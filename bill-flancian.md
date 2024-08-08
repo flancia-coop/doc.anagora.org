@@ -32,7 +32,11 @@
         - [[Agora]]:
             - [[Agora protocol]]
     - On computers as a mean and as an objective
+    - Human friendly versioning
     - https://anagora.org/bill+flancian
 - Next steps
     - Let's cross link our notes for this meeting :)
+    - Let's send each other docs on how to:
+        - Join the Agora
+        - Build a Massivewiki
     - And have another meeting? By ~EOAug or on September
