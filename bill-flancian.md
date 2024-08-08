@@ -19,7 +19,8 @@
         - Bill uses [[Obsidian]] and [[Massive Wiki]]
         - Add/aggregate first, query later -- don't filter upfront
         - [[Interwiki]] links
-        - [[Webmentions]]
+            - [[Webmentions]]
+            - Parsing referrals
     - Projects
         - [[MassiveWiki]]:
             - [[Manifesto]] is about creating files with links in them
