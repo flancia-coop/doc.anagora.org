@@ -6,3 +6,6 @@
         - Topic on [[Bluesky]]
     - [[Threads]]
         - Has a way in which you can share with Mastodon servers ([[ActivityPub]])
+        - On the migration [[Octodon]] -> [[Hackyderm]]
+    - How to build a system that promotes federation cross-network at low cost/complexity
+    - Massivewiki is completely decentralized
