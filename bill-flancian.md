@@ -21,6 +21,8 @@
         - [[Interwiki]] links
     - Projects
         - [[MassiveWiki]]:
+            - [[Manifesto]] is about creating files with links in them
+            - [[git]] for versioning
             - [[MassiveWiki builder]]:
                 - Takes a directory with Markdown and builds a site for you
                 - [[Flancian]]: FYI [[Sutty]] is in this space
