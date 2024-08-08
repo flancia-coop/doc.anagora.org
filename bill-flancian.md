@@ -17,3 +17,4 @@
             - [[agora protocol]]
     - "Let's build a graph"
         - Bill uses [[Obsidian]] and [[Massive Wiki]]
+        - Add first, query later
