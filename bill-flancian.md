@@ -10,3 +10,4 @@
         - How to build a system that promotes federation cross-network at low cost/complexity
         - Massivewiki is completely decentralized
         - Maybe we want to make it so that we embrace diversity and allow for everyone to cross-post according to their rules
+            - How to support complexity without becoming non-inclusive
