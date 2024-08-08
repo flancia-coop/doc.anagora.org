@@ -16,4 +16,4 @@
             - [[moa]] as an example
             - [[agora protocol]]
     - "Let's build a graph"
-        - 
+        - Bill uses [[Obsidian]] and [[Massive Wiki]]
