@@ -19,3 +19,8 @@
         - Bill uses [[Obsidian]] and [[Massive Wiki]]
         - Add/aggregate first, query later -- don't filter upfront
         - [[Interwiki]] links
+    - Projects
+        - [[MassiveWiki]]:
+            - [[MassiveWiki builder]]
+        - [[Agora]]:
+    - On computers as a mean and as an objective
