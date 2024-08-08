@@ -11,3 +11,9 @@
         - Massivewiki is completely decentralized
         - Maybe we want to make it so that we embrace diversity and allow for everyone to cross-post according to their rules
             - How to support complexity without becoming non-inclusive
+        - Let's try it and see (tm)
+        - [[Flancian]] would like to discuss:
+            - [[moa]] as an example
+            - [[agora protocol]]
+    - "Let's build a graph"
+        - 
