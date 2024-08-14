@@ -30,7 +30,12 @@
 - Attending: [[Jerry Michalski]] [[Flancian]]
 - Greetings!
 - [[Made by Google]] announcements
-- 
+    - About the [[Google]] messaging strategy, or the lack thereof :)
+- In [[VC]] space:
+    - [[Butter]]:
+        - https://www.butter.us
+    - [[Soar Scribe]]:
+        - https://soarscribe.com/
 
 ## [[2024-07-31]]
 - Attending: [[Peter Kaminski]] [[Jerry Michalski]] [[Flancian]]
