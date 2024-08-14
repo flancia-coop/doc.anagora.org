@@ -47,6 +47,9 @@
 - Possible mediators
     - [[Lex Fridman]]
     - [[Sam Harris]]
+- [[Free Jerry's Brain]]:
+    - https://github.com/zsviczian/excalibrain
+    - New archive incoming :)
     
 
 
