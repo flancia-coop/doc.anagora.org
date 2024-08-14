@@ -43,6 +43,8 @@
 - Question: who is the leftist [[musk]]?
     - Women leaders?
     - Melinda Gates
+- Possible mediators
+    - [[Lex Fridman]]
     
 
 
