@@ -37,6 +37,7 @@
     - [[Soar Scribe]]:
         - https://soarscribe.com/
         - https://try.soar.com/
+- [[Google Plus]]
 
 ## [[2024-07-31]]
 - Attending: [[Peter Kaminski]] [[Jerry Michalski]] [[Flancian]]
