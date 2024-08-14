@@ -40,6 +40,7 @@
 - [[Google Plus]]
 - [[meditations on moloch]]
 - [[trump]]
+- [[elon musk]]
 - Question: who is the leftist [[musk]]?
     - Women leaders?
     - Melinda Gates
