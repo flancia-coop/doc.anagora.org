@@ -40,7 +40,8 @@
 - [[Google Plus]]
 - [[meditations on moloch]]
 - [[trump]]
-- Question: who is the leftist [[musk]]
+- Question: who is the leftist [[musk]]?
+    - Women leaders?
 
 
 ## [[2024-07-31]]
