@@ -45,6 +45,7 @@
     - Melinda Gates
 - Possible mediators
     - [[Lex Fridman]]
+    - [[Sam Harris]]
     
 
 
