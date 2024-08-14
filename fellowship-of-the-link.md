@@ -38,6 +38,7 @@
         - https://soarscribe.com/
         - https://try.soar.com/
 - [[Google Plus]]
+- [[meditations on moloch]]
 
 ## [[2024-07-31]]
 - Attending: [[Peter Kaminski]] [[Jerry Michalski]] [[Flancian]]
