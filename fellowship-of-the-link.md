@@ -42,6 +42,8 @@
 - [[trump]]
 - Question: who is the leftist [[musk]]?
     - Women leaders?
+    - Melinda Gates
+    
 
 
 ## [[2024-07-31]]
