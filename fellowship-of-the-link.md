@@ -1,4 +1,4 @@
-# Fellowship of the Link
+> []# Fellowship of the Link
 
 - a [[meeting]].
     - #go https://meet.jit.si/fellowship-of-the-link
@@ -25,6 +25,12 @@
         - /now
         - [[issue tracker]] / [[project tracker]] URL
             - [[github]] by default?
+
+## [[2024-08-14]]
+- Attending: [[Jerry Michalski]] [[Flancian]]
+- Greetings!
+- [[Made by Google]] announcements
+- 
 
 ## [[2024-07-31]]
 - Attending: [[Peter Kaminski]] [[Jerry Michalski]] [[Flancian]]
