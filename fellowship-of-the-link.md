@@ -66,8 +66,12 @@
         - https://x.com/exgenesis/status/1825559564655497483
         - #AZS eleventy had a service that made it easy for people to self-host static sites based on twitter archives
             - is/was it https://twitter.11ty.dev/ ? They're moving off Twitter to Mastodon, YouTube, Discord, GitHub
+                - https://github.com/tweetback
+                - my example: https://tweets.aramzs.com 
             - very nice!
             - would it be actually useful to offer this as a service? given that social media is so recency-biased
+            - #CA reddits and forums also deal with the lack-of-wikiness (e.g. newcomers ask the same questions over and over again)
+                - it would be cool to go from 'I've been writing 
 
 ## [[2024-08-14]]
 - Attending: [[Jerry Michalski]] [[Flancian]]
