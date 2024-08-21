@@ -36,6 +36,8 @@
         - [[opml]]
         - where to try [[flux]]:
             - https://glif.app
+            - https://fal.ai/models/fal-ai/flux-pro/
+ 
 
 ## [[2024-08-14]]
 - Attending: [[Jerry Michalski]] [[Flancian]]
