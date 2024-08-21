@@ -46,8 +46,9 @@
         - writing [[wikily]], [[nuggets]]
             - open question: 
                 - how do you [[nuggetize]], then compose
-                - do you write first and then compose with an LLM? or start with an LLM? 
- 
+            - also see: [[chunking, naming, linking]], [[link as you think]], [[link your thinking]]
+        - Q: how to track authorship/state of editing in AI enabled flows?
+            - PK: for now I do it by hand by typing 'this was written by <LLM> and not yet checked'
 
 ## [[2024-08-14]]
 - Attending: [[Jerry Michalski]] [[Flancian]]
