@@ -29,7 +29,9 @@
 ## [[2024-08-21]]
 - Attending: [[Chris Aldrich]] [[Jerry Michalski]] [[Peter Kaminski]] [[Flancian]]
 - Discussing the mind melding experiment
-    - Jerry did a new Brain export, sent over mattermost
+    - Jerry did a new Brain export, sent over Mattermost
+- What have we been working on?
+    - [[Chris Aldrich]] enjoying the summer, working in a camp
 
 ## [[2024-08-14]]
 - Attending: [[Jerry Michalski]] [[Flancian]]
