@@ -59,7 +59,8 @@
         - [[pkg book]] as a reader
     - [[Aram]] 
         - Working on shipping the [[timeline]]
-        - F
+        - Figuring out how to deal with different data exports
+            - [[data subject requests]] ~ [[DSRs]]
 
 ## [[2024-08-14]]
 - Attending: [[Jerry Michalski]] [[Flancian]]
