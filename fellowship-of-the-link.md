@@ -37,7 +37,7 @@
         - where to try [[flux]]:
             - https://glif.app (search for glifs with "Flux" in the name)
             - https://fal.ai/models/fal-ai/flux-pro/ (pay per GPU use, but private)
-        - [[flux]] is getting close to [[midjourney]] but [[midjourney]] is still better on im
+        - [[flux]] is getting close to [[midjourney]] but [[midjourney]] is still better at image aesthetics
         - (on how to run local models)
         - (https://pinokio.computer/)
     - [[Jerry Michalski]]
@@ -52,6 +52,7 @@
             - PK: for now I do it by hand by typing 'this was written by <LLM> and not yet checked'
             - JM: wiki collaborative writing conventions could help here
                 - there was also a tool (Mixed Ink) that retained attribution
+    - 
                                                 
 
 ## [[2024-08-14]]
