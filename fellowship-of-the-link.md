@@ -37,6 +37,7 @@
         - where to try [[flux]]:
             - https://glif.app
             - https://fal.ai/models/fal-ai/flux-pro/
+        - [[flux]] is getting close to [[midjourney]] but [[midjourney]] is still best
  
 
 ## [[2024-08-14]]
