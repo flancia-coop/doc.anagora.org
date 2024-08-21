@@ -31,7 +31,8 @@
 - Discussing the mind melding experiment
     - Jerry did a new Brain export, sent over Mattermost
 - What have we been working on?
-    - [[Chris Aldrich]] enjoying the summer, working in a camp
+    - [[Chris Aldrich]] enjoying the summer, working in a camp :) Plus jury duty
+    - [[P]]
 
 ## [[2024-08-14]]
 - Attending: [[Jerry Michalski]] [[Flancian]]
