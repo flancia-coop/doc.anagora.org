@@ -27,7 +27,7 @@
             - [[github]] by default?
 
 ## [[2024-08-21]]
-- Attending: [[Chris Aldrich]] [[Jerry Michalski]] [[Peter Kaminski]] [[Flancian]]
+- Attending: [[Chris Aldrich]] [[Jerry Michalski]] [[Peter Kaminski]] [[Aram Zucker-Scharff] [[Flancian]]
 - Discussing the mind melding experiment
     - Jerry did a new Brain export, sent over Mattermost
 - What have we been working on?
@@ -57,6 +57,9 @@
             - #JM recommends [[letters live]]: https://www.youtube.com/@LettersLive
                 - https://www.youtube.com/watch?v=yJvczRkQHK0
         - [[pkg book]] as a reader
+    - [[Aram]] 
+        - Working on shipping the [[timeline]]
+        - F
 
 ## [[2024-08-14]]
 - Attending: [[Jerry Michalski]] [[Flancian]]
