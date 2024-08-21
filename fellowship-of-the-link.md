@@ -32,7 +32,10 @@
     - Jerry did a new Brain export, sent over Mattermost
 - What have we been working on?
     - [[Chris Aldrich]] enjoying the summer, working in a camp :) Plus jury duty
-    - [[P]]
+    - [[Peter Kaminski]] tried [[simple mind]] ~ [[mind mapping software]]:
+        - [[opml]]
+        - where to try [[flux]]:
+            - https://glif.app
 
 ## [[2024-08-14]]
 - Attending: [[Jerry Michalski]] [[Flancian]]
