@@ -61,9 +61,10 @@
         - Working on shipping the [[timeline]]
         - Figuring out how to deal with different data exports
             - [[data subject requests]] ~ [[DSRs]]
-    - [[Flancian]]
+    - [[Flancian]] related to DSRs:
         - https://x.com/exgenesis
         - https://x.com/exgenesis/status/1825559564655497483
+        - #AZS eleventy had a service that made it easy for people to self-host static sites based on twitter archives
 
 ## [[2024-08-14]]
 - Attending: [[Jerry Michalski]] [[Flancian]]
