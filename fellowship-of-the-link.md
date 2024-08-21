@@ -61,6 +61,9 @@
         - Working on shipping the [[timeline]]
         - Figuring out how to deal with different data exports
             - [[data subject requests]] ~ [[DSRs]]
+    - [[Flancian]]
+        - https://x.com/exgenesis
+        - https://x.com/exgenesis/status/1825559564655497483
 
 ## [[2024-08-14]]
 - Attending: [[Jerry Michalski]] [[Flancian]]
