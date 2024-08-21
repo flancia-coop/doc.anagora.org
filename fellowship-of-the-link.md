@@ -71,7 +71,7 @@
             - very nice!
             - would it be actually useful to offer this as a service? given that social media is so recency-biased
             - #CA reddits and forums also deal with the lack-of-wikiness (e.g. newcomers ask the same questions over and over again)
-                - it would be cool to go from 'I've been writing 
+                - it would be cool to go from 'I've been writing things on twitter for years' to 'here is a narrative/a neobook/a story based on my writing'
 
 ## [[2024-08-14]]
 - Attending: [[Jerry Michalski]] [[Flancian]]
