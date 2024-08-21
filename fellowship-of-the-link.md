@@ -26,7 +26,10 @@
         - [[issue tracker]] / [[project tracker]] URL
             - [[github]] by default?
 
-## [[2024-08-14]]
+## [[2024-08-21]]
+- Attending: [[Chris Aldrich]] [[Jerry Michalski]] [[Peter Kaminski]] [[Flancian]]
+- Discussing the mind melding experiment
+    - Jerry did a new Brain export, sent over mattermost
 
 ## [[2024-08-14]]
 - Attending: [[Jerry Michalski]] [[Flancian]]
@@ -53,8 +56,6 @@
     - https://github.com/zsviczian/excalibrain
     - New archive incoming :)
     
-
-
 ## [[2024-07-31]]
 - Attending: [[Peter Kaminski]] [[Jerry Michalski]] [[Flancian]]
 - [[Check ins]]
