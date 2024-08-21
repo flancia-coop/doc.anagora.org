@@ -43,6 +43,8 @@
     - [[Jerry Michalski]]
         - lining ducks: website, reel
         - targetting [[2024-09-10]] to launch
+        - writing [[wikily]], [[nuggets]]
+            - open question: how do you [[nuggetti]]
  
 
 ## [[2024-08-14]]
