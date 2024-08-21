@@ -32,12 +32,12 @@
     - Jerry did a new Brain export, sent over Mattermost
 - What have we been working on?
     - [[Chris Aldrich]] enjoying the summer, working in a camp :) Plus jury duty
-    - [[Peter Kaminski]] tried [[simple mind]] ~ [[mind mapping software]]:
+    - [[Peter Kaminski]] tried [[simplemind]] ~ [[mind mapping software]]:
         - [[opml]]
         - where to try [[flux]]:
             - https://glif.app (search for glifs with "Flux" in the name)
             - https://fal.ai/models/fal-ai/flux-pro/ (pay per GPU use, but private)
-        - [[flux]] is getting close to [[midjourney]] but [[midjourney]] is still better at image aesthetics
+        - [[flux]] is getting close to [[midjourney]] but [[midjourney]] is still better at image aesthetics; flux is better at some things, like words
         - (on how to run local models)
         - (https://pinokio.computer/)
     - [[Jerry Michalski]]
@@ -56,7 +56,7 @@
         - [[open letters]]
             - #JM recommends [[letters live]]: https://www.youtube.com/@LettersLive
                 - https://www.youtube.com/watch?v=yJvczRkQHK0
-        - 
+        - [[pkg book]] as a reader
 
 ## [[2024-08-14]]
 - Attending: [[Jerry Michalski]] [[Flancian]]
