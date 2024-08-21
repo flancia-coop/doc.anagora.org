@@ -44,7 +44,9 @@
         - lining ducks: website, reel
         - targetting [[2024-09-10]] to launch
         - writing [[wikily]], [[nuggets]]
-            - open question: how do you [[nuggetti]]
+            - open question: 
+                - how do you [[nuggetize]], then compose
+                - do you write first and then compose with an LLM? or start with an LLM? 
  
 
 ## [[2024-08-14]]
