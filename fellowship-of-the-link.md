@@ -38,6 +38,8 @@
             - https://glif.app
             - https://fal.ai/models/fal-ai/flux-pro/
         - [[flux]] is getting close to [[midjourney]] but [[midjourney]] is still best
+        - (on how to run local models)
+        - (https://pinokio.computer/)
  
 
 ## [[2024-08-14]]
