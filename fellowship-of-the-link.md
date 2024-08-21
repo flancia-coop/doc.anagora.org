@@ -52,7 +52,7 @@
             - PK: for now I do it by hand by typing 'this was written by <LLM> and not yet checked'
             - JM: wiki collaborative writing conventions could help here
                 - there was also a tool (Mixed Ink) that retained attribution
-    - 
+    - [[Flancian]]
                                                 
 
 ## [[2024-08-14]]
