@@ -53,7 +53,10 @@
             - JM: wiki collaborative writing conventions could help here
                 - there was also a tool (Mixed Ink) that retained attribution
     - [[Flancian]]
-                                                
+        - [[open letters]]
+            - #JM recommends [[letters live]]: https://www.youtube.com/@LettersLive
+                - https://www.youtube.com/watch?v=yJvczRkQHK0
+        - 
 
 ## [[2024-08-14]]
 - Attending: [[Jerry Michalski]] [[Flancian]]
