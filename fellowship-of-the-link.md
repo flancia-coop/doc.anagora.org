@@ -35,20 +35,24 @@
     - [[Peter Kaminski]] tried [[simple mind]] ~ [[mind mapping software]]:
         - [[opml]]
         - where to try [[flux]]:
-            - https://glif.app
-            - https://fal.ai/models/fal-ai/flux-pro/
-        - [[flux]] is getting close to [[midjourney]] but [[midjourney]] is still best
+            - https://glif.app (search for glifs with "Flux" in the name)
+            - https://fal.ai/models/fal-ai/flux-pro/ (pay per GPU use, but private)
+        - [[flux]] is getting close to [[midjourney]] but [[midjourney]] is still better on im
         - (on how to run local models)
         - (https://pinokio.computer/)
     - [[Jerry Michalski]]
         - lining ducks: website, reel
         - targetting [[2024-09-10]] to launch
+            - https://www.jerrymichalski.com/
         - writing [[wikily]], [[nuggets]]
             - open question: 
                 - how do you [[nuggetize]], then compose
             - also see: [[chunking, naming, linking]], [[link as you think]], [[link your thinking]]
         - Q: how to track authorship/state of editing in AI enabled flows?
             - PK: for now I do it by hand by typing 'this was written by <LLM> and not yet checked'
+            - JM: wiki collaborative writing conventions could help here
+                - there was also a tool (Mixed Ink) that retained attribution
+                                                
 
 ## [[2024-08-14]]
 - Attending: [[Jerry Michalski]] [[Flancian]]
