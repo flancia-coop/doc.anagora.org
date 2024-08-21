@@ -40,6 +40,9 @@
         - [[flux]] is getting close to [[midjourney]] but [[midjourney]] is still best
         - (on how to run local models)
         - (https://pinokio.computer/)
+    - [[Jerry Michalski]]
+        - lining ducks: website, reel
+        - targetting [[2024-09-10]] to launch
  
 
 ## [[2024-08-14]]
