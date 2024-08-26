@@ -3,7 +3,8 @@
 - Gandhi access for domain:
     - sent by: [[@andrewe]]
     - to: tech.group@social.coop
-    - TWG will have tech privledges, FWG billing and
+    - TWG team: tech privledges; FWG team: billing & admin.
+    - main account: passkey held FWG, but TWG has 
 - Two Edus remain 
     - Corp woes
     - On the feasibility of revolutions 
@@ -32,11 +33,12 @@
             - [[fediversalist papers]]
         - relacionado:
             - https://mydata.org/
+        - nombre provisional para el proyecto/grupo de trabajo?
         - grupo [[ecumen]], del ciclo [[hainish]]
             - [[omelas]] :)
-        - [[Everyday Utopia]]: What 2,000 Years of Wild Experiments Can Teach Us About the Good Life
 - recomendaciones
-    - https://shop.keyboard.io/products/model-100?srsltid=AfmBOoo14VYGQS2RV2tN3KegOsR_KJcCcCs_bY3iSpL-Tn4JK0Towthj
+    - [[Everyday Utopia]]: What 2,000 Years of Wild Experiments Can Teach Us About the Good Life
+    - [[keyboardio m100]]: https://shop.keyboard.io/products/model-100?srsltid=AfmBOoo14VYGQS2RV2tN3KegOsR_KJcCcCs_bY3iSpL-Tn4JK0Towthj
 
 ## 2024-08-06
 - Here: [[je-ff]] [[Dan]] [[flancian]] 
