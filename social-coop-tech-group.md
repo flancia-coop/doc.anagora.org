@@ -19,6 +19,9 @@
             - ..
             - Shell
             - Exon
+        - [[TedX]]: 
+            - [[cómo me enamoré de una lenteja]]:
+                - https://www.youtube.com/watch?v=G5_OJhg-wu0
 
 ## 2024-08-06
 - Here: [[je-ff]] [[Dan]] [[flancian]] 
