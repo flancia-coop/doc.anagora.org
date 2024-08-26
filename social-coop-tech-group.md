@@ -2,8 +2,12 @@
 - Here: [[Kathe T-B]] [[Eduardo Mercovich]] [[Flancian]] [[Andrewe]]
 - Gandhi access for domain sent by [[Andrewe]]
     - Will mail out ot tech.group@social.coop
-- Corp woes
-- 
+- Two Edus remain 
+    - Corp woes
+    - On the feasibility of revolutions 
+    - [[Sutty]] and [[Confluencia]]
+        - [[Empresa social]] como vehículo para un nuevo mundo
+        - [[Mondragon]]
 
 ## 2024-08-06
 - Here: [[je-ff]] [[Dan]] [[flancian]] 
