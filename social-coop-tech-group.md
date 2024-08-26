@@ -1,7 +1,9 @@
 ## 2024-08-26
-- Here: [[Kathe T-B]] [[Eduardo Mercovich]] [[Flancian]] [[Andrewe]]
-- Gandhi access for domain sent by [[Andrewe]]
-    - Will mail out ot tech.group@social.coop
+- Here: [[Kathe T-B]] [[Eduardo Mercovich]] [[Flancian]] [[@andrewe]]
+- Gandhi access for domain:
+    - sent by: [[@andrewe]]
+    - to: tech.group@social.coop
+    - TWG will have tech privledges, FWG billing and
 - Two Edus remain 
     - Corp woes
     - On the feasibility of revolutions 
@@ -31,6 +33,10 @@
         - relacionado:
             - https://mydata.org/
         - grupo [[ecumen]], del ciclo [[hainish]]
+            - [[omelas]] :)
+        - [[Everyday Utopia]]: What 2,000 Years of Wild Experiments Can Teach Us About the Good Life
+- recomendaciones
+    - https://shop.keyboard.io/products/model-100?srsltid=AfmBOoo14VYGQS2RV2tN3KegOsR_KJcCcCs_bY3iSpL-Tn4JK0Towthj
 
 ## 2024-08-06
 - Here: [[je-ff]] [[Dan]] [[flancian]] 
