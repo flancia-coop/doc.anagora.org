@@ -28,6 +28,8 @@
         - frameworks:
             - [[governable spaces]]
             - [[fediversalist papers]]
+        - relacionado:
+            - https://mydata.org/
 
 ## 2024-08-06
 - Here: [[je-ff]] [[Dan]] [[flancian]] 
