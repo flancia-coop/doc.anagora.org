@@ -30,6 +30,7 @@
             - [[fediversalist papers]]
         - relacionado:
             - https://mydata.org/
+        - grupo [[ecumen]], del ciclo [[hainish]]
 
 ## 2024-08-06
 - Here: [[je-ff]] [[Dan]] [[flancian]] 
