@@ -36,7 +36,13 @@
             - https://mydata.org/
         - nombre provisional para el proyecto/grupo de trabajo?
             - grupo [[ecumen]], [[hainish]] coalition
-                - [[omelas]] :)
+                - aside: [[omelas]] :)
+            - -> [[ecumen]] is the starter node
+    - [[bonfire]]
+        - Reunión del lunes que viene?
+    - join.social.coop
+        - Edu desarrolló una propuesta
+        - Documento en cryptpad
 - recomendaciones
     - [[Everyday Utopia]]: What 2,000 Years of Wild Experiments Can Teach Us About the Good Life
     - [[keyboardio m100]]: https://shop.keyboard.io/products/model-100?srsltid=AfmBOoo14VYGQS2RV2tN3KegOsR_KJcCcCs_bY3iSpL-Tn4JK0Towthj
