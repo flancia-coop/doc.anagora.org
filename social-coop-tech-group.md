@@ -1,3 +1,8 @@
+## 2024-08-26
+- Here: [[Kathe T-B]] [[Eduardo Mercovich]] [[Flancian]] [[Andrewe]]
+- Gandhi access for domain 
+    - tech.group@social.coop
+
 ## 2024-08-06
 - Here: [[je-ff]] [[Dan]] [[flancian]] 
 - Onboarding
