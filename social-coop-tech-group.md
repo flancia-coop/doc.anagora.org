@@ -7,7 +7,18 @@
     - On the feasibility of revolutions 
     - [[Sutty]] and [[Confluencia]]
         - [[Empresa social]] como vehículo para un nuevo mundo
-        - [[Mondragon]]
+        - Escala:
+            - Madre Teresa
+            - ..
+            - ..
+            - [[Empresa social]] es como una bicicleta
+                - Delantera: misión positiva
+                - Trasera: lo que produce/vende que avanza su misión
+            - [[Mondragon]]
+            - ..
+            - ..
+            - Shell
+            - Exon
 
 ## 2024-08-06
 - Here: [[je-ff]] [[Dan]] [[flancian]] 
