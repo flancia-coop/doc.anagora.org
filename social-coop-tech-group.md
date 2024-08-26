@@ -3,8 +3,8 @@
 - Gandhi access for domain:
     - sent by: [[@andrewe]]
     - to: tech.group@social.coop
-    - main account: passkey held FWG, but TWG has d 
-        - delegated access: TWG team for tech; FWG team for admin.
+    - main account: passkey held FWG, but TWG is the listed email
+        - delegated access: TWG team for tech; FWG team for admin
 
 - Two Edus remain 
     - Corp woes
@@ -35,7 +35,7 @@
         - relacionado:
             - https://mydata.org/
         - nombre provisional para el proyecto/grupo de trabajo?
-            - grupo [[ecumen]], del ciclo [[hainish]]
+            - grupo [[ecumen]], [[hainish]] coalition
                 - [[omelas]] :)
 - recomendaciones
     - [[Everyday Utopia]]: What 2,000 Years of Wild Experiments Can Teach Us About the Good Life
