@@ -22,6 +22,9 @@
         - [[TedX]]: 
             - [[cómo me enamoré de una lenteja]]:
                 - https://www.youtube.com/watch?v=G5_OJhg-wu0
+- social.coop
+    - anti-meta fedi pact
+        - a favor de un grupo en vez de contra de una corporación
 
 ## 2024-08-06
 - Here: [[je-ff]] [[Dan]] [[flancian]] 
