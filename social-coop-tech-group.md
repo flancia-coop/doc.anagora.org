@@ -23,7 +23,7 @@
             - [[cómo me enamoré de una lenteja]]:
                 - https://www.youtube.com/watch?v=G5_OJhg-wu0
 - social.coop
-    - anti-meta fedi pact
+    - apropos del anti-meta fedi pact
         - a favor de un grupo en vez de contra de una corporación
         - frameworks:
             - [[governable spaces]]
