@@ -25,6 +25,9 @@
 - social.coop
     - anti-meta fedi pact
         - a favor de un grupo en vez de contra de una corporación
+        - frameworks:
+            - [[governable spaces]]
+            - [[fediversalist papers]]
 
 ## 2024-08-06
 - Here: [[je-ff]] [[Dan]] [[flancian]] 
