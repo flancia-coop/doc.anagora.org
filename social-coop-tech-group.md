@@ -37,7 +37,7 @@
         - nombre provisional para el proyecto/grupo de trabajo?
             - grupo [[ecumen]], [[hainish]] coalition
                 - aside: [[omelas]] :)
-            - -> [[ecumen]] is the starter node
+            - -> [[ecumen]] / [[ekumen]] as the starter nodes
     - [[bonfire]]
         - Reunión del lunes que viene?
     - join.social.coop
