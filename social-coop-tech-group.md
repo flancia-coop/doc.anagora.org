@@ -1,6 +1,6 @@
 ## 2024-08-26
 - Here: [[Kathe T-B]] [[Eduardo Mercovich]] [[Flancian]] [[Andrewe]]
-- Gandhi access for domain 
+- Gandhi access for domain sent by [[Andrewe]]
     - tech.group@social.coop
 
 ## 2024-08-06
