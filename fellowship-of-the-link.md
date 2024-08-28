@@ -69,7 +69,7 @@ https://en.wikipedia.org/wiki/Satisficing
     - #CA on the difficulty of calculating nth order effects, in particular if you need to pass a bad event to reach a better event
     - #AZS criticism of effective altruism by harper's
     - #CA on [[river and village]]
-    
+- [[SJ]] on https://docs.google.com/presentation/d/1T0eeZoT9ZrCbRG7sm-UkiKzBO8r_vPd2X7bR6NSd9-8/edit#slide=id.p
 - Discussing the mind melding experiment
  
 ## [[2024-08-21]]
