@@ -68,6 +68,7 @@ https://en.wikipedia.org/wiki/Satisficing
     - statistical methods are good for analysis but not necessarily good for reaching good outcomes
     - #CA on the difficulty of calculating nth order effects, in particular if you need to pass a bad event to reach a better event
     - #AZS criticism of effective altruism by harper's
+    - #CA on [[river and village]]
     
 - Discussing the mind melding experiment
  
