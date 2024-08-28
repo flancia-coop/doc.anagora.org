@@ -33,7 +33,8 @@
 - On the potential for [[revolution]]
     - [[Aram]] similar position previously
         - Tried getting to a position where fixing the system was the role
-        - T
+        - Time bidding
+        - Going along
 - Discussing the mind melding experiment
  
 ## [[2024-08-21]]
