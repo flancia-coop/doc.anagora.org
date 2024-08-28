@@ -36,7 +36,9 @@
         - Time bidding
         - Going along
         - Upper management needs to be interested in operating with ethics
-        - 
+        - https://en.wikipedia.org/wiki/Secretary_problem
+        - [[Chris]]
+            - [[satisficing]]
 - Discussing the mind melding experiment
  
 ## [[2024-08-21]]
