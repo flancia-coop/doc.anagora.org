@@ -26,6 +26,16 @@
         - [[issue tracker]] / [[project tracker]] URL
             - [[github]] by default?
 
+
+## [[2024-08-28]]
+- Attending: [[Chris Aldrich]] [[Jerry Michalski]] [[Peter Kaminski]] [[Aram Zucker-Scharff] [[Flancian]]
+- On [[hard disks]] and [[ssds]] longevity
+- On the potential for [[revolution]]
+    - [[Aram]] similar position previously
+        - Tried getting to a position where fixing the system was the role
+        - T
+- Discussing the mind melding experiment
+ 
 ## [[2024-08-21]]
 - Attending: [[Chris Aldrich]] [[Jerry Michalski]] [[Peter Kaminski]] [[Aram Zucker-Scharff] [[Flancian]]
 - Discussing the mind melding experiment
