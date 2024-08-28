@@ -44,6 +44,25 @@
             - [[nate silver]]:
                 - [[the river]] vs [[the village]] 
                 - [[on the edge]]: [[the art of risking everything]]
+```
+Jerry says:The River vs The Village 
+20:45
+CA
+Chris Aldrich says:On being a secretary: 
+https://boffosocko.com/2015/11/02/on-being-a-secretary/
+ 
+20:45
+Peter Kaminski says:The River Where Black Swans Alight 
+20:45
+Aram Zucker-Scharff says:
+https://thepointmag.com/politics/the-bookmaker/
+ 
+20:46
+Chris Aldrich
+Chris Aldrich says:For Flancian: 
+https://en.wikipedia.org/wiki/Satisficing
+```
+- 
 - Discussing the mind melding experiment
  
 ## [[2024-08-21]]
