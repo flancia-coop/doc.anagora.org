@@ -62,7 +62,8 @@ Chris Aldrich
 Chris Aldrich says:For Flancian: 
 https://en.wikipedia.org/wiki/Satisficing
 ```
-- 
+- On criticism of [[nate silver]]'s last book
+    - 
 - Discussing the mind melding experiment
  
 ## [[2024-08-21]]
