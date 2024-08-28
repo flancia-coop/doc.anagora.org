@@ -37,8 +37,13 @@
         - Going along
         - Upper management needs to be interested in operating with ethics
         - https://en.wikipedia.org/wiki/Secretary_problem
-        - [[Chris]]
+        - [[Chris Aldrich]]:
             - [[satisficing]]
+        - [[jerry michalski]] [[etymology of secretary]]
+        - [[Aram Zucker-Scharff]]: 
+            - [[nate silver]]:
+                - [[the river]] vs [[the village]] 
+                - [[on the edge]]: [[the art of risking everything]]
 - Discussing the mind melding experiment
  
 ## [[2024-08-21]]
