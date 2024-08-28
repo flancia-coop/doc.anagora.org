@@ -63,7 +63,9 @@ Chris Aldrich says:For Flancian:
 https://en.wikipedia.org/wiki/Satisficing
 ```
 - On criticism of [[nate silver]]'s last book
-    - 
+    - on the value of probabilities, bayesian thinking, etc.
+    - but the problem of using betting as the framework
+    - statistical methods are good for analysis but not necessarily good for reaching good outcomes
 - Discussing the mind melding experiment
  
 ## [[2024-08-21]]
