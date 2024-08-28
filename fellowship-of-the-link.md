@@ -66,6 +66,8 @@ https://en.wikipedia.org/wiki/Satisficing
     - on the value of probabilities, bayesian thinking, etc.
     - but the problem of using betting as the framework
     - statistical methods are good for analysis but not necessarily good for reaching good outcomes
+    - #CA on the difficulty of calculating nth order effects, in particular if you need to pass a bad event to reach a better event
+    - #AZS criticism of effective altruism by harper's
 - Discussing the mind melding experiment
  
 ## [[2024-08-21]]
