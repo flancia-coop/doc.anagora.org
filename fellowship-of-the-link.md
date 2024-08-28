@@ -36,6 +36,7 @@
         - Time bidding
         - Going along
         - Upper management needs to be interested in operating with ethics
+        - 
 - Discussing the mind melding experiment
  
 ## [[2024-08-21]]
