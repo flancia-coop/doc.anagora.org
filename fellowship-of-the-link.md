@@ -30,11 +30,12 @@
 ## [[2024-08-28]]
 - Attending: [[Chris Aldrich]] [[Jerry Michalski]] [[Peter Kaminski]] [[Aram Zucker-Scharff] [[Flancian]]
 - On [[hard disks]] and [[ssds]] longevity
-- On the potential for [[revolution]]
+- On the potential for [[revolution]] / reform in the workplace
     - [[Aram]] similar position previously
         - Tried getting to a position where fixing the system was the role
         - Time bidding
         - Going along
+        - Upper management needs to be interested in operating with ethics
 - Discussing the mind melding experiment
  
 ## [[2024-08-21]]
