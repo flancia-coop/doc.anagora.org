@@ -1,1 +1,4 @@
-I'm busy right now, try again later.
+- Mi mamá no puede abrir el [[Listerine]], se frustra. Rompe las medidas de seguridad con un cuchillo.
+- [[nepomuk]]
+    - [[bridge]] [[glatbrugg]]
+- [[Charlemagne]]
