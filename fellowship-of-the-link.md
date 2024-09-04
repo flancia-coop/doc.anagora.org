@@ -54,6 +54,10 @@
         - Monday [[Jose Leal]] on [[rprotocols]]: https://rprotocols.org/en/home
             - [[Integrative law]]
             - Maybe related to [[generative commons agreement]].
+            - Looks very nice and interesting
+            - Meta about the [[Henry Ford]] quote
+        - What Do You Do When Stars, Heroes and Artists Act Reprehensibly? https://bra.in/7vPEG9
+ 
 
 ## [[2024-08-28]]
 - Attending: [[Chris Aldrich]] [[Jerry Michalski]] [[Peter Kaminski]] [[Aram Zucker-Scharff] [[Flancian]]
