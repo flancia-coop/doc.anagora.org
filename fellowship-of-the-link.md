@@ -51,7 +51,9 @@
             - Maybe deep link the timeline and/or individual resources?
 - How are we doing with other projects we wanted to do this year?
     - [[neobooks]]
-        - Monday [[Jose Leal]]: https://rprotocols.org/en/home
+        - Monday [[Jose Leal]] on [[rprotocols]]: https://rprotocols.org/en/home
+            - [[Integrative law]]
+            - Maybe related to [[generative commons agreement]].
 
 ## [[2024-08-28]]
 - Attending: [[Chris Aldrich]] [[Jerry Michalski]] [[Peter Kaminski]] [[Aram Zucker-Scharff] [[Flancian]]
