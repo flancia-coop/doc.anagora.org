@@ -38,14 +38,16 @@
             - An empty Discourse can be intimidating, but it has very good QoL once set up; and it's super easy to install
     - [[Aram]] shares screen, [[context center]]:
         - https://context.center/timeline/covid
-        - Based on X's system before she moved to react and Aram's personal archive/pinboard
+        - Based on Molly's system before she moved to react and Aram's personal archive/pinboard
         - It tries to produce archive links for every items
         - Icons are new
         - Questions/feedback
             - How to set up one of your own?
             - How to contribute new items or comment/engage?
             - Long covid icon could be clearer; icons could surface the category on hover (use title property?)
-            - Love the deep linking + highlighting and archivin
+            - Love the deep linking + highlighting and archiving
+            - Maybe deep link the timeline and/or individual resources?
+            - Can we 
 - How are we doing with other projects we wanted to do this year?
 
 ## [[2024-08-28]]
