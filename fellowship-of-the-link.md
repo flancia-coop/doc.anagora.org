@@ -27,6 +27,11 @@
             - [[github]] by default?
 
 
+## [[2024-09-04]]
+- Attending: [[Chris Aldrich]] [[Jerry Michalski]] [[Peter Kaminski]] [[Aram Zucker-Scharff] [[Flancian]]
+    - [[Reel]]
+        -  
+
 ## [[2024-08-28]]
 - Attending: [[Chris Aldrich]] [[Jerry Michalski]] [[Peter Kaminski]] [[Aram Zucker-Scharff] [[Flancian]]
 - On [[hard disks]] and [[ssds]] longevity
