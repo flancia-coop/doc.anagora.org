@@ -50,6 +50,8 @@
             - Love the deep linking + highlighting and archiving
             - Maybe deep link the timeline and/or individual resources?
 - How are we doing with other projects we wanted to do this year?
+    - [[neobooks]]
+        - Monday [[Jose Leal]]: https://rprotocols.org/en/home
 
 ## [[2024-08-28]]
 - Attending: [[Chris Aldrich]] [[Jerry Michalski]] [[Peter Kaminski]] [[Aram Zucker-Scharff] [[Flancian]]
