@@ -30,7 +30,10 @@
 ## [[2024-09-04]]
 - Attending: [[Jerry Michalski]] [[Peter Kaminski]] [[Aram Zucker-Scharff] [[Flancian]]
 - Check ins
-    - [[Jerry's Reel]] https://vimeo.com/1006299404 
+    - [[Jerry's Reel]]: https://vimeo.com/1006299404 
+    - Peter's [[AI coaching forum]] is now open
+        - Two paying members
+- How are we doing with other projects we wanted to do this year?
 
 ## [[2024-08-28]]
 - Attending: [[Chris Aldrich]] [[Jerry Michalski]] [[Peter Kaminski]] [[Aram Zucker-Scharff] [[Flancian]]
