@@ -36,7 +36,9 @@
         - [[Discourse]]:
             - The [[AI Coaching Forum]] is Discourse based as planned, it turns out that there is a good official plugin to manage subscriptions
             - An empty Discourse can be intimidating, but it has very good QoL once set up; and it's super easy to install
-    - [[Aram]]
+    - [[Aram]] shares screen, [[context center]]:
+        - https://context.center/timeline/covid
+        - Based on <X>'s system
 - How are we doing with other projects we wanted to do this year?
 
 ## [[2024-08-28]]
