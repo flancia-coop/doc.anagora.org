@@ -28,9 +28,9 @@
 
 
 ## [[2024-09-04]]
-- Attending: [[Chris Aldrich]] [[Jerry Michalski]] [[Peter Kaminski]] [[Aram Zucker-Scharff] [[Flancian]]
-    - [[Reel]]
-        -  
+- Attending: [[Jerry Michalski]] [[Peter Kaminski]] [[Aram Zucker-Scharff] [[Flancian]]
+- Check ins
+    - [[Jerry's Reel]] https://vimeo.com/1006299404 
 
 ## [[2024-08-28]]
 - Attending: [[Chris Aldrich]] [[Jerry Michalski]] [[Peter Kaminski]] [[Aram Zucker-Scharff] [[Flancian]]
