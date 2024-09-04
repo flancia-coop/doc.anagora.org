@@ -38,7 +38,7 @@
             - An empty Discourse can be intimidating, but it has very good QoL once set up; and it's super easy to install
     - [[Aram]] shares screen, [[context center]]:
         - https://context.center/timeline/covid
-        - Based on Molly's system before she moved to react and Aram's personal archive/pinboard
+        - Based on Eleventy, Molly's system before she moved to react, and Aram's personal archive/pinboard
         - It tries to produce archive links for every items
         - Icons are new
         - Questions/feedback
