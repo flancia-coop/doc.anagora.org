@@ -42,12 +42,13 @@
         - It tries to produce archive links for every items
         - Icons are new
         - Questions/feedback
+            - Can we integrate this massivewiki, given that both use markdown as a source of truth?
+                - It would be nice to see a wiki in timeline view.
             - How to set up one of your own?
             - How to contribute new items or comment/engage?
             - Long covid icon could be clearer; icons could surface the category on hover (use title property?)
             - Love the deep linking + highlighting and archiving
             - Maybe deep link the timeline and/or individual resources?
-            - Can we 
 - How are we doing with other projects we wanted to do this year?
 
 ## [[2024-08-28]]
