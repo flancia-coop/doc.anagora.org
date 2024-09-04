@@ -33,6 +33,7 @@
     - [[Jerry's Reel]]: https://vimeo.com/1006299404 
     - Peter's [[AI coaching forum]] is now open
         - Two paying members
+        - [[Discourse]] based as planned
 - How are we doing with other projects we wanted to do this year?
 
 ## [[2024-08-28]]
