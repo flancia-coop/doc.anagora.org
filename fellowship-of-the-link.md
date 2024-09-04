@@ -41,9 +41,11 @@
         - Based on X's system before she moved to react and Aram's personal archive/pinboard
         - It tries to produce archive links for every items
         - Icons are new
-        - Questions
-            - How to set one your own?
-            - How to
+        - Questions/feedback
+            - How to set up one of your own?
+            - How to contribute new items or comment/engage?
+            - Long covid icon could be clearer; icons could surface the category on hover (use title property?)
+            - Love the deep linking + highlighting and archivin
 - How are we doing with other projects we wanted to do this year?
 
 ## [[2024-08-28]]
