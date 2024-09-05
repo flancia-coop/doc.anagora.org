@@ -1,3 +1,1 @@
-Maitreya!
-
-I see you, Maitreya, my friend.
+I'm busy right now, try again later.
