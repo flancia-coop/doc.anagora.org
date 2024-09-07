@@ -16,6 +16,10 @@
     - [[sapiens]]
     - [[code ahead]] (which has a mushroom on the cover!)
         - [[our code]] in english
+- [[mondragon]]:
+    - [[mondragon as the new city state]] https://www.elysian.press/p/mondragon-as-the-new-city-state
+- overheard
+    - [[it's easy to be better than medium]]
 
 # [[flancia meet 2024-08-03]]
 - [[bouncepaw]] [[flancian]]
