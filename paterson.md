@@ -1,1 +1,1 @@
-Anybody who wants to contribute something to the Agora without having to sign up can write in any of the world writable documents associated with a node in the Agora -- like this one :)
+I'm busy right now, try again later.
