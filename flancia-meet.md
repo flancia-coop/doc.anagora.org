@@ -18,6 +18,7 @@
         - [[our code]] in english
 - [[mondragon]]:
     - [[mondragon as the new city state]] https://www.elysian.press/p/mondragon-as-the-new-city-state
+- [[mallorca]]
 - overheard
     - [[it's easy to be better than medium]]
 
