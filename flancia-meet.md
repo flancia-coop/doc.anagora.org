@@ -19,6 +19,8 @@
 - [[mondragon]]:
     - [[mondragon as the new city state]] https://www.elysian.press/p/mondragon-as-the-new-city-state
 - [[mallorca]]
+    - [[ramon llull]]
+        - inspired [[leibniz]]
 - overheard
     - [[it's easy to be better than medium]]
 
