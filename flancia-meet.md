@@ -8,6 +8,8 @@
 # [[flancia meet 2024-09-07]]
 - [[bouncepaw]] [[flancian]]
 - [[the third man]]
+- [[zine]]
+    - another [[digital gardener]] has joined the effort!
 
 # [[flancia meet 2024-08-03]]
 - [[bouncepaw]] [[flancian]]
