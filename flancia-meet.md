@@ -21,6 +21,9 @@
 - [[mallorca]]
     - [[ramon llull]]
         - inspired [[leibniz]]
+        - [[category theory]]
+            - [[a rosetta stone]]
+            - 
 - overheard
     - [[it's easy to be better than medium]]
 
