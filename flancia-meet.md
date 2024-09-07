@@ -11,6 +11,7 @@
 - [[zine]]
     - another [[digital gardener]] has joined the effort!
     - [ ] write a column/short essay, about two a5 pages
+- 
 
 # [[flancia meet 2024-08-03]]
 - [[bouncepaw]] [[flancian]]
