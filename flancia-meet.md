@@ -23,7 +23,8 @@
         - inspired [[leibniz]]
         - [[category theory]]
             - [[a rosetta stone]]
-            - 
+                - https://arxiv.org/abs/0903.0340
+            - [[an invitation to applied category theory]]
 - overheard
     - [[it's easy to be better than medium]]
 
