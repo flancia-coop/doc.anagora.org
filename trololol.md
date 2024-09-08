@@ -1,2 +1,1 @@
-- a [[person]].
-  - #pull [[eduard khil]]
+I'm busy right now, try again later.
