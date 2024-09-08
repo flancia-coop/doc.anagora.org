@@ -1,1 +1,2 @@
-I'm busy right now, try again later.
+- #wp "Animism (from Latin: [[anima]], 'breath, spirit, life')[1][2] is the belief that objects, places, and creatures all possess a distinct spiritual essence. Potentially, animism perceives all things—animals, plants, rocks, rivers, weather systems, human handiwork, and perhaps even words—as animated and [[alive]]."
+- #pull [[miyazaki]]
