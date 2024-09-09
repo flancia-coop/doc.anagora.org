@@ -37,3 +37,4 @@
     - Bring up overall project with the OC
     - Ask Nathan w.r.t. governance modeling/research aspect
 - The issue of use/participation mismatch in social.coop has been there since the beginning :)  
+    - Bonfire's governance model is inspired (or more) by [[sociocracy]] and [[ukuvota]]
