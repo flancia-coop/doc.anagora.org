@@ -10,4 +10,9 @@
 - the local-only approach would make sense also for the bonfire project
     - 'accepted answer' which was developed for the open science project (interesting) could also benefit social.coop
     - there's also reactions in the works
-    - the [[decision making]] extension would be 
+    - the [[decision making]] extension would be more sophisticated than polls
+        - [[ukuvota]]: ukuvota.world, ukuvota.xyz
+    - Q: would someone in social.coop be interested in helping build these features together?
+        - facets: design and ux; coding
+        - a researcher with experience in the social aspects as well would be great
+        - last year a group of st
