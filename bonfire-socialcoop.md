@@ -31,6 +31,7 @@
     - a pure frontend prototype using tailwind would also help
     - extension generator lets people get the right scaffolding
     - demo (recent) extension, developed in a few hours: https://bonfirenetworks.org/posts/content_labelling_in_bonfire/
+- Bonfire now implements a reddit-like threading model
 - Next steps:
     - Bring up dev possibility with TWG
     - Bring up overall project with the OC
