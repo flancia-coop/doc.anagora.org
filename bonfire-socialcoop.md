@@ -17,3 +17,7 @@
         - a researcher with experience in the social aspects as well would be great
         - last year a group of edumerco's students worked on the decision making extension for bonfire; they did prototyping based on some user research.
         - whoever picks this up could take the above prototype and run with it
+        - **possible action: we could do a call for participators in social.coop.**
+        - Ivan: one of the policykit devs is in social.coop.
+            - risottobias@ :)
+        - Mayel: this 
