@@ -26,5 +26,6 @@
     - using bounties to drive optimization
 - On the potential dev project
     - [[elixir]] plus [[liveview]]
-        - [[liveview native]] 
+        - [[liveview native]] has os x / ios and soon windows/android targets
     - [[graphql]] api
+    - a pure frontend prototype using tailwind would also help
