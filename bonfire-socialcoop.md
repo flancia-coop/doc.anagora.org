@@ -5,7 +5,7 @@
     - Previously discussed with [[Eduardo Mercovich]] how social.coop could advance their experiment w.r.t. bonfire
 - Flacian: a year ago we set up a test instance: http://bonfire.social.coop/ 
 - maybe we could use it as Loomio replacement or complement (like the meta space for members to discuss the co-op)?
-- could use SSO to log in which we have set up
+- could use SSO to log in which we have set up (bonfire supports oauth and openid connect)
 - this would start as a local-users-only instance (without federation turned on) or at least ability to limit polls to members only
 - the local-only approach would make sense also for the bonfire project
     - 'accepted answer' which was developed for the open science project (interesting) could also benefit social.coop
@@ -34,12 +34,13 @@
 - Bonfire now implements a reddit-like threading model
 - Next steps:
     - Bring up dev possibility with TWG
+    - Update bonfire.social.coop and set up SSO for it
     - Bring up overall project with the OC
     - Ask Nathan w.r.t. governance modeling/research aspect
 - The issue of use/participation mismatch in social.coop has been there since the beginning :)  
     - Bonfire's governance model is inspired (or more) by [[sociocracy]] and [[ukuvota]]
 
-- Screenshots of prototype:
+- Screenshots of decision extension prototype:
 ![](https://doc.anagora.org/uploads/upload_a4de741632f49cdc8237590f7d553d62.png)
 
 ![](https://doc.anagora.org/uploads/upload_24fc31e8fb83218b9345148df3163c7f.png)
