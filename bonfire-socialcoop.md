@@ -20,4 +20,4 @@
         - **possible action: we could do a call for participators in social.coop.**
         - Ivan: one of the policykit devs is in social.coop.
             - risottobias@ :)
-        - Mayel: this could be a from-first-principles project, or the focus could be 'what is wrong in loomio for social.coop'.
+        - Mayel: this could be a from-first-principles project, or the focus could be 'what is missing/wrong in loomio for social.coop'.
