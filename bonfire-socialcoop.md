@@ -15,4 +15,5 @@
     - Q: would someone in social.coop be interested in helping build these features together?
         - facets: design and ux; coding
         - a researcher with experience in the social aspects as well would be great
-        - last year a group of st
+        - last year a group of edumerco's students worked on the decision making extension for bonfire; they did prototyping based on some user research.
+        - whoever picks this up could take the above prototype and run with it
