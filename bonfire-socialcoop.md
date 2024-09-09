@@ -38,7 +38,7 @@
     - Bring up overall project with the OC
     - Ask Nathan w.r.t. governance modeling/research aspect
 - The issue of use/participation mismatch in social.coop has been there since the beginning :)  
-    - Bonfire's governance model is inspired (or more) by [[sociocracy]] and [[ukuvota]]
+    - Bonfire's governance tool design is inspired (or more) by [[sociocracy]] and [[ukuvota]]
 
 - Screenshots of decision extension prototype:
 ![](https://doc.anagora.org/uploads/upload_a4de741632f49cdc8237590f7d553d62.png)
@@ -50,4 +50,4 @@
 ![](https://doc.anagora.org/uploads/upload_d41bf717838a4d5a55fd154bb9cd1e74.png)
 - Q: how is the speed of bonfire nowadays?
     - A: that's our focus right now. There are bounties out for optimization. Financial support for more bounties could help.
-    - https://www.loomio.com/p/IfnNLueo/please-allocate-funds-for-community-contributions-allocation-poll-from-fwg- took place and bonfire came i
+    - https://www.loomio.com/p/IfnNLueo/please-allocate-funds-for-community-contributions-allocation-poll-from-fwg- took place and bonfire came in #8th
