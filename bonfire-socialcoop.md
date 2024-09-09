@@ -6,5 +6,8 @@
 - Flacian: a year ago we set up a test instance: http://bonfire.social.coop/ 
 - maybe we could use it as Loomio replacement or complement (like the meta space for members to discuss the co-op)?
 - could use SSO to log in which we have set up
-- this would start as a local-users-only instance (without federation)
--  
+- this would start as a local-users-only instance (without federation turned on) or at least ability to limit polls to members only
+- the local-only approach would make sense also for the bonfire project
+    - 'accepted answer' which was developed for the open science project (interesting) could also benefit social.coop
+    - there's also reactions in the works
+    - the [[decision making]] extension would be 
