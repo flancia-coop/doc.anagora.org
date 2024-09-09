@@ -39,6 +39,7 @@
 - The issue of use/participation mismatch in social.coop has been there since the beginning :)  
     - Bonfire's governance model is inspired (or more) by [[sociocracy]] and [[ukuvota]]
 
+- Screenshots of prototype:
 ![](https://doc.anagora.org/uploads/upload_a4de741632f49cdc8237590f7d553d62.png)
 
 ![](https://doc.anagora.org/uploads/upload_24fc31e8fb83218b9345148df3163c7f.png)
