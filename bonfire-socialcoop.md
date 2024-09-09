@@ -36,4 +36,4 @@
     - Bring up dev possibility with TWG
     - Bring up overall project with the OC
     - Ask Nathan w.r.t. governance modeling/research aspect
- 
+- The issue of use/participation mismatch in social.coop has been there since the beginning :)  
