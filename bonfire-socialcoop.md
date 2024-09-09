@@ -6,4 +6,5 @@
 - Flacian: a year ago we set up a test instance: http://bonfire.social.coop/ 
 - maybe we could use it as Loomio replacement or complement (like the meta space for members to discuss the co-op)?
 - could use SSO to log in which we have set up
+- this would start as a local-users-only instance (without federation)
 -  
