@@ -29,3 +29,6 @@
         - [[liveview native]] has os x / ios and soon windows/android targets
     - [[graphql]] api
     - a pure frontend prototype using tailwind would also help
+    - extension generator lets people get the right scaffolding
+    - demo (recent) extension, developed in a few hours: https://bonfirenetworks.org/posts/content_labelling_in_bonfire/
+ 
