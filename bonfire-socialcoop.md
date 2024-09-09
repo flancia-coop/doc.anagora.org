@@ -43,7 +43,7 @@
 - Screenshots of decision extension prototype:
 ![](https://doc.anagora.org/uploads/upload_a4de741632f49cdc8237590f7d553d62.png)
 
-![](https://doc.anagora.org/uploads/upload_24fc31e8fb83218b9345148df3163c7f.png)
+![](https://doc.anagora.org/uploads/upload_5482f591d4da24a5ecb790e6cb9cec22.png)
 
 ![](https://doc.anagora.org/uploads/upload_4f4a14ccf46184ee4d1ffddc4fde5e28.png)
 
