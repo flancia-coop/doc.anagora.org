@@ -49,4 +49,5 @@
 
 ![](https://doc.anagora.org/uploads/upload_d41bf717838a4d5a55fd154bb9cd1e74.png)
 - Q: how is the speed of bonfire nowadays?
-    - A: that's our focus right now. There are bounties out fo
+    - A: that's our focus right now. There are bounties out for optimization. Financial support for more bounties could help.
+    - https://www.loomio.com/p/IfnNLueo/please-allocate-funds-for-community-contributions-allocation-poll-from-fwg- took place and bonfire came i
