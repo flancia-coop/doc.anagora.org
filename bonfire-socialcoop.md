@@ -21,3 +21,6 @@
         - Ivan: one of the policykit devs is in social.coop.
             - risottobias@ :)
         - Mayel: this could be a from-first-principles project, or the focus could be 'what is missing/wrong in loomio for social.coop'.
+- Federation testing is progressing in bonfire, but it's not considered ready yet, so an internal-only instance is a good fit.
+    - campfire is now federation-enabled
+    - u
