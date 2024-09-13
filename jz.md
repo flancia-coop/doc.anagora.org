@@ -1,7 +1,1 @@
-- hacker rank
-- Code Signal?
-- Umberto eco
-- multiverse
-- probabilities
-- singing
-- Meditation
+I'm busy right now, try again later.
