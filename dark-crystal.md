@@ -1,1 +1,5 @@
-I'm busy right now, try again later.
+[[dark crystal]]: https://darkcrystal.pw
+
+"Backup your secrets using the [[trust]] in your social fabric"
+
+h/t [[vera]]
