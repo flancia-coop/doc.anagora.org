@@ -1,1 +1,1 @@
-I'm busy right now, try again later.
+https://attractgroup.com/blog
