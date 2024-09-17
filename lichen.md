@@ -1,1 +1,2 @@
-I'm busy right now, try again later.
+- [[flancian]]
+    - [[symbiosis]] https://en.wikipedia.org/wiki/Symbiosis_in_lichens
