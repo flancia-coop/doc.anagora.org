@@ -1,1 +1,1 @@
-[[go/move]] day 27
+I'm busy right now, try again later.
