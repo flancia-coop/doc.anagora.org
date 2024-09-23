@@ -75,10 +75,13 @@
             - Flancian: +1 on the onduty/oncall group, similar to the CWG model. There is the issue of oncall-aversion for some as several of us are already oncall for our day jobs, and the fact that the response SLO for technical issues needs to be somewhat low.
             - This can go well with the task to review access lists.
         - Edumerco: question about documentation. Is it up to date?
-            - Edsu: we dropped some things when we moved to wiki.social.coop. There could be 
+            - Edsu: we dropped some things when we moved to wiki.social.coop. There could be more work on this area.
+            - Eduardo: can help here.
+            - Caitlin: +1 on this being important.
 - Possible projects of interest
     - Single sign on
     - Signup/joining process
+        - Edumerco: https://miro.com/app/board/uXjVLdZtJc0=/ is what we've been working with the CWG on
     - Bill tracking
         - Covered above organically :)
 
