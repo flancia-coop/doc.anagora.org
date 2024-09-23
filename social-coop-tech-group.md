@@ -11,9 +11,16 @@
     - Round the table
     - Next steps for onboarding new members
     - Next steps for alpha.social.coop
+    - Character limit
+    - Quick update on:
+        - Bluesky bridge (more on the policy side)
+        - Bonfire (meeting report)
     - Your topic here!
 - Introductions with the OC
 - Questions from/to the OC
+    - Single sign on
+    - Signup/joining process
+
 
 ## 2024-08-26
 - Here: [[Kathe T-B]] [[Eduardo Mercovich]] [[Flancian]] [[@andrewe]]
