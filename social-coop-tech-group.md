@@ -3,6 +3,11 @@
 - High level agenda today
     - Standard TWG meeting at 18 UTC
     - OC joins at 18.30 UTC (some people might join earlier best-effort)
+- Topics for the TWG meeting
+    - Round the table
+    - Next steps for onboarding new members
+    - Next steps for alpha.social.coop
+    - Your topic here!
 - Introductions with the OC
 - Questions from/to the OC
 
