@@ -8,8 +8,13 @@
     - Standard TWG meeting at 18 UTC
     - OC joins at 18.30 UTC (some people might join earlier best-effort)
 - Topics for the TWG meeting
-    - Round the table
+    - ✅ Round the table (agenda building)
     - Next steps for onboarding new members
+        - We need votes
+        - PRs in flight:
+            - 1
+            - 2
+            - 
     - Next steps for alpha.social.coop
     - Character limit
     - Quick update on:
