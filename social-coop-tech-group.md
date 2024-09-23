@@ -2,7 +2,8 @@
 - Here: [[Calix]] [[Dan]] [[Flancian]]
 - Check ins
     - Calix: still in Visa limbo but with progress
-    - Flancian: OK, bit tired. just back from holidays
+    - Flancian: OK, bit tired. just back from holidays in Mallorca.
+    - Dan: doing good. Infected with Global Virus. Last time it took very long to get a negative test.
 - High level agenda today
     - Standard TWG meeting at 18 UTC
     - OC joins at 18.30 UTC (some people might join earlier best-effort)
