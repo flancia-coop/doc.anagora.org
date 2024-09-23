@@ -34,7 +34,11 @@
             - Maybe next step is opening a bug for this?
             - Flancian: will do that
         - Bonfire (meeting report)
-            - https://anagora.org/bonfire+socialcoop
+            - https://anagora.org/bonfire+socialcoop with Mayel and Ivan
+            - they are looking for contributors for implementing governance extensions
+                - design
+                - coding
+            - edumerco: been helping them in the interaction design front. a group of students contributed last year.
     - Your topic here!
     - Other pending bugs
 - Introductions with the OC
