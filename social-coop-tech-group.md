@@ -79,11 +79,12 @@
             - Eduardo: can help here.
             - Caitlin: +1 on this being important.
 - Possible projects of interest
-    - Single sign on
     - Signup/joining process
         - Edumerco: https://miro.com/app/board/uXjVLdZtJc0=/ is what we've been working with the CWG on
     - Bill tracking
         - Covered above organically :)
+- Next time:
+    - Single sign on
 
 
 ## 2024-08-26
