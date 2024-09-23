@@ -14,9 +14,9 @@
         - PRs in flight:
             - for Dan: https://git.coop/social.coop/tech/pass/-/merge_requests/10, https://git.coop/social.coop/tech/ansible/-/merge_requests/39
                 - Dan will open a bug to track making sure the updated onboarding process is in the wiki somewhere
-            - for Evan: (missing?) - Flancian is asking via atrix 
-    - Next steps for alpha.social.coop
+            - for Evan: (missing?) - Flancian is asking via matrix about continuing the process
     - Character limit
+        - F: next step is to get alpha.social.coop going. WIP PR
     - Quick update on:
         - Bluesky bridge (more on the policy side) and 
         - Bonfire (meeting report)
