@@ -13,9 +13,8 @@
         - We need votes https://www.loomio.com/d/jrbG5tue/server-access/98
         - PRs in flight:
             - for Dan: https://git.coop/social.coop/tech/pass/-/merge_requests/10, https://git.coop/social.coop/tech/ansible/-/merge_requests/39
-                - 
-            - for Evan: (missing?)
-            - 
+                - Dan will open a bug to track making sure the updated onboarding process is in the wiki somewhere
+            - for Evan: (missing?) - Flancian is asking via atrix 
     - Next steps for alpha.social.coop
     - Character limit
     - Quick update on:
@@ -26,6 +25,7 @@
 - Questions from/to the OC
     - Single sign on
     - Signup/joining process
+    - Bill tracking
 
 
 ## 2024-08-26
