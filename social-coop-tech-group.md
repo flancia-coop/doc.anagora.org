@@ -68,6 +68,8 @@
         - Together with defining scopes, we can define how we (working groups) interact.
     - Calix: on inter-circle communication, maybe we should raise the fact that we are at low capacity. The OC could maybe boost this and help with recruiting?
         - Edumerco: perfect example of how we can help with, yes. If we can describe the kind of knowledge and interests that a good candidate would have, we could go with that to the community.
+        - **Flancian: we'll definitely discuss scope and role descriptions in the next TWG meeting.**
+        - Edsu: +1 to Calix. We sometimes run a bit thin; although people come and go. E.g. Akshay did a lot of significant work and then had to take a step back. But still swooped in and purged docker logs in the middle of the night recently :) So it's difficult to estimate what our actual capacity is.
 - Possible projects of interest
     - Single sign on
     - Signup/joining process
