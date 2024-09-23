@@ -1,5 +1,8 @@
 ## 2024-09-23
-- Here: [[Cali]]
+- Here: [[Calix]] [[Dan]] [[Flancian]]
+- Check ins
+    - Calix: still in Visa limbo but with progress
+    - Flancian: OK, bit tired. just back from holidays
 - High level agenda today
     - Standard TWG meeting at 18 UTC
     - OC joins at 18.30 UTC (some people might join earlier best-effort)
