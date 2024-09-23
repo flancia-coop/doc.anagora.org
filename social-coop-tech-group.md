@@ -56,7 +56,9 @@
 - Questions from/to the OC
     - Q (edumerco): how can we help one another? What do we need to know, how can we best support our work and serve our community?
         - Edsu: something that came up in the matrix chat ~2w ago. On how we organize communication and our meetings. E.g. this meeting we're having now is something we have been missing, as we haven't had as much visibility on what the OC is doing/working on.
-        - Edumerco: currently the OC is a group that "catches" whatever doesn't fall to other working groups. It currently works as per [[sociocracy]]. We are not a board/it is not our place to mandate how working groups operate. We set out to organize but not make decisions for others.
+        - Edumerco: currently the OC is a group that "catches" whatever doesn't fall to other working groups. It currently works as per [[sociocracy]]. We are not a board/it is not our place to mandate how working groups operate. We set out to organize but not make decisions for others. We can help with: determining which decisions must be made; who should take them.
+        - Edumerco: this round of meetings is about understanding best what each group does and how we can support you.
+        - Edsu: in terms of gaps, one that comes to mind is about payment of bills -- the hostin
 - Possible projects of interest
     - Single sign on
     - Signup/joining process
