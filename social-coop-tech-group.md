@@ -22,8 +22,11 @@
         - question: how much to share (e.g. S3, mailgun)
         - could we do a coworking session next time to advance this?
             - most definitely; either advance the PR proper or do a sync review of what we have by then.
+        - any follow ups from the long loomio?
+            - good question
+            - we 
     - Quick update on:
-        - Bluesky bridge (more on the policy side) and 
+        - Bluesky bridge (more on the policy side) and supporting bluesky users
         - Bonfire (meeting report)
     - Your topic here!
 - Introductions with the OC
