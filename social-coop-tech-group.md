@@ -85,7 +85,9 @@
     - Bill tracking
         - Covered above organically :)
 - Next time:
-    - Let's pencil in: 2024-10-
+    - Let's pencil in: [[2024-10-21]] for the next shared session, then every few months?
+        - Kathe: with the CWG we said quarterly cadence, let's default to that?
+        - Edumerco: recommend that the TWG works on scope and role definitions in 
     - Single sign on
 
 
