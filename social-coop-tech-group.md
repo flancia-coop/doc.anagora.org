@@ -73,7 +73,9 @@
         - Edsu: there is a relatively large group of people who have access to servers but are not active. We need to determine when people lose access. 
         - Edumerco: this working group can decide that. Also, have you considered an oncall rotation/some sort of subgroup that could do small response tasks?
             - Flancian: +1 on the onduty/oncall group, similar to the CWG model. There is the issue of oncall-aversion for some as several of us are already oncall for our day jobs, and the fact that the response SLO for technical issues needs to be somewhat low.
-            - 
+            - This can go well with the task to review access lists.
+        - Edumerco: question about documentation. Is it up to date?
+            - Edsu: we dropped some things when we moved to wiki.social.coop. There could be 
 - Possible projects of interest
     - Single sign on
     - Signup/joining process
