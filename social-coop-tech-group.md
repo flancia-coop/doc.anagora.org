@@ -71,7 +71,7 @@
         - **Flancian: we'll definitely discuss scope and role descriptions in the next TWG meeting.**
         - Edsu: +1 to Calix. We sometimes run a bit thin; although people come and go. E.g. Akshay did a lot of significant work and then had to take a step back. But still swooped in and purged docker logs in the middle of the night recently :) So it's difficult to estimate what our actual capacity is.
         - Edsu: there is a relatively large group of people who have access to servers but are not active. We need to determine when people lose access. 
-        - Edumerco: this working group can decide that. 
+        - Edumerco: this working group can decide that. Also, have you considered an oncall rotation/some sort of 
 - Possible projects of interest
     - Single sign on
     - Signup/joining process
