@@ -54,6 +54,8 @@
         - A: yes!
         - Edumerco is also at Sutty :) Would love to welcome in Buenos Aires.
 - Questions from/to the OC
+    - Q (edumerco): how can we help one another? What do we need to know, how can we best support our work and serve our community?
+        - Edsu: something that came up in the matrix chat ~2
     - Single sign on
     - Signup/joining process
     - Bill tracking
