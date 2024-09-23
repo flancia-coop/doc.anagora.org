@@ -65,6 +65,8 @@
         - **Caitlin: will look into this.**
         - Thank you Caitlin!!!
     - Edumerco: on the opportunity of defining our scopes, sociocratically. E.g. the TWG can say "we take decisions on technology, operate the services, but (propose that) we don't pay bills".
+        - Together with defining scopes, we can define how we (working groups) interact.
+    - Calix: on inter-circle communication, maybe we should raise the fact that we are at low capacity. The OC could maybe boost this and help with recruiting?
 - Possible projects of interest
     - Single sign on
     - Signup/joining process
