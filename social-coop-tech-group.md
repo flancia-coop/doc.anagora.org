@@ -17,7 +17,11 @@
             - for Evan: (missing?) - Flancian is asking via matrix about continuing the process
     - Character limit
         - F: next step is to get alpha.social.coop going. WIP branch: https://git.coop/social.coop/tech/ansible/-/tree/alpha.social.coop?ref_type=heads
-        - some commits 
+        - some commits pending
+        - so far: cloned main server config, replacing URLs
+        - question: how much to share (e.g. S3, mailgun)
+        - could we do a coworking session next time to advance this?
+            - most definitely; either advance the PR proper or do a sync review of what we have by then.
     - Quick update on:
         - Bluesky bridge (more on the policy side) and 
         - Bonfire (meeting report)
