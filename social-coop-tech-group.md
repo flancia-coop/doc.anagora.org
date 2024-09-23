@@ -62,10 +62,14 @@
         - Flancian: we can separate the bills in terms of what needs to be paid, from who is paying them. There are notes about this in OC meeting minutes in Loomio. 
         - Caitlin: posts can be posted to OpenCollective and members of the Finance Working Group can approve them.
         - Flancian: now that we are closer to establishing the co-op as a legal entity is it possible to have a co-op credit card which could be used?
+        - **Caitlin: will look into this.**
+        - Thank you Caitlin!!!
+    - Edumerco: on the opportunity of defining our scopes, sociocratically. E.g. the TWG can say "we take decisions on technology, operate the services, but (propose that) we don't pay bills".
 - Possible projects of interest
     - Single sign on
     - Signup/joining process
     - Bill tracking
+        - Covered above organically :)
 
 
 ## 2024-08-26
