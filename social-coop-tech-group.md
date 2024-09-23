@@ -42,9 +42,10 @@
             - next steps:
                 - announce to the community -> the OC could do this?
                 - update bonfire.social.coop to latest version
-    - Your topic here!
-    - Other pending bugs
+                    - -> file bugs
+    - Other pending bugs -> next time
 - Introductions with the OC
+    - edumerco: studied biology, born and lives in Buenos Aires. Part of the Organizing Circle; part of an intentional community near Buenos Aires. A fan of cooperation :)
 - Questions from/to the OC
     - Single sign on
     - Signup/joining process
