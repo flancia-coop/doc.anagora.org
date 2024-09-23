@@ -85,6 +85,7 @@
     - Bill tracking
         - Covered above organically :)
 - Next time:
+    - Let's pencil in: 2024-10-
     - Single sign on
 
 
