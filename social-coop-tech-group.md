@@ -12,8 +12,8 @@
     - Next steps for onboarding new members
         - We need votes
         - PRs in flight:
-            - 1
-            - 2
+            - for Dan: https://git.coop/social.coop/tech/pass/-/merge_requests/10, https://git.coop/social.coop/tech/ansible/-/merge_requests/39
+            - for Evan: 
             - 
     - Next steps for alpha.social.coop
     - Character limit
