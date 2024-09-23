@@ -1,5 +1,5 @@
 ## 2024-09-23
-- Here: ...
+- Here: [[Cali]]
 - High level agenda today
     - Standard TWG meeting at 18 UTC
     - OC joins at 18.30 UTC (some people might join earlier best-effort)
