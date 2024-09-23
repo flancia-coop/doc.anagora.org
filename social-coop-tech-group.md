@@ -16,7 +16,8 @@
                 - Dan will open a bug to track making sure the updated onboarding process is in the wiki somewhere
             - for Evan: (missing?) - Flancian is asking via matrix about continuing the process
     - Character limit
-        - F: next step is to get alpha.social.coop going. WIP PR
+        - F: next step is to get alpha.social.coop going. WIP branch: https://git.coop/social.coop/tech/ansible/-/tree/alpha.social.coop?ref_type=heads
+        - some commits 
     - Quick update on:
         - Bluesky bridge (more on the policy side) and 
         - Bonfire (meeting report)
