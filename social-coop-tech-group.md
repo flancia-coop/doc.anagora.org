@@ -10,15 +10,15 @@
 - Topics for the TWG meeting
     - ✅ Round the table (agenda building)
     - Next steps for onboarding new members
-        - We need votes
+        - We need votes https://www.loomio.com/d/jrbG5tue/server-access/98
         - PRs in flight:
             - for Dan: https://git.coop/social.coop/tech/pass/-/merge_requests/10, https://git.coop/social.coop/tech/ansible/-/merge_requests/39
-            - for Evan: 
+            - for Evan: (missing?)
             - 
     - Next steps for alpha.social.coop
     - Character limit
     - Quick update on:
-        - Bluesky bridge (more on the policy side)
+        - Bluesky bridge (more on the policy side) and 
         - Bonfire (meeting report)
     - Your topic here!
 - Introductions with the OC
