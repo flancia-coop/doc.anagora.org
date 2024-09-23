@@ -49,7 +49,10 @@
     - Caitlin Waddick: live in Vermont, part of the Finance Working Group. Part of a few cooperatives. Currently in more than one meeting context :)
     - Eduardo (Flancian): part of the TWF for ~2 years, social.coop for ~4. Joined the CWG, and take some shifts, and also involved in the organizing circle. Super into cooperatives, and work in big-tech as part of daily life (e.g. this is meeting no. 8 today). Also from Argentina.
     - Edsu (Ed Summers): worked as a software developer for... long :) Also studied libraries and archives at school, have a background in digital preservation. Working in Stanford U Library. Belonged to many coops throughout life, but this is the only one I'm currently active in. Live in Maryland.
-    - Calix: pronouns they/them. Main gig is autonomic coop. Also part of a second worker coop, about to join a third. Part of a few coop federations. Super happy to be here.
+    - Calix: pronouns they/them. Main gig is autonomic coop. Also part of a second worker coop, about to join a third. Part of a few coop federations. Super happy to be here. Been in the TWG for a ~year. Background is in development, science, infrastructure. Autonomic initiated [[coop cloud]], which we're using for some of our services. Usually based in NYC but currently in Canada.
+        - Q (edumerco): do you know people from Sutty? We have them in common?
+        - A: yes!
+        - Edumerco is also at Sutty :) Would love to welcome in Buenos Aires.
 - Questions from/to the OC
     - Single sign on
     - Signup/joining process
