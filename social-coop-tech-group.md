@@ -86,8 +86,8 @@
         - Covered above organically :)
 - Next time:
     - Let's pencil in: [[2024-10-21]] for the next shared session, then every few months?
-        - Kathe: with the CWG we said quarterly cadence, let's default to that?
-        - Edumerco: recommend that the TWG works on scope and role definitions in 
+        - Kathe: with the CWG we said quarterly cadence, let's default to that? I can make week of Oct 21 but need to get it on the calendar ASAP
+        - Edumerco: recommend that the TWG works on scope and role definitions in your next session?
     - Single sign on
 
 
