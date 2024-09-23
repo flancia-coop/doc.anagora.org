@@ -47,7 +47,8 @@
 - Introductions with the OC
     - Edumerco: studied biology, born and lives in Buenos Aires. Part of the Organizing Circle; part of an intentional community near Buenos Aires. A fan of cooperation :)
     - Caitlin Waddick: live in Vermont, part of the Finance Working Group. Part of a few cooperatives. Currently in more than one meeting context :)
-    - Eduardo (Flancian)
+    - Eduardo (Flancian): part of the TWF for ~2 years, social.coop for ~4. Joined the CWG, and take some shifts, and also involved in the organizing circle. Super into cooperatives, and work in big-tech as part of daily life (e.g. this is meeting no. 8 today). Also from Argentina.
+    - Edsu (Ed Summers): worked as a software developer for... long :) Also studied libr
 - Questions from/to the OC
     - Single sign on
     - Signup/joining process
