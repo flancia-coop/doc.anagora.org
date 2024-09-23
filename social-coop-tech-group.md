@@ -29,12 +29,14 @@
             - -> https://www.loomio.com/d/C4HKmTOa/proposal-to-revisit-extending-the-character-limit-for-posts/32 1k was approved
     - Quick update on:
         - Bluesky bridge (more on the policy side) and supporting bluesky users
+            - Nathan's intro: https://social.coop/@ntnsndr/113148877812139659 
             - On username validation proposal by Nathan Schneider, e.g. edsu.social.coop as username in bluesky
             - Maybe next step is opening a bug for this?
             - Flancian: will do that
-            
         - Bonfire (meeting report)
+            - https://anagora.org/bonfire+socialcoop
     - Your topic here!
+    - Other pending bugs
 - Introductions with the OC
 - Questions from/to the OC
     - Single sign on
