@@ -1,3 +1,9 @@
+## 2024-09-23
+- Here: ...
+- High level agenda
+    - TWG meeting at 18 UTC
+    - OC joins at 18.30 UTC (some people might join earlier best-effort)
+
 ## 2024-08-26
 - Here: [[Kathe T-B]] [[Eduardo Mercovich]] [[Flancian]] [[@andrewe]]
 - Gandhi access for domain:
