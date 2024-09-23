@@ -38,7 +38,10 @@
             - they are looking for contributors for implementing governance extensions
                 - design
                 - coding
-            - edumerco: been helping them in the interaction design front. a group of students contributed last year.
+            - edumerco: been helping them in the interaction design front. a group of students contributed last year. currently they are focused on fixing performance issues, are using bounties.
+            - next steps:
+                - announce to the community -> the OC could do this?
+                - update bonfire.social.coop to latest version
     - Your topic here!
     - Other pending bugs
 - Introductions with the OC
