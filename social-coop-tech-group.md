@@ -45,7 +45,9 @@
                     - -> file bugs
     - Other pending bugs -> next time
 - Introductions with the OC
-    - edumerco: studied biology, born and lives in Buenos Aires. Part of the Organizing Circle; part of an intentional community near Buenos Aires. A fan of cooperation :)
+    - Edumerco: studied biology, born and lives in Buenos Aires. Part of the Organizing Circle; part of an intentional community near Buenos Aires. A fan of cooperation :)
+    - Caitlin Waddick: live in Vermont, part of the Finance Working Group. Part of a few cooperatives. Currently in more than one meeting context :)
+    - Eduardo (Flancian)
 - Questions from/to the OC
     - Single sign on
     - Signup/joining process
