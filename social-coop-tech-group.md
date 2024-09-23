@@ -24,7 +24,9 @@
             - most definitely; either advance the PR proper or do a sync review of what we have by then.
         - any follow ups from the long loomio?
             - good question
-            - we 
+            - edumerco: we agreed to trial a bit higher a limit
+            - https://www.loomio.com/d/C4HKmTOa/proposal-to-revisit-extending-the-character-limit-for-posts/82
+            - -> https://www.loomio.com/d/C4HKmTOa/proposal-to-revisit-extending-the-character-limit-for-posts/32 1k was approved
     - Quick update on:
         - Bluesky bridge (more on the policy side) and supporting bluesky users
         - Bonfire (meeting report)
