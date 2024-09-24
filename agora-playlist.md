@@ -1,1 +1,1 @@
-- [[go]] https://music.youtube.com/playlist?list=PLtG4zc89ZUfGJT_59uT8vRZJltctlGjdy
+I'm busy right now, try again later.
