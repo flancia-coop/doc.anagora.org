@@ -1,4 +1,1 @@
-[[Om mani padme]]
-... [[Hum]]!
-
-Tengo un bonsai llamado [[Shantideva]].
+I'm busy right now, try again later.
