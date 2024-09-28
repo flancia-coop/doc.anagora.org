@@ -1,1 +1,1 @@
-The Nouveau Roman (French pronunciation: ​[nuvo ʁɔmɑ̃], "new novel") is a type of 1950s French novel that diverged from classical literary genres. Émile Henriot coined the term in an article in the popular French newspaper Le Monde on May 22, 1957[1] to describe certain writers who experimented with style in each novel, creating an essentially new style each time. Most of the founding authors were published by Les Éditions de Minuit with the strong support of Jérôme Lindon.
+I'm busy right now, try again later.
