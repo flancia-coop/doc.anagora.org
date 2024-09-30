@@ -1,1 +1,1 @@
-- as per [[Pittman]], he had a [[stroke]] in [[1947]] at [[57]].
+I'm busy right now, try again later.
