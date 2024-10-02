@@ -43,6 +43,7 @@
 - [[west wing]] and [[shibboleth]]
 - [[vp debate]]
 - [[genghis khan]] and the [[myth of eternal growth]]
+- from here to [[atproto]] and [[federation]] in Mastodon :)
 
 ## [[2024-09-04]]
 - Attending: [[Jerry Michalski]] [[Peter Kaminski]] [[Aram Zucker-Scharff] [[Flancian]]
