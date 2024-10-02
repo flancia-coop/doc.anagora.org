@@ -28,7 +28,7 @@
 
 
 
-## [[2024-09-04]]
+## [[2024-10-02]]
 - Attending: [[Jerry Michalski]] [[Chris Aldrich] [[Flancian]]
 - [[Chris Aldrich]]:
     - Studying topology! Properly
