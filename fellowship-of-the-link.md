@@ -33,7 +33,7 @@
 - [[Chris Aldrich]]:
     - Studying topology!
     - [[general topology]] and [[introduction to topology]]
-    - S
+    - Super cool!
 
 ## [[2024-09-04]]
 - Attending: [[Jerry Michalski]] [[Peter Kaminski]] [[Aram Zucker-Scharff] [[Flancian]]
