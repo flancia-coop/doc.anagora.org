@@ -42,6 +42,7 @@
 - [[globetrotting]]: https://www.youtube.com/watch?v=Bev9VChj5xQ&feature=youtu.be
 - [[west wing]] and [[shibboleth]]
 - [[vp debate]]
+- [[genghis khan]] and the [[myth of eternal growth]]
 
 ## [[2024-09-04]]
 - Attending: [[Jerry Michalski]] [[Peter Kaminski]] [[Aram Zucker-Scharff] [[Flancian]]
