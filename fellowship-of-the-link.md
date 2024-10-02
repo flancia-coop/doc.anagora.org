@@ -40,7 +40,8 @@
     - [[the bandwagon]]: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=1056774 :)
 - [[scientists club]]
 - [[globetrotting]]: https://www.youtube.com/watch?v=Bev9VChj5xQ&feature=youtu.be
-
+- [[west wing]] and [[shibboleth]]
+- [[vp debate]]
 
 ## [[2024-09-04]]
 - Attending: [[Jerry Michalski]] [[Peter Kaminski]] [[Aram Zucker-Scharff] [[Flancian]]
