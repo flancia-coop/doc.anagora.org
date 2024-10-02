@@ -31,9 +31,13 @@
 ## [[2024-09-04]]
 - Attending: [[Jerry Michalski]] [[Chris Aldrich] [[Flancian]]
 - [[Chris Aldrich]]:
-    - Studying topology!
+    - Studying topology! Properly
     - [[general topology]] and [[introduction to topology]]
     - Super cool!
+    - Flancian: trying to study [[category theory]] informally.
+        - [[a rosetta stone]]
+        - #CA [[spivak]]: Spivak, David I. (1978– ). [[Category Theory for the Sciences]]. MIT Press, 2014. 
+
 
 ## [[2024-09-04]]
 - Attending: [[Jerry Michalski]] [[Peter Kaminski]] [[Aram Zucker-Scharff] [[Flancian]]
