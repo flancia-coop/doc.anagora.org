@@ -37,14 +37,15 @@
     - Flancian: trying to study [[category theory]] informally.
         - [[a rosetta stone]]
         - #CA [[spivak]]: Spivak, David I. (1978– ). [[Category Theory for the Sciences]]. MIT Press, 2014. 
-    - [[the bandwagon]]: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=1056774 :)
-- [[scientists club]]
+    - [[the bandwagon]] by [[Claude Shannon]]: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=1056774 :)
+- [[The Mad Scientists' Club]]
 - [[globetrotting]]: https://www.youtube.com/watch?v=Bev9VChj5xQ&feature=youtu.be
 - [[west wing]] and [[shibboleth]]
 - [[vp debate]]
 - [[genghis khan]] and the [[myth of eternal growth]]
 - from here to [[atproto]] and [[federation]] in Mastodon :)
     - [[flancian]] on the [[Ekumen]] project ;)
+- Chris's notes/links: https://hypothes.is/search?q=tag%3A%22Friends%20of%20the%20Link%202024-10-02%22 
 
 ## [[2024-09-04]]
 - Attending: [[Jerry Michalski]] [[Peter Kaminski]] [[Aram Zucker-Scharff] [[Flancian]]
