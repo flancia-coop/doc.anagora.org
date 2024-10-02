@@ -38,7 +38,8 @@
         - [[a rosetta stone]]
         - #CA [[spivak]]: Spivak, David I. (1978– ). [[Category Theory for the Sciences]]. MIT Press, 2014. 
     - [[the bandwagon]]: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=1056774 :)
-    - [[globetrotting]]: https://www.youtube.com/watch?v=Bev9VChj5xQ&feature=youtu.be
+- [[scientists club]]
+- [[globetrotting]]: https://www.youtube.com/watch?v=Bev9VChj5xQ&feature=youtu.be
 
 
 ## [[2024-09-04]]
