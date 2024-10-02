@@ -27,6 +27,13 @@
             - [[github]] by default?
 
 
+
+## [[2024-09-04]]
+- Attending: [[Jerry Michalski]] [[Chris Aldrich] [[Flancian]]
+- [[Chris Aldrich]]:
+    - Studying topology!
+    - [[general topology]] and [[introduction to topology]]
+
 ## [[2024-09-04]]
 - Attending: [[Jerry Michalski]] [[Peter Kaminski]] [[Aram Zucker-Scharff] [[Flancian]]
 - Check ins
