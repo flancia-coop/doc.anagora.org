@@ -14,7 +14,8 @@
         - [x] flancian: crear repositorio en e.g. codeberg
             - https://codeberg.org/Ekumen/ekumen.git
         - [ ] edumerco: crear usuario en codeberg: https://codeberg.org/
-- Possible invitees
+- Next steps
+    - Determine possible invitees
     - Once we have this, we can create a time poll
     - Draft invitation, initial meeting
     - The some co-design meetings
