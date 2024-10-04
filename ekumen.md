@@ -21,8 +21,11 @@
     - Then seeking funding for concrete implementation
 - Comments
     - Discoverability phase
-- Meta-governance (for this group
+- Meta-governance (for this group)
+    - How to handle self-moderation, group membership, associated protocols
 - Initial definition
+- https://cryptpad.fr/pad/#/2/pad/edit/5xxQZvxvjfAP2eQTYenLuWOZ/embed/
+ 
 
 ## Invitades posibles
 - Flancian y EduMerco
