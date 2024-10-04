@@ -11,4 +11,6 @@
 - Facetas del Ekumen :)
     - Documentación
     - Repos
-        - [ ] crear repositorio en e.g. codeberg
+        - [ ] flancian: crear repositorio en e.g. codeberg
+        - [ ] edumerco: crear usuario en codeberg: https://codeberg.org/
+
