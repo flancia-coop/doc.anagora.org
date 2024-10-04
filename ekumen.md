@@ -14,6 +14,10 @@
         - [x] flancian: crear repositorio en e.g. codeberg
             - https://codeberg.org/Ekumen/ekumen.git
         - [ ] edumerco: crear usuario en codeberg: https://codeberg.org/
+- Possible invitees
+    - Once we have this, we can create a time poll
+- Governance structure
+- Initial definition
 
 ## Invitades posibles
 - Flancian y EduMerco
