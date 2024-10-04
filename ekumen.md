@@ -54,3 +54,8 @@ We start with a small groups of people from various instances who share values o
 The key to shared and increased power is the correlation of sharing and receiving information between instances in a clear, trusted, and guarded space.
 
 We can understand and act as a group in ways that no one could do alone.
+
+## Plan
+1. Meet and get to know each other. Check if there are other that need to be here now. 
+2. Research previous related projects. Learn from them.
+3. Design the agreements and processes. 
