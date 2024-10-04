@@ -14,6 +14,7 @@
 - timetravel :)
 - flats: pros and cons
 - [[inktober]] in the [[park]]
+- [[flancian]]: [[ekumen]]
 
 # [[flancia meet 2024-09-07]]
 - [[bouncepaw]] [[flancian]]
