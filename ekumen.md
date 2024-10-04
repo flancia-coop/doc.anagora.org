@@ -2,6 +2,10 @@
 
 ## [[2024-10-11]]
 - Attending: [[edumerco]] [[flancian]]
+- Task list
+    - Codeberg
+    - List
+    - Agora
 
 ## [[2024-10-04]]
 - Attending: [[edumerco]] [[flancian]]
