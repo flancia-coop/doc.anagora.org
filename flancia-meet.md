@@ -3,10 +3,14 @@
 - This is where we have community maintained notes :)
 
 # [[flancia meet 2024-10-05]] ?
-- [[j0lms]] [[flancian]]
+- [[j0lms]] [[flancian]]?
 
 # [[flancia meet 2024-10-04]]
 - [[bouncepaw]] [[flancian]]
+- working hard this week
+    - bouncepaw compensating for some upcoming time off
+    - flancian caught up in 3d
+- education as an [[all time job]], a [[lifestyle]]
 
 # [[flancia meet 2024-09-07]]
 - [[bouncepaw]] [[flancian]]
