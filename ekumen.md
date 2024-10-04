@@ -2,3 +2,5 @@
 
 ## [[2024-10-04]]
 - Attending: [[edumerco]] [[flancian]]
+- Check ins
+    - [[Milei]]
