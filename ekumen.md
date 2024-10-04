@@ -4,3 +4,5 @@
 - Attending: [[edumerco]] [[flancian]]
 - Check ins
     - [[Milei]]
+        - Qué sigue a Milei?
+    - Gripe
