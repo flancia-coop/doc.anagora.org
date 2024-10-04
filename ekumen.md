@@ -1,5 +1,8 @@
 # Meeting notes
 
+## [[2024-10-11]]
+- Attending: [[edumerco]] [[flancian]]
+
 ## [[2024-10-04]]
 - Attending: [[edumerco]] [[flancian]]
 - Check ins
