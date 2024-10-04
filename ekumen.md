@@ -9,3 +9,6 @@
             - [[Juan Grabois]]?
     - Gripe
 - Facetas del Ekumen :)
+    - Documentación
+    - Repos
+        - [ ] crear repositorio en e.g. codeberg
