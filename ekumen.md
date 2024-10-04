@@ -4,7 +4,8 @@
 - Attending: [[edumerco]] [[flancian]]
 - Check ins
     - [[Milei]]
-        - Qué sigue a Milei?
-            - Kicillof?
-            - Juan Grabois?
+        - Qué viene después de Milei?
+            - [[Kicillof]]?
+            - [[Juan Grabois]]?
     - Gripe
+- Facetas del Ekumen :)
