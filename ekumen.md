@@ -16,7 +16,12 @@
         - [ ] edumerco: crear usuario en codeberg: https://codeberg.org/
 - Possible invitees
     - Once we have this, we can create a time poll
-- Governance structure
+    - Draft invitation, initial meeting
+    - The some co-design meetings
+    - Then seeking funding for concrete implementation
+- Comments
+    - Discoverability phase
+- Meta-governance (for this group
 - Initial definition
 
 ## Invitades posibles
