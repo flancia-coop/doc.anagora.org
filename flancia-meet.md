@@ -12,6 +12,8 @@
     - flancian caught up in 3d
 - education as an [[all time job]], a [[lifestyle]]
 - timetravel :)
+- flats: pros and cons
+- [[inktober]] in the [[park]]
 
 # [[flancia meet 2024-09-07]]
 - [[bouncepaw]] [[flancian]]
