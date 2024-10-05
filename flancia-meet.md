@@ -15,6 +15,8 @@
     - [[poliritmos]] ~ [[polyrhythms]]
     - [[4:7]]: https://www.youtube.com/watch?v=sKm5fXZmpm0
     - [[primus]]: https://www.youtube.com/watch?v=7tIeS_v0hos
+    - [[tigran hamasyan]]
+        - vs [[jacob collier]]
  
 
 # [[flancia meet 2024-10-04]]
