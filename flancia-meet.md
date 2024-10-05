@@ -12,13 +12,16 @@
     - [[el estado mágico]] ~ [[the magical state]] by [[fernando coronil]]
     - [[enfermedad venezolana]]
 - [[j0lms]]: [[28]], [[11]]
-    - [[poliritmos]] ~ [[polyrhythms]]
-    - [[4:7]]: https://www.youtube.com/watch?v=sKm5fXZmpm0
-    - [[primus]]: https://www.youtube.com/watch?v=7tIeS_v0hos
-    - [[tigran hamasyan]]
-        - vs [[jacob collier]]
-        - leading to [[colin stetson]], [[judges]]
- 
+    - [[music]]:
+        - [[poliritmos]] ~ [[polyrhythms]]
+        - [[4:7]]: https://www.youtube.com/watch?v=sKm5fXZmpm0
+        - [[primus]]: https://www.youtube.com/watch?v=7tIeS_v0hos
+        - [[tigran hamasyan]]
+            - vs [[jacob collier]]
+            - leading to [[colin stetson]], [[judges]]
+        - [[exploración]] vs [[consolidación]] en lo musical
+        - [[meshuggah]]
+
 
 # [[flancia meet 2024-10-04]]
 - [[bouncepaw]] [[flancian]]
