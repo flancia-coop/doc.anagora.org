@@ -22,6 +22,7 @@
         - [[exploración]] vs [[consolidación]] en lo musical
         - [[meshuggah]]
         - [[konnakol]], [[carnatic music]]
+        - [[barry harris]]
 
 
 # [[flancia meet 2024-10-04]]
