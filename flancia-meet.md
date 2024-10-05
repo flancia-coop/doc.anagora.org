@@ -25,11 +25,9 @@
         - [[barry harris]]
     - [[ballet de lady burup]]
     - [[stravinsky]] [[schoenberg]]
-- [[vtubers]] and [[vgen]]
-    - the [[curtis yarvin]] argument for "[[artificial difficulty]]" for tasks that might be taken by AI
-    - [[neoludismo]]?
-- qué [[opiniones obsoletas]] tenemos sin saberlo?
-- [[bordieu]]
+- [[neoludismo]]?
+    - qué [[opiniones obsoletas]] tenemos sin saberlo?
+    - [[bordieu]] sobre 
 
 
 # [[flancia meet 2024-10-04]]
