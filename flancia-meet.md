@@ -30,6 +30,7 @@
 - [[bordieu]]: [[distinction]]
 - cartas a [[musk]] y [[maitreya]]
 - [[permutation city]] y [[solipsist nation]]
+- situation in [[venezuela]]
 
 
 # [[flancia meet 2024-10-04]]
