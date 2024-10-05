@@ -27,7 +27,8 @@
     - [[stravinsky]] [[schoenberg]]
 - [[neoludismo]]?
     - qué [[opiniones obsoletas]] tenemos sin saberlo?
-    - [[bordieu]] sobre 
+- [[bordieu]]: [[distinction]]
+- cartas a [[musk]] y [[maitreya]]
 
 
 # [[flancia meet 2024-10-04]]
