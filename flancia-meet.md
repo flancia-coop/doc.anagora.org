@@ -29,6 +29,7 @@
     - qué [[opiniones obsoletas]] tenemos sin saberlo?
 - [[bordieu]]: [[distinction]]
 - cartas a [[musk]] y [[maitreya]]
+- [[permutation city]] y [[solipsist nation]]
 
 
 # [[flancia meet 2024-10-04]]
