@@ -12,7 +12,7 @@
     - [[el estado mágico]] ~ [[the magical state]] by [[fernando coronil]]
     - [[enfermedad venezolana]]
 - [[j0lms]]: [[28]], [[11]]
-    - [[music]]:
+    - [[música]]:
         - [[poliritmos]] ~ [[polyrhythms]]
         - [[4:7]]: https://www.youtube.com/watch?v=sKm5fXZmpm0
         - [[primus]]: https://www.youtube.com/watch?v=7tIeS_v0hos
