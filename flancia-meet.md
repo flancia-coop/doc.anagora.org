@@ -12,7 +12,7 @@
     - [[el estado mágico]] ~ [[the magical state]] by [[fernando coronil]]
     - [[enfermedad venezolana]]
 - [[j0lms]]: [[28]], [[11]]
-    - [[poliritmos]]
+    - [[poliritmos]] ~ [[polyrhythms]]
 
 # [[flancia meet 2024-10-04]]
 - [[bouncepaw]] [[flancian]]
