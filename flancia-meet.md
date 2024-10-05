@@ -25,7 +25,9 @@
         - [[barry harris]]
     - [[ballet de lady burup]]
     - [[stravinsky]] [[schoenberg]]
-- [[vtubers]]
+- [[vtubers]] and [[vgen]]
+    - the [[curtis yarvin]] argument for "[[artificial difficulty]]" for tasks that might be taken by AI
+    - [[neoludismo]]?
 
 
 # [[flancia meet 2024-10-04]]
