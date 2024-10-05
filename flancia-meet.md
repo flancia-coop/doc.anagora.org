@@ -5,8 +5,11 @@
 # [[flancia meet 2024-10-05]]
 - [[j0lms]] [[flancian]]
 - [[caffeine]]
+    - para madrugar
     - [[la greca]] ~ [[moka pot]] en venezuela
-    - 
+- leyendo [[libros viejos]]
+    - distancia cultural
+    - [[el estado mágico]] ~ [[magical state]]
 
 # [[flancia meet 2024-10-04]]
 - [[bouncepaw]] [[flancian]]
