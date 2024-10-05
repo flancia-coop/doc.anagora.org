@@ -24,6 +24,7 @@
         - [[konnakol]], [[carnatic music]]
         - [[barry harris]]
     - [[ballet de lady burup]]
+    - [[stravinsky]] [[schoenberg]]
 
 
 # [[flancia meet 2024-10-04]]
