@@ -25,6 +25,7 @@
         - [[barry harris]]
     - [[ballet de lady burup]]
     - [[stravinsky]] [[schoenberg]]
+- [[vtubers]]
 
 
 # [[flancia meet 2024-10-04]]
