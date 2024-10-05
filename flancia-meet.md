@@ -11,6 +11,7 @@
     - distancia cultural
     - [[el estado mágico]] ~ [[the magical state]] by [[fernando coronil]]
     - [[enfermedad venezolana]]
+- [[28]], [[11]]
 
 # [[flancia meet 2024-10-04]]
 - [[bouncepaw]] [[flancian]]
