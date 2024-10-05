@@ -21,6 +21,7 @@
             - leading to [[colin stetson]], [[judges]]
         - [[exploración]] vs [[consolidación]] en lo musical
         - [[meshuggah]]
+        - [[konnakol]], [[carnatic music]]
 
 
 # [[flancia meet 2024-10-04]]
