@@ -9,7 +9,8 @@
     - [[la greca]] ~ [[moka pot]] en venezuela
 - leyendo [[libros viejos]]
     - distancia cultural
-    - [[el estado mágico]] ~ [[magical state]]
+    - [[el estado mágico]] ~ [[the magical state]] by [[fernando coronil]]
+    - [[enfermedad venezolana]]
 
 # [[flancia meet 2024-10-04]]
 - [[bouncepaw]] [[flancian]]
@@ -21,6 +22,7 @@
 - flats: pros and cons
 - [[inktober]] in the [[park]]
 - [[flancian]]: [[ekumen]]
+- [[noblesse oblige]]
 
 # [[flancia meet 2024-09-07]]
 - [[bouncepaw]] [[flancian]]
