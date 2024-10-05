@@ -17,6 +17,7 @@
     - [[primus]]: https://www.youtube.com/watch?v=7tIeS_v0hos
     - [[tigran hamasyan]]
         - vs [[jacob collier]]
+        - leading to [[colin stetson]], [[judges]]
  
 
 # [[flancia meet 2024-10-04]]
