@@ -4,6 +4,9 @@
 
 # [[flancia meet 2024-10-05]]
 - [[j0lms]] [[flancian]]
+- [[caffeine]]
+    - [[la greca]] ~ [[moka pot]] en venezuela
+    - 
 
 # [[flancia meet 2024-10-04]]
 - [[bouncepaw]] [[flancian]]
