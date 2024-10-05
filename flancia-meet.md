@@ -29,6 +29,7 @@
     - the [[curtis yarvin]] argument for "[[artificial difficulty]]" for tasks that might be taken by AI
     - [[neoludismo]]?
 - qué [[opiniones obsoletas]] tenemos sin saberlo?
+- [[bordieu]]
 
 
 # [[flancia meet 2024-10-04]]
