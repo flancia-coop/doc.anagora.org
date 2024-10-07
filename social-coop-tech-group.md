@@ -3,8 +3,10 @@
 - Check ins
     - Dan: life is busy but OK :)
     - Flancian: +1, making progress at work, but need to prioritize that over TWG this week, will only stay part of the call likely
-    - Calix: still in visa
+    - Calix: still in visa limbo but enjoying being in Montreal :) OSM time
+        - [[OSM]]: [[street complete]]: https://github.com/streetcomplete/StreetComplete/
 - Top priorities
+    - [ ] Fix meeting calendar entry
     - [ ] Keys in pass
     - [ ] Access for Dan
     - [ ] Branch for alpha.social.coop updated?
