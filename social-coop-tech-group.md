@@ -6,9 +6,9 @@
     - Calix: still in visa limbo but enjoying being in Montreal :) OSM time
         - [[OSM]]: [[street complete]]: https://github.com/streetcomplete/StreetComplete/
 - Top priorities
-    - [ ] Fix meeting calendar entry
-    - [ ] Keys in pass
+    - [x] Fix meeting calendar entry
     - [ ] Access for Dan
+    - [ ] Keys in pass (incl. edsu)
     - [ ] Branch for alpha.social.coop updated?
     - Any others?
 - Other topics
