@@ -1,10 +1,13 @@
 ## 2024-10-07
 - Here: [[Dan]] [[Flancian]] [[Ed]] [[Calix]]?
 - Check ins
-    - Flancian: making progress at work, but need to prioritize that o
+    - Flancian: making progress at work, but need to prioritize that over TWG this week, will only stay part of the call likely
 - Top priorities
     - [ ] Keys in pass
+    - [ ] Access for Dan
     - [ ] Branch for alpha.social.coop updated?
+    - Any others?
+- Other topics
 
 ## 2024-09-23
 - Here: [[Calix]] [[Dan]] [[Flancian]]
