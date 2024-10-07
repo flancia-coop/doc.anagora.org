@@ -8,6 +8,9 @@
 - Top priorities
     - [x] Fix meeting calendar entry
     - [ ] Access for Dan
+        - [ ] pass encrypt
+        - [ ] pass decrypt
+        - [ ] ansible push
     - [ ] Keys in pass (incl. edsu)
     - [ ] Branch for alpha.social.coop updated?
     - Any others?
