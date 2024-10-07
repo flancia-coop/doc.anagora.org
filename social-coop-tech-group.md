@@ -7,10 +7,10 @@
         - [[OSM]]: [[street complete]]: https://github.com/streetcomplete/StreetComplete/
 - Top priorities
     - [x] Fix meeting calendar entry
-    - [ ] Access for Dan
+    - [x] Access for Dan
         - [x] pass encrypt
         - [x] pass decrypt (\o/)
-        - [ ] ansible push
+        - [x] ansible push (to rhizome and hypha)
     - [x] Keys in pass (incl. edsu)
         - [x] reach out to calix for an up to date key?
     - [ ] Branch for alpha.social.coop updated?
