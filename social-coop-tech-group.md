@@ -1,3 +1,11 @@
+## 2024-10-07
+- Here: [[Dan]] [[Flancian]] [[Ed]] [[Calix]]?
+- Check ins
+    - Flancian: making progress at work, but need to prioritize that o
+- Top priorities
+    - [ ] Keys in pass
+    - [ ] Branch for alpha.social.coop updated?
+
 ## 2024-09-23
 - Here: [[Calix]] [[Dan]] [[Flancian]]
 - Check ins
