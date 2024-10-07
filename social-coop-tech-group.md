@@ -1,10 +1,11 @@
 ## 2024-10-07
-- Here: [[Dan]] [[Flancian]] [[Ed]] [[Calix]]?
+- Here: [[Dan]] [[Flancian]] [[Ed]] [[Calix]]
 - Check ins
     - Dan: life is busy but OK :)
     - Flancian: +1, making progress at work, but need to prioritize that over TWG this week, will only stay part of the call likely
     - Calix: still in visa limbo but enjoying being in Montreal :) OSM time
         - [[OSM]]: [[street complete]]: https://github.com/streetcomplete/StreetComplete/
+    - Ed: <>
 - Top priorities
     - [x] Fix meeting calendar entry
     - [x] Access for Dan
