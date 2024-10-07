@@ -13,7 +13,7 @@
         - [x] ansible push (to rhizome and hypha)
     - [x] Keys in pass (incl. edsu)
         - [x] reach out to calix for an up to date key?
-    - [ ] Branch for alpha.social.coop updated?
+    - [x] Branch for alpha.social.coop updated?
     - Any others?
 - Other topics
 
