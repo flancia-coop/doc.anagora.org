@@ -1,7 +1,9 @@
 ## 2024-10-07
 - Here: [[Dan]] [[Flancian]] [[Ed]] [[Calix]]?
 - Check ins
-    - Flancian: making progress at work, but need to prioritize that over TWG this week, will only stay part of the call likely
+    - Dan: life is busy but OK :)
+    - Flancian: +1, making progress at work, but need to prioritize that over TWG this week, will only stay part of the call likely
+    - Calix: still in visa
 - Top priorities
     - [ ] Keys in pass
     - [ ] Access for Dan
