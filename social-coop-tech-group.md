@@ -9,10 +9,10 @@
     - [x] Fix meeting calendar entry
     - [ ] Access for Dan
         - [x] pass encrypt
-        - [ ] pass decrypt
+        - [x] pass decrypt (\o/)
         - [ ] ansible push
     - [x] Keys in pass (incl. edsu)
-        - reach out to calix for an up to date key?
+        - [x] reach out to calix for an up to date key?
     - [ ] Branch for alpha.social.coop updated?
     - Any others?
 - Other topics
