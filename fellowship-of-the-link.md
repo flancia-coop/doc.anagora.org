@@ -29,6 +29,9 @@
 
 ## [[2024-10-02]]
 - Attending: [[Jerry Michalski]] [[Aram Zucker-Scharff] [[Flancian]]
+- Flancian: [[Ekumen]] project
+    - https://codeberg.org/Ekumen
+    - context in anagora.org/ekumen
 
 ## [[2024-10-02]]
 - Attending: [[Jerry Michalski]] [[Chris Aldrich] [[Flancian]]
