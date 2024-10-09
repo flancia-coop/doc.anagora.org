@@ -32,6 +32,7 @@
 - Flancian: [[Ekumen]] project
     - https://codeberg.org/Ekumen
     - context in anagora.org/ekumen
+    - [[edumerco]], [[bonfire]]
 
 ## [[2024-10-02]]
 - Attending: [[Jerry Michalski]] [[Chris Aldrich] [[Flancian]]
