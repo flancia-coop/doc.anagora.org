@@ -38,6 +38,7 @@
 - Jerry: [[pol.is]]
     - https://en.wikipedia.org/wiki/G0v
     - https://github.com/compdemocracy/
+    - [[liquid democracy]]? what happened to it? why isn't it 'taking over'?
 
 ## [[2024-10-02]]
 - Attending: [[Jerry Michalski]] [[Chris Aldrich] [[Flancian]]
