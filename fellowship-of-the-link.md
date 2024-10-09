@@ -48,9 +48,10 @@
 - Matthew joins! \o/
     - What have you been up to?
     - Worked on integrating [[ChatGPT]] onto [[MyHub]] -- but in the end didn't find it useful yet
-        - Now exploring [[model collapse]] and how that interacts with the fact that the web is being flooded by generated content
-        - [[Jerry]]: https://www.nature.com/articles/s41586-024-07566-y
-        - So human generatd content might actually become *more* valuable in the future
+    - Now exploring [[model collapse]] and how that interacts with the fact that the web is being flooded by generated content
+    - [[Jerry]]: https://www.nature.com/articles/s41586-024-07566-y
+    - So human generatd content might actually become *more* valuable in the future
+    - Would like to learn more about [[bluesky]] and [[nostr]]
 
 ## [[2024-10-02]]
 - Attending: [[Jerry Michalski]] [[Chris Aldrich] [[Flancian]]
