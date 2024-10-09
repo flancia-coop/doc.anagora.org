@@ -39,6 +39,8 @@
     - https://en.wikipedia.org/wiki/G0v
     - https://github.com/compdemocracy/
     - [[liquid democracy]]? what happened to it? why isn't it 'taking over'?
+        - can you name any country which significantly revamped their governance/state?
+            - Iceland almost did, but parliament didn't approve it
     - pol.is had to remove functionality (reply to a thread) to curb abuse
 
 ## [[2024-10-02]]
