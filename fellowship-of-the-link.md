@@ -34,6 +34,10 @@
     - context in anagora.org/ekumen
     - [[edumerco]], [[bonfire]]
     - The FoTL is invited, and flancian will report back progress :)
+    - On polls vs voting, and how that interacts with democracy
+- Jerry: [[pol.is]]
+    - https://en.wikipedia.org/wiki/G0v
+    - https://github.com/compdemocracy/
 
 ## [[2024-10-02]]
 - Attending: [[Jerry Michalski]] [[Chris Aldrich] [[Flancian]]
