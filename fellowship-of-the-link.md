@@ -52,7 +52,7 @@
     - [[Jerry]]: https://www.nature.com/articles/s41586-024-07566-y
     - So human generatd content might actually become *more* valuable in the future
     - Would like to learn more about [[bluesky]] and [[nostr]]
-    - https://experiments.myhub.ai/ai4communities_post
+    - [[Matthew's post]]: https://experiments.myhub.ai/ai4communities_post
     - https://www.bbc.com/future/article/20240612-the-people-making-ai-sound-more-human
     - https://futurism.com/the-byte/ai-companies-hiring-authors-poets-fix-writing
     - https://publicinfrastructure.org/2023/03/29/the-three-legged-stool/
