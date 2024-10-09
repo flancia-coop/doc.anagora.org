@@ -57,6 +57,7 @@
     - https://futurism.com/the-byte/ai-companies-hiring-authors-poets-fix-writing
     - https://publicinfrastructure.org/2023/03/29/the-three-legged-stool/
 - On pros and cons and limitations of [[ActivityPub]]
+- On economic incentives as they relate to how the AI-enabled (or flooded) web is likely to evolve
  
 
 ## [[2024-10-02]]
