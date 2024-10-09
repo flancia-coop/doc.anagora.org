@@ -58,6 +58,7 @@
     - https://publicinfrastructure.org/2023/03/29/the-three-legged-stool/
 - On pros and cons and limitations of [[ActivityPub]]
 - On economic incentives as they relate to how the AI-enabled (or flooded) web is likely to evolve
+    - [[You have not yet heard your favorite song]]
  
 
 ## [[2024-10-02]]
