@@ -1,7 +1,7 @@
 ## Fellowship of the Link
 
 - a [[meeting]].
-    - #go https://meet.jit.si/fellowship-of-the-link
+    - #go https://meet.evolix.org/fellowship-of-the-link
     - #calendar https://plex.collectivesensecommons.org/calendar/
     - #when Wednesdays at [[6PM UTC]]
 - Attending: [[x]], [[y]]
@@ -27,8 +27,8 @@
             - [[github]] by default?
 
 
-## [[2024-10-02]]
-- Attending: [[Jerry Michalski]] [[Aram Zucker-Scharff] [[Flancian]]
+## [[2024-10-09]]
+- Attending: [[Jerry Michalski]] [[Aram Zucker-Scharff] [[Flancian]] [[Matthew]]
 - Flancian: excited about the [[Ekumen]] project
     - https://codeberg.org/Ekumen
     - context in anagora.org/ekumen
@@ -45,6 +45,10 @@
 - Aram: on [[rent stabilization]] vs [[rent control]]
     - [[rent stabilization]] caps the increases in rent to a set percentage (~45% of NYC units)
     - [[rent control]] caps the actual rent (1% of NYC units)
+- Matthew joins! \o/
+    - What have you been up to?
+    - Worked on:
+        - Integrated [[ChatGPT]] onto [[MyHub]] -- but in the end didn't find it useful yet
 
 ## [[2024-10-02]]
 - Attending: [[Jerry Michalski]] [[Chris Aldrich] [[Flancian]]
