@@ -29,10 +29,11 @@
 
 ## [[2024-10-02]]
 - Attending: [[Jerry Michalski]] [[Aram Zucker-Scharff] [[Flancian]]
-- Flancian: [[Ekumen]] project
+- Flancian: excited about the [[Ekumen]] project
     - https://codeberg.org/Ekumen
     - context in anagora.org/ekumen
     - [[edumerco]], [[bonfire]]
+    - The FoTL is invited, and flancian will report back progress :)
 
 ## [[2024-10-02]]
 - Attending: [[Jerry Michalski]] [[Chris Aldrich] [[Flancian]]
