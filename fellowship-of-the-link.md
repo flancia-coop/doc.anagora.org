@@ -42,6 +42,9 @@
         - Can you name any country which significantly revamped their governance/state?
             - Iceland almost did, but parliament didn't approve it
     - pol.is had to remove functionality (reply to a thread) to curb abuse
+- Aram: on [[rent stabilization]] vs [[rent control]]
+    - [[rent stabilization]] caps the increases in rent to a set percentage (~45% of NYC units)
+    - [[rent control]] caps the actual rent (1% of NYC units)
 
 ## [[2024-10-02]]
 - Attending: [[Jerry Michalski]] [[Chris Aldrich] [[Flancian]]
