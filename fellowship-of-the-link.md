@@ -27,7 +27,7 @@
             - [[github]] by default?
 
 ## [[2024-10-09]]
-- Attending: [[Chris Aldrich]] [[Matthew Lowry]] [[Flancian]]
+- Attending: [[Chris Aldrich]] [[Mathew Lowry]] [[Flancian]]
 - Check ins
 - AI output detection
     - Genius 'steganography'/glyph watermarking approach
@@ -35,6 +35,11 @@
 - context shift
     - [[soul]] vs [[breath]] in hebrew, nuances lost when reading translations in a different age
     - [[scots wikipedia]]
+- [[mathew]]: https://experiments.myhub.ai/ai4communities_post
+    - experimenting with [[notebooklm]]
+ 
+    
+    
 
 ## [[2024-10-09]]
 - Attending: [[Jerry Michalski]] [[Aram Zucker-Scharff] [[Flancian]] [[Matthew]]
