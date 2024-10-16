@@ -37,6 +37,11 @@
     - [[scots wikipedia]]
 - [[mathew]]: https://experiments.myhub.ai/ai4communities_post
     - experimenting with [[notebooklm]]
+- shared:
+    - https://www.linkedin.com/posts/mathewlowry_ai4communities-activity-7252325175034048516-3-LD?utm_source=share&utm_medium=member_desktop
+    - https://www.wired.com/story/perplexity-is-a-bullshit-machine/?utm_source=pocket_shared
+    - https://boffosocko.com/2016/09/30/complexity-isnt-a-vice-10-word-answers-and-doubletalk-in-election-2016/
+ 
  
     
     
