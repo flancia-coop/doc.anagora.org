@@ -27,7 +27,7 @@
             - [[github]] by default?
 
 ## [[2024-10-09]]
-- Attending: [[Jerry Michalski]] [[Aram Zucker-Scharff] [[Flancian]] [[Matthew]]
+- Attending: [[Chris Aldrich]] [[Matthew Lowry]] [[Flancian]]
 
 ## [[2024-10-09]]
 - Attending: [[Jerry Michalski]] [[Aram Zucker-Scharff] [[Flancian]] [[Matthew]]
