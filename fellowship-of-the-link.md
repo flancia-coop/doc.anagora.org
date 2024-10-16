@@ -28,6 +28,9 @@
 
 ## [[2024-10-09]]
 - Attending: [[Chris Aldrich]] [[Matthew Lowry]] [[Flancian]]
+- Check ins
+- AI output detection
+    - Genius 'steganography'/glyph watermarking approach
 
 ## [[2024-10-09]]
 - Attending: [[Jerry Michalski]] [[Aram Zucker-Scharff] [[Flancian]] [[Matthew]]
