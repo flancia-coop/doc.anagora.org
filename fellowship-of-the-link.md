@@ -34,6 +34,7 @@
     - c.f. [[trap street]]
 - context shift
     - [[soul]] vs [[breath]] in hebrew, nuances lost when reading translations in a different age
+    - [[scots wikipedia]]
 
 ## [[2024-10-09]]
 - Attending: [[Jerry Michalski]] [[Aram Zucker-Scharff] [[Flancian]] [[Matthew]]
