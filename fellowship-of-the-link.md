@@ -26,6 +26,8 @@
         - [[issue tracker]] / [[project tracker]] URL
             - [[github]] by default?
 
+## [[2024-10-09]]
+- Attending: [[Jerry Michalski]] [[Aram Zucker-Scharff] [[Flancian]] [[Matthew]]
 
 ## [[2024-10-09]]
 - Attending: [[Jerry Michalski]] [[Aram Zucker-Scharff] [[Flancian]] [[Matthew]]
