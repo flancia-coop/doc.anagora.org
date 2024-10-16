@@ -31,6 +31,10 @@
 - Check ins
 - AI output detection
     - Genius 'steganography'/glyph watermarking approach
+    - c.f. [[trap street]]
+- context shift
+    - [[soul]] vs [[breath]] in hebrew and bible translations 
+- 
 
 ## [[2024-10-09]]
 - Attending: [[Jerry Michalski]] [[Aram Zucker-Scharff] [[Flancian]] [[Matthew]]
