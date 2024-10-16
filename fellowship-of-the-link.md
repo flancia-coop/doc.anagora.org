@@ -33,8 +33,7 @@
     - Genius 'steganography'/glyph watermarking approach
     - c.f. [[trap street]]
 - context shift
-    - [[soul]] vs [[breath]] in hebrew and bible translations 
-- 
+    - [[soul]] vs [[breath]] in hebrew, nuances lost when reading translations in a different age
 
 ## [[2024-10-09]]
 - Attending: [[Jerry Michalski]] [[Aram Zucker-Scharff] [[Flancian]] [[Matthew]]
