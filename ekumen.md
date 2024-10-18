@@ -13,6 +13,8 @@
     - Mecanismos de defensa
 - Otros proyectos
     - [[Sutty]]: dando servicio y cuidado a las comunidades de militantes
+- Sociocracia:
+    - <link>
 
 ## [[2024-10-04]]
 - Attending: [[edumerco]] [[flancian]]
