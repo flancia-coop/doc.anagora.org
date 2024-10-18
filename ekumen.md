@@ -32,6 +32,9 @@
         - Iterate on the basic tenets
         - Start modeling the system that the Ekumen would try to instantiate
             - (Actors, processes)
+        - Document potential for optimizing processes in the Fediverse
+            - e.g. trusted person reports spam -> limit immediately, review later
+            - e.g. N people report spam -> suspend first, review later
     
 ## [[2024-10-04]]
 - Attending: [[edumerco]] [[flancian]]
