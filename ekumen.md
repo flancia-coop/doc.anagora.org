@@ -11,6 +11,8 @@
 - Attending: [[edumerco]] [[flancian]]
 - Ontologías organizacionales (?)
     - Mecanismos de defensa
+- Otros proyectos
+    - [[Sutty]]: dando servicio y cuidado a las comunidades de militantes
 
 ## [[2024-10-04]]
 - Attending: [[edumerco]] [[flancian]]
