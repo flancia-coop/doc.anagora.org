@@ -27,7 +27,7 @@
             - Después e.g.: git add example.md; git commit -a -m 'test'; git push
     - https://writer.oliphant.social/oliphant/islands-an-opt-in-federated-network
     - Next steps:
-        - Iterate on the guest list
+        - Iterate on the initial promoter group
         - Determine a slot to meet
         - Iterate on the basic tenets
         - Start modeling the system that the Ekumen would try to instantiate
