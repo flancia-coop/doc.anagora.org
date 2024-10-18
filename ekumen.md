@@ -35,6 +35,7 @@
         - Document potential for optimizing processes in the Fediverse
             - e.g. trusted person reports spam -> limit immediately, review later
             - e.g. N people report spam -> suspend first, review later
+            - "[[automod]]" 
     
 ## [[2024-10-04]]
 - Attending: [[edumerco]] [[flancian]]
