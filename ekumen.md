@@ -7,6 +7,9 @@
     - List
     - Agora
 
+## [[2024-10-18]]
+- Attending: [[edumerco]] [[flancian]]
+
 ## [[2024-10-04]]
 - Attending: [[edumerco]] [[flancian]]
 - Check ins
