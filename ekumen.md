@@ -21,6 +21,7 @@
     - Bootstrap
         - Agregar llave a Codeberg:
             - copiar/pegar de ~/.ssh/id_ed25519.pub (o id_rsa.pub, etc.)
+            - a https://codeberg.org/user/settings/keys
         - `git clone git@codeberg.org:Ekumen/ekumen.git`
             - Acá podemos poner documentación inicial
     
