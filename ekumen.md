@@ -24,7 +24,7 @@
             - a https://codeberg.org/user/settings/keys
         - `git clone git@codeberg.org:Ekumen/ekumen.git`
             - Acá podemos poner documentación inicial
-            - Desp
+            - Después e.g.: git add example.md; git commit -a -m 'test'; git push
     
 ## [[2024-10-04]]
 - Attending: [[edumerco]] [[flancian]]
