@@ -9,6 +9,8 @@
 
 ## [[2024-10-18]]
 - Attending: [[edumerco]] [[flancian]]
+- Ontologías organizacionales (?)
+    - Mecanismos de defensa
 
 ## [[2024-10-04]]
 - Attending: [[edumerco]] [[flancian]]
