@@ -24,6 +24,7 @@
             - a https://codeberg.org/user/settings/keys
         - `git clone git@codeberg.org:Ekumen/ekumen.git`
             - Acá podemos poner documentación inicial
+            - Desp
     
 ## [[2024-10-04]]
 - Attending: [[edumerco]] [[flancian]]
