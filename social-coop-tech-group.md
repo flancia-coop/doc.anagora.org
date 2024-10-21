@@ -1,5 +1,7 @@
 ## 2024-10-07
 - Here: [[Dan]] [[Flancian]] [[Calix]]
+- Check ins
+    - 
 
 ## 2024-10-07
 - Here: [[Dan]] [[Flancian]] [[Ed]] [[Calix]]
