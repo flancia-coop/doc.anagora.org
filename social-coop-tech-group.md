@@ -33,7 +33,7 @@
             - And then to 4.3.1
             - How much time do we have today?
                 - Only about 20 minutes, so probably not enough to responsibly do all of this today/tonight :)
-                - Let's start a branch and then reconvene next week 
+                - Let's start a branch and then reconvene next week: https://git.coop/social.coop/tech/ansible/-/tree/4.3?ref_type=heads
     - Open bugs triage
     - Placeholder
 
