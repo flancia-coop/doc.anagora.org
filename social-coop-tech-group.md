@@ -13,8 +13,9 @@
         - F: Makes sense to have a card for the co-op but not yet. Finance working group on it.
         - D: SEPA and Bank Transfer are other options besides CC and PayPal 
             - A bank account could be easier for the coop as we have funds *somewhere* in OC?
-            - Calix: experience from other projects is that, as long as we're with Open Collective, it's entirely up to our fiscal host. OC used to offer virtual cards but in a previous experience it just didn't work -- it wasn't for this kind of payment of services. So it wouldn't really help with the bureaucracy, and they don't offer it anymore. We probably don't have a bank account as a coop currently.
-        - 
+            - Calix: experience from other projects is that, as long as we're with Open Collective, it's entirely up to our fiscal host. OC used to offer virtual cards but in a previous experience it just didn't work -- it wasn't for this kind of payment of services. So it wouldn't really help with the bureaucracy, and they don't offer it anymore. We probably don't have access to a bank account as a coop currently to be able to send a transfer directly. Any of the payment methods would be the same, individual pays and then gets reimbursed.
+        - F: will report this to the organizing circle and report back in our next meeting. 
+        - D: added a reminder in our group calendar \o/
     - wiki merge request? https://git.coop/social.coop/tech/ansible/-/merge_requests/40
     - alpha.social.coop next steps
     - Mastodon upgrade?
