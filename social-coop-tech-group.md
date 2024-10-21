@@ -29,7 +29,7 @@
                 - Release notes: https://github.com/mastodon/mastodon/releases/tag/v4.3.0
                     - Requirements
                         - Postgres: we're in 15
-                    - Docker image has split, probably requires changes to our docker compose beyond the
+                    - Docker image has split, probably requires changes to our docker compose beyond the version bump
             - And then to 4.3.1
             - How much time do we have today?
     - Open bugs triage
