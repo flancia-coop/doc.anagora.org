@@ -23,6 +23,10 @@
         - https://git.coop/social.coop/tech/ansible/-/tree/alpha.social.coop?ref_type=heads exists and now has commits also related to other alpha-like features
         - let's split other experiments off alpha.social.coop branch into e.g. an experiments branch (thank you Dan / sorry for the hassle)
     - Mastodon upgrade?
+        - Plan
+            - We're currently on 4.2.10
+            - We want to go to 4.3
+            - And then to 4.3.1
     - Open bugs triage
     - Placeholder
 
