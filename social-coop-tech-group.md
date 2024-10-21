@@ -1,7 +1,14 @@
 ## 2024-10-07
 - Here: [[Dan]] [[Flancian]] [[Calix]]
 - Check ins
-    - 
+    - [[Calix]] Weekend resting and also doing some project work
+    - [[Flancian]]
+    - [[Dan]] too the day off work for daughter's birthday
+- Top priorities
+    - Mastodon upgrade?
+    - Thanks Dan for solving the downtime the other day!
+        - What should we do so this is not necessary again
+    - alpha.social.coop ne
 
 ## 2024-10-07
 - Here: [[Dan]] [[Flancian]] [[Ed]] [[Calix]]
