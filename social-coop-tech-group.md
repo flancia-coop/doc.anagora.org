@@ -20,6 +20,8 @@
         - LGTM, but let's do the mastodon upgrade first to limit changes we push through ansible to one at a time
     - alpha.social.coop next steps
         - (some git engineering occurs)
+        - https://git.coop/social.coop/tech/ansible/-/tree/alpha.social.coop?ref_type=heads exists and now has commits also related to other alpha-like features
+        - 
     - Mastodon upgrade?
     - Open bugs triage
     - Placeholder
