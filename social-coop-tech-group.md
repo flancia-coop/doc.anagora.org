@@ -17,6 +17,7 @@
         - F: will report this to the organizing circle and report back in our next meeting. 
         - D: added a reminder in our group calendar \o/
     - wiki merge request? https://git.coop/social.coop/tech/ansible/-/merge_requests/40
+        - LGTM, but let's do the mastodon upgrade first to limit changes we push through ansible to one at a time
     - alpha.social.coop next steps
     - Mastodon upgrade?
     - Open bugs triage
