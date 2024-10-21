@@ -5,10 +5,13 @@
     - [[Flancian]]
     - [[Dan]] too the day off work for daughter's birthday
 - Top priorities
-    - Mastodon upgrade?
     - Thanks Dan for solving the downtime the other day!
         - What should we do so this is not necessary again
-    - alpha.social.coop ne
+    - wiki merge request? https://git.coop/social.coop/tech/ansible/-/merge_requests/40
+    - alpha.social.coop next steps
+    - Mastodon upgrade?
+    - Open bugs triage
+    - Placeholder
 
 ## 2024-10-07
 - Here: [[Dan]] [[Flancian]] [[Ed]] [[Calix]]
