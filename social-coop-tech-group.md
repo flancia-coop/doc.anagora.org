@@ -21,7 +21,8 @@
     - alpha.social.coop next steps
         - (some git engineering occurs)
         - https://git.coop/social.coop/tech/ansible/-/tree/alpha.social.coop?ref_type=heads exists and now has commits also related to other alpha-like features
-        - let's split other experiments off alpha.social.coop branch into e.g. an experiments branch (thank you Dan / sorry for the hassle)
+        - [ ] let's split other experiments off alpha.social.coop branch into e.g. an experiments branch (thank you Dan / sorry for the hassle)
+        - [ ] Next action: get a small-ish new VPS to host alpha.social.coop safely and in a way that reproduces the rhizome environment optimally?
     - Mastodon upgrade?
         - Plan
             - We're currently on 4.2.10
