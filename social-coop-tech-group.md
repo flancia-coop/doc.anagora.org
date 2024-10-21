@@ -25,8 +25,13 @@
     - Mastodon upgrade?
         - Plan
             - We're currently on 4.2.10
-            - We want to go to 4.3
+            - We want to go to 4.3 by default
+                - Release notes: https://github.com/mastodon/mastodon/releases/tag/v4.3.0
+                    - Requirements
+                        - Postgres: we're in 15
+                    - Docker image has split, probably requires changes to our docker compose beyond the
             - And then to 4.3.1
+            - How much time do we have today?
     - Open bugs triage
     - Placeholder
 
