@@ -11,6 +11,10 @@
         - F: how to solve systemic issue, "someone" should pay it? suggestion: Finance Working Group, Caitlin seems OK with that. Raised it but not spoken enough to fully decide. Should be able to resolve before next payment.
         - D: Can change card. First one with Paypal, second with card, put card on file. Required a second factor for setup, but authentication error paying it second time. So - autopay might not work. Is there a non-individual card we can use? Otherwise fine to continue.
         - F: Makes sense to have a card for the co-op but not yet. Finance working group on it.
+        - D: SEPA and Bank Transfer are other options besides CC and PayPal 
+            - A bank account could be easier for the coop as we have funds *somewhere* in OC?
+            - Calix: experience from other projects is that, as long as we're with Open Collective, it's entirely up to our fiscal host. OC used to offer virtual cards but in a previous experience it just didn't work -- it wasn't for this kind of payment of services. So it wouldn't really help with the bureaucracy, and they don't offer it anymore. We probably don't have a bank account as a coop currently.
+        - 
     - wiki merge request? https://git.coop/social.coop/tech/ansible/-/merge_requests/40
     - alpha.social.coop next steps
     - Mastodon upgrade?
