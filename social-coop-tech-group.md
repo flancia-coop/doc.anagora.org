@@ -1,4 +1,7 @@
 ## 2024-10-07
+- Here: [[Dan]] [[Flancian]] [[Calix]]
+
+## 2024-10-07
 - Here: [[Dan]] [[Flancian]] [[Ed]] [[Calix]]
 - Check ins
     - Dan: life is busy but OK :)
