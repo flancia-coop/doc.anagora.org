@@ -9,7 +9,8 @@
         - What should we do so this is not necessary again?
         - Dan: we should wait and see (tm) until the 15th, see if it auto-pays off the balance
         - F: how to solve systemic issue, "someone" should pay it? suggestion: Finance Working Group, Caitlin seems OK with that. Raised it but not spoken enough to fully decide. Should be able to resolve before next payment.
-        - D: Can change card. First one with Paypal, second with ca
+        - D: Can change card. First one with Paypal, second with card, put card on file. Required a second factor for setup, but authentication error paying it second time. So - autopay might not work. Is there a non-individual card we can use? Otherwise fine to continue.
+        - F: Makes sense to have a card for the co-op but not yet. Finance working group on it.
     - wiki merge request? https://git.coop/social.coop/tech/ansible/-/merge_requests/40
     - alpha.social.coop next steps
     - Mastodon upgrade?
