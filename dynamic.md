@@ -9,5 +9,7 @@
     - People who are interested in coop aspects or in governance in particular
     - People who are really into sociocracy
     - People who like the financial/ownership model
-- Threads.net
+- On the discussion around Threads.net
     - https://www.loomio.com/d/AZcJK6y2/discussion-support-the-anti-meta-fedi-pact/162
+    - Facilitated a different thread
+    - Process was a bit gruelling
