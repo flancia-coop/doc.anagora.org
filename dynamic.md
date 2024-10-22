@@ -1,0 +1,4 @@
+- Notes from a meeting with [[dynamic]] a.k.a. [[alex]].
+    - About [[Fediverse]] culture, governance and other topics.
+    - Came from [[cyber.space]], which had a different approach to governance.;w
+    - 
