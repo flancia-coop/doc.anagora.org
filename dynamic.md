@@ -1,5 +1,8 @@
 - Notes from a meeting with [[dynamic]] a.k.a. [[alex]].
     - About [[Fediverse]] culture, governance and other topics.
     - Came from [[cyber.space]], which had a different approach to governance.
-    - On the topic of blocking (or not)  [[mastodon.social]]
-    - Came to [[social.coop]] because of very good interactions with people here, having read also people here
+    - On the topic of blocking (or not) [[mastodon.social]]
+    - Came to [[social.coop]] because of very good interactions with people here, having read also people here.
+    - Initially imagined social.coop to be more selective/more centered around coops proper.
+    - Very interested in [[consensus governance]], used to live in coop housing. It was very good for a bit.
+    - Mix of backgrounds in 
