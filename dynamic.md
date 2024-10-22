@@ -16,4 +16,7 @@
     - Consensus-type decision making at the scale of social.coop is hard
         - Branching should be easier, should not be a big deal
     - Desire to participate in the coop further went down after threads.net discussion, in particular after criticism from a particular individual
+- On conservative vs liberal in this particular context
+    - 'xenophobia' comment
+    - [[promiscuous federation]]
 - Working groups
