@@ -19,4 +19,6 @@
 - On conservative vs liberal in this particular context
     - 'xenophobia' comment
     - [[promiscuous federation]]
-- Working groups
+    - on prioritizing consensus building vs pushing particular views
+- Social.coop Working groups
+- Considering leaving mastodon for [[hubzilla]]
