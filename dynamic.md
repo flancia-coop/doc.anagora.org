@@ -5,4 +5,9 @@
     - Came to [[social.coop]] because of very good interactions with people here, having read also people here.
     - Initially imagined social.coop to be more selective/more centered around coops proper.
     - Very interested in [[consensus governance]], used to live in coop housing. It was very good for a bit.
-    - Mix of backgrounds in 
+- Mix of backgrounds in social.coop
+    - People who are interested in coop aspects or in governance in particular
+    - People who are really into sociocracy
+    - People who like the financial/ownership model
+- Threads.net
+    - https://www.loomio.com/d/AZcJK6y2/discussion-support-the-anti-meta-fedi-pact/162
