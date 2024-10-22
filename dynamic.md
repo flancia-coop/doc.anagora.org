@@ -12,4 +12,8 @@
 - On the discussion around Threads.net
     - https://www.loomio.com/d/AZcJK6y2/discussion-support-the-anti-meta-fedi-pact/162
     - Facilitated a different thread
-    - Process was a bit gruelling
+    - Process was a bit gruelling and surfaced a lot of difference in values
+    - Consensus-type decision making at the scale of social.coop is hard
+        - Branching should be easier, should not be a big deal
+- Working groups
+    - Desire to participate in the coop further went down after 
