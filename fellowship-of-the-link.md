@@ -57,6 +57,8 @@
 - Mathew says: https://experiments.myhub.ai/ai4communities_post
   - Peter: liked your post
   - Chris: read it and took analog notes
+- [[Peter Kaminski]] believes [[Model Collapse]] is a [[nothingburger]]
+    - Mathew: but https://www.nature.com/articles/s41586-024-07566-y
 
 ## [[2024-10-09]]
 - Attending: [[Chris Aldrich]] [[Mathew Lowry]] [[Flancian]]
