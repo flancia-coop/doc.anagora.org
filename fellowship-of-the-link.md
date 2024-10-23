@@ -49,6 +49,7 @@
     - Where do we want to move *to*?
         - [[Mathew]]: [[Bluesky]]. Currently working on a [[starter pack]]. Been posting in places but saying 'go here to interact'.
         - [[Peter]]: where is the lively conversation and how can I be part of that? I'm looking for the best conversations and interactivity. Suspects that people will not actually follow links to engage.
+    - on the spark of virality
 
 ## [[2024-10-09]]
 - Attending: [[Chris Aldrich]] [[Mathew Lowry]] [[Flancian]]
