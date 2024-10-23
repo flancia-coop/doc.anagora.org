@@ -52,14 +52,9 @@
     - on the spark of virality
 - Jerry says: Many People Search for Twitter Alternatives, like Mastodon. but the Pickings Are Slim and Mastodon Is an Imperfect Substitute.  https://bra.in/9joXg5
 - Mathew says: https://miro.medium.com/v2/resize:fit:828/format:webp/1*_AOSfuUgfVsGcd5YzyBJyg.png
- 
-Mathew says:Ruben Verborgh 
-20:20
-avatar
-Peter Kaminski
-Peter Kaminski says:"Ruben Verborgh – Professor of Decentralized Web Technology"
-https://ruben.verborgh.org/
- 
+- [[Ruben Verborgh]]
+- Peter Kaminski says: "Ruben Verborgh – Professor of Decentralized Web Technology" https://ruben.verborgh.org/
+- Mathew says: https://experiments.myhub.ai/ai4communities_post
 
 ## [[2024-10-09]]
 - Attending: [[Chris Aldrich]] [[Mathew Lowry]] [[Flancian]]
