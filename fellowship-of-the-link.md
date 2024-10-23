@@ -62,7 +62,8 @@
     - [[Jerry]]: Gray's post, from the Wayback Machine: https://web.archive.org/web/20170413225220/http://www.webnerd.me/2009/05/know-and-master-your-social-media-data.html
     - [[Chris Aldrich]]: We have Renaissance humanism from the 1500s. We need to have a dose of Digital humanism in the 2000s. 
     - [[Flancian]]: also read (part of) your article and liked it, have been exploring similar ideas. Interested in the Commons as a tool for advancing on different alignment problems.
-    - [[Peter Kaminski]]: decolonizing AI]]
+    - [[Peter Kaminski]]: [[decolonizing AI]]
+- [[Peter Kaminski]]: on [[synthetic civilizations]] as the endgame
 
 ## [[2024-10-09]]
 - Attending: [[Chris Aldrich]] [[Mathew Lowry]] [[Flancian]]
