@@ -29,6 +29,10 @@
 ## [[2024-10-09]]
 - Attending: [[Chris Aldrich]] [[Mathew Lowry]] [[Flancian]]
 - Check ins
+
+## [[2024-10-09]]
+- Attending: [[Chris Aldrich]] [[Mathew Lowry]] [[Flancian]]
+- Check ins
 - AI output detection
     - Genius 'steganography'/glyph watermarking approach
     - c.f. [[trap street]]
