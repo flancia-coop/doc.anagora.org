@@ -66,13 +66,13 @@
     - [[Peter Kaminski]]: [[decolonizing AI]]
 - [[Peter Kaminski]]: on [[synthetic civilizations]] as the endgame
     - [[Aram Zucker-Scharff]]: agree on scarcity of data will be crucial, we're already hitting the limits of the data we have.
-        - [[Midjourney]] images do revert to a baseline of mediocrity/average when v
+        - [[Midjourney]] images do revert to a baseline of mediocrity/average when you feed them back into the model a few times
 - [[Peter Kaminski]]: The synthetic data things i was thinking of are Nemotron (Llama-3.1-Nemotron-70B-Instruct, Nemotron-4 340B by NVIDIA)
   - "Nvidia just dropped a new AI model that crushes OpenAI’s GPT-4—no big launch, just big results | VentureBeat"
     - https://venturebeat.com/ai/nvidia-just-dropped-a-new-ai-model-that-crushes-openais-gpt-4-no-big-launch-just-big-results/
-  - "Nemotron-4 340B | Research"
+  - "[[Nemotron]]-4 340B | Research"
     - https://research.nvidia.com/publication/2024-06_nemotron-4-340b
-  - "Synthetic data: Fine-tuning LLMs with AI-generated data | SuperAnnotate"
+  - "[[Synthetic data]]: Fine-tuning LLMs with AI-generated data | SuperAnnotate"
     - https://www.superannotate.com/blog/llm-synthetic-data
 
 ## [[2024-10-09]]
