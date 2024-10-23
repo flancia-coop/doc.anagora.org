@@ -26,8 +26,8 @@
         - [[issue tracker]] / [[project tracker]] URL
             - [[github]] by default?
 
-## [[2024-10-09]]
-- Attending: [[Peter Kaminski]] [[Mathew Lowry]] [[Chris Aldrich]] [[Flancian]]
+## [[2024-10-23]]
+- Attending: [[Peter Kaminski]] [[Mathew Lowry]] [[Chris Aldrich]] [[Flancian]] [[Jerr]]
 - Check ins
     - Mathew: going through checkups
     - Peter: back, things are going well
@@ -43,8 +43,11 @@
 - [[Flancian]]: [[Data portability]]
     - Tracking two projects for migrating tweets and other data off Twitter and making it usable elsewhere
     - One targets specifically importing them into a Bluesky timeline
-    - Another targets 
-     
+    - Another targets a [[community archive]]
+    - [[Chris Aldrich]]: https://en.wikipedia.org/wiki/Data_Transfer_Project was a thing
+    - [[Jerry]] the [[Twitter Refuseniks]] :)
+    - Where do we want to move *to*?
+        - [[Mathew]] [[Bluesky]]
 
 ## [[2024-10-09]]
 - Attending: [[Chris Aldrich]] [[Mathew Lowry]] [[Flancian]]
