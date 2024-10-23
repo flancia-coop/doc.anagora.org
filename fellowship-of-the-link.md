@@ -27,7 +27,7 @@
             - [[github]] by default?
 
 ## [[2024-10-23]]
-- Attending: [[Peter Kaminski]] [[Mathew Lowry]] [[Chris Aldrich]] [[Flancian]] [[Jerr]]
+- Attending: [[Peter Kaminski]] [[Mathew Lowry]] [[Chris Aldrich]] [[Flancian]] [[Jerry Michalski]]
 - Check ins
     - Mathew: going through checkups
     - Peter: back, things are going well
@@ -47,7 +47,8 @@
     - [[Chris Aldrich]]: https://en.wikipedia.org/wiki/Data_Transfer_Project was a thing
     - [[Jerry]] the [[Twitter Refuseniks]] :)
     - Where do we want to move *to*?
-        - [[Mathew]] [[Bluesky]]
+        - [[Mathew]]: [[Bluesky]]. Currently working on a [[starter pack]]. Been posting in places but saying 'go here to interact'.
+        - [[Peter]]: where is the lively conversation and how can I be part of that? I'm looking for the best conversations and interactivity. Suspects that people will not actually follow links to engage.
 
 ## [[2024-10-09]]
 - Attending: [[Chris Aldrich]] [[Mathew Lowry]] [[Flancian]]
