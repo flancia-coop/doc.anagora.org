@@ -40,7 +40,10 @@
         - Focus on usability
         - Has full linkability
         - Plus some killer feature?
-- [[Data portability]]
+- [[Flancian]]: [[Data portability]]
+    - Tracking two projects for migrating tweets and other data off Twitter and making it usable elsewhere
+    - One targets specifically importing them into a Bluesky timeline
+    - Another targets 
      
 
 ## [[2024-10-09]]
