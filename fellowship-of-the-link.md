@@ -28,6 +28,7 @@
 
 ## [[2024-10-23]]
 - Attending: [[Peter Kaminski]] [[Mathew Lowry]] [[Chris Aldrich]] [[Flancian]] [[Jerry Michalski]]; Late: [[Aram Zucker-Scharff]] 
+- Alternate notes at: https://hypothes.is/search?q=tag%3A%22Friends%20of%20the%20Link%202024-10-23%22
 - Check ins
     - Mathew: going through checkups
     - Peter: back, things are going well
