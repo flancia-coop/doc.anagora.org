@@ -39,7 +39,8 @@
         - [[Data portability]] is key
         - Focus on usability
         - Has full linkability
-        - 
+        - Plus some killer feature?
+- [[Data portability]]
      
 
 ## [[2024-10-09]]
