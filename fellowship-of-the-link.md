@@ -27,8 +27,11 @@
             - [[github]] by default?
 
 ## [[2024-10-09]]
-- Attending: [[Chris Aldrich]] [[Mathew Lowry]] [[Flancian]]
+- Attending: [[Peter Kaminski]] [[Mathew Lowry]] [[Chris Aldrich]] [[Flancian]]
 - Check ins
+    - Mathew: going through checkups
+    - Peter: back, things are going well
+- [[Capacities]]: https://www.fastcompany.com/91206311/capacities-app-notion-alternative-note-taking
 
 ## [[2024-10-09]]
 - Attending: [[Chris Aldrich]] [[Mathew Lowry]] [[Flancian]]
