@@ -66,6 +66,7 @@
     - [[Peter Kaminski]]: [[decolonizing AI]]
 - [[Peter Kaminski]]: on [[synthetic civilizations]] as the endgame
     - [[Aram Zucker-Scharff]]: agree on scarcity of data will be crucial, we're already hitting the limits of the data we have.
+        - [[Midjourney]] images do revert to a baseline of mediocrity/average when v
 - [[Peter Kaminski]]: The synthetic data things i was thinking of are Nemotron (Llama-3.1-Nemotron-70B-Instruct, Nemotron-4 340B by NVIDIA)
   - "Nvidia just dropped a new AI model that crushes OpenAI’s GPT-4—no big launch, just big results | VentureBeat"
     - https://venturebeat.com/ai/nvidia-just-dropped-a-new-ai-model-that-crushes-openais-gpt-4-no-big-launch-just-big-results/
