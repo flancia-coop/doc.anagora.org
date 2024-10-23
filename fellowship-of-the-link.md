@@ -74,7 +74,7 @@
     - https://research.nvidia.com/publication/2024-06_nemotron-4-340b
   - "[[Synthetic data]]: Fine-tuning LLMs with AI-generated data | SuperAnnotate"
     - https://www.superannotate.com/blog/llm-synthetic-data
-- #AZS Book on [[open source]] that came out recently: 
+- #AZS Book on [[open source]]: [[Working in Public]] (2020)
 
 ## [[2024-10-09]]
 - Attending: [[Chris Aldrich]] [[Mathew Lowry]] [[Flancian]]
