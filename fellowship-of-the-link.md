@@ -75,6 +75,9 @@
   - "[[Synthetic data]]: Fine-tuning LLMs with AI-generated data | SuperAnnotate"
     - https://www.superannotate.com/blog/llm-synthetic-data
 - #AZS Book on [[open source]]: [[Working in Public]] (2020)
+- [[Gordon Brander]] on [[nostr]]: https://substack.com/home/post/p-143032514
+    - Does anyone here believe [[nostr]] will "win", whatever that means?
+ 
 
 ## [[2024-10-09]]
 - Attending: [[Chris Aldrich]] [[Mathew Lowry]] [[Flancian]]
