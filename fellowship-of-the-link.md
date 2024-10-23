@@ -32,6 +32,15 @@
     - Mathew: going through checkups
     - Peter: back, things are going well
 - [[Capacities]]: https://www.fastcompany.com/91206311/capacities-app-notion-alternative-note-taking
+    - Shiny!
+    - But we're trying not to look too much into every new tool?
+    - The issue with exporting/importing (moving "ecosystems")
+    - What we want from tools in this space (and any space?)
+        - [[Data portability]] is key
+        - Focus on usability
+        - Has full linkability
+        - 
+     
 
 ## [[2024-10-09]]
 - Attending: [[Chris Aldrich]] [[Mathew Lowry]] [[Flancian]]
