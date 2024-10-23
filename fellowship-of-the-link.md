@@ -55,6 +55,8 @@
 - [[Ruben Verborgh]]
 - Peter Kaminski says: "Ruben Verborgh – Professor of Decentralized Web Technology" https://ruben.verborgh.org/
 - Mathew says: https://experiments.myhub.ai/ai4communities_post
+  - Peter: liked your post
+  - Chris: read it and took analog notes
 
 ## [[2024-10-09]]
 - Attending: [[Chris Aldrich]] [[Mathew Lowry]] [[Flancian]]
