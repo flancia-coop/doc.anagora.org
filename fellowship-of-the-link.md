@@ -59,6 +59,7 @@
   - Chris: read it and took analog notes
 - [[Peter Kaminski]] believes [[Model Collapse]] is a [[nothingburger]]
     - Mathew: but https://www.nature.com/articles/s41586-024-07566-y
+- Gray's post, from the Wayback Machine: https://web.archive.org/web/20170413225220/http://www.webnerd.me/2009/05/know-and-master-your-social-media-data.html
 
 ## [[2024-10-09]]
 - Attending: [[Chris Aldrich]] [[Mathew Lowry]] [[Flancian]]
