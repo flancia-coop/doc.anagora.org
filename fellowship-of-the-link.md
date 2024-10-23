@@ -77,7 +77,9 @@
 - #AZS Book on [[open source]]: [[Working in Public]] (2020)
 - [[Gordon Brander]] on [[nostr]]: https://substack.com/home/post/p-143032514
     - Does anyone here believe [[nostr]] will "win", whatever that means?
- 
+        - [[Peter Kaminski]] - (following on from Aram) Nostr the 
+- https://bra.in/8pWVMY 
+- Bye all! (meeting ended abruptly at 11:59AM Pacific)
 
 ## [[2024-10-09]]
 - Attending: [[Chris Aldrich]] [[Mathew Lowry]] [[Flancian]]
