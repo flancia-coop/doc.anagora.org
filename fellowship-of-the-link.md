@@ -77,9 +77,11 @@
 - #AZS Book on [[open source]]: [[Working in Public]] (2020)
 - [[Gordon Brander]] on [[nostr]]: https://substack.com/home/post/p-143032514
     - Does anyone here believe [[nostr]] will "win", whatever that means?
-        - [[Peter Kaminski]] - (following on from Aram) Nostr the 
+        - [[Peter Kaminski]] - (following on from Aram) Nostr the protocol is solid, the Nostr community is mostly crypto-focused. You could build a "winning" app on Nostr protocol, but you'd have to do the very substantial work of creating the social fabric and the communities of communities that run on it
 - https://bra.in/8pWVMY 
-- Bye all! (meeting ended abruptly at 11:59AM Pacific)
+- Meeting notes - https://app.thebrain.com/brain/3d80058c-14d8-5361-0b61-a061f89baf87/f6ea3567-90a0-47c6-b255-df8a4cd2bba9
+- Bye all! (meeting ended abruptly at 11:59AM Pacific) 
+    - Aram - Bye all! 
 
 ## [[2024-10-09]]
 - Attending: [[Chris Aldrich]] [[Mathew Lowry]] [[Flancian]]
