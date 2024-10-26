@@ -10,9 +10,9 @@ What are some possible team wikis we might use?
 
 https://www.getoutline.com/
 
-Ask Pete kaminski@istori.com for an invite to his test instance ()
+Ask Pete kaminski@istori.com for an invite to his test instance (through 2024-11-24).
 
-Looks pretty nice, actually. They don't market themselves well, and their 30-day trial is difficult to set up (you need a business account on Google or Microsoft, or you can set up a Slack instance and sneak in that way). But that's a one-time setup thing. (After 30 days, workspaces go read-only but export still works.)
+Looks pretty nice, actually. They don't market themselves well, and their 30-day trial is difficult to set up (you need a business account on Google or Microsoft, or you can set up a Slack instance and sneak in that way). But that's a one-time setup thing. After 30 days, workspaces go read-only but export still works.
 
 Open source and self-hostable, which is nice. (The startup would probably use hosted, though.)
 
@@ -24,7 +24,7 @@ The wiki linking is a little wonky. You can do it, but only with Command-K, not 
 
 https://affine.pro/
 
-Looks neat, but it's complicated
+Looks neat, but it's complicated.
 
 ## Google Docs
 
