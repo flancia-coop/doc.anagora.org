@@ -6,12 +6,13 @@ Pete is joining a new startup team who are very engaged in the team's business w
 
 What are some possible team wikis we might use?
 
+Please edit this page 
+
 ## Outline
 
 https://www.getoutline.com/
 
 _Ask Pete kaminski@istori.com for an invite to his test instance (through 2024-11-24)._
-
 
 Looks pretty nice, actually. They don't market themselves well, and their 30-day trial is difficult to set up (you need a business account on Google or Microsoft, or you can set up a Slack instance and sneak in that way). But that's a one-time setup thing. After 30 days, workspaces go read-only but export still works.
 
@@ -57,5 +58,7 @@ No. The only thing worse than Confluence is Jira.
 
 ## Other Disqualified Candidates
 
-- wiki.js
+- wiki.js - it's cute, but too old school (despite the modernity of the implementation)
+
+
 
