@@ -22,4 +22,10 @@ Looks pretty nice, actually. They don't market themselves well, and their 30-day
 
 Open source and self-hostable, which is nice.
 
-The organization and editor look easy enough for non-technical folks, and is mostly powerful enough for Pete. Looks like they have nice embedding support, including Grist and 
+The organization and editor look easy enough for non-technical folks, and is mostly powerful enough for Pete. Looks like they have nice embedding support, including Grist and Diagrams.net.
+
+The wiki linking is a little wonky. You can do it, but only with Command-K, not double square brackets. If a destination page gets renamed, link text to that page doesn't change (and is not too easy to change by hand). I (Pete) aren't crazy about how this works, but it might be fine for non-technical folks.
+
+## Affine
+
+L
