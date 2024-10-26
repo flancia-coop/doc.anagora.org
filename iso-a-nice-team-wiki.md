@@ -2,7 +2,7 @@
 
 ## Overview
 
-Pete is joining a new startup team who are very engaged in the team's work, but who are not very technical.
+Pete is joining a new startup team who are very engaged in the team's business work, but who are not very technical.
 
 What are some possible team wikis we might use?
 
