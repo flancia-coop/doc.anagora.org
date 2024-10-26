@@ -34,7 +34,7 @@ Ask Pete kaminski@istori.com for an invite to his test instance started 2024-10-
 
 Looks pretty nice, actually. They don't market themselves well, and their 30-day trial is difficult to set up (you need a business account on Google or Microsoft, or you can set up a Slack instance and sneak in that way). But that's a one-time setup thing. (After 30 days, workspaces go read-only but export still works.)
 
-Open source and self-hostable, which is nice.
+Open source and self-hostable, which is nice. (The startup would probably use hosted, though.)
 
 The organization and editor look easy enough for non-technical folks, and is mostly powerful enough for Pete. Looks like they have nice embedding support, including Grist and Diagrams.net.
 
