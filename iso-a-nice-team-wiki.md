@@ -34,7 +34,9 @@ Looks neat, but it's complicated.
 
 ## Capacities
 
+https://capacities.io/
 
+Very nice Notion alternative. Single player only, though.
 
 ## Google Docs
 
