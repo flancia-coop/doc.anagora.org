@@ -6,6 +6,10 @@ Pete is joining a new startup team who are very engaged in the team's work, but 
 
 What are some possible team wikis we might use?
 
+## Google Docs
+
+::rolls eyes::
+
 ## Massive Wiki
 
 https://massive.wiki/
@@ -13,6 +17,8 @@ https://massive.wiki/
 Too free-form, no realtime collaborative editing, sync is either too technical (Git) or too brittle for multiple users (Obsidian Sync).
 
 Otherwise, it's perfect. :-)
+
+(Engineering will have one or more Massive Wikis, of course.)
 
 ## Notion
 
@@ -39,4 +45,6 @@ https://affine.pro/
 Looks neat, but it's complicated
 
 ## Confluence
+
+No. The only thing worse than Confluence is Jira.
 
