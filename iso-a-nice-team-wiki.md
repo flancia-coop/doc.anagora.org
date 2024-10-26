@@ -10,15 +10,16 @@ What are some possible team wikis we might use?
 
 https://www.getoutline.com/
 
-Ask Pete kaminski@istori.com for an invite to his test instance (through 2024-11-24).
+_Ask Pete kaminski@istori.com for an invite to his test instance (through 2024-11-24)._
+
 
 Looks pretty nice, actually. They don't market themselves well, and their 30-day trial is difficult to set up (you need a business account on Google or Microsoft, or you can set up a Slack instance and sneak in that way). But that's a one-time setup thing. After 30 days, workspaces go read-only but export still works.
 
 Open source and self-hostable, which is nice. (The startup would probably use hosted, though.)
 
-The organization and editor look easy enough for non-technical folks, and is mostly powerful enough for Pete. Looks like they have nice embedding support, including Grist and Diagrams.net.
+The organization and editor look easy enough for non-technical folks, and is mostly powerful enough for Pete. Looks like they have nice embedding support, including Grist and Diagrams.net among many others.
 
-The wiki linking is a little wonky. You can do it, but only with Command-K, not double square brackets. If a destination page gets renamed, link text to that page doesn't change (and is not too easy to change by hand). I (Pete) aren't crazy about how this works, but it might be fine for non-technical folks.
+The wiki linking is a little wonky. You can do it, but only with Command-K, not double square brackets. If a destination page gets renamed, link text to that page doesn't change (and is not very easy to change by hand). I (Pete) am not crazy about how this works, but it might be fine for non-technical folks.
 
 ## Affine
 
