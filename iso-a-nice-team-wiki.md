@@ -8,9 +8,15 @@ What are some possible team wikis we might use?
 
 ## Massive Wiki
 
+https://massive.wiki/
+
 Too free-form, no realtime collaborative editing, sync is either too technical (Git) or too brittle for multiple users (Obsidian Sync).
 
+Otherwise, it's perfect. :-)
+
 ## Notion
+
+https://notion.so/
 
 The mainline alternative right now. Too complicated for Pete's taste.
 
@@ -28,4 +34,9 @@ The wiki linking is a little wonky. You can do it, but only with Command-K, not 
 
 ## Affine
 
-L
+https://affine.pro/
+
+Looks neat, but it's complicated
+
+## Confluence
+
