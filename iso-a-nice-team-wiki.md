@@ -69,6 +69,7 @@ No. The only thing worse than Confluence is Jira.
 ## Other Disqualified Candidates
 
 - wiki.js - it's cute, but too old school (despite the modernity of the implementation)
+- https://decko.org/ (formerly Wagn) - neat vision, still under development
 
 
 
