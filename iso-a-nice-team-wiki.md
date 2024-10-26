@@ -8,6 +8,8 @@ Pete is joining a new startup team who are very engaged in the team's business w
 
 What are some possible team wikis we might use? Key desired features: easy to use for non-technical folks, markdown support. Realtime collaborative editing a plus.
 
+Pete started this page on 2024-10-26.
+
 ## Outline
 
 https://www.getoutline.com/
@@ -20,6 +22,8 @@ Open source and self-hostable, which is nice. (The startup would probably use ho
 
 The organization and editor look easy enough for non-technical folks, and is mostly powerful enough for Pete. Looks like they have nice embedding support, including Grist and Diagrams.net among many others.
 
+Has realtime collaborative editing.
+
 The wiki linking is a little wonky. You can do it, but only with Command-K, not double square brackets. If a destination page gets renamed, link text to that page doesn't change (and is not very easy to change by hand). I (Pete) am not crazy about how this works, but it might be fine for non-technical folks.
 
 ## Affine
@@ -27,6 +31,10 @@ The wiki linking is a little wonky. You can do it, but only with Command-K, not 
 https://affine.pro/
 
 Looks neat, but it's complicated.
+
+## Capacities
+
+
 
 ## Google Docs
 
