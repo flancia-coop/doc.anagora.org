@@ -6,7 +6,7 @@ Pete is joining a new startup team who are very engaged in the team's business w
 
 What are some possible team wikis we might use?
 
-Please edit this page 
+This page is collaboratively owned; please add / edit sections to improve.
 
 ## Outline
 
