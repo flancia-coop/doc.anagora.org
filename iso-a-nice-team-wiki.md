@@ -2,11 +2,11 @@
 
 ## Overview
 
+This page is collaboratively owned; please add / edit sections to improve.
+
 Pete is joining a new startup team who are very engaged in the team's business work, but who are not very technical.
 
-What are some possible team wikis we might use?
-
-This page is collaboratively owned; please add / edit sections to improve.
+What are some possible team wikis we might use? Key desired features: easy to use for non-technical folks, markdown support. Realtime collaborative editing a plus.
 
 ## Outline
 
