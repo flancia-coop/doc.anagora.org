@@ -64,7 +64,7 @@ The mainline alternative right now. Too complicated for Pete's taste.
 
 ## Confluence
 
-No. The only thing worse than Confluence is Jira.
+No thanks. Confluence is confusing and hard to use. (Not quite as bad as Jira, but don't get me started.)
 
 ## Other Disqualified Candidates
 
