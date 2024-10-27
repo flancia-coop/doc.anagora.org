@@ -1,0 +1,1 @@
+- They seem to be the [[centered hexagonal numbers]] which are also prime :)
