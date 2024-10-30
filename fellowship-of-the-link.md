@@ -45,7 +45,6 @@
     - [Complexity isn't a Vice: 10 Word Answers and Doubletalk in Election 2016](https://boffosocko.com/2016/09/30/complexity-isnt-a-vice-10-word-answers-and-doubletalk-in-election-2016/)
 - News Exhaustion
 - #AZS on sustainability of open source
-- 
 
 
 ## [[2024-10-23]]
