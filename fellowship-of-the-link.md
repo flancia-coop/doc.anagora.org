@@ -27,6 +27,12 @@
             - [[github]] by default?
 
 ## [[2024-10-23]]
+- Attending: [[Peter Kaminski]] [[Chris Aldrich]]
+- Was "education" in Eisenhower's phrase "military-industrial complex" in early drafts of his farewell speech?
+    - yes, apparently so, but as "military-industrial-academic complex"
+
+
+## [[2024-10-23]]
 - Attending: [[Peter Kaminski]] [[Mathew Lowry]] [[Chris Aldrich]] [[Flancian]] [[Jerry Michalski]]; Late: [[Aram Zucker-Scharff]] 
 - Alternate notes at: https://hypothes.is/search?q=tag%3A%22Friends%20of%20the%20Link%202024-10-23%22
 - Check ins
