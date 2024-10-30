@@ -33,6 +33,8 @@
         - https://disorientation.nu/2017/northeastern-and-the-military-industrial-academic-complex/
         - https://www.routledge.com/University-in-Chains-Confronting-the-Military-Industrial-Academic-Complex/Giroux/p/book/9781594514234
     - also apparently "military-industrial-Congressional complex"?
+- Pete, on [In Search of a Nice Team Wiki](https://hackmd.io/@peterkaminski/iso-a-nice-team-wiki)
+    - nice wiki for non-geeks: 
 
 
 ## [[2024-10-23]]
