@@ -27,7 +27,7 @@
             - [[github]] by default?
 
 ## [[2024-10-30]]
-- Attending: [[Peter Kaminski]] [[Chris Aldrich]]
+- Attending: [[Peter Kaminski]] [[Chris Aldrich]][[Aram Zucker-Scharff]] (11:30) [[Mathew Lowry]] (12:03)
 - Was "education" in Eisenhower's phrase "military-industrial complex" in early drafts of his farewell speech?
     - yes, apparently so, but as "military-industrial-academic complex"
         - https://disorientation.nu/2017/northeastern-and-the-military-industrial-academic-complex/
@@ -40,6 +40,9 @@
     - https://indieweb.org/longevity
     - Vs the 100 year WordPress service
         - WordPress problems - https://context.center/topics/wordpress-wpengine-conflict/ 
+- Donald J. Trump's competencies
+    - [Complexity isn't a Vice: 10 Word Answers and Doubletalk in Election 2016](https://boffosocko.com/2016/09/30/complexity-isnt-a-vice-10-word-answers-and-doubletalk-in-election-2016/)
+
 
 
 ## [[2024-10-23]]
