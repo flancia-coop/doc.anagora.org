@@ -26,10 +26,13 @@
         - [[issue tracker]] / [[project tracker]] URL
             - [[github]] by default?
 
-## [[2024-10-23]]
+## [[2024-10-30]]
 - Attending: [[Peter Kaminski]] [[Chris Aldrich]]
 - Was "education" in Eisenhower's phrase "military-industrial complex" in early drafts of his farewell speech?
     - yes, apparently so, but as "military-industrial-academic complex"
+        - https://disorientation.nu/2017/northeastern-and-the-military-industrial-academic-complex/
+        - https://www.routledge.com/University-in-Chains-Confronting-the-Military-Industrial-Academic-Complex/Giroux/p/book/9781594514234
+    - also apparently "military-industrial-Congressional complex"?
 
 
 ## [[2024-10-23]]
