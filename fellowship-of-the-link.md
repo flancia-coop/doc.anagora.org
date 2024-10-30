@@ -36,6 +36,7 @@
 - Pete, on [In Search of a Nice Team Wiki](https://hackmd.io/@peterkaminski/iso-a-nice-team-wiki)
     - nice wiki for non-geeks: https://bookstackapp.com/
     - a commercial system I like better than Notion: https://www.getoutline.com/
+- The hundred year web service - https://youtu.be/xUfICrkBco4?si=wptuKo8WNQtASiSU 
 
 
 ## [[2024-10-23]]
