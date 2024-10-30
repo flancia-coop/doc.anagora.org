@@ -38,6 +38,8 @@
     - a commercial system I like better than Notion: https://www.getoutline.com/
 - The hundred year web service - https://youtu.be/xUfICrkBco4?si=wptuKo8WNQtASiSU 
     - https://indieweb.org/longevity
+    - Vs the 100 year WordPress service
+        - WordPress problems - https://context.center/topics/wordpress-wpengine-conflict/ 
 
 
 ## [[2024-10-23]]
