@@ -36,13 +36,14 @@
 - Pete, on [In Search of a Nice Team Wiki](https://hackmd.io/@peterkaminski/iso-a-nice-team-wiki)
     - nice wiki for non-geeks: https://bookstackapp.com/
     - a commercial system I like better than Notion: https://www.getoutline.com/
+- https://omnivore.app/ being acquihired and shutting down
 - The hundred year web service - https://youtu.be/xUfICrkBco4?si=wptuKo8WNQtASiSU 
     - https://indieweb.org/longevity
     - Vs the 100 year WordPress service
         - WordPress problems - https://context.center/topics/wordpress-wpengine-conflict/ 
 - Donald J. Trump's competencies
     - [Complexity isn't a Vice: 10 Word Answers and Doubletalk in Election 2016](https://boffosocko.com/2016/09/30/complexity-isnt-a-vice-10-word-answers-and-doubletalk-in-election-2016/)
-
+- News Exhaustion
 
 
 ## [[2024-10-23]]
