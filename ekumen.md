@@ -2,11 +2,15 @@
 
 ## [[2024-11-01]]
 - Attending: [[edumerco]] [[flancian]]
+- Agora recap and tips :)
 - Eduardo found [[UFOI]]: https://ufoi.org
     - It is very much Ekumen-like. Should we join it instead?
     - We don't necessarily agree with some of their principles, like the nudity policy.
     - But we could use it as a base, and still try to federate with them and co-moderate.
-    - Alternatively we could target tool building and start something smaller, like the neighborhood of sociall.
+    - Alternatively we could target tool building and start something smaller, like the neighborhood of social.coop.
+    - Tools can build on the subset of established shared norms between instances. The contracts could be modular.
+- [[Sutty]] is experimenting with site federation using [[ActivityPub]]
+    - 
 
 
 ## [[2024-10-11]]
