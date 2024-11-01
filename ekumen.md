@@ -10,7 +10,8 @@
     - Alternatively we could target tool building and start something smaller, like the neighborhood of social.coop.
     - Tools can build on the subset of established shared norms between instances. The contracts could be modular.
 - [[Sutty]] is experimenting with site federation using [[ActivityPub]]
-    - 
+    - Publishes articles from static sites to the Fediverse
+    - Supports moderation of comments
 
 
 ## [[2024-10-11]]
