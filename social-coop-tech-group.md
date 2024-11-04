@@ -7,7 +7,10 @@
     - VPS https://git.coop/social.coop/tech/operations/-/issues/89
     - Email SPF https://git.coop/social.coop/tech/operations/-/issues/87
     - [[coop cloud]] - Dan wants to upgrade MediaWiki https://git.coop/social.coop/tech/operations/-/issues/85
-        - alpha.wiki.social.coop
+        - wiki-alpha.social.coop
+        - the content of flancian's .abra/servers/hypha.social.coop is in git: 
+        - the content of flancian's ~/.abra/recipes/mediawiki is in:
+            - https://recipes.coopcloud.tech/
     - spam response next steps: https://git.coop/social.coop/tech/operations/-/issues/90
         - iftas thread https://connect.iftas.org/forums/discussion/spam-wave-2024-11-04/
     - storage footprint / database size
