@@ -9,6 +9,7 @@
     - [[coop cloud]] - Dan wants to upgrade MediaWiki https://git.coop/social.coop/tech/operations/-/issues/85
         - alpha.wiki.social.coop
     - spam response next steps: https://git.coop/social.coop/tech/operations/-/issues/90
+        - iftas thread
     - storage footprint / database size
 
 ## 2024-10-07
