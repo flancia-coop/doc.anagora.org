@@ -1,9 +1,9 @@
 ## 2024-11-04
 - Here: [[Dan]] [[Flancian]]
 - Check ins
-    - [[Dan]] is stressed about the US elections
+    - [[Dan]] is stressed about the US elections, mild work chaos
     - [[Flancian]] working a half day, is going through some personal issues
-    - 
+- Top prior
 
 ## 2024-10-07
 - Here: [[Dan]] [[Flancian]] [[Calix]]
