@@ -6,7 +6,10 @@
 - Agenda
     - VPS https://git.coop/social.coop/tech/operations/-/issues/89
     - Email SPF https://git.coop/social.coop/tech/operations/-/issues/87
-    - [[coop cloud]] - Dan want
+    - [[coop cloud]] - Dan wants to upgrade MediaWiki https://git.coop/social.coop/tech/operations/-/issues/85
+        - alpha.wiki.social.coop
+    - spam response next steps: https://git.coop/social.coop/tech/operations/-/issues/90
+    - storage footprint / database size
 
 ## 2024-10-07
 - Here: [[Dan]] [[Flancian]] [[Calix]]
