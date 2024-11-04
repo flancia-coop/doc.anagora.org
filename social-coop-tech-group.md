@@ -9,7 +9,7 @@
     - [[coop cloud]] - Dan wants to upgrade MediaWiki https://git.coop/social.coop/tech/operations/-/issues/85
         - wiki-alpha.social.coop
         - the content of flancian's .abra/servers/hypha.social.coop is in git: 
-            - 
+            - git@git.coop:social.coop/tech/coop-cloud/hypha.social.coop.git
         - the content of flancian's ~/.abra/recipes/mediawiki is in:
             origin  https://git.coopcloud.tech/coop-cloud/mediawiki.git (fetch)
             origin  https://git.coopcloud.tech/coop-cloud/mediawiki.git (push)
