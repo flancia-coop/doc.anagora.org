@@ -3,7 +3,10 @@
 - Check ins
     - [[Dan]] is stressed about the US elections, mild work chaos
     - [[Flancian]] working a half day, is going through some personal issues
-- Top prior
+- Agenda
+    - VPS https://git.coop/social.coop/tech/operations/-/issues/89
+    - Email SPF https://git.coop/social.coop/tech/operations/-/issues/87
+    - [[coop cloud]] - Dan want
 
 ## 2024-10-07
 - Here: [[Dan]] [[Flancian]] [[Calix]]
