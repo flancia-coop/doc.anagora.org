@@ -9,8 +9,12 @@
     - [[coop cloud]] - Dan wants to upgrade MediaWiki https://git.coop/social.coop/tech/operations/-/issues/85
         - wiki-alpha.social.coop
         - the content of flancian's .abra/servers/hypha.social.coop is in git: 
+            - 
         - the content of flancian's ~/.abra/recipes/mediawiki is in:
-            - https://recipes.coopcloud.tech/
+            origin  https://git.coopcloud.tech/coop-cloud/mediawiki.git (fetch)
+            origin  https://git.coopcloud.tech/coop-cloud/mediawiki.git (push)
+            wiki.social.coop        ssh://git@git.coopcloud.tech:2222/flancian/wiki.social.coop.git (fetch)
+            wiki.social.coop        ssh://git@git.coopcloud.tech:2222/flancian/wiki.social.coop.git (push)
     - spam response next steps: https://git.coop/social.coop/tech/operations/-/issues/90
         - iftas thread https://connect.iftas.org/forums/discussion/spam-wave-2024-11-04/
     - storage footprint / database size
