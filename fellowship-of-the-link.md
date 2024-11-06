@@ -26,6 +26,11 @@
         - [[issue tracker]] / [[project tracker]] URL
             - [[github]] by default?
 
+
+## [[2024-11-06]]
+- an off the record rehash of election 2024
+
+
 ## [[2024-10-30]]
 - Attending: [[Peter Kaminski]] [[Chris Aldrich]][[Aram Zucker-Scharff]] (11:30) [[Mathew Lowry]] (12:03)
 - Was "education" in Eisenhower's phrase "military-industrial complex" in early drafts of his farewell speech?
