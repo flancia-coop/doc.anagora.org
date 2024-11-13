@@ -27,11 +27,22 @@
             - [[github]] by default?
 
 
-## [[2024-11-06]]
-- [[Jerry Michalski]] [[Peter Kaminski]] [[Flancian]]
+## [[2024-11-13]]
+- [[Jerry Michalski]] [[Peter Kaminski]] [[Flancian]] [[Mathew]]
 - [[DOGE days]]
 - [[Fellowship]] topics
     - [[Mathew]] trying a procedure for integrating tools and platforms
+        - [[Bluesky]]: some open questions
+            - Who is backing them now?
+        - [[Nostr]]: this week
+        - Q: a tour of the socials?
+            - trying to look at protocols to see how own ideas would fit
+            - focus is [[AI for communities]]
+        - Thanks for [[massive wiki]]!
+            - Right back at you
+    - [[Peter Kaminski]]:
+        - [[Community Discussion Platforms]]: https://peterkaminski.wiki/community_discussion_platforms
+
 
 ## [[2024-11-06]]
 - an off the record rehash of election 2024
