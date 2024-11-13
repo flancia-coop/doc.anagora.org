@@ -43,21 +43,21 @@
             - How to theme it?
     - [[Peter Kaminski]]:
         - [[Community Discussion Platforms]]: https://peterkaminski.wiki/community_discussion_platforms
-        - [[massive wiki]] improvements, including redirecting to a git forge to edit
+        - [[massive wiki]] improvements, including redirecting to a git forge to edit page
             - new version upcoming
                 - massivewikibuilder as a Python module (likely with a different name)
                 - technically much improved theme, Dolce
         - [[ai coaching forum]]
+            - [[Mathew]]: reminded of https://humansplus.ai 
         - -> joined a startup! \o/
             - [[youbots.ai]]: beta on Dec 1st, live on Jan 1st
                 - building [[gpt for businesses]]
-                - [[Mathew]]: reminded of https://humansplus.ai 
                 - USP: do 80% of what you need for much less in some areas; e.g. supplementing your marketing agency.
                 - Assist people, not replace people.
     - [[Jerry]]:
         - just back from Montreal, picked up a bug somewhere.
         - April killing it with speeches.
-            - [[IASB]]
+            - [[IASB]] convention and three ways of getting there
 
 ## [[2024-11-06]]
 - an off the record rehash of election 2024
