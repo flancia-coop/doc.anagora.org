@@ -49,7 +49,7 @@
         - [[ai coaching forum]]
         - -> joined a startup! \o/
             - [[youbots]]: beta on Dec 1st, live on Jan 1st
-                - building [[gpt for businesses]]
+                - building youbots.ai [[gpt for businesses]]
                 - [[Mathew]]: reminded of https://humansplus.ai 
                 - USP: do 80% of what you need for much less in some areas; e.g. supplementing your marketing agency.
                 - Assist people, not replace people.
