@@ -59,6 +59,7 @@
         - April killing it with speeches.
             - [[IASB]] convention and three ways of getting there
                 - [[Shawn Kanungo]] was there
+        - [[Melbourne]], [[Brisbane]] -> ([[Iian Neill]] lives there IIRC)
 
 ## [[2024-11-06]]
 - an off the record rehash of election 2024
