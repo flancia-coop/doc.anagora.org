@@ -48,9 +48,9 @@
                 - massivewikibuilder 
         - [[ai coaching forum]]
         - -> joined a startup! \o/
-            - [[youbots]]
+            - [[youbots]]: beta on Dec 1st, live on Jan 1st
             - building [[gpt for businesses]]
-        
+            - [[Mathew]]: reminded of https://humansplus.ai 
 
 ## [[2024-11-06]]
 - an off the record rehash of election 2024
