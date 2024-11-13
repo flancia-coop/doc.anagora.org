@@ -62,6 +62,7 @@
         - Will be in [[Melbourne]], [[Brisbane]] -> ([[Iian Neill]] lives there IIRC)
     - [[Centaurs]] vs [[Reverse Centaurs]]
         - https://www.linkedin.com/feed/update/urn:li:activity:7262457185203372033/
+    - [[Peter Kaminski]] agora
 
 ## [[2024-11-06]]
 - an off the record rehash of election 2024
