@@ -28,6 +28,10 @@
 
 
 ## [[2024-11-06]]
+- [[Jerry Michalski]] [[Peter Kaminski]] [[Flancian]]
+- [[DOGE days]]
+
+## [[2024-11-06]]
 - an off the record rehash of election 2024
 
 
