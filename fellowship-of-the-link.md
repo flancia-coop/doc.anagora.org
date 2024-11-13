@@ -30,6 +30,8 @@
 ## [[2024-11-06]]
 - [[Jerry Michalski]] [[Peter Kaminski]] [[Flancian]]
 - [[DOGE days]]
+- [[Fellowship]] topics
+    - [[Mathew]] trying a procedure for integrating tools and platforms
 
 ## [[2024-11-06]]
 - an off the record rehash of election 2024
