@@ -45,14 +45,19 @@
         - [[Community Discussion Platforms]]: https://peterkaminski.wiki/community_discussion_platforms
         - [[massive wiki]] improvements, including redirecting to a git forge to edit
             - new version upcoming
-                - massivewikibuilder 
+                - massivewikibuilder as a Python module (likely with a different name)
+                - technically much improved theme, Dolce
         - [[ai coaching forum]]
         - -> joined a startup! \o/
-            - [[youbots]]: beta on Dec 1st, live on Jan 1st
-                - building youbots.ai [[gpt for businesses]]
+            - [[youbots.ai]]: beta on Dec 1st, live on Jan 1st
+                - building [[gpt for businesses]]
                 - [[Mathew]]: reminded of https://humansplus.ai 
                 - USP: do 80% of what you need for much less in some areas; e.g. supplementing your marketing agency.
                 - Assist people, not replace people.
+    - [[Jerry]]:
+        - just back from Montreal, picked up a bug somewhere.
+        - April killing it with speeches.
+            - [[IASB]]
 
 ## [[2024-11-06]]
 - an off the record rehash of election 2024
