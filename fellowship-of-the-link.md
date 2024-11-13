@@ -55,11 +55,12 @@
                 - USP: do 80% of what you need for much less in some areas; e.g. supplementing your marketing agency.
                 - Assist people, not replace people.
     - [[Jerry]]:
-        - just back from Montreal, picked up a bug somewhere.
+        - Just back from Montreal, picked up a bug somewhere.
         - April killing it with speeches.
             - [[IASB]] convention and three ways of getting there
                 - [[Shawn Kanungo]] was there
-        - [[Melbourne]], [[Brisbane]] -> ([[Iian Neill]] lives there IIRC)
+        - Will be in [[Melbourne]], [[Brisbane]] -> ([[Iian Neill]] lives there IIRC)
+    - 
 
 ## [[2024-11-06]]
 - an off the record rehash of election 2024
