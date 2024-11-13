@@ -44,7 +44,13 @@
     - [[Peter Kaminski]]:
         - [[Community Discussion Platforms]]: https://peterkaminski.wiki/community_discussion_platforms
         - [[massive wiki]] improvements, including redirecting to a git forge to edit
-
+            - new version upcoming
+                - massivewikibuilder 
+        - [[ai coaching forum]]
+        - -> joined a startup! \o/
+            - [[youbots]]
+            - building [[gpt for businesses]]
+        
 
 ## [[2024-11-06]]
 - an off the record rehash of election 2024
