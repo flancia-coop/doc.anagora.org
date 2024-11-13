@@ -39,9 +39,11 @@
             - trying to look at protocols to see how own ideas would fit
             - focus is [[AI for communities]]
         - Thanks for [[massive wiki]]!
-            - Right back at you
+            - Right back at you :)
+            - How to theme it?
     - [[Peter Kaminski]]:
         - [[Community Discussion Platforms]]: https://peterkaminski.wiki/community_discussion_platforms
+        - [[massive wiki]] improvements, including redirecting to a git forge to edit
 
 
 ## [[2024-11-06]]
