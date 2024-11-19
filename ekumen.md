@@ -2,10 +2,10 @@
 
 ## [[2024-11-XX]]
 - Attending: [[Matt Noyes]] [[Nathan Schneider]] [[Eduardo Mercovich]] [[Eduardo Ivanec]] ...
+- Check ins
 - Why we're here
 - What we've thought of, done so far
-    - Git repository
-    - 
+    - Documentation and other shared artifacts
 - Other projects in this space
 - Other people who might be interested in this project or any adjacent
 - Where to go from here
