@@ -1,5 +1,16 @@
 # Meeting notes
 
+## [[2024-11-XX]]
+- Attending: [[Matt Noyes]] [[Nathan Schneider]] [[Eduardo Mercovich]] [[Eduardo Ivanec]] ...
+- Why we're here
+- What we've thought of, done so far
+    - Git repository
+    - 
+- Other projects in this space
+- Other people who might be interested in this project or any adjacent
+- Where to go from here
+
+
 ## [[2024-11-01]]
 - Attending: [[edumerco]] [[flancian]]
 - Agora recap and tips :)
