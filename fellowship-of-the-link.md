@@ -33,6 +33,8 @@
 - [[Selectric hacking]] by the soviets
     - [How Soviets used IBM Selectric keyloggers to spy on US diplomats - Ars Technica](
 https://arstechnica.com/information-technology/2015/10/how-soviets-used-ibm-selectric-keyloggers-to-spy-on-us-diplomats/
+    - Project Gunman: 
+https://www.cryptomuseum.com/covert/bugs/selectric/index.htm
 
 ## [[2024-11-13]]
 - [[Jerry Michalski]] [[Peter Kaminski]] [[Flancian]] [[Mathew]]
