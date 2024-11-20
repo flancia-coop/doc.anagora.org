@@ -46,6 +46,7 @@ https://www.cryptomuseum.com/covert/bugs/selectric/index.htm
     - #PK the [[del.icio.us]] case
 - We miss [[RSS]] and [[chat federation]]
 - #CA idea: [[webmentions]] from the Agora
+    - also [[refbacks]]
 
 ## [[2024-11-13]]
 - [[Jerry Michalski]] [[Peter Kaminski]] [[Flancian]] [[Mathew]]
