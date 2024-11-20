@@ -27,6 +27,13 @@
             - [[github]] by default?
 
 
+## [[2024-11-20]]
+- [[Peter Kaminski]] [[Chris Aldrich]] [[Flancian]]
+- [[Mechanical keyboards]] and [[typewriters]]
+- [[Selectric hacking]] by the soviets
+    - [How Soviets used IBM Selectric keyloggers to spy on US diplomats - Ars Technica](
+https://arstechnica.com/information-technology/2015/10/how-soviets-used-ibm-selectric-keyloggers-to-spy-on-us-diplomats/
+
 ## [[2024-11-13]]
 - [[Jerry Michalski]] [[Peter Kaminski]] [[Flancian]] [[Mathew]]
 - [[DOGE days]]
