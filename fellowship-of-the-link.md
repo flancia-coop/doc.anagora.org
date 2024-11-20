@@ -37,6 +37,9 @@ https://arstechnica.com/information-technology/2015/10/how-soviets-used-ibm-sele
 https://www.cryptomuseum.com/covert/bugs/selectric/index.htm
 - [[Peter Kaminski]] startup hacking :)
     - Issues with the [[openai sdk]]
+    - But having fun pair programming :)
+- [[Chris Aldrich]]
+    - enjoying the [[topology class]]
 
 ## [[2024-11-13]]
 - [[Jerry Michalski]] [[Peter Kaminski]] [[Flancian]] [[Mathew]]
