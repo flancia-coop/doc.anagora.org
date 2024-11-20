@@ -50,6 +50,9 @@ https://www.cryptomuseum.com/covert/bugs/selectric/index.htm
     - [[trash drawer]]
     - [[Cairo Genizah]]:
         - The Cairo Genizah is a collection of Jewish manuscript fragments discovered in the genizah (storage room) of the Ben Ezra Synagogue in Fustat (Old Cairo), Egypt. These documents, accumulated over a millennium, provide invaluable insights into the social, economic, and religious life of the Jewish community in the medieval Middle East. The genizah was discovered in 1896 and has since been a crucial source for scholars studying Jewish history and culture. 
+- New name for [[massive wiki builder]]?
+    - Maybe just [[massive builder]]?
+    - Have you seen https://sutty.nl/en/? They are a coop in this space.
 
 ## [[2024-11-13]]
 - [[Jerry Michalski]] [[Peter Kaminski]] [[Flancian]] [[Mathew]]
