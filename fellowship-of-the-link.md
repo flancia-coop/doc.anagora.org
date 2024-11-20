@@ -40,6 +40,9 @@ https://www.cryptomuseum.com/covert/bugs/selectric/index.htm
     - But having fun pair programming :)
 - [[Chris Aldrich]]
     - enjoying the [[topology class]]
+- [[Bluesky]]
+    - on reconstructing, maintaining, porting and strenghtening social graphs
+    - #CA the [[upcoming]] example: https://upcoming.org/
 
 ## [[2024-11-13]]
 - [[Jerry Michalski]] [[Peter Kaminski]] [[Flancian]] [[Mathew]]
