@@ -47,6 +47,7 @@ https://www.cryptomuseum.com/covert/bugs/selectric/index.htm
 - We miss [[RSS]] and [[chat federation]]
 - #CA idea: [[webmentions]] from the Agora
     - also [[refbacks]]
+    - [[trash drawer]]
 
 ## [[2024-11-13]]
 - [[Jerry Michalski]] [[Peter Kaminski]] [[Flancian]] [[Mathew]]
