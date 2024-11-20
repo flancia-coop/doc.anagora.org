@@ -42,7 +42,9 @@ https://www.cryptomuseum.com/covert/bugs/selectric/index.htm
     - enjoying the [[topology class]]
 - [[Bluesky]]
     - on reconstructing, maintaining, porting and strenghtening social graphs
-    - #CA the [[upcoming]] example: https://upcoming.org/
+    - #CA the [[upcoming]] example: https://upcoming.org/, bought back from Yahoo
+    - #PK the [[del.icio.us]] case
+- We miss [[RSS]] and [[chat federation]]
 
 ## [[2024-11-13]]
 - [[Jerry Michalski]] [[Peter Kaminski]] [[Flancian]] [[Mathew]]
