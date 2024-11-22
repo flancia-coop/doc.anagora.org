@@ -27,6 +27,7 @@
     - concepción:
         - publicamos recomendaciones de bloqueo/federación/defederación de acuerdo a ciertos criterios establecidos y públicos
         - la gente puede adoptarlas o no
+        - establecer reglas y procesos de forking/merging para 'incorporar' procesos de resolución de conflicto, modularidad
 
 ## [[2024-11-01]]
 - Attending: [[edumerco]] [[flancian]]
