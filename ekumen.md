@@ -19,6 +19,12 @@
     - Dinámica de comunidad
         - Axiomas, compartidos o no
     - Post-enfermedad
+- Social.coop
+    - procesos de gobernancia
+- Ekumen
+    - charla compartida
+    - riesgos cuando hay una pretensión de imponer las propias preferencias
+    - para 
 
 ## [[2024-11-01]]
 - Attending: [[edumerco]] [[flancian]]
