@@ -30,7 +30,8 @@
         - establecer reglas y procesos de forking/merging para 'incorporar' procesos de resolución de conflicto, modularidad
         - cómo construir espacios seguros de diferente nivel?
             - -> deberíamos proveer las herramientas y dejar que las comunidades las usen para construirse
-            - -> sistema por niveles? e.g. L5 es una amenaza directa de violencia/
+            - -> sistema por niveles? e.g. L5 es una amenaza directa de violencia/sugerencia de genocidio. L3 es discurso violento. etc.
+        - empezar con el caso base: social.coop publicando nuestras normas de forma estructurada. después: cómo co-federar estas con una instancia amiga.
 
 ## [[2024-11-01]]
 - Attending: [[edumerco]] [[flancian]]
