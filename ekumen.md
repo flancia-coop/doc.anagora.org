@@ -13,6 +13,9 @@
 - Where to go from here
 
 
+## [[2024-11-22]]
+- Attending: [[edumerco]] [[flancian]]
+
 ## [[2024-11-01]]
 - Attending: [[edumerco]] [[flancian]]
 - Agora recap and tips :)
