@@ -24,7 +24,9 @@
 - Ekumen
     - charla compartida
     - riesgos cuando hay una pretensión de imponer las propias preferencias
-    - para 
+    - concepción:
+        - publicamos recomendaciones de bloqueo/federación/defederación de acuerdo a ciertos criterios establecidos y públicos
+        - la gente puede adoptarlas o no
 
 ## [[2024-11-01]]
 - Attending: [[edumerco]] [[flancian]]
