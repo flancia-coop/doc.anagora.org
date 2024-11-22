@@ -28,6 +28,9 @@
         - publicamos recomendaciones de bloqueo/federación/defederación de acuerdo a ciertos criterios establecidos y públicos
         - la gente puede adoptarlas o no
         - establecer reglas y procesos de forking/merging para 'incorporar' procesos de resolución de conflicto, modularidad
+        - cómo construir espacios seguros de diferente nivel?
+            - -> deberíamos proveer las herramientas y dejar que las comunidades las usen para construirse
+            - -> sistema por niveles? e.g. L5 es una amenaza directa de violencia/
 
 ## [[2024-11-01]]
 - Attending: [[edumerco]] [[flancian]]
