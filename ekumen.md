@@ -15,6 +15,8 @@
 
 ## [[2024-11-22]]
 - Attending: [[edumerco]] [[flancian]]
+- Check ins
+    - 
 
 ## [[2024-11-01]]
 - Attending: [[edumerco]] [[flancian]]
