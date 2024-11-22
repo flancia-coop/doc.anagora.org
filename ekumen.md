@@ -33,6 +33,8 @@
             - -> sistema por niveles? e.g. L5 es una amenaza directa de violencia/sugerencia de genocidio. L3 es discurso violento. etc.
         - empezar con el caso base: social.coop publicando nuestras normas de forma estructurada. después: cómo co-federar estas con una instancia amiga.
         - largo plazo: actividades de moderación en activitypub?
+    - compartiendo actividad de moderación con criterios comunes para construir espacios más seguros y humanos
+        - cuenta designada para consumo programático?
 
 ## [[2024-11-01]]
 - Attending: [[edumerco]] [[flancian]]
