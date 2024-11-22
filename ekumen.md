@@ -35,6 +35,11 @@
         - largo plazo: actividades de moderación en activitypub?
     - compartiendo actividad de moderación con criterios comunes para construir espacios más seguros y humanos
         - cuenta designada para consumo programático?
+- Formas de optimizar procesos de moderación
+    - toda la información necesaria para evaluar un reporte en un lugar (incluido el post!)
+        - -> FR para Mastodon?
+    - automod + confirmación a posteriori
+        - puede ser script
 
 ## [[2024-11-01]]
 - Attending: [[edumerco]] [[flancian]]
