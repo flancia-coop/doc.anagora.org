@@ -16,7 +16,9 @@
 ## [[2024-11-22]]
 - Attending: [[edumerco]] [[flancian]]
 - Check ins
-    - 
+    - Dinámica de comunidad
+        - Axiomas, compartidos o no
+    - Post-enfermedad
 
 ## [[2024-11-01]]
 - Attending: [[edumerco]] [[flancian]]
