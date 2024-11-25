@@ -22,8 +22,9 @@
 
 ## 2024-11-25
 
-- Here: [[Dan]] [[Flancian]] ?
+- Here: [[Dan]] [[Edsu]] [[Flancian]]
 - Check ins
+    - [[Dan]] moving jobs, excited; role is similar but maybe a bit more constrained/tighter scoped
 - Priorities
     - Backups and restores
         - DB size
