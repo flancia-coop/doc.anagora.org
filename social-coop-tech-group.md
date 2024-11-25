@@ -42,7 +42,7 @@ https://docs.google.com/spreadsheets/d/1h_gEnVagTZJi0WYWZE9oOKVYIM2WIGnpDHAolDIt
          - What we want:
              - [ ] Delegate social.coop cloudflare access to Andrew's account?
          - What we have already done:
-             - trasnfered acDelegated access to Gandhi to TWG 
+             - trasnfered domain/Gandhi access to TWG; delegated access to TWG (admin@ and andrewe@) and FWG (andrewe@)
         
 ## 2024-11-04
 - Here: [[Dan]] [[Flancian]]
