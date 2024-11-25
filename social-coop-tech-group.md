@@ -16,9 +16,11 @@
         - Ed: https://docs.joinmastodon.org/admin/troubleshooting/index-corruption/ is a thing
             - -> doesn't affect us as per ldd --version (we're past 2.28)
         - Upgrade kernel first?
-    - Spam wave
+           - done, ran apt-get update && apt-get dist-upgrade first
+        - Reboot done! 
     - Backups and restores
         - DB size
+            - vacuum
     - alpha.social.coop
         - Next step here is still to choose a VPS size/configuration in iocoop.org
         - Maybe decouple from instance restore question in the following way
