@@ -22,6 +22,8 @@
         - DB size
             - vacuum didn't succeed yet for lack of space
         - https://docs.joinmastodon.org/admin/tootctl/#statuses-remove
+        - Trying this first with a very high threshold:
+            - `sudo docker exec -it docker-web-1 tootctl statuses remove --days 2500`
     - alpha.social.coop
         - Next step here is still to choose a VPS size/configuration in iocoop.org
         - Maybe decouple from instance restore question in the following way
