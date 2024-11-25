@@ -1,3 +1,29 @@
+
+
+## 2024-11-25
+
+- Here: [[Dan]] [[Edsu]] [[Flancian]]
+- Check ins
+    - [[Dan]] moving jobs, excited; role is similar but maybe a bit more constrained/tighter scoped
+    - [[Ed]] doing alright; coping with the changes that are upcoming
+        - [[EDGI]] and related efforts for preserving government-provided datasets; thinking of helping out with such efforts
+        - [[Dan]]: https://source.opennews.org/articles/data-rescue/
+        - Some government sites are being exported to notion pages (!)
+            - -> https://github.com/edgi-govdata-archiving/rule-scout
+    - [[Eduardo]]: listening to Milei with Lex Fridman as of late (!)
+- Priorities
+    - Rebooting
+        - Ed: https://docs.joinmastodon.org/admin/troubleshooting/index-corruption/ is a thing
+            - -> doesn't affect us as per ldd --version (we're past 2.28)
+        - Upgrade kernel first?
+    - Backups and restores
+        - DB size
+    - alpha.social.coop
+        - Next step here is still to choose a VPS size/configuration in iocoop.org
+        - Maybe decouple from instance restore question in the following way
+            - We could 'cook' a db restore that incorporates all tables but skips >90% of history, bringing down db size to something more manageable in a small instance?
+     - Andrew's password store access
+        
 ## 2024-11-04
 - Here: [[Dan]] [[Flancian]]
 - Check ins
@@ -19,31 +45,6 @@
         - iftas thread https://connect.iftas.org/forums/discussion/spam-wave-2024-11-04/
     - storage footprint / database size
 
-
-## 2024-11-25
-
-- Here: [[Dan]] [[Edsu]] [[Flancian]]
-- Check ins
-    - [[Dan]] moving jobs, excited; role is similar but maybe a bit more constrained/tighter scoped
-    - [[Ed]] doing alright; coping with the changes that are upcoming
-        - [[EDGI]] and related efforts for preserving government-provided datasets; thinking of helping out with such efforts
-        - [[Dan]]: https://source.opennews.org/articles/data-rescue/
-        - Some government sites are being exported to notion pages (!)
-            - -> https://github.com/edgi-govdata-archiving/rule-scout
-    - [[Eduardo]]: listening to Milei with Lex Fridman as of late (!)
-- Priorities
-    - Rebooting
-        - Ed: https://docs.joinmastodon.org/admin/troubleshooting/index-corruption/ is a thing
-            - -> doesn't affect us as per ldd --version (we're past 2.28)
-    - Backups and restores
-        - DB size
-    - alpha.social.coop
-        - Next step here is still to choose a VPS size/configuration in iocoop.org
-        - Maybe decouple from instance restore question in the following way
-            - We could 'cook' a db restore that incorporates all tables but skips >90% of history, bringing down db size to something more manageable in a small instance?
-    - Reboot
-        - Upgrade kernel first?
-        
 ## 2024-10-07
 - Here: [[Dan]] [[Flancian]] [[Calix]]
 - Check ins
