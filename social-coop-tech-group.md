@@ -27,7 +27,9 @@
     - [[Dan]] moving jobs, excited; role is similar but maybe a bit more constrained/tighter scoped
     - [[Ed]] doing alright; coping with the changes that are upcoming
         - [[EDGI]] and related efforts for preserving government-provided datasets; thinking of helping out with such efforts
-        
+        - [[Dan]]: https://source.opennews.org/articles/data-rescue/
+        - Some government sites are being exported to notion pages (!)
+    - [[Eduardo]]: listening to Milei with Lex Fridman as of late (!)
 - Priorities
     - Backups and restores
         - DB size
