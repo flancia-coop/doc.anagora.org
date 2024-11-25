@@ -40,8 +40,9 @@ https://docs.google.com/spreadsheets/d/1h_gEnVagTZJi0WYWZE9oOKVYIM2WIGnpDHAolDIt
          - It would be ideal to add delegated access whenever we have that (e.g. when the provider has that abstraction)
              - Cloudflare actually supports this
          - What we want:
-             - Delegate social.coop cloudflare access to Andrew's account?
-             
+             - [ ] Delegate social.coop cloudflare access to Andrew's account?
+         - What we have already done:
+             - trasnfered acDelegated access to Gandhi to TWG 
         
 ## 2024-11-04
 - Here: [[Dan]] [[Flancian]]
