@@ -41,7 +41,7 @@ https://docs.google.com/spreadsheets/d/1h_gEnVagTZJi0WYWZE9oOKVYIM2WIGnpDHAolDIt
              - Cloudflare actually supports this
          - What we want:
              - [ ] Delegate social.coop cloudflare access to Andrew's account?
-             - 
+             - [ ] Document somewhere (e.g. in the README of the pass repo) who has delegated access to what (beyond what access to the pass store grants directly)
          - What we have already done:
              - trasnfered domain/Gandhi access to TWG; delegated access to TWG (admin@ and andrewe@) and FWG (andrewe@)
         
