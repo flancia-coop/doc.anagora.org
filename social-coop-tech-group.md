@@ -38,6 +38,10 @@ https://docs.google.com/spreadsheets/d/1h_gEnVagTZJi0WYWZE9oOKVYIM2WIGnpDHAolDIt
          - On the loomio access poll: https://www.loomio.com/d/jrbG5tue/server-access/106
          - Do we need that? Given that other people already have access to some of the coop's admin resources without being part of the TWG group
          - It would be ideal to add delegated access whenever we have that (e.g. when the provider has that abstraction)
+             - Cloudflare actually supports this
+         - What we want:
+             - Delegate social.coop cloudflare access to Andrew's account?
+             
         
 ## 2024-11-04
 - Here: [[Dan]] [[Flancian]]
