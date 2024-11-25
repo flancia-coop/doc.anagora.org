@@ -35,6 +35,8 @@
 https://docs.google.com/spreadsheets/d/1h_gEnVagTZJi0WYWZE9oOKVYIM2WIGnpDHAolDItBz4/edit?gid=627262930#gid=627262930
      - Andrew's password store access
          - Or the delegated access question
+         - On the loomio access poll: https://www.loomio.com/d/jrbG5tue/server-access/106
+         - Do we need that
         
 ## 2024-11-04
 - Here: [[Dan]] [[Flancian]]
