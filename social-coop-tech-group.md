@@ -26,6 +26,8 @@
 - Check ins
     - [[Dan]] moving jobs, excited; role is similar but maybe a bit more constrained/tighter scoped
     - [[Ed]] doing alright; coping with the changes that are upcoming
+        - [[EDGI]] and related efforts for preserving government-provided datasets; thinking of helping out with such efforts
+        
 - Priorities
     - Backups and restores
         - DB size
