@@ -28,9 +28,12 @@
     - Backups and restores
         - DB size
     - alpha.social.coop
+        - Next step here is still to choose a VPS size/configuration in iocoop.org
         - Maybe decouple from instance restore question in the following way
             - We could 'cook' a db restore that incorporates all tables but skips >90% of history, bringing down db size to something more manageable in a small instance?
-        - Next step here is still to choose a VPS size/configuration in 
+    - Reboot
+        - Upgrade kernel first?
+        
 ## 2024-10-07
 - Here: [[Dan]] [[Flancian]] [[Calix]]
 - Check ins
