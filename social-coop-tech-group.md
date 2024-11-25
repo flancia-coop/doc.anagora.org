@@ -29,8 +29,8 @@
         - Maybe decouple from instance restore question in the following way
             - We could 'cook' a db restore that incorporates all tables but skips >90% of history, bringing down db size to something more manageable in a small instance?
      - Hosting costs 
-         - Let's let the FWG cost what we're taking on
-         - And also make
+         - Let the FWG cost what we're taking on (to budget for 2025)
+         - And also try to move to a model in which we 1. have a good relationship with our hosting providers, which invoice us ideally on a known cadence and 2. have reduced risk of service disruption.
      - Andrew's password store access
          - Or the delegated access question
         
