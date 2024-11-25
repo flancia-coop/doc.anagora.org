@@ -19,6 +19,18 @@
         - iftas thread https://connect.iftas.org/forums/discussion/spam-wave-2024-11-04/
     - storage footprint / database size
 
+
+## 2024-11-25
+
+- Here: [[Dan]] [[Flancian]] ?
+- Check ins
+- Priorities
+    - Backups and restores
+        - DB size
+    - alpha.social.coop
+        - Maybe decouple from instance restore question in the following way
+            - We could 'cook' a db restore that incorporates all tables but skips >90% of history, bringing down db size to something more manageable in a small instance?
+        - Next step here is still to choose a VPS size/configuration in 
 ## 2024-10-07
 - Here: [[Dan]] [[Flancian]] [[Calix]]
 - Check ins
