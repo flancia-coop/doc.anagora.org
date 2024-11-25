@@ -25,7 +25,7 @@
 - Here: [[Dan]] [[Edsu]] [[Flancian]]
 - Check ins
     - [[Dan]] moving jobs, excited; role is similar but maybe a bit more constrained/tighter scoped
-    - [[Ed]] doing alright
+    - [[Ed]] doing alright; coping with the changes that are upcoming
 - Priorities
     - Backups and restores
         - DB size
