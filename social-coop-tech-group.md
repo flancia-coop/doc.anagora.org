@@ -29,6 +29,7 @@
         - [[EDGI]] and related efforts for preserving government-provided datasets; thinking of helping out with such efforts
         - [[Dan]]: https://source.opennews.org/articles/data-rescue/
         - Some government sites are being exported to notion pages (!)
+            - -> https://github.com/edgi-govdata-archiving/rule-scout
     - [[Eduardo]]: listening to Milei with Lex Fridman as of late (!)
 - Priorities
     - Backups and restores
