@@ -30,6 +30,7 @@
             - We could 'cook' a db restore that incorporates all tables but skips >90% of history, bringing down db size to something more manageable in a small instance?
      - Hosting costs 
          - Let's let the FWG cost what we're taking on
+         - And also make
      - Andrew's password store access
          - Or the delegated access question
         
