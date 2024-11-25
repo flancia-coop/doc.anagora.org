@@ -31,6 +31,8 @@
      - Hosting costs 
          - Let the FWG cost what we're taking on (to budget for 2025)
          - And also try to move to a model in which we 1. have a good relationship with our hosting providers, which invoice us ideally on a known cadence and 2. have reduced risk of service disruption.
+         - Dan: spreadsheet with different hosting costs, but it's partly how we chose iocoop: 
+https://docs.google.com/spreadsheets/d/1h_gEnVagTZJi0WYWZE9oOKVYIM2WIGnpDHAolDItBz4/edit?gid=627262930#gid=627262930
      - Andrew's password store access
          - Or the delegated access question
         
