@@ -28,7 +28,10 @@
         - Next step here is still to choose a VPS size/configuration in iocoop.org
         - Maybe decouple from instance restore question in the following way
             - We could 'cook' a db restore that incorporates all tables but skips >90% of history, bringing down db size to something more manageable in a small instance?
+     - Hosting costs 
+         - Let's let the FWG cost what we're taking on
      - Andrew's password store access
+         - Or the delegated access question
         
 ## 2024-11-04
 - Here: [[Dan]] [[Flancian]]
