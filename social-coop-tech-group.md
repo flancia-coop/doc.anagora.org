@@ -16,6 +16,7 @@
         - Ed: https://docs.joinmastodon.org/admin/troubleshooting/index-corruption/ is a thing
             - -> doesn't affect us as per ldd --version (we're past 2.28)
         - Upgrade kernel first?
+    - Spam wave
     - Backups and restores
         - DB size
     - alpha.social.coop
