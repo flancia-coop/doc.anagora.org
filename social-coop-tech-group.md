@@ -20,7 +20,8 @@
         - Reboot done! 
     - Backups and restores
         - DB size
-            - vacuum
+            - vacuum didn't succeed yet for lack of space
+        - https://docs.joinmastodon.org/admin/tootctl/#statuses-remove
     - alpha.social.coop
         - Next step here is still to choose a VPS size/configuration in iocoop.org
         - Maybe decouple from instance restore question in the following way
