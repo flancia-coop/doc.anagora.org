@@ -21,6 +21,7 @@
         - [[Appreciative interviews]]
         - [[comunicación]] y [[co-cuidado digital]]
         - Found common patterns across three different organizations
+        - Gradientes de: confianza y control; herramientas y estrategias
 
 
 ## [[2024-11-22]]
