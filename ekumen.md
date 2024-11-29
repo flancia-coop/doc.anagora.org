@@ -19,6 +19,8 @@
     - Flan: Lighter work week due to thanksgiving meaning the US is out :)
     - Edu: Interesting research regarding community infrastructure, rights advocacy
         - [[Appreciative interviews]]
+        - [[comunicación]] y [[co-cuidado digital]]
+        - Found common patterns across three different organizations
 
 
 ## [[2024-11-22]]
