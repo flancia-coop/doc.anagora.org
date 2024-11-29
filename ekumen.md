@@ -16,7 +16,9 @@
 ## [[2024-11-29]]
 - Attending: [[edumerco]] [[flancian]]
 - Check ins
-    - W
+    - Flan: Lighter work week due to thanksgiving meaning the US is out :)
+    - Edu: Interesting research regarding community infrastructure, rights advocacy
+        - [[Appreciative interviews]]
 
 
 ## [[2024-11-22]]
