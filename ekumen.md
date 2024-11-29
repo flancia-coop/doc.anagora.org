@@ -23,6 +23,7 @@
         - Found common patterns across three different organizations
         - Gradientes de: confianza y control; herramientas y estrategias
 - Gradientes y el Ekumen
+    - [[autopoiesis]]
 
 
 ## [[2024-11-22]]
