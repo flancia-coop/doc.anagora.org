@@ -24,6 +24,9 @@
         - Gradientes de: confianza y control; herramientas y estrategias
 - Gradientes y el Ekumen
     - [[autopoiesis]]
+    - métricas de conectividad entre instancias
+    - feeds de moderación
+    
 
 
 ## [[2024-11-22]]
