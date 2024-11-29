@@ -13,6 +13,12 @@
 - Where to go from here
 
 
+## [[2024-11-29]]
+- Attending: [[edumerco]] [[flancian]]
+- Check ins
+    - W
+
+
 ## [[2024-11-22]]
 - Attending: [[edumerco]] [[flancian]]
 - Check ins
