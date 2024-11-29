@@ -28,6 +28,10 @@
     - métricas de conectividad entre instancias
     - feeds de moderación
         - spam.rss
+        - abuse.rss
+        - etc.
+- Sutty
+    - [[massive wiki]] link
 
 
 ## [[2024-11-22]]
