@@ -22,6 +22,7 @@
         - [[comunicación]] y [[co-cuidado digital]]
         - Found common patterns across three different organizations
         - Gradientes de: confianza y control; herramientas y estrategias
+- Gradientes y el Ekumen
 
 
 ## [[2024-11-22]]
