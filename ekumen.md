@@ -34,6 +34,7 @@
         - etc.
     - feeds de coordinación
         - covenant.rss
+        - rules.rss?
 - Sutty
     - [[massive wiki]] link
         - [[massive wiki builder]] ~ [[massive builder]]
