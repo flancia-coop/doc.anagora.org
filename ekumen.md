@@ -26,6 +26,7 @@
 - Gradientes y el Ekumen
     - [[autopoiesis]]
     - métricas de conectividad entre instancias
+        - basadas en la conectividad real del grafo social
     - feeds de moderación
         - spam.rss
         - abuse.rss
