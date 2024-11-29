@@ -34,6 +34,7 @@
 - Sutty
     - [[massive wiki]] link
         - [[massive wiki builder]] ~ [[massive builder]]
+- Para [[laburar]] en conjunto: https://miro.com/app/board/uXjVL-azEBw=/
 
 
 ## [[2024-11-22]]
