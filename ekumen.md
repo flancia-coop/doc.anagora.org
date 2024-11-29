@@ -35,6 +35,8 @@
     - feeds de coordinación
         - covenant.rss
         - rules.rss?
+    - budas y bouncers
+    - streams estrictos y laxos
 - Sutty
     - [[massive wiki]] link
         - [[massive wiki builder]] ~ [[massive builder]]
