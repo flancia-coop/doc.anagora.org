@@ -22,11 +22,12 @@
         - [[comunicación]] y [[co-cuidado digital]]
         - Found common patterns across three different organizations
         - Gradientes de: confianza y control; herramientas y estrategias
+        - Documentación de best practices para reducir vulnerabilidad
 - Gradientes y el Ekumen
     - [[autopoiesis]]
     - métricas de conectividad entre instancias
     - feeds de moderación
-    
+        - spam.rss
 
 
 ## [[2024-11-22]]
