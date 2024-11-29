@@ -32,6 +32,7 @@
         - etc.
 - Sutty
     - [[massive wiki]] link
+        - [[massive wiki builder]] ~ [[massive builder]]
 
 
 ## [[2024-11-22]]
