@@ -32,6 +32,8 @@
         - spam.rss
         - abuse.rss
         - etc.
+    - feeds de coordinación
+        - covenant.rss
 - Sutty
     - [[massive wiki]] link
         - [[massive wiki builder]] ~ [[massive builder]]
