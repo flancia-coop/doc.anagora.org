@@ -27,6 +27,7 @@
     - [[autopoiesis]]
     - métricas de conectividad entre instancias
         - basadas en la conectividad real del grafo social
+        - y los eventos de moderación
     - feeds de moderación
         - spam.rss
         - abuse.rss
