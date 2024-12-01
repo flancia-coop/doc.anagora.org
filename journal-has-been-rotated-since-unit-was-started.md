@@ -1,1 +1,1 @@
-I'm busy right now, try again later.
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.

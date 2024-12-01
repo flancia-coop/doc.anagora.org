@@ -1,1 +1,1 @@
-I'm busy right now, try again later.
+- They seem to be the [[centered hexagonal numbers]] which are also prime :)

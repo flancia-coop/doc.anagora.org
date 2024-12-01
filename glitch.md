@@ -1,1 +1,1 @@
-I'm busy right now, try again later.
+[[glitch in css]]: https://dustri.org/b/glitch-effect-on-text-in-pure-css.html
