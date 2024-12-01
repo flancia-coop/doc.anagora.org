@@ -1,1 +1,1 @@
-- #go https://somafm.com/player/#/now-playing/defcon
+I'm busy right now, try again later.
