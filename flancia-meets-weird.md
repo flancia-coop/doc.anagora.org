@@ -84,3 +84,5 @@
             - [[nutshell]]: https://ncase.me/nutshell/
 - [[Knowledge Base]] [[Neno]]: https://polyrainbow.github.io/neno
 - [[Agora]]
+    - aggregator
+    - prosocial approach
