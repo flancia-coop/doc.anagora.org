@@ -7,8 +7,11 @@
 - Check ins
     - Political background
     - Ivan: doing well, happy to go through this together and looking forward to discussing the Ekumen and progress in Bonfire
-    - Eduardo: tired but happy :) Many things going on
+    - Eduardo: tired but happy :) Many things going on, good and not so good, but have decided that the not so good can't take away from the overall wellbeing infinitely.
+    - Flan: happy to be here, taking a break from corporate environment. Looking forward also to discussing Ekumen and Bonfire.
+- 
 - Why we're here
+    - 
 - What we've thought of, done so far
     - Documentation and other shared artifacts
     - https://miro.com/app/board/uXjVL-azEBw=/
