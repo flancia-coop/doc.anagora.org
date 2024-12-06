@@ -61,6 +61,9 @@
                     - [[fission]] ~ fission.codes tried to build something similar but folded recently
             - A2: it's the previous plus it has a social aspect, indexing/cross-linking layer
             - Weird is [[open source]]; there's a non-commercial license on the web app.
+        - Q: do you know about [[solid]] by [[tbl]]?
+            - A: a little bit but we haven't delved into the tech.
+                - Have heard: RDF can be heavyweight. It also seemed very "enterprise focus
 - [[Weird one]]
 - [[Mycoverse]]
 - [[Agora]]
