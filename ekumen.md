@@ -49,6 +49,7 @@
     - Ivan: makes sense. We can leverage e.g. shared diffusion opportunities like blog posts.
     - Ivan: on bounties for Bonfire and attracting contributors.
         - Main goal is to release 1.0 and prove that Bonfire is a NG framework. Next April!
+        - We can now develop iOS and Android applications with Elixir; [[LiveViewNative]].
 - Tooling and technical ideas
   - Starting ideas
     - Publishing moderation events as activities
