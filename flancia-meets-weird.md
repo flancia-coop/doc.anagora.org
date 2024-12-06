@@ -50,7 +50,12 @@
             - [[Leaf]] grew out organically out of our requirements
         - Q: what is weird? :) 
             - A: depends on the audience.
-            - A0: weird is the easiest way of having a 
+            - A0: weird is the easiest way of having a personal website.
+            - A1: it's an offline data store with synchronization, and a way to publish websites from it.
+                - all the data is eventually consistent and can be sync'd p2p
+                - side notes:
+                    - ipfs?
+                    - fission?
 - [[Weird one]]
 - [[Mycoverse]]
 - [[Agora]]
