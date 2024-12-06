@@ -66,4 +66,6 @@
                 - Have heard: RDF can be heavyweight. It also seemed very "enterprise focused".
                 - [[bouncepaw]]: tried to understand it with their specification and failed; activitypub spec is much better. Like the idea of pods though.
 - [[Mycoverse]]
+    - [[Mycomarkup]] -- think [[Markdown]] but better ;)
+    - [[Mycorrhiza]] -- a [[wiki engine]], close to what I call classic wiki engines
 - [[Agora]]
