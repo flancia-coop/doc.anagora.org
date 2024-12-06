@@ -57,7 +57,7 @@
                     - [[loro.dev]] might be integrated in the future, it's a [[crdt]]
                 - side notes:
                     - ipfs?
-                    - [[fission]]?
+                    - [[fission]] ~ fission.codes tried to build something similar but folded recently
 - [[Weird one]]
 - [[Mycoverse]]
 - [[Agora]]
