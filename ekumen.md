@@ -34,8 +34,11 @@
         - We believe in co-designing with the community of users.
         - **Have had conversations with [[Erin Kissane]], collaborating with us to release a version of boundaries/circles but also to explore how to implement governance features. She would probably be interested.**
         - Also a conversation with [[X]] from [[PolicyKit]].
-            - And the new CTO 
+            - Q: Who? Amy Zhang
+            - Thanks!
+        - And the new CTO of [[OpenCollective]], since they are now more decentralized they were considering tools for distributed governance.
         - Intrigued by e.g. [[archipielago]], [[opt-in]] moderation models
+        - Q: let's assume we're using Bonfire to discuss these topics, but the concrete rules for moderation 
         
 - Tooling and technical ideas
   - Starting ideas
