@@ -63,7 +63,7 @@
             - Weird is [[open source]]; there's a non-commercial license on the web app.
         - Q: do you know about [[solid]] by [[tbl]]?
             - A: a little bit but we haven't delved into the tech.
-                - Have heard: RDF can be heavyweight. It also seemed very "enterprise focus
-- [[Weird one]]
+                - Have heard: RDF can be heavyweight. It also seemed very "enterprise focused".
+                - [[bouncepaw]]: tried to understand it with their specification and failed; activitypub spec is much better. Like the idea of pods though.
 - [[Mycoverse]]
 - [[Agora]]
