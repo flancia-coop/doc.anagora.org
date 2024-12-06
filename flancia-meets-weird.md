@@ -79,5 +79,6 @@
         - [[block protocol]]
         - intermediate representations
         - [[standoff annotations]] related to [[facets]]: https://scalingsynthesis.com/standoff-annotation/
-            - se
+            - seems related to [[xanadu]]
+                - which also yielded e.g. [[transclusion]]
 - [[Agora]]
