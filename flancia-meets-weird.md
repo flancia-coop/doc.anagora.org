@@ -29,7 +29,6 @@
                 - Would like to make it so that you can replicate all your data using your browser only
                     - Q: with local storage? some other arch?
                     - IndexDB plus P2P using WASM
-                    - P2P
             - We want to [[bring back user agency]] by making it easy enough for normal people.
                 - Side note: know of some projects like [[sutty]] which are in a similar space.
             - Q: is money still a motivator/topic?
