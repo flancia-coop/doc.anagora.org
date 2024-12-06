@@ -1,7 +1,12 @@
 ## [[2024-12-06]]
 - Attending: [[zicklag]] [[bouncepaw]] [[flancian]] 
 - Greetings!
+    - [[Zicklag]] it looks like we're doing similar stuff/playing with similar things.
+    - [[Flancian]] looking forward as well!
+    - [[Bouncepaw]] +1, let's start with intros
 - Check ins
+    - [[bouncepaw]]: computer science student in Russia, finishing a degree soon; golang dev, switching jobs in a week. Doing open source for some time. Two projects: mycorrhiza and betula, we can discuss them later.
+    - [[Zicklag]]: 
 - [[Weird one]]
 - [[Mycoverse]]
 - [[Agora]]
