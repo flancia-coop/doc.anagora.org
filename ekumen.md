@@ -29,9 +29,14 @@
             - Need to test interop with [[gotosocial]], which has reply control.
             - Access roles (sp?) linked to actions: what a user can and cannot do.
                 - This lets you specify who can do what in your activities (reply, boost, edit!).
-            - Question: can we create rules like "with 2 people of this circle the pro"
+            - Question: can we create rules like "with 2 people of this circle and no objection in 7 days, the proposal passes?"
+                - Yes, this is exactly the kind of scope.
         - We believe in co-designing with the community of users.
-        - 
+        - **Have had conversations with [[Erin Kissane]], collaborating with us to release a version of boundaries/circles but also to explore how to implement governance features. She would probably be interested.**
+        - Also a conversation with [[X]] from [[PolicyKit]].
+            - And the new CTO 
+        - Intrigued by e.g. [[archipielago]], [[opt-in]] moderation models
+        
 - Tooling and technical ideas
   - Starting ideas
     - Publishing moderation events as activities
