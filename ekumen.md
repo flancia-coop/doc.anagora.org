@@ -12,6 +12,7 @@
 - Why we're here
     - Eduardo: in the [[mydata]] board. Would like to think going forward on how we can build synergy between several projects in this space; organizations like mydata.org are interested in shifting more towards the Fediverse.
 - What we've thought of, done so far here under the Ekumen banner
+    - Focus on [[governance]] and [[tooling]]
     - [[Eduardo]] on how we got here
         - Anti-meta [[Fedipact]] took place in the Fediverse last year
         - Led us to think: instead of taking this 'anti' stance, why don't we try a positive approach: let's define a basic set of values that instances can endorse.
@@ -19,10 +20,12 @@
         - [[UFOI]] and [[archipielago]] movements
         - [[IFTAS]]
     - Sharing moderation burden between instances
-    - Publishing moderation events as activities
-    - Affinity/levels of trust between instances
+        - And in general develop tools for enabling better and cheaper moderation
+    - Starting ideas
+        - Publishing moderation events as activities
+        - Affinity/levels of trust between instances
     - Documentation and other shared artifacts
-    - https://miro.com/app/board/uXjVL-azEBw=/
+        - https://miro.com/app/board/uXjVL-azEBw=/
 - Bonfire roadmap
     - Updates from [[bonfire]]
 - Information sharing about related projects and goings on
