@@ -5,9 +5,13 @@
 ## [[2024-12-06]]
 - Attending: [[Ivan]] [[Eduardo Mercovich]] [[Flancian]] ...
 - Check ins
+    - Political background
+    - Ivan: doing well, happy to go through this together and looking forward to discussing the Ekumen and progress in Bonfire
+    - Eduardo: tired but happy :) Many things going on
 - Why we're here
 - What we've thought of, done so far
     - Documentation and other shared artifacts
+    - https://miro.com/app/board/uXjVL-azEBw=/
 - Other projects in this space
 - Other people who might be interested in this project or any adjacent
 - Where to go from here
