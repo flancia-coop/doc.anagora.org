@@ -33,7 +33,7 @@
                 - Yes, this is exactly the kind of scope.
         - We believe in co-designing with the community of users.
         - **Have had conversations with [[Erin Kissane]], collaborating with us to release a version of boundaries/circles but also to explore how to implement governance features. She would probably be interested.**
-        - 2 points: Ekumen tries to be tool agnostic + ... 
+        - 2 points: Ekumen tries to be tool agnostic + once designed, search funds to develop. 
         - Also a conversation with [[X]] from [[PolicyKit]].
             - Q: Who? Amy Zhang
             - Thanks!
@@ -44,6 +44,8 @@
             - **The architecture of Bonfire makes possible that everything and any activity can be threaded.**
             - Q: community annotations?
                 - A: https://bonfirenetworks.org/posts/content_labelling_in_bonfire/
+  - Edu: the Ekumen wants to be implementation-agnostic as much as possible, we'd like to be able to add value for communities using all of Bonfire/Mastodon/Pleroma/etc.
+    - Would like to focus on design work first, then s
 - Tooling and technical ideas
   - Starting ideas
     - Publishing moderation events as activities
