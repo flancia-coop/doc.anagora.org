@@ -73,5 +73,7 @@
         - Q: so this is server based and published with activitypub?
             - A: yes.
     - Was thinking of how to integrate with [[weird]]
-        - Could use weird as databs
+        - Could use weird as database/storage
+        - Weird could consume betula streams
+        - Zicklag: facets in atproto and the link to e.g. supporting multiple markup languages.
 - [[Agora]]
