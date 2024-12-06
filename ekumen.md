@@ -22,13 +22,16 @@
         - [[IFTAS]]
     - Sharing moderation burden between instances
         - And in general develop tools for enabling better and cheaper moderation
-    - Starting ideas
-        - Publishing moderation events as activities
+- Bonfire roadmap
+    - Updates from [[bonfire]]
+    - [[Ivan]]: Bonfire is approaching this space as a set of extensions. We want to ensure Bonfire is safe and moderated bottom-up.
+        - 1.0 had a lot of effort towards bottom-up fine-grained moderation. 
+- Tooling and technical ideas
+  - Starting ideas
+    - Publishing moderation events as activities
         - Affinity/levels of trust between instances
     - Documentation and other shared artifacts
         - https://miro.com/app/board/uXjVL-azEBw=/
-- Bonfire roadmap
-    - Updates from [[bonfire]]
 - Information sharing about related projects and goings on
     - Other projects in this space
     - Other people who might be interested in this project or any adjacent
