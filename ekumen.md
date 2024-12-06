@@ -33,14 +33,15 @@
                 - Yes, this is exactly the kind of scope.
         - We believe in co-designing with the community of users.
         - **Have had conversations with [[Erin Kissane]], collaborating with us to release a version of boundaries/circles but also to explore how to implement governance features. She would probably be interested.**
+        - 2 points: Ekumen tries to be tool agnostic + ... 
         - Also a conversation with [[X]] from [[PolicyKit]].
             - Q: Who? Amy Zhang
             - Thanks!
         - And the new CTO of [[OpenCollective]], since they are now more decentralized they were considering tools for distributed governance.
         - Intrigued by e.g. [[archipielago]], [[opt-in]] moderation models
         - Q: let's assume we're using Bonfire to discuss these topics, could we express rules and moderation actions in both computer-readable and human-readable ways?
-            - A (Ivan): wouldn't rush to answer this, as I have to still read e.g. how the internals of [[PolicyKit]] work. They have their own UI, so reviewing their UI could give us guidance here.
-        
+            - A (Ivan): wouldn't rush to answer this, as I have to still read e.g. how the internals of [[PolicyKit]] work. They have their own UI, so reviewing their UI could give us guidance here. Bonfire is intending on publishing PolicyKit actions as activities.
+            - **The architecture of Bonfire makes possible that everything and any activity can be threaded.**
 - Tooling and technical ideas
   - Starting ideas
     - Publishing moderation events as activities
