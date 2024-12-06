@@ -14,7 +14,10 @@
 - What we've thought of, done so far here under the Ekumen banner
     - [[Eduardo]] on how we got here
         - Anti-meta [[Fedipact]] took place in the Fediverse last year
-        - Led us to think: instead of taking this 'anti' stance, why don't we try a positive approach: let's define a basic set of values that inst
+        - Led us to think: instead of taking this 'anti' stance, why don't we try a positive approach: let's define a basic set of values that instances can endorse.
+        - [[Fediversalist papers]]
+        - [[UFOI]] and [[archipielago]] movements
+        - [[IFTAS]]
     - Sharing moderation burden between instances
     - Publishing moderation events as activities
     - Affinity/levels of trust between instances
