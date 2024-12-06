@@ -47,7 +47,10 @@
             - Hoping for an MVP by the end of December
                 - almost there with billing
                 - web designer helping out
-            - [[Leaf]] grew out of 
+            - [[Leaf]] grew out organically out of our requirements
+        - Q: what is weird? :) 
+            - A: depends on the audience.
+            - A0: weird is the easiest way of having a 
 - [[Weird one]]
 - [[Mycoverse]]
 - [[Agora]]
