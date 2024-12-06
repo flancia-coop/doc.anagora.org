@@ -25,7 +25,13 @@
 - Bonfire roadmap
     - Updates from [[bonfire]]
     - [[Ivan]]: Bonfire is approaching this space as a set of extensions. We want to ensure Bonfire is safe and moderated bottom-up.
-        - 1.0 had a lot of effort towards bottom-up fine-grained moderation. 
+        - 1.0 had a lot of effort towards bottom-up fine-grained moderation. We're using the concepts of circles and boundaries; implemented also in [[gotosocial]].
+            - Need to test interop with [[gotosocial]], which has reply control.
+            - Access roles (sp?) linked to actions: what a user can and cannot do.
+                - This lets you specify who can do what in your activities (reply, boost, edit!).
+            - Question: can we create rules like "with 2 people of this circle the pro"
+        - We believe in co-designing with the community of users.
+        - 
 - Tooling and technical ideas
   - Starting ideas
     - Publishing moderation events as activities
