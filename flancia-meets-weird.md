@@ -83,6 +83,10 @@
                 - which also yielded e.g. [[transclusion]]
             - [[nutshell]]: https://ncase.me/nutshell/
 - [[Knowledge Base]] [[Neno]]: https://polyrainbow.github.io/neno
-- [[Agora]]
+- [[Agora]]: https://anagora.org
     - aggregator
     - prosocial approach
+- Next steps
+    - We'll join the weird room :)
+    - Q: when will you work on ActivityPub integration?
+        - After the MVP but maybe earlier than 2026.
