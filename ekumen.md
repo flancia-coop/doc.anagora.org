@@ -38,7 +38,8 @@
             - Thanks!
         - And the new CTO of [[OpenCollective]], since they are now more decentralized they were considering tools for distributed governance.
         - Intrigued by e.g. [[archipielago]], [[opt-in]] moderation models
-        - Q: let's assume we're using Bonfire to discuss these topics, but the concrete rules for moderation 
+        - Q: let's assume we're using Bonfire to discuss these topics, could we express rules and moderation actions in both computer-readable and human-readable ways?
+            - A (Ivan): wouldn't rush to answer this, as I have to still read e.g. how the internals of [[PolicyKit]] work. 
         
 - Tooling and technical ideas
   - Starting ideas
