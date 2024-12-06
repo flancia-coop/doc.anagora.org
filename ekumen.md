@@ -11,17 +11,20 @@
     - Flan: happy to be here, taking a break from corporate environment. Looking forward also to discussing Ekumen and Bonfire.
 - Why we're here
     - Eduardo: in the [[mydata]] board. Would like to think going forward on how we can build synergy between several projects in this space; organizations like mydata.org are interested in shifting more towards the Fediverse.
-- Information sharing about related projects and goings on
-    - Other projects in this space
-    - Other people who might be interested in this project or any adjacent
-- Bonfire roadmap
-    - Updates from [[bonfire]]
 - What we've thought of, done so far here under the Ekumen banner
+    - [[Eduardo]] on how we got here
+        - Anti-meta [[Fedipact]] took place in the Fediverse last year
+        - Led us to think: instead of taking this 'anti' stance, why don't we try a positive approach: let's define a basic set of values that inst
     - Sharing moderation burden between instances
     - Publishing moderation events as activities
     - Affinity/levels of trust between instances
     - Documentation and other shared artifacts
     - https://miro.com/app/board/uXjVL-azEBw=/
+- Bonfire roadmap
+    - Updates from [[bonfire]]
+- Information sharing about related projects and goings on
+    - Other projects in this space
+    - Other people who might be interested in this project or any adjacent
 - Where to go from here
 
 
