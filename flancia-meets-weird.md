@@ -76,6 +76,8 @@
         - Could use weird as database/storage
         - Weird could consume betula streams
         - Zicklag: facets in atproto and the link to e.g. supporting multiple markup languages.
-        - []
+        - [[block protocol]]
+        - intermediate representations
         - [[standoff annotations]] related to [[facets]]: https://scalingsynthesis.com/standoff-annotation/
+            - se
 - [[Agora]]
