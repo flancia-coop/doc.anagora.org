@@ -37,6 +37,16 @@
                 - Q: do you know the prices of your competitors, e.g. linktree?
                     - A: good question.
             - Planning connectors so people can bring their data from other platforms.
+                - \o/
+                - intermediate data format
+                    - [[leaf]] everything has a schema and a spec
+                        - similar to rdf, or to atproto's lexikon
+                        - rdf was too granular
+                        - atproto is object-oriented-like
+                        - leaf is in thie 
+            - Hoping for an MVP by the end of December
+                - almost there with billing
+                - web designer helping out
 - [[Weird one]]
 - [[Mycoverse]]
 - [[Agora]]
