@@ -20,6 +20,9 @@
             - Akin to [[carrd]] to and [[link tree]]? 
             - [[Weird]] wants to [[bring back personal websites]]
                 - Side note: [[indieweb]] seems maybe related/affine
+                    - [[Zicklag]]: seen on the side but not totally got deep in it, would like to integrate as much as possible. Indieweb culture seems very developer-oriented.
+                    - +1. I know [[Chris Aldrich]] who is a proponent/could be intereting to meet.
+                    - Next iteration of [[web rings]] in this space.
                 - Want to make it very easy: sign up and you get a subdomain, you can choose which domain.
             - More domains in pockets
                 - Could then also facilitate making use of your own domain in new ways, e.g. get a bluesky user based on your domain
