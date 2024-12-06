@@ -42,6 +42,8 @@
         - Q: let's assume we're using Bonfire to discuss these topics, could we express rules and moderation actions in both computer-readable and human-readable ways?
             - A (Ivan): wouldn't rush to answer this, as I have to still read e.g. how the internals of [[PolicyKit]] work. They have their own UI, so reviewing their UI could give us guidance here. Bonfire is intending on publishing PolicyKit actions as activities.
             - **The architecture of Bonfire makes possible that everything and any activity can be threaded.**
+            - Q: community annotations?
+                - A: https://bonfirenetworks.org/posts/content_labelling_in_bonfire/
 - Tooling and technical ideas
   - Starting ideas
     - Publishing moderation events as activities
