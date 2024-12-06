@@ -13,7 +13,15 @@
             - Interested in community building.
             - Discord server approach is maybe a risk, as you can "lose" a community if you get kicked out
         - Links page generator
-            - Similar to [[cardd]]?
+            - Local first, take back your data
+                - Side note: 
+                    - [[twitter community archive]] by [[ex genesis]] is in a related space
+                    - [[moa]] and bridging
+            - Akin to [[carrd]] to and [[link tree]]?
+            - [[Weird]] wants to [[bring back personal websites]]
+                - Side note: [[indieweb]] seems ma
+                - Want to make it very easy: sign up and you get a subdomain, you can choose which domain.
+            - More domains in pockets
 - [[Weird one]]
 - [[Mycoverse]]
 - [[Agora]]
