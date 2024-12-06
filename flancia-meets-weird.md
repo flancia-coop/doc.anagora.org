@@ -68,4 +68,7 @@
 - [[Mycoverse]]
     - [[Mycomarkup]] -- think [[Markdown]] but better ;)
     - [[Mycorrhiza]] -- a [[wiki engine]], close to what I call classic wiki engines
+        - has [[interwiki]] capabilities
+    - [[Betula]]
+        - federates with [[ActivityPub]]
 - [[Agora]]
