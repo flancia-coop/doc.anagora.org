@@ -53,6 +53,7 @@
             - A0: weird is the easiest way of having a personal website.
             - A1: it's an offline data store with synchronization, and a way to publish websites from it.
                 - all the data is eventually consistent and can be sync'd p2p
+                    - [[willow]] defines the minimum semantics necessary to get synchronization to work
                 - side notes:
                     - ipfs?
                     - fission?
