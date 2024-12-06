@@ -32,8 +32,10 @@
             - We want to [[bring back user agency]] by making it easy enough for normal people.
                 - Side note: know of some projects like [[sutty]] which are in a similar space.
             - Q: is money still a motivator/topic?
-                - A: yes; we're planning on charging something like ~$50/y (15?) to unlock custom domains and some other features.
+                - A: yes; we're planning on charging something like ~$50/y to unlock custom domains and some other features.
                 - Storage requirements also drive that, e.g. through the [[leaf]] protocol (sp?)
+                - Q: do you know the prices of your competitors, e.g. linktree?
+                    - A: good question.
 - [[Weird one]]
 - [[Mycoverse]]
 - [[Agora]]
