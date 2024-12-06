@@ -66,9 +66,9 @@
                 - Have heard: RDF can be heavyweight. It also seemed very "enterprise focused".
                 - [[bouncepaw]]: tried to understand it with their specification and failed; activitypub spec is much better. Like the idea of pods though.
 - [[Mycoverse]]
-    - [[Mycomarkup]] -- a [[markup language]]think [[Markdown]] but better ;)
+    - [[Mycomarkup]] -- a [[markup language]]
     - [[Mycorrhiza]] -- a [[wiki engine]], close to what I call classic wiki engines
-        - has [[interwiki]] capabilities
+        - has [[interwiki]] capabilities, but it's not considered “federated”
     - [[Betula]] is federated link manager
         - Q: so this is server based and published with activitypub?
             - A: yes.
