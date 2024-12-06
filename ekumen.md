@@ -2,8 +2,8 @@
 
 - Meeting times: as per https://crab.fit/ekumen-152483
 
-## [[2024-11-XX]]
-- Attending: [[Matt Noyes]] [[Nathan Schneider]] [[Eduardo Mercovich]] [[Eduardo Ivanec]] ...
+## [[2024-12-06]]
+- Attending: [[Ivan]] [[Eduardo Mercovich]] [[Flancian]] ...
 - Check ins
 - Why we're here
 - What we've thought of, done so far
