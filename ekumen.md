@@ -60,6 +60,7 @@
         - Edu: on the relationship to [[IFTAS]]
             - (who want to move to Bonfire)
             - on getting feedback from other instances; knowing if suggested moderation actions were taking remotely and potentially "rewarding" the instance with a higher affinity/trust level.
+            - The Ekumen as an opt-in [[neighborhood]]
     - Documentation and other shared artifacts
         - https://miro.com/app/board/uXjVL-azEBw=/
 - Information sharing about related projects and goings on
