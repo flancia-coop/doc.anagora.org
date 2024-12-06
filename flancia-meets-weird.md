@@ -54,9 +54,10 @@
             - A1: it's an offline data store with synchronization, and a way to publish websites from it.
                 - all the data is eventually consistent and can be sync'd p2p
                     - [[willow]] defines the minimum semantics necessary to get synchronization to work
+                    - [[loro.dev]] might be integrated in the future, it's a [[crdt]]
                 - side notes:
                     - ipfs?
-                    - fission?
+                    - [[fission]]?
 - [[Weird one]]
 - [[Mycoverse]]
 - [[Agora]]
