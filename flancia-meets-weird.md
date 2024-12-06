@@ -69,6 +69,9 @@
     - [[Mycomarkup]] -- think [[Markdown]] but better ;)
     - [[Mycorrhiza]] -- a [[wiki engine]], close to what I call classic wiki engines
         - has [[interwiki]] capabilities
-    - [[Betula]]
-        - federates with [[ActivityPub]]
+    - [[Betula]] is federated link manager
+        - Q: so this is server based and published with activitypub?
+            - A: yes.
+    - Was thinking of how to integrate with [[weird]]
+        - Could use weird as databs
 - [[Agora]]
