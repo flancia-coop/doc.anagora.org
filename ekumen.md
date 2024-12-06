@@ -9,12 +9,14 @@
     - Ivan: doing well, happy to go through this together and looking forward to discussing the Ekumen and progress in Bonfire
     - Eduardo: tired but happy :) Many things going on, good and not so good, but have decided that the not so good can't take away from the overall wellbeing infinitely.
     - Flan: happy to be here, taking a break from corporate environment. Looking forward also to discussing Ekumen and Bonfire.
-- 
+- Agenda setting
+    - Information sharing
 - Why we're here
-    - 
+    - Eduardo: in the [[mydata]] board. Would like to think going forward on how we can build synergy between several projects in this space; organizations like mydata.org are interested in shifting more towards the Fediverse.
 - What we've thought of, done so far
     - Documentation and other shared artifacts
     - https://miro.com/app/board/uXjVL-azEBw=/
+- Updates from [[bonfire]]
 - Other projects in this space
 - Other people who might be interested in this project or any adjacent
 - Where to go from here
