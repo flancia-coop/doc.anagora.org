@@ -57,11 +57,15 @@
         - (Already discussed previously w.r.t. PolicyKit)
     - Affinity/levels of trust between instances
         - Bonfire doesn't support this directly, but through circles you could keep a list of moderators you trust from other instances. So this could be adapted into affinity level.
+        - Edu: on the relationship to [[IFTAS]]
+            - (who want to move to Bonfire)
+            - 
     - Documentation and other shared artifacts
         - https://miro.com/app/board/uXjVL-azEBw=/
 - Information sharing about related projects and goings on
     - Other projects in this space
     - Other people who might be interested in this project or any adjacent
+        - From the above: [[Erin Kissane]], [[Amy Zhang]], the CEO of OC
 - Where to go from here
 
 
