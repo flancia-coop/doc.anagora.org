@@ -9,6 +9,11 @@
     - [[Zicklag]]: been coding since I was 10 :) it runs in the family; dad is DBA/cloud architect/devops, learnt some stuff from him. With brother been exploring making video games. Met [[Erland]] in the Rust community, was playing with [[Haxe]] prior and moved to Rust for safety.
         - [[Fish folk]] jumpy game
             - Made own engine!
+        - Was then looking for something closer to a job :)
+            - Interested in community building.
+            - Discord server approach is maybe a risk, as you can "lose" a community if you get kicked out
+        - Links page generator
+            - Similar to [[cardd]]?
 - [[Weird one]]
 - [[Mycoverse]]
 - [[Agora]]
