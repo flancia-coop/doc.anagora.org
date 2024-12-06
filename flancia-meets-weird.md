@@ -59,7 +59,8 @@
                 - side notes:
                     - ipfs?
                     - [[fission]] ~ fission.codes tried to build something similar but folded recently
-            - A2: it has a social aspect
+            - A2: it's the previous plus it has a social aspect, indexing/cross-linking layer
+            - Weird is [[open source]]; there's a non-commercial license on the web app.
 - [[Weird one]]
 - [[Mycoverse]]
 - [[Agora]]
