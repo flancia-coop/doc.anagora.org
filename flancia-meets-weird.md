@@ -5,8 +5,10 @@
     - [[Flancian]] looking forward as well!
     - [[Bouncepaw]] +1, let's start with intros
 - Check ins
-    - [[bouncepaw]]: computer science student in Russia, finishing a degree soon; golang dev, switching jobs in a week. Doing open source for some time. Two projects: mycorrhiza and betula, we can discuss them later.
-    - [[Zicklag]]: 
+    - [[bouncepaw]]: computer science student in Russia, finishing a degree soon; golang dev, switching jobs in a week. Doing open source for some time. Two projects: [[mycorrhiza]] and [[betula]], we can discuss them later.
+    - [[Zicklag]]: been coding since I was 10 :) it runs in the family; dad is DBA/cloud architect/devops, learnt some stuff from him. With brother been exploring making video games. Met [[Erland]] in the Rust community, was playing with [[Haxe]] prior and moved to Rust for safety.
+        - [[Fish folk]] jumpy game
+            - Made own engine!
 - [[Weird one]]
 - [[Mycoverse]]
 - [[Agora]]
