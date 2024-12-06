@@ -50,16 +50,19 @@
     - Ivan: on bounties for Bonfire and attracting contributors.
         - Main goal is to release 1.0 and prove that Bonfire is a NG framework. Next April!
         - We can now develop iOS and Android applications with Elixir; [[LiveViewNative]].
+    - Ivan: [[Digital Common Goods]] is what we're trying to create.
 - Tooling and technical ideas
   - Starting ideas
     - Publishing moderation events as activities
         - Affinity/levels of trust between instances
+        - (Already )
     - Documentation and other shared artifacts
         - https://miro.com/app/board/uXjVL-azEBw=/
 - Information sharing about related projects and goings on
     - Other projects in this space
     - Other people who might be interested in this project or any adjacent
 - Where to go from here
+
 
 
 ## [[2024-11-29]]
