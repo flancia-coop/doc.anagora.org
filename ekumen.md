@@ -45,7 +45,9 @@
             - Q: community annotations?
                 - A: https://bonfirenetworks.org/posts/content_labelling_in_bonfire/
   - Edu: the Ekumen wants to be implementation-agnostic as much as possible, we'd like to be able to add value for communities using all of Bonfire/Mastodon/Pleroma/etc.
-    - Would like to focus on design work first, then s
+    - Would like to focus on design work first, then seek funding to support work.
+    - Ivan: makes sense. We can leverage e.g. shared diffusion opportunities like blog posts.
+    - Ivan: Bounties for Bonfire.
 - Tooling and technical ideas
   - Starting ideas
     - Publishing moderation events as activities
