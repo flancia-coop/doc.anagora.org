@@ -17,6 +17,7 @@
         - Anti-meta [[Fedipact]] took place in the Fediverse last year
         - Led us to think: instead of taking this 'anti' stance, why don't we try a positive approach: let's define a basic set of values that instances can endorse.
         - [[Fediversalist papers]]
+            - [[Ivan]]: this is great work and is indeed a great guide.
         - [[UFOI]] and [[archipielago]] movements
         - [[IFTAS]]
     - Sharing moderation burden between instances
