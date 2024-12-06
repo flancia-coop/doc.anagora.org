@@ -19,9 +19,15 @@
                     - [[moa]] and bridging
             - Akin to [[carrd]] to and [[link tree]]?
             - [[Weird]] wants to [[bring back personal websites]]
-                - Side note: [[indieweb]] seems ma
+                - Side note: [[indieweb]] seems maybe related/affine
                 - Want to make it very easy: sign up and you get a subdomain, you can choose which domain.
             - More domains in pockets
+                - Could then also facilitate making use of your own domain in new ways, e.g. get a bluesky user based on your domain
+                - Would like to make it so that you can replicate all your data using your browser only
+                    - Q: with local storage? some other arch?
+                    - P2P
+            - We want to [[bring back user agency]] by making it easy enough for normal people.
+                - Side note: know of some projects like [[sutty]] which are in a similar space.
 - [[Weird one]]
 - [[Mycoverse]]
 - [[Agora]]
