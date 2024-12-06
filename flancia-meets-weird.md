@@ -59,6 +59,7 @@
                 - side notes:
                     - ipfs?
                     - [[fission]] ~ fission.codes tried to build something similar but folded recently
+            - A2: it has a social aspect
 - [[Weird one]]
 - [[Mycoverse]]
 - [[Agora]]
