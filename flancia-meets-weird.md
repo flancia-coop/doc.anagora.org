@@ -47,6 +47,7 @@
             - Hoping for an MVP by the end of December
                 - almost there with billing
                 - web designer helping out
+            - [[Leaf]] grew out of 
 - [[Weird one]]
 - [[Mycoverse]]
 - [[Agora]]
