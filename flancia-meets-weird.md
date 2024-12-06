@@ -17,7 +17,7 @@
                 - Side note: 
                     - [[twitter community archive]] by [[ex genesis]] is in a related space
                     - [[moa]] and bridging
-            - Akin to [[carrd]] to and [[link tree]]?
+            - Akin to [[carrd]] to and [[link tree]]? 
             - [[Weird]] wants to [[bring back personal websites]]
                 - Side note: [[indieweb]] seems maybe related/affine
                 - Want to make it very easy: sign up and you get a subdomain, you can choose which domain.
