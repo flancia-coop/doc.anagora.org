@@ -36,6 +36,7 @@
                 - Storage requirements also drive that, e.g. through the [[leaf]] protocol (sp?)
                 - Q: do you know the prices of your competitors, e.g. linktree?
                     - A: good question.
+            - Planning connectors so people can bring their data from other platforms.
 - [[Weird one]]
 - [[Mycoverse]]
 - [[Agora]]
