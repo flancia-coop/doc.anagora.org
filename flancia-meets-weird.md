@@ -43,7 +43,7 @@
                         - similar to rdf, or to atproto's lexikon
                         - rdf was too granular
                         - atproto is object-oriented-like
-                        - leaf is in thie 
+                        - leaf is in the middle, tries to compose many items that are small and each have a class (mixin like)
             - Hoping for an MVP by the end of December
                 - almost there with billing
                 - web designer helping out
