@@ -27,6 +27,11 @@
             - [[github]] by default?
 
 ## [[2024-12-11]]
+- Attending: [[Matthew Lowry]] [[Peter Kaminski]] [[Chris Aldrich]]
+- IndieWebCamp this past weekend
+    - [[typecasting]]: Typing as a UI for posting to the Web. 
+        - https://typosphere.blogspot.com/  
+        - https://indieweb.org/typecast
 
 
 
