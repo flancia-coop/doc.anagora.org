@@ -39,7 +39,6 @@
         - https://typosphere.blogspot.com/  
         - https://indieweb.org/typecast
 - "There are too many blogs and not enough wikis." - M.L.
-- 
 
 
 ## [[2024-11-20]]
