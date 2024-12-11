@@ -28,11 +28,18 @@
 
 ## [[2024-12-11]]
 - Attending: [[Matthew Lowry]] [[Peter Kaminski]] [[Chris Aldrich]]
+- Displaying and/or Owning Bluesky comments
+    - https://unpkg.com/browse/bluesky-comments@0.5.1/README.md
+    - https://www.coryzue.com/writing/bluesky-comments
+    - https://github.com/czue/bluesky-comments
+    - https://gist.github.com/LoueeD/b7dec10b2ea56c825cbb0b3a514720ed
+    - https://github.com/ptdewey/bluesky-comments-svelte
 - IndieWebCamp this past weekend
     - [[typecasting]]: Typing as a UI for posting to the Web. 
         - https://typosphere.blogspot.com/  
         - https://indieweb.org/typecast
-
+- "There are too many blogs and not enough wikis." - M.L.
+- 
 
 
 ## [[2024-11-20]]
