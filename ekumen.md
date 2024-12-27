@@ -21,6 +21,7 @@
                 - Mostrar cola de moderación
                 - Traer información de los actores involucrados (denunciante, denunciade, contexto, historial, estadísticas)
 - [[January reboot]]
+- Otro ejemplo de potencial servicio federado complementario a mastodon/fediverse: https://github.com/mastodon/mastodon/issues/4486
 
 ## [[2024-12-06]]
 - Attending: [[Ivan]] [[Eduardo Mercovich]] [[Flancian]] ...
