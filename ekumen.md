@@ -8,11 +8,13 @@
     - [[Hiroshima]]
 - [[Puntos de palanca]]
     - Mejor herramienta para moderación
-        - "Moderaverse" 
+        - "Moderaverse"
         - Podríamos mejorar lo que tiene mastodon a través de las APIs
         - Idealmente sería universal
         - Los mods podrían formar parte de la comunidad que hace esta herramienta
-        - 
+        - Dos temas
+            - Instalación
+            - Hosting
 
 ## [[2024-12-06]]
 - Attending: [[Ivan]] [[Eduardo Mercovich]] [[Flancian]] ...
