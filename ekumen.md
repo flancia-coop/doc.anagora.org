@@ -22,6 +22,28 @@
                 - Traer información de los actores involucrados (denunciante, denunciade, contexto, historial, estadísticas)
 - [[January reboot]]
 - Otro ejemplo de potencial servicio federado complementario a mastodon/fediverse: https://github.com/mastodon/mastodon/issues/4486
+- Notas de Edu:
+- ¿Y si comenzamos por una herramienta de moderación (agnóstica de instancia) para apalancar al Ekumen?
+
+Consentida la propuesta. 😃))
+
+Instalar algo tiene un costo. Si trabajamos desde una API podemos hostear. Tiene temas de seguridad, pero facilitaría su uso. Usaríamos OAUTH. 
+
+Esta misma versión se puede luego instalar en cada instancia.
+
+Podemos comenzar (por temas de seguridad) con que funcione en c/instancia. MVP. Con esto evitamos temas de seguridad, aunque luego abramos a hostear y loguearse. 
+
+Moderaverse.
+
+Si/cuando hosteemos, puede ser un comienzo del Ekumen. Se comparte un stream de info. Luego se publica como ActivityPub.
+
+El camino sería:
++ entender la tarea de moderación (en 
+social.coop
+ e IFTAS, al menos)
++ diseñar el sistema (actores, flujos, etc.)
++ diseñar la interacción (prototipo)
++ testearlo con usuaries 
 
 ## [[2024-12-06]]
 - Attending: [[Ivan]] [[Eduardo Mercovich]] [[Flancian]] ...
