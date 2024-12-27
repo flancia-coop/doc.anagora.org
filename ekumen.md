@@ -2,6 +2,13 @@
 
 - Meeting times: as per https://crab.fit/ekumen-152483
 
+## [[2024-12-27]]
+- Attending: [[Eduardo Mercovich]] [[Flancian]]
+- Japan trip
+    - [[Hiroshima]]
+- [Puntos de palanca
+    - 
+
 ## [[2024-12-06]]
 - Attending: [[Ivan]] [[Eduardo Mercovich]] [[Flancian]] ...
 - Check ins
