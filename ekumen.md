@@ -18,6 +18,8 @@
         - Próximos pasos
             - Edu podría ser invitado por el CWG para conocer los reportes que recibimos
             - Prototipar una interfaz?
+                - Mostrar cola de moderación
+                - Traer información de los actores involucrados (denunciante, denunciade, contexto)
 - [[January reboot]]
 
 ## [[2024-12-06]]
