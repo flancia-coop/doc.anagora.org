@@ -13,8 +13,10 @@
         - Idealmente sería universal
         - Los mods podrían formar parte de la comunidad que hace esta herramienta
         - Dos temas
-            - Instalación
-            - Hosting
+            - Instalación / overhead técnico
+            - Hosting / servicio
+        - Próximos pasos
+            - Edu podría ser invitado por el CWG para conocer los reportes que recibimos
 
 ## [[2024-12-06]]
 - Attending: [[Ivan]] [[Eduardo Mercovich]] [[Flancian]] ...
