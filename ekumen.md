@@ -17,6 +17,7 @@
             - Hosting / servicio reusable por varias instancias (oauth etc.)
         - Próximos pasos
             - Edu podría ser invitado por el CWG para conocer los reportes que recibimos
+- [[January reboot]]
 
 ## [[2024-12-06]]
 - Attending: [[Ivan]] [[Eduardo Mercovich]] [[Flancian]] ...
