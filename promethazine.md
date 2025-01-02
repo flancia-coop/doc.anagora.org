@@ -1,1 +1,1 @@
-I'm busy right now, try again later.
+Promethazine is a first-generation antihistamine and antipsychotic used to treat allergies, insomnia, and nausea. It was once widely used as an antipsychotic, although it is generally not used for this purpose now.
