@@ -1,1 +1,4 @@
-I'm busy right now, try again later.
+- Gone, gone.
+- What is gone, is gone.
+- Gone beyond, 
+- [[Gone beyond to the other shore]]!
