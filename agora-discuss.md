@@ -1,1 +1,4 @@
-I'm busy right now, try again later.
+- [[flancian]]:
+    - What do you think about the Agora?
+    - If you write in this document, I'll always read it gladly :)
+    - [[pull]] [[what do I think about the agora?]]
