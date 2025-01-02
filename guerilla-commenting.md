@@ -1,1 +1,1 @@
-I'm busy right now, try again later.
+I'm super stoked this links to the [[Aaron Swartz]] wiki page. RIP 🪦
