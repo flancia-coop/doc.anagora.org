@@ -1,1 +1,3 @@
-I'm busy right now, try again later.
+- a [[station]].
+    - [[radio]] [[soma fm]]
+    - [[go]] https://somafm.com/player/#/now-playing/dronezone
