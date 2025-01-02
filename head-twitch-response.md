@@ -1,1 +1,1 @@
-I'm busy right now, try again later.
+The head-twitch response (HTR) is a rapid side-to-side head movement that occurs in mice and rats after the serotonin 5-HT2A receptor is activated.
