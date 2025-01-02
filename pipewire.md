@@ -1,1 +1,1 @@
-- [[flancian]] basically installing [[libspa-0.2-bluetooth]] did it, as per https://wiki.debian.org/BluetoothUser/a2dp#PipeWire
+I'm busy right now, try again later.
