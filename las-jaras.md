@@ -1,5 +1,1 @@
-A [[haiku]] translation
-
-Three arrows in my quiver.
-Who owns them?
-Avalokiteshvara
+I'm busy right now, try again later.
