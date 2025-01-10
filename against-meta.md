@@ -13,15 +13,15 @@ This is a working document for an upcoming vote for to defederate from threads.n
 
 It is currently: a DRAFT or work in progress. If there is consensus we will use this text to start a vote on this key issue affecting the [[social.coop]] community.
 
-For historical context about how we got here, please see https://wiki.social.coop/wiki/Federation_with_Threads in the Social.coop wiki, which this document will join shortly.
+For historical context about how we got here, please see https://wiki.social.coop/wiki/Federation_with_Threads in the Social.coop wiki.
     
 ## Proposal
     
-Defederate from threads.net immediately, meaning applying the SUSPEND policy in Mastodon, due to their updated policies regarding permissable hate speech impacting the LGBTQ+ community and those who may be perceived as immigrants. This policy is in violation of the [Mastodon Server Covenant](https://joinmastodon.org/covenant) rule 1.
+Defederate from threads.net immediately, meaning applying the SUSPEND policy in Mastodon, due to their updated policies regarding permissable hate speech impacting the LGBTQ+ community and those who may be perceived as immigrants. This policy endorsed by corporation [[Meta]] is considered in violation of the [Mastodon Server Covenant](https://joinmastodon.org/covenant) rule 1, and thus in breach of widely agreed Fediverse guidelines.
 
-Vote will be run on Loomio starting on the weekend of the January 10th, 2025.
 
 ## Comments
 
-- Flancian: I wrote the first draft, what do you think? You can click the edit button and make changes which can then be incorporated into the vote. Thank you!
+- This vote will be run on Loomio starting on the weekend of January 10th, 2025.
+    - Flancian: I wrote the first draft, what do you think? You can click the edit button and make changes which can then be incorporated into the vote. Thank you!
     - I have seen three great links relevant to this issue and I will try to include them; these were shared by the social.coop community.
