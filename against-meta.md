@@ -13,9 +13,7 @@ This is a working document for an upcoming vote to grant an exception to Social.
 
 Since its launch, Meta has met the "origin of a pattern of hate speech" criterion for defederation ("suspend" in Mastodon terminology)
 
-
-
-Recent changes to the [Meta Community Guidelines](https://opentermsarchive.org/en/memos/meta-dampens-hate-speech-policy/) make it clear that Meta 
+With recent changes to the [Meta Community Guidelines](https://opentermsarchive.org/en/memos/meta-dampens-hate-speech-policy/), Threads explicitly allows hate speech, including specifically "allegations of mental illness .. when based on gender or sexual orientation". This removvez 
 
 It is currently: a DRAFT or work in progress. If there is consensus we will use this text to start a vote on this key issue affecting the [[social.coop]] community.
 
