@@ -9,7 +9,7 @@
 
 ## Introduction
 
-This is a working document for an upcoming vote for to defederate from threads.net following the [Meta Community Guidelines](https://opentermsarchive.org/en/memos/meta-dampens-hate-speech-policy/) updates.
+This is a working document for an upcoming vote to defederate from Threads.net following the [Meta Community Guidelines](https://opentermsarchive.org/en/memos/meta-dampens-hate-speech-policy/) updates.
 
 It is currently: a DRAFT or work in progress. If there is consensus we will use this text to start a vote on this key issue affecting the [[social.coop]] community.
 
