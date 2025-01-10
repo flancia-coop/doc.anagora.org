@@ -1,5 +1,11 @@
 # Against [[Meta]]
 
+# The vote has started
+
+Please refer to the published vote here: https://www.loomio.com/d/u1OkUA6M/clarity-on-stance-with-regards-to-threads/30. The vote was based on a snapshot of this document as it was at the time of starting the decision poll.
+
+If you have added content since then, you will need to make sure your position makes it to the thread by voting and expressing your opinion
+
 ## Grant an exception to the Social.coop "Federation abuse policy" for threads.net
 
 - A draft [[vote]] for [[social.coop]].
@@ -13,7 +19,9 @@ This is a working document for an upcoming vote to grant an exception to Social.
 
 Since its launch, Meta has met the "origin of a pattern of hate speech" criterion for defederation ("suspend" in Mastodon terminology)
 
-With recent changes to the [Meta Community Guidelines](https://opentermsarchive.org/en/memos/meta-dampens-hate-speech-policy/), Threads explicitly allows hate speech, including specifically "allegations of mental illness .. when based on gender or sexual orientation". This removvez 
+With recent changes to the [Meta Community Guidelines](https://opentermsarchive.org/en/memos/meta-dampens-hate-speech-policy/), Threads explicitly allows hate speech, including specifically "allegations of mental illness .. when based on gender or sexual orientation". So, while there was previously disagreement about whether Meta "fails to enforce policies to deal with hate speech", it is now clear that Threads meets the "lacks policies [..] to deal with hate speech" criterion, and is an "obvious candidate for silencing or suspending under the below criteria".
+
+Th
 
 It is currently: a DRAFT or work in progress. If there is consensus we will use this text to start a vote on this key issue affecting the [[social.coop]] community.
 
