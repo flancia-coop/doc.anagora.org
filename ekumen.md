@@ -7,7 +7,13 @@
 - #miro https://miro.com/app/board/uXjVL-azEBw=/
 - Notas libres sobre el board
     - Buenísimo! Gracias Edu!
-    - Sobre el tema de consenso entre moderadores: suena bien pero parece opcional/como para implementar más adelante s
+    - Sobre el tema de consenso entre moderadores: suena bien pero parece opcional/como para implementar más adelante si es necesario
+    - Me pregunto si algunos flows podrían ser simplificados, por ejemplo para que una instancia se una:
+        - ir a la aplicación web
+        - hacer login con oauth
+            - si la cuenta es mod de la instancia con la que hizo oauth, puede unirse
+            - si no, no
+        - aceptar los términos y condiciones?
 
 ## [[2024-12-27]]
 - Attending: [[Eduardo Mercovich]] [[Flancian]]
