@@ -5,6 +5,9 @@
 ## [[2024-01-10]]
 - Attending: [[Eduardo Mercovich]] [[Flancian]]
 - #miro https://miro.com/app/board/uXjVL-azEBw=/
+- Notas libres sobre el board
+    - Buenísimo! Gracias Edu!
+    - Sobre el tema de consenso entre moderadores: suena bien pero parece opcional/como para implementar más adelante s
 
 ## [[2024-12-27]]
 - Attending: [[Eduardo Mercovich]] [[Flancian]]
