@@ -24,4 +24,6 @@ Defederate from threads.net immediately, meaning applying the SUSPEND policy in 
 
 - This vote will be run on Loomio starting on the weekend of January 10th, 2025.
     - Flancian: I wrote the first draft, what do you think? You can click the edit button and make changes which can then be incorporated into the vote. Thank you!
-    - I have seen three great links relevant to this issue and I will try to include them; these were shared by the social.coop community.
+    - I have seen three great links relevant to this issue and I will try to include them; these were shared by the social.coop community:
+        - https://hachyderm.io/@hachyderm/113802419128509218 by our respected fellows at [[Hachyderm]].
+        - https://techhub.social/@Techmeme/113800685924068235
