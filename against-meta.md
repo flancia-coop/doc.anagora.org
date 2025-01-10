@@ -52,7 +52,4 @@ It is currently: a DRAFT or work in progress. If there is consensus we will use 
 
 For historical context about how we got here, please see https://wiki.social.coop/wiki/Federation_with_Threads in the Social.coop wiki.
     
-## Proposal
-
-Grant an exception to S
 
