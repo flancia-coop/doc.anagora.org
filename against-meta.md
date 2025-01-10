@@ -9,7 +9,13 @@
 
 ## Introduction
 
-This is a working document for an upcoming vote to grant an exception to Social.coop's [Federation abuse policy](https://wiki.social.coop/wiki/Federation_abuse_policy) for Threads.net, following the [Meta Community Guidelines](https://opentermsarchive.org/en/memos/meta-dampens-hate-speech-policy/) updates.
+This is a working document for an upcoming vote to grant an exception to Social.coop's [Federation abuse policy](https://wiki.social.coop/wiki/Federation_abuse_policy) for Threads.net.
+
+Since its launch, Meta has met the "origin of a pattern of hate speech" criterion for defederation ("suspend" in Mastodon terminology)
+
+
+
+Recent changes to the [Meta Community Guidelines](https://opentermsarchive.org/en/memos/meta-dampens-hate-speech-policy/) make it clear that Meta 
 
 It is currently: a DRAFT or work in progress. If there is consensus we will use this text to start a vote on this key issue affecting the [[social.coop]] community.
 
