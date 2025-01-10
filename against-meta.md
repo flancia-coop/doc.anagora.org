@@ -4,14 +4,19 @@
 
 Please refer to the published vote here: https://www.loomio.com/d/u1OkUA6M/clarity-on-stance-with-regards-to-threads/30. The vote was based on a snapshot of this document as it was at the time of starting the decision poll.
 
-If you have added content since then, you will need to make sure your position makes it to the thread by voting and expressing your opinion
+If you have added content since then, you will need to make sure your position makes it to the thread by voting and expressing your opinion there :)
 
-## Grant an exception to the Social.coop "Federation abuse policy" for threads.net
+## Proposal: Move threads.net from limit to suspend
 
 - A draft [[vote]] for [[social.coop]].
     - Written on [[2025-01-10]].
     - Started by @flancian after community discussion, authored by many in [[Social.coop]]; this document is world-editable currently. Press the edit button on the top right to join in!
     - Will be run later today or over the weekend of the 10th of January if the community wants to wait, but we can iterate over it further with discussion in Loomio.
+
+
+# Other proposals by the community
+
+## Proposal: Grant an exception to the Social.coop "Federation abuse policy" for threads.net
 
 ## Introduction
 
@@ -21,7 +26,7 @@ Since its launch, Meta has met the "origin of a pattern of hate speech" criterio
 
 With recent changes to the [Meta Community Guidelines](https://opentermsarchive.org/en/memos/meta-dampens-hate-speech-policy/), Threads explicitly allows hate speech, including specifically "allegations of mental illness .. when based on gender or sexual orientation". So, while there was previously disagreement about whether Meta "fails to enforce policies to deal with hate speech", it is now clear that Threads meets the "lacks policies [..] to deal with hate speech" criterion, and is an "obvious candidate for silencing or suspending under the below criteria".
 
-Th
+This proposal requests an exemption to the "Federation abuse policy", based on the large number of users on Threads.net. Social.coop members are invited to consider whether 
 
 It is currently: a DRAFT or work in progress. If there is consensus we will use this text to start a vote on this key issue affecting the [[social.coop]] community.
 
