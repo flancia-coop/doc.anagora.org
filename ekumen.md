@@ -14,6 +14,10 @@
             - si la cuenta es mod de la instancia con la que hizo oauth, puede unirse
             - si no, no
         - aceptar los términos y condiciones?
+    - Preguntas
+        - Si un mod toma una acción en el panel de moderación de Mastodon, se publica al feed del 
+Ekumen? Cómo? (es posible, pero implicaría polling -- o hacer catch up la próxima ve que el mod va al sitio del ekumen?)
+        - Las acciones de moderación de mod B -- se publican en el Ekumen si el único logueade es el mod A?
 
 ## [[2024-12-27]]
 - Attending: [[Eduardo Mercovich]] [[Flancian]]
