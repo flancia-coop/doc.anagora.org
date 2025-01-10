@@ -1,6 +1,6 @@
 # Against [[Meta]]
 
-## Move threads.net from limit to suspend
+## Grant an exception to the SociaMove threads.net from limit to suspend
 
 - A draft [[vote]] for [[social.coop]].
     - Written on [[2025-01-10]].
