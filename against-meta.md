@@ -14,11 +14,12 @@ This is a working document for an upcoming vote to defederate from Threads.net f
 It is currently: a DRAFT or work in progress. If there is consensus we will use this text to start a vote on this key issue affecting the [[social.coop]] community.
 
 For historical context about how we got here, please see https://wiki.social.coop/wiki/Federation_with_Threads in the Social.coop wiki.
+
+For a five minute exposition by [[Zuck]] himself that sums up the situation well, see https://www.facebook.com/zuck/videos/1525382954801931/.
     
 ## Proposal
     
-Defederate from threads.net immediately, meaning applying the SUSPEND policy in Mastodon, due to their updated policies regarding permissable hate speech impacting the LGBTQ+ community and those who may be perceived as immigrants. This policy endorsed by corporation [[Meta]] is considered in violation of the [Mastodon Server Covenant](https://joinmastodon.org/covenant) rule 1, and thus in breach of widely agreed Fediverse guidelines.
-
+Defederate from threads.net immediately, meaning applying the SUSPEND policy in Mastodon, due to their updated policies regarding permissable hate speech impacting the LGBTQ+ community and immigrants. This policy endorsed by corporation [[Meta]] is considered in violation of the [Mastodon Server Covenant](https://joinmastodon.org/covenant) rule 1, and thus in breach of widely agreed Fediverse guidelines.
 
 ## Comments
 
@@ -28,7 +29,7 @@ Defederate from threads.net immediately, meaning applying the SUSPEND policy in 
     - Most of these were shared by the social.coop community or otherwise came from the Fediverse:
         - https://social.coop/@cwebber/113788266953239523 for what [[cwebber]] had to say.
         - https://hachyderm.io/@hachyderm/113802419128509218 by our respected fellows at [[Hachyderm]].
-        - https://social.coop/@flancian/113798114186063032 linking to something that was shared to @cwebber, the coverage by Wired:
+        - https://social.coop/@flancian/113798114186063032 "archiving" something that was shared by @cwebber, the coverage by Wired:
             - #go https://archive.is/BAWx7
             - https://archive.is/BAWx7#selection-2023.0-2035.225 if you want to see what they are committing to still doing.
         - https://techhub.social/@Techmeme/113800685924068235 for 404media reports.
