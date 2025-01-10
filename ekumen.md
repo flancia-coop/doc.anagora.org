@@ -2,6 +2,10 @@
 
 - Meeting times: as per https://crab.fit/ekumen-152483
 
+## [[2024-01-10]]
+- Attending: [[Eduardo Mercovich]] [[Flancian]]
+- #miro https://miro.com/app/board/uXjVL-azEBw=/
+
 ## [[2024-12-27]]
 - Attending: [[Eduardo Mercovich]] [[Flancian]]
 - Japan trip
