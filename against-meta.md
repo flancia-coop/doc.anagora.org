@@ -1,6 +1,6 @@
 # Against [[Meta]]
 
-## Grant an exception to the SociaMove threads.net from limit to suspend
+## Grant an exception to the Social.coop "Federation abuse policy" for threads.net
 
 - A draft [[vote]] for [[social.coop]].
     - Written on [[2025-01-10]].
@@ -9,14 +9,16 @@
 
 ## Introduction
 
-This is a working document for an upcoming vote to defederate from Threads.net following the [Meta Community Guidelines](https://opentermsarchive.org/en/memos/meta-dampens-hate-speech-policy/) updates.
+This is a working document for an upcoming vote to grant an exception to Social.coop's [Federation abuse policy](https://wiki.social.coop/wiki/Federation_abuse_policy) for Threads.net, following the [Meta Community Guidelines](https://opentermsarchive.org/en/memos/meta-dampens-hate-speech-policy/) updates.
 
 It is currently: a DRAFT or work in progress. If there is consensus we will use this text to start a vote on this key issue affecting the [[social.coop]] community.
 
-For historical context about how we got here, please see https://wiki.social.coop/wiki/Federation_with_Threads in the Social.coop wiki. For a five minute exposition by [[Zuck]] himself that honestly sums up the situation well, see https://www.facebook.com/zuck/videos/1525382954801931/.
+For historical context about how we got here, please see https://wiki.social.coop/wiki/Federation_with_Threads in the Social.coop wiki.
     
 ## Proposal
-    
+
+Grant an exception to S
+
 Defederate from threads.net immediately, meaning applying the SUSPEND policy in Mastodon, due to their updated policies regarding permissable hate speech impacting the LGBTQ+ community and immigrants. This policy endorsed by corporation [[Meta]] is considered in violation of the [Mastodon Server Covenant](https://joinmastodon.org/covenant) rule 1, and thus in breach of widely agreed on Fediverse guidelines.
 
 ## Comments
