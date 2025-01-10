@@ -6,35 +6,15 @@ Please refer to the published vote here: https://www.loomio.com/d/u1OkUA6M/clari
 
 If you have added content since then, you will need to make sure your position makes it to the thread by voting and expressing your opinion there :)
 
-## Proposal: Move threads.net from limit to suspend
+# Proposal: Move threads.net from limit to suspend
 
 - A draft [[vote]] for [[social.coop]].
+    - Note: a vote has started. If you want to express a different position, please add yours below and call a different decision check for it.
     - Written on [[2025-01-10]].
     - Started by @flancian after community discussion, authored by many in [[Social.coop]]; this document is world-editable currently. Press the edit button on the top right to join in!
     - Will be run later today or over the weekend of the 10th of January if the community wants to wait, but we can iterate over it further with discussion in Loomio.
 
-
-# Other proposals by the community
-
-## Proposal: Grant an exception to the Social.coop "Federation abuse policy" for threads.net
-
-## Introduction
-
-This is a working document for an upcoming vote to grant an exception to Social.coop's [Federation abuse policy](https://wiki.social.coop/wiki/Federation_abuse_policy) for Threads.net.
-
-Since its launch, Meta has met the "origin of a pattern of hate speech" criterion for defederation ("suspend" in Mastodon terminology)
-
-With recent changes to the [Meta Community Guidelines](https://opentermsarchive.org/en/memos/meta-dampens-hate-speech-policy/), Threads explicitly allows hate speech, including specifically "allegations of mental illness .. when based on gender or sexual orientation". So, while there was previously disagreement about whether Meta "fails to enforce policies to deal with hate speech", it is now clear that Threads meets the "lacks policies [..] to deal with hate speech" criterion, and is an "obvious candidate for silencing or suspending under the below criteria".
-
-This proposal requests an exemption to the "Federation abuse policy", based on the large number of users on Threads.net. Social.coop members are invited to consider whether 
-
-It is currently: a DRAFT or work in progress. If there is consensus we will use this text to start a vote on this key issue affecting the [[social.coop]] community.
-
-For historical context about how we got here, please see https://wiki.social.coop/wiki/Federation_with_Threads in the Social.coop wiki.
-    
-## Proposal
-
-Grant an exception to S
+## Statement
 
 Defederate from threads.net immediately, meaning applying the SUSPEND policy in Mastodon, due to their updated policies regarding permissable hate speech impacting the LGBTQ+ community and immigrants. This policy endorsed by corporation [[Meta]] is considered in violation of the [Mastodon Server Covenant](https://joinmastodon.org/covenant) rule 1, and thus in breach of widely agreed on Fediverse guidelines.
 
@@ -55,3 +35,24 @@ Defederate from threads.net immediately, meaning applying the SUSPEND policy in 
             - HUGE authoritarian turn, I fully support defederating 
         - https://techhub.social/@Techmeme/113800685924068235 for 404media reports.
         - https://transparency.meta.com/policies/community-standards/hateful-conduct/ Meta's policy statement
+
+# Proposal: Grant an exception to the Social.coop "Federation abuse policy" for threads.net
+
+## Introduction
+
+This is a working document for an upcoming vote to grant an exception to Social.coop's [Federation abuse policy](https://wiki.social.coop/wiki/Federation_abuse_policy) for Threads.net.
+
+Since its launch, Meta has met the "origin of a pattern of hate speech" criterion for defederation ("suspend" in Mastodon terminology)
+
+With recent changes to the [Meta Community Guidelines](https://opentermsarchive.org/en/memos/meta-dampens-hate-speech-policy/), Threads explicitly allows hate speech, including specifically "allegations of mental illness .. when based on gender or sexual orientation". So, while there was previously disagreement about whether Meta "fails to enforce policies to deal with hate speech", it is now clear that Threads meets the "lacks policies [..] to deal with hate speech" criterion, and is an "obvious candidate for silencing or suspending under the below criteria".
+
+This proposal requests an exemption to the "Federation abuse policy", based on the large number of users on Threads.net.
+
+It is currently: a DRAFT or work in progress. If there is consensus we will use this text to start a vote on this key issue affecting the [[social.coop]] community.
+
+For historical context about how we got here, please see https://wiki.social.coop/wiki/Federation_with_Threads in the Social.coop wiki.
+    
+## Proposal
+
+Grant an exception to S
+
