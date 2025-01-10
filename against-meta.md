@@ -30,5 +30,8 @@ Defederate from threads.net immediately, meaning applying the SUSPEND policy in 
         - https://social.coop/@flancian/113798114186063032 "archiving" something that was shared by @cwebber, the coverage by Wired:
             - #go https://archive.is/BAWx7
             - https://archive.is/BAWx7#selection-2023.0-2035.225 if you want to see what they are committing to still doing.
+        - https://social.coop/@eb/113805990453206360
+            - 404media downranked
+            - 
         - https://techhub.social/@Techmeme/113800685924068235 for 404media reports.
         - https://transparency.meta.com/policies/community-standards/hateful-conduct/ Meta's policy statement
