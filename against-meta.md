@@ -13,10 +13,11 @@ For context about how we got here as a community, please see https://wiki.social
     
 ## Proposal
     
-Defederate from threads.net immediately, meaning applying the SUSPEND policy in Mastodon, due to their updated policies regarding speech about the LGBTQ+ community and those perceived as "immigrants".
+Defederate from threads.net immediately, meaning applying the SUSPEND policy in Mastodon, due to their updated policies regarding permissable hate speech impacting the LGBTQ+ community and those who may be perceived as immigrants. This policy is in violation of the [Mastodon Server Covenant](https://joinmastodon.org/covenant) rule 1.
 
-Vote will be run on Loomio starting on the weekend of the January 10th, 2025, or 2025-01-10 for short :)
+Vote will be run on Loomio starting on the weekend of the January 10th, 2025.
 
 ## Comments
 
 - Flancian: I wrote the first draft, what do you think? You can click the edit button and make changes which can then be incorporated into the vote. Thank you!
+    - I have seen three great links relevant to this issue and I will try to include them; these were shared by the social.coop community.
