@@ -1,7 +1,9 @@
 ## Move threads.net from limit to suspend
 
 - A draft [[vote]] for [[social.coop]].
-    - Written on [[2025-01-10]] by @flancian, your_name_here :)
+    - Written on [[2025-01-10]].
+    - Started by @flancian after community discussion, authored by many; this document is world-editable currently. Press the edit button on the top right to join in!
+    - Will be run later today or over the weekend of the 10th of January if the community wants to wait, but we can iterate over it further with discussion in Loomio.
 
 ## Introduction
 
