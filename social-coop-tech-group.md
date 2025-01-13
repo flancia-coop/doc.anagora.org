@@ -14,6 +14,8 @@
 - Topics of discussion
     - Data retention and archiving practices
     - https://cloud.digitalocean.com/spaces/social-coop-media?i=7e7429&path=backups%2Frhizome%2F
+        - Our database seems to be doubling (!) ever year, is that... OK?
+    - Maybe we should review what hachyderm.io or mastodon.social are doing database wise
 - https://doc.anagora.org/twg-2025
 
 ## 2024-11-25
