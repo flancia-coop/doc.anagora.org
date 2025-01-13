@@ -2,6 +2,7 @@
 ## 2024-01-13
 - Here: [[Dan]] [[Flancian]] [[Edsu]] 
 - Check ins
+- Recap of recent coop rules
 - https://doc.anagora.org/twg-2025
 
 ## 2024-11-25
