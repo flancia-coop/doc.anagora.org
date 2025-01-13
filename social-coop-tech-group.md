@@ -2,12 +2,17 @@
 ## 2024-01-13
 - Here: [[Dan]] [[Flancian]] [[Edsu]] 
 - Check ins
+    - Dan
+    - Ed
+    - Flan
 - Recap of recent coop news
     - Pros and cons of defederation
     - AIs for defederation
         - [ ] Back up relations that will go even as CSV
         - Hachyderm posted about their suspend and included some nice ruby queries to get better information about the relationships, maybe read/review
         - Related to follows and data (panacea) portability
+- Topics of discussion
+    - Data retention and archiving practices
 - https://doc.anagora.org/twg-2025
 
 ## 2024-11-25
