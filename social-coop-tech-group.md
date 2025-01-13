@@ -5,9 +5,9 @@
 - Recap of recent coop news
     - Pros and cons of defederation
     - AIs for defederation
-        - Back up relations that will go even as CSV
-        - Hachyderm posted about their suspend and included some nice ruby queries to get better information about the relationships
-        - Related to follows and data (panacea) porta
+        - [ ] Back up relations that will go even as CSV
+        - Hachyderm posted about their suspend and included some nice ruby queries to get better information about the relationships, maybe read/review
+        - Related to follows and data (panacea) portability
 - https://doc.anagora.org/twg-2025
 
 ## 2024-11-25
