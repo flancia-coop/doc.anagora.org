@@ -43,7 +43,8 @@ Chris Aldrich can't make it today. still dispdby fires and poor wifi conx.
 - [[FreeOurFeeds]]
 - On Meta's policy changes and fallout
     - Flan: this sent the Fediverse into a heated reaction, understandably. https://wiki.social.coop/wiki/Federation_with_Threads and https://www.loomio.com/d/u1OkUA6M/clarity-on-stance-with-regards-to-threads/30.
-    - https://www.facebook.com/zuck/videos/1525382954801931/
+    - https://opentermsarchive.org/en/memos/meta-dampens-hate-speech-policy/
+    - Good five minute video: https://www.facebook.com/zuck/videos/1525382954801931/
 
 
 ## [[2024-12-11]]
