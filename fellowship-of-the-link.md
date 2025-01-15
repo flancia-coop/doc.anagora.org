@@ -28,7 +28,7 @@
 
 ## [[2025-01-15]]
 Chris Aldrich can't make it today. still dispdby fires and poor wifi conx.
-- Attending: [[Matthew Lowry]] [[Aram Zucker-Scharff]] [[Jerry Michalski]] [[Eduardo Ivanec]]
+- Attending: [[Mathew Lowry]] [[Aram Zucker-Scharff]] [[Jerry Michalski]] [[Eduardo Ivanec]]
 - Check ins
     - Fires
     - Starting the year
@@ -37,9 +37,9 @@ Chris Aldrich can't make it today. still dispdby fires and poor wifi conx.
     - Aram: it's still far from being autonomous/decouplable. Some experiences with a python codebase it works great, little experiance with Rust as a codebase and it is useless to me.
     - Flan: +1 totally.
     - On resistance by engineering organizations, and the need for someone with domain expertise to review/validate.
-    - Mathrew: it could work great for transpiling, updating, refining. A company could become an expert in applying genAI in partnership with those who understand the existing product and code.
+    - Mathew: it could work great for transpiling, updating, refining. A company could become an expert in applying genAI in partnership with those who understand the existing product and code.
 - On Meta's policy changes and fallout
-    - Flan: this sent the Fediverse into a heated reaction, understandably. https://wiki.social.coop/wiki/Federation_with_Threads for some context.
+    - Flan: this sent the Fediverse into a heated reaction, understandably. https://wiki.social.coop/wiki/Federation_with_Threads and https://www.loomio.com/d/u1OkUA6M/clarity-on-stance-with-regards-to-threads/30.
 
 
 ## [[2024-12-11]]
