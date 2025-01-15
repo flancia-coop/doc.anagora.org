@@ -36,6 +36,8 @@ Chris Aldrich can't make it today. still dispdby fires and poor wifi conx.
 - Idea: using AI to refactor/rewriting/making old code shinier
     - Aram: it's still far from being autonomous/decouplable. Some experiences with a python codebase it works great, little experiance with Rust as a codebase and it is useless to me.
     - Flan: +1 totally.
+    - On resistance by engineering organizations, and the need for someone with domain expertise to review/validate.
+    - Mathrew: it could work great for transpiling. 
 
 ## [[2024-12-11]]
 - Attending: [[Matthew Lowry]] [[Peter Kaminski]] [[Chris Aldrich]]
