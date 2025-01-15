@@ -27,7 +27,10 @@
             - [[github]] by default?
 
 ## [[2025-01-15]]
-Chris Aldrich can't make it today. still dispdby fires and poor wifi conx
+Chris Aldrich can't make it today. still dispdby fires and poor wifi conx.
+- Attending: [[Matthew Lowry]] [[Aram Zucker-Scharff]] [[Jerry Michalski]] [[Eduardo Ivanec]]
+- Check ins
+- Brain rewrites
 
 ## [[2024-12-11]]
 - Attending: [[Matthew Lowry]] [[Peter Kaminski]] [[Chris Aldrich]]
