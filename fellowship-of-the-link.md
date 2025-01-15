@@ -30,9 +30,11 @@
 Chris Aldrich can't make it today. still dispdby fires and poor wifi conx.
 - Attending: [[Matthew Lowry]] [[Aram Zucker-Scharff]] [[Jerry Michalski]] [[Eduardo Ivanec]]
 - Check ins
+    - Fires
+    - Starting the year
 - Brain being rewritten for the Xth time
 - Idea: using AI to refactor/rewriting/making old code shinier
-    - Aram: it's still far from being autonomous/decouplable
+    - Aram: it's still far from being autonomous/decouplable. Some experiences with a python codebase it works great,.
 
 ## [[2024-12-11]]
 - Attending: [[Matthew Lowry]] [[Peter Kaminski]] [[Chris Aldrich]]
