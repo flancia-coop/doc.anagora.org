@@ -74,6 +74,8 @@ F: Feeling very invested in things going into the situation. Suggested vote on t
 C: Felt disappointed as well when I saw the vote framed in this way. Felt that future at coop was uncertain. Suspicious about the shortness of the draft review. Felt unseen/heard.
 
 - Clarifying questions
+- About past proposals in this space and their issues
+    - Multiple choice/non
 
 ### Next actions
 
