@@ -15,8 +15,22 @@ Before Time:
 
 > dnlbrnds: Good day everybody — I think this has been discussed when Threads went live, but with the recent developments around Meta, do you think we shall reconsider de-federating it?
 
+> 3wc: I have to say the previous decisions seemed like a textbook case of how decisionmaking processes are vulnerable to how the question is framed, and it would be great to try to correct that this time around
+> it's clear to me that Threads should be defederated based on our existing policy, so I think the proposal should be framed as "Should we make an exception to our policy for Meta", which I think is the correct & fair allocation of "status quo" / "do nothing" voting
+
+flancian suggests a vote would be needed for taking action and "I'd recommend interested people ideally get together to agree on the phasing and then start one"
+
 dnlbrnds and 3wc discuss co-drafting a proposal
 
+- Jan 9th, 2025:
+
+> Flancian: Thanks for the context and sharing your view! FWIW Meta does have policies still and claims to enforce them, the question then seems to be whether the policies are good, mediocre or actively harmful (the "encouraging abuse" argument). Abuse to members of our instance has not materialized from threads.net yet AFAICT; I can review moderation reports to be sure if people think that would be an interesting data point.
+
+> 3wc: [are you saying] that your interpretation is that if a server's policy only bans some hate speech (while explicitly allowing other types) then it does not "[lack] policies .. to deal with hate speech"?
+
+> Flancian: [..] I was trying to say that Meta does seem to be defining hate speech and is apparently "just" choosing to exclude some classes of speech from this category, which is different than not caring about hate speech at all like e.g. nazi instances do.
+
+- Jan 10th:
 
 - January 11, 2025: votes to suspend Threads begin after Meta changes their permissible speech policy. 
 
