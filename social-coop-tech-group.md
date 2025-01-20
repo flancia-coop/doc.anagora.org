@@ -34,22 +34,20 @@ dnlbrnds and 3wc discuss co-drafting a proposal
 
 - Jan 10th: 
 
-- foolishown escalates the issue
-- flancian asks to wait, but when it's clear people are not feelig great about waiting indefinitely suggests foolishowl start
+- foolishowl escalates the issue
+- flancian asks to wait, but when it's clear people are not feelig great about waiting indefinitely suggests foolishowl starts a thread with the TWG
+- foolishowl starts the thread: 
+
+> 16:39 UTC foolishowl: It sounds like several of our moderators think it's best to have a vote on this, and I haven't seen any arguments against doing so. Unfortunately I'm bogged down at work, so I can't do a proper job drafting it at the moment, but I'll work on it when I can.
 
 > 19:45 UTC Flancian: https://doc.anagora.org/against-meta, open to universal access, please review/edit :)
 
-> 2058 UTC Flancian: I will check back later tonight and run the vote by default, then we can go further in Loomio? I think it's a good opportunity for people to express their views on what is happening. I hope the community finds the time to participate widely.
-
-
-- flancian starts a vote: https://www.loomio.com/d/u1OkUA6M/clarity-on-stance-with-regards-to-threads/30
+> 20:58 UTC Flancian: I will check back later tonight and run the vote by default, then we can go further in Loomio? I think it's a good opportunity for people to express their views on what is happening. I hope the community finds the time to participate widely.
 
 Mastodon thread started by @FoolishOwl discusses Threads federation:
 https://social.coop/@foolishowl/113804616908267159
 
-> We have been discussing the situation with Meta's newly announced moderation standard, and it was suggested to me that it would be best to discuss this publicly with a thread that tags in our moderation team.
-
-> The question here is whether a change in policy, from limit to suspend, is a question for the moderation team, or whether we should have a formal vote as a co-op.
+> 22:25 UTC Flancian: PSA: https://www.loomio.com/d/u1OkUA6M/clarity-on-stance-with-regards-to-threads/30 is the vote. please vote at your earliest convenience, but also optionally take the time to consider what you would like to publish on such an occasion; I think history will likely look back on both corporations and the commons at this moment. We have six days as per our governance template.
 
 - January 11, 2025: votes to suspend Threads begin after Meta changes their permissible speech policy. 
 
