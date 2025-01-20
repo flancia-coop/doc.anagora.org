@@ -69,7 +69,9 @@ dnlbrnds and 3wc discuss co-drafting a proposal
 
 ### Timeline highlights / overview
 
-F: Feeling very invested in things going into the situation. Suggested vote on the 8th, saw people worrying. 9th read more reaction, started changing my mind from "limit" based on lack of practical impact, to "suspend" based on emotional impact. 10th felt like the issue escalated. My POV: asked to wait. Felt like people were not OK with that. Suggested foolishowl create a thread. Didn't see pushback against calling a vote. 1.5 hou
+F: Feeling very invested in things going into the situation. Suggested vote on the 8th, saw people worrying. 9th read more reaction, started changing my mind from "limit" based on lack of practical impact, to "suspend" based on emotional impact. 10th felt like the issue escalated. My POV: asked to wait. Felt like people were not OK with that. Suggested foolishowl create a thread. Didn't see pushback against calling a vote. Started a vote 1.5 hours after sending draft. Felt like reaction that took place after was not as constructive as it could have been. Felt responsibility as CWG member to start the vote. Did not feel in a good position to manage the conflict. Assumptions about personal motivations. Led to feeling disappointed.
+
+
 
 ## 2024-01-13
 - Here: [[Dan]] [[Flancian]] [[Edsu]] 
