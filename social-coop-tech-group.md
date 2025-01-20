@@ -9,6 +9,15 @@ https://srinathramakrihttps://seedsforchange.org.uk/downloads/conflictbooklet.pd
 
 Before Time:
 
+- March 21, 2024: Meta announces that Threads ActivityPub integration is now available in the United States, Canada and Japan.
+
+- Jan 8th 2025:
+
+> dnlbrnds: Good day everybody — I think this has been discussed when Threads went live, but with the recent developments around Meta, do you think we shall reconsider de-federating it?
+
+
+- January 11, 2025: vote to suspend Threads begins after Meta changes their permissible speech policy. 
+
 
 
 ## 2024-01-13
