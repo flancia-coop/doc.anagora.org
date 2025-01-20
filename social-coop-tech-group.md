@@ -67,6 +67,8 @@ dnlbrnds and 3wc discuss co-drafting a proposal
 > Flancian: Finally, can we acknowledge I voted to suspend and not to grant an exception to our policies and I'm acting under the working assumption the first vote will pass and the second will not? In which way do you think I am misreading, mishandling or worsening the situation 
 3wc ~ they/them? Thank you for clarifying.
 
+
+
 ## 2024-01-13
 - Here: [[Dan]] [[Flancian]] [[Edsu]] 
 - Check ins
