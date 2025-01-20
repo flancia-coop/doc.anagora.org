@@ -15,8 +15,10 @@ Before Time:
 
 > dnlbrnds: Good day everybody — I think this has been discussed when Threads went live, but with the recent developments around Meta, do you think we shall reconsider de-federating it?
 
+dnlbrnds and 3wc discuss co-drafting a proposal
 
-- January 11, 2025: vote to suspend Threads begins after Meta changes their permissible speech policy. 
+
+- January 11, 2025: votes to suspend Threads begin after Meta changes their permissible speech policy. 
 
 
 
