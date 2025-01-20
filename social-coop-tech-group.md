@@ -30,7 +30,26 @@ dnlbrnds and 3wc discuss co-drafting a proposal
 
 > Flancian: [..] I was trying to say that Meta does seem to be defining hate speech and is apparently "just" choosing to exclude some classes of speech from this category, which is different than not caring about hate speech at all like e.g. nazi instances do.
 
-- Jan 10th:
+> 3wc: I have read many Nazi instances' policies and a significant number are similar to Facebook's - some hate speech is disallowed, some is explicitly allowed
+
+- Jan 10th: 
+
+- foolishown escalates the issue
+- flancian asks to wait, but when it's clear people are not feelig great about waiting indefinitely suggests foolishowl start
+
+> 19:45 UTC Flancian: https://doc.anagora.org/against-meta, open to universal access, please review/edit :)
+
+> 2058 UTC Flancian: I will check back later tonight and run the vote by default, then we can go further in Loomio? I think it's a good opportunity for people to express their views on what is happening. I hope the community finds the time to participate widely.
+
+
+- flancian starts a vote: https://www.loomio.com/d/u1OkUA6M/clarity-on-stance-with-regards-to-threads/30
+
+Mastodon thread started by @FoolishOwl discusses Threads federation:
+https://social.coop/@foolishowl/113804616908267159
+
+> We have been discussing the situation with Meta's newly announced moderation standard, and it was suggested to me that it would be best to discuss this publicly with a thread that tags in our moderation team.
+
+> The question here is whether a change in policy, from limit to suspend, is a question for the moderation team, or whether we should have a formal vote as a co-op.
 
 - January 11, 2025: votes to suspend Threads begin after Meta changes their permissible speech policy. 
 
