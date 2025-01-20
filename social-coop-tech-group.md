@@ -67,7 +67,9 @@ dnlbrnds and 3wc discuss co-drafting a proposal
 > Flancian: Finally, can we acknowledge I voted to suspend and not to grant an exception to our policies and I'm acting under the working assumption the first vote will pass and the second will not? In which way do you think I am misreading, mishandling or worsening the situation 
 3wc ~ they/them? Thank you for clarifying.
 
+### Timeline highlights / overview
 
+F: Feeling very invested in things going into the situation. Suggested vote on the 8th, saw people worrying. 9th read more reaction, started changing my mind from "limit" based on lack of practical impact, to "suspend" based on emotional impact. 10th felt like the issue escalated. My POV: asked to wait. Felt like people were not OK with that. Suggested foolishowl create a thread. Didn't see pushback against calling a vote. 1.5 hou
 
 ## 2024-01-13
 - Here: [[Dan]] [[Flancian]] [[Edsu]] 
