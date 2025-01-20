@@ -1,3 +1,10 @@
+## 2025-01-20
+
+[[Dan]], [[Flacian]], [[Calix]]
+
+https://agriculturaljusticeproject.org/toolkit/resources/relations/soulfire-courageous-conversations/
+https://srinathramakrihttps://seedsforchange.org.uk/downloads/conflictbooklet.pdfshnan.wordpress.com/wp-content/uploads/2016/07/non-violent-communication-summary.pdf
+
 
 ## 2024-01-13
 - Here: [[Dan]] [[Flancian]] [[Edsu]] 
