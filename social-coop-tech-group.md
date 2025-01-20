@@ -35,8 +35,8 @@ dnlbrnds and 3wc discuss co-drafting a proposal
 - Jan 10th: 
 
 - foolishowl escalates the issue
-- flancian asks to wait, but when it's clear people are not feelig great about waiting indefinitely suggests foolishowl starts a thread with the TWG
-- foolishowl starts the thread: 
+- flancian asks to wait, but when it's clear people are not feelig great about waiting indefinitely suggests foolishowl starts a thread with the CWG
+- Mastodon thread started by @FoolishOwl discusses Threads federation: https://social.coop/@foolishowl/113804616908267159
 
 > 16:39 UTC foolishowl: It sounds like several of our moderators think it's best to have a vote on this, and I haven't seen any arguments against doing so. Unfortunately I'm bogged down at work, so I can't do a proper job drafting it at the moment, but I'll work on it when I can.
 
@@ -44,13 +44,25 @@ dnlbrnds and 3wc discuss co-drafting a proposal
 
 > 20:58 UTC Flancian: I will check back later tonight and run the vote by default, then we can go further in Loomio? I think it's a good opportunity for people to express their views on what is happening. I hope the community finds the time to participate widely.
 
-Mastodon thread started by @FoolishOwl discusses Threads federation:
-https://social.coop/@foolishowl/113804616908267159
 
 > 22:25 UTC Flancian: PSA: https://www.loomio.com/d/u1OkUA6M/clarity-on-stance-with-regards-to-threads/30 is the vote. please vote at your earliest convenience, but also optionally take the time to consider what you would like to publish on such an occasion; I think history will likely look back on both corporations and the commons at this moment. We have six days as per our governance template.
 
-- January 11, 2025: votes to suspend Threads begin after Meta changes their permissible speech policy. 
+- January 11, 2025: votes to suspend Threads begin after Meta changes their permissible speech policy are running. 
 
+> Flancian: 20% is also significant enough that, if it holds, we should probably discuss as a community how exactly we go through enacting the suspend to make sure people don't lose significant data (as per the message above; but that is only one particular implementation plan).
+
+- January 14, 2025:
+
+> Flancian: I've now called this out to the CWG and TWG so we can plan accordingly. the CWG is meeting on the 23rd and this is a topic of discussion (how to defederate if the vote holds). so people should not expect a suspend action before then, maybe before EOM. if anybody has any issues with this, please raise.
+
+> 3wc:  85% of people who voted (in the second poll) have actively disagreed with making an exception to the policy based on scale. But you're pushing for an exception to the policy based on scale?
+> if people want "how many 'follow' relationships exist between social.coop and the instance?" to be a factor in the implementation of the Federation abuse policy then let's get a proposal for it to be added?
+
+> Flancian: "Pushing" is forceful language that does not represent what I feel.
+
+> Flancian: Finally, can we acknowledge I voted to suspend and not to grant an exception to our policies and I'm acting under the working assumption the first vote will pass and the second will not? In which way do you think I am misreading, mishandling or worsening the situation 
+3wc ~ they/them
+? Thank you for clarifying.
 
 
 ## 2024-01-13
