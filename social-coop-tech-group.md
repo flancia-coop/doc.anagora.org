@@ -7,8 +7,6 @@ https://srinathramakrihttps://seedsforchange.org.uk/downloads/conflictbooklet.pd
 
 ### Timeline
 
-Before Time:
-
 - March 21, 2024: Meta announces that Threads ActivityPub integration is now available in the United States, Canada and Japan.
 
 - Jan 8th 2025:
@@ -44,10 +42,13 @@ dnlbrnds and 3wc discuss co-drafting a proposal
 
 > 20:58 UTC Flancian: I will check back later tonight and run the vote by default, then we can go further in Loomio? I think it's a good opportunity for people to express their views on what is happening. I hope the community finds the time to participate widely.
 
-
 > 22:25 UTC Flancian: PSA: https://www.loomio.com/d/u1OkUA6M/clarity-on-stance-with-regards-to-threads/30 is the vote. please vote at your earliest convenience, but also optionally take the time to consider what you would like to publish on such an occasion; I think history will likely look back on both corporations and the commons at this moment. We have six days as per our governance template.
 
+flancian and 3wc have a 1:1 discussion about the vote. [is this placed correctly?] [it was between the two votes]
+
 - January 11, 2025: votes to suspend Threads begin after Meta changes their permissible speech policy are running. 
+
+> 00:32 UTC 3wc: I have now proposed an alternative vote, "Grant an exemption to the social.coop federation abuse policy for threads.net" https://www.loomio.com/p/XsNQByhG/proposal-grant-an-exception-to-the-social-coop-federation-abuse-policy-for-threads-net
 
 > Flancian: 20% is also significant enough that, if it holds, we should probably discuss as a community how exactly we go through enacting the suspend to make sure people don't lose significant data (as per the message above; but that is only one particular implementation plan).
 
@@ -61,9 +62,7 @@ dnlbrnds and 3wc discuss co-drafting a proposal
 > Flancian: "Pushing" is forceful language that does not represent what I feel.
 
 > Flancian: Finally, can we acknowledge I voted to suspend and not to grant an exception to our policies and I'm acting under the working assumption the first vote will pass and the second will not? In which way do you think I am misreading, mishandling or worsening the situation 
-3wc ~ they/them
-? Thank you for clarifying.
-
+3wc ~ they/them? Thank you for clarifying.
 
 ## 2024-01-13
 - Here: [[Dan]] [[Flancian]] [[Edsu]] 
