@@ -73,7 +73,11 @@ F: Feeling very invested in things going into the situation. Suggested vote on t
 
 C: Felt disappointed as well when I saw the vote framed in this way. Felt that future at coop was uncertain. Suspicious about the shortness of the draft review. Felt unseen/heard.
 
+- Clarifying questions
 
+### Next actions
+
+- Discuss interactions with CWG
 
 ## 2024-01-13
 - Here: [[Dan]] [[Flancian]] [[Edsu]] 
