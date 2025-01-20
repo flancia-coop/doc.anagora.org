@@ -75,7 +75,7 @@ C: Felt disappointed as well when I saw the vote framed in this way. Felt that f
 
 - Clarifying questions
 - About past proposals in this space and their issues
-    - Multiple choice/non
+    - Multiple choice/non-bylaws one
 
 ### Next actions
 
