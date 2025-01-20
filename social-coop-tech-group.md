@@ -46,10 +46,14 @@ dnlbrnds and 3wc discuss co-drafting a proposal
 
 > 22:00 UTC: flancian and 3wc have a 1:1 discussion about the vote
 
+> 3wc: "as i said in DM, I will take you on good faith that that was your conscious intention. I will also observe that your choice of framing has made it more likely that the vote would reach your desired outcome and placed the burden on more-marginalised people to advocate for ourselves to maintain our existing defences - and encourage you to consider what subconscious bias might also have been a factor in this choice"
+
 > 22:32 UTC 3wc: I have now proposed an alternative vote, "Grant an exemption to the social.coop federation abuse policy for threads.net" https://www.loomio.com/p/XsNQByhG/proposal-grant-an-exception-to-the-social-coop-federation-abuse-policy-for-threads-net
 > 3wc: I apologise for the confusion caused by parallel votes. I hope we do not need to find out what happens if the results disagree with each other
 
-> Flancian: 20% is also significant enough that, if it holds, we should probably discuss as a community how exactly we go through enacting the suspend to make sure people don't lose significant data (as per the message above; but that is only one particular implementation plan).
+- Jan 11th, 2025
+
+> 12:44 UTC Flancian: 20% is also significant enough that, if it holds, we should probably discuss as a community how exactly we go through enacting the suspend to make sure people don't lose significant data (as per the message above; but that is only one particular implementation plan).
 
 - January 14, 2025:
 
