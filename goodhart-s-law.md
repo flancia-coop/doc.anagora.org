@@ -1,1 +1,1 @@
-I'm busy right now, try again later.
+Goodhart's law is an adage often stated as "When a measure becomes a target, it ceases to be a good measure".[1] It is named after British economist Charles Goodhart, who advanced the idea in a 1975 article on monetary policy in the United Kingdom:[2][3]
