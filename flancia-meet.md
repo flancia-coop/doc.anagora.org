@@ -15,6 +15,9 @@
         - need to handle debouncing to eliminate noise
         - each key will run its own code (!)
             - distributed approach
+- [[typing speed]] :)
+    - We're both around 100wpm
+    - https://play.typeracer.com/ is fun/OK. Makes you complete a captcha when you're above 100wpm.
 
 
 # [[flancia meet 2024-10-26]]
