@@ -9,6 +9,7 @@
     - more/better AI in the Agora?
         - try out [[deepseek]]?
     - [[Fediverse]]
+    - [[Raspberry pi]]
 - [[hardware projects]]:
     - keyboard plus firmware
         - need to handle debouncing to eliminate noise
