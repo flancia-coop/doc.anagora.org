@@ -13,6 +13,7 @@
     - keyboard plus firmware
         - need to handle debouncing to eliminate noise
         - each key will run its own code (!)
+            - distributed approach
 
 
 # [[flancia meet 2024-10-26]]
