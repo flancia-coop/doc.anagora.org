@@ -4,6 +4,15 @@
 
 
 # [[flancia meet 2025-01-25]]
+- [[bouncepaw]] [[flancian]]
+- projects for 2025 :)
+    - more/better AI in the Agora?
+        - try out [[deepseek]]?
+    - [[Fediverse]]
+- [[hardware projects]]:
+    - keyboard plus firmware
+        - need to handle debouncing to eliminate noise
+        - each key will run its own code (!)
 
 
 # [[flancia meet 2024-10-26]]
