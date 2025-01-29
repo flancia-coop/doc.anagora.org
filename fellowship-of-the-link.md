@@ -47,7 +47,8 @@
 - Moving to Europe: 
     - Apply for a grant - european research council https://erc.europa.eu/apply-grant
         - For Non-European Researchers: 
-- Check out https://archivebox.io/ 
+- Check out [[archive box]]: https://archivebox.io/ 
+    - Flancian: will tell [[bouncepaw]] about this, he's developing [[betula]] and wants to add archiving: https://garden.bouncepaw.com/hypha/betula
 
 ## [[2025-01-15]]
 Chris Aldrich can't make it today. still dispdby fires and poor wifi conx.
