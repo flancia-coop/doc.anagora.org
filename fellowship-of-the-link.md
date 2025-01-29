@@ -43,6 +43,7 @@
     - [[glue work]]: https://www.noidea.dog/glue
 - About the reaction to the new US status quo
     - Surveillance of protesters started with the past administration
+    - The government is allowed to buy data from (commercial) data brokers, which in practice enables warrantless investigations (!)
 - Moving to Europe: 
     - Apply for a grant - european research council https://erc.europa.eu/apply-grant
         - For Non-European Researchers: https://erc.europa.eu/apply-grant/non-european-researchers
