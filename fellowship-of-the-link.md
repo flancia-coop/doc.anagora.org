@@ -39,6 +39,8 @@
             - A conversation that took place mostly in blog posts, but maybe could benefit from consolidating on a wiki. 
         - [[Mathew]] and [[Aram]] worked on a doc.
 - [[Aram Zucker-Scharff]]: a lot going on at work.
+    - On TPM work and glue work.
+    - [[glue work]]: https://www.noidea.dog/glue
 - Moving to Europe: 
     - Apply for a grant - european research council https://erc.europa.eu/apply-grant
     - 
