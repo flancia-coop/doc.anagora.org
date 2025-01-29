@@ -39,7 +39,9 @@
             - A conversation that took place mostly in blog posts, but maybe could benefit from consolidating on a wiki. 
         - [[Mathew]] and [[Aram]] worked on a doc.
 - [[Aram Zucker-Scharff]]: a lot going on at work.
-- Moving to Europe: Apply for a grant - 
+- Moving to Europe: 
+    - Apply for a grant - european research council https://erc.europa.eu/apply-grant
+    - 
 
 ## [[2025-01-15]]
 Chris Aldrich can't make it today. still dispdby fires and poor wifi conx.
