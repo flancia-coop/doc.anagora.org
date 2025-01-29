@@ -46,7 +46,8 @@
     - The government is allowed to buy data from (commercial) data brokers, which in practice enables warrantless investigations (!)
 - Moving to Europe: 
     - Apply for a grant - european research council https://erc.europa.eu/apply-grant
-        - For Non-European Researchers: https://erc.europa.eu/apply-grant/non-european-researchers
+        - For Non-European Researchers: 
+- Check out https://archivebox.io/ 
 
 ## [[2025-01-15]]
 Chris Aldrich can't make it today. still dispdby fires and poor wifi conx.
