@@ -57,6 +57,8 @@
     - 0 blocks
     - [[Loomio]] is a governance platform
         - [[Bonfire]] is coming along
+        - https://wiki.social.coop/wiki/Governance is a good starting point for how Social.coop does things
+        - https://wiki.social.coop/wiki/Make_a_proposal
 
 ## [[2025-01-15]]
 Chris Aldrich can't make it today. still dispdby fires and poor wifi conx.
