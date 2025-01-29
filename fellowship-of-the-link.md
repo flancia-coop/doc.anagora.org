@@ -55,7 +55,8 @@
     - 11% voted not to suspend (stay at limit)
     - 12% abstained
     - 0 blocks
-    - [[Loomio]] is a governance platfgo
+    - [[Loomio]] is a governance platform
+        - [[Bonfire]] is coming along
 
 ## [[2025-01-15]]
 Chris Aldrich can't make it today. still dispdby fires and poor wifi conx.
