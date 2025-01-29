@@ -41,6 +41,8 @@
 - [[Aram Zucker-Scharff]]: a lot going on at work.
     - On TPM work and glue work.
     - [[glue work]]: https://www.noidea.dog/glue
+- About the reaction to the new US status quo
+    - Surveillance of protesters started with the past administration
 - Moving to Europe: 
     - Apply for a grant - european research council https://erc.europa.eu/apply-grant
         - For Non-European Researchers: https://erc.europa.eu/apply-grant/non-european-researchers
