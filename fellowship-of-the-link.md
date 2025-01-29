@@ -49,7 +49,12 @@
         - For Non-European Researchers: 
 - Check out [[archive box]]: https://archivebox.io/ 
     - Flancian: will tell [[bouncepaw]] about this, he's developing [[betula]] and wants to add archiving: https://garden.bouncepaw.com/hypha/betula
-- 
+- Results from social.coop about defederating from threads:
+    - https://www.loomio.com/d/u1OkUA6M/clarity-on-stance-with-regards-to-threads/30 was the vote
+    - 77% of people voted to suspend
+    - 11% voted not to suspend (stay at limit)
+    - 12% abstained
+    - 0 blocks
 
 ## [[2025-01-15]]
 Chris Aldrich can't make it today. still dispdby fires and poor wifi conx.
