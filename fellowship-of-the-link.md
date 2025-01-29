@@ -30,7 +30,11 @@
 - Attending: [[Mathew Lowry]] [[Flancian]]
 - Check ins
 - On [[atproto]]:
-    - [[Mathew]] has been looking into it as it relates to possible plans/goals 
+    - [[Mathew]] has been looking into it as it relates to possible plans/goals within the EU commission
+        - Each [[lexicon]] is a view or an [[app]] in the [[atmosphere]] ([[at-mosphere]]?)
+        - Thinking about how to make [[myhub]] an app in the atmosphere.
+        - Some of the content in the [[PDS]] could be published in a hub; some in [[Bluesky]].
+        - Thinking of e.g. managing notes in Obsidian, and publishing a subset of them through this 
 
 ## [[2025-01-15]]
 Chris Aldrich can't make it today. still dispdby fires and poor wifi conx.
