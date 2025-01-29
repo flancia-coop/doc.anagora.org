@@ -43,7 +43,7 @@
     - [[glue work]]: https://www.noidea.dog/glue
 - Moving to Europe: 
     - Apply for a grant - european research council https://erc.europa.eu/apply-grant
-    - 
+        - For Non-European Researchers: https://erc.europa.eu/apply-grant/non-european-researchers
 
 ## [[2025-01-15]]
 Chris Aldrich can't make it today. still dispdby fires and poor wifi conx.
