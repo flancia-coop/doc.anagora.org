@@ -35,9 +35,10 @@
         - Thinking about how to make [[myhub]] an app in the atmosphere.
         - Some of the content in the [[PDS]] could be published in a hub; some in [[Bluesky]].
         - Thinking of e.g. managing notes in Obsidian, and publishing a subset of them through this pipeline.
-    - About the question "Is [[Bluesky]] really decentralized"?
-        - A conversation that took place mostly in blog posts, but maybe could benefit from consolidating on a wiki. 
-    - [[Mathew]]
+        - About the question "Is [[Bluesky]] really decentralized"?
+            - A conversation that took place mostly in blog posts, but maybe could benefit from consolidating on a wiki. 
+        - [[Mathew]] and [[Aram]] worked on a doc.
+- [[Aram Zucker-Scharff]]: a lot going on at work.
 
 ## [[2025-01-15]]
 Chris Aldrich can't make it today. still dispdby fires and poor wifi conx.
