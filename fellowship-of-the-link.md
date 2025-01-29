@@ -27,7 +27,7 @@
             - [[github]] by default?
 
 ## [[2025-01-29]]
-- Attending: [[Mathew Lowry]] [[Flancian]]
+- Attending: [[Mathew Lowry]] [[Aram Zucker-Scharff]] [[Flancian]]
 - Check ins
 - On [[atproto]]:
     - [[Mathew]] has been looking into it as it relates to possible plans/goals within the EU commission
@@ -36,7 +36,8 @@
         - Some of the content in the [[PDS]] could be published in a hub; some in [[Bluesky]].
         - Thinking of e.g. managing notes in Obsidian, and publishing a subset of them through this pipeline.
     - About the question "Is [[Bluesky]] really decentralized"?
-        - A conversation that took place mostly in blog posts, but maybe could benefit from cons 
+        - A conversation that took place mostly in blog posts, but maybe could benefit from consolidating on a wiki. 
+    - [[Mathew]]
 
 ## [[2025-01-15]]
 Chris Aldrich can't make it today. still dispdby fires and poor wifi conx.
