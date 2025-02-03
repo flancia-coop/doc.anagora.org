@@ -3,7 +3,8 @@
 [[Dan]], [[Flacian]], [[Calix]]
 
 https://agriculturaljusticeproject.org/toolkit/resources/relations/soulfire-courageous-conversations/
-https://srinathramakrihttps://seedsforchange.org.uk/downloads/conflictbooklet.pdfshnan.wordpress.com/wp-content/uploads/2016/07/non-violent-communication-summary.pdf
+https://srinathramakrihttps://seedsforchange.org.uk/downloads/conflictbooklet.pdf
+shnan.wordpress.com/wp-content/uploads/2016/07/non-violent-communication-summary.pdf
 
 ### Timeline
 
