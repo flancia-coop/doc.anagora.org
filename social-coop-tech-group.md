@@ -2,6 +2,11 @@
 [[Dan]], [[Flacian]], [[Calix]]
 
 - (over at autonomic pad)
+- next actions:
+1. Write a draft summary of our conversations
+2. With your joint approval, post it for others to read (Loomio?)
+3. Read the wiki link above (!) and consider incorporating changes from our experiences
+4. Make sure Calyx gets meeting info for our next CWG meeting. 
 
 ## 2025-01-20
 
