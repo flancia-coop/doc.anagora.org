@@ -5,7 +5,12 @@
 ## [[2025-02-07]]
 - En Buenos Aires del 15 al 24 :D
     - [[Confluencia]]
-    - Fugazzetta rellena! [[El Corte]] 
+    - Fugazzetta rellena! [[El Corte]]
+- Ekumen
+- Complejidad/confusión en flujos de moderación
+    - Reportes vacíos
+    - Podríamos facilitar mandar mensajes a la persona que reportó pidiendo más información
+    - 
 
 ## [[2025-01-10]]
 - Attending: [[Eduardo Mercovich]] [[Flancian]]
