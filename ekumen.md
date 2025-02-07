@@ -13,7 +13,9 @@
     - Cuenta de mensajería permite manejo de contexto compartido
 - Timeline
     - Deadlines posibles: becas
-        - Cuáles y cua
+        - Cuáles y cuándo?
+    - Q1: socializar las ideas y flujos con social.coop (CWG seguro, quizás OC). Edumerco hace algo de moderación.
+    - Q2: socializar con otras instancias e incorporar más requerimientos. Avance sobre el prototipo.
 
 ## [[2025-01-10]]
 - Attending: [[Eduardo Mercovich]] [[Flancian]]
