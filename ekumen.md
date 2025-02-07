@@ -10,6 +10,7 @@
 - Complejidad/confusión en flujos de moderación
     - Reportes vacíos
     - Podríamos facilitar mandar mensajes a la persona que reportó pidiendo más información
+    - Cuenta de mensajería permite manejo de contexto compartido
     - 
 
 ## [[2025-01-10]]
