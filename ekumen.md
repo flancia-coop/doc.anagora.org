@@ -11,7 +11,9 @@
     - Reportes vacíos
     - Podríamos facilitar mandar mensajes a la persona que reportó pidiendo más información
     - Cuenta de mensajería permite manejo de contexto compartido
-    - 
+- Timeline
+    - Deadlines posibles: becas
+        - Cuáles y cua
 
 ## [[2025-01-10]]
 - Attending: [[Eduardo Mercovich]] [[Flancian]]
