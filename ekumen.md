@@ -8,6 +8,7 @@
     - Fugazzetta rellena! [[El Corte]]
     - Mydata en Helsinki
         - Quizás con [[open space technology]]
+        - https://mydata.org/events-old/2025-conference/
 - Ekumen
 - Complejidad/confusión en flujos de moderación
     - Reportes vacíos
