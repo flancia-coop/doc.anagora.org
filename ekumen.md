@@ -2,7 +2,11 @@
 
 - Meeting times: as per https://crab.fit/ekumen-152483
 
-## [[2024-01-10]]
+## [[2025-02-07]]
+- En Buenos Aires del 15 al 24 :D
+- 
+
+## [[2025-01-10]]
 - Attending: [[Eduardo Mercovich]] [[Flancian]]
 - #miro https://miro.com/app/board/uXjVL-azEBw=/
 - Notas libres sobre el board
