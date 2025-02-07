@@ -6,6 +6,7 @@
 - En Buenos Aires del 15 al 24 :D
     - [[Confluencia]]
     - Fugazzetta rellena! [[El Corte]]
+    - Mydata en Helsinki
 - Ekumen
 - Complejidad/confusión en flujos de moderación
     - Reportes vacíos
