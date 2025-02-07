@@ -7,6 +7,8 @@
     - [[Confluencia]]
     - Fugazzetta rellena! [[El Corte]]
     - Mydata en Helsinki
+        - Quizás con [[open space technology]]
+        - 
 - Ekumen
 - Complejidad/confusión en flujos de moderación
     - Reportes vacíos
