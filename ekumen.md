@@ -5,7 +5,7 @@
 ## [[2025-02-07]]
 - En Buenos Aires del 15 al 24 :D
     - [[Confluencia]]
-    - Fugazzetta 
+    - Fugazzetta rellena! [[El Corte]] 
 
 ## [[2025-01-10]]
 - Attending: [[Eduardo Mercovich]] [[Flancian]]
