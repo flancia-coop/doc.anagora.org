@@ -15,7 +15,7 @@
     - Deadlines posibles: becas
         - Cuáles y cuándo?
     - Q1: socializar las ideas y flujos con social.coop (CWG seguro, quizás OC). Edumerco hace algo de moderación.
-        - 
+        - Podemos proponerlo en la reunión del OC de la semana que viene.
     - Q2: socializar con otras instancias e incorporar más requerimientos. Avance sobre el prototipo.
 
 ## [[2025-01-10]]
