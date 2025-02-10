@@ -10,6 +10,8 @@
     - pando.social.coop exists!
         - https://git.coop/social.coop/tech/ansible/-/merge_requests/50 for the MR
         - Discussed how to bootstrap a new server, committed an update to README.md.
+    - maybe upgrade mastodon?
+        - 
 
 ## 2025-02-03
 [[Dan]], [[Flacian]], [[Calix]]
