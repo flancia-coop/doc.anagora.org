@@ -16,7 +16,7 @@
 
 ## 2025-02-03
 [[Dan]], [[Flacian]], [[Calix]]
-
+https://git.coop/social.coop/tech/ansible/-/merge_requests/51
 - (over at autonomic pad)
 - next actions:
 1. Write a draft summary of our conversations
