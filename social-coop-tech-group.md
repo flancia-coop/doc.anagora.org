@@ -12,7 +12,7 @@
         - https://git.coop/social.coop/tech/ansible/-/merge_requests/50 for the MR
         - Discussed how to bootstrap a new server, committed an update to README.md.
     - maybe upgrade mastodon?
-        - 
+        - we did! 4.3.3.
 
 ## 2025-02-03
 [[Dan]], [[Flacian]], [[Calix]]
