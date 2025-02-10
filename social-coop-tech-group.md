@@ -1,3 +1,13 @@
+## 2025-02-10
+[[Dan]], [[Flacian]].
+- Check ins
+    - AI
+    - and thinking about encryption :)
+        - (side projects :)
+- alpha.social.coop progress
+    - pando.social.coop exists!
+    - 
+
 ## 2025-02-03
 [[Dan]], [[Flacian]], [[Calix]]
 
