@@ -5,6 +5,7 @@
         - Flancian back on March 10 from travel
     - and thinking about encryption :)
         - (side projects :)
+    - Washington, DC mood
 - alpha.social.coop progress
     - pando.social.coop exists!
         - https://git.coop/social.coop/tech/ansible/-/merge_requests/50 for the MR
