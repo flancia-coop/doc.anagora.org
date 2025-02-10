@@ -2,12 +2,13 @@
 [[Dan]], [[Flacian]].
 - Check ins
     - AI
+        - Flancian back on March 10 from travel
     - and thinking about encryption :)
         - (side projects :)
 - alpha.social.coop progress
     - pando.social.coop exists!
         - https://git.coop/social.coop/tech/ansible/-/merge_requests/50 for the MR
-        - Discussed how to bootstrap a new server, committed an update to README
+        - Discussed how to bootstrap a new server, committed an update to README.md.
 
 ## 2025-02-03
 [[Dan]], [[Flacian]], [[Calix]]
