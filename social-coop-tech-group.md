@@ -1,5 +1,5 @@
 ## 2025-02-10
-[[Dan]], [[Flacian]].
+[[Dan]], [[Edsu]], [[Flacian]].
 - Check ins
     - AI
         - Flancian back on March 10 from travel
