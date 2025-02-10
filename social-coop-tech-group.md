@@ -6,7 +6,7 @@
         - (side projects :)
 - alpha.social.coop progress
     - pando.social.coop exists!
-    - 
+        - https://git.coop/social.coop/tech/ansible/-/merge_requests/50 for the MR
 
 ## 2025-02-03
 [[Dan]], [[Flacian]], [[Calix]]
