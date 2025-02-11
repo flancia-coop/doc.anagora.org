@@ -57,11 +57,7 @@ dnlbrnds and 3wc discuss co-drafting a proposal
 > Flancian: [..] I was trying to say that Meta does seem to be defining hate speech and is apparently "just" choosing to exclude some classes of speech from this category, which is different than not caring about hate speech at all like e.g. nazi instances do.
 
 > 3wc: I have read many Nazi instances' policies and a significant number are similar to Facebook's - some hate speech is disallowed, some is explicitly allowed
-
-- Jan 10th: 
-
-- foolishowl escalates the issue
-- flancian asks to wait, but when it's clear people are not feelig great about waiting indefinitely suggests foolishowl starts a thread with the CWG
+8HJYUNMMMMMrts a thread with the CWG
 - Mastodon thread started by @FoolishOwl discusses Threads federation: https://social.coop/@foolishowl/113804616908267159
 
 > 16:39 UTC foolishowl: It sounds like several of our moderators think it's best to have a vote on this, and I haven't seen any arguments against doing so. Unfortunately I'm bogged down at work, so I can't do a proper job drafting it at the moment, but I'll work on it when I can.
