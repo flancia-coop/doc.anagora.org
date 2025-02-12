@@ -43,6 +43,8 @@
     - Two startups!
         - you-bots.ai
         - AI coaching forum
+    - On the lowered barrier to entry to coding
+        - And regenerating codebases from inmpr
 
 ## [[2025-01-29]]
 - Attending: [[Mathew Lowry]] [[Aram Zucker-Scharff]] [[Flancian]]
