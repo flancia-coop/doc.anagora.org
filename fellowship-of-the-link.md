@@ -30,7 +30,9 @@
 - Attending: [[Chris Aldrich]] [[Jerry Michalski]] [[Peter Kaminski]] [[Flancian]]
 - Fires in [[Altadena]]
     - [[Wind maps]]
-    - 
+    - Factors for these fires:
+        - Unusual driness
+        - Winds stronger than usual in this season
 
 ## [[2025-01-29]]
 - Attending: [[Mathew Lowry]] [[Aram Zucker-Scharff]] [[Flancian]]
