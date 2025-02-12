@@ -37,8 +37,12 @@
             - Could we build houses that can defend against fire?
 - Jerry: ice storm coming
     - Had a very good speaking month so far!
-    - Q: any feedback lately?
+    - Q: any feedback lately? How did it go?
         - Started with talking about possible and impossible
+- Peter Kaminski
+    - Two startups!
+        - you-bots
+        - AI coaching forum
 
 ## [[2025-01-29]]
 - Attending: [[Mathew Lowry]] [[Aram Zucker-Scharff]] [[Flancian]]
