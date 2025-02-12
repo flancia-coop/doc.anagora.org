@@ -29,6 +29,8 @@
 ## [[2025-02-12]]
 - Attending: [[Chris Aldrich]] [[Jerry Michalski]] [[Peter Kaminski]] [[Flancian]]
 - Fires in [[Altadena]]
+    - [[Wind maps]]
+    - 
 
 ## [[2025-01-29]]
 - Attending: [[Mathew Lowry]] [[Aram Zucker-Scharff]] [[Flancian]]
