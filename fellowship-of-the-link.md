@@ -45,6 +45,9 @@
         - AI coaching forum
     - On the lowered barrier to entry to coding
         - And regenerating codebases from improved prompts instead of (sometimes) maintaining the code
+    - F: On the need to annotate generated content ideally going forward, traceability of meaningfulness (?)
+        - On losing touch with reality if we don't do this
+        - The examples we already have of people not caring about factfulness
 
 ## [[2025-01-29]]
 - Attending: [[Mathew Lowry]] [[Aram Zucker-Scharff]] [[Flancian]]
