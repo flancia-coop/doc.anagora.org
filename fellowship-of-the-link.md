@@ -41,7 +41,7 @@
         - Started with talking about possible and impossible
 - Peter Kaminski
     - Two startups!
-        - you-bots.ai
+        - [[you-bots.ai]]
         - AI coaching forum
     - On the lowered barrier to entry to coding
         - And regenerating codebases from improved prompts instead of (sometimes) maintaining the code
