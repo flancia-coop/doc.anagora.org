@@ -41,7 +41,7 @@
         - Started with talking about possible and impossible
 - Peter Kaminski
     - Two startups!
-        - you-bots
+        - you-bots.ai
         - AI coaching forum
 
 ## [[2025-01-29]]
