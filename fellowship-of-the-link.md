@@ -26,6 +26,10 @@
         - [[issue tracker]] / [[project tracker]] URL
             - [[github]] by default?
 
+## [[2025-02-12]]
+- Attending: [[Chris Aldrich]] [[Jerry Michalski]] [[Peter Kaminski]] [[Flancian]]
+- Fires in [[Altadena]]
+
 ## [[2025-01-29]]
 - Attending: [[Mathew Lowry]] [[Aram Zucker-Scharff]] [[Flancian]]
 - Check ins
