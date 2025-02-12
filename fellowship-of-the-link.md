@@ -44,7 +44,7 @@
         - you-bots.ai
         - AI coaching forum
     - On the lowered barrier to entry to coding
-        - And regenerating codebases from inmpr
+        - And regenerating codebases from improved prompts instead of (sometimes) maintaining the code
 
 ## [[2025-01-29]]
 - Attending: [[Mathew Lowry]] [[Aram Zucker-Scharff]] [[Flancian]]
