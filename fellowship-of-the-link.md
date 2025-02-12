@@ -33,6 +33,7 @@
     - Factors for these fires:
         - Unusual driness
         - Winds stronger than usual in this season
+        - Building materials
 
 ## [[2025-01-29]]
 - Attending: [[Mathew Lowry]] [[Aram Zucker-Scharff]] [[Flancian]]
