@@ -16,6 +16,11 @@
     - hard to track bugs
 - plans for the weekend
 - [[betula]] update
+    - [[archiving]] shipped!
+        - see [[betula archival]] node
+        - very cool
+        - not available on links.flancia.org yet but looking forward to updating/using it
+- [[syncthing]] sharing
 
 # [[flancia meet 2025-01-25]]
 - [[bouncepaw]] [[flancian]]
