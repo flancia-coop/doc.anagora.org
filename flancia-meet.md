@@ -20,6 +20,7 @@
         - see [[betula archival]] node
         - very cool
         - not available on links.flancia.org yet but looking forward to updating/using it
+    - next step: search each other bookmark's without leaving betula
 - [[syncthing]] sharing
 - [[bhi backups]]
 
