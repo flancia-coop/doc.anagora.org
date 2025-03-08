@@ -8,7 +8,7 @@
     - in many senses?
     - revolutionize/disrupt work:
         - tough for junior developers
-        - yet te
+        - yet the code being generated is still kind of bad
     - aid the revolution
         - seems potentially unlikely, maybe counterproductive as it will allow corporations to concentrate the power
 
