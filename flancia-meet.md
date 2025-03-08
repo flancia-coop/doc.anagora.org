@@ -2,7 +2,14 @@
 - We meet best-effort every Saturday usually around 9 UTC.
 - This is where we have community maintained notes :)
 
-- [[flancia meet 2025-]]
+# [[flancia meet 2025-03-08]]
+- [[bouncepaw]] [[flancian]]
+- [[AI revolution]] 
+    - in many senses?
+    - revolutionize/disrupt work:
+        - tough for junior developers
+    - aid the revolution
+        - seems potentially unlikely, maybe counterproductive as it will allow corporations to concentrate the power
 
 # [[flancia meet 2025-01-25]]
 - [[bouncepaw]] [[flancian]]
