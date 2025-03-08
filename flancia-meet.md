@@ -21,6 +21,7 @@
         - very cool
         - not available on links.flancia.org yet but looking forward to updating/using it
 - [[syncthing]] sharing
+- [[bhi backups]]
 
 # [[flancia meet 2025-01-25]]
 - [[bouncepaw]] [[flancian]]
