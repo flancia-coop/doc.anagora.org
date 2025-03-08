@@ -14,6 +14,8 @@
 - [[bug hunting]]
     - difficult without whole-system intuition
     - hard to track bugs
+- plans for the weekend
+- [[betula]] update
 
 # [[flancia meet 2025-01-25]]
 - [[bouncepaw]] [[flancian]]
