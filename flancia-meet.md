@@ -25,6 +25,12 @@
     - and [[remarks]] :)
 - [[syncthing]] sharing
 - [[bhi backups]]
+- [[mycoverse search]]
+- [[agora oauth]]
+    - maybe the time is coming?
+    - what could a user do once logged in?
+        - edit?
+        - -> [[bull]] and multi user hosting
 
 # [[flancia meet 2025-01-25]]
 - [[bouncepaw]] [[flancian]]
