@@ -13,6 +13,7 @@
         - seems potentially unlikely, maybe counterproductive as it will allow corporations to concentrate the power
 - [[bug hunting]]
     - difficult without whole-system intuition
+    - hard to track bugs
 
 # [[flancia meet 2025-01-25]]
 - [[bouncepaw]] [[flancian]]
