@@ -21,6 +21,7 @@
         - very cool
         - not available on links.flancia.org yet but looking forward to updating/using it
     - next step: search each other bookmark's without leaving betula
+        - [[agora search]] could be implemented along these same lines?
     - and [[remarks]] :)
 - [[syncthing]] sharing
 - [[bhi backups]]
