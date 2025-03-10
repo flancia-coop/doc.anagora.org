@@ -10,6 +10,8 @@
     - DMARC reporting/monitoring
     - Let's try to do this now?
 - domain: move to Domains.coop in 2026
+    - cost is beneficial
+    - also the support you can give to another coop
 - alpha.social.coop progress
 - maybe upgrade mastodon
     - No need as Dan did it last week! \o/
