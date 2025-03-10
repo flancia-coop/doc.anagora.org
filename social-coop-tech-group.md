@@ -4,8 +4,11 @@
     - Flan: travel was great! Now in post-travel haze
     - Calix: good, will travel soon again to conclude the visa saga
     - Andrew: good, doing well -- in Toronto, CA. Interesting couple of weeks -- navigating "all this" (world's chaos).
-    - Dan: 
+    - Dan: OMINOUS SILENCE (because of the Bluetooth gods). Fine despite a cold; have a hard stop at :30. Will be in NYC tomorrow!
+        - Calix: will DM.
 - Cloudflare delegation
+    - DMARC reporting/monitoring
+- domain: move to Domains.coop in 2026
 - alpha.social.coop progress
 - maybe upgrade mastodon
     - No need as Dan did it last week! \o/
