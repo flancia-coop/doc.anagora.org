@@ -1,3 +1,12 @@
+## 2025-03-10
+[[Andrew]], [[Calix]], [[Flacian]].
+- Check ins
+    - F: 
+- Cloudflare de
+- alpha.social.coop progress
+- maybe upgrade mastodon?
+- and we succesfully re-encrypted pass!
+
 ## 2025-02-10
 [[Dan]], [[Edsu]], [[Flacian]].
 - Check ins
