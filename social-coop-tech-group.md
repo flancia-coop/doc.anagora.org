@@ -1,8 +1,10 @@
 ## 2025-03-10
-[[Andrew]], [[Calix]], [[Flancian]].
+[[Andrew]], [[Calix]], [[Dan]], [[Flancian]].
 - Check ins
     - Flan: travel was great! Now in post-travel haze
-    - Calix:
+    - Calix: good, will travel soon again to conclude the visa saga
+    - Andrew: good, doing well -- in Toronto, CA. Interesting couple of weeks -- navigating "all this" (world's chaos).
+    - Dan: 
 - Cloudflare delegation
 - alpha.social.coop progress
 - maybe upgrade mastodon
