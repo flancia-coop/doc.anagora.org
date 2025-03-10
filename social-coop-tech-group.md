@@ -11,8 +11,8 @@
     - Let's try to do this now?
         - Done!
         - In DNS settings, you can invite members in the burger menu
-    - follow-up request:
-        - domain-scoped role
+    - follow-up request after TWG meeting:
+        - Admin. domain-scoped role is not enough; need Admin. account-scoped role
 - domain: move to Domains.coop in 2026
     - cost is beneficial
     - also the support you can give to another coop
