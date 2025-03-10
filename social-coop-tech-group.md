@@ -22,6 +22,7 @@
     - ansible PR still pending
 - maybe upgrade mastodon
     - No need as Dan did it last week! \o/
+    - 4.3.5 is out but can wait, we'll adjourn early and likely do it next week
 
 ## 2025-02-10
 [[Dan]], [[Edsu]], [[Flacian]].
