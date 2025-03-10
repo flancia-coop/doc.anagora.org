@@ -13,7 +13,7 @@
     - cost is beneficial
     - also the support you can give to another coop
     - at which point should we write down a policy to try to support coops even if they come at some extra financial cost?
-      - we'll bring it up with the OC on Thursday
+      - **we'll bring it up with the OC on Thursday**
 - alpha.social.coop progress
 - maybe upgrade mastodon
     - No need as Dan did it last week! \o/
