@@ -8,6 +8,7 @@
         - Calix: will DM.
 - Cloudflare delegation
     - DMARC reporting/monitoring
+    - Let's try to do this now?
 - domain: move to Domains.coop in 2026
 - alpha.social.coop progress
 - maybe upgrade mastodon
