@@ -1,11 +1,12 @@
 ## 2025-03-10
-[[Andrew]], [[Calix]], [[Flacian]].
+[[Andrew]], [[Calix]], [[Flancian]].
 - Check ins
-    - F: 
-- Cloudflare de
+    - Flan: travel was great! Now in post-travel haze
+    - Calix:
+- Cloudflare delegation
 - alpha.social.coop progress
-- maybe upgrade mastodon?
-- and we succesfully re-encrypted pass!
+- maybe upgrade mastodon
+    - No need as Dan did it last week! \o/
 
 ## 2025-02-10
 [[Dan]], [[Edsu]], [[Flacian]].
