@@ -9,12 +9,17 @@
 - Cloudflare delegation
     - DMARC reporting/monitoring
     - Let's try to do this now?
+        - Done!
+        - In DNS settings, you can invite members in the burger menu
 - domain: move to Domains.coop in 2026
     - cost is beneficial
     - also the support you can give to another coop
     - at which point should we write down a policy to try to support coops even if they come at some extra financial cost?
       - **we'll bring it up with the OC on Thursday**
 - alpha.social.coop progress
+    - or lack thereof
+    - server live
+    - ansible PR still pending
 - maybe upgrade mastodon
     - No need as Dan did it last week! \o/
 
