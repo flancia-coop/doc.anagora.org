@@ -45,6 +45,7 @@
         - Patched browser that user can specify embedding desired by user
     - We should meet!
         - https://smurp.com/meet
+    - You should review the European Research Council: https://erc.europa.eu/
     
 ## [[2025-02-19]]
 - Attending: [[Peter Kaminski]] [[Aram Zucker-Scharff]]
