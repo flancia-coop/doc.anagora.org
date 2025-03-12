@@ -31,7 +31,8 @@
 - [[Shawn Murphy]] presenting!
     - http://bootstrap.noosphere.org/#/5
     - [[huviz]]: https://huviz.noosphere.org
-    - [[thinkertoys]]
+    - [[thinkertoys]] and [[nooviz]]
+    - supports meta objects/predicts, useful for assertions about the graphs
     
 ## [[2025-02-19]]
 - Attending: [[Peter Kaminski]] [[Aram Zucker-Scharff]]
