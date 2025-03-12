@@ -42,6 +42,8 @@
         - Yes to both!
     - Content security restrictions / iframe embedding
         - Patched browser that user can specify embedding desired by user
+    - We should meet!
+        - https://smurp.com/meet
     
 ## [[2025-02-19]]
 - Attending: [[Peter Kaminski]] [[Aram Zucker-Scharff]]
