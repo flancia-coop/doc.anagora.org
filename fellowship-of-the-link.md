@@ -52,7 +52,7 @@
 - #JM
     - we’ll be able to subject our thinking strategies to evolutionary pressure 
     - #PK William Calvin describes thought as a process that involves cortical columns dancing in Darwinian selection of which thought to think: https://sites.google.com/view/williamcalvin-org/brains-consciousness
-    - https://thinktoys.app/redir/JoinChat
+    - https://thinkertoys.app/redir/JoinChat
 
     
 ## [[2025-02-19]]
