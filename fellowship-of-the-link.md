@@ -28,7 +28,8 @@
 
 ## [[2025-03-12]]
 - Attending: <..>
-- [[Shawn Murphy]] presenting
+- [[Shawn Murphy]] presenting!
+    - http://bootstrap.noosphere.org/#/5
     - [[huviz]]: https://huviz.noosphere.org
     - [[thinkertoys]]
     
