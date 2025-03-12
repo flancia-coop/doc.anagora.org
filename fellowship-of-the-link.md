@@ -26,6 +26,12 @@
         - [[issue tracker]] / [[project tracker]] URL
             - [[github]] by default?
 
+## [[2025-03-12]]
+- Attending: <..>
+- [[Shawn Murphy]] presenting
+    - [[huviz]]: https://huviz.noosphere.org
+    - [[thinkertoys]]
+    
 ## [[2025-02-19]]
 - Attending: [[Peter Kaminski]] [[Aram Zucker-Scharff]]
 - 
