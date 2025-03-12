@@ -46,6 +46,12 @@
     - We should meet!
         - https://smurp.com/meet
     - You should review the European Research Council: https://erc.europa.eu/
+- #PK
+    - perhaps related, the explanations in "A Thousand Brains: A New Theory of Intelligence", a book authored by Jeff Hawkins 
+    - Hawkins says thought uses older brain mechanics based on physical maps of animals' grid-based motion in (mostly 2D) space 
+- #JM
+    - we’ll be able to subject our thinking strategies to evolutionary pressure 
+
     
 ## [[2025-02-19]]
 - Attending: [[Peter Kaminski]] [[Aram Zucker-Scharff]]
