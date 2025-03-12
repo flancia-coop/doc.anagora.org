@@ -40,6 +40,8 @@
         - Yes!
     - Are you thinking of this as a hosted service or a toolkit that people can download and use?
         - Yes to both!
+    - Content security restrictions / iframe embedding
+        - Patched browser that user can specify embedding desired by user
     
 ## [[2025-02-19]]
 - Attending: [[Peter Kaminski]] [[Aram Zucker-Scharff]]
