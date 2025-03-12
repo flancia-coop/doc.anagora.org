@@ -35,6 +35,11 @@
     - supports meta objects/predicts, useful for assertions about the graphs
     - https://en.wikipedia.org/wiki/Letter_to_the_Grand_Duchess_Christina
         - https://web.stanford.edu/~jsabol/certainty/readings/Galileo-LetterDuchessChristina.pdf
+- Q&A and comments
+    - Very cool! Could nooviz be used as a library/embedded for graph/triples/[[TTL]] rendering?
+        - Yes!
+    - Are you thinking of this as a hosted service or a toolkit that people can download and use?
+        - Yes to both!
     
 ## [[2025-02-19]]
 - Attending: [[Peter Kaminski]] [[Aram Zucker-Scharff]]
