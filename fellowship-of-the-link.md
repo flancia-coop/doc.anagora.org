@@ -51,6 +51,7 @@
     - Hawkins says thought uses older brain mechanics based on physical maps of animals' grid-based motion in (mostly 2D) space 
 - #JM
     - we’ll be able to subject our thinking strategies to evolutionary pressure 
+    - #PK William Calvin describes thought as a process that involves cortical columns dancing in Darwinian selection of which thought to think: https://sites.google.com/view/williamcalvin-org/brains-consciousness
 
     
 ## [[2025-02-19]]
