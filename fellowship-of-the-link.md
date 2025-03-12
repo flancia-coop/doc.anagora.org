@@ -33,6 +33,8 @@
     - [[huviz]]: https://huviz.noosphere.org
     - [[thinkertoys]] and [[nooviz]]
     - supports meta objects/predicts, useful for assertions about the graphs
+    - https://en.wikipedia.org/wiki/Letter_to_the_Grand_Duchess_Christina
+        - https://web.stanford.edu/~jsabol/certainty/readings/Galileo-LetterDuchessChristina.pdf
     
 ## [[2025-02-19]]
 - Attending: [[Peter Kaminski]] [[Aram Zucker-Scharff]]
