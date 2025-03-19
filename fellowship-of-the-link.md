@@ -30,6 +30,8 @@
 - Attending: [[Aram Zucker-Scharff]] [[Flancian]]
 - Working while in vacation
 - Training our replacements
+- Environment at the workplace
+    - Subscription woes due to owner statements
 
 ## [[2025-03-12]]
 - Attending: <..>
