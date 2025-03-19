@@ -34,7 +34,9 @@
     - Subscription woes due to owner statements
     - Return to office five days a week
 - Personal projects
-    - #AZS: [[foursquare]] space. There's takeout data for the service that they shut down. Spent time
+    - #AZS: [[foursquare]] space. There's takeout data for the service that they shut down. Spent time to fill in checkins
+        - this could support/enable a social feature (through ActivityPub or AtProto)
+- [[atproto]] conference this week
 
 ## [[2025-03-12]]
 - Attending: <..>
