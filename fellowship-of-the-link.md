@@ -37,6 +37,7 @@
     - #AZS: [[foursquare]] space. There's takeout data for the service that they shut down. Spent time to fill in checkins
         - this could support/enable a social feature (through ActivityPub or AtProto)
         - on atproto vs activitypub
+        - 
 - [[atproto]] conference this week
 
 ## [[2025-03-12]]
