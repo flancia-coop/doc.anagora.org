@@ -38,6 +38,8 @@
         - this could support/enable a social feature (through ActivityPub or AtProto)
         - on atproto vs activitypub
             - ActivityPub better for social networking itself
+                - [[betula]] example for non-microblogging functionality
+                - scaling is still a pain with AP
             - Atproto more sensible in some ways though
 - [[atproto]] conference this week
 
