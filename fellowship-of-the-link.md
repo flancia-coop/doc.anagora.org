@@ -45,7 +45,9 @@
         - #AZS maybe nostr is the right technical answer, but the community has downsides
             - and at this point social networks just decline
         - Opportunity for "commons first solution that can make use of vault/archive data"
-        - in
+        - in "import/making data useful space":
+            - [[promnesia]]
+            - [[dogsheep]]
 - [[atproto]] conference this week
 
 ## [[2025-03-12]]
