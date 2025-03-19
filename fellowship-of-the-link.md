@@ -25,6 +25,10 @@
         - /now
         - [[issue tracker]] / [[project tracker]] URL
             - [[github]] by default?
+            
+## [[2025-03-19]]
+- Attending: [[Aram Zucker-Scharff]] 
+-
 
 ## [[2025-03-12]]
 - Attending: <..>
