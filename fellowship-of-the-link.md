@@ -27,8 +27,9 @@
             - [[github]] by default?
             
 ## [[2025-03-19]]
-- Attending: [[Aram Zucker-Scharff]] 
--
+- Attending: [[Aram Zucker-Scharff]] [[Flancian]]
+- Working while in vacation
+- Training our replacements
 
 ## [[2025-03-12]]
 - Attending: <..>
