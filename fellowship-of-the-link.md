@@ -32,6 +32,9 @@
 - Training our replacements
 - Environment at the workplace
     - Subscription woes due to owner statements
+    - Return to office five days a week
+- Personal projects
+    - #AZS: [[foursquare]] space. There's takeout data for the service that they shut down. Spent time
 
 ## [[2025-03-12]]
 - Attending: <..>
