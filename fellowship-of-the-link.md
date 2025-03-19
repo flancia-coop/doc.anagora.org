@@ -41,6 +41,8 @@
                 - [[betula]] example for non-microblogging functionality
                 - scaling is still a pain with AP
             - Atproto more sensible in some ways though
+                - Like the PDS approach
+        - #AZS maybe nostr is the right technical answer, but the community has downsides
 - [[atproto]] conference this week
 
 ## [[2025-03-12]]
