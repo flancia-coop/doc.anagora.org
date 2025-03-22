@@ -7,7 +7,7 @@
 - Greetings!
 - Soups, pros and cons
     - Chicken soup in the witch's cauldron
-- Should we meet some day in Moscow? After the war?
+- Should we meet some day in Moscow?
 - On ephemeral artifacts (e.g. chat as it is in matrix) vs persistent (e.g. agoras)
     - Why the distinction/hard cut?
     - About Borges...
