@@ -2,6 +2,13 @@
 - We meet best-effort every Saturday usually around 9 UTC.
 - This is where we have community maintained notes :)
 
+# [[flancia meet 2025-03-22]]
+- [[bouncepaw]] [[flancian]]
+- Greetings!
+- Soups, pros and cons
+    - Chicken soup in the witch's cauldron
+- Should we meet some day in Moscow? After the war?
+
 # [[flancia meet 2025-03-08]]
 - [[bouncepaw]] [[flancian]]
 - [[AI revolution]] 
