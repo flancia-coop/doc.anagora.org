@@ -18,6 +18,9 @@
             - [[The immortal]] is similar but with life instead of memory
         - [[Lottery in Babylon]]
         - [[Tlön, Uqbar, Orbis Tertius]]
+    - Right to be forgotten
+        - But what about [[Max Brod]]?
+        - And what about consent?
 
 # [[flancia meet 2025-03-08]]
 - [[bouncepaw]] [[flancian]]
