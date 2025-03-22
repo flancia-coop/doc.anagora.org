@@ -8,6 +8,16 @@
 - Soups, pros and cons
     - Chicken soup in the witch's cauldron
 - Should we meet some day in Moscow? After the war?
+- On ephemeral artifacts (e.g. chat as it is in matrix) vs persistent (e.g. agoras)
+    - Why the distinction/hard cut?
+    - About Borges...
+        - [[Funes el memorioso]]
+            - [[The immortal]] is similar but with life instead of memory
+        - [[The library of babel]]
+        - [[Lottery in Babylon]]
+        - [[Tlön, Uqbar, Orbis Tertius]]
+        - [[Death and the compass]]
+            - Completely different style, more like a police sto
 
 # [[flancia meet 2025-03-08]]
 - [[bouncepaw]] [[flancian]]
