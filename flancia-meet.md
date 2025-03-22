@@ -11,13 +11,13 @@
 - On ephemeral artifacts (e.g. chat as it is in matrix) vs persistent (e.g. agoras)
     - Why the distinction/hard cut?
     - About Borges...
+        - [[The library of Babel]]
+        - [[Death and the compass]]
+            - Completely different style, more like a police story, representative of a certain kind of short story he produced
         - [[Funes el memorioso]]
             - [[The immortal]] is similar but with life instead of memory
-        - [[The library of babel]]
         - [[Lottery in Babylon]]
         - [[Tlön, Uqbar, Orbis Tertius]]
-        - [[Death and the compass]]
-            - Completely different style, more like a police sto
 
 # [[flancia meet 2025-03-08]]
 - [[bouncepaw]] [[flancian]]
