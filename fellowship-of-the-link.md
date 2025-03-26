@@ -29,7 +29,10 @@
 ## [[2025-03-26]]
 - Not today!  Stealth editing by [[SJ]] anyhow.
 - Reminded that wikis need their own go-links and there is hot debate sometimes about who gets shortcuts for user-namespace pages :)
-- Calling all indexers:  Working on building the index to a planetary library ~ https://publicai.network/atlas
+- from the Build a Bigger Wiki Dept.
+    - Calling all indexers: [[SJ]] and [[Public AI Network]] folk working on building the index to a planetary library ~ https://publicai.network/atlas
+    - Also have new partners for [[Omnipedia]] in the Lam Lab at Stanford who want to feed STORM drafts into the draft-wiki.  Experiments in the coming weeks...
+- love to you all //
 
 ## [[2025-03-19]]
 - Attending: [[Aram Zucker-Scharff]] [[Flancian]]
