@@ -29,7 +29,7 @@
 ## [[2025-03-26]]
 - Not today!  Stealth editing by [[SJ]] anyhow.
 - Reminded that wikis need their own go-links and there is hot debate sometimes about who gets shortcuts for user-namespace pages :)
-- 
+- Calling all indexers:  Working on building the index to a planetary library ~ https://publicai.network/atlas
 
 ## [[2025-03-19]]
 - Attending: [[Aram Zucker-Scharff]] [[Flancian]]
