@@ -26,6 +26,11 @@
         - [[issue tracker]] / [[project tracker]] URL
             - [[github]] by default?
             
+## [[2025-03-26]]
+- Not today!  Stealth editing by [[SJ]] anyhow.
+- Reminded that wikis need their own go-links and there is hot debate sometimes about who gets shortcuts for user-namespace pages :)
+- 
+
 ## [[2025-03-19]]
 - Attending: [[Aram Zucker-Scharff]] [[Flancian]]
 - Working while in vacation
