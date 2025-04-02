@@ -43,7 +43,8 @@
         - One of the deficits of the left is the lack of self-critique.
         - Can we focus on making the world better beyond political divides?
         - As things get broken, people will need alternatives.
-        - https://rethinkconstraints.substack.com/
+        - [[substack]]: [[rethink constraints]] https://rethinkconstraints.substack.com/
+        - [[podcast]]: [[rethink the future]]
     - [[Aram]] nice throughput!
     - [[Aram]] studies show that in some conditions glossiness of presentation can backfire; e.g. for vaccine information, some people believe "professional looking" sites less than amateur ones.
     - [[Jerry]]: about an app called [[XyWrite]] [XyWrite Wikipedia](https://en.wikipedia.org/wiki/XyWrite)
