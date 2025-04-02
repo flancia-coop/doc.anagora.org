@@ -38,7 +38,10 @@
     - Because of the incoming tariffs
     - Why did we let the right coopt 'liberation' and 'revolution'?
 - Flancian: Can we use the Commons to fight back/build better?
-    - [[Jerry]]: preparing something.
+    - [[Jerry]]: preparing something, a podcast associated with the substack.
+        - On what Musk/DOGE are doing.
+        - One of the deficits of the left is the lack of self-critique.
+        - Can we focus on making the world better be
 
 
 ## [[2025-03-26]]
