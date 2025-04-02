@@ -29,7 +29,9 @@
 ## [[2025-03-26]]
 - Ahoy!
 - [[Aram Zucker-Scharff]] [[Jerry Michalski]] [[Flancian]]
-- [[J]]
+- [[Jerry]] will be in Berlin next week!
+    - April has a speaking engagement
+- [[Aram]] is in high rest today!
 
 ## [[2025-03-26]]
 - Not today!  Stealth editing by [[SJ]] anyhow.
