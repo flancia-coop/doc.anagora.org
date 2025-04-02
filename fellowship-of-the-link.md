@@ -71,7 +71,10 @@
     - working on a Common Knowledge subset of the global knowledge index: all permissively-licensed works. https://docs.google.com/document/d/1X4Gy9fv53N8PUO5KgYFwL3Yo1TRtOQ1r6YjFiR4o14c/edit?tab=t.0 
     - Could use help with: 
         - improving SOTA classifiers for topics; language; license
-        - improving graph-extractors for running mesh-type
+        - improving graph-extractors for mapping documents to CC0 [[mesh]]es of claims. https://arxiv.org/abs/2502.19413
+        - improving QLever as best available upgrade for Wikidata backend
+        - divide-and-conquer implementing the above at web scale: developing a way to split up and do a bit of the processing at a time, incrementally updating the index. 
+        - making and running benchmarks for the above
 
 ## [[2025-03-26]]
 - Not today!  Stealth editing by [[SJ]] anyhow.
