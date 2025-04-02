@@ -27,6 +27,11 @@
             - [[github]] by default?
             
 ## [[2025-03-26]]
+- Ahoy!
+- [[Aram Zucker-Scharff]] [[Jerry Michalski]] [[Flancian]]
+- [[J]]
+
+## [[2025-03-26]]
 - Not today!  Stealth editing by [[SJ]] anyhow.
 - Reminded that wikis need their own go-links and there is hot debate sometimes about who gets shortcuts for user-namespace pages :)
 - from the Build a Bigger Wiki Dept.
