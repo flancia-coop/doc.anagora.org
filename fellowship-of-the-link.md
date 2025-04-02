@@ -60,7 +60,9 @@
         - [[stigmergy]]: https://en.wikipedia.org/wiki/Stigmergy
             - https://bra.in/5vBPrW
             - [[stigmergic collaboration]]
-           
+- [[Jerry]] doing prioritization
+    - Dialing down sync meetings on [[Free Jerry's Brain]], [[Neobooks]]
+    - But still working on Neobooks -- trying to focus more on the deliverables.
  
 
 
