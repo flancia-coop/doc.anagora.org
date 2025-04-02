@@ -67,7 +67,8 @@
     - What's the ideal software?
     - Something close to Zettelkasten but with a visual/2d component
     - [[Jerry]]: a friend is doing https://sublime.app/
-
+- More stealth notes from [[SJ]]
+    - working on a Common Knowledge subset of the global knowledge index: all permissively-licensed works. 
 
 ## [[2025-03-26]]
 - Not today!  Stealth editing by [[SJ]] anyhow.
