@@ -65,6 +65,7 @@
     - But still working on Neobooks -- trying to focus more on the deliverables.
 - On our "[[murder boards]]" (what a name): https://en.wikipedia.org/wiki/Murder_board
     - What's the ideal software?
+    - Something close to Zettelkasten but with a visual/2d component
     - [[Jerry]]: a friend is doing https://sublime.app/
 
 
