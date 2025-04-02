@@ -43,6 +43,10 @@
         - One of the deficits of the left is the lack of self-critique.
         - Can we focus on making the world better beyond political divides?
         - As things get broken, people will need alternatives.
+        - https://rethinkconstraints.substack.com/
+- Backlog
+    - [[Heather Marsh]] // [[Binding Chaos]]
+ 
 
 
 ## [[2025-03-26]]
