@@ -44,8 +44,12 @@
         - Can we focus on making the world better beyond political divides?
         - As things get broken, people will need alternatives.
         - https://rethinkconstraints.substack.com/
+    - [[Aram]] nice throughput!
+    - [[Aram]] studies show that in some conditions glossiness of presentation can backfire; e.g. for vaccine information, some people believe "professional looking" sites less than 
 - Backlog
+    - Thinkers that seemed amenable to "go beyond the divide"
     - [[Heather Marsh]] // [[Binding Chaos]]
+    - [[Murray Bookchin]]
  
 
 
