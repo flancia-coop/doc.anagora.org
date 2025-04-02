@@ -26,7 +26,7 @@
         - [[issue tracker]] / [[project tracker]] URL
             - [[github]] by default?
             
-## [[2025-03-26]]
+## [[2025-04-02]]
 - Ahoy!
 - [[Aram Zucker-Scharff]] [[Jerry Michalski]] [[Flancian]]
 - [[Jerry]] will be in Berlin next week!
@@ -34,6 +34,8 @@
 - [[Aram]] is in high resolution today!
     - Rube Goldbering (?) in an NYC flat
     - ![](https://doc.anagora.org/uploads/upload_38e4fbaf2f75a312a3dcd17898007c15.png)
+- "Liberation day" (?)
+    - Because of the incoming tariffs
 
 
 ## [[2025-03-26]]
