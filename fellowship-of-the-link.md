@@ -68,7 +68,10 @@
     - Something close to Zettelkasten but with a visual/2d component
     - [[Jerry]]: a friend is doing https://sublime.app/
 - More stealth notes from [[SJ]]
-    - working on a Common Knowledge subset of the global knowledge index: all permissively-licensed works. 
+    - working on a Common Knowledge subset of the global knowledge index: all permissively-licensed works. https://docs.google.com/document/d/1X4Gy9fv53N8PUO5KgYFwL3Yo1TRtOQ1r6YjFiR4o14c/edit?tab=t.0 
+    - Could use help with: 
+        - improving SOTA classifiers for topics; language; license
+        - improving graph-extractors for running mesh-type
 
 ## [[2025-03-26]]
 - Not today!  Stealth editing by [[SJ]] anyhow.
