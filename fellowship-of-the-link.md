@@ -36,6 +36,9 @@
     - ![](https://doc.anagora.org/uploads/upload_38e4fbaf2f75a312a3dcd17898007c15.png)
 - "Liberation day" (?)
     - Because of the incoming tariffs
+    - Why did we let the right coopt 'liberation' and 'revolution'?
+- Flancian: Can we use the Commons to fight back/build better?
+    - [[Jerry]]: preparing something.
 
 
 ## [[2025-03-26]]
