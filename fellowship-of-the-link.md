@@ -63,7 +63,9 @@
 - [[Jerry]] doing prioritization
     - Dialing down sync meetings on [[Free Jerry's Brain]], [[Neobooks]]
     - But still working on Neobooks -- trying to focus more on the deliverables.
- 
+- On our "[[murder boards]]" (what a name): https://en.wikipedia.org/wiki/Murder_board
+    - What's the ideal software?
+    - [[Jerry]]: a friend is doing https://sublime.app/
 
 
 ## [[2025-03-26]]
