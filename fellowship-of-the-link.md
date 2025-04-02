@@ -75,6 +75,8 @@
         - improving QLever as best available upgrade for Wikidata backend
         - divide-and-conquer implementing the above at web scale: developing a way to split up and do a bit of the processing at a time, incrementally updating the index. 
         - making and running benchmarks for the above
+    - also working on training better frontier-adjacent models, with Pleias, based on this data https://pleias.fr/
+    - helping IA Europe search for 1-2 technical staff for their Amsterdam office
 
 ## [[2025-03-26]]
 - Not today!  Stealth editing by [[SJ]] anyhow.
