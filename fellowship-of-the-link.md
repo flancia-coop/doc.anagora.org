@@ -50,6 +50,7 @@
 - Backlog
     - Thinkers that seemed amenable to "go beyond the divide"
     - [[Murray Bookchin]]
+        - https://theanarchistlibrary.org/library/murray-bookchin-janet-biehl-the-murray-bookchin-reader 
     - [[Heather Marsh]] // [[Binding Chaos]]
  
 
