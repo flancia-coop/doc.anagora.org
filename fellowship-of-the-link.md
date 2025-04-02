@@ -32,7 +32,7 @@
 - [[Jerry]] will be in Berlin next week!
     - April has a speaking engagement
 - [[Aram]] is in high resolution today!
-    - Rube Goldbering (?)
+    - Rube Goldbering (?) in an NYC flat
     - ![](https://doc.anagora.org/uploads/upload_38e4fbaf2f75a312a3dcd17898007c15.png)
 
 
