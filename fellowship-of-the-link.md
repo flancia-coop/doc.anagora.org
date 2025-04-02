@@ -55,6 +55,10 @@
         - [[Jerry]]: Types of Anarchism https://bra.in/4q5zKj
             - on [[temporary hierarchies]]
     - [[Heather Marsh]] // [[Binding Chaos]]
+        - [[knowledge bridges]]
+        - [[stigmergy]]: https://en.wikipedia.org/wiki/Stigmergy
+            - https://bra.in/5vBPrW
+            - [[stigmergic collaboration]]
  
 
 
