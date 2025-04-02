@@ -50,7 +50,10 @@
 - Backlog
     - Thinkers that seemed amenable to "go beyond the divide"
     - [[Murray Bookchin]]
-        - https://theanarchistlibrary.org/library/murray-bookchin-janet-biehl-the-murray-bookchin-reader 
+        - [[Aram]]: https://theanarchistlibrary.org/library/murray-bookchin-janet-biehl-the-murray-bookchin-reader 
+        - [[Flancian]]: https://theanarchistlibrary.org/library/murray-bookchin-next-revolution
+        - [[Jerry]]: Types of Anarchism https://bra.in/4q5zKj
+        - on [[temporary hierarchies]]
     - [[Heather Marsh]] // [[Binding Chaos]]
  
 
