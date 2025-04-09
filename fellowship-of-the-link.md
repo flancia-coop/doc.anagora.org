@@ -33,12 +33,17 @@
         - Has been WFH for ~20y.
         - [[noosphere]] / [[thinker toys]]
         - Interested in visualizers
+            - [[huviz]]: ht
     - Aram in NYC
 - [[Hypergraphs]]
     - [[category theory]] and connection to topology
     - [[a rosetta stone]]: https://via.hypothes.is/https://arxiv.org/pdf/0903.0340.pdf
     - [[hypergraph categories]]
-
+- [[timeline]] visualizations (Aram's work)
+    - https://context.center/timeline/covid/
+- 
+    
+    
 ## [[2025-04-02]]
 - Ahoy!
 - [[Aram Zucker-Scharff]] [[Jerry Michalski]] [[Flancian]]
