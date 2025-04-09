@@ -32,6 +32,7 @@
     - Shawn in Canada
         - Has been WFH for ~20y.
         - [[noosphere]] / [[thinker toys]]
+        - https://noosphere.org/blog/simply-insoluble/
         - Interested in visualizers
             - [[huviz]]: https://smurp.github.io/huviz/
     - Aram in NYC
@@ -58,6 +59,8 @@
     - www is full of speech acts
     - Shawn: [[ponder]]
     - [[world problematique]]
+    - https://uia.org/archive/ency-strategies-comm-6-1
+    - we need to stand up an [[egregore]] to 
     
 ## [[2025-04-02]]
 - Ahoy!
