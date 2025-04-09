@@ -50,10 +50,12 @@
         - [[memento api]]: https://context.center/topics/memento/
 - Another web extension :) Annotations?    
     - Are they enough for a revolutionary change?
-    - [[cognitive, evolutionary revolution]]
+- [[cognitive, evolutionary revolution]]
     - All the ideas "locked" in people's heads results in substandard connectivity.
     - definition of [[residues]]: all non-semantic communication, in the sense of the artifacts resulting from attempts at communication.
     - objective: merging mental models (as we wish).
+    - [[mmm]] ~ [[merged mental model]]
+    - www is full of speech acts
     
 ## [[2025-04-02]]
 - Ahoy!
