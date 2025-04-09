@@ -32,7 +32,7 @@
     - Shawn in Canada
         - Has been WFH for ~20y.
         - [[noosphere]] / [[thinker toys]]
-        - Intersted in 
+        - Intersted in visualizers
     - Aram in NYC
 
 ## [[2025-04-02]]
