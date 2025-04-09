@@ -41,7 +41,9 @@
     - [[hypergraph categories]]
 - [[timeline]] visualizations (Aram's work)
     - https://context.center/timeline/covid/
-- 
+    - Q: [[http]] extension that aids archival/supports serving old versions?
+    - Shawn: on versioning in general, attribution, provenance tracking.
+        - Would love to se
     
     
 ## [[2025-04-02]]
