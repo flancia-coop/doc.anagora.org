@@ -29,6 +29,8 @@
 ## [[2025-04-09]]
 - [[Shawn Murphy]] [[Flancian]] [[Aram Zucker-Scharff]]
 - Ahoy! Introductions :)
+    - Shawn in Canada
+    - Aram in NYC
 
 ## [[2025-04-02]]
 - Ahoy!
