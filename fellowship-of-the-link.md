@@ -26,6 +26,10 @@
         - [[issue tracker]] / [[project tracker]] URL
             - [[github]] by default?
             
+## [[2025-04-09]]
+- [[Shawn Murphy]] [[Flancian]] [[Aram Zucker-Scharff]]
+- Ahoy! Introductions :)
+
 ## [[2025-04-02]]
 - Ahoy!
 - [[Aram Zucker-Scharff]] [[Jerry Michalski]] [[Flancian]]
