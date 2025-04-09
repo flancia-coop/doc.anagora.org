@@ -49,6 +49,8 @@
     - archive.org spec for time travel
         - [[memento api]]: https://context.center/topics/memento/
 - Another web extension :) Annotations?    
+    - Are they enough for a revolutionary change?
+    - [[cognitive revolution]]
     
 ## [[2025-04-02]]
 - Ahoy!
