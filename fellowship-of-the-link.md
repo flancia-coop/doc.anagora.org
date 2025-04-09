@@ -30,6 +30,9 @@
 - [[Shawn Murphy]] [[Flancian]] [[Aram Zucker-Scharff]]
 - Ahoy! Introductions :)
     - Shawn in Canada
+        - Has been WFH for ~20y.
+        - [[noosphere]] / [[thinker toys]]
+        - Intersted in 
     - Aram in NYC
 
 ## [[2025-04-02]]
