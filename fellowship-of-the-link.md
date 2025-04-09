@@ -35,6 +35,9 @@
         - Interested in visualizers
     - Aram in NYC
 - [[Hypergraphs]]
+    - [[category theory]] and connection to topology
+    - [[a rosetta stone]]: https://via.hypothes.is/https://arxiv.org/pdf/0903.0340.pdf
+    - [[hypergraph categories]]
 
 ## [[2025-04-02]]
 - Ahoy!
