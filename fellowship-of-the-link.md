@@ -46,7 +46,8 @@
         - Would love to see the code!
         - Aram: don't remember this extension; am reminded of a DOM extension for offering e.g. archival copies for linked resources that can't be retrieved anymore.
         - Shawn: that seems like it could be a browser extension.
-    
+    - archive.org spec for time travel
+        - [[memento api]]: https://context.center/topics/memento/
     
     
 ## [[2025-04-02]]
