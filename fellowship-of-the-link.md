@@ -48,7 +48,7 @@
         - Shawn: that seems like it could be a browser extension.
     - archive.org spec for time travel
         - [[memento api]]: https://context.center/topics/memento/
-    
+- Another web extension :) Annotations?    
     
 ## [[2025-04-02]]
 - Ahoy!
