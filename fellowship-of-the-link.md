@@ -32,8 +32,9 @@
     - Shawn in Canada
         - Has been WFH for ~20y.
         - [[noosphere]] / [[thinker toys]]
-        - Intersted in visualizers
+        - Interested in visualizers
     - Aram in NYC
+- [[Hypergraphs]]
 
 ## [[2025-04-02]]
 - Ahoy!
