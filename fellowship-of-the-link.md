@@ -57,6 +57,7 @@
     - [[mmm]] ~ [[merged mental model]]
     - www is full of speech acts
     - Shawn: [[ponder]]
+    - [[world problematique]]
     
 ## [[2025-04-02]]
 - Ahoy!
