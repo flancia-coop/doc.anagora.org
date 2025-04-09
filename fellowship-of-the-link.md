@@ -33,7 +33,7 @@
         - Has been WFH for ~20y.
         - [[noosphere]] / [[thinker toys]]
         - Interested in visualizers
-            - [[huviz]]: ht
+            - [[huviz]]: https://smurp.github.io/huviz/
     - Aram in NYC
 - [[Hypergraphs]]
     - [[category theory]] and connection to topology
@@ -43,7 +43,10 @@
     - https://context.center/timeline/covid/
     - Q: [[http]] extension that aids archival/supports serving old versions?
     - Shawn: on versioning in general, attribution, provenance tracking.
-        - Would love to se
+        - Would love to see the code!
+        - Aram: don't remember this extension; am reminded of a DOM extension for offering e.g. archival copies for linked resources that can't be retrieved anymore.
+        - Shawn: that seems like it could be a browser extension.
+    
     
     
 ## [[2025-04-02]]
