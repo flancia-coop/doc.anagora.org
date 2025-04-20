@@ -1,2 +1,2 @@
 - from https://docs.astral.sh/uv/getting-started/installation/
-  - curl -LsSf https://astral.sh/uv/install.sh | sh`
+  - icurl -LsSf https://astral.sh/uv/install.sh | sh`
