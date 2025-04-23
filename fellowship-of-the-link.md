@@ -32,8 +32,10 @@
     - was a videogame developer in the 80s (!)
         - 4kb/8kb
         - intellivision 
-            - 16 bit processor
+            - 16 bit processor (!)
+            - but 10 bit rom
         - 2600
+        - https://www.youtube.com/watch?v=WG9KmWgn24I
     - looked at [[pico 8]] recently
 
 ## [[2025-04-09]]
