@@ -26,6 +26,12 @@
         - [[issue tracker]] / [[project tracker]] URL
             - [[github]] by default?
             
+## [[2025-04-23]]
+- [[Peter Kaminski]] [[Aram Zucker-Scharff]] [[Flancian]] 
+- [[Peter Kaminski]]:
+    - was a videogame developer in the 80s (!)
+    - looked at [[pico 8]] recently
+
 ## [[2025-04-09]]
 - [[Shawn Murphy]] [[Flancian]] [[Aram Zucker-Scharff]]
 - Ahoy! Introductions :)
