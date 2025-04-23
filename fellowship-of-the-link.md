@@ -40,6 +40,9 @@
     - [[raspberry pi]]:
         - https://gokrazy.org/
 - [[Aram]]: focused on work this week.
+- [[Flancian]]:
+    - GenAI at work 
+    - hackathon
         
 
 ## [[2025-04-09]]
