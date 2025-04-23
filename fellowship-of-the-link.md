@@ -43,6 +43,7 @@
 - [[Flancian]]:
     - GenAI at work 
     - hackathon
+- https://ai-2027.com/
         
 
 ## [[2025-04-09]]
