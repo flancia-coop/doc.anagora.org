@@ -39,6 +39,7 @@
     - looked at [[pico 8]] recently
     - [[raspberry pi]]:
         - https://gokrazy.org/
+- [[Aram]]: focused on work this week.
         
 
 ## [[2025-04-09]]
