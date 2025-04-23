@@ -39,6 +39,7 @@
     - looked at [[pico 8]] recently
     - [[raspberry pi]]:
         - https://gokrazy.org/
+        
 
 ## [[2025-04-09]]
 - [[Shawn Murphy]] [[Flancian]] [[Aram Zucker-Scharff]]
