@@ -30,6 +30,10 @@
 - [[Peter Kaminski]] [[Aram Zucker-Scharff]] [[Flancian]] 
 - [[Peter Kaminski]]:
     - was a videogame developer in the 80s (!)
+        - 4kb/8kb
+        - intellivision 
+            - 16 bit processor
+        - 2600
     - looked at [[pico 8]] recently
 
 ## [[2025-04-09]]
