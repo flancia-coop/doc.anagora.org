@@ -3,7 +3,7 @@
 - a [[meeting]].
     - #go https://meet.evolix.org/fellowship-of-the-link
     - #calendar https://plex.collectivesensecommons.org/calendar/
-    - #when Wednesdays at [[6PM UTC]]
+    - #when Wednesdays at ct[[6PM UTC]]
 - Attending: [[x]], [[y]]
 - Start recording, we're currently using Jitsi and that works best with a [[Chromium]] based browser.
 - Threads from last time we would like to pick up:
