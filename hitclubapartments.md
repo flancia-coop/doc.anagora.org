@@ -24,25 +24,4 @@ Hastag: #hitclub, #cong_game_hitclub, #game_bai_hitclub, #tai_xiu_hitclub
 <a href="https://issuu.com/hitclubapartments">https://issuu.com/hitclubapartments</a>
 <a href="https://hitclubapartments.bandcamp.com/album/hitclubapartments">https://hitclubapartments.bandcamp.com/album/hitclubapartments</a>
 <a href="https://onlyfans.com/hitclubapartments">https://onlyfans.com/hitclubapartments</a>
-<a href="https://about.me/hitclubapartments/">https://about.me/hitclubapartments/</a
-
-Descubra a <a href="https://okxbet.app.br/">Okxbet</a> Online — a plataforma oficial, confiável e segura!
-Licenciada, com suporte ao cliente dedicado e compromisso com o jogo responsável.
-Jogue com segurança!
-Informações detalhadas:
- Website: <a href="https://okxbet.app.br/">https://okxbet.app.br/</a>
- Endereço: SIA Trecho 03 - Lote 625/695 - Bloco A - Sala 305 - Zona Industrial Guará - Brasília, DF, 71200-030, Brasil
- Telefone: (+55) 1541 8246183
- E-mail: okxbet.app.br@gmail.com
-#okxbet, #okxbet_cassino, #okxbet_plataforma
-
-<a href="https://x.com/okxbetappbr">https://x.com/okxbetappbr</a>
-<a href="https://www.youtube.com/@okxbetappbr">https://www.youtube.com/@okxbetappbr</a>
-<a href="https://www.twitch.tv/okxbetappbr/about">https://www.twitch.tv/okxbetappbr/about</a>
-<a href="https://www.tumblr.com/okxbetappbr">https://www.tumblr.com/okxbetappbr</a>
-<a href="https://vimeo.com/okxbetappbr">https://vimeo.com/okxbetappbr</a>
-<a href="https://www.pinterest.com/okxbetappbr/_profile/">https://www.pinterest.com/okxbetappbr/_profile/</a>
-<a href="https://gravatar.com/okxbetappbr">https://gravatar.com/okxbetappbr</a>
-<a href="https://in.enrollbusiness.com/BusinessProfile/7184636/OkxBet">https://in.enrollbusiness.com/BusinessProfile/7184636/OkxBet</a>
-<a href="https://scholar.google.com.vn/citations?hl=en&user=7_eL9w0AAAAJ">https://scholar.google.com.vn/citations?hl=en&user=7_eL9w0AAAAJ</a>
-<a href="https://www.gta5-mods.com/users/okxbetappbr">https://www.gta5-mods.com/users/okxbetappbr</a>
+<a href="https://about.me/hitclubapartments/">https://about.me/hitclubapartments/</a>
