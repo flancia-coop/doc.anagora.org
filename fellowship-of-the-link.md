@@ -26,6 +26,12 @@
         - [[issue tracker]] / [[project tracker]] URL
             - [[github]] by default?
             
+## [[2025-05-07]]
+- [[SJ]]: missing you all :)  Congrats to Jerry on the new site launch.  
+    - Expanding a generative data commons w/ Mozilla + HF + Flickr; should connect w/ some of you about it
+    - Wikimedia is looking for a new ED, to start in January.
+    - US Wiki chapter is starting to do more events coverate via WikiPortraits.org
+
 ## [[2025-04-23]]
 - [[Peter Kaminski]] [[Aram Zucker-Scharff]] [[Flancian]] 
 - [[Peter Kaminski]]:
