@@ -11,6 +11,9 @@
         - There's an OC meeting this Thu, let's let them know?
 - Merge requests/project updates
     - https://git.coop/social.coop/tech/ansible/-/merge_requests/41 for alpha.social.coop
+        - Thanks for the review and comments!
+        - Will take action as in the threads and then give it a shot (tm) on pando.
+        - Might want to decouple secrets fully before we call alpha 'stable'.
     - https://git.coop/social.coop/tech/ansible/-/merge_requests/42 for rss
         - This needs to be dockerized
     - https://git.coop/social.coop/tech/join.social.coop/-/merge_requests/11 for Gitlab error reporting
