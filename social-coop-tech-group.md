@@ -1,3 +1,10 @@
+## 2025-06-17
+- [[Dan]], ..., [[Flancian]]
+- [[Mastodon]] updates
+    - Software
+    - Terms of service
+        - Opt-in for instances
+
 ## 2025-03-10
 [[Andrew]], [[Calix]], [[Dan]], [[Flancian]].
 - Check ins
