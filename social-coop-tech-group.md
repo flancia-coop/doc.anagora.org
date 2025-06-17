@@ -13,6 +13,7 @@
     - https://git.coop/social.coop/tech/ansible/-/merge_requests/41 for alpha.social.coop
     - https://git.coop/social.coop/tech/ansible/-/merge_requests/42 for rss
     - https://git.coop/social.coop/tech/join.social.coop/-/merge_requests/11 for Gitlab error reporting
+        - Looks good, approved/merged!
     - https://git.coop/social.coop/tech/join.social.coop/-/merge_requests/10 upgrade node.js
         - needs freshening up? or not?
         - not high urgency
