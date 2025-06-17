@@ -6,8 +6,11 @@
     - Terms of service
         - Opt-in for instances: https://mastodon.social/@Gargron/114699805737874224
         - Complaint about IP termination clause: https://social.coop/@mcc@mastodon.social/114699202226271605
+        - Git history: https://github.com/mastodon/mastodon/blob/main/config/templates/terms-of-service.md 
+        - (New from Dec 2024)
+        - There's an OC meeting this Thu, let's let them know?
 - Merge requests/project updates
-- 
+    - 
 
 ## 2025-03-10
 [[Andrew]], [[Calix]], [[Dan]], [[Flancian]].
