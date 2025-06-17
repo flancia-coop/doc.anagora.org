@@ -10,6 +10,10 @@
         - (New from Dec 2024)
         - There's an OC meeting this Thu, let's let them know?
 - Merge requests/project updates
+    - https://git.coop/social.coop/tech/ansible/-/merge_requests/41 for alpha.social.coop
+    - https://git.coop/social.coop/tech/ansible/-/merge_requests/42 for rss
+    - https://git.coop/social.coop/tech/join.social.coop/-/merge_requests/11 for Gitlab error reporting
+    - https://git.coop/social.coop/tech/join.social.coop/-/merge_requests/10 upgrade node.js
     - 
 
 ## 2025-03-10
