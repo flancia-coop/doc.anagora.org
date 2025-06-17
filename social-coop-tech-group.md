@@ -2,8 +2,12 @@
 - [[Dan]], ..., [[Flancian]]
 - [[Mastodon]] updates
     - Software
+        - We're at current for the 4.3 branch: 4.3.8 ✅
     - Terms of service
-        - Opt-in for instances
+        - Opt-in for instances: https://mastodon.social/@Gargron/114699805737874224
+        - Complaint about IP termination clause: https://social.coop/@mcc@mastodon.social/114699202226271605
+- Merge requests/project updates
+- 
 
 ## 2025-03-10
 [[Andrew]], [[Calix]], [[Dan]], [[Flancian]].
