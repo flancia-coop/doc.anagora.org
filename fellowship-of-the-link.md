@@ -27,7 +27,11 @@
             - [[github]] by default?
             
 ## [[2025-06-18]]
-- [[Flancian]] showed up and 
+- [[Flancian]] showed up and also missed others :) Caught up with Samuel's note from last month, looks very interesting! Will reach out.
+- Some thoughts going on my head
+    - I still want to do something about Free Jerry's Brain later this year :)
+    - I'd love to define a project of sorts the fellowship could work on async?
+    - Mastodon's Terms of Service
 
 ## [[2025-05-XX]]
 - [[Jerry Michalski]] and [[Flancian]] discussed projects :)
