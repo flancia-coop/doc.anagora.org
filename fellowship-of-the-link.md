@@ -26,6 +26,12 @@
         - [[issue tracker]] / [[project tracker]] URL
             - [[github]] by default?
             
+## [[2025-06-18]]
+- [[Flancian]] showed up and 
+
+## [[2025-05-XX]]
+- [[Jerry Michalski]] and [[Flancian]] discussed projects :)
+
 ## [[2025-05-07]]
 - [[SJ]]: missing you all :)  Congrats to Jerry on the new site launch.  
     - Expanding a generative data commons w/ Mozilla + HF + Flickr; should connect w/ some of you about it
