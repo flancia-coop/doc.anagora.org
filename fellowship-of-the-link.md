@@ -31,7 +31,8 @@
 - Some thoughts going on my head
     - I still want to do something about Free Jerry's Brain later this year :)
     - I'd love to define a project of sorts the fellowship could work on async?
-    - Mastodon's Terms of Service
+- Miscellaneous news
+    - Mastodon's Terms of Service update raised a stink in the Fediverse
 
 ## [[2025-05-XX]]
 - [[Jerry Michalski]] and [[Flancian]] discussed projects :)
