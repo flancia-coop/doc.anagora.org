@@ -3,7 +3,7 @@ Win55 là một nhà cái cá cược trực tuyến hàng đầu tại Việt N
  Ra mắt từ khoảng năm 2013, Win55 nhanh chóng chiếm lĩnh thị trường nhờ giao diện hiện đại, hỗ trợ nhiều thiết bị (web – di động), tốc độ mượt mà và bảo mật mạnh mẽ .
 2. Dịch vụ và sản phẩm nổi bật
 • Cá cược thể thao
-Win55 cung cấp hơn 300–1.000 sự kiện thể thao mỗi ngày, bao gồm bóng đá (World Cup, Ngoại hạng Anh, La Liga…), bóng rổ NBA, tennis, cầu lông, esports… với tỉ lệ cược đa dạng và cập nhật nhanh chóng.
+[Win55](https://win55club.io/) cung cấp hơn 300–1.000 sự kiện thể thao mỗi ngày, bao gồm bóng đá (World Cup, Ngoại hạng Anh, La Liga…), bóng rổ NBA, tennis, cầu lông, esports… với tỉ lệ cược đa dạng và cập nhật nhanh chóng.
 • Casino trực tuyến
 Người chơi được tham gia các trò casino như baccarat, blackjack, roulette, sicbo… với dealer livestream chất lượng Full HD 24/7, từ các nhà cung cấp hàng đầu • Game bắn cá, nổ hũ và game bài đổi thưởng
 Win55 có nhiều tựa game bắn cá đồ họa sinh động, các game bài như Tiến lên miền Nam, Phỏm, Mậu Binh, Poker… cùng nổ hũ và đổi thưởng hấp dẫn.
@@ -14,7 +14,7 @@ Cập nhật link tham gia đá gà trực tiếp với tỷ lệ cược đa d�
 Win55 chú trọng xây dựng nền tảng bảo mật chuyên nghiệp: mã hóa SSL/128 bit, bảo vệ dữ liệu cá nhân và giao dịch, cập nhật thường xuyên để chống tấn công mạng.
  Giao diện thân thiện, đẹp mắt, trực quan giúp người chơi dễ tìm kiếm game, phù hợp với cả người mới và người chơi lâu năm
 4. Hỗ trợ khách hàng
-[Win55](https://) có dịch vụ chăm sóc khách hàng 24/7, hỗ trợ qua live chat, hotline, email, Telegram, Zalo, v.v. Đội ngũ nhân viên chuyên nghiệp luôn sẵn sàng giải đáp thắc mắc, xử lý sự cố nhanh chóng.
+[Win55](https://win55club.io/) có dịch vụ chăm sóc khách hàng 24/7, hỗ trợ qua live chat, hotline, email, Telegram, Zalo, v.v. Đội ngũ nhân viên chuyên nghiệp luôn sẵn sàng giải đáp thắc mắc, xử lý sự cố nhanh chóng.
 5. Chương trình khuyến mãi & ưu đãi
 Win55 thường xuyên tổ chức khuyến mãi đa dạng cho cả hội viên mới và VIP, với giá trị hấp dẫn như:
 • Ưu đãi cho thành viên mới
