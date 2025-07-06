@@ -1,2 +1,0 @@
-- [[Gemini]] told me about this when I asked today:
-    - how is it that photons, that lack a mass, can transfer momentum to matter which has mass?

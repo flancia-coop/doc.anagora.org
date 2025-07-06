@@ -1,2 +1,0 @@
-- #pull [[i. a. richards]]
-    - https://en.wikipedia.org/wiki/I._A._Richards

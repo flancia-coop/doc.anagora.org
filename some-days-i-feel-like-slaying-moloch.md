@@ -1,1 +1,0 @@
-- #pull [[struck by lightning]]

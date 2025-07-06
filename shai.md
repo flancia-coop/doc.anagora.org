@@ -1,1 +1,0 @@
-- I met [[Shai]] at a party on [[2023-12-31]]

@@ -1,2 +1,0 @@
-- [[push]] [[saer]] [[bolaño]]
-    - usar categorías de [[steiner]] como headings de los subapartados

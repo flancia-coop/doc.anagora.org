@@ -1,1 +1,0 @@
-Lisdexamfetamine, sold under the brand name Vyvanse among others, is a stimulant medication that is mainly used to treat attention deficit hyperactivity disorder (ADHD) in people over the age of five as well as moderate-to-severe binge eating disorder in adults.

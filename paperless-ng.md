@@ -1,1 +1,0 @@
-#go https://github.com/jonaswinkler/paperless-ng

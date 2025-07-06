@@ -1,1 +1,0 @@
-#pull [[the telekommunist manifesto]]

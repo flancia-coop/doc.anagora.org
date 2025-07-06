@@ -1,1 +1,0 @@
-Cuál es tu disco favorito?

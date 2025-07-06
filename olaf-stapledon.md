@@ -1,2 +1,0 @@
-- a [[person]].
-    - [[writer]] [[sci fi]]

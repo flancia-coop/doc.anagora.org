@@ -1,2 +1,0 @@
-- [[flancian]]
-  - One of my favourite songs. By [[vashti bunyan]]. Surprised I didn't have a [[node]] on it!

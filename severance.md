@@ -1,2 +1,0 @@
-- a [[show]].
-  - #go https://en.m.wikipedia.org/wiki/Severance_(TV_series)

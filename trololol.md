@@ -1,2 +1,0 @@
-- a [[person]].
-  - #pull [[eduard khil]]

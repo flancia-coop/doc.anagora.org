@@ -1,1 +1,0 @@
-[[art movement]] coined by [[bouncepaw]] similar to [[solarpunk]] but more pipes
