@@ -36,6 +36,7 @@
     - https://washingtonpost.com/search/
     - Post will soon have chat capability here. 
     - https://app.tollbit.com/
+    - Dealing with a lot of bot crawlers from AI systems. 
 
 ## [[2025-06-18]]
 - [[Flancian]] showed up and also missed others :) Caught up with Samuel's note from last month, looks very interesting! Will reach out.
