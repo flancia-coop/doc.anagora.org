@@ -37,6 +37,7 @@
     - Post will soon have chat capability here. 
     - [[Tollbit]] ~ https://app.tollbit.com/
     - Dealing with a lot of bot crawlers from AI systems. 
+    - https://aramzs.xyz/noteworthy/heres-how-i-know-more-people-read-my-personal-blog-via-rss-then-any-other-platform/ 
 - AI and Crawling
     - [[Cloudflare]] as a solution and a risk. 1/5th of the internet is covered by their cache. 
     - https://docs.tollbit.com/publisher-bot-deterrence 
@@ -47,6 +48,8 @@
 - Access problems 
     - https://github.com/TecharoHQ/anubis ~ [[anubis]] is proof of work at the client
     - https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/fencedframe 
+
+
 
 ## [[2025-06-18]]
 - [[Flancian]] showed up and also missed others :) Caught up with Samuel's note from last month, looks very interesting! Will reach out.
