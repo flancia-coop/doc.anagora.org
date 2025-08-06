@@ -33,6 +33,9 @@
 - [[Q4 planning]] at the post and elsewhere
 - Time for experimentation
     - Flancian playing with [[MCPs]]
+    - https://washingtonpost.com/search/
+    - Post will soon have chat capability here. 
+    - https://app.tollbit.com/
 
 ## [[2025-06-18]]
 - [[Flancian]] showed up and also missed others :) Caught up with Samuel's note from last month, looks very interesting! Will reach out.
