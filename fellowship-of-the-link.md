@@ -30,13 +30,14 @@
 - This document is back up after a hiatus :)
 - [[Flancian]] was here, [[Peter]] posted in [[CSC Mattermost]] saying he'll be back in a few weeks months, it was nice talking albeit shortly!
 - [[Aram Zucker-Scharff]] joins!
-- [[Q4 planning]] at the post and elsewhere
+- [[Q4 planning]] at the Post and elsewhere
 - Time for experimentation
     - Flancian playing with [[MCPs]]
-    - https://washingtonpost.com/search/
+    - https://washingtonpost.com/search/ -- nice twist on search
     - Post will soon have chat capability here. 
-    - https://app.tollbit.com/
+    - [[Tollbit]] ~ https://app.tollbit.com/
     - Dealing with a lot of bot crawlers from AI systems. 
+    - [[Cloudflare]] as a solution and a risk.
 
 ## [[2025-06-18]]
 - [[Flancian]] showed up and also missed others :) Caught up with Samuel's note from last month, looks very interesting! Will reach out.
