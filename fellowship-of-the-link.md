@@ -39,7 +39,10 @@
     - Dealing with a lot of bot crawlers from AI systems. 
     - [[Cloudflare]] as a solution and a risk. 1/5th of the internet is covered by their cache. 
     - https://docs.tollbit.com/publisher-bot-deterrence 
-    - [[Greg Egan]] vibes
+    - [[Greg Egan]] vibes, would recommend as starting points:
+        - [[Permutation City]] <- https://en.wikipedia.org/wiki/Permutation_City
+        - [[Diaspora]]
+        - [[Schild's Ladder]] as well
 
 ## [[2025-06-18]]
 - [[Flancian]] showed up and also missed others :) Caught up with Samuel's note from last month, looks very interesting! Will reach out.
