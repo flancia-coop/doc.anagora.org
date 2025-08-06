@@ -37,12 +37,14 @@
     - Post will soon have chat capability here. 
     - [[Tollbit]] ~ https://app.tollbit.com/
     - Dealing with a lot of bot crawlers from AI systems. 
+- AI and Crawling
     - [[Cloudflare]] as a solution and a risk. 1/5th of the internet is covered by their cache. 
     - https://docs.tollbit.com/publisher-bot-deterrence 
     - [[Greg Egan]] vibes, would recommend as starting points:
         - [[Permutation City]] <- https://en.wikipedia.org/wiki/Permutation_City
         - [[Diaspora]]
         - [[Schild's Ladder]] as well
+- Access problems 
     - https://github.com/TecharoHQ/anubis ~ [[anubis]] is proof of work at the client
     - https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/fencedframe 
 
