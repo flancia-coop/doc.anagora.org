@@ -44,6 +44,7 @@
         - [[Diaspora]]
         - [[Schild's Ladder]] as well
     - https://github.com/TecharoHQ/anubis ~ [[anubis]] is proof of work at the client
+    - https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/fencedframe 
 
 ## [[2025-06-18]]
 - [[Flancian]] showed up and also missed others :) Caught up with Samuel's note from last month, looks very interesting! Will reach out.
