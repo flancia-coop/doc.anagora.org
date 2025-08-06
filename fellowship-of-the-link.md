@@ -37,7 +37,8 @@
     - Post will soon have chat capability here. 
     - [[Tollbit]] ~ https://app.tollbit.com/
     - Dealing with a lot of bot crawlers from AI systems. 
-    - [[Cloudflare]] as a solution and a risk.
+    - [[Cloudflare]] as a solution and a risk. 1/5th of the internet is covered by their cache. 
+    - 
 
 ## [[2025-06-18]]
 - [[Flancian]] showed up and also missed others :) Caught up with Samuel's note from last month, looks very interesting! Will reach out.
