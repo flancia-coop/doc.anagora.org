@@ -1,0 +1,1 @@
+- #pull [[Svatantrika-Prasangika distinction]] [[Madhyamaka]]

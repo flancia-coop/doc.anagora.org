@@ -26,6 +26,10 @@
         - [[issue tracker]] / [[project tracker]] URL
             - [[github]] by default?
             
+## [[2025-08-06]]
+- This document is back up after a hiatus :)
+- [[Flancian]] was here, [[Peter]] posted in [[CSC Mattermost]] saying he'll be back in a few weeks months, it was nice talking albeit shortly!
+
 ## [[2025-06-18]]
 - [[Flancian]] showed up and also missed others :) Caught up with Samuel's note from last month, looks very interesting! Will reach out.
 - Some thoughts going on my head

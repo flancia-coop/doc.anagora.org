@@ -1,0 +1,4 @@
+- a [[tool]]
+    - [[note taking]]
+    - [[go]] https://github.com/mickael-menu/zk
+    - [[zk nvim]] https://github.com/mickael-menu/zk-nvim

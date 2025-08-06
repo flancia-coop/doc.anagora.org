@@ -1,0 +1,3 @@
+- a [[person]].
+    - [[martial artist]]
+    - #pull [[aikido]]
