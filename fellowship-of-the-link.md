@@ -28,7 +28,10 @@
 
 
 ## [[2025-09-03]]
-- At
+- Attending: [[Shawn Murphy]] [[Aram Zucker-Scharff]] [[Eduardo Ivanec Carlas]]
+- First fellowship in a while!
+- [[Shawn]]
+    - integrating Jitsi into the latest version of [[tinker toys]], [[collaborative cognition meeting room]]
             
 ## [[2025-08-06]]
 - This document is back up after a hiatus :)
