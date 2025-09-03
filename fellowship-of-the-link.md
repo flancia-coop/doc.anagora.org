@@ -33,7 +33,8 @@
 - [[Shawn]]
     - integrating Jitsi into the latest version of [[tinker toys]], [[collaborative cognition meeting room]]
     - [[tinker toys]]:
-    - [[tiling window manager]]
+        - [[tiling window manager]]
+        - [[os]] for the [[mmm]] ~ [[merged mental model]]
             
 ## [[2025-08-06]]
 - This document is back up after a hiatus :)
