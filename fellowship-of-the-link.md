@@ -43,6 +43,7 @@
     - MMM contains the superposition of all asserted understandings and claims
         - [[Semantic Container]]
     - [[Agora Protocol]]
+- [[Trigs]] is [[quads]], "[[multi turtle]]"
             
 ## [[2025-08-06]]
 - This document is back up after a hiatus :)
