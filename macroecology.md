@@ -1,0 +1,1 @@
+- Ended up here in the [[Fellowship of the Link]] with [[Shawn Murphy]]
