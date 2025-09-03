@@ -35,6 +35,14 @@
     - [[tinker toys]]:
         - [[tiling window manager]]
         - [[os]] for the [[mmm]] ~ [[merged mental model]]
+- [[Flancian]]
+    - the [[Agora]]
+    - [[M Prime]]
+    - [[Agora Network]] as a platform for [[cognition]] and [[metacognition]]
+- [[PoC]]
+    - MMM contains the superposition of all asserted understandings and claims
+        - [[Semantic Cot]]
+    - [[Agora Protocol]]
             
 ## [[2025-08-06]]
 - This document is back up after a hiatus :)
