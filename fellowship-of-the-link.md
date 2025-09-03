@@ -41,7 +41,7 @@
     - [[Agora Network]] as a platform for [[cognition]] and [[metacognition]]
 - [[PoC]]
     - MMM contains the superposition of all asserted understandings and claims
-        - [[Semantic Cot]]
+        - [[Semantic Container]]
     - [[Agora Protocol]]
             
 ## [[2025-08-06]]
