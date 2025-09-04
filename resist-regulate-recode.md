@@ -1,0 +1,2 @@
+- I found this node on [[2025-09-05]] after an adventure with [[Ishmael]] in [[BMI]].
+- [[neil]]'s nodes are the best IMHO!
