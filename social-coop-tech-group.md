@@ -8,6 +8,9 @@
     - On work visas in the US
 - Topics
     - Upgrade Mastodon (Dan will make a Merge Request™)
+        - Success!
+        - After temporary failure with the systemd service failing after update (why?)
+        - On retrying, we saw docker pulls taking place -- so clearly something hadn't run fully/properly.
     - Open house participation
         - Calix and Eduardo missed it
         - But Dan made it! \o/
