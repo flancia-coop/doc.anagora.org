@@ -8,7 +8,13 @@
     - On work visas in the US
 - Topics
     - Upgrade Mastodon (Dan will make a Merge Request™)
-
+    - Open house participation
+        - Calix and Eduardo missed it
+        - But Dan made it! \o/
+        - And Dan will be hosting the next one! \o/
+    - OC meetings since last time
+    - Review other MRs
+    
 
 ## 2025-06-17
 - [[Dan]], ..., [[Flancian]]
