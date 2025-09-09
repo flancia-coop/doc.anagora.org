@@ -14,6 +14,7 @@
         - And Dan will be hosting the next one! \o/
     - OC meetings since last time
     - Review other MRs
+    - New LTS release for Hypha and overall maintenance
     
 
 ## 2025-06-17
