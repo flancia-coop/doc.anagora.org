@@ -12,9 +12,11 @@
         - Calix and Eduardo missed it
         - But Dan made it! \o/
         - And Dan will be hosting the next one! \o/
-    - OC meetings since last time
-    - Review other MRs
     - New LTS release for Hypha and overall maintenance
+        - We rebooted today after 3y (!)
+        - Next up: apt-get update
+    - Review other MRs
+    - OC meetings since last time
     
 What's On Hypha
 
