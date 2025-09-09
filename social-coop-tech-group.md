@@ -26,7 +26,9 @@
         - We still have support for >1y.
         - Next up: dist-upgrade some day?
     - Review other MRs
-    - OC meetings since last time
+        - alpha.social.coop refresh: Flancian will try to take action on the open comments by next time we meet :)
+    - Discuss Andrew's calendar change
+        - Invite Andrew next time? And discuss further.
     
 What's On Hypha
 
