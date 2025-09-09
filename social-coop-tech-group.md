@@ -19,6 +19,7 @@
         - We rebooted today after 3y (!)
         - Next up: apt-get update/dist-upgrade?
         - We're on 'jammy'
+        - We still have support for >1y.
     - Review other MRs
     - OC meetings since last time
     
