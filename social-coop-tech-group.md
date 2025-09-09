@@ -38,7 +38,31 @@ What's On Hypha
 ┗━━━━━━━━━━━┻━━━━━━━━━━━━━━━━━━━━━━━━┻━━━━━━━━━━━━━━━━━━━┛
 ```
 
-Some pending 
+Some pending updates on Rhizome:
+
+```
+3wordchant@rhizome:~$ sudo apt upgrade
+Reading package lists... Done
+Building dependency tree... Done
+Reading state information... Done
+Calculating upgrade... Done
+The following packages were automatically installed and are no longer required:
+  docker-scan-plugin libio-pty-perl libipc-run-perl libltdl7 postgresql-client-15
+Use 'sudo apt autoremove' to remove them.
+The following packages will be upgraded:
+  apt apt-utils containerd.io cryptsetup cryptsetup-bin cryptsetup-initramfs distro-info-data dmeventd dmidecode dmsetup
+  docker-buildx-plugin docker-ce docker-ce-cli docker-ce-rootless-extras docker-compose-plugin ethtool
+  gir1.2-packagekitglib-1.0 grub-efi-amd64 grub-efi-amd64-bin initramfs-tools initramfs-tools-bin initramfs-tools-core
+  landscape-common libapt-pkg6.0 libcryptsetup12 libdevmapper-event1.02.1 libdevmapper1.02.1 libglib2.0-0 libglib2.0-bin
+  libglib2.0-data libldap-2.5-0 libldap-common liblvm2cmd2.03 libmbim-glib4 libmbim-proxy libopeniscsiusr
+  libpackagekit-glib2-18 libpq5 libseccomp2 linux-base lvm2 nginx open-iscsi packagekit pci.ids pollinate postgresql-client
+  postgresql-client-15 postgresql-client-17 postgresql-client-common powermgmt-base python3-paramiko python3-update-manager
+  sosreport ubuntu-advantage-tools ubuntu-pro-client ubuntu-pro-client-l10n update-manager-core xfsprogs
+59 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+Need to get 0 B/121 MB of archives.
+After this operation, 9,671 kB disk space will be freed.
+Do you want to continue? [Y/n] 
+```
 
 ## 2025-06-17
 - [[Dan]], ..., [[Flancian]]
