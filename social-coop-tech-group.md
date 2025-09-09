@@ -11,6 +11,9 @@
         - Success!
         - After temporary failure with the systemd service failing after update (why?)
         - On retrying, we saw docker pulls taking place -- so clearly something hadn't run fully/properly.
+    - Update Rhizome
+        - It had security updates queued up
+        - We ran into a scary GRUB warning but seemingly it was because of Hetzner not doing GRUB the modern way.
     - Open house participation
         - Calix and Eduardo missed it
         - But Dan made it! \o/
