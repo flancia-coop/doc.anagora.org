@@ -1,7 +1,13 @@
 ## 2025-09-09
 - [[Dan]] [[Calix]] [[Flancian]]
 - Long time no see!
-- 
+    - We did do one upgrade in the intervening time
+- Checkins
+    - On work outages
+    - On youtube-nocookie
+    - On work visas in the US
+- Topics
+    - Upgrade Mastodon (Dan will make a Merge Request™)
 
 
 ## 2025-06-17
