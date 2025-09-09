@@ -16,6 +16,20 @@
     - Review other MRs
     - New LTS release for Hypha and overall maintenance
     
+What's On Hypha
+
+```
+➜ abra app ls -s hypha.social.coop
+┏━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━┓
+┃  RECIPE   ┃         DOMAIN         ┃      SERVER       ┃
+┣━━━━━━━━━━━╋━━━━━━━━━━━━━━━━━━━━━━━━╋━━━━━━━━━━━━━━━━━━━┫
+┃ bonfire   ┃ bonfire.social.coop    ┃ hypha.social.coop ┃
+┃ keycloak  ┃ auth.social.coop       ┃ hypha.social.coop ┃
+┃ mediawiki ┃ wiki-alpha.social.coop ┃ hypha.social.coop ┃
+┃ mediawiki ┃ wiki.social.coop       ┃ hypha.social.coop ┃
+┃ traefik   ┃ traefik.social.coop    ┃ hypha.social.coop ┃
+┗━━━━━━━━━━━┻━━━━━━━━━━━━━━━━━━━━━━━━┻━━━━━━━━━━━━━━━━━━━┛
+```
 
 ## 2025-06-17
 - [[Dan]], ..., [[Flancian]]
