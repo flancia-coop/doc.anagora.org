@@ -20,9 +20,11 @@
         - And Dan will be hosting the next one! \o/
     - New LTS release for Hypha and overall maintenance
         - We rebooted today after 3y (!)
-        - Next up: apt-get update/dist-upgrade?
+        - Next up: apt-get update/upgrade?
+            - Done.
         - We're on 'jammy'
         - We still have support for >1y.
+        - Next up: dist-upgrade some day?
     - Review other MRs
     - OC meetings since last time
     
