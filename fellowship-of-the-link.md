@@ -32,6 +32,8 @@
 - Shawn: taking a look at [[Pear]] by [[Holepunch]]: https://docs.pears.com/
     - Emerged from [[Hypercore]].
     - [[KYC]] encroachment/expansion.
+    - [[Bluesky]] vs [[Mississippi]]
+    - 
 
 ## [[2025-09-03]]
 - Attending: [[Shawn Murphy]] [[Aram Zucker-Scharff]] [[Eduardo Ivanec Carlas]]
