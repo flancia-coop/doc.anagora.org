@@ -38,8 +38,7 @@
     - [[David Deutsch]] and [[Charlie Stross]] ([[Singularity Sky]])
     - [[Enclosure of the Commons]]
     - [[Keybase]] -> [[Keyoxide]]
-        - https://greencheck.world/
- 
+        - [[Greencheck]] ~ https://greencheck.world/
 
 ## [[2025-09-03]]
 - Attending: [[Shawn Murphy]] [[Aram Zucker-Scharff]] [[Eduardo Ivanec Carlas]]
