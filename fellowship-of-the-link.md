@@ -30,7 +30,7 @@
 ## [[2025-09-10]]
 - Attending: [[Shawn Murphy]] [[Flancian]]
 - Shawn: taking a look at [[Pear]] by [[Holepunch]]: https://docs.pears.com/
-- 
+    - Emerged from [[Hypercore]].
 
 ## [[2025-09-03]]
 - Attending: [[Shawn Murphy]] [[Aram Zucker-Scharff]] [[Eduardo Ivanec Carlas]]
