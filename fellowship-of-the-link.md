@@ -33,7 +33,9 @@
     - Emerged from [[Hypercore]].
     - [[KYC]] encroachment/expansion.
     - [[Bluesky]] vs [[Mississippi]]
-    - [[David Deutsch]] and [[Charlie Stross]]
+- On the [[health of the internet]]
+    - Potential for innovation and diffusion of knowledge vs [[Surveillance]]
+    - [[David Deutsch]] and [[Charlie Stross]] ([[Singularity Sky]])
 
 ## [[2025-09-03]]
 - Attending: [[Shawn Murphy]] [[Aram Zucker-Scharff]] [[Eduardo Ivanec Carlas]]
