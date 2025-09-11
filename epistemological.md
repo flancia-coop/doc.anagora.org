@@ -1,1 +1,1 @@
-Epistemology (/ɪˌpɪstəˈmɒlədʒi/ (audio speaker iconlisten); from Ancient Greek ἐπιστήμη (epistḗmē) 'knowledge', and -logy) is the branch of philosophy concerned with knowledge. Epistemologists study the nature, origin, and scope of knowledge, [[epistemic justification]], the rationality of belief, and various related issues. Epistemology is considered a major subfield of philosophy, along with other major subfields such as ethics, logic, and metaphysics.[1]
+I'm busy right now, try again later.
