@@ -10,8 +10,10 @@
     - Pongamos en pausa por ~2 meses
 - Tesis
     - Prioridad por ahora!
+    - Iterando con elisp
 - Viaje
-    - 
+    - En ~10 días en Helsinki -- mydata
+        - 22 al 29 de Septiembre
 
 ## [[2025-02-07]]
 - En Buenos Aires del 15 al 24 :D
