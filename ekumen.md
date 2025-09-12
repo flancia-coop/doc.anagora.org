@@ -2,6 +2,11 @@
 
 - Meeting times: as per https://crab.fit/ekumen-152483
 
+## [[2025-09-12]]
+- Hemos conversado antes! Pero no guardamos notas acá?
+- Argentina
+- 
+
 ## [[2025-02-07]]
 - En Buenos Aires del 15 al 24 :D
     - [[Confluencia]]
