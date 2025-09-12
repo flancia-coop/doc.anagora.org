@@ -11,6 +11,7 @@
 - Tesis
     - Prioridad por ahora!
     - Iterando con elisp
+    - Repo en codeberg
 - Viaje
     - En ~10 días en Helsinki -- mydata
         - 22 al 29 de Septiembre
