@@ -5,6 +5,8 @@
 ## [[2025-09-12]]
 - Hemos conversado antes! Pero no guardamos notas acá?
 - Argentina
+    - :(
+- Ekumen
 - 
 
 ## [[2025-02-07]]
