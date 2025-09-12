@@ -7,8 +7,11 @@
 - Argentina
     - :(
 - Ekumen
+    - Pongamos en pausa por ~2 meses
 - Tesis
+    - Prioridad por ahora!
 - Viaje
+    - 
 
 ## [[2025-02-07]]
 - En Buenos Aires del 15 al 24 :D
