@@ -7,6 +7,8 @@
 - [[John Wilkins]]
 - [[Join Betula]]
 - [[Door Game]]
+- [[Weird Ones]]
+- 
 
 # [[flancia meet 2025-03-22]]
 - [[bouncepaw]] [[flancian]]
