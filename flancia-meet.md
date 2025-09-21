@@ -2,6 +2,12 @@
 - We meet best-effort every Saturday usually around 9 UTC.
 - This is where we have community maintained notes :)
 
+# [[flancia meet 2025-09-21]]
+- [[bouncepaw]] [[flancian]]
+- [[John Wilkins]]
+- [[Join Betula]]
+- [[Door Game]]
+
 # [[flancia meet 2025-03-22]]
 - [[bouncepaw]] [[flancian]]
 - Greetings!
@@ -51,7 +57,6 @@
     - what could a user do once logged in?
         - edit?
         - -> [[bull]] and multi user hosting
-    - [[]]
         
 
 # [[flancia meet 2025-01-25]]
