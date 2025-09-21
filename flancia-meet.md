@@ -9,6 +9,8 @@
 - [[Door Game]]
 - [[Weird Ones]]
 - [[MTG]]
+- Master's degree topics
+    - Liking economy the most so far
 
 # [[flancia meet 2025-03-22]]
 - [[bouncepaw]] [[flancian]]
