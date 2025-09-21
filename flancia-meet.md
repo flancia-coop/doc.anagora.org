@@ -8,7 +8,7 @@
 - [[Join Betula]]
 - [[Door Game]]
 - [[Weird Ones]]
-- 
+- [[MTG]]
 
 # [[flancia meet 2025-03-22]]
 - [[bouncepaw]] [[flancian]]
