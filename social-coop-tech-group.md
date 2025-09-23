@@ -7,6 +7,11 @@
     - Andrew to strengthen our DMARC, with assistance from TWG
     - Mailgun may be in a grandfathered plan
 - [[Andrew]] Moving bot to git.coop repo and shared cloudflare account
+    - Would like to encourage the TWG to take a look
+    - Dan: was curious about running on a different worker platform -- can it be run out of Cloudflare?
+    - Andrew: no, just meant that it's running on my personal Cloudflare account; we could move this to the shared account and the shared repo.
+    - Dan: happy to take on the migration but feel free to go ahead.
+    - Andrew: happy to take this on. 
 
 ## 2025-09-09
 - [[Dan]] [[Calix]] [[Flancian]]
