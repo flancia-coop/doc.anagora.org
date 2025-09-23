@@ -1,11 +1,12 @@
 ## 2025-09-23
-- [[Dan]] [[Andrew]]
+- [[Dan]] [[Andrew]] [[Calix]] [[Flan]]
 - Email deliverability
     - https://git.coop/social.coop/tech/operations/-/issues/91
     - Our deliverability rates are fine, so we may not need to do anything
     - Dan looking at Cloudflare DNS, looks okay
     - Andrew to strengthen our DMARC, with assistance from TWG
     - Mailgun may be in a grandfathered plan
+- [[Andrew]] Moving bot to git.coop repo and shared cloudflare account
 
 ## 2025-09-09
 - [[Dan]] [[Calix]] [[Flancian]]
