@@ -6,6 +6,7 @@
     - Dan looking at Cloudflare DNS, looks okay
     - Andrew to strengthen our DMARC, with assistance from TWG
     - Mailgun may be in a grandfathered plan
+        - Andrew will take up talking to the finance working group about bumping our plan
 - [[Andrew]] Moving bot to git.coop repo and shared cloudflare account
     - Would like to encourage the TWG to take a look
     - Dan: was curious about running on a different worker platform -- can it be run out of Cloudflare?
@@ -16,6 +17,7 @@
 - Dan: have a related RSS to ActivityPub project that has been stalled; the idea was to cross-post from Loomio to the Fediverse.
     - Andrew: interested / happy to take a stab at it!
 - Upgrade next up!
+    - https://git.coop/social.coop/tech/ansible/-/merge_requests/60/diffs by Dan
     - 
 
 ## 2025-09-09
