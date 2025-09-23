@@ -19,7 +19,7 @@
 - Upgrade next up!
     - https://git.coop/social.coop/tech/ansible/-/merge_requests/60/diffs by Dan
 - Turns out that Datadog daemon does *not* restart after we reboot rhizome
-    - file a bug?
+    - file a bug? Done.
 - Also some weirdness about /tmp being necessary for our backup process, potentially
     - Calix filed a bug
 
