@@ -3,7 +3,7 @@
 - Email deliverability
     - https://git.coop/social.coop/tech/operations/-/issues/91
     - Our deliverability rates are fine, so we may not need to do anything
-    - 
+    - Dan looking at Cloudflare DNS
 
 ## 2025-09-09
 - [[Dan]] [[Calix]] [[Flancian]]
