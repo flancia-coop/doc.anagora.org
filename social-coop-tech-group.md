@@ -24,7 +24,9 @@
     - Calix filed a bug
 - Check ins
     - Dan has been having great success union-organizing!
-    - Calix is enjoying getting back into Ruby, having fun! Went to a digital security training and found it interesting -- [[]]
+    - Calix is enjoying getting back into Ruby, having fun! Went to a digital security training and found it interesting -- [[no tech for apartheid]].
+        - [[H1B]] situation is stressful.
+        - It seems it only applies to new applications though?
 
 ## 2025-09-09
 - [[Dan]] [[Calix]] [[Flancian]]
