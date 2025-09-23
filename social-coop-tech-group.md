@@ -13,7 +13,10 @@
     - Dan: happy to take on the migration but feel free to go ahead.
     - Andrew: happy to take this on. Also to make changes to make it more secure (like remove the frontend aspect of it, which was meant for testing.)
     - Dan: a feature flag for disabling/enabling the frontend/debugging feature would be a good idea.
-- Dan: have a related RSS to ActivityPub project that has been stalled; the idea was to cross-post from Lo
+- Dan: have a related RSS to ActivityPub project that has been stalled; the idea was to cross-post from Loomio to the Fediverse.
+    - Andrew: interested / happy to take a stab at it!
+- Upgrade next up!
+    - 
 
 ## 2025-09-09
 - [[Dan]] [[Calix]] [[Flancian]]
