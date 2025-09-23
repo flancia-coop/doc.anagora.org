@@ -11,7 +11,9 @@
     - Dan: was curious about running on a different worker platform -- can it be run out of Cloudflare?
     - Andrew: no, just meant that it's running on my personal Cloudflare account; we could move this to the shared account and the shared repo.
     - Dan: happy to take on the migration but feel free to go ahead.
-    - Andrew: happy to take this on. 
+    - Andrew: happy to take this on. Also to make changes to make it more secure (like remove the frontend aspect of it, which was meant for testing.)
+    - Dan: a feature flag for disabling/enabling the frontend/debugging feature would be a good idea.
+- Dan: have a related RSS to ActivityPub project that has been stalled; the idea was to cross-post from Lo
 
 ## 2025-09-09
 - [[Dan]] [[Calix]] [[Flancian]]
