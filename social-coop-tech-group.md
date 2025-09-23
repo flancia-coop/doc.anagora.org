@@ -4,7 +4,8 @@
     - https://git.coop/social.coop/tech/operations/-/issues/91
     - Our deliverability rates are fine, so we may not need to do anything
     - Dan looking at Cloudflare DNS, looks okay
-    - Strengthen our DMARC 
+    - Andrew to strengthen our DMARC, with assistance from TWG
+    - Mailgun may be in a grandfathered plan
 
 ## 2025-09-09
 - [[Dan]] [[Calix]] [[Flancian]]
