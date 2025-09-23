@@ -22,6 +22,9 @@
     - file a bug? Done.
 - Also some weirdness about /tmp being necessary for our backup process, potentially
     - Calix filed a bug
+- Check ins
+    - Dan has been having great success union-organizing!
+    - Calix is enjoying getting back into Ruby, having fun! Went to a digital security training and found it interesting -- [[]]
 
 ## 2025-09-09
 - [[Dan]] [[Calix]] [[Flancian]]
