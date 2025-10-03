@@ -5,8 +5,14 @@
 ## [[2025-10-03]]
 - Ea!
 - Capitalismo y commons :)
+- Sutty
+- Becas Flancia
 - Tesis
-    - Git en code
+    - Git en codeberg
+    - Branches y pushes
+        - 
+    
+    
 ## [[2025-09-12]]
 - Hemos conversado antes! Pero no guardamos notas acá?
 - Argentina
