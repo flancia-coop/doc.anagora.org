@@ -2,6 +2,11 @@
 
 - Meeting times: as per https://crab.fit/ekumen-152483
 
+## [[2025-10-03]]
+- Ea!
+- Capitalismo y commons :)
+- Tesis
+    - Git en code
 ## [[2025-09-12]]
 - Hemos conversado antes! Pero no guardamos notas acá?
 - Argentina
