@@ -10,3 +10,6 @@ http//v=nfpi4a3J9Uw&list=LL&index
 ### f
 
 
+![
+
+i like that your screen watching and can my keyboard 
