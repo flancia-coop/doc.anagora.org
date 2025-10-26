@@ -8,7 +8,7 @@
     - [[procesos de reencuentro]]
     - Personal updates
 - [[AI]]
-    - [[Gemini]] and inclusiveness  
+    - [[Gemini]] and inclusiveness
 
 # [[flancia meet 2025-09-21]]
 - [[bouncepaw]] [[flancian]]
