@@ -9,6 +9,7 @@
     - Personal updates
 - [[AI]]
     - [[Gemini]] and inclusiveness
+    - [[Riffusion]] is now [[producer.ai]], gave it a shot
 
 # [[flancia meet 2025-09-21]]
 - [[bouncepaw]] [[flancian]]
