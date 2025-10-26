@@ -6,6 +6,9 @@
 - [[j0lms]] [[flancian]]
 - One year later!
     - [[procesos de reencuentro]]
+    - Personal updates
+- [[AI]]
+    - [[Gemini]] and inclusiveness
 
 # [[flancia meet 2025-09-21]]
 - [[bouncepaw]] [[flancian]]
