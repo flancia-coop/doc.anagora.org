@@ -33,7 +33,8 @@
     - How we're feeling/what we're doing next/what to improve (all optional)
     - Calix: feeling good, stressed about laptop situation but will decompress next. Hyped to be growing the TWG!
         - Maybe in a future instance we could have a dedicated/explicit facilitator role.
-    - Flan: H
+    - Flan: Glad to be here! No more summits this year ⛰️⛔. Looking forward to taking impetus of new members to review our processes, fresh ideas on how to improve, finish some things that have been on my plate.
+    - Gabriel: Feeling good, excited to get more involved. Future: lentils, site launch / migration. Hurricane rain. 
 
 ## 2025-09-23
 - [[Dan]] [[Andrew]] [[Calix]] [[Flan]]
