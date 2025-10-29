@@ -1,6 +1,7 @@
 ## 2025-10-29
 
 - [[Calix]] [[Gabriel]] [[Dan]]
+- (we do some intros)
 - 
 
 ## 2025-09-23
