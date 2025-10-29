@@ -14,6 +14,11 @@
     - C: Also non-technical parts: meeting organizing, defining processes. We meet every 2 weeks, ideally (for security, and to know who is around) "active" participants would be coming to (or async catching up with) those meetings regularly. No on-call rota.
     - G: Experience hosting servers for clients, would be interested to help. Interested to shadow.
 - We do a co-operative multiplayer update to 4.4.8, it goes Fine
+- F: Next time we could do an interactive walkthrough of the repos we have, servers involved
+    - C: We could give read-only access to git repos to make onboarding easier.
+        - +1
+- (a conversation about cloudflare, Andrew's calendar script)
+    - 
 
 ## 2025-09-23
 - [[Dan]] [[Andrew]] [[Calix]] [[Flan]]
