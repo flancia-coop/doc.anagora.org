@@ -26,7 +26,6 @@
     - Requisites for git access
         - Get an account in git.coop
         - Which requires a social.coop
-
 - G: Using Ubuntu 22, upgrade?
     - D, C: Quite smooth
     - C: Supported til April 2027.
