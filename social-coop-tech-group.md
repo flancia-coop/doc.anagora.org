@@ -18,7 +18,18 @@
     - C: We could give read-only access to git repos to make onboarding easier.
         - +1
 - (a conversation about cloudflare, Andrew's calendar script)
-    - 
+    - C: If we're not using Cloudflare let's not start, fascism
+    - F: We're using it for DNS.
+    - C: So let's optimistically merge, find an alternative medium-term
+        - +1
+    - G: I've used bunny.net as an alternative to cloudflare 
+    - Requisites for git access
+        - Get an account in git.coop
+        - Which requires a social.coop
+
+- G: Using Ubuntu 22, upgrade?
+    - D, C: Quite smooth
+    - C: Supported til April 2027.
 
 ## 2025-09-23
 - [[Dan]] [[Andrew]] [[Calix]] [[Flan]]
