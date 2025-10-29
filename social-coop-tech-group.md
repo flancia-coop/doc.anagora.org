@@ -2,7 +2,9 @@
 
 - [[Calix]] [[Gabriel]] [[Dan]]
 - (we do some intros)
-- 
+- Intro to TWG:
+    - D: "middle amount of sophistication"
+    - 
 
 ## 2025-09-23
 - [[Dan]] [[Andrew]] [[Calix]] [[Flan]]
