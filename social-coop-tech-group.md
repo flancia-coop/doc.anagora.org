@@ -13,7 +13,7 @@
     - D: Don't think there's any structure to that. Often when there's a problem we gather around the chat, figure out a solution there. Onboarding has a set of steps - granting access. Authorization from social.coop membership.
     - C: Also non-technical parts: meeting organizing, defining processes. We meet every 2 weeks, ideally (for security, and to know who is around) "active" participants would be coming to (or async catching up with) those meetings regularly. No on-call rota.
     - G: Experience hosting servers for clients, would be interested to help. Interested to shadow.
-- We do an update to 4.4.8
+- We do a co-operative multiplayer update to 4.4.8, it goes Fine
 
 ## 2025-09-23
 - [[Dan]] [[Andrew]] [[Calix]] [[Flan]]
