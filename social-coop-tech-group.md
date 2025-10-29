@@ -1,6 +1,7 @@
 ## 2025-10-29
 
-- [[Calyx]] 
+- [[Calix]] [[Gabriel]] [[Dan]]
+- 
 
 ## 2025-09-23
 - [[Dan]] [[Andrew]] [[Calix]] [[Flan]]
