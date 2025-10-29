@@ -29,6 +29,11 @@
 - G: Using Ubuntu 22, upgrade?
     - D, C: Quite smooth
     - C: Supported til April 2027.
+- Check outs!
+    - How we're feeling/what we're doing next/what to improve (all optional)
+    - Calix: feeling good, stressed about laptop situation but will decompress next. Hyped to be growing the TWG!
+        - Maybe in a future instance we could have a dedicated/explicit facilitator role.
+    - Flan: H
 
 ## 2025-09-23
 - [[Dan]] [[Andrew]] [[Calix]] [[Flan]]
