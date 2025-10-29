@@ -11,6 +11,10 @@
     - D: Firefighting within Mastodon - performance issues with someone Going Viral™. Pretty rare! Updates - somewhat lax if there isn't a pressing security update to apply. Big update (minor release) with quote posts.
     - G: Would be happy to assist on both fronts. What are the expectations for TWG members? Processes? Commitment expected? Process of transition into working group?
     - D: Don't think there's any structure to that. Often when there's a problem we gather around the chat, figure out a solution there. Onboarding has a set of steps - granting access. Authorization from social.coop membership.
+    - C: Also non-technical parts: meeting organizing, defining processes. We meet every 2 weeks, ideally (for security, and to know who is around) "active" participants would be coming to (or async catching up with) those meetings regularly. No on-call rota.
+    - G: Experience hosting servers for clients, would be interested to help. Interested to shadow.
+    - 
+    - 
 
 ## 2025-09-23
 - [[Dan]] [[Andrew]] [[Calix]] [[Flan]]
