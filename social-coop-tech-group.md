@@ -1,6 +1,6 @@
 ## 2025-10-29
 
-- [[Calix]] [[Gabriel]] [[Dan]]
+- [[Calix]] [[Gabriel]] [[Dan]] [[Flancian]] (joined late)
 - (we do some intros)
 - Intro to TWG:
     - D: "middle amount of sophistication"
