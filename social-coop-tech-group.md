@@ -4,6 +4,8 @@
 - (we do some intros)
 - Intro to TWG:
     - D: "middle amount of sophistication"
+    - D: Policy risk: delta between code of conduct and Hetzner policy w.r.t. sexually explicit content, were exploring US VPS host.
+    - D: Flancian set up a bunch of our stuff, often our representative to Organi(z/s)ing Circle
     - 
 
 ## 2025-09-23
