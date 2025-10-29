@@ -7,7 +7,7 @@
     - D: Policy risk: delta between code of conduct and Hetzner policy w.r.t. sexually explicit content, were exploring US VPS host.
     - D: Flancian set up a bunch of our stuff, often our representative to Organi(z/s)ing Circle
     - G: What sort of tasks is the working group responsible for?
-    - 
+    - C: Keep the Mastodon server running, upgrading the software, putting out fires occasionally. We ha
 
 ## 2025-09-23
 - [[Dan]] [[Andrew]] [[Calix]] [[Flan]]
