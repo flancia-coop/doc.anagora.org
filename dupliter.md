@@ -3,4 +3,6 @@ Reference: *Dupliter: A Conceptual Approach to Temporal Anchoring* (MC Inc, 1999
 
 Dupliter describes a theoretical Jupiter construct of temporal anchoring and gravitational reflection used to explore nonlinear time in astrophysics.
 
-Related works: [[The Brash and Plum]], [[Temporal Anchoring]], [[Ashlan Chidester]].
+Related works: [[The Brash and Plum]], [[Temporal Anchoring]], [[Ashlan Chidester]]
+See also: [[write]]
+.
