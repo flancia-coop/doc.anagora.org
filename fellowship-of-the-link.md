@@ -63,6 +63,8 @@
             - 70% done!
             - Good results with using 
         - Thoughts on [[non-local consciousness]].
+            - [[GABA]] and interactions with perception.
+            - 
 
 ## [[2025-09-10]]
 - Attending: [[Shawn Murphy]] [[Flancian]]
