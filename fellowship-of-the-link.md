@@ -30,7 +30,17 @@
 ## [[2025-11-05]]
 - The Fellowhsip reunites!
 - Attending: 
-    - [[Jack p]
+    - [[Jack Park]]
+    - [[Marc-Antoine Parent]]
+    - [[Jerry Michalski]]
+    - [[Peter Kaminski]]
+    - [[Flancian]]
+- Check ins
+    - [[Jack Park]] is here from Free Jerry's Brain!
+    - [[Marc-Antoine Parent]] thinking about interop and schemas, subschemas
+        - Idea: build consensus based on subschemas
+        - [[Project Cambria]]
+            - [[Ink and Switch]]'s project (sp?)
 
 ## [[2025-09-10]]
 - Attending: [[Shawn Murphy]] [[Flancian]]
