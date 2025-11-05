@@ -70,6 +70,11 @@
             - #JP: on [[the muse in the machine]]; fundamentally an attack on AI. But also covers what happens to humans in the gap between deep sleep and waking.
                 - Consciousness during e.g. automatic behavior.
                 - The secret to remember memories/concepts from liminal space (as we wake up) is to make sure you've rehearsed it/reinforced/recalled it enough before you open your eyes.
+        - For novels on AI, I'm thinking of getting the latest Ken Liu...
+        - https://www.npr.org/2025/10/12/nx-s1-5371594/author-ken-liu-on-ai-reality-and-the-world-were-building
+        - https://bra.in/4p7ogM
+
+The more accepted related stance: https://en.wikipedia.org/wiki/Enactivism
 
 ## [[2025-09-10]]
 - Attending: [[Shawn Murphy]] [[Flancian]]
