@@ -64,14 +64,11 @@
             - Good results with using 
         - Thoughts on [[non-local consciousness]].
             - [[GABA]] and interactions with perception and other mental phenomena.
-                - #JP: gemini: Epilepsy, a neurological disorder characterized by seizures, is often associated with abnormalities in the GABAergic system
-
-
-
-
-
-
+                - #JP: gemini: "Epilepsy, a neurological disorder characterized by seizures, is often associated with abnormalities in the GABAergic system"
             - #MAP interested in these topics but maybe stops short of 'the universe is conscious'.
+                - Agree on the importance of filtering to mental processes.
+            - #JP: on [[the muse in the machine]]; fundamentally an attack on AI. But also covers what happens to humans in the gap between deep sleep and waking.
+                - 
 
 ## [[2025-09-10]]
 - Attending: [[Shawn Murphy]] [[Flancian]]
