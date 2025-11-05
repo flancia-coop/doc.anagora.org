@@ -60,6 +60,9 @@
         - #MAP: If interested my reading list on ai criticism, with a strong political slant: https://any.coop/A6tDa67uK297ntkaV61EavSXvWPDE8WqXDSYaZZ8FrkmBLpg/democracy-and-ai-reading-list
     - [[Jerry Michalski]]: trying to narrow down.
         - [[Design from trust]] is the current focus. Trying to finish a medium-length post that would work as canonical reference.
+            - 70% done!
+            - Good results with using 
+        - Thoughts on [[non-local consciousness]].
 
 ## [[2025-09-10]]
 - Attending: [[Shawn Murphy]] [[Flancian]]
