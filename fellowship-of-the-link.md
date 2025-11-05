@@ -55,7 +55,11 @@
             - Interop?
             - Hashtags that publish?
             - Wikilinks?
-        - On frameworks - "Fields of Sheaves"
+        - #PK working on collections of frameworks - "Fields of Sheaves"
+        - Jack: [[John Oliver on AI Slop]]: https://www.youtube.com/watch?v=TWpg1RmzAbc
+        - #MAP: If interested my reading list on ai criticism, with a strong political slant: https://any.coop/A6tDa67uK297ntkaV61EavSXvWPDE8WqXDSYaZZ8FrkmBLpg/democracy-and-ai-reading-list
+    - [[Jerry Michalski]]: trying to narrow down.
+        - [[Design from trust]] is the current focus. Trying to finish a medium-length post that would work as canonical reference.
 
 ## [[2025-09-10]]
 - Attending: [[Shawn Murphy]] [[Flancian]]
