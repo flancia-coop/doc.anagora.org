@@ -35,8 +35,8 @@
     - [[Jerry Michalski]]
     - [[Peter Kaminski]]
     - [[Flancian]]
+- [[Peter Kaminski]] is dealing with Synology NAS woes
 - Check ins
-    - [[Peter Kaminski]] is dealing with NAS woes
     - [[Jack Park]] is here from Free Jerry's Brain!
     - [[Marc-Antoine Parent]] thinking about interop and schemas, subschemas
         - Idea: build consensus based on subschemas
@@ -46,7 +46,11 @@
             - https://jsonlogic.com
         - Q: which levels of interop are you dealing with?
             - Individuals, groups / humans and other systems.
-
+        - [[discourse graphs]]: http://discoursegraphs.com/
+    - [[Peter Kaminski]] started a signal group: "network of networks signal node"
+        - Jack Park: do share the link!
+            - [[NoN-Signal]]:
+            -  https://signal.group/#CjQKIPvT5v2HgMKx_J48cHsbL4djVuqolZl4o8W736YWTtYaEhDRCSYGJixtKyIXSPusaeg_  
 ## [[2025-09-10]]
 - Attending: [[Shawn Murphy]] [[Flancian]]
 - Shawn: taking a look at [[Pear]] by [[Holepunch]]: https://docs.pears.com/
