@@ -36,11 +36,16 @@
     - [[Peter Kaminski]]
     - [[Flancian]]
 - Check ins
+    - [[Peter Kaminski]] is dealing with NAS woes
     - [[Jack Park]] is here from Free Jerry's Brain!
     - [[Marc-Antoine Parent]] thinking about interop and schemas, subschemas
         - Idea: build consensus based on subschemas
         - [[Project Cambria]]
             - [[Ink and Switch]]'s project (sp?)
+            - https://github.com/inkandswitch/cambria-project
+            - https://jsonlogic.com
+        - Q: which levels of interop are you dealing with?
+            - Individuals, groups / humans and other systems.
 
 ## [[2025-09-10]]
 - Attending: [[Shawn Murphy]] [[Flancian]]
