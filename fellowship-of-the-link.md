@@ -36,8 +36,8 @@
     - [[Peter Kaminski]]
     - [[Flancian]]
 - [[Peter Kaminski]] is dealing with Synology NAS woes
+- [[Jack Park]] is here from Free Jerry's Brain!
 - Check ins
-    - [[Jack Park]] is here from Free Jerry's Brain!
     - [[Marc-Antoine Parent]] thinking about interop and schemas, subschemas
         - Idea: build consensus based on subschemas
         - [[Project Cambria]]
@@ -50,7 +50,13 @@
     - [[Peter Kaminski]] started a signal group: "network of networks signal node"
         - Jack Park: do share the link!
             - [[NoN-Signal]]:
-            -  https://signal.group/#CjQKIPvT5v2HgMKx_J48cHsbL4djVuqolZl4o8W736YWTtYaEhDRCSYGJixtKyIXSPusaeg_  
+                -  https://signal.group/#CjQKIPvT5v2HgMKx_J48cHsbL4djVuqolZl4o8W736YWTtYaEhDRCSYGJixtKyIXSPusaeg_ 
+        - How to connect groups across networks
+            - Interop?
+            - Hashtags that publish?
+            - Wikilinks?
+        - On frameworks - "Fields of Sheaves"
+
 ## [[2025-09-10]]
 - Attending: [[Shawn Murphy]] [[Flancian]]
 - Shawn: taking a look at [[Pear]] by [[Holepunch]]: https://docs.pears.com/
