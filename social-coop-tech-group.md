@@ -44,6 +44,9 @@
             - Hosting budget
             - Stipends
         - Community contributions (to projects etc.)
+            - Feel free to keep bringing up ideas in the chat
+        - -> Let's answer in the form of a...
+            - 
     - Mastodon 4.5
 - Check out
 
