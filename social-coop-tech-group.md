@@ -15,6 +15,11 @@
             - wiki.social.coop is the source of truth for ~all our documentation needs
             - https://wiki.social.coop/wiki/Tech_Working_Group should be the entry point to everything TWG
     - Onboarding process + stack at a high level
+        - Overview of process
+        - [[Ansible vault]] vs pass
+            - Dan: they are similar
+            - Unsure of pros/cons of either, but Dan trusts pass more and Flancian likes pass well enough
+            - Could it make sense to consolidate on ansible vault?
     - Andrew's asks
         - Budget related
             - Discretionary budget
