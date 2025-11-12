@@ -20,6 +20,7 @@
             - Dan: they are similar
             - Unsure of pros/cons of either, but Dan trusts pass more and Flancian likes pass well enough
             - Could it make sense to consolidate on ansible vault?
+                - Will track as a git ticket
     - Andrew's asks
         - Budget related
             - Discretionary budget
