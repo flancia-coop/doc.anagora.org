@@ -12,7 +12,8 @@
 - Agenda setting
     - Documentation
         - How things should be (tm)
-            - wiki.social.coop is the source of tru
+            - wiki.social.coop is the source of truth for ~all our documentation needs
+            - https://wiki.social.coop/wiki/Tech_Working_Group should be the entry point to everything TWG
     - Onboarding process + stack at a high level
     - Andrew's asks
         - Budget related
