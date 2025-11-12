@@ -37,6 +37,7 @@
         - Whatever strikes your fancy :)
         - Schedule backup restore tests
         - Consider replication for S3 data overall?
+            - Gabriel: backblaze has replicated buckets and it works pretty well
     - Andrew's asks
         - Budget related
             - Discretionary budget
