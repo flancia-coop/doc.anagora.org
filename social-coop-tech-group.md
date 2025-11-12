@@ -4,7 +4,18 @@
     - Welcome Steve!
         - Frontend engineer, interested in participating
     - Gabriel
-        - In Costa Rica, interested in many things 
+        - In Costa Rica, interested in many things (including permaculture)
+    - Dan
+        - Full stack engineer, in upstate NY
+    - Eduardo
+        - Sysadmin type with interest in coding from Argentina :)
+- Agenda setting
+    - Mastodon 4.5
+    - Andrew's asks
+        - Budget related
+        - Community contributions
+        - 
+- Check out
 
 ## 2025-10-29
 
