@@ -49,8 +49,8 @@
             - spreadsheet! https://share.mayfirst.org/apps/files/files/41330606?dir=/&openfile=true
     - Mastodon 4.5
         - -> next time
-- Check out
-    - 
+- Check outs
+    - Thank you!
 
 ## 2025-10-29
 
