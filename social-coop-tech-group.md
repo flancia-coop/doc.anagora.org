@@ -10,15 +10,17 @@
     - Eduardo
         - Sysadmin type with interest in coding from Argentina :)
 - Agenda setting
-    - Mastodon 4.5
+    - Documentation
+        - How things should be (tm)
+            - wiki.social.coop is the source of tru
+    - Onboarding process + stack at a high level
     - Andrew's asks
         - Budget related
             - Discretionary budget
             - Hosting budget
             - Stipends
         - Community contributions (to projects etc.)
-    - Documentation
-    - Onboarding process + stack at a high level
+    - Mastodon 4.5
 - Check out
 
 ## 2025-10-29
