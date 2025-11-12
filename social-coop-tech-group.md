@@ -30,11 +30,13 @@
         - Other services we depend on
             - Digital ocean for S3 buckets/backups
             - Cloudflare for DNS
+            - Webarchitects for email forwarding
     - Possible starter tasks
         - Monitoring++?
         - Something else in git issues?
         - Whatever strikes your fancy :)
-        - 
+        - Schedule backup restore tests
+        - Consider replication for S3 data overall?
     - Andrew's asks
         - Budget related
             - Discretionary budget
