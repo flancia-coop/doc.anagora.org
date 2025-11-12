@@ -22,6 +22,10 @@
             - Could it make sense to consolidate on ansible vault?
                 - Will track as a git ticket
         - Walkthrough of rhizome
+    - Possible starter tasks
+        - Monitoring++?
+        - Something else in git issues?
+        - Whatever strikes your fancy :)
     - Andrew's asks
         - Budget related
             - Discretionary budget
