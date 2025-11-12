@@ -46,9 +46,11 @@
         - Community contributions (to projects etc.)
             - Feel free to keep bringing up ideas in the chat
         - -> Let's answer in the form of a...
-            - 
+            - spreadsheet! https://share.mayfirst.org/apps/files/files/41330606?dir=/&openfile=true
     - Mastodon 4.5
+        - -> next time
 - Check out
+    - 
 
 ## 2025-10-29
 
