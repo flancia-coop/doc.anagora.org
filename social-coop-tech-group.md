@@ -1,5 +1,5 @@
 ## 2025-11-12
-- [[Dphiffer]] [[Gabriel]] [[Steve]] [[Gabriel]]
+- [[Dphiffer]] [[Flancian]] [[Steve]] [[Gabriel]]
 - Round the table!
     - Welcome Steve!
         - Frontend engineer, interested in participating
@@ -13,8 +13,12 @@
     - Mastodon 4.5
     - Andrew's asks
         - Budget related
-        - Community contributions
-        - 
+            - Discretionary budget
+            - Hosting budget
+            - Stipends
+        - Community contributions (to projects etc.)
+    - Documentation
+    - Onboarding process + stack at a high level
 - Check out
 
 ## 2025-10-29
