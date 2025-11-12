@@ -1,0 +1,3 @@
+- a [[person]].
+  - [[billionaire]] [[chinese]]
+  - [[tiktok]]

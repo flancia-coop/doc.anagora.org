@@ -1,0 +1,1 @@
+You can use this stoa to leave comments about [[bouncepaw]]'s [[zine]], or to join in.

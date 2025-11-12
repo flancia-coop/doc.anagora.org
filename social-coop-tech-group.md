@@ -1,3 +1,11 @@
+## 2025-11-12
+- [[Dphiffer]] [[Gabriel]] [[Steve]] [[Gabriel]]
+- Round the table!
+    - Welcome Steve!
+        - Frontend engineer, interested in participating
+    - Gabriel
+        - In Costa Rica, interested in many things 
+
 ## 2025-10-29
 
 - [[Calix]] [[Gabriel]] [[Dan]] [[Flancian]] (joined late)
