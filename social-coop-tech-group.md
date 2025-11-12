@@ -22,10 +22,11 @@
             - Could it make sense to consolidate on ansible vault?
                 - Will track as a git ticket
         - Walkthrough of rhizome
-            - VPS
+            - Bare metal in Hetzner
         - Walkthrough of hypha
-            - VPS
-        - Walkthrough of 
+            - VPS in Hetzner
+        - Walkthrough of pando
+            - VPS in 
     - Possible starter tasks
         - Monitoring++?
         - Something else in git issues?
