@@ -26,11 +26,15 @@
         - Walkthrough of hypha
             - VPS in Hetzner
         - Walkthrough of pando
-            - VPS in 
+            - VPS in iocoop.org
+        - Other services we depend on
+            - Digital ocean for S3 buckets/backups
+            - Cloudflare for DNS
     - Possible starter tasks
         - Monitoring++?
         - Something else in git issues?
         - Whatever strikes your fancy :)
+        - 
     - Andrew's asks
         - Budget related
             - Discretionary budget
