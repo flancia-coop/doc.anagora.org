@@ -3,7 +3,12 @@
 - Check ins
     - [[Dec]] to [[May]] is [[Summer]]
     - First winter in Switzerland
-
+    - Energy levels
+- -> 4.5.2?
+- The Mysterious Nightly Outage
+    - Are backups even properly working? If they are not, maybe we should stop having micro outages for them
+- Disk for rhizome next steps / pg_repack
+- 3wc new gpg key for `pass` 👉👈
 
 ## 2025-11-12
 - [[Dphiffer]] [[Flancian]] [[Steve]] [[Gabriel]]
