@@ -17,13 +17,14 @@
         - Backups have been failing since.
     - It seems we need better backup monitoring.
         - Gabriel has an idea about how to implement this.
-    - Next steps
+    - Next steps -> https://git.coop/social.coop/tech/ansible/-/issues/7
         - Disable backups
         - Attach more storage
         - Move Postgres to new storage
         - Re-enable backups
         - Do pg_repack
         - Better monitoring for backups
+            - https://git.coop/social.coop/tech/operations/-/issues/86 to track?
 - Disk for rhizome next steps / pg_repack
 - -> 4.5.2?
 
