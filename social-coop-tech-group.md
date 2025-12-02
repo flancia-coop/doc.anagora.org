@@ -28,6 +28,7 @@
 - Disk for rhizome next steps / pg_repack
     - https://docs.hetzner.com/robot/dedicated-server/general-information/root-server-hardware/#price-list-for-additional-drives
 - -> 4.5.2?
+    - Postponed.
 
 ## 2025-11-12
 - [[Dphiffer]] [[Flancian]] [[Steve]] [[Gabriel]]
