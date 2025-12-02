@@ -17,6 +17,13 @@
         - Backups have been failing since.
     - It seems we need better backup monitoring.
         - Gabriel has an idea about how to implement this.
+    - Next steps
+        - Disable backups
+        - Attach more storage
+        - Move Postgres to new storage
+        - Re-enable backups
+        - Do pg_repack
+        - Better monitoring for backups
 - Disk for rhizome next steps / pg_repack
 - -> 4.5.2?
 
