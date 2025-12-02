@@ -1,3 +1,8 @@
+## 2025-12-02
+- [[Gabriel Garrido]] [[Calix]] [[Flancian]]
+- Check ins
+    - [[Dec]] to [[May]] is [[Summer]]
+
 ## 2025-11-12
 - [[Dphiffer]] [[Flancian]] [[Steve]] [[Gabriel]]
 - Round the table!
