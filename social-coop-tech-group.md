@@ -26,6 +26,7 @@
         - Better monitoring for backups
             - https://git.coop/social.coop/tech/operations/-/issues/86 to track?
 - Disk for rhizome next steps / pg_repack
+    - https://docs.hetzner.com/robot/dedicated-server/general-information/root-server-hardware/#price-list-for-additional-drives
 - -> 4.5.2?
 
 ## 2025-11-12
