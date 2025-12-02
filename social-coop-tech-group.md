@@ -7,10 +7,13 @@
 - ✅ 3wc new gpg key for `pass` 👉👈 
     - Merged or not merged?
     - https://git.coop/social.coop/tech/pass/-/merge_requests/18
-- -> 4.5.2?
+    - Merged! And re-encrypted.
+    - (And flancian finally made a symlink to the right password store to prevent further confusion down the line.)
 - The Mysterious Nightly Outage
     - Are backups even properly working? If they are not, maybe we should stop having micro outages for them
+    - Thanks Gabriel for setting up monitoring!
 - Disk for rhizome next steps / pg_repack
+- -> 4.5.2?
 
 ## 2025-11-12
 - [[Dphiffer]] [[Flancian]] [[Steve]] [[Gabriel]]
