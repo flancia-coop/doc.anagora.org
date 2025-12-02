@@ -4,7 +4,7 @@
     - [[Dec]] to [[May]] is [[Summer]]
     - First winter in Switzerland
     - Energy levels
-- 3wc new gpg key for `pass` 👉👈
+- ✅ 3wc new gpg key for `pass` 👉👈 
     - Merged or not merged?
     - https://git.coop/social.coop/tech/pass/-/merge_requests/18
 - -> 4.5.2?
