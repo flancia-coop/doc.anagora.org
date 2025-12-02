@@ -12,6 +12,7 @@
 - The Mysterious Nightly Outage
     - Are backups even properly working? If they are not, maybe we should stop having micro outages for them
     - Thanks Gabriel for setting up monitoring!
+        - Last picked up a 500 event on the 26th
 - Disk for rhizome next steps / pg_repack
 - -> 4.5.2?
 
