@@ -2,6 +2,8 @@
 - [[Gabriel Garrido]] [[Calix]] [[Flancian]]
 - Check ins
     - [[Dec]] to [[May]] is [[Summer]]
+    - First winter in Switzerland
+
 
 ## 2025-11-12
 - [[Dphiffer]] [[Flancian]] [[Steve]] [[Gabriel]]
