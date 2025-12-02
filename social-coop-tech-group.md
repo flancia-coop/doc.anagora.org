@@ -13,6 +13,10 @@
     - Are backups even properly working? If they are not, maybe we should stop having micro outages for them
     - Thanks Gabriel for setting up monitoring!
         - Last picked up a 500 event on the 26th
+        - That was our last successful (uploaded) backup.
+        - Backups have been failing since.
+    - It seems we need better backup monitoring.
+        - Gabriel has an idea about how to implement this.
 - Disk for rhizome next steps / pg_repack
 - -> 4.5.2?
 
