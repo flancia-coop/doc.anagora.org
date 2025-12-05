@@ -86,11 +86,11 @@ nvme2n1     259:9    0 953.9G  0 disk
 ```
 lsblk
 
-sudo fdisk /dev/sda
+sudo fdisk /dev/nvme2n1
 
-sudo fdisk /dev/sdb
+sudo fdisk /dev/nvme3n1
 
-sudo mdadm --create /dev/md3 --level=1 --raid-devices=2 /dev/sda1 /dev/sdb1
+sudo mdadm --create /dev/md3 --level=1 --raid-devices=2 /dev/nvme2n1 /dev/nvme3n1
 
 sudo mkfs.ext4 /dev/md3
 
