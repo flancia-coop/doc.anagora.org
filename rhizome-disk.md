@@ -56,4 +56,22 @@ nvme0n1     259:0    0 476.9G  0 disk
 
 
 ```
+lsblk
 
+sudo fdisk /dev/sda
+
+sudo fdisk /dev/sdb
+
+sudo mdadm --create /dev/md3 --level=1 --raid-devices=2 /dev/sda1 /dev/sdb1
+
+sudo mkfs.ext4 /dev/md3
+
+sudo mdadm --detail --scan | grep "md3" | sudo tee -a /etc/mdadm/mdadm.conf
+
+sudo update-initramfs -u
+
+sudo blkid /dev/md3
+
+in fstab: UUID=YOUR-UUID-HERE    /mnt/new_storage    ext4    defaults,nofail    0    2
+
+sudo mount -a
