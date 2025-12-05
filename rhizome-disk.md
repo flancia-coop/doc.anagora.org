@@ -100,6 +100,6 @@ sudo update-initramfs -u
 
 sudo blkid /dev/md3
 
-in fstab: UUID=YOUR-UUID-HERE    /mnt/new_storage    ext4    defaults,nofail    0    2
+in fstab: UUID=YOUR-UUID-HERE    /mnt/new_storage    ext4    defaults 0    2
 
 sudo mount -a
