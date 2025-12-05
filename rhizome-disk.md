@@ -40,11 +40,33 @@ nvme0n1     259:0    0 476.9G  0 disk
 
 ## Creating new disk array
 - I plan to shut down the server at 16:59:30 UTC as Hetzner wanted it down before 17:00 UTC.
-- Then wait for it to come back and create a 1TB RAID 1 mirror.
+    - Done!
+- Then wait for it to come back 
+    - Done!
+- And create a 1TB RAID 1 mirror.
     - fdisk for creating two Linux RAID partitions
     - mdadm for creating the mirror proper
     - then mkfs.ext4
     - See generated instructions below.
+
+
+```
+flancian@rhizome:~$ lsblk                                                                                 
+NAME        MAJ:MIN RM   SIZE RO TYPE  MOUNTPOINTS                                                        
+nvme0n1     259:0    0 476.9G  0 disk                                                                     
+├─nvme0n1p1 259:1    0    32G  0 part                                                                     
+│ └─md0       9:0    0    32G  0 raid1 [SWAP]                                                             
+├─nvme0n1p2 259:2    0     1G  0 part                                                                     
+│ └─md1       9:1    0  1022M  0 raid1 /boot                                                              
+└─nvme0n1p3 259:3    0 443.9G  0 part                                                                     
+  └─md2       9:2    0 443.8G  0 raid1 /                                                                  
+nvme1n1     259:4    0 476.9G  0 disk                                                                     
+├─nvme1n1p1 259:5    0    32G  0 part                                                                     
+├─nvme1n1p2 259:6    0     1G  0 part                                                                     
+└─nvme1n1p3 259:7    0 443.9G  0 part                                                                     
+nvme3n1     259:8    0 953.9G  0 disk                                                                     
+nvme2n1     259:9    0 953.9G  0 disk        
+```
 
 ## Fixing the old disk array
 - Discuss?
