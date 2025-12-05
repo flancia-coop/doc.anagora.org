@@ -103,3 +103,18 @@ in fstab: UUID=YOUR-UUID-HERE    /mnt/new_storage    ext4    defaults 0    2
 
 sudo mount -a
 ```
+
+## Remaining tasks
+
+1. Bring down containers
+2. Run rsync again
+3. `umount /opt/social.coop-temporary`
+4. Rename `/opt/social.coop` (to `/opt/social.coop-old-2025-12-05`)
+5. Rename `/opt/social.coop-temporary` to `/opt/social.coop`
+6. Edit `fstab`
+7. `mount -a`
+8. Reboot
+9. Pray
+10. ???
+11. Done
+12. (Lol or rebuild the RI)
