@@ -1,5 +1,11 @@
 ## [[2025-12-05]]
 - Special session of the [[Social Coop Tech Group]] for adding disk space to [[rhizome]] and other disk related server maintenance.
+- Check ins!
+    - Sun is out in CR! Happy to have reached the weekend
+    - +1 on weekend!
+    - Looking to catch up with rest
+        - ... and a crampon enabled run!
+    - 
 
 ## Findings
 - We are running on one disk, RAID is degraded!
