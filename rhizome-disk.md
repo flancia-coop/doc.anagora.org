@@ -38,11 +38,12 @@ nvme0n1     259:0    0 476.9G  0 disk
     - fdisk for creating two Linux RAID partitions
     - mdadm for creating the mirror proper
     - then mkfs.ext4
+    - See generated instructions below.
 
 ## Fixing the old disk array
 - Discuss?
 - This would involve identifying the missing disk and asking Hetzner to replace it, then doing a live rebuild.
 - The alternative (or complement) is to get a second server (with more disk out of the box) and migrate to it, getting newer hardware in the process; and it might not turn out more expensive when compared against the current one + two extra drives.
 
-
-
+## Detailed instructions
+- I asked Gemini about practices for RAID on Debian in 2025 and it's the same as 15y ago: fdisk/parted, mdadm and 
