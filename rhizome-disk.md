@@ -1,7 +1,7 @@
 ## [[2025-12-05]]
 - Special session of the [[Social Coop Tech Group]] for adding disk space to [[rhizome]] and other disk related server maintenance.
 
-## Finding
+## Findings
 - We are running on one disk, RAID is degraded!
 
 ```
@@ -30,7 +30,7 @@ nvme0n1     259:0    0 476.9G  0 disk
 ```
 
 - This makes us more vulnerable to data loss in the form of losing live postgres, so good thing we're copying that data to a new array with this maintenance window!
-- We should try to rebuild the array with a new drive in a new maintenance window?
+- We should try to rebuild the array with a new drive in a new maintenance window.
 
 ## Creating new disk array
 - I plan to shut down the server at 16:59:30 UTC as Hetzner wanted it down before 17:00 UTC.
@@ -41,6 +41,8 @@ nvme0n1     259:0    0 476.9G  0 disk
 
 ## Fixing the old disk array
 - Discuss?
+- This would involve identifying the missing disk and asking Hetzner to replace it, then doing a live rebuild.
+- The alternative (or complement) is to get a second server (with more disk out of the box) and migrate to it, getting newer hardware in the process; and it might not turn out more expensive when compared against the current one + two extra drives.
 
 
 
