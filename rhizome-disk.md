@@ -28,3 +28,6 @@ nvme0n1     259:0    0 476.9G  0 disk
 └─nvme0n1p3 259:3    0 443.9G  0 part  
   └─md2       9:2    0 443.8G  0 raid1 /
 ```
+
+- This makes us more vulnerable to data loss in the form of losing live postgres, so good thing we're copying that data to a new array with this maintenance window!
+- We could try to rebuild the array with a new drive in a new maintenance window (or get a new server and move services there
