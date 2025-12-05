@@ -90,7 +90,7 @@ sudo fdisk /dev/nvme2n1
 
 sudo fdisk /dev/nvme3n1
 
-sudo mdadm --create /dev/md3 --level=1 --raid-devices=2 /dev/nvme2n1 /dev/nvme3n1
+sudo mdadm --create /dev/md3 --level=1 --raid-devices=2 /dev/nvme2n1p1 /dev/nvme3n1p1
 
 sudo mkfs.ext4 /dev/md3
 
