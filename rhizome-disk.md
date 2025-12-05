@@ -82,7 +82,6 @@ nvme2n1     259:9    0 953.9G  0 disk
 ## Detailed instructions
 - I asked Gemini about best practices for RAID setup on Debian in 2025 and it's the same as 15y ago: partition the disks then create the array with mdadm then sync source of truth.
 
-
 ```
 lsblk
 
@@ -103,3 +102,4 @@ sudo blkid /dev/md3
 in fstab: UUID=YOUR-UUID-HERE    /mnt/new_storage    ext4    defaults 0    2
 
 sudo mount -a
+```
