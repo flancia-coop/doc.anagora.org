@@ -39,3 +39,8 @@ nvme0n1     259:0    0 476.9G  0 disk
     - mdadm for creating the mirror proper
     - then mkfs.ext4
 
+## Fixing the old disk array
+- Discuss?
+
+
+
