@@ -30,4 +30,12 @@ nvme0n1     259:0    0 476.9G  0 disk
 ```
 
 - This makes us more vulnerable to data loss in the form of losing live postgres, so good thing we're copying that data to a new array with this maintenance window!
-- We could try to rebuild the array with a new drive in a new maintenance window  
+- We should try to rebuild the array with a new drive in a new maintenance window?
+
+## Creating new disk array
+- I plan to shut down the server at 16:59:30 UTC as Hetzner wanted it down before 17:00 UTC.
+- Then wait for it to come back and create a 1TB RAID 1 mirror.
+    - fdisk for creating two Linux RAID partitions
+    - mdadm for creating the mirror proper
+    - then mkfs.ext4
+
