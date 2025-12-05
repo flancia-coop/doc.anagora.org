@@ -5,7 +5,7 @@
     - +1 on weekend!
     - Looking to catch up with rest
         - ... and a crampon enabled run!
-    - 
+    - RAID activities emotional support
 
 ## Findings
 - We are running on one disk, RAID is degraded!
