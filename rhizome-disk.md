@@ -44,6 +44,12 @@ nvme0n1     259:0    0 476.9G  0 disk
 - Discuss?
 - This would involve identifying the missing disk and asking Hetzner to replace it, then doing a live rebuild.
 - The alternative (or complement) is to get a second server (with more disk out of the box) and migrate to it, getting newer hardware in the process; and it might not turn out more expensive when compared against the current one + two extra drives.
+- Or the clever/fancy option, which would be:
+    - Add one of the 1TB disks to the 500GB array, repair the array
+    - Add the other 1TB disk as spare.
+    - *Remove* the working 500GB disk.
+    - Grow the array to 1TB.
+    - Resize the filesystem.
 
 ## Detailed instructions
-- I asked Gemini about practices for RAID on Debian in 2025 and it's the same as 15y ago: fdisk/parted, mdadm and 
+- I asked Gemini about best practices for RAID on Debian in 2025 and it's the same as 15y ago: fdisk/parted then mdadm.
