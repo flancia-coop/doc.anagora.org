@@ -7,11 +7,15 @@
 - Tasks for today
     - Update Mastodon?
         - Requires database migrations
+        - https://github.com/mastodon/mastodon/releases/tag/v4.5.0 for migrations
         - Target is 4.5.3 -- should we go straight or go through 4.5.0?
             - Probably straight?
     - Try to fix RAID array?
     - Fix calendar entry to point to https://jitsi.meet.coop/twg?
     - ?
+- Migration tasks
+    - Announce downtime
+    - 
 
 ## 2025-12-05
 - See: https://doc.anagora.org/rhizome-disk
