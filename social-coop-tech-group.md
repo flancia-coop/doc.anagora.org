@@ -1,3 +1,11 @@
+## 2025-12-10
+- Attending: 
+- Check ins
+- Tasks for today
+    - Update Mastodon?
+    - Try to fix RAID array?
+    - ?
+
 ## 2025-12-05
 - See: https://doc.anagora.org/rhizome-disk
 
