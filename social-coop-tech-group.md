@@ -15,9 +15,13 @@
     - ?
 - Migration tasks
     - Announce downtime
+        - (Done)
     - Down containers
+        - (Done)
     - Update docker-compose file
+        - (Done by hand by scp)
     - Run migration command with docker run as per instructions
+        - (Running!)
     - Up containers
 
 ## 2025-12-05
