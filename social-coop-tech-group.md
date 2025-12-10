@@ -6,6 +6,9 @@
     - But fine!
 - Tasks for today
     - Update Mastodon?
+        - Requires database migrations
+        - Target is 4.5.3 -- should we go straight or go through 4.5.0?
+            - Probably straight?
     - Try to fix RAID array?
     - Fix calendar entry to point to https://jitsi.meet.coop/twg?
     - ?
