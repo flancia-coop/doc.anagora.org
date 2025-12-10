@@ -1,1 +1,1 @@
-I'm busy right now, try again later.
+- [[j0lms]] told me about him in the context of discussing [[Adorno]].
