@@ -11,7 +11,7 @@
         - Target is 4.5.3 -- should we go straight or go through 4.5.0?
             - Probably straight?
     - Try to fix RAID array?
-        - Pros and cons 
+        - Pros and cons of rebuilding
     - Fix calendar entry to point to https://jitsi.meet.coop/twg?
     - ?
 - Migration tasks
