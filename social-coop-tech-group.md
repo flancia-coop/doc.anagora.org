@@ -24,6 +24,13 @@
     - Run migration command with docker run as per instructions
         - (Running!)
     - Up containers
+        - docker compose up -d
+        - the -d is important
+- Things to do better next time
+    - Steve: we should use a maintenance page (nginx served)
+        - Dan: could be done by Ansible
+        - Let's cut a bug for this maybe?
+    - We should use -d when running docker compose up :D
 
 ## 2025-12-05
 - See: https://doc.anagora.org/rhizome-disk
