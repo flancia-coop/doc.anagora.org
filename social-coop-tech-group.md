@@ -1,9 +1,13 @@
 ## 2025-12-10
-- Attending: 
+- Attending: Steve Flancian
 - Check ins
+    - Fighting disease
+    - And work setbacks
+    - But fine!
 - Tasks for today
     - Update Mastodon?
     - Try to fix RAID array?
+    - Fix calendar entry to point to https://jitsi.meet.coop/twg?
     - ?
 
 ## 2025-12-05
