@@ -1,3 +1,9 @@
+## 2025-12-NN
+- We should bump max_connections (and maybe shared_buffers) in Postgres 
+    - To prevent issues after maintenance
+    - Go to... 200? 2x the default?
+- Discuss learnings from last update / projects to prioritize.
+
 ## 2025-12-10
 - Attending: Steve Flancian
 - Check ins
@@ -31,6 +37,7 @@
         - Dan: could be done by Ansible
         - Let's cut a bug for this maybe?
     - We should use -d when running docker compose up :D
+    - We should bump max_connections (and maybe shared_buffers) in Postgres 
 
 ## 2025-12-05
 - See: https://doc.anagora.org/rhizome-disk
