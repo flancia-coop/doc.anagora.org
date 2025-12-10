@@ -1,2 +1,1 @@
-
-https://en.wikipedia.org/wiki/Quipu#/media/File:Quipo_in_the_Museo_Machu_Picchu,_Casa_Concha,_Cusco.jpg
+I'm busy right now, try again later.
