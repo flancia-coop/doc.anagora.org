@@ -15,7 +15,10 @@
     - ?
 - Migration tasks
     - Announce downtime
-    - 
+    - Down containers
+    - Update docker-compose file
+    - Run migration command with docker run as per instructions
+    - Up containers
 
 ## 2025-12-05
 - See: https://doc.anagora.org/rhizome-disk
