@@ -40,6 +40,8 @@
     - C: I for some reason have to-the-minute time tracking for TWG, but I don't expect anyone else does.
     - **Let's figure out the exact split in Matrix**
 - Onboarding Ammar?
+    - Matrix channel https://matrix.to/#/#socialcoop-tech:matrix.org
+    - Add 2 Zulip?
 - "Starter project" for Gabriel?
     - Monitoring in pando?
 - RAID health in rhizome? (flancian will check)
