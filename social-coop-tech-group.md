@@ -41,6 +41,7 @@
 - "Starter project" for Gabriel?
     - Monitoring in pando?
 - RAID health in rhizome? (flancian will check)
+- Reconsider time slot
 
 
 ## 2025-12-10
