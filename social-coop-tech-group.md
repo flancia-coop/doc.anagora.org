@@ -1,4 +1,12 @@
-## 2025-12-NN
+## 2025-12-17
+
+- Attending: Ammar, Calix, Dan,
+- Check-ins:
+    - Visas 😭
+    - Temporarily deputising family members into TWG 🙃
+    - 
+
+
 - We should bump max_connections (and maybe shared_buffers) in Postgres 
     - To prevent issues after maintenance
     - Go to... 200? 2x the default?
