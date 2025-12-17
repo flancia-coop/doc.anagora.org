@@ -29,6 +29,7 @@
     - Ammar: https://www.postgresql.org/docs/current/runtime-config-connection.html hints that increasing max_connection should automatically adjust other resources like (shared memory)
     - Ammar: do we have metrics about resource utilization?
     - Calix: we have datadog but it's not collecting many metrics
+    - /opt/social.coop/var/lib/postgres14/data/postgresql
 - Request from Caitlin on how to spend our stipends
     - Dan made A Spreadsheet: https://share.mayfirst.org/f/41640538
 - Onboarding Ammar?
