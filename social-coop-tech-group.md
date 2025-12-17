@@ -32,7 +32,11 @@
     - /opt/social.coop/var/lib/postgres14/data/postgresql.conf has this but is not templated/managed by ansible it seems; maybe we need a way to override psql settings
 - Request from Caitlin on how to spend our stipends
     - Dan made A Spreadsheet: https://share.mayfirst.org/f/41640538
-    - 
+    - FWG said "answers by Dec 20 if possible"
+    - D: Official vs unofficial members. Meeting attendance?
+    - A: OC splits between official members.
+    - C: Strong preference for us to say yes to stipend. Don't mind how we allocate it.
+    - D: 
 - Onboarding Ammar?
 - "Starter project" for Gabriel?
     - Monitoring in pando?
