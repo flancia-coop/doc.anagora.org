@@ -37,11 +37,14 @@
     - A: OC splits between official members.
     - C: Strong preference for us to say yes to stipend. Don't mind how we allocate it.
     - D: Summary of spreadsheet: 3wc, me, Flan split in thirds. Also taking for granted that notes document is source of truth, may or may not be the case.
+    - C: I for some reason have to-the-minute time tracking for TWG, but I don't expect anyone else does.
+    - **Let's figure out the exact split in Matrix**
 - Onboarding Ammar?
 - "Starter project" for Gabriel?
     - Monitoring in pando?
 - RAID health in rhizome? (flancian will check)
 - Reconsider time slot
+- Figuring out 2026
 
 
 ## 2025-12-10
