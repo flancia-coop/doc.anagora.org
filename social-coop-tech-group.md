@@ -18,6 +18,10 @@
         - Cut a bug for this (better way to do updates with migrations)
         - flancian@ can take this.
     - Steve: we should use a maintenance page (nginx served)
+        - We do have a maintenance page somewhere in our /var/www and nginx is probably set up (commented) to serve it
+        - Maybe another "update procedures" item
+        - +1, but note that this won't help people using alternative frontends/clients
+            - Totally.
     - max_connections below
 - We should bump max_connections (and maybe shared_buffers) in Postgres 
     - To prevent issues after maintenance
