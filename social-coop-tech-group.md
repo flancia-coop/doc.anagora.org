@@ -36,7 +36,7 @@
     - D: Official vs unofficial members. Meeting attendance?
     - A: OC splits between official members.
     - C: Strong preference for us to say yes to stipend. Don't mind how we allocate it.
-    - D: 
+    - D: Summary of spreadsheet: 3wc, me, Flan split in thirds. Also taking for granted that notes document is source of truth, may or may not be the case.
 - Onboarding Ammar?
 - "Starter project" for Gabriel?
     - Monitoring in pando?
