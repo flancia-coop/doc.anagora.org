@@ -1,10 +1,13 @@
 ## 2025-12-17
 
-- Attending: Ammar, Calix, Dan,
+- Attending: Ammar, Calix, Dan, Flan
 - Check-ins:
     - Visas 😭
-    - Temporarily deputising family members into TWG 🙃
-    - 
+    - Temporarily deputising family members into TWG 🙃 (hanging out with kids)
+    - Organizing towards strike ✊ Vacation soon
+    - In the woods, multitasking getting the wood stove going, single board computers!
+    - Waiting for the end of the year, it's been a long year subjectively speaking!
+        - Looking forward to smoother sailing health wise
 
 
 - We should bump max_connections (and maybe shared_buffers) in Postgres 
