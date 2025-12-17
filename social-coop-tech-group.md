@@ -26,6 +26,7 @@
 - We should bump max_connections (and maybe shared_buffers) in Postgres 
     - To prevent issues after maintenance
     - Go to... 200? 2x the default?
+    - Ammar: https://www.postgresql.org/docs/current/runtime-config-connection.html 
 - Request from Caitlin on how to spend our stipends
     - Dan made A Spreadsheet: https://share.mayfirst.org/f/41640538
 - Onboarding Ammar?
