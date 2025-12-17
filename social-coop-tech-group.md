@@ -8,12 +8,18 @@
     - In the woods, multitasking getting the wood stove going, single board computers!
     - Waiting for the end of the year, it's been a long year subjectively speaking!
         - Looking forward to smoother sailing health wise
-
-
+    - Meetings and meetings
+    - Welcome Ammar!
 - We should bump max_connections (and maybe shared_buffers) in Postgres 
     - To prevent issues after maintenance
     - Go to... 200? 2x the default?
 - Discuss learnings from last update / projects to prioritize.
+- Request from Caitlin on how to spend our stipends
+    - Dan made A Spreadsheet
+- Onboarding Ammar?
+- "Starter project" for Gabriel?
+    - Monitoring in pando?
+
 
 ## 2025-12-10
 - Attending: Steve Flancian
