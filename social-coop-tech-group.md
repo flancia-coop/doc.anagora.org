@@ -13,6 +13,10 @@
 - Discuss learnings from last update / projects to prioritize.
     - passing -d to docker compose is important
     - we don't have (I believe) documented exactly how to do updates with database migrations or other "pre up" activities
+        - Should this be integrated into Ansible?
+        - https://git.coopcloud.tech/coop-cloud/mastodon/src/branch/main/entrypoint.sh.tmpl#L43 
+    - Steve: we should use a maintenance page (nginx served)
+
     - max_connections below
 - We should bump max_connections (and maybe shared_buffers) in Postgres 
     - To prevent issues after maintenance
