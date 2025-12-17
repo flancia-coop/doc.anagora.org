@@ -10,15 +10,19 @@
         - Looking forward to smoother sailing health wise
     - Meetings and meetings
     - Welcome Ammar!
+- Discuss learnings from last update / projects to prioritize.
+    - passing -d to docker compose is important
+    - we don't have (I believe) documented exactly how to do updates with database migrations or other "pre up" activities
+    - max_connections below
 - We should bump max_connections (and maybe shared_buffers) in Postgres 
     - To prevent issues after maintenance
     - Go to... 200? 2x the default?
-- Discuss learnings from last update / projects to prioritize.
 - Request from Caitlin on how to spend our stipends
-    - Dan made A Spreadsheet
+    - Dan made A Spreadsheet: https://share.mayfirst.org/f/41640538
 - Onboarding Ammar?
 - "Starter project" for Gabriel?
     - Monitoring in pando?
+- RAID health in rhizome? (flancian will check)
 
 
 ## 2025-12-10
