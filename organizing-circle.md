@@ -10,20 +10,23 @@ References:
 - videoconference: [TBD by @flan]
 
 Current members:
-- flan
-- caitlin
-- Marie
-- Kate
-- Dan
-- Melissa
 - Anmar
-- duardo
+- caitlin
+- Dan
+- eduardo
+- Flan
+- Kate
+- Marie
+- Melissa
+
 ## Tasks
 + [ ] @all, async: review and annotate our 2025 accomplishments to celebrate
 + [ ] 
 
+------
 ## $NEXT 2026-01-08 1500 UTC
 
+------
 ## 2025-12-18
 
 Attendees:
