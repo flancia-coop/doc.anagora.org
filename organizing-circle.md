@@ -1,11 +1,16 @@
 ---
 title: Social Coop's Organizing Circle log
-description: notes and minutes per meeting 
-tags:
+description: notes and minutes per meeting with tasks on top 
+tags: OC, meeting notes, 
 lang: en
 ---
 
 ## $NEXT
+2026-01-0
+
+## Tasks
++ [ ] @all, async: review and annotate our 2025 accomplishments to celebrate
++ [ ] 
 
 ## 2025-12-18
 
