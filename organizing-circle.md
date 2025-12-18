@@ -20,8 +20,8 @@ Current members:
 - Melissa
 
 ## Tasks
-+ [ ] @all, async: review and annotate our 2025 accomplishments to celebrate
-+ [ ] 
++ [ ] @all, async: review and annotate our 2025 accomplishments to celebrate. 
++ [ ] Other/s? 
 
 ------
 ## $NEXT 2026-01-08 1500 UTC
