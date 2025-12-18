@@ -5,12 +5,24 @@ tags: OC, meeting notes,
 lang: en
 ---
 
-## $NEXT
-2026-01-0
+References:
+- notes: https://doc.anagora.org/organizing-circle#
+- videoconference: [TBD by @flan]
 
+Current members:
+- flan
+- caitlin
+- Marie
+- Kate
+- Dan
+- Melissa
+- Anmar
+- duardo
 ## Tasks
 + [ ] @all, async: review and annotate our 2025 accomplishments to celebrate
 + [ ] 
+
+## $NEXT 2026-01-08 1500 UTC
 
 ## 2025-12-18
 
