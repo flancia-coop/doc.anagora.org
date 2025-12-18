@@ -1,3 +1,14 @@
+---
+title: Social Coop's Organizing Circle log
+description: notes and minutes per meeting 
+tags:
+lang: en
+---
+
+## $NEXT
+
+## 2025-12-18
+
 Attendees:
     Eduardo, Ammar (notes), Dan, Marie, Melissa, Caitlin (facillitate), Flancian. , Flancian
 
