@@ -5,6 +5,8 @@ tags: OC, meeting notes,
 lang: en
 ---
 
+## Moved to -> https://doc.anagora.org/social-coop-oc
+
 References:
 - notes: https://doc.anagora.org/organizing-circle#
 - videoconference: [TBD by @flan]

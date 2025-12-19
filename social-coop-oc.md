@@ -1,11 +1,10 @@
-## Social.Coop Organizing Circle Notes
-
 ---
-title: Social Coop's Organizing Circle log
 description: notes and minutes per meeting with tasks on top 
 tags: OC, meeting notes, 
 lang: en
 ---
+
+## Social.Coop's Organizing Circle Notes
 
 References:
 - notes: https://doc.anagora.org/social-coop-oc
