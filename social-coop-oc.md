@@ -31,6 +31,12 @@ Current members:
 
 ## 2026-01-08 1500 UTC
 
+Attendees:
+- Ammar
+- Melissa
+
+sent a welcome DM to @loppear and @pjw
+
 
 
 
