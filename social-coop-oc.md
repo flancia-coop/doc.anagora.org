@@ -11,13 +11,13 @@ References:
 - videoconference: https://jitsi.meet.coop/social-coop-oc
 
 Current members:
-- Ammar
+- Ammar (at-large)
 - caitlin (FWG rep)
-- Dan
-- eduardo m
-- Flan
-- Kate
-- Marie
+- Dan (TWG/CWG rep)
+- eduardo m (at-large)
+- Flan (TWG/CWG rep)
+- Kate (at-large, ending Jan 2026)
+- Marie (at-large, ending Jan 2026)
 - Melissa (CWG rep)
 
 ## Tasks
