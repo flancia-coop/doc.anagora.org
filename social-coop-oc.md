@@ -29,6 +29,7 @@ Current members:
 ------
 ## $NEXT 2026-01-29 1500 UTC
 
+
 ## 2026-01-08 1500 UTC
 
 Attendees:
@@ -36,8 +37,6 @@ Attendees:
 - Melissa
 
 sent a welcome DM to @loppear and @pjw
-
-
 
 
 ## 2026-01-01 ASYNC Meeting
