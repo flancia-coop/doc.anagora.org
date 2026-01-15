@@ -11,10 +11,10 @@ References:
 - videoconference: https://jitsi.meet.coop/social-coop-oc
 
 Current members:
-- Anmar
+- Ammar
 - caitlin
 - Dan
-- eduardo
+- eduardo m
 - Flan
 - Kate
 - Marie
