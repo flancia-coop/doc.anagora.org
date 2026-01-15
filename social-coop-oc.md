@@ -13,14 +13,14 @@ References:
 Current members:
 - caitlin (FWG rep) @CaitlinWaddick
 - Dan (TWG/CWG rep) @dphiffer
-- eduardo m (at-large) @edumerco
-- Flan (TWG/CWG rep) @flancian
+- Flan (TWG rep) @flancian
 - Melissa (CWG rep) @ansate
 - @pjw (at-large, starting Jan 2026)
 - @loppear (at-large, starting Jan 2026)
 - Ammar (at-large) @ammaratef45
-- - Kate (at-large, ending Jan 2026)
+- Kathe (at-large, ending Jan 2026) @ktoddbrown
 - Marie (at-large, ending Jan 2026) @MarieVC
+- eduardo m (at-large) @edumerco
 
 ## Tasks
 + [ ] @all, async: review and annotate our 2025 accomplishments to celebrate. 
