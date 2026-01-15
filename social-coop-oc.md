@@ -19,6 +19,8 @@ Current members:
 - Kate (at-large, ending Jan 2026)
 - Marie (at-large, ending Jan 2026)
 - Melissa (CWG rep)
+- @pjw
+- @loppear
 
 ## Tasks
 + [ ] @all, async: review and annotate our 2025 accomplishments to celebrate. 
