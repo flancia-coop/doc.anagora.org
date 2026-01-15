@@ -25,10 +25,14 @@ Current members:
 + [ ] Other/s? 
 
 ------
-## $NEXT 2026-01-08 1500 UTC
+## $NEXT 2026-01-29 1500 UTC
+
+## 2026-01-08 1500 UTC
 
 
-## Jan 1 2026 ASYNC Meeting
+
+
+## 2026-01-01 ASYNC Meeting
 
 ### What did we accomplish in 2025?
 1. Community Contributions
