@@ -11,16 +11,16 @@ References:
 - videoconference: https://jitsi.meet.coop/social-coop-oc
 
 Current members:
-- Ammar (at-large)
-- caitlin (FWG rep)
+- Ammar (at-large) @ammaratef45
+- caitlin (FWG rep) 
 - Dan (TWG/CWG rep)
 - eduardo m (at-large)
 - Flan (TWG/CWG rep)
 - Kate (at-large, ending Jan 2026)
 - Marie (at-large, ending Jan 2026)
 - Melissa (CWG rep)
-- @pjw
-- @loppear
+- @pjw (at-large, starting Jan 2026)
+- @loppear (at-large, starting Jan 2026)
 
 ## Tasks
 + [ ] @all, async: review and annotate our 2025 accomplishments to celebrate. 
