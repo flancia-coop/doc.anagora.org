@@ -12,13 +12,13 @@ References:
 
 Current members:
 - Ammar
-- caitlin
+- caitlin (FWG rep)
 - Dan
 - eduardo m
 - Flan
 - Kate
 - Marie
-- Melissa
+- Melissa (CWG rep)
 
 ## Tasks
 + [ ] @all, async: review and annotate our 2025 accomplishments to celebrate. 
