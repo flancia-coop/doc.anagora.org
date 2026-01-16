@@ -32,7 +32,9 @@ next meeting:
 - Calix, can we meet an hour earlier or later
 - let's try an hour later next month - AGREED 2/20 18:00 UTC
 
-
+calendaring:
+- google calendar not updating from next cloud as expected (should update every 12 hours), annoying for getting this meetings
+- have some ideas for making this work
 
 
 Feb 2 - 
