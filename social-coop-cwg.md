@@ -41,8 +41,8 @@ https://wiki.social.coop/wiki/January_2026_Hackathon
 
 Moderator Schedule
 
-Moderation shadowing?
-Feb 2 - 
+Moderation shadowing - add to schedule
+Feb 2 - Matt
 Feb 9 - 
 Feb 16 - 
 Feb 23 - 
