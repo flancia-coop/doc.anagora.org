@@ -68,6 +68,7 @@ Bonfire
 - need to make it abundantly clear that this is test server/not our main offering
 - may want to direct to an open instance, if such exists
 - if we do want to moderate, we need to have a plan for what the limits are and how to enforce them
+
 -  https://socialcoop.zulipchat.com/#narrow/channel/511155-CWG/topic/Bonfire/with/562162225
 
 Issues
