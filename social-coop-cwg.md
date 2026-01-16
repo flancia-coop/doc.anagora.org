@@ -19,6 +19,7 @@ Attendees
 - Melissa
 
 Dan had a conflict, but is fine being on the moderator rotation wherever we need him
+Django can't do working hours meetings or moderation, settling in to new job (just to be aware)
 
 Feb 2 - 
 Feb 9 - 
@@ -30,3 +31,5 @@ previous round was
 2. django + hollie
 3. calix
 4. sam
+
+https://wiki.social.coop/wiki/January_2026_Hackathon
