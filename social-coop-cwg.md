@@ -62,8 +62,10 @@ Zulip invite for new members
 -done
 
 Bonfire
-- we have a social.coop bonfire instance
-- TWG wants CWG to manage
+- we have a test/experimental social.coop bonfire instance
+- TWG wants CWG to manage memberships and moderation
+- we don't have any access or documentation on how to do either of those
+- https://socialcoop.zulipchat.com/#narrow/channel/511155-CWG/topic/Bonfire/with/562162225
 
 Issues
 
