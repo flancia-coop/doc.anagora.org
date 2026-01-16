@@ -42,10 +42,10 @@ https://wiki.social.coop/wiki/January_2026_Hackathon
 Moderator Schedule
 
 Moderation shadowing - add to schedule
-Feb 2 - Matt
-Feb 9 - 
-Feb 16 - 
-Feb 23 - 
+Feb 2 - dan
+Feb 9 - Matt
+Feb 16 - calix
+Feb 23 - sam
 
 previous round was
 1. dan
