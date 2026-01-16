@@ -38,7 +38,10 @@ calendaring:
 
 Hackathon Jan 24th with CoSocial.ca
 https://wiki.social.coop/wiki/January_2026_Hackathon
- 
+
+Moderator Schedule
+
+Moderation shadowing?
 Feb 2 - 
 Feb 9 - 
 Feb 16 - 
@@ -51,6 +54,10 @@ previous round was
 4. sam
 
 Zulip invite for new members
+-done
+
+Issues
+
 
 
 
