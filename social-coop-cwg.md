@@ -15,3 +15,8 @@ References:
 
 ## 2026-01-16 1700 UTC
 
+Attendees
+- Melissa
+
+Dan had a conflict, but is fine being on the moderator rotation wherever we need him
+
