@@ -12,6 +12,9 @@ References:
 
 ## $NEXT 2026-02-20 1800 UTC ????
 
+- should we combine #moderation-questions and #reports
+
+
 
 ## 2026-01-16 1700 UTC
 
@@ -47,6 +50,8 @@ Feb 9 - Matt & Gilles
 Feb 16 - calix & Steve
 Feb 23 - sam
 
+(calix )
+
 previous round was
 1. dan
 2. django + hollie
@@ -55,6 +60,8 @@ previous round was
 
 Zulip invite for new members
 -done
+
+
 
 Issues
 
