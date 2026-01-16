@@ -36,7 +36,6 @@ calendaring:
 - google calendar not updating from next cloud as expected (should update every 12 hours), annoying for getting this meetings
 - have some ideas for making this work
 
-
 Feb 2 - 
 Feb 9 - 
 Feb 16 - 
