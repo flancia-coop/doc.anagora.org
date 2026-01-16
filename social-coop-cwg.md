@@ -26,9 +26,11 @@ Dan had a conflict, but is fine being on the moderator rotation wherever we need
 Django can't do working hours meetings or moderation, settling in to new job (just to be aware)
 
 KeyCloak instance is our future happiness for SSO - it is what we use for the wiki
+is deployed using co-op cloud 
 
-
-
+next meeting:
+- Calix, can we meet an hour earlier or later
+- let's try an hour later next month
 
 
 Feb 2 - 
