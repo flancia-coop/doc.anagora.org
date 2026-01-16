@@ -32,4 +32,8 @@ previous round was
 3. calix
 4. sam
 
+Zulip invite for new members
+
+
+
 https://wiki.social.coop/wiki/January_2026_Hackathon
