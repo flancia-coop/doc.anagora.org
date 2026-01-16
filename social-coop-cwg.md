@@ -43,8 +43,8 @@ Moderator Schedule
 
 Moderation shadowing - add to schedule
 Feb 2 - dan
-Feb 9 - Matt
-Feb 16 - calix
+Feb 9 - Matt & Gilles
+Feb 16 - calix & Steve
 Feb 23 - sam
 
 previous round was
