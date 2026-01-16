@@ -65,7 +65,8 @@ Bonfire
 - we have a test/experimental social.coop bonfire instance
 - TWG wants CWG to manage memberships and moderation
 - we don't have any access or documentation on how to do either of those
-- https://socialcoop.zulipchat.com/#narrow/channel/511155-CWG/topic/Bonfire/with/562162225
+- need to make it abundantly clear that this is test server/not our main 
+-  https://socialcoop.zulipchat.com/#narrow/channel/511155-CWG/topic/Bonfire/with/562162225
 
 Issues
 
