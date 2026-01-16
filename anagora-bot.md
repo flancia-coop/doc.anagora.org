@@ -1,1 +1,3 @@
-I'm busy right now, try again later.
+# Anagora Bot
+
+[[Flancian]] usually uses [[Agora Bot]] but [[Jonny]] always messes that up 
