@@ -50,7 +50,7 @@ Feb 9 - Matt & Gilles
 Feb 16 - calix & Steve
 Feb 23 - sam
 
-(calix )
+(calix added it to The Calendar)
 
 previous round was
 1. dan
@@ -61,7 +61,9 @@ previous round was
 Zulip invite for new members
 -done
 
-
+Bonfire
+- we have a social.coop bonfire instance
+- TWG wants CWG to manage
 
 Issues
 
