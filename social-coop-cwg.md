@@ -36,6 +36,9 @@ calendaring:
 - google calendar not updating from next cloud as expected (should update every 12 hours), annoying for getting this meetings
 - have some ideas for making this work
 
+Hackathon Jan 24th with CoSocial.ca
+https://wiki.social.coop/wiki/January_2026_Hackathon
+ 
 Feb 2 - 
 Feb 9 - 
 Feb 16 - 
@@ -51,4 +54,3 @@ Zulip invite for new members
 
 
 
-https://wiki.social.coop/wiki/January_2026_Hackathon
