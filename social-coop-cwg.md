@@ -10,7 +10,8 @@ References:
 - notes: https://doc.anagora.org/social-coop-cwg
 - videoconference: https://jitsi.meet.coop/social-coop-cwg
 
-## $NEXT 2026-01-29 1500 UTC
+## $NEXT 2026-02-20 1700 UTC ????
 
 
-## 2026-01-16 1500 UTC
+## 2026-01-16 1700 UTC
+
