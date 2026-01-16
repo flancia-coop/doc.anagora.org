@@ -20,3 +20,13 @@ Attendees
 
 Dan had a conflict, but is fine being on the moderator rotation wherever we need him
 
+Feb 2 - 
+Feb 9 - 
+Feb 16 - 
+Feb 23 - 
+
+previous round was
+1. dan
+2. django + hollie
+3. calix
+4. sam
