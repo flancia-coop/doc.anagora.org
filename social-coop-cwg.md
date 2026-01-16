@@ -20,12 +20,14 @@ Attendees
 - Gilles
 - Steve
 - Matt
-- Calix
+- (a late) Calix
 
 Dan had a conflict, but is fine being on the moderator rotation wherever we need him
 Django can't do working hours meetings or moderation, settling in to new job (just to be aware)
 
 KeyCloak instance is our future happiness for SSO - it is what we use for the wiki
+
+
 
 
 
