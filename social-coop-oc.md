@@ -30,7 +30,7 @@ Current members:
 ## $NEXT 2026-01-29 1500 UTC
 
 
-## 2026-01-08 1500 UTC
+## 2026-01-15 1500 UTC
 
 Attendees:
 - Ammar
