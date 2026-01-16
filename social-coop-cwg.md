@@ -10,7 +10,7 @@ References:
 - notes: https://doc.anagora.org/social-coop-cwg
 - videoconference: https://jitsi.meet.coop/social-coop-cwg
 
-## $NEXT 2026-02-20 1700 UTC ????
+## $NEXT 2026-02-20 1800 UTC ????
 
 
 ## 2026-01-16 1700 UTC
@@ -30,7 +30,9 @@ is deployed using co-op cloud
 
 next meeting:
 - Calix, can we meet an hour earlier or later
-- let's try an hour later next month
+- let's try an hour later next month - AGREED 2/20 18:00 UTC
+
+
 
 
 Feb 2 - 
