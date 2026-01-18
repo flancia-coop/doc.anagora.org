@@ -1,1 +1,1 @@
-I'm busy right now, try again later.
+- #go https://www.tagesanzeiger.ch/naechtliche-sprayaktion-am-beruehmtesten-kamin-zuerichs-918637415826
