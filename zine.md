@@ -1,1 +1,1 @@
-I'm busy right now, try again later.
+You can use this stoa to leave comments about [[bouncepaw]]'s [[zine]], or to join in.
