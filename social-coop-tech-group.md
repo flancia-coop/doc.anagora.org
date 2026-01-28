@@ -20,7 +20,9 @@
     - D: We would probably be the biggest instance if we opened it up then
 - Onboarding hackathon reportback
     - D: Me and Steve both there from TWG
-    - D: Translation, SSO, user signup flow. Interested in revisi
+    - D: Translation, SSO, user signup flow. Interested in revisiting Keycloak-for-mastodon plans. Remember a plan to force everyone over to Keycloak?
+    - C: Agree. Been on our roadmap. Definitely a plan was started. Can't remember status.
+    - D: Easier 
 - alpha.social.coop
     - 
 
