@@ -23,7 +23,9 @@
     - D: Translation, SSO, user signup flow. Interested in revisiting Keycloak-for-mastodon plans. Remember a plan to force everyone over to Keycloak?
     - C: Agree. Been on our roadmap. Definitely a plan was started. Can't remember status.
     - D: Easier to try out different platforms if we had SSO? Protocol support?
-    - C: Keycloak supports Oauth2/OIDC and SAML, mostly covers all bases between those. Mediawiki, Loomio, Discourse, Peertube all support OIDC. Definitely agree about making it easier to try out different platforms, reduce platform fatigue. And great demo of advantages of libre software. Main challenge imo is social(dotcoop) challenge of friction with people needing to reset passwo
+    - C: Keycloak supports Oauth2/OIDC and SAML, mostly covers all bases between those. Mediawiki, Loomio, Discourse, Peertube all support OIDC. Definitely agree about making it easier to try out different platforms, reduce platform fatigue. And great demo of advantages of libre software. Main challenge imo is social(dotcoop) challenge of friction with people needing to reset passwords. Maybe some folks would be upset by potential for Line Go Down in terms of active users if some people can't be fucked with the password reset and stop participating. Personally do not care about that, worth it.
+    - D: Does keycloak have a signup flow? Or keep existing gitlab + create accounts in admin.
+    - C: 
 - alpha.social.coop
     - 
 
