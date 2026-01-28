@@ -28,7 +28,7 @@
     - C: Doesn't include invitation links by default, registration is either "public" or "disabled". But there are 3rd party apps (e.g. keycloak-collective-portal) which provide this. Or Authentik. Meantime, situation would be longsuffering CWG member creating an account in keycloak.
     - D: Flow creating email aliases? Ticket in gitlab approved: automation, creates email address, etc. Corporate social media does have that requirement to choose username upfront.
     - C: No strong feelings about "tell us your username at the start".
-    - D: Also backfilling existing users.
+    - D: Also backfilling existing users. Same automation?
 - alpha.social.coop 
     - 
 
