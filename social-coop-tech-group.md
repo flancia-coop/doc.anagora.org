@@ -7,8 +7,9 @@
     - Next step: Loomio decision? Existing TWG member needs 2 propose. Maybe a blurb maybe not.
     - A: Maybe I want to switch SSH key
     - **Action Calix** propose Loomio decision
-- alpha.social.coop
 - Upgrade bonfire instance
+    - A: Could start with this?
+- alpha.social.coop
 
 ## 2025-12-17
 
