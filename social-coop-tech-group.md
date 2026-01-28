@@ -13,6 +13,8 @@
     - C: Agree
     - D: How do we feel about "officially" adopting bonfire?
     - A: Had a lot of struggles running Mastodon
+    - C: Running two microblogging platforms in parallel seems weird. Definitely prefer governance, funding model of Bonfire.
+    - **Action Calix** give Ammar hypha access
 - alpha.social.coop
 
 ## 2025-12-17
