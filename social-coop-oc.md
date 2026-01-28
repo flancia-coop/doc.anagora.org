@@ -29,8 +29,8 @@ Current members:
 ------
 ## $NEXT 2026-01-29 1500 UTC
 
-- allowing more volunteers into Zulip? (I'm for it, I think we keep a few channels locked but allow folks who want to participate to participate)
-- doing the votes on loomio to make more volunteers official WG members? 
+- allowing more volunteers into Zulip? (I'm for it, I think we keep a few channels locked but allow folks who want to participate)
+
 
 
 ## 2026-01-15 1500 UTC
