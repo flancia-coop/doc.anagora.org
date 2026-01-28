@@ -9,6 +9,9 @@
     - **Action Calix** propose Loomio decision
 - Upgrade bonfire instance
     - A: Could start with this?
+    - D: Could even do it before Loomio vote, not critical
+    - C: Agree
+    - D: How do we feel about "officially" adopting 
 - alpha.social.coop
 
 ## 2025-12-17
