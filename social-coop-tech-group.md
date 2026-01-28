@@ -17,6 +17,10 @@
     - **Action Calix** give Ammar hypha access
     - D: Impression: not baked enough. Do we know if anyone else is running a federated instance?
     - C: Assume so, don't know off top. Check fedidb? https://fedidb.com/software/bonfire
+    - D: We would probably be the biggest instance if we opened it up then
+- Onboarding hackathon reportback
+    - D: Me and Steve both there from TWG
+    - D: Translation, SSO, user signup flow. Interested in revisi
 - alpha.social.coop
     - 
 
