@@ -25,8 +25,10 @@
     - D: Easier to try out different platforms if we had SSO? Protocol support?
     - C: Keycloak supports Oauth2/OIDC and SAML, mostly covers all bases between those. Mediawiki, Loomio, Discourse, Peertube all support OIDC. Definitely agree about making it easier to try out different platforms, reduce platform fatigue. And great demo of advantages of libre software. Main challenge imo is social(dotcoop) challenge of friction with people needing to reset passwords. Maybe some folks would be upset by potential for Line Go Down in terms of active users if some people can't be fucked with the password reset and stop participating. Personally do not care about that, worth it.
     - D: Does keycloak have a signup flow? Or keep existing gitlab + create accounts in admin.
-    - C: Doesn't include invitation links by default, registration is either "public" or "disabled". But there are 3rd party apps (e.g. keycloak-collective-portal) which provide this. Or Authentik. Meantime, situation would be longsuffering CWG member creating a
-    - D: Flow creating email aliases? Ticket in gitlab approved: automation, creates email address, 
+    - C: Doesn't include invitation links by default, registration is either "public" or "disabled". But there are 3rd party apps (e.g. keycloak-collective-portal) which provide this. Or Authentik. Meantime, situation would be longsuffering CWG member creating an account in keycloak.
+    - D: Flow creating email aliases? Ticket in gitlab approved: automation, creates email address, etc. Corporate social media does have that requirement to choose username upfront.
+    - C: No strong feelings about "tell us your username at the start".
+    - D: Also backfilling existing users.
 - alpha.social.coop 
     - 
 
