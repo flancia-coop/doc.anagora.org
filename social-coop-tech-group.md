@@ -11,7 +11,8 @@
     - A: Could start with this?
     - D: Could even do it before Loomio vote, not critical
     - C: Agree
-    - D: How do we feel about "officially" adopting 
+    - D: How do we feel about "officially" adopting bonfire?
+    - A: Had a lot of struggles running Mastodon
 - alpha.social.coop
 
 ## 2025-12-17
