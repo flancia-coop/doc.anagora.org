@@ -1,6 +1,11 @@
 ## 2026-01-28
 
-- Attending: Ammar, Dan
+- Attending: Ammar, Dan, Calix
+- Checkins:
+    - Various levels of happiness
+- Onboarding Ammar
+- alpha.social.coop
+- Upgrade bonfire instance
 
 ## 2025-12-17
 
