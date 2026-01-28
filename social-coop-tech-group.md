@@ -29,8 +29,12 @@
     - D: Flow creating email aliases? Ticket in gitlab approved: automation, creates email address, etc. Corporate social media does have that requirement to choose username upfront.
     - C: No strong feelings about "tell us your username at the start".
     - D: Also backfilling existing users. Same automation?
-- alpha.social.coop 
+    - (we try to find the existing SSO plan)
+- alpha.social.coop
+    - https://git.coop/social.coop/tech/ansible/-/merge_requests/66
+    - D: Seems like it's working?
     - 
+- 
 
 ## 2025-12-17
 
