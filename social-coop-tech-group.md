@@ -4,8 +4,9 @@
 - Checkins:
     - Various levels of happiness
 - Onboarding Ammar
-    - Next step: Loomio decision? Existing TWG member needs 2 propose
+    - Next step: Loomio decision? Existing TWG member needs 2 propose. Maybe a blurb maybe not.
     - A: Maybe I want to switch SSH key
+    - **Action Calix** propose Loomio decision
 - alpha.social.coop
 - Upgrade bonfire instance
 
