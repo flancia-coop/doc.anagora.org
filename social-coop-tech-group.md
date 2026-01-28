@@ -32,8 +32,9 @@
     - (we try to find the existing SSO plan)
 - alpha.social.coop
     - https://git.coop/social.coop/tech/ansible/-/merge_requests/66
-    - D: Seems like it's working?
-    - 
+    - D: Seems like it's working on alpha
+    - C: Think Flancian wanted input on the approach, seems fine 2 me.
+    - C, D: MR looks good, let's approve. Who dares to do this live?
 - 
 
 ## 2025-12-17
