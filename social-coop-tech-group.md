@@ -15,7 +15,8 @@
     - A: Had a lot of struggles running Mastodon
     - C: Running two microblogging platforms in parallel seems weird. Definitely prefer governance, funding model of Bonfire.
     - **Action Calix** give Ammar hypha access
-    - D: Impression: not baked enough
+    - D: Impression: not baked enough. Do we know if anyone else is running a federated instance?
+    - C: Assume so, don't know off top. Check fedidb? https://fedidb.com/software/bonfire
 - alpha.social.coop
     - 
 
