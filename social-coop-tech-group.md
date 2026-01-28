@@ -1,3 +1,7 @@
+## 2026-01-28
+
+- Attending: Ammar, Dan
+
 ## 2025-12-17
 
 - Attending: Ammar, Calix, Dan, Flan
