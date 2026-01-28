@@ -4,6 +4,8 @@
 - Checkins:
     - Various levels of happiness
 - Onboarding Ammar
+    - Next step: Loomio decision? Existing TWG member needs 2 propose
+    - A: Maybe I want to switch SSH key
 - alpha.social.coop
 - Upgrade bonfire instance
 
