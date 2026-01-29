@@ -47,6 +47,7 @@ Agenda
 - onboarding/offboarding, in review 
     - Welcoming Luke: We got him into Zulip! Yaay! 
 - wg report back: FWG/LWG, CWG, TWG 
+    - TWG (Ammar reporting): met yesterday. Bonfire update to new version. TWG discussion: Do we want to test running a Bonfire instance? Flancian was not there: no update to alpha instance.  Conversation on adding to the character limit: the issue was dormant and they 
 - closing
 
 
