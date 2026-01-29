@@ -32,10 +32,14 @@ Current members:
 
 ## 2026-01-29 1500 UTC
 
-Attendees: Ammar, Melissa, Luke,Caitlin
+Attendees: Ammar, Melissa, Luke, Caitlin
 
 Agenda
-- allowing more volunteers into Zulip? (I'm for it, I think we keep a few channels locked but allow folks who want to participate)
+- Who is facilitating? who is taking notes?
+- Checkin
+- Welcoming new members
+    - allowing more volunteers into Zulip? (I'm for it, I think we keep a few channels locked but allow folks who want to participate)
+    - Go over how we run oc meetings, how was last year and what are our goals this year (roughk)
 
 
 
