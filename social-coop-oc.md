@@ -50,10 +50,12 @@ Agenda
         - Caitlin proposes having a cheerleader™/meaning agenda item ownership/representative, for each agenda item.
         - draft agenda will be formed before the meeting by someone... by all of us: when we get the meeting reminder, then we post our agenda items to the Living Agenda document and review the forming agenda before the meeting, ideally. 
         - Every meeting begins with consent to the agenda.  
-    - Assign someone to officially announce the next meeting. LUKE SAYS HE WILL DO IT!!  WOO-HOO!  He will announce via Zulip and tag all the people and post the meeting link and invite people to put their agenda items into this living document. 
+    - Assign someone to officially announce the next meeting. LUKE SAYS HE WILL DO IT!!  WOO-HOO!  He will announce via Zulip and tag all the people and post the meeting link and invite people to put their agenda items into this living document.
+    - meeting recaps: no one wants to write it. Concern that people were not reading them.  
 - onboarding/offboarding, in review 
     - Welcoming Luke: We got him into Zulip! Yaay! 
-    - He needs a mentor.  
+    - He needs a mentor. Caitlin will mentor 
+    - The other new person is PJW (he/him). How to onboard and who will be his mentor- next meeting  
 - wg report back: FWG/LWG, CWG, TWG 
     - TWG (Ammar reporting): met yesterday. Bonfire update to new version. TWG discussion: Do we want to test running a Bonfire instance? Flancian was not there: no update to alpha instance.  Conversation on adding to the character limit: the issue was dormant and they picked up.  ... FYI: Melissa lurks in the Matrix, where TWG hangs out. 
     - CWG: can get people to moderate. Moderators are trained and cover shifts. They expect to add new moderators. 2 new members attended the last meeting.  ... M. from the Hackathon may also join. Silver is in Australia makes it hard to have a meeting.  CWG members have not been attending meetings; thus, they moved the day and time to 3rd Fridays, 10 am Pacific time (18UTC)
