@@ -29,6 +29,7 @@ Current members:
 ------
 ## $NEXT 2026-02-12 1500 UTC
 
+- Melissa has to leave at the hour
 - sensemaking 2026 budget
 - offboarding thankyous
 - onboarding summary for pjw
