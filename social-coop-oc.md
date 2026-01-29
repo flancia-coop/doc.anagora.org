@@ -48,7 +48,8 @@ Agenda
     - Welcoming Luke: We got him into Zulip! Yaay! He needs a mentor 
 - wg report back: FWG/LWG, CWG, TWG 
     - TWG (Ammar reporting): met yesterday. Bonfire update to new version. TWG discussion: Do we want to test running a Bonfire instance? Flancian was not there: no update to alpha instance.  Conversation on adding to the character limit: the issue was dormant and they picked up.  ... FYI: Melissa lurks in the Matrix, where TWG hangs out. 
-    - CWG: can get people to moderate. Moderators are trained and cover shifts. They expect to add new moderators. 2 new members attended the last meeting.  ... M. from the Hackathon may also join. Silver is in Australia makes it hard to have a meeting.  cWG members have not been attending meeting
+    - CWG: can get people to moderate. Moderators are trained and cover shifts. They expect to add new moderators. 2 new members attended the last meeting.  ... M. from the Hackathon may also join. Silver is in Australia makes it hard to have a meeting.  CWG members have not been attending meetings; thus, they moved the day and time to 3rd Fridays, 10 am Pacific time (18UTC)
+    - FWG (Caitlin reporting): we didn't have an annual budget for the most part (OC would just approve the spending), 2025 had the first approved budget
 - closing
 
 
