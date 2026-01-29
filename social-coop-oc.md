@@ -40,10 +40,13 @@ Agenda
 - Consent to the agenda
 - Checkin & intros (since we have a new member!)
 - Welcoming new members
+    - 
     - allowing more volunteers into Zulip? (I'm for it, I think we keep a few channels locked but allow folks who want to participate)
     - Go over how we run oc meetings, how was last year and what are our goals this year (roughly)
     - Assign someone to officially announce the next meeting. 
-- wg report back
+- onboarding/offboarding, in review 
+    - Welcoming Luke: We got him into Zulip! Yaay! 
+- wg report back: FWG/LWG, CWG, TWG 
 - closing
 
 
