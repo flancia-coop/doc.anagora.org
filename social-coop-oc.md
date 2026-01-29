@@ -38,8 +38,7 @@ Agenda
 - Who is facilitating? who is taking notes?
     - Melissa will facilliatate. Ammar and Caitlin will take notes. 
 - Consent to the agenda
-- Checkin
-    - 
+- Checkin & intros (since we have a new member!)
 - Welcoming new members
     - allowing more volunteers into Zulip? (I'm for it, I think we keep a few channels locked but allow folks who want to participate)
     - Go over how we run oc meetings, how was last year and what are our goals this year (roughly)
