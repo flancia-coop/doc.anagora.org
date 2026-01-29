@@ -48,7 +48,7 @@ Agenda
     - Go over how we run oc meetings, how was last year and what are our goals this year (roughly)
         - We roughly follow sociocracy model in running our meetings.
         - A discussion round before each decision round
-        - Caitlin proposes having a cheerleader™/meaning agenda item ownership/representative, for each agenda item.
+        - Caitlin proposes having a cheerleader™/meaning agenda item ownership/representative/champion, for each agenda item... it can be in the meeting minutes, or assigned, when we get to that item, the facilitator can ask, "who wants to champion this topic?""
         - draft agenda will be formed before the meeting by someone... by all of us: when we get the meeting reminder, then we post our agenda items to the Living Agenda document and review the forming agenda before the meeting, ideally. 
         - Every meeting begins with consent to the agenda.  
     - Assign someone to officially announce the next meeting. LUKE SAYS HE WILL DO IT!!  WOO-HOO!  He will announce via Zulip and tag all the people and post the meeting link and invite people to put their agenda items into this living document.
