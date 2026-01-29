@@ -31,7 +31,7 @@ Current members:
 
 - sensemaking 2026 budget
 - offboarding thankyous
-- 
+- onboarding summary for pjw
 
 ## 2026-01-29 1500 UTC
 
