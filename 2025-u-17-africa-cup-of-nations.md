@@ -1,10 +1,1 @@
-[Juan Bingo](https://JUAN-BINGO.COM.PH)
-[Juan Bingo](https://JUAN-BINGO.COM)
-[Juan Bingo](https://JUANBINGO.LIVE)
-[BingoJuan](https://BINGOJUAN.COM)
-[BingoJuan](https://BINGOJUAN.COM)
-[Juan Play](https://juan-play.com)
-[Juan Sports](https://juan-sports.com)
-[Juan Sports](https://juansports.org/)
-[Juan Zone](https://juan.zone/)
-[Juan Bingo](https://juanbingoapp.net.ph/)
+I'm busy right now, try again later.
