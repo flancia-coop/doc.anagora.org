@@ -46,12 +46,12 @@ Agenda
     - Go over how we run oc meetings, how was last year and what are our goals this year (roughly)
     - Assign someone to officially announce the next meeting. 
 - onboarding/offboarding, in review 
-    - Welcoming Luke: We got him into Zulip! Yaay! He needs a mentor 
+    - Welcoming Luke: We got him into Zulip! Yaay! He needs a mentor.  
 - wg report back: FWG/LWG, CWG, TWG 
     - TWG (Ammar reporting): met yesterday. Bonfire update to new version. TWG discussion: Do we want to test running a Bonfire instance? Flancian was not there: no update to alpha instance.  Conversation on adding to the character limit: the issue was dormant and they picked up.  ... FYI: Melissa lurks in the Matrix, where TWG hangs out. 
     - CWG: can get people to moderate. Moderators are trained and cover shifts. They expect to add new moderators. 2 new members attended the last meeting.  ... M. from the Hackathon may also join. Silver is in Australia makes it hard to have a meeting.  CWG members have not been attending meetings; thus, they moved the day and time to 3rd Fridays, 10 am Pacific time (18UTC)
     - FWG (Caitlin reporting): we didn't have an annual budget for the most part (OC would just approve the spending), 2025 had the first OC-approved budget (late in 2025). community contributions' main benefit (via participatory budgeting exercise) was to have more member engagement (that was a big success). 2026 budget is almost exactly the same as 2025, WGs can ask FWG to add things to the budget, including their stipend line items. let's add agenda item for next meeting to look at the budget together, as a sense-making exercise; then, at a February meeting: we can vote in an official capacity to approve the 2026 budget. Discussion about how to normalize stipends.
-    - LWG (Caitlin reporting): members of LWG are not le
+    - LWG (Caitlin reporting): members of LWG are not legal experts but have enough experience to bottom-line finding answers to legal questions. not sure if they met yet, Caitlin will ping Alex and Marie, for them to call a meeting and will announce it for OC in case someone wants to attend.
 - closing
 
 
