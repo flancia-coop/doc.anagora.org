@@ -32,11 +32,7 @@ Current members:
 
 ## 2026-01-29 1500 UTC
 
-Attendees:
-- Ammar
-- Melissa
-- Luke
-- Caitlin
+Attendees: Ammar, Melissa, Luke,Caitlin
 
 Agenda
 - allowing more volunteers into Zulip? (I'm for it, I think we keep a few channels locked but allow folks who want to participate)
