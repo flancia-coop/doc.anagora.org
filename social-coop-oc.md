@@ -35,8 +35,10 @@ Current members:
 Attendees:
 - Ammar
 - Melissa
+- Luke
+- Caitlin
 
-
+Agenda
 - allowing more volunteers into Zulip? (I'm for it, I think we keep a few channels locked but allow folks who want to participate)
 
 
