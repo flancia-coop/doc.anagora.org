@@ -59,7 +59,7 @@ Agenda
     - LWG (Caitlin reporting): members of LWG are not legal experts but have enough experience to bottom-line finding answers to legal questions. not sure if they met yet, Caitlin will ping Alex and Marie, for them to call a meeting and will announce it for OC in case someone wants to attend.
 - closing
     - Who is sending a reminder and drafting agenda for next meeting.
-    - 
+    - how are you leaving this call?
 
 
 
