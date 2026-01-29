@@ -48,7 +48,7 @@ Agenda
         - A discussion round before each decision round
         - Caitlin proposes having a cheerleader™/meaning agenda item ownership/representative, for each agenda item.
         - draft agenda formed before the meeting by someone 
-    - Assign someone to officially announce the next meeting. 
+    - Assign someone to officially announce the next meeting. LUKE SAYS HE WILL DO IT!!  WOO-HOO!  He will announce via Zulip and tag all the people and post the meeting link and invite people to put their agenda items into this living document. 
 - onboarding/offboarding, in review 
     - Welcoming Luke: We got him into Zulip! Yaay! 
     - He needs a mentor.  
