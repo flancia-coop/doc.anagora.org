@@ -43,6 +43,7 @@ Agenda
 - Welcoming new members
     - 
     - allowing more volunteers into Zulip? (I'm for it, I think we keep a few channels locked but allow folks who want to participate)
+        - Yes: continue to use Zulip. Melissa will write a wiki page that Loomio is the open, community-wide place to discuss governance. Zulip is the slightly secluded place for working group members to have discussions. 
     - Go over how we run oc meetings, how was last year and what are our goals this year (roughly)
         - We roughly follow sociocracy model in running our meetings.
         - A discussion round before each decision round
