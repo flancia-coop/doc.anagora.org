@@ -42,7 +42,7 @@ Agenda
     - Melissa will facilliatate. Ammar and Caitlin will take notes. 
 - Consent to the agenda
 - Checkin & intros (since we have a new member!)
-- Welcoming new members
+- Welcoming new members 
     - allowing more volunteers into Zulip? (I'm for it, I think we keep a few channels locked but allow folks who want to participate)
         - Yes: continue to use Zulip. Melissa will write a wiki page that Loomio is the open, community-wide place to discuss governance. Zulip is the slightly secluded place for working group members to have discussions and some asynchronous work. Anyone on Social.Coop who is thinking about joining this work may join Zulip. 
     - Go over how we run oc meetings, how was last year and what are our goals this year (roughly)
