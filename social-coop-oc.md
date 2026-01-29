@@ -45,8 +45,8 @@ Agenda
     - allowing more volunteers into Zulip? (I'm for it, I think we keep a few channels locked but allow folks who want to participate)
     - Go over how we run oc meetings, how was last year and what are our goals this year (roughly)
         - We roughly follow sociocracy model in running our meetings.
-        - A discussion round 
-        - Caitlin proposes having a cheerleader™ for each agenda item.
+        - A discussion round before each decision round
+        - Caitlin proposes having a cheerleader™/ for each agenda item.
         - 
     - Assign someone to officially announce the next meeting. 
 - onboarding/offboarding, in review 
