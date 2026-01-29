@@ -46,11 +46,12 @@ Agenda
     - Go over how we run oc meetings, how was last year and what are our goals this year (roughly)
         - We roughly follow sociocracy model in running our meetings.
         - A discussion round before each decision round
-        - Caitlin proposes having a cheerleader™/ for each agenda item.
-        - 
+        - Caitlin proposes having a cheerleader™/meaning agenda item ownership/representative, for each agenda item.
+        - draft agenda formed before the meeting by someone 
     - Assign someone to officially announce the next meeting. 
 - onboarding/offboarding, in review 
-    - Welcoming Luke: We got him into Zulip! Yaay! He needs a mentor.  
+    - Welcoming Luke: We got him into Zulip! Yaay! 
+    - He needs a mentor.  
 - wg report back: FWG/LWG, CWG, TWG 
     - TWG (Ammar reporting): met yesterday. Bonfire update to new version. TWG discussion: Do we want to test running a Bonfire instance? Flancian was not there: no update to alpha instance.  Conversation on adding to the character limit: the issue was dormant and they picked up.  ... FYI: Melissa lurks in the Matrix, where TWG hangs out. 
     - CWG: can get people to moderate. Moderators are trained and cover shifts. They expect to add new moderators. 2 new members attended the last meeting.  ... M. from the Hackathon may also join. Silver is in Australia makes it hard to have a meeting.  CWG members have not been attending meetings; thus, they moved the day and time to 3rd Fridays, 10 am Pacific time (18UTC)
