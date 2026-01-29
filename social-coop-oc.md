@@ -47,7 +47,7 @@ Agenda
         - We roughly follow sociocracy model in running our meetings.
         - A discussion round before each decision round
         - Caitlin proposes having a cheerleader™/meaning agenda item ownership/representative, for each agenda item.
-        - draft agenda formed before the meeting by someone 
+        - draft agenda will be formed before the meeting by someone... by all of us: 
     - Assign someone to officially announce the next meeting. LUKE SAYS HE WILL DO IT!!  WOO-HOO!  He will announce via Zulip and tag all the people and post the meeting link and invite people to put their agenda items into this living document. 
 - onboarding/offboarding, in review 
     - Welcoming Luke: We got him into Zulip! Yaay! 
@@ -60,6 +60,8 @@ Agenda
 - closing
     - Who is sending a reminder and drafting agenda for next meeting.
     - how are you leaving this call?
+
+
 
 
 
