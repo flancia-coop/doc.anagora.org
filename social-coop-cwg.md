@@ -13,7 +13,9 @@ References:
 ## $NEXT 2026-02-20 1800 UTC ????
 
 - should we combine #moderation-questions and #reports
+- let's do the loomio vote for new CWG members
 
+## 2026-02-02 special welcome Malaya edition
 
 
 ## 2026-01-16 1700 UTC
