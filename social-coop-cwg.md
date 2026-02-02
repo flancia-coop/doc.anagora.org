@@ -7,12 +7,15 @@ lang: en
 ## Social.Coop's Community Working Group Notes
 
 References:
+- calendar link: https://link.social.coop/calendar
 - notes: https://doc.anagora.org/social-coop-cwg
 - videoconference: https://jitsi.meet.coop/social-coop-cwg
 
 ## $NEXT 2026-02-20 1800 UTC ????
 
 - should we combine #moderation-questions and #reports
+    - moderation questions is unlocked, and could conceivably be for philosophical questions and abstract scenarios
+    - reports is locked and is about specific actions of specific people
 - let's do the loomio vote for new CWG members
 
 ## 2026-02-02 special welcome Malaya edition
