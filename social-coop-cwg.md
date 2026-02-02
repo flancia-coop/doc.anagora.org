@@ -17,6 +17,7 @@ References:
     - moderation questions is unlocked, and could conceivably be for philosophical questions and abstract scenarios
     - reports is locked and is about specific actions of specific people
 - let's do the loomio vote for new CWG members
+- helping with easy reports, as one can, is that 
 
 ## 2026-02-02 special welcome Malaya edition
 
