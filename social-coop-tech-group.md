@@ -1,7 +1,7 @@
 ## 2026-02-04
 
 - Attending: Dan, Calix, Flancian
-
+- Deployed 
 
 ## 2026-01-28
 
