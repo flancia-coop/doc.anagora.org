@@ -2,10 +2,11 @@
 
 - Attending: Dan, Calix, Flancian
 - Deployed 1,000 character limit :tada: 
+    - https://git.coop/social.coop/tech/ansible/-/merge_requests/67
     - https://social.coop/@flancian/116013777028012956
 - Calix Posted to Loomio about Ammar joining TWG officially
-    - https://www.loomio.com/d/jrbG5tue/server-access/117
-- Next meeting 
+    - https://www.loomio.com/p/uWskG5Jj/give-ammaratef45-server-access
+- Next meeting will be 2026-02-18, then every other Wednesday at 18 UTC.
 
 ## 2026-01-28
 
