@@ -2,7 +2,9 @@
 
 - Attending: Dan, Calix, Flancian
 - Deployed 1,000 character limit :tada: 
-- 
+    - https://social.coop/@flancian/116013777028012956
+- Calix Posted to Loomio about Ammar joining TWG officially
+    - https://www.loomio.com/d/jrbG5tue/server-access/117
 - Next meeting 
 
 ## 2026-01-28
