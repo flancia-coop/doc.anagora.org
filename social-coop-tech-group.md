@@ -1,3 +1,8 @@
+## 2026-02-04
+
+- Attending: Dan, Calix, Flancian
+
+
 ## 2026-01-28
 
 - Attending: Ammar, Dan, Calix
