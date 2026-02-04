@@ -1,7 +1,9 @@
 ## 2026-02-04
 
 - Attending: Dan, Calix, Flancian
-- Deployed 
+- Deployed 1,000 character limit :tada: 
+- 
+- Next meeting 
 
 ## 2026-01-28
 
