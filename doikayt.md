@@ -1,1 +1,1 @@
-I'm busy right now, try again later.
+- "The concept of [[Doikayt]] (lit. "[[hereness]]", Yiddish = do-ikayt, do'ikayt; German = [[Da-keit]]; French = "ici-té") was central to the Bundist ideology, expressing its focus on solving the challenges confronting Jews in the country in which they lived, versus the "thereness" of the Zionist movement"
