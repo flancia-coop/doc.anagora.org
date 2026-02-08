@@ -1,3 +1,1 @@
-- a [[company]].
-    - #go https://www.everydaycompany.co/
- 
+I'm busy right now, try again later.
