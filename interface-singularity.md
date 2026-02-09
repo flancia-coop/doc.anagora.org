@@ -1,1 +1,3 @@
-I'm busy right now, try again later.
+# Interface Singularity
+
+Sort of like what the [[agora]] is, everything blends into one.
