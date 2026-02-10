@@ -1,1 +1,2 @@
 - #pull [[slony karmel]] ~ [[słony karmel]]
+- #push [[t]] https://en.wikipedia.org/wiki/%C5%81
