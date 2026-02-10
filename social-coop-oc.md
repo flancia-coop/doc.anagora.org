@@ -27,7 +27,9 @@ Current members:
 + [ ] Other/s? 
 
 ------
-## $NEXT 2026-02-12 1500 UTC
+## $NEXT 2026-02-26 1500 UTC
+
+## $NOW 2026-02-12 1500 UTC
 
 - sensemaking 2026 budget
 - offboarding thankyous
