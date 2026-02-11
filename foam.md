@@ -1,2 +1,1 @@
-- [[git]] https://github.com/foambubble/foam/
-- [[bugs]] https://github.com/foambubble/foam/issues
+I'm busy right now, try again later.
