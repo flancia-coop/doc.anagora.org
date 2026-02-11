@@ -1,1 +1,2 @@
-I'm busy right now, try again later.
+On a document with the same title which you might find relevant (https://www.opendemocracy.net/en/oureconomy/case-digital-non-aligned-movement/0)
+    And a broader collective working on these matters: https://nonalignedtech.net/index.php?title=Main_Page 
