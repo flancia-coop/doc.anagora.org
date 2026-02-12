@@ -51,7 +51,7 @@ Agenda
 ### 2026 Budget
 - brief intro https://www.loomio.com/p/EYwd7onD/help-social-coop-make-sense-of-the-proposed-2026-budget-what-can-we-do-together-
     - background: 2025 was the first OC-approved annual budget. Limited comparative, annual data. 
-    - had hoped Loomio would enable sense-making conversation, but hard to have conversation
+    - had hoped Loomio would enable "sensemaking" tool conversation, but hard to have conversation in that particular post 
 - contentious points so far
     - stipends
 - key next step: do we understand the budget that has been proposed? sensemaking.
@@ -63,7 +63,9 @@ Agenda
         - We deduct stipends
         - We deduct reserve
         - We distribute the remainder via a participative survey in two rounds (propose projects, distribute the money)
-     - E
+            - We actually currently distribute a particular amount to distribute, not necessarily the full remainder in this way
+     - Eduardo: when we discuss our budget for our next year, how do we estimate our expected 'income' based on the previous?
+     - Melissa: happy to keep doing what we're doing; maybe we want to discuss if we want to keep the same meet.co
     
 ### offboarding thankyous
 
