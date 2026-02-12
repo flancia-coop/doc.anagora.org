@@ -50,9 +50,13 @@ Agenda
 
 ### 2026 Budget
 - brief intro https://www.loomio.com/p/EYwd7onD/help-social-coop-make-sense-of-the-proposed-2026-budget-what-can-we-do-together-
+    - had hoped Loomio would enable sense-making conversation, but hard to have conversation
 - contentious points so far
     - stipends
 - key next step: do we understand the budget that has been proposed? sensemaking.
+- questions that we can discuss/answer/investigate
+    - Do we think platform 6 will continue to be our fiscal host? 
+    - 
     
 ### offboarding thankyous
 
