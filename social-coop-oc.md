@@ -80,9 +80,11 @@ Agenda
     - meet.coop status - The October 2025 tech report from Meet.Coop says that they need security upgrades. (The Ubuntu and bbb versions were too old). The platform is migrating to newer infrastructure -- "Meet.coop 2.0" -- to resolve long-term maintenance issues. ... Meanwhile, how to resolve the confusion around communication for reliability of functionality for users...  
   - https://forum.meet.coop/t/meet-coop-update-october-2025/1739 
   DECISION: 
-    
+
 ### offboarding thankyous
-- Kathe, Marie
+- Kathe, Marie, Matt
+- How to share these? Server announcement to Loomio post (some words of appreciation for each?) 
+  DECISION: 
 
 ### Deep and big topics - 10 in review/refresh 
 - kanban: https://share.mayfirst.org/apps/deck/board/1128
@@ -96,6 +98,7 @@ Agenda
 ### Next Step Decisions
 - [ ] TWG to develop proposal for community decision on hosting alternatives (cooperative, jurisdiction, terms, cost)
 - [ ] FWG to review Meet.coop cost vs outage
+- [ ] Melissa to lead Thank yous 
 
 ## 2026-01-29 1500 UTC
 
