@@ -38,12 +38,14 @@ Current members:
 Attendees: 
 
 Agenda
-- Who is facilitating? who is taking notes
+- Who is facilitating? who is taking notes?
 - Consent to the agenda:
   - sensemaking 2026 budget
   - offboarding thankyous
   - onboarding summary for pjw
-Ch
+- Checkins
+- WG Reports
+- Closing: who is reminding next time, how are you leaving?
 
 ## 2026-01-29 1500 UTC
 
