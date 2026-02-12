@@ -95,7 +95,9 @@ Agenda
 - Success: At-large member selection.
     - Need to review and operationalize for next year
     - DECISION: Caitlin to check with Ammar & Kathe
-- 
+- Let's return next meeting to
+    - Operational Financial Strategy
+    - Identifying new Big Topics
 
 ### WG Reports
 
