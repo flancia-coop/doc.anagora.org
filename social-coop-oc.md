@@ -75,7 +75,9 @@ Agenda
          - We've been experimenting with a secondary provider which is more expensive but cooperative... BUT also in the US.
      - Flan: happy with the current way of doing things but related to the previous, we could imagine framing some decisions as a 'fork in the road/key budget decision' where the community could actively choose one budget direction over another.
      - Eduardo: +1 on discussing the hosting question further as this might be an existential risk (given how it interacts with e.g. jurisdiction). We should prioritize exploring that.
-     - 
+- Updates on related topics
+    - meet.coop status
+    - 
     
 ### offboarding thankyous
 
@@ -87,6 +89,9 @@ Agenda
 
 
 ### Closing: who is reminding next time, how are you leaving?
+
+### Next Steps
+- [ ] TWG to develop community decision on hosting alternatives
 
 ## 2026-01-29 1500 UTC
 
