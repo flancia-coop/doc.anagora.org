@@ -1,4 +1,5 @@
 ---
+title: Social.Coop's Organizing Circle Notes
 description: notes and minutes per meeting with tasks on top 
 tags: OC, meeting notes, 
 lang: en
@@ -26,7 +27,8 @@ Current members:
 + [ ] @all, async: review and annotate our 2025 accomplishments to celebrate. 
 + [ ] Other/s? 
 
-------
+=======================================================
+
 ## $NEXT 2026-02-26 1500 UTC
 
 ## $NOW 2026-02-12 1500 UTC
