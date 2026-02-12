@@ -43,7 +43,10 @@ Agenda
 - Consent to the agenda: 
   - sensemaking 2026 budget - 20 minutes
   - offboarding thankyous - 15 minutes 
-  - onboarding summary for pjw?- 5
+  - onboarding summary for pjw?- postpone until he/they come 
+  - Deep and big topics - 10 in review/refresh 
+- 2026 Budget
+    - s
 - WG Reports
 - Closing: who is reminding next time, how are you leaving?
 
