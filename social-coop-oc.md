@@ -39,11 +39,11 @@ Attendees: Caitlin, Melissa, Luke, Eduardo
 Agenda
 - Who is facilitating? who is taking notes? 
   - Caitlin, Luke will take notes
+- Check Ins 
 - Consent to the agenda: 
   - sensemaking 2026 budget
   - offboarding thankyous
   - onboarding summary for pjw
-- Checkins
 - WG Reports
 - Closing: who is reminding next time, how are you leaving?
 
