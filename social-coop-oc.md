@@ -31,6 +31,7 @@ Current members:
 
 ## $NEXT 2026-02-26 1500 UTC
 
+- 
 
 ## $NOW 2026-02-12 1500 UTC
 
@@ -54,6 +55,7 @@ Agenda
     - had hoped Loomio would enable "sensemaking" tool conversation, but hard to have conversation in that particular post 
 - contentious points so far
     - stipends
+    - additional hosting expense if we/TWG propose alternate hosting provider
 - key next step: do we understand the budget that has been proposed? sensemaking.
 - questions that we can discuss/answer/investigate
     - Dan: Do we think platform 6 will continue to be our fiscal host?
@@ -70,7 +72,7 @@ Agenda
      - Dan: like how things have worked so far overall; one topic from the TWG that could be brought in has to do with our hosting providers.
          - Most of the user facing stuff we have is Hetzner, which is a German provider which 1. is not a cooperative and 2. has some potentially (eventually) problematic ToS
          - We've been experimenting with a secondary provider which is more expensive but cooperative... BUT also in the US.
-         - 
+     - Flan: happy with the related to the previous, 
     
 ### offboarding thankyous
 
