@@ -92,6 +92,8 @@ Agenda
 ### Deep and big topics - 10 in review/refresh 
 - kanban: https://share.mayfirst.org/apps/deck/board/1128
 - Review what we have and define some priorities? 
+- Success: At-large member selection.
+    - Need to review and operationalize for next year
 
 ### WG Reports
 
