@@ -38,7 +38,8 @@ Attendees: Caitlin, Melissa, Luke, Eduardo
 
 Agenda
 - Who is facilitating? who is taking notes? 
-- Consent to the agenda:
+  - Caitlin, Luke will take notes
+- Consent to the agenda: 
   - sensemaking 2026 budget
   - offboarding thankyous
   - onboarding summary for pjw
