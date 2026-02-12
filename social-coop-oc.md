@@ -121,6 +121,7 @@ Agenda
 - [ ] Melissa to lead Thank yous for Kathe, Marie, Matt in Loomio
 - [ ] Caitlin to check with Ammar & Kathe on at-large selection
 - [ ] Dan will add announcement for 1k limit
+- [ ] Luke will remind and agenda for next meeting.
 
 ## 2026-01-29 1500 UTC
 
