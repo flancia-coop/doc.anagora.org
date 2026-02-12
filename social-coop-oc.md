@@ -65,7 +65,12 @@ Agenda
         - We distribute the remainder via a participative survey in two rounds (propose projects, distribute the money)
             - We actually currently distribute a particular amount to distribute, not necessarily the full remainder in this way
      - Eduardo: when we discuss our budget for our next year, how do we estimate our expected 'income' based on the previous?
-     - Melissa: happy to keep doing what we're doing; maybe we want to discuss if we want to keep the same meet.co
+     - Melissa: happy to keep doing what we're doing; maybe we want to discuss if we want to keep the same meet.coop contribution given service changes
+     - Luke: also like this approach, happy to keep doing the same
+     - Dan: like how things have worked so far overall; one topic from the TWG that could be brought in has to do with our hosting providers.
+         - Most of the user facing stuff we have is Hetzner, which is a German provider which 1. is not a cooperative and 2. has some potentially (eventually) problematic ToS
+         - We've been experimenting with a secondary provider which is more expensive but cooperative... BUT also in the US.
+         - 
     
 ### offboarding thankyous
 
