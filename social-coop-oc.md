@@ -39,6 +39,7 @@ Attendees: Caitlin, Melissa, Luke, Eduardo, Dan, Flancian
 Agenda
 - Who is facilitating? who is taking notes? 
   - Caitlin, Luke will take notes
+  - Intros from Luke/Flan as it's the first time they meet here
 - Check Ins
 - Consent to the agenda: 
   - sensemaking 2026 budget - 20 minutes
@@ -46,10 +47,21 @@ Agenda
   - onboarding summary for pjw?- postpone until he/they come 
   - Deep and big topics - 10 in review/refresh 
     - kanban: https://share.mayfirst.org/apps/deck/board/1128
-- 2026 Budget
+
+### 2026 Budget
     - review and familiarize
+    
 - WG Reports
-- Closing: who is reminding next time, how are you leaving?
+
+### offboarding thankyous
+
+### Deep and big topics - 10 in review/refresh 
+- kanban: https://share.mayfirst.org/apps/deck/board/1128
+
+Review what we have and define 
+
+
+### Closing: who is reminding next time, how are you leaving?
 
 ## 2026-01-29 1500 UTC
 
