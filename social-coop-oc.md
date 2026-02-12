@@ -76,8 +76,8 @@ Agenda
      - Flan: happy with the current way of doing things but related to the previous, we could imagine framing some decisions as a 'fork in the road/key budget decision' where the community could actively choose one budget direction over another.
      - Eduardo: +1 on discussing the hosting question further as this might be an existential risk (given how it interacts with e.g. jurisdiction). We should prioritize exploring that.
 - Updates on related topics
-    - meet.coop status - The October 2025 tech report from Meet.Coop says that they need security upgrades. the platform is migrating to newer infrastructure to resolve long-term maintenance issues. 
-    - 
+    - meet.coop status - The October 2025 tech report from Meet.Coop says that they need security upgrades. (The Ubuntu and bbb versions were too old). The platform is migrating to newer infrastructure -- "Meet.coop 2.0" -- to resolve long-term maintenance issues. 
+    
     
 ### offboarding thankyous
 
