@@ -34,7 +34,7 @@ Current members:
 
 ## $NOW 2026-02-12 1500 UTC
 
-Attendees: Caitlin, Melissa, Luke, Eduardo
+Attendees: Caitlin, Melissa, Luke, Eduardo, Dan, Flancian
 
 Agenda
 - Who is facilitating? who is taking notes? 
@@ -45,8 +45,9 @@ Agenda
   - offboarding thankyous - 15 minutes 
   - onboarding summary for pjw?- postpone until he/they come 
   - Deep and big topics - 10 in review/refresh 
+    - kanban: https://share.mayfirst.org/apps/deck/board/1128
 - 2026 Budget
-    - s
+    - review and familiarize
 - WG Reports
 - Closing: who is reminding next time, how are you leaving?
 
