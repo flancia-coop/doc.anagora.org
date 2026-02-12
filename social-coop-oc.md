@@ -94,6 +94,8 @@ Agenda
 - Review what we have and define some priorities? 
 - Success: At-large member selection.
     - Need to review and operationalize for next year
+    - DECISION: Caitlin to check with Ammar & Kathe
+- 
 
 ### WG Reports
 
