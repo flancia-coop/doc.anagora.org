@@ -31,11 +31,19 @@ Current members:
 
 ## $NEXT 2026-02-26 1500 UTC
 
+-
+
 ## $NOW 2026-02-12 1500 UTC
 
-- sensemaking 2026 budget
-- offboarding thankyous
-- onboarding summary for pjw
+Attendees: 
+
+Agenda
+- Who is facilitating? who is taking notes
+- Consent to the agenda:
+  - sensemaking 2026 budget
+  - offboarding thankyous
+  - onboarding summary for pjw
+Ch
 
 ## 2026-01-29 1500 UTC
 
