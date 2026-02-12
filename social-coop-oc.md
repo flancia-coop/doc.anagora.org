@@ -52,7 +52,8 @@ Agenda
 ### 2026 Budget
 - brief intro https://www.loomio.com/p/EYwd7onD/help-social-coop-make-sense-of-the-proposed-2026-budget-what-can-we-do-together-
     - background: 2025 was the first OC-approved annual budget. Limited comparative, annual data. 
-    - had hoped Loomio would enable "sensemaking" tool conversation, but hard to have conversation in that particular post 
+    - background: money as a tool toward strategic goals, not just operational goals... How can the OC steward this money for our cooperative? 
+    - background:had hoped Loomio would enable "sensemaking" tool conversation, but hard to have conversation in that particular post 
 - contentious points so far
     - stipends
     - additional hosting expense if we/TWG propose alternate hosting provider
@@ -72,7 +73,9 @@ Agenda
      - Dan: like how things have worked so far overall; one topic from the TWG that could be brought in has to do with our hosting providers.
          - Most of the user facing stuff we have is Hetzner, which is a German provider which 1. is not a cooperative and 2. has some potentially (eventually) problematic ToS
          - We've been experimenting with a secondary provider which is more expensive but cooperative... BUT also in the US.
-     - Flan: happy with the related to the previous, 
+     - Flan: happy with the current way of doing things but related to the previous, we could imagine framing some decisions as a 'fork in the road/key budget decision' where the community could actively choose one budget direction over another.
+     - Eduardo: +1 on discussing the hosting question further as this might be an existential risk (given how it interacts with e.g. jurisdiction). We should prioritize exploring that.
+     - 
     
 ### offboarding thankyous
 
