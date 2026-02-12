@@ -91,7 +91,8 @@ Agenda
 ### Closing: who is reminding next time, how are you leaving?
 
 ### Next Steps
-- [ ] TWG to develop community decision on hosting alternatives
+- [ ] TWG to develop proposal for community decision on hosting alternatives (c)
+- [ ] 
 
 ## 2026-01-29 1500 UTC
 
