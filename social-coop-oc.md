@@ -49,16 +49,18 @@ Agenda
     - kanban: https://share.mayfirst.org/apps/deck/board/1128
 
 ### 2026 Budget
-    - review and familiarize
+- brief intro https://www.loomio.com/p/EYwd7onD/help-social-coop-make-sense-of-the-proposed-2026-budget-what-can-we-do-together-
+- contentious points so far
+    - stipends
+- key next step: do we understand the budget that has been proposed? sensemaking.
     
-- WG Reports
-
 ### offboarding thankyous
 
 ### Deep and big topics - 10 in review/refresh 
 - kanban: https://share.mayfirst.org/apps/deck/board/1128
+- Review what we have and define some priorities? 
 
-Review what we have and define 
+### WG Reports
 
 
 ### Closing: who is reminding next time, how are you leaving?
