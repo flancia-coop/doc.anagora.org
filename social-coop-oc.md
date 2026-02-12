@@ -115,7 +115,7 @@ Attendees: Caitlin, Melissa, Luke, Eduardo, Dan, Flancian
     - onboarded Ammar
     - Decision: Dan will put up an instance announcement
 
-### Closing: who is reminding next time, how are you leaving?
+### Closing: who is sending a reminder for the next meeting, how are you leaving this meeting? What tasks did you say you would do?
 
 ### Next Step Decisions
 - [ ] TWG to develop proposal for community decision on hosting alternatives (cooperative, jurisdiction, terms, cost)
