@@ -31,6 +31,7 @@ Current members:
 
 ## $NEXT 2026-02-26 1500 UTC
 
+- Budget stipends
 - 
 
 ## $NOW 2026-02-12 1500 UTC
