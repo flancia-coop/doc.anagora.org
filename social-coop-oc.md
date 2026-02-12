@@ -50,13 +50,20 @@ Agenda
 
 ### 2026 Budget
 - brief intro https://www.loomio.com/p/EYwd7onD/help-social-coop-make-sense-of-the-proposed-2026-budget-what-can-we-do-together-
+    - background: 2025 was the first OC-approved annual budget. Limited comparative, annual data. 
     - had hoped Loomio would enable sense-making conversation, but hard to have conversation
 - contentious points so far
     - stipends
 - key next step: do we understand the budget that has been proposed? sensemaking.
 - questions that we can discuss/answer/investigate
-    - Do we think platform 6 will continue to be our fiscal host? 
-    - 
+    - Dan: Do we think platform 6 will continue to be our fiscal host?
+    - Eduardo: could we summarize our current process with the following?
+        - We start with all our income
+        - We deduct core expenses
+        - We deduct stipends
+        - We deduct reserve
+        - We distribute the remainder via a participative survey in two rounds (propose projects, distribute the money)
+     - E
     
 ### offboarding thankyous
 
