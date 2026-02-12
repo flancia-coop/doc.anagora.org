@@ -38,7 +38,7 @@ Current members:
 Attendees: 
 
 Agenda
-- Who is facilitating? who is taking notes?
+- Who is facilitating? who is taking notes? 
 - Consent to the agenda:
   - sensemaking 2026 budget
   - offboarding thankyous
