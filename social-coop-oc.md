@@ -76,7 +76,7 @@ Agenda
      - Flan: happy with the current way of doing things but related to the previous, we could imagine framing some decisions as a 'fork in the road/key budget decision' where the community could actively choose one budget direction over another.
      - Eduardo: +1 on discussing the hosting question further as this might be an existential risk (given how it interacts with e.g. jurisdiction). We should prioritize exploring that.
 - Updates on related topics
-    - meet.coop status
+    - meet.coop status - The October 2025 tech report from Meet.Coop says that they need security upgrades. the platform is migrating to newer infrastructure to resolve long-term maintenance issues. 
     - 
     
 ### offboarding thankyous
@@ -91,7 +91,7 @@ Agenda
 ### Closing: who is reminding next time, how are you leaving?
 
 ### Next Steps
-- [ ] TWG to develop proposal for community decision on hosting alternatives (c)
+- [ ] TWG to develop proposal for community decision on hosting alternatives (cooperative, jurisdiction, terms, cost)
 - [ ] 
 
 ## 2026-01-29 1500 UTC
