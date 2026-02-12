@@ -33,8 +33,12 @@ Current members:
 
 - Budget stipends
 - Communicating service status/updates (e.g. Meet.coop)
+- Revisiting Big Topic kanban
+    - Financial Strategy
+    - At large selection process
+    - 
 
-## $NOW 2026-02-12 1500 UTC
+## 2026-02-12 1500 UTC
 
 Attendees: Caitlin, Melissa, Luke, Eduardo, Dan, Flancian
 
