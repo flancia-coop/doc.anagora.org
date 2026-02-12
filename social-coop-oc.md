@@ -31,6 +31,7 @@ Current members:
 
 ## $NEXT 2026-02-26 1500 UTC
 
+### Agenda
 - Budget stipends
 - Communicating service status (esp external Meet.coop, Mayfirst)
 - Revisiting Big Topic kanban
@@ -38,13 +39,14 @@ Current members:
     - Technical Hosting Strategy
     - At large selection process
     - Identifying new topics
+### Decisions
 
 
 ## 2026-02-12 1500 UTC
 
 Attendees: Caitlin, Melissa, Luke, Eduardo, Dan, Flancian
 
-Agenda
+### Agenda
 - Who is facilitating? who is taking notes? 
   - Caitlin, Luke will take notes
   - Intros from Luke/Flan as it's the first time they meet here
@@ -86,7 +88,7 @@ Agenda
     - meet.coop status - The October 2025 tech report from Meet.Coop says that they need security upgrades. (The Ubuntu and bbb versions were too old). The platform is migrating to newer infrastructure -- "Meet.coop 2.0" -- to resolve long-term maintenance issues. ... Meanwhile, how to resolve the confusion around communication for reliability of functionality for users...  
   - https://forum.meet.coop/t/meet-coop-update-october-2025/1739 
       - (posted https://forum.meet.coop/t/meet-coop-update-october-2025/1739/63?u=flancian on the meet.coop thread)
-  DECISION: 
+  - DECISION: 
       - ping again
       - see if we can get a timeline on recovering users or we can set up new users instead
 
