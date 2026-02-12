@@ -31,11 +31,10 @@ Current members:
 
 ## $NEXT 2026-02-26 1500 UTC
 
--
 
 ## $NOW 2026-02-12 1500 UTC
 
-Attendees: 
+Attendees: Caitlin, Melissa, Luke, Eduardo
 
 Agenda
 - Who is facilitating? who is taking notes? 
