@@ -35,6 +35,7 @@ Current members:
 - Communicating service status (esp external Meet.coop, Mayfirst)
 - Revisiting Big Topic kanban
     - Financial Strategy
+    - Technical Hosting Strategy
     - At large selection process
     - Identifying new topics
 
@@ -102,9 +103,14 @@ Agenda
 - Let's return next meeting to
     - Operational Financial Strategy
     - Identifying new Big Topics
-- Archive: the character limit. Done! Yay! 
-### WG Reports
+- Archive: the character limit. Done! Yay!
 
+### WG Reports
+- FWG - no update
+- TWG
+    - character limit increase - ok to announce?
+    - onboarded Ammar
+    - 
 
 ### Closing: who is reminding next time, how are you leaving?
 
