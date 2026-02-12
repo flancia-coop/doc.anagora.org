@@ -32,11 +32,11 @@ Current members:
 ## $NEXT 2026-02-26 1500 UTC
 
 - Budget stipends
-- Communicating service status/updates (e.g. Meet.coop)
+- Communicating service status (esp external Meet.coop, Mayfirst)
 - Revisiting Big Topic kanban
     - Financial Strategy
     - At large selection process
-    - 
+    - Identifying new topics
 
 ## 2026-02-12 1500 UTC
 
@@ -91,18 +91,18 @@ Agenda
 ### offboarding thankyous
 - Kathe, Marie, Matt
 - How to share these? Server announcement to Loomio post (some words of appreciation for each?) 
-  DECISION: Loomio post and server announcement
+  DECISION: Loomio post and server announcement. Melissa will take the lead; Caitlin will support. 
 
 ### Deep and big topics - 10 in review/refresh 
 - kanban: https://share.mayfirst.org/apps/deck/board/1128
 - Review what we have and define some priorities? 
 - Success: At-large member selection.
     - Need to review and operationalize for next year
-    - DECISION: Caitlin to check with Ammar & Kathe
+    - DECISION: Caitlin to check with Ammar & Kathe: how did the process go? 
 - Let's return next meeting to
     - Operational Financial Strategy
     - Identifying new Big Topics
-
+- Archive: the character limit. Done! Yay! 
 ### WG Reports
 
 
