@@ -34,10 +34,11 @@ Current members:
 - Budget stipends
 - Communicating service status (esp external Meet.coop, Mayfirst)
 - Revisiting Big Topic kanban
-    - Financial Strategy
+    - Operational Financial Strategy
     - Technical Hosting Strategy
     - At large selection process
     - Identifying new topics
+
 
 ## 2026-02-12 1500 UTC
 
@@ -118,6 +119,7 @@ Agenda
 - [ ] TWG to develop proposal for community decision on hosting alternatives (cooperative, jurisdiction, terms, cost)
 - [ ] FWG to review Meet.coop cost vs outage
 - [ ] Melissa to lead Thank yous for Kathe, Marie, Matt in Loomio
+- [ ] Caitlin to check with Ammar & Kathe on at-large selection
 - [ ] Dan will add announcement for 1k limit
 
 ## 2026-01-29 1500 UTC
