@@ -87,7 +87,7 @@ Agenda
 ### offboarding thankyous
 - Kathe, Marie, Matt
 - How to share these? Server announcement to Loomio post (some words of appreciation for each?) 
-  DECISION: 
+  DECISION: Loomio post and server announcement
 
 ### Deep and big topics - 10 in review/refresh 
 - kanban: https://share.mayfirst.org/apps/deck/board/1128
