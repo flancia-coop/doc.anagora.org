@@ -106,11 +106,11 @@ Agenda
 - Archive: the character limit. Done! Yay!
 
 ### WG Reports
-- FWG - no update
+- FWG - no news
 - TWG
-    - character limit increase - ok to announce?
+    - character limit increase
     - onboarded Ammar
-    - 
+    - Decision: Dan will put up an instance announcement
 
 ### Closing: who is reminding next time, how are you leaving?
 
@@ -118,6 +118,7 @@ Agenda
 - [ ] TWG to develop proposal for community decision on hosting alternatives (cooperative, jurisdiction, terms, cost)
 - [ ] FWG to review Meet.coop cost vs outage
 - [ ] Melissa to lead Thank yous for Kathe, Marie, Matt in Loomio
+- [ ] Dan will add announcement for 1k limit
 
 ## 2026-01-29 1500 UTC
 
