@@ -1,1 +1,2 @@
-I'm busy right now, try again later.
+- I don't get why [[2047]] is not a mersenne prime right now, so I'm trying to read this and then find my mistake.
+- I had a bug on my prime-finding code, very clearly ;) 2047 is not a prime at all, it is 23 * 89.
