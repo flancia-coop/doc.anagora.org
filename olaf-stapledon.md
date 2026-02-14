@@ -1,2 +1,1 @@
-- a [[person]].
-    - [[writer]] [[sci fi]]
+I'm busy right now, try again later.
