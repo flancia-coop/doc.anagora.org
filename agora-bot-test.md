@@ -1,1 +1,1 @@
-I'm busy right now, try again later.
+Twitter keeps throttling [[agora bot]], so time to response is a bit unstable. Apologies for the disruption.

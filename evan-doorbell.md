@@ -1,1 +1,1 @@
-I'm busy right now, try again later.
+- [[Koch]] told me ([[@flancian]]) about him on [[2025-12-27]].
