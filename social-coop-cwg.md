@@ -123,9 +123,16 @@ March 2: Hollie & Steve
 March 9: Calix
 March 16: Sam
 March 23: Dan
-March 30: 
+March 30: (Hollie and whomever wants to help?)
+
+**ACTION Calix** add these to The Calendar once Sam confirms
+
+#### Next meeting
+
+
 
 ## 2026-02-02 special welcome Malaya edition
+
 
 
 ## 2026-01-16 1700 UTC
