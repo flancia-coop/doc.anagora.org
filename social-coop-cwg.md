@@ -15,7 +15,8 @@ References:
 
 
 ## 2026-02-20 1800 UTC
-Attendees: Melissa, Hollie, Calix, Steve
+
+Attendees: Melissa, Hollie (facilitatin'), Calix (notes), Steve
 
 ### Agenda
 
@@ -25,6 +26,7 @@ Attendees: Melissa, Hollie, Calix, Steve
 - let's do the loomio vote for new CWG members: Silver, Steve, Gilles, and Malaya (did I miss anyone?)
 - helping with easy reports, as one can, is that a norm for us?
 - prep for March hackathon
+- moderation sched for March
 
 ### Notes
 
