@@ -109,9 +109,14 @@ M: Sunday March 22nd. Will make another wiki page. Less of a clear idea of goals
 
 M: Same order? Let Matt off the hook cos he's not here? Steve wanna do an independent one?
 S: Didn't do any shadowing this week. But if y'all think I can handle it I'll take a week!
+M: Good to shadow someone?
+H: I'm free, could be backup.
+D: first two weeks of March are bad for me 
+S: I'll shadow someone, play it safe, no reason to rush
+C: Didn't handle any reports this week 🙃 But I should have reached out about new registrations which I did handle, whoops.
 
-March 2: 
-March 9:
+March 2: Hollie & Steve
+March 9: 
 March 16:
 March 23:
 March 30:
