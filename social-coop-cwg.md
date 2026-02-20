@@ -80,7 +80,11 @@ H: Yes, can assign report in Mastodon. When I notice that's been done, even if i
 1. Severe ADHD, time is a fluid concept. Doing things when I see it is my way of being helpful. I will try to dive in less.
 2. Let's put it in the notes that it can happen
 
+C: Personally I definitely find it helpful when other people take actions! Please continue. Only suggestion is
 
+
+
+M: That was part of the rationale for 
 
 #### prep for March hackathon
 
