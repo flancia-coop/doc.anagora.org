@@ -96,7 +96,8 @@ D: "is it spam" seems distinct from "is the hashtag used properly" but I do thin
 
 #### prep for March hackathon
 
-M: Sunday March 22nd. Will make another wiki page. Less of a clear idea of goals. Loomio announcement. Bunch of bnnice
+M: Sunday March 22nd. Will make another wiki page. Less of a clear idea of goals. Loomio announcement. Bunch of nice people come hang out last time. We've had more ideas than people so far.
+
 
 #### moderation sched for March
 
