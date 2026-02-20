@@ -65,7 +65,13 @@ M: Or buddy up?
 
 M: Especially as we're bringing on more mods, worth clarifying.
 H: When I joined ~18 months ago, moderation was a lot more casual. People named for the week, maybe they were busy, not a lot of people on the team. So really normal that someone else had taken care of report. "Does that mean I did a bad job" -- feedback was, somebody was logged in, just did it. "I'm on the team and would help alleviate the load." For new folks: become more confident as folks are handling reports. Are we taking something away from new mods?
+C: Definitely did feel weird for 3 reasons:
+1. Felt like a bit of a scam during some on-call shifts where I got beaten to every single decision! But separate role: "on-call" is backstop establishing maximum response time.
+2. Some 
 
+H: My experience, everyone has always been open to discussing decisions. Never had a situation where someone is trying to beat you into an opinion. Always benefits me to hear a different opinion.
+
+S: Agreed with everything just said. And H's suggestion, might be helpful for newer people to take on moderating tasks, especially the eas
 
 #### prep for March hackathon
 
