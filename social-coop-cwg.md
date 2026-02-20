@@ -141,12 +141,14 @@ M: We've been trying to do 3rd Friday of the month.
 D: Bonfire. Any opinions? Treating it as "demo"? Or taking it on as moderated space? Is there some boilerplate warning we should be including?
 H: Don't know what it is?
 D: I don't feel like I really understand moderation over there tbh 
-C: Fediverse software. A lot of overlap with Mastodon rn - but more features, and possibility for 
+C: Fediverse software. A lot of overlap with Mastodon rn - but more features, and possibility for other apps beyond microblogging - and way better governance. But feels very wacky to be running two overlapping instances -- especially 
 D: Getting moderation going on the experiment is maybe a short-term need. Is there someone who could show us the ropes on moderation?
 M: Flancian maybe?
 D: Open to possibility that "we don't need this experiment". Or we could decide our lack of moderation experience on TWG is a justification for not doing this experiment now, could always do it later.
 H: Like experiment, fun to explore new thing. But agree with fun to try less-overlapping things. Tech team's opinions on other services.
-
+S: Why are we?
+M: Flancian thought it would be fun.
+S: Hearing that it's similar to Mastodon, shouldn't be taking Social.coop resources to run it without a clear investigation, goal. Let folks do experiments if it's fun but not put coöp resources to it. Also love playing with new things, checking out new tech. And build new 
 
 ## 2026-02-02 special welcome Malaya edition
 
