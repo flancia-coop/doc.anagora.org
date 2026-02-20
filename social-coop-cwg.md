@@ -127,6 +127,9 @@ March 30: (Hollie and whomever wants to help?)
 
 **ACTION Calix** add these to The Calendar once Sam confirms
 
+S: How to coordinate with Hollie about shadowing?
+H: DM on Mastodon, or email. Zulip could work, usually forget to check it.
+
 #### Next meeting
 
 M: Seems like this time works OK? March 20th, same 🦇 time, same 🦇 channel.
@@ -141,7 +144,7 @@ M: We've been trying to do 3rd Friday of the month.
 D: Bonfire. Any opinions? Treating it as "demo"? Or taking it on as moderated space? Is there some boilerplate warning we should be including?
 H: Don't know what it is?
 D: I don't feel like I really understand moderation over there tbh 
-C: Fediverse software. A lot of overlap with Mastodon rn - but more features, and possibility for other apps beyond microblogging - and way better governance. But feels very wacky to be running two overlapping instances -- especially given how many requests we've had for less-overlapping software (funkwhale, peertube, etc.)
+C: Fediverse software. A lot of overlap with Mastodon rn - but more features, and possibility for other apps beyond microblogging - and way better governance. But feels very wacky to be running two overlapping instances -- especially given how many requests we've had for less-overlapping software (funkwhale, peertube, etc.) we haven't done. Only argument in favour of hosting it is that public bonfire instances don't federate so we need our own instance to get a real sense. 
 D: Getting moderation going on the experiment is maybe a short-term need. Is there someone who could show us the ropes on moderation?
 M: Flancian maybe?
 D: Open to possibility that "we don't need this experiment". Or we could decide our lack of moderation experience on TWG is a justification for not doing this experiment now, could always do it later.
@@ -152,6 +155,9 @@ S: Hearing that it's similar to Mastodon, shouldn't be taking Social.coop resour
 H: Agree we've had problems with Mastodon governance.
 M: Can we send Dan & Calix to TWG to bring these concerns?
 D: Or OC? What is the process?
+M: OC meeting (26th Feb) before next TWG meeting (4th March).
+
+**ACTION Melissa** Post in OC channel on Zulip asking for concerns / excitement about Bonfire
 
 ## 2026-02-02 special welcome Malaya edition
 
