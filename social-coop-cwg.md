@@ -141,7 +141,8 @@ M: We've been trying to do 3rd Friday of the month.
 D: Bonfire. Any opinions? Treating it as "demo"? Or taking it on as moderated space? Is there some boilerplate warning we should be including?
 H: Don't know what it is?
 D: I don't feel like I really understand moderation over there tbh 
-
+C: Fediverse software. A lot of overlap with Mastodon rn - but more features, and possibility for
+D: 
 
 
 ## 2026-02-02 special welcome Malaya edition
