@@ -64,7 +64,8 @@ M: Or buddy up?
 #### Helping with easy reports, as one can, is that a norm for us?
 
 M: Especially as we're bringing on more mods, worth clarifying.
-H: When I joined ~18 months ago, moderation was a lot more casual. People named for the week, maybe they were busy, not a lot of people on the team. So really normal that someone else had taken care of report. "Does "
+H: When I joined ~18 months ago, moderation was a lot more casual. People named for the week, maybe they were busy, not a lot of people on the team. So really normal that someone else had taken care of report. "Does that mean I did a bad job" -- feedback was, somebody was logged in, just did it. "I'm on the team and would help alleviate the load." For new folks: become more confident as folks are handling reports. Are we taking something away from new mods?
+
 
 #### prep for March hackathon
 
