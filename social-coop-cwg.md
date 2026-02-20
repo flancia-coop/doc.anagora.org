@@ -129,7 +129,12 @@ March 30: (Hollie and whomever wants to help?)
 
 #### Next meeting
 
-
+M: Seems like this time works OK? March 20th, same 🦇 time, same 🦇 channel.
+H: Works for me too.
+C: 👍
+D: 👍
+H: Would 27th be better?
+M: We've been trying to do 3rd Friday of the month.
 
 ## 2026-02-02 special welcome Malaya edition
 
