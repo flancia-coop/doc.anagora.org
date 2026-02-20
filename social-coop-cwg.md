@@ -68,10 +68,16 @@ H: When I joined ~18 months ago, moderation was a lot more casual. People named 
 C: Definitely did feel weird for 3 reasons:
 1. Felt like a bit of a scam during some on-call shifts where I got beaten to every single decision! But separate role: "on-call" is backstop establishing maximum response time.
 2. Some 
+3. Decisions taken which I disagreed with
+
+C: But ultimately seems fine, separate roles, just think we should document & inform people.
 
 H: My experience, everyone has always been open to discussing decisions. Never had a situation where someone is trying to beat you into an opinion. Always benefits me to hear a different opinion.
 
-S: Agreed with everything just said. And H's suggestion, might be helpful for newer people to take on moderating tasks, especially the eas
+S: Agreed with everything just said. And H's suggestion, might be helpful for newer people to take on moderating tasks, especially the easy ones. Better for me on my first time? Only comes up when somebody doing it for the first time. After hearing discussion, agree it should just be somewhere explicitly said, know it can happen, can expect it. Same thoughts as C & H. When you do grab a report, is there a way to say "I'm working on this"?
+
+H: Yes, can assign report in Mastodon. When I notice that's been done, even if it's my week, I don't touch it. 2 things:
+1. Severe ADHD, time is a fluid concept.
 
 #### prep for March hackathon
 
