@@ -18,7 +18,7 @@ References:
     - reports is locked and is about specific actions of specific people
 - let's do the loomio vote for new CWG members
 - helping with easy reports, as one can, is that a norm for us?
-- prep
+- prep for March hackathon
 
 ## 2026-02-02 special welcome Malaya edition
 
