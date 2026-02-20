@@ -20,6 +20,7 @@ Attendees: Melissa, Hollie (facilitatin'), Calix (notes), Steve
 
 ### Agenda
 
+- 🇨🇿ins
 - should we combine #moderation-questions and #reports
     - moderation questions is unlocked, and could conceivably be for philosophical questions and abstract scenarios
     - reports is locked and is about specific actions of specific people
@@ -30,7 +31,13 @@ Attendees: Melissa, Hollie (facilitatin'), Calix (notes), Steve
 
 ### Notes
 
+#### should we combine #moderation-questions and #reports
 
+#### let's do the loomio vote for new CWG members
+
+#### prep for March hackathon
+
+#### moderation sched for March
 
 ## 2026-02-02 special welcome Malaya edition
 
