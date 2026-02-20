@@ -37,7 +37,15 @@ M:
 - moderation questions is unlocked, and could conceivably be for philosophical questions and abstract scenarios
 - reports is locked and is about specific actions of specific people (everyone who's a moderator can see it)
 
-M: Confusing in the past, but might be g
+M: Confusing in the past, but might be good to have them. So folks can say "what if..." in a separate, wider space. Important to keep reports locked. Especially if we're letting people join Zulip more openly cos they're interested.
+
+H: Agree, nice to separate theory from specific questions about individual reports.
+
+S: Learning the ropes - is #reports automated?
+M: When someone wants to discuss a specific report.
+S: Moderation questions is more "moderation: everything to do with it"?
+M: Yes
+S: Agree with Melissa then. Might have sensitive discussion about 
 
 #### let's do the loomio vote for new CWG members
 
