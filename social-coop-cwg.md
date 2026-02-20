@@ -80,15 +80,25 @@ H: Yes, can assign report in Mastodon. When I notice that's been done, even if i
 1. Severe ADHD, time is a fluid concept. Doing things when I see it is my way of being helpful. I will try to dive in less.
 2. Let's put it in the notes that it can happen
 
-C: Personally I definitely find it helpful when other people take actions! Please continue. Only suggestion is
+C: Personally I definitely find it helpful when other people take actions! Please continue. Only suggestion is: 
+
+M: That was part of the rationale for writing up how moderation works, clarify we don't think we have a mandate 
+
+H: Definitely take action against things which are 
+
+C: Buying a print of art = not spam? Unless we assume that #SilentSunday is a beautiful anticommercial decommodified space… which it isn't
+
+H: Do we want to make a note? Or address it with the next post?
+
+D: I have marked spam from those in the past, but I would be fine ignoring them 
+
+dphiffer says:"is it spam" seems distinct from "is the hashtag used properly" but I do think two _could_ interact 
 
 
-
-M: That was part of the rationale for 
 
 #### prep for March hackathon
 
-
+H: Sunday March 22nd. 
 
 #### moderation sched for March
 
