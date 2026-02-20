@@ -11,12 +11,16 @@ References:
 - notes: https://doc.anagora.org/social-coop-cwg
 - videoconference: https://jitsi.meet.coop/social-coop-cwg
 
-## $NEXT 2026-02-20 1800 UTC ????
+## $NEXT 2026-03-20 1800 UTC ????
+
+
+## 2026-02-20 1800 UTC
+Attendees: 
 
 - should we combine #moderation-questions and #reports
     - moderation questions is unlocked, and could conceivably be for philosophical questions and abstract scenarios
     - reports is locked and is about specific actions of specific people
-- let's do the loomio vote for new CWG members
+- let's do the loomio vote for new CWG members: Silver, Steve, Gilles, and Malaya (did I miss anyone?)
 - helping with easy reports, as one can, is that a norm for us?
 - prep for March hackathon
 
