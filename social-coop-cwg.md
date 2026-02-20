@@ -20,10 +20,8 @@ Attendees: Melissa, Hollie (facilitatin'), Calix (notes), Steve, Dan
 
 ### Agenda
 
-- 🇨🇿ins
-- should we combine #moderation-questions and #reports
-    - moderation questions is unlocked, and could conceivably be for philosophical questions and abstract scenarios
-    - reports is locked and is about specific actions of specific people
+- ~~🇨🇿ins~~
+- should we combine Zulip #moderation-questions and #reports
 - let's do the loomio vote for new CWG members: Silver, Steve, Gilles, and Malaya (did I miss anyone?)
 - helping with easy reports, as one can, is that a norm for us?
 - prep for March hackathon
@@ -31,7 +29,15 @@ Attendees: Melissa, Hollie (facilitatin'), Calix (notes), Steve, Dan
 
 ### Notes
 
-#### should we combine #moderation-questions and #reports
+Woohoo longer post length 🎉
+
+#### should we combine Zulip #moderation-questions and #reports
+
+M:
+- moderation questions is unlocked, and could conceivably be for philosophical questions and abstract scenarios
+- reports is locked and is about specific actions of specific people (everyone who's a moderator can see it)
+
+M: Confusing in the past, but might be g
 
 #### let's do the loomio vote for new CWG members
 
