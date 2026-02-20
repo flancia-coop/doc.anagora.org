@@ -114,12 +114,16 @@ H: I'm free, could be backup.
 D: first two weeks of March are bad for me 
 S: I'll shadow someone, play it safe, no reason to rush
 C: Didn't handle any reports this week 🙃 But I should have reached out about new registrations which I did handle, whoops.
+H: Good to leave Matt, he seems pretty busy.
+M: Sam can take one, has been happy to
+
+**ACTION Melissa** DM Sam to check availability
 
 March 2: Hollie & Steve
-March 9: 
-March 16:
-March 23:
-March 30:
+March 9: Calix
+March 16: Sam
+March 23: Dan
+March 30: 
 
 ## 2026-02-02 special welcome Malaya edition
 
