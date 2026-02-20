@@ -15,7 +15,9 @@ References:
 
 
 ## 2026-02-20 1800 UTC
-Attendees: 
+Attendees: Melissa, Hollie, Calix, Steve
+
+### Agenda
 
 - should we combine #moderation-questions and #reports
     - moderation questions is unlocked, and could conceivably be for philosophical questions and abstract scenarios
@@ -23,6 +25,10 @@ Attendees:
 - let's do the loomio vote for new CWG members: Silver, Steve, Gilles, and Malaya (did I miss anyone?)
 - helping with easy reports, as one can, is that a norm for us?
 - prep for March hackathon
+
+### Notes
+
+
 
 ## 2026-02-02 special welcome Malaya edition
 
