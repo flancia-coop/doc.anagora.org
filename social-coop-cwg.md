@@ -98,8 +98,23 @@ D: "is it spam" seems distinct from "is the hashtag used properly" but I do thin
 
 M: Sunday March 22nd. Will make another wiki page. Less of a clear idea of goals. Loomio announcement. Bunch of nice people come hang out last time. We've had more ideas than people so far.
 
+**ACTION Hollie & Melissa** Make A Loomio Post about the hackathon
 
 #### moderation sched for March
+
+> Feb 2 - dan
+> Feb 9 - Matt & Gilles
+> Feb 16 - calix & Steve
+> Feb 23 - sam
+
+M: Same order? Let Matt off the hook cos he's not here? Steve wanna do an independent one?
+S: Didn't do any shadowing this week. But if y'all think I can handle it I'll take a week!
+
+March 2: 
+March 9:
+March 16:
+March 23:
+March 30:
 
 ## 2026-02-02 special welcome Malaya edition
 
