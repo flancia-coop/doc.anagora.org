@@ -22,7 +22,7 @@ Attendees: Melissa, Hollie (facilitatin'), Calix (notes), Steve, Dan
 
 - ~~🇨🇿ins~~
 - should we combine Zulip #moderation-questions and #reports
-- let's do the loomio vote for new CWG members: Silver, Steve, Gilles, and Malaya (did I miss anyone?)
+- let's do the loomio vote for new CWG members
 - helping with easy reports, as one can, is that a norm for us?
 - prep for March hackathon
 - moderation sched for March
@@ -55,9 +55,20 @@ H: Expect there would be an expectation from co-op members that reports are limi
 
 #### let's do the loomio vote for new CWG members
 
+M: Silver, Steve, Gilles, and Malaya (did I miss anyone?)
+H: I can try to do it?
+M: Or buddy up?
 
+**ACTION Hollie & Melissa** Set us up Loomio votes for Silver, Steve, Gilles, Malaya
+
+#### Helping with easy reports, as one can, is that a norm for us?
+
+M: Especially as we're bringing on more mods, worth clarifying.
+H: When I joined ~18 months ago, moderation was a lot more casual. People named for the week, maybe they were busy, not a lot of people on the team. So really normal that someone else had taken care of report. "Does "
 
 #### prep for March hackathon
+
+
 
 #### moderation sched for March
 
