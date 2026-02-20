@@ -16,7 +16,7 @@ References:
 
 ## 2026-02-20 1800 UTC
 
-Attendees: Melissa, Hollie (facilitatin'), Calix (notes), Steve
+Attendees: Melissa, Hollie (facilitatin'), Calix (notes), Steve, Dan
 
 ### Agenda
 
