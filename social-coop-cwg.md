@@ -67,7 +67,7 @@ M: Especially as we're bringing on more mods, worth clarifying.
 H: When I joined ~18 months ago, moderation was a lot more casual. People named for the week, maybe they were busy, not a lot of people on the team. So really normal that someone else had taken care of report. "Does that mean I did a bad job" -- feedback was, somebody was logged in, just did it. "I'm on the team and would help alleviate the load." For new folks: become more confident as folks are handling reports. Are we taking something away from new mods?
 C: Definitely did feel weird for 3 reasons:
 1. Felt like a bit of a scam during some on-call shifts where I got beaten to every single decision! But separate role: "on-call" is backstop establishing maximum response time.
-2. Some 
+2. Some actions taken by people who aren't taking on-call shifts, 
 3. Decisions taken which I disagreed with
 
 C: But ultimately seems fine, separate roles, just think we should document & inform people.
@@ -77,7 +77,10 @@ H: My experience, everyone has always been open to discussing decisions. Never h
 S: Agreed with everything just said. And H's suggestion, might be helpful for newer people to take on moderating tasks, especially the easy ones. Better for me on my first time? Only comes up when somebody doing it for the first time. After hearing discussion, agree it should just be somewhere explicitly said, know it can happen, can expect it. Same thoughts as C & H. When you do grab a report, is there a way to say "I'm working on this"?
 
 H: Yes, can assign report in Mastodon. When I notice that's been done, even if it's my week, I don't touch it. 2 things:
-1. Severe ADHD, time is a fluid concept.
+1. Severe ADHD, time is a fluid concept. Doing things when I see it is my way of being helpful. I will try to dive in less.
+2. Let's put it in the notes that it can happen
+
+
 
 #### prep for March hackathon
 
