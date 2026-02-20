@@ -45,9 +45,17 @@ S: Learning the ropes - is #reports automated?
 M: When someone wants to discuss a specific report.
 S: Moderation questions is more "moderation: everything to do with it"?
 M: Yes
-S: Agree with Melissa then. Might have sensitive discussion about 
+S: Agree with Melissa then. Might have sensitive discussion about reports.
+
+M: In conclusion: Do Nothing™
+
+S: Was there a specific reason to merge them?
+M: Don't think there was a strong argument.
+H: Expect there would be an expectation from co-op members that reports are limited to mod team. Would be weird to invite "working-group-curious" people to see it.
 
 #### let's do the loomio vote for new CWG members
+
+
 
 #### prep for March hackathon
 
