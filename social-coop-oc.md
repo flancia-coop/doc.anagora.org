@@ -33,7 +33,6 @@ Current members:
 
 ### Agenda
 - Budget stipends
-- Communicating service status (esp external Meet.coop, Mayfirst)
 - Revisiting Big Topic kanban
     - Operational Financial Strategy
     - Technical Hosting Strategy
