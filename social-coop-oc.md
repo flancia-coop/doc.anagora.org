@@ -39,7 +39,8 @@ Current members:
     - Technical Hosting Strategy
     - At large selection process
     - Identifying new topics
-- Bonfire?
+- Bonfire testing next steps
+
 ### Decisions
 
 
