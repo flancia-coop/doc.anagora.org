@@ -33,12 +33,16 @@ Current members:
 
 ### Agenda
 - Budget stipends
+- Additional services commitments - status and comms
+    - Meet.coop
+    - Mayfirst
+    - Platform6 as fiscal host
+    - Bonfire testing
 - Revisiting Big Topic kanban
     - Operational Financial Strategy
     - Technical Hosting Strategy
     - At large selection process
     - Identifying new topics
-- Bonfire testing next steps
 
 ### Decisions
 
