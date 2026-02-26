@@ -82,11 +82,14 @@ https://www.loomio.com/p/EYwd7onD/help-social-coop-make-sense-of-the-proposed-20
         - There have been concerns from people in the past; maybe we could ask for suggestions on process improvement(s), either working groups or the community at large.
 - Additional services commitments - status and comms
     - Meet.coop
-        - TWG update
-            - Email thread with a way forward to restore service to Social.coop
+        - TWG update (Flancian):
+            - New email thread with a way forward to restore service to Social.coop
             - Need CWG participation as CWG was doing admin for Meet.coop users
             - Need to determine if it's OK to get new users for everybody or people need to recover any information/functionality from the previous users
-                - Edu: as user of this service, recovering artifacts from the previous meetings would be very good.
+                - Edu: as user of this service, recovering artifacts from the previous meetings would be very good. Getting new users after that would be OK.
+                - Luke: having the service available again is most important as long as that doesn't preclude us restoring artifacts eventually.
+                - Melissa: we should write up status and options in Loomio.
+                - Gilles: 
     - Bonfire testing
     - Mayfirst
     - Platform6 as fiscal host
