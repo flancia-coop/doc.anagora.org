@@ -100,7 +100,9 @@ https://www.loomio.com/p/EYwd7onD/help-social-coop-make-sense-of-the-proposed-20
         - Zulip thread
         - Melissa: we want to communicate clear expectations on the topic, and define scopes/tasks.
         - Flan: TWG+CWG needs to define costs and maintenance effort to support this, and loomio discussion for community agreement to support it.
+        - Flan: will start a wiki page about Bonfire and share with Melissa to work together on it.
     - Mayfirst
+        - Luke: this came up in the context of 'which services are available to members'. 
     - Platform6 as fiscal host
 - Revisiting Big Topic kanban (decision: defer to the next meeting as primary topic)
     - Operational Financial Strategy
@@ -114,7 +116,7 @@ https://www.loomio.com/p/EYwd7onD/help-social-coop-make-sense-of-the-proposed-20
 - TWG/Flan: considerations for hosting move options.
 - Caitlin: Document stipend purpose and process on wiki, link to loomio discussion for those interested in discussing alternatives.
 - Wiki page for Services For Members with tier/status. (On Hackathon?)
-- TWG/CWG: Bonfire operational support & costs
+- TWG/CWG: Bonfire operational support & costs.
 
 ## 2026-02-12 1500 UTC
 
