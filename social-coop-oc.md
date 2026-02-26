@@ -35,6 +35,11 @@ Attendees: Caitlin, Melissa, Eduardo, Gilles(visitor), Preston, Flancian
 
 ### Agenda
 - Check ins! Including new members and visitors.
+- Meta: how we run meetings and what we have ahead of us
+    - Eduardo: 
+        - meetings here are run mostly sociocratically, start/end with checkins/checkouts
+        - then we build an agenda cooperatively and consent
+            - aside: on consensus vs consent
 - Budget stipends
 - Additional services commitments - status and comms
     - Meet.coop
