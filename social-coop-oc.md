@@ -28,8 +28,9 @@ Current members:
 + [ ] Other/s? 
 
 =======================================================
-I
-## $NEXT 2026-02-26 1500 UTC
+## $NEXT 2026-0312- 1500 UTC
+
+## 2026-02-26 1500 UTC
 
 ### Agenda
 - Budget stipends
