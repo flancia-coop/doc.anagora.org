@@ -94,6 +94,8 @@ https://www.loomio.com/p/EYwd7onD/help-social-coop-make-sense-of-the-proposed-20
                      - Maybe tiers could be: top level, medium, testing?
                  - Eduardo: do we have a description in the wiki about the services we provide?
                      - https://wiki.social.coop/wiki/Platforms but it's stale
+                     - Flan: there's some fuzzy responsibility here -- the TWG didn't see meet.coop as in our scope as we've never interacted with it (which seemed to make sense). But in the end we ended up interacting with the tech people that are working on fixing the issue (which also makes sense).
+                     - Eduardo: this is a good example of changing scope and the need to react to it.
                  - 
     - Bonfire testing
     - Mayfirst
@@ -109,7 +111,7 @@ https://www.loomio.com/p/EYwd7onD/help-social-coop-make-sense-of-the-proposed-20
 
 - TWG/Flan: considerations for hosting move options.
 - Caitlin: Document stipend purpose and process on wiki, link to loomio discussion for those interested in discussing alternatives.
-- Wiki page for Services For Members with tier/status.
+- Wiki page for Services For Members with tier/status. (On Hackathon?)
 
 ## 2026-02-12 1500 UTC
 
