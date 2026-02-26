@@ -73,7 +73,7 @@ https://www.loomio.com/p/EYwd7onD/help-social-coop-make-sense-of-the-proposed-20
     - Distribution of stipends: decision made by each working group, privately 
     - Expectation: Each working group defines its membership. 
     - Caitlin: recaps the stipend question.
-        - Each WG gets about 1k (as above), but a different amount can be requested by the working groups, as part of the new
+        - Each WG gets about 1k (as above), but a different amount can be requested by the working groups, as part of the new year's budget (i.e. before we pass the 2026 budget next month)
         - Each WG member accepts a share, or puts it back in the pool for the other WG members, or returns it back to Social.coop. 
         - We could document some of this better in our Wiki.
             - +1
