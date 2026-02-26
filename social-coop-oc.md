@@ -93,7 +93,8 @@ https://www.loomio.com/p/EYwd7onD/help-social-coop-make-sense-of-the-proposed-20
                  - Luke: on a higher level, unclear on the 'tiering' of social.coop services. Is meet.coop a 'main' service at the same level as e.g. the mastodon instance? +1 on documenting this and announcing more on Loomio.
                      - Maybe tiers could be: top level, medium, testing?
                  - Eduardo: do we have a description in the wiki about the services we provide?
-                     - https://wiki.social.coop/wiki/Platforms
+                     - https://wiki.social.coop/wiki/Platforms but it's stale
+                 - 
     - Bonfire testing
     - Mayfirst
     - Platform6 as fiscal host
@@ -108,7 +109,7 @@ https://www.loomio.com/p/EYwd7onD/help-social-coop-make-sense-of-the-proposed-20
 
 - TWG/Flan: considerations for hosting move options.
 - Caitlin: Document stipend purpose and process on wiki, link to loomio discussion for those interested in discussing alternatives.
-- 
+- Wiki page for Services For Members with tier/status.
 
 ## 2026-02-12 1500 UTC
 
