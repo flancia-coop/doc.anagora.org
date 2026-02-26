@@ -74,7 +74,8 @@ https://www.loomio.com/p/EYwd7onD/help-social-coop-make-sense-of-the-proposed-20
     - Expectation: Each working group defines its membership. 
     - Caitlin: recaps the stipend question.
         - Each WG gets 1k (as above)
-        - Each WG member accepts a share, or puts
+        - Each WG member accepts a share, or puts it back in the pool for the other WG members, or 'donates' it back to Social.coop.
+        - We could document some of this better in our Wiki.
 - Additional services commitments - status and comms
     - Meet.coop
     - Mayfirst
