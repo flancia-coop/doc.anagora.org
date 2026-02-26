@@ -16,7 +16,7 @@ Current members:
 - Dan (TWG/CWG rep) @dphiffer
 - Flan (TWG rep) @flancian
 - Melissa (CWG rep) @ansate
-- Preseton @pjw (at-large, starting Jan 2026)
+- Preston @pjw (at-large, starting Jan 2026)
 - Luke @loppear (at-large, starting Jan 2026)
 - Ammar (at-large) @ammaratef45
 - eduardo m (at-large, ending mid-2026) @edumerco
@@ -65,7 +65,7 @@ https://www.loomio.com/p/EYwd7onD/help-social-coop-make-sense-of-the-proposed-20
         - Bonfire came up at our last meeting and we realized it was questions across multiple groups so we surfaced it for the OC. 
         - Upcoming hackathon March 22 https://wiki.social.coop/wiki/March_2026_Hackathon I posted about it on loomio
 - Budget, discussion focus on stipends, working toward passage of the proposed 2026 budget 
-    - What is a stipend? It is an honorarium. It is *not* 
+    - What is a stipend? It is an optional gift, or an honorarium. It is *not* payment for contracted services. (It may affect your taxes.) 
     - Reference:  OC/FWG: sensemaking post on Loomio
     - OC/FWG: Sense check post to Loomio about Social Coop budget for 2026 https://www.loomio.com/p/EYwd7onD/help-social-coop-make-sense-of-the-proposed-2026-budget-what-can-we-do-together-
     - Who decides the budget? We do! The Organizing Circle... The FWG proposes a budget to the OC. 
