@@ -16,8 +16,8 @@ Current members:
 - Dan (TWG/CWG rep) @dphiffer
 - Flan (TWG rep) @flancian
 - Melissa (CWG rep) @ansate
-- @pjw (at-large, starting Jan 2026)
-- @loppear (at-large, starting Jan 2026)
+- Preseton @pjw (at-large, starting Jan 2026)
+- Luke @loppear (at-large, starting Jan 2026)
 - Ammar (at-large) @ammaratef45
 - eduardo m (at-large, ending mid-2026) @edumerco
 - Kathe (at-large, ending Jan 2026) @ktoddbrown
@@ -31,7 +31,7 @@ Current members:
 ## $NEXT 2026-0312- 1500 UTC
 
 ## 2026-02-26 1500 UTC
-Attendees: Caitlin, Melissa, Eduardo,Gilles, Preston
+Attendees: Caitlin, Melissa, Eduardo, Gilles, Preston
 ### Agenda
 - Budget stipends
 - Additional services commitments - status and comms
