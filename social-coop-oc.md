@@ -83,6 +83,10 @@ https://www.loomio.com/p/EYwd7onD/help-social-coop-make-sense-of-the-proposed-20
 - Additional services commitments - status and comms
     - Meet.coop
         - TWG update
+            - Email thread with a way forward to restore service to Social.coop
+            - Need CWG participation as CWG was doing admin for Meet.coop users
+            - Need to determine if it's OK to get new users for everybody or people need to recover any information/functionality from the previous users
+                - Edu: as user of this service, recovering artifacts from the previous meetings would be very good.
     - Bonfire testing
     - Mayfirst
     - Platform6 as fiscal host
