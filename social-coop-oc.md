@@ -96,11 +96,12 @@ https://www.loomio.com/p/EYwd7onD/help-social-coop-make-sense-of-the-proposed-20
                      - https://wiki.social.coop/wiki/Platforms but it's stale
                      - Flan: there's some fuzzy responsibility here -- the TWG didn't see meet.coop as in our scope as we've never interacted with it (which seemed to make sense). But in the end we ended up interacting with the tech people that are working on fixing the issue (which also makes sense).
                      - Eduardo: this is a good example of changing scope and the need to react to it.
-                 - 
     - Bonfire testing
+        - Zulip thread
+        - Melissa: we want to communicate clear expectations on the topic, and define scopes/tasks.
     - Mayfirst
     - Platform6 as fiscal host
-- Revisiting Big Topic kanban
+- Revisiting Big Topic kanban (decision: defer to the next meeting as primary topic)
     - Operational Financial Strategy
     - Technical Hosting Strategy
     - At large selection process
