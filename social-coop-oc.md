@@ -91,6 +91,9 @@ https://www.loomio.com/p/EYwd7onD/help-social-coop-make-sense-of-the-proposed-20
                 - Melissa: we should write up status and options in Loomio, also making more people aware of the Meet.coop services.
                 - Gilles: on improving onboarding overall. Onboarding is a bit daunting and it's hard to come to terms with what's available/how to participate.
                  - Luke: on a higher level, unclear on the 'tiering' of social.coop services. Is meet.coop a 'main' service at the same level as e.g. the mastodon instance? +1 on documenting this and announcing more on Loomio.
+                     - Maybe tiers could be: top level, medium, testing?
+                 - Eduardo: do we have a description in the wiki about the services we provide?
+                     - https://wiki.social.coop/wiki/Platforms
     - Bonfire testing
     - Mayfirst
     - Platform6 as fiscal host
