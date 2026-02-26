@@ -31,8 +31,10 @@ Current members:
 ## $NEXT 2026-0312- 1500 UTC
 
 ## 2026-02-26 1500 UTC
-Attendees: Caitlin, Melissa, Eduardo, Gilles, Preston
+Attendees: Caitlin, Melissa, Eduardo, Gilles(visitor), Preston, Flancian
+
 ### Agenda
+- Check ins
 - Budget stipends
 - Additional services commitments - status and comms
     - Meet.coop
