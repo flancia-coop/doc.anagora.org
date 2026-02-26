@@ -65,7 +65,7 @@ https://www.loomio.com/p/EYwd7onD/help-social-coop-make-sense-of-the-proposed-20
         - Bonfire came up at our last meeting and we realized it was questions across multiple groups so we surfaced it for the OC. 
         - Upcoming hackathon March 22 https://wiki.social.coop/wiki/March_2026_Hackathon I posted about it on loomio
 - Budget, discussion focus on stipends, working toward passage of the proposed 2026 budget 
-    - What is a stipend? It is an optional gift, or an honorarium. It is *not* payment for contracted services. (It may affect your taxes.) 
+    - What is a stipend? It is an optional gift, or an honorarium. It is *not* payment for contracted services. It does not relate to your skill level. (It may affect your taxes.) 
     - Reference:  OC/FWG: sensemaking post on Loomio
     - OC/FWG: Sense check post to Loomio about Social Coop budget for 2026 https://www.loomio.com/p/EYwd7onD/help-social-coop-make-sense-of-the-proposed-2026-budget-what-can-we-do-together-
     - Who decides the budget? We do! The Organizing Circle... The FWG proposes a budget to the OC. 
@@ -88,8 +88,8 @@ https://www.loomio.com/p/EYwd7onD/help-social-coop-make-sense-of-the-proposed-20
             - Need to determine if it's OK to get new users for everybody or people need to recover any information/functionality from the previous users
                 - Edu: as user of this service, recovering artifacts from the previous meetings would be very good. Getting new users after that would be OK.
                 - Luke: having the service available again is most important as long as that doesn't preclude us restoring artifacts eventually.
-                - Melissa: we should write up status and options in Loomio.
-                - Gilles: 
+                - Melissa: we should write up status and options in Loomio, also making more people aware of the Meet.coop services.
+                - Gilles: on improving onboarding overall.
     - Bonfire testing
     - Mayfirst
     - Platform6 as fiscal host
