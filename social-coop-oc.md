@@ -42,9 +42,13 @@ Attendees: Caitlin, Melissa, Eduardo, Gilles(visitor), Preston, Flancian
             - aside: on consensus vs consent
         - a note on the social.coop participation structure: working groups, organizing circle
             - Melissa: https://www.dropbox.com/scl/fi/wbnjf7f50h3spv3ses97k/SocialCoopResources-Committees.png?rlkey=o86c19ajh8fw6o1kgytpefczh&dl=0
+        - Let's use this meeting primarily as an introduction to new members
+            - Quick 
 - Updates from working groups?
     - TWG: Hetzner is raising prices, but our server type (which is relatively old) is not strongly affected
-- Budget stipends
+    - FWG: no updates, 
+- Budget, discssion focus on stipends
+    - OC/FWG: sensemaking post on Loomio - OC/FWG: Sense check post to Loomio about Social Coop budget for 2026 https://www.loomio.com/p/EYwd7onD/help-social-coop-make-sense-of-the-proposed-2026-budget-what-can-we-do-together-
 - Additional services commitments - status and comms
     - Meet.coop
     - Mayfirst
