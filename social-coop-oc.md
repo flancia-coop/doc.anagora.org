@@ -89,7 +89,8 @@ https://www.loomio.com/p/EYwd7onD/help-social-coop-make-sense-of-the-proposed-20
                 - Edu: as user of this service, recovering artifacts from the previous meetings would be very good. Getting new users after that would be OK.
                 - Luke: having the service available again is most important as long as that doesn't preclude us restoring artifacts eventually.
                 - Melissa: we should write up status and options in Loomio, also making more people aware of the Meet.coop services.
-                - Gilles: on improving onboarding overall.
+                - Gilles: on improving onboarding overall. Onboarding is a bit daunting and it's hard to come to terms with what's available/how to participate.
+                 - Luke: on a higher level, unclear on the 'tiering' of social.coop services. Is meet.coop a 'main' service at the same level as e.g. the mastodon instance? +1 on documenting this and announcing more on Loomio.
     - Bonfire testing
     - Mayfirst
     - Platform6 as fiscal host
