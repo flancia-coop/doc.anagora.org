@@ -73,10 +73,13 @@ https://www.loomio.com/p/EYwd7onD/help-social-coop-make-sense-of-the-proposed-20
     - Distribution of stipends: decision made by each working group, privately 
     - Expectation: Each working group defines its membership. 
     - Caitlin: recaps the stipend question.
-        - Each WG gets 1k (as above)
+        - Each WG gets about 1k (as above), but a different amount can be requested by the working groups, as part of the new
         - Each WG member accepts a share, or puts it back in the pool for the other WG members, or returns it back to Social.coop. 
         - We could document some of this better in our Wiki.
-        - The alternative is time banking, which is not being consi
+            - +1
+        - The alternative is time banking, which is not being considered at this time. It could go into a Kanban, if someone wants to raise it as a long-term issue. 
+        - No concerns from the group on how things are currently working.
+        - There have been concerns from people in the past; maybe we could ask for suggestions on process improvement(s), either working groups or the community at large.
 - Additional services commitments - status and comms
     - Meet.coop
     - Mayfirst
