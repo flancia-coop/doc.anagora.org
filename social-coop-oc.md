@@ -82,9 +82,10 @@ https://www.loomio.com/p/EYwd7onD/help-social-coop-make-sense-of-the-proposed-20
         - There have been concerns from people in the past; maybe we could ask for suggestions on process improvement(s), either working groups or the community at large.
 - Additional services commitments - status and comms
     - Meet.coop
+        - TWG update
+    - Bonfire testing
     - Mayfirst
     - Platform6 as fiscal host
-    - Bonfire testing
 - Revisiting Big Topic kanban
     - Operational Financial Strategy
     - Technical Hosting Strategy
@@ -93,6 +94,8 @@ https://www.loomio.com/p/EYwd7onD/help-social-coop-make-sense-of-the-proposed-20
     - Onboarding new members to Kanban
 
 ### Decisions
+
+- Document stipend purpose and process on wiki, link to loomio discussion for those interested in discussio
 
 ## 2026-02-12 1500 UTC
 
