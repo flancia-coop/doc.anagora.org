@@ -106,16 +106,18 @@ https://www.loomio.com/p/EYwd7onD/help-social-coop-make-sense-of-the-proposed-20
         - Zulip thread
         - Melissa: we want to communicate clear expectations on the topic, and define scopes/tasks.
         - Flan: TWG+CWG needs to define costs and maintenance effort to support this, and loomio discussion for community agreement to support it.
-        - Flan: will start a wiki page about Bonfire and share with Melissa to work together on it.
+        - **Flan: will start a wiki page about Bonfire and share with Melissa to work together on it.**
     - Mayfirst
         - Luke: this came up in the context of 'which services are available to members'. Defining the tier of this service too and communicating clearly to members seems ideal. 
     - Platform6 as fiscal host
-        - Jurisdiction question - maybe roll up into Hetzner/Hosting risks
+        - **Jurisdiction question - maybe roll up into Hetzner/Hosting risks**
         - Need for a Legal Working Group
-            - Members are LWG include Alex Rodriguez and Marie VC
-                - Have we invited them here?
+            - Members are LWG include Alex Rodriguez and Marie VC  https://social.coop/deck/@arod  https://social.coop/deck/@MarieVC 
+                - **Have we invited them here?**
                 - They are under time pressure currently but we should still try to meet them at some point
         - May need to go on Big Topic here.
+- Check outs
+    - (We don't keep notes of these usually.)
 - Revisiting Big Topic kanban (decision: defer to the next meeting as primary topic)
     - Operational Financial Strategy
     - Technical Hosting Strategy
