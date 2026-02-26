@@ -34,7 +34,7 @@ Current members:
 Attendees: Caitlin, Melissa, Eduardo, Gilles(visitor), Preston, Flancian
 
 ### Agenda
-- Check ins
+- Check ins! Including new members and visitors.
 - Budget stipends
 - Additional services commitments - status and comms
     - Meet.coop
