@@ -40,8 +40,10 @@ Attendees: Caitlin, Melissa, Eduardo, Gilles(visitor), Preston, Flancian
         - meetings here are run mostly sociocratically, start/end with checkins/checkouts
         - then we build an agenda cooperatively and consent
             - aside: on consensus vs consent
+        - a note on the social.coop participation structure: working groups, organizing circle
+            - Melissa: https://www.dropbox.com/scl/fi/wbnjf7f50h3spv3ses97k/SocialCoopResources-Committees.png?rlkey=o86c19ajh8fw6o1kgytpefczh&dl=0
 - Updates from working groups?
-    - TWG: Hetzner is raising prices s
+    - TWG: Hetzner is raising prices, but our server type (which is relatively old) is not strongly affected
 - Budget stipends
 - Additional services commitments - status and comms
     - Meet.coop
@@ -55,7 +57,6 @@ Attendees: Caitlin, Melissa, Eduardo, Gilles(visitor), Preston, Flancian
     - Identifying new topics
 
 ### Decisions
-
 
 ## 2026-02-12 1500 UTC
 
