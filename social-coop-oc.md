@@ -95,7 +95,9 @@ https://www.loomio.com/p/EYwd7onD/help-social-coop-make-sense-of-the-proposed-20
 
 ### Decisions
 
-- Document stipend purpose and process on wiki, link to loomio discussion for those interested in discussio
+- TWG/Flan: considerations for hosting move options.
+- Caitlin: Document stipend purpose and process on wiki, link to loomio discussion for those interested in discussing alternatives.
+- 
 
 ## 2026-02-12 1500 UTC
 
