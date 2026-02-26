@@ -133,8 +133,10 @@ https://www.loomio.com/p/EYwd7onD/help-social-coop-make-sense-of-the-proposed-20
 
 - TWG/Flan: considerations for hosting move options.
 - Caitlin: Document stipend purpose and process on wiki, link to loomio discussion for those interested in discussing alternatives.
+- Melissa: meet.coop BBB return options on loomio
 - Melissa: Wiki page for Services For Members with tier/status, meet.coop. (On Hackathon?)
 - TWG/CWG: Bonfire operational support & costs.
+- Invite LWG members to next OC meeting
 
 ## 2026-02-12 1500 UTC
 
