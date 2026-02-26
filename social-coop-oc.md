@@ -30,6 +30,12 @@ Current members:
 =======================================================
 ## $NEXT 2026-0312- 1500 UTC
 
+### Agenda
+
+- Check ins
+- Updates from WGs
+- 
+
 ## 2026-02-26 1500 UTC
 Attendees: Caitlin, Melissa, Eduardo, Gilles(visitor), Preston, Flancian
 
@@ -105,7 +111,9 @@ https://www.loomio.com/p/EYwd7onD/help-social-coop-make-sense-of-the-proposed-20
         - Luke: this came up in the context of 'which services are available to members'. Defining the tier of this service too and communicating clearly to members seems ideal. 
     - Platform6 as fiscal host
         - Jurisdiction question - maybe roll up into Hetzner/Hosting risks
-        - N
+        - Need for a Legal Working Group
+            - Members are LWG include Alex and Marie VC
+        - May need to go on Big Topic here.
 - Revisiting Big Topic kanban (decision: defer to the next meeting as primary topic)
     - Operational Financial Strategy
     - Technical Hosting Strategy
