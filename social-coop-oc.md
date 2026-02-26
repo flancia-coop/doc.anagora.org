@@ -19,16 +19,16 @@ Current members:
 - @pjw (at-large, starting Jan 2026)
 - @loppear (at-large, starting Jan 2026)
 - Ammar (at-large) @ammaratef45
+- eduardo m (at-large, ending mid-2026) @edumerco
 - Kathe (at-large, ending Jan 2026) @ktoddbrown
 - Marie (at-large, ending Jan 2026) @MarieVC
-- eduardo m (at-large, ending mid-2026) @edumerco
 
 ## Tasks
 + [ ] @all, async: review and annotate our 2025 accomplishments to celebrate. 
 + [ ] Other/s? 
 
 =======================================================
-
+I
 ## $NEXT 2026-02-26 1500 UTC
 
 ### Agenda
