@@ -55,7 +55,10 @@ Attendees: Caitlin, Melissa, Eduardo, Gilles(visitor), Preston, Flancian
             - Jurisdiction (US) concerns for iocoop
         - Timeline to develop a hosting move plan
             - TWG will pick this up / do another round of host research
-    - FWG: no updates, 
+    - FWG: no updates.
+        - Note on open collective and how it works: everything is in the open and can be reviewed.
+        - Annual budget process (also later in the agenda)
+        - 
     - CWG: moving to officially add Silver, Gilles, and Steve to the CWG. Gilles and Steve have been engaging with moderation activities. Bonfire came up at our last meeting and we realized it was questions across multiple groups so we surfaced it for the OC. upcoming hackathon March 22 https://wiki.social.coop/wiki/March_2026_Hackathon I posted about it on loomio
     - 
 - Budget, discussion focus on stipends, working toward passage of the proposed 2026 budget 
