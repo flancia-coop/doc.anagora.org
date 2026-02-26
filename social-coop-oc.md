@@ -55,6 +55,7 @@ Attendees: Caitlin, Melissa, Eduardo, Gilles(visitor), Preston, Flancian
     - Technical Hosting Strategy
     - At large selection process
     - Identifying new topics
+    - Onboarding new members to Kanban
 
 ### Decisions
 
