@@ -34,7 +34,7 @@ Current members:
 
 - Check ins
 - Updates from WGs
-- 
+- Revisit Big Topics
 
 ## 2026-02-26 1500 UTC
 Attendees: Caitlin, Melissa, Eduardo, Gilles(visitor), Preston, Flancian
@@ -94,12 +94,12 @@ https://www.loomio.com/p/EYwd7onD/help-social-coop-make-sense-of-the-proposed-20
             - Need to determine if it's OK to get new users for everybody or people need to recover any information/functionality from the previous users
                 - Edu: as user of this service, recovering artifacts from the previous meetings would be very good. Getting new users after that would be OK.
                 - Luke: having the service available again is most important as long as that doesn't preclude us restoring artifacts eventually.
-                - Melissa: we should write up status and options in Loomio, also making more people aware of the Meet.coop services.
+                - **Melissa: we should write up status and options in Loomio, also making more people aware of the Meet.coop services.**
                 - Gilles: on improving onboarding overall. Onboarding is a bit daunting and it's hard to come to terms with what's available/how to participate.
                  - Luke: on a higher level, unclear on the 'tiering' of social.coop services. Is meet.coop a 'main' service at the same level as e.g. the mastodon instance? +1 on documenting this and announcing more on Loomio.
                      - Maybe tiers could be: top level, medium, testing?
                  - Eduardo: do we have a description in the wiki about the services we provide?
-                     - https://wiki.social.coop/wiki/Platforms but it's stale
+                     - **https://wiki.social.coop/wiki/Platforms but it's stale**
                      - Flan: there's some fuzzy responsibility here -- the TWG didn't see meet.coop as in our scope as we've never interacted with it (which seemed to make sense). But in the end we ended up interacting with the tech people that are working on fixing the issue (which also makes sense).
                      - Eduardo: this is a good example of changing scope and the need to react to it.
     - Bonfire testing
@@ -129,7 +129,7 @@ https://www.loomio.com/p/EYwd7onD/help-social-coop-make-sense-of-the-proposed-20
 
 - TWG/Flan: considerations for hosting move options.
 - Caitlin: Document stipend purpose and process on wiki, link to loomio discussion for those interested in discussing alternatives.
-- Wiki page for Services For Members with tier/status. (On Hackathon?)
+- Wiki page for Services For Members with tier/status, meet.coop . (On Hackathon?)
 - TWG/CWG: Bonfire operational support & costs.
 
 ## 2026-02-12 1500 UTC
