@@ -48,11 +48,13 @@ Attendees: Caitlin, Melissa, Eduardo, Gilles(visitor), Preston, Flancian
     - TWG: 
         - Hetzner is raising prices, but our server type (which is relatively old) is not strongly affected. Andrew updated our budget.
         - Bonfire was down for a few days, now back.
+        - iocoop option / next steps.
     - FWG: no updates, 
-    - CWG
+    - CWG: moving to officially add Silver, Gilles, and Steve to the CWG. Gilles and Steve have been engaging with moderation activities. Bonfire came up at our last meeting and we realized it was questions across multiple groups so we surfaced it for the OC
     - 
 - Budget, discussion focus on stipends, working toward passage of the proposed 2026 budget 
     - Reference:  OC/FWG: sensemaking post on Loomio - OC/FWG: Sense check post to Loomio about Social Coop budget for 2026 https://www.loomio.com/p/EYwd7onD/help-social-coop-make-sense-of-the-proposed-2026-budget-what-can-we-do-together-
+        - 
 - Additional services commitments - status and comms
     - Meet.coop
     - Mayfirst
