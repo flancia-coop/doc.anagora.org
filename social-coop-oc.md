@@ -112,7 +112,9 @@ https://www.loomio.com/p/EYwd7onD/help-social-coop-make-sense-of-the-proposed-20
     - Platform6 as fiscal host
         - Jurisdiction question - maybe roll up into Hetzner/Hosting risks
         - Need for a Legal Working Group
-            - Members are LWG include Alex and Marie VC
+            - Members are LWG include Alex Rodriguez and Marie VC
+                - Have we invited them here?
+                - They are under time pressure currently but we should still try to meet them at some point
         - May need to go on Big Topic here.
 - Revisiting Big Topic kanban (decision: defer to the next meeting as primary topic)
     - Operational Financial Strategy
