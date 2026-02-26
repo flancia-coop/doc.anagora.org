@@ -58,10 +58,14 @@ Attendees: Caitlin, Melissa, Eduardo, Gilles(visitor), Preston, Flancian
     - FWG: no updates.
         - Note on open collective and how it works: everything is in the open and can be reviewed.
         - Annual budget process (also later in the agenda)
-        - 
-    - CWG: moving to officially add Silver, Gilles, and Steve to the CWG. Gilles and Steve have been engaging with moderation activities. Bonfire came up at our last meeting and we realized it was questions across multiple groups so we surfaced it for the OC. upcoming hackathon March 22 https://wiki.social.coop/wiki/March_2026_Hackathon I posted about it on loomio
-    - 
+            - OC/FWG: Sense check post to Loomio about Social Coop budget for 2026 
+https://www.loomio.com/p/EYwd7onD/help-social-coop-make-sense-of-the-proposed-2026-budget-what-can-we-do-together-
+    - CWG: 
+        - Moving to officially add Silver, Gilles, and Steve to the CWG. Gilles and Steve have been engaging with moderation activities. 
+        - Bonfire came up at our last meeting and we realized it was questions across multiple groups so we surfaced it for the OC. 
+        - Upcoming hackathon March 22 https://wiki.social.coop/wiki/March_2026_Hackathon I posted about it on loomio
 - Budget, discussion focus on stipends, working toward passage of the proposed 2026 budget 
+    - What is a stipend? It is an honorarium. It is *not* 
     - Reference:  OC/FWG: sensemaking post on Loomio
     - OC/FWG: Sense check post to Loomio about Social Coop budget for 2026 https://www.loomio.com/p/EYwd7onD/help-social-coop-make-sense-of-the-proposed-2026-budget-what-can-we-do-together-
     - Who decides the budget? We do! The Organizing Circle... The FWG proposes a budget to the OC. 
