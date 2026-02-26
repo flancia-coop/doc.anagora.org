@@ -102,8 +102,10 @@ https://www.loomio.com/p/EYwd7onD/help-social-coop-make-sense-of-the-proposed-20
         - Flan: TWG+CWG needs to define costs and maintenance effort to support this, and loomio discussion for community agreement to support it.
         - Flan: will start a wiki page about Bonfire and share with Melissa to work together on it.
     - Mayfirst
-        - Luke: this came up in the context of 'which services are available to members'. 
+        - Luke: this came up in the context of 'which services are available to members'. Defining the tier of this service too and communicating clearly to members seems ideal. 
     - Platform6 as fiscal host
+        - Jurisdiction question - maybe roll up into Hetzner/Hosting risks
+        - N
 - Revisiting Big Topic kanban (decision: defer to the next meeting as primary topic)
     - Operational Financial Strategy
     - Technical Hosting Strategy
