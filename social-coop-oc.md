@@ -31,7 +31,7 @@ Current members:
 ## $NEXT 2026-0312- 1500 UTC
 
 ## 2026-02-26 1500 UTC
-
+Attendees: Caitlin, Melissa, Eduardo,Gilles, Preston
 ### Agenda
 - Budget stipends
 - Additional services commitments - status and comms
