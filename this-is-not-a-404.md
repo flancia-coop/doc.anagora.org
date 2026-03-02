@@ -1,1 +1,5 @@
-I'm busy right now, try again later.
+- The Agora tries to provide something useful to the user in every page -- even in those with no content :)
+- you should be able to depend on an Agora node always having:
+    - A world writeable document, where I'm currently writing this.
+    - A video conferencing room you can pull and start using without leaving the Agora.
+- This makes it so that each node comes bootstrapped with the minimum collaboration tools you need to work with others on something.
