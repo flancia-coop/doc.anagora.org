@@ -1,1 +1,1 @@
-- I met [[Shai]] at a party on [[2023-12-31]]
+I'm busy right now, try again later.
