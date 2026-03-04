@@ -16,6 +16,9 @@
     - Merged!
 - Ed's old https://git.coop/social.coop/tech/ansible/-/merge_requests/59
     - Merged!
+- Mergefest!
+    - https://git.coop/social.coop/tech/pass/-/merge_requests/13
+    - 
 - C: outstanding merge request, looks important https://git.coop/social.coop/tech/ansible/-/merge_requests/63
 - Hetzner question that has come up a few times including recently in the open chat room?
 - Other topics?
