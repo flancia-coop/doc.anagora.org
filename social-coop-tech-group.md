@@ -1,6 +1,9 @@
 ## 2026-03-04
 
-- Attending: ...
+- Attending: Calix, Flancian
+- Check ins!
+    - Dealing with work
+    - Coop.cloud event
 - Review/consent on agenda
 - Possible upgrades
 - Andrew's #92 about Gandhi: https://git.coop/social.coop/tech/operations/-/work_items/92
