@@ -13,6 +13,7 @@
 - Next steps on Ammar's onboarding after https://www.loomio.com/p/uWskG5Jj/give-ammaratef45-server-access?
     - We need to just go ahead and merge and run ansible and re-encode pass?
 - Flancian: https://git.coop/social.coop/tech/ansible/-/merge_requests/68 for an improvement to the instance recipe?
+- C: outstanding merge request, looks important https://git.coop/social.coop/tech/ansible/-/merge_requests/63
 - Hetzner question that has come up a few times including recently in the open chat room?
 - Other topics?
 
