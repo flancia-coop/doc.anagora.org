@@ -3,7 +3,10 @@
 - Attending: Calix, Flancian
 - Check ins!
     - Dealing with work
-    - Coop.cloud event
+    - Coop.cloud event in NYC!
+        - abra is now translated into Spanish 🥳
+        - [[escuela común]]
+        - Link incoming!
 - Review/consent on agenda
 - Possible upgrades
 - Andrew's #92 about Gandhi: https://git.coop/social.coop/tech/operations/-/work_items/92
