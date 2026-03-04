@@ -18,8 +18,9 @@
     - Merged!
 - Mergefest!
     - https://git.coop/social.coop/tech/pass/-/merge_requests/13
-    - 
+    - https://git.coop/social.coop/tech/pass/-/merge_requests/15
 - C: outstanding merge request, looks important https://git.coop/social.coop/tech/ansible/-/merge_requests/63
+    - Done earlier independently.
 - Hetzner question that has come up a few times including recently in the open chat room?
 - Other topics?
 
