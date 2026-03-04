@@ -6,6 +6,7 @@
 - Andrew's #92 about Gandhi: https://git.coop/social.coop/tech/operations/-/work_items/92
 - Hetzner question that has come up a few times including recently in the open chat room?
 - Next steps on Ammar's onboarding after https://www.loomio.com/p/uWskG5Jj/give-ammaratef45-server-access?
+- Flancian: https://git.coop/social.coop/tech/ansible/-/merge_requests/68 for an improvement to the instance recipe?
 - Other topics?
 
 ## 2026-02-04
