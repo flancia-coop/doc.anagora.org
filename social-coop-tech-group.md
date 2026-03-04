@@ -3,8 +3,9 @@
 - Attending: ...
 - Review/consent on agenda
 - Possible upgrades
-- Andrew's #92 about Gandhi: 
+- Andrew's #92 about Gandhi: https://git.coop/social.coop/tech/operations/-/work_items/92
 - Hetzner question that has come up a few times including recently in the open chat room?
+- Next steps on Ammar's onboarding after https://www.loomio.com/p/uWskG5Jj/give-ammaratef45-server-access?
 - Other topics?
 
 ## 2026-02-04
