@@ -1,3 +1,12 @@
+## 2026-03-04
+
+- Attending: ...
+- Review/consent on agenda
+- Possible upgrades
+- Andrew's #92 about Gandhi: 
+- Hetzner question that has come up a few times including recently in the open chat room?
+- Other topics?
+
 ## 2026-02-04
 
 - Attending: Dan, Calix, Flancian
