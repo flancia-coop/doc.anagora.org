@@ -1,1 +1,4 @@
-I'm busy right now, try again later.
+- a [[person]]
+  - #go https://RobertMooreComedy.com
+  - [[Kevin Hart]]
+- [[eddie Murphy]]
