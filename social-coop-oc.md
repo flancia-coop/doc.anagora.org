@@ -28,11 +28,12 @@ Current members:
 + [ ] Other/s? 
 
 =======================================================
-## $NEXT 2026-0312- 1500 UTC
+## $NEXT 2026-03-12 1500 UTC
 
 ### Agenda
 
 - Check ins
+- Budget - ready for approval?
 - Updates from WGs
 - Revisit Big Topics
     - Operational Financial Strategy
