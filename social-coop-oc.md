@@ -84,7 +84,7 @@ Shared facilitation. Shared notetaking.
     - Technical Hosting Strategy
     - At large selection process
     - Identifying new topics
-- Closing
+- Closing: What brings you comfort?  (And: meeting of our cats)
 
 ## 2026-02-26 1500 UTC
 Attendees: Caitlin, Melissa, Eduardo, Gilles (visitor), Preston, Flancian, Luke (at 1530)
