@@ -29,6 +29,7 @@ Current members:
 
 =======================================================
 ## $NEXT 2026-03-12 1500 UTC
+Attendees: Caitlin, Prestn (PJ), Ammar, 
 
 ### Agenda
 
