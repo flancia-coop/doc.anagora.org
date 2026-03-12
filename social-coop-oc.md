@@ -10,6 +10,7 @@ lang: en
 References:
 - notes: https://doc.anagora.org/social-coop-oc
 - videoconference: https://jitsi.meet.coop/social-coop-oc
+- kanban: https://share.mayfirst.org/apps/deck/board/1128
 
 Current members:
 - caitlin (FWG rep) @CaitlinWaddick
