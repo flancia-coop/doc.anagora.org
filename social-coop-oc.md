@@ -40,7 +40,7 @@ Attendees:
 
 ## 2026-03-12 1500 UTC
 Attendees: Caitlin, Prestn (PJ), Ammar
-RSVPs. (We know that Melissa, Luke, Flancian will not be here today)
+RSVPs. (We know that Melissa, Luke, Flancian will not be here today.)
 
 ### Agenda
 
@@ -64,7 +64,7 @@ RSVPs. (We know that Melissa, Luke, Flancian will not be here today)
     - TWG
         - New SC instance in Bonfire for testing 
         - light conversations: do we want to move from Masto to Bonfire ? 
-        - Mastodon devs are eally stubborn about features the community want.
+        - Mastodon devs are really stubborn about features the community want.
     - CWG
         - No one from CWG present.
 - Legal risks/issues
@@ -78,7 +78,7 @@ RSVPs. (We know that Melissa, Luke, Flancian will not be here today)
     - Identifying new topics
 
 ## 2026-02-26 1500 UTC
-Attendees: Caitlin, Melissa, Eduardo, Gilles(visitor), Preston, Flancian, Luke (at 1530)
+Attendees: Caitlin, Melissa, Eduardo, Gilles (visitor), Preston, Flancian, Luke (at 1530)
 
 ### Agenda
 - Check ins! Including new members and visitors.
