@@ -40,6 +40,7 @@ Attendees:
 
 ## 2026-03-12 1500 UTC
 Attendees: Caitlin, Prestn (PJ), Ammar
+RSVPs. (We know that Melissa, Luke, Flancian will not be here today)
 
 ### Agenda
 
@@ -68,7 +69,7 @@ Attendees: Caitlin, Prestn (PJ), Ammar
         - No one from CWG present.
 - Legal risks/issues
     - We need to reinvigorate the legal wg
-    - Do we have a fund for any anticipated legal risks? We have "Reserves" built into the annual budget. 
+    - Do we have a fund for any anticipated legal risks? We have "Reserves" built into the annual budget. Imagining a worst case scenario: what if a Big Tech companies sues all the small guys?  
     - TASK: Caitlin will send a message to Marie VC and Alex R. to ask them to check in and possibly meet. 
 - Revisit Big Topics
     - Operational Financial Strategy
