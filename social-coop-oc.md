@@ -77,6 +77,7 @@ Shared facilitation. Shared notetaking.
     - TASK: Caitlin will send a message to Marie VC and Alex R. to ask them to check in and possibly meet. 
     - What are the legal challenges (for example slapp suits and new legislations) and how can we prepare for them?
 - Revisit Big Topics
+    - actual:  onboarding Preston to the kanban/MayFirst technology 
     - Operational Financial Strategy
     - Technical Hosting Strategy
     - At large selection process
