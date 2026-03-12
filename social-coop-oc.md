@@ -78,10 +78,13 @@ Shared facilitation. Shared notetaking.
     - What are the legal challenges (for example slapp suits and new legislations) and how can we prepare for them?
 - Revisit Big Topics
     - actual:  onboarding Preston to the kanban/MayFirst technology 
+        - TASK: Ammar sent message to get Preston on NextCloud via MayFirst 
+        - We reviewed the Kanban on a shared screen. 
     - Operational Financial Strategy
     - Technical Hosting Strategy
     - At large selection process
     - Identifying new topics
+- Closing
 
 ## 2026-02-26 1500 UTC
 Attendees: Caitlin, Melissa, Eduardo, Gilles (visitor), Preston, Flancian, Luke (at 1530)
