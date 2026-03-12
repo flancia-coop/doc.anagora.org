@@ -59,8 +59,10 @@ Attendees: Caitlin, Prestn (PJ), Ammar
 - Updates from WGs
     - FWG/Legal
         - Nothing new to share. (aside from budget topic).
+        - Update given earlier: TASK: Caitlin to reach out 
     - TWG
-        - 
+        - New SC instance in Bonfire for testing 
+        - light conversations: do we want to move from Masto to Bonfire ? 
     - CWG
         - No one from CWG present.
 - Legal risks/issues
