@@ -29,21 +29,17 @@ Current members:
 
 =======================================================
 ## $NEXT 2026-03-26 1500 UTC
-Attendees: Caitlin, Preston (PJ), Ammar 
+Attendees:
 
 ### Agenda
 
 - Check ins
 - Consent for agenda
 - Updates from WGs
-- Revisit Big Topics
-    - Operational Financial Strategy
-    - Technical Hosting Strategy
-    - At large selection process
-    - Identifying new topics
+
 
 ## 2026-03-12 1500 UTC
-Attendees: Caitlin, Prestn (PJ), Ammar, 
+Attendees: Caitlin, Prestn (PJ), Ammar
 
 ### Agenda
 
@@ -52,9 +48,12 @@ Attendees: Caitlin, Prestn (PJ), Ammar,
     - Struggling with world news.
     - Feeling good at the moment but frustrated with world leaders.
     - Looks like war news are causing low energy over all.
-- - Consent for agenda
+- Consent for agenda
 - Budget - ready for approval?
 - Updates from WGs
+- Legal risks/issues
+    - We need to reinvigorate the legal wg
+    - Do we have a fund for any anticipated legal risks?
 - Revisit Big Topics
     - Operational Financial Strategy
     - Technical Hosting Strategy
