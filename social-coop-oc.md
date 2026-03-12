@@ -28,7 +28,21 @@ Current members:
 + [ ] Other/s? 
 
 =======================================================
-## $NEXT 2026-03-12 1500 UTC
+## $NEXT 2026-03-26 1500 UTC
+Attendees: Caitlin, Prestn (PJ), Ammar, 
+
+### Agenda
+
+- Check ins
+- Budget - ready for approval?
+- Updates from WGs
+- Revisit Big Topics
+    - Operational Financial Strategy
+    - Technical Hosting Strategy
+    - At large selection process
+    - Identifying new topics
+
+## 2026-03-12 1500 UTC
 Attendees: Caitlin, Prestn (PJ), Ammar, 
 
 ### Agenda
