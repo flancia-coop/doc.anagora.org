@@ -51,7 +51,9 @@ Attendees: Caitlin, Prestn (PJ), Ammar
 - Consent for agenda
 - Budget - ready for approval?
     - Last meeting we discussed stipends and there was strong agreement.
-    - Need to commun
+    - Need to communicate the purpose of stipends better.
+    - OC finds it a good use of our budget.
+    - <insert: questions on a loomio budget thing?>
 - Updates from WGs
 - Legal risks/issues
     - We need to reinvigorate the legal wg
