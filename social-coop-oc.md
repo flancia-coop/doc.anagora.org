@@ -55,7 +55,14 @@ Attendees: Caitlin, Prestn (PJ), Ammar
     - OC finds it a good use of our budget.
     - Questions on a loomio budget thing? https://www.loomio.com/p/EYwd7onD/help-social-coop-make-sense-of-the-proposed-2026-budget-what-can-we-do-together-
     - What needs to be done to vote on the budget next meeting?
+        - TASK: Caitlin posted Zulip link to Social.Coop "mentions"/mailbox to OC members 
 - Updates from WGs
+    - FWG/Legal
+        - Nothing new to share. (aside from budget topic).
+    - TWG
+        - 
+    - CWG
+        - No one from CWG present.
 - Legal risks/issues
     - We need to reinvigorate the legal wg
     - Do we have a fund for any anticipated legal risks?
