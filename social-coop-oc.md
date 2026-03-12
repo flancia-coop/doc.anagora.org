@@ -63,11 +63,13 @@ Attendees: Caitlin, Prestn (PJ), Ammar
     - TWG
         - New SC instance in Bonfire for testing 
         - light conversations: do we want to move from Masto to Bonfire ? 
+        - Mastodon devs are eally stubborn about features the community want.
     - CWG
         - No one from CWG present.
 - Legal risks/issues
     - We need to reinvigorate the legal wg
-    - Do we have a fund for any anticipated legal risks?
+    - Do we have a fund for any anticipated legal risks? We have "Reserves" built into the annual budget. 
+    - TASK: Caitlin will send a message to Marie VC and Alex R. to ask them to check in and possibly meet. 
 - Revisit Big Topics
     - Operational Financial Strategy
     - Technical Hosting Strategy
