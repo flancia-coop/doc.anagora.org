@@ -29,15 +29,16 @@ Current members:
 
 =======================================================
 ## $NEXT 2026-03-26 1500 UTC
-Attendees: Caitlin, Prestn (PJ), Ammar 
+Attendees: Caitlin, Preston (PJ), Ammar 
 
 ### Agenda
 
 - Check ins
-    - Fighting health issues (feeling cofident)!
+    - Fighting health issues (feeling confident)!
     - Struggling with world news.
     - Feeling good at the moment but frustrated with world leaders.
     - Looks like war news are causing low energy over all.
+- Consent for agenda 
 - Budget - ready for approval?
     - 
 - Updates from WGs
