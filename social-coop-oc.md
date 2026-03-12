@@ -53,7 +53,7 @@ Attendees: Caitlin, Prestn (PJ), Ammar
     - Last meeting we discussed stipends and there was strong agreement.
     - Need to communicate the purpose of stipends better.
     - OC finds it a good use of our budget.
-    - <insert: questions on a loomio budget thing?>
+    - Questions on a loomio budget thing? https://www.loomio.com/p/EYwd7onD/help-social-coop-make-sense-of-the-proposed-2026-budget-what-can-we-do-together-
     - What needs to be done to vote on the budget next meeting?
 - Updates from WGs
 - Legal risks/issues
