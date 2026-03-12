@@ -56,7 +56,7 @@ RSVPs. (We know that Melissa, Luke, Flancian will not be here today.)
     - OC finds it a good use of our budget.
     - Questions on a loomio budget thing? https://www.loomio.com/p/EYwd7onD/help-social-coop-make-sense-of-the-proposed-2026-budget-what-can-we-do-together-
     - What needs to be done to vote on the budget next meeting?
-        - TASK: Caitlin posted Zulip link to Social.Coop "mentions"/mailbox to OC members 
+        - TASK: Caitlin posted Zulip link to Social.Coop "mentions"/mailbox to OC members to highlight the option to approve the budget at next meeting  
 - Updates from WGs
     - FWG/Legal
         - Nothing new to share. (aside from budget topic).
@@ -71,6 +71,7 @@ RSVPs. (We know that Melissa, Luke, Flancian will not be here today.)
     - We need to reinvigorate the legal wg
     - Do we have a fund for any anticipated legal risks? We have "Reserves" built into the annual budget. Imagining a worst case scenario: what if a Big Tech companies sues all the small guys?  
     - TASK: Caitlin will send a message to Marie VC and Alex R. to ask them to check in and possibly meet. 
+    - What are the legal challenges (for example slapp suits and new legislations) and how canwe
 - Revisit Big Topics
     - Operational Financial Strategy
     - Technical Hosting Strategy
