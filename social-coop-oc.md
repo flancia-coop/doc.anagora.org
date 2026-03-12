@@ -50,6 +50,8 @@ Attendees: Caitlin, Prestn (PJ), Ammar
     - Looks like war news are causing low energy over all.
 - Consent for agenda
 - Budget - ready for approval?
+    - Last meeting we discussed stipends and there was strong agreement.
+    - Need to commun
 - Updates from WGs
 - Legal risks/issues
     - We need to reinvigorate the legal wg
