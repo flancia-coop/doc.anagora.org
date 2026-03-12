@@ -41,6 +41,7 @@ Attendees:
 ## 2026-03-12 1500 UTC
 Attendees: Caitlin, Prestn (PJ), Ammar
 RSVPs. (We know that Melissa, Luke, Flancian will not be here today.)
+Shared facilitation. Shared notetaking. 
 
 ### Agenda
 
@@ -50,6 +51,7 @@ RSVPs. (We know that Melissa, Luke, Flancian will not be here today.)
     - Feeling good at the moment but frustrated with world leaders.
     - Looks like war news are causing low energy over all.
 - Consent for agenda
+    - focus: onboarding Preston 
 - Budget - ready for approval?
     - Last meeting we discussed stipends and there was strong agreement.
     - Need to communicate the purpose of stipends better.
@@ -71,7 +73,7 @@ RSVPs. (We know that Melissa, Luke, Flancian will not be here today.)
     - We need to reinvigorate the legal wg
     - Do we have a fund for any anticipated legal risks? We have "Reserves" built into the annual budget. Imagining a worst case scenario: what if a Big Tech companies sues all the small guys?  
     - TASK: Caitlin will send a message to Marie VC and Alex R. to ask them to check in and possibly meet. 
-    - What are the legal challenges (for example slapp suits and new legislations) and how canwe
+    - What are the legal challenges (for example slapp suits and new legislations) and how can we prepare for them?
 - Revisit Big Topics
     - Operational Financial Strategy
     - Technical Hosting Strategy
