@@ -54,7 +54,7 @@ Attendees: Caitlin, Prestn (PJ), Ammar
     - Need to communicate the purpose of stipends better.
     - OC finds it a good use of our budget.
     - <insert: questions on a loomio budget thing?>
-    - 
+    - What needs to be done to vote on the budget next meeting?
 - Updates from WGs
 - Legal risks/issues
     - We need to reinvigorate the legal wg
