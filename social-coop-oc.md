@@ -11,6 +11,7 @@ References:
 - notes: https://doc.anagora.org/social-coop-oc
 - videoconference: https://jitsi.meet.coop/social-coop-oc
 - kanban: https://share.mayfirst.org/apps/deck/board/1128
+- proposed budget: https://www.loomio.com/p/EYwd7onD/help-social-coop-make-sense-of-the-proposed-2026-budget-what-can-we-do-together- 
 
 Current members:
 - caitlin (FWG rep) @CaitlinWaddick
