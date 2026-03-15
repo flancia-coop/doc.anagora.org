@@ -1,1 +1,3 @@
-I'm busy right now, try again later.
+- This is a [[tldr]] of a [[pdf]] that a friend gifted me with lots of notes about Japan :)
+- [[aki]] ~ [[autumn]]
+- [[noboribetsu]] in [[hokkaido]] for hot springs, they stayed at hotel [[daiichi takomotokan]]
