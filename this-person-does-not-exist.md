@@ -1,1 +1,2 @@
-I'm busy right now, try again later.
+- #go https://this-person-does-not-exist.com/en
+- #pull [[this x does not exist]]
