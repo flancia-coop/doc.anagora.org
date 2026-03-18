@@ -8,6 +8,8 @@ SSO
 - SSO as additional option, instead of cutover
 - SSOPTSD
 
+https://zulip.com/plans/
+https://sso.tax
 
 
 ## 2026-03-04
