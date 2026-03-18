@@ -11,6 +11,9 @@ SSO
 https://zulip.com/plans/
 https://sso.tax
 
+Meet.coop
+- socialcoop.meet.coop is still down
+- 
 
 ## 2026-03-04
 
