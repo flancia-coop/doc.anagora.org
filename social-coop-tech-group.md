@@ -12,8 +12,9 @@ https://zulip.com/plans/
 https://sso.tax
 
 Meet.coop
-- socialcoop.meet.coop is still down
-- 
+- socialcoop.meet.coop is still down, forgot to bring this up on friday meeting
+- Proposal to spend €1300 to recover recordings was approved, going ahead
+- Steve will sign up on the meet.coop forum
 
 ## 2026-03-04
 
