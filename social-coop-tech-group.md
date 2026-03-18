@@ -3,8 +3,12 @@
 - Attending: Steve, Ammar, Calix
 
 SSO
-- Where are our previous notes on this?
-- 
+- Where are our previous notes on this? There are some later in this doc
+- Keycloak vs something else?
+- SSO as additional option, instead of cutover
+- SSOPTSD
+
+
 
 ## 2026-03-04
 
