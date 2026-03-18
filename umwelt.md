@@ -1,1 +1,1 @@
-I'm busy right now, try again later.
+- In the [[semiotic]] theories of Jakob von Uexküll and Thomas A. Sebeok, umwelt (plural: umwelten; from the German Umwelt meaning "[[environment]]" or "surroundings") is the "[[biological foundations]] that lie at the very epicenter of the study of both communication and signification in the human and non-human animal".[1] 
