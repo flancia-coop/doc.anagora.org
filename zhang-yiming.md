@@ -1,3 +1,1 @@
-- a [[person]].
-  - [[billionaire]] [[chinese]]
-  - [[tiktok]]
+I'm busy right now, try again later.
