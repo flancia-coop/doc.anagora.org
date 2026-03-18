@@ -13,8 +13,10 @@ https://sso.tax
 
 Meet.coop
 - socialcoop.meet.coop is still down, forgot to bring this up on friday meeting
+    - Calix will ask about this
 - Proposal to spend €1300 to recover recordings was approved, going ahead
-- Steve will sign up on the meet.coop forum
+- Steve will sign up on the meet.coop forum (done)
+
 
 ## 2026-03-04
 
