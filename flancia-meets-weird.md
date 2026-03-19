@@ -1,1 +1,94 @@
-I'm busy right now, try again later.
+## [[2024-12-06]]
+- Attending: [[zicklag]] [[bouncepaw]] [[flancian]] 
+- Greetings!
+    - [[Zicklag]] it looks like we're doing similar stuff/playing with similar things.
+    - [[Flancian]] looking forward as well!
+    - [[Bouncepaw]] +1, let's start with intros
+- Check ins
+    - [[bouncepaw]]: computer science student in Russia, finishing a degree soon; golang dev, switching jobs in a week. Doing open source for some time. Two projects: [[mycorrhiza]] and [[betula]], we can discuss them later.
+    - [[Zicklag]]: been coding since I was 10 :) it runs in the family; dad is DBA/cloud architect/devops, learnt lots of stuff from him. With brothers been exploring making video games. Met [[Erlend]] in the Rust community, was playing with [[Haxe]] prior and moved to Rust for safety.
+        - [[Fish folk]] jumpy game
+            - Made own engine: [[Bones engine]]
+        - Was then looking for something closer to a job :)
+            - Interested in community building.
+            - Discord server approach is maybe a risk, as you can "lose" a community if you get kicked out
+        - Links page generator
+            - Local first, take back your data
+                - Side note: 
+                    - [[twitter community archive]] by [[ex genesis]] is in a related space
+                    - [[moa]] and bridging
+            - Akin to [[carrd]] to and [[link tree]]? 
+            - [[Weird]] wants to [[bring back personal websites]]
+                - Side note: [[indieweb]] seems maybe related/affine
+                    - [[Zicklag]]: seen on the side but not totally got deep in it, would like to integrate as much as possible. Indieweb culture seems very developer-oriented.
+                    - +1. I know [[Chris Aldrich]] who is a proponent/could be intereting to meet.
+                    - Next iteration of [[web rings]] in this space.
+                - Want to make it very easy: sign up and you get a subdomain, you can choose which domain.
+            - More domains in pockets
+                - Could then also facilitate making use of your own domain in new ways, e.g. get a bluesky user based on your domain
+                - Would like to make it so that you can replicate all your data using your browser only
+                    - Q: with local storage? some other arch?
+                    - IndexDB plus P2P using WASM
+            - We want to [[bring back user agency]] by making it easy enough for normal people.
+                - Side note: know of some projects like [[sutty]] which are in a similar space.
+            - Q: is money still a motivator/topic?
+                - A: yes; we're planning on charging something like ~$50/y to unlock custom domains and some other features.
+                - Storage requirements also drive that, e.g. through the [[leaf]] protocol (sp?)
+                - Q: do you know the prices of your competitors, e.g. linktree?
+                    - A: good question.
+            - Planning connectors so people can bring their data from other platforms.
+                - \o/
+                - intermediate data format
+                    - [[leaf]] everything has a schema and a spec
+                        - similar to rdf, or to atproto's lexikon
+                        - rdf was too granular
+                        - atproto is object-oriented-like
+                        - leaf is in the middle, tries to compose many items that are small and each have a class (mixin like)
+            - Hoping for an MVP by the end of December
+                - almost there with billing
+                - web designer helping out
+            - [[Leaf]] grew out organically out of our requirements
+        - Q: what is weird? :) 
+            - A: depends on the audience.
+            - A0: weird is the easiest way of having a personal website.
+            - A1: it's an offline data store with synchronization, and a way to publish websites from it.
+                - all the data is eventually consistent and can be sync'd p2p
+                    - [[willow]] defines the minimum semantics necessary to get synchronization to work
+                        - https://willowprotocol.org/more/compare/index.html
+                    - [[loro.dev]] might be integrated in the future, it's a [[crdt]]
+                - side notes:
+                    - ipfs?
+                    - [[fission]] ~ fission.codes tried to build something similar but folded recently
+            - A2: it's the previous plus it has a social aspect, indexing/cross-linking layer
+            - Weird is [[open source]]; there's a non-commercial license on the web app.
+        - Q: do you know about [[solid]] by [[tbl]]?
+            - A: a little bit but we haven't delved into the tech.
+                - Have heard: RDF can be heavyweight. It also seemed very "enterprise focused".
+                - [[bouncepaw]]: tried to understand it with their specification and failed; activitypub spec is much better. Like the idea of pods though.
+- [[Mycoverse]]
+    - [[Mycomarkup]] -- a [[markup language]]
+    - [[Mycorrhiza]] -- a [[wiki engine]], close to what I call classic wiki engines
+        - has [[interwiki]] capabilities, but it's not considered “federated”
+    - [[Betula]] is federated link manager
+        - Q: so this is server based and published with activitypub?
+            - A: yes.
+    - Was thinking of how to integrate with [[weird]]
+        - Could use weird as database/storage
+        - Weird could consume betula streams
+        - Zicklag: facets in atproto and the link to e.g. supporting multiple markup languages.
+        - [[block protocol]]
+        - intermediate representations
+        - [[standoff annotations]] related to [[facets]]: https://scalingsynthesis.com/standoff-annotation/
+            - seems related to [[xanadu]]
+                - which also yielded e.g. [[transclusion]]
+            - [[nutshell]]: https://ncase.me/nutshell/
+- [[Knowledge Base]] [[Neno]]: https://polyrainbow.github.io/neno
+- [[Agora]]: https://anagora.org
+    - aggregator
+    - prosocial approach
+- Next steps
+    - We'll join the weird room :)
+        - https://discord.gg/mbQYgFVBQx
+        - https://matrix.to/#/##muni-town:commune.sh
+    - Q: when will you work on ActivityPub integration?
+        - After the MVP but maybe earlier than 2026. Subscribing will come sooner to help people archive mastodon profiles though.
