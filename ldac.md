@@ -1,1 +1,2 @@
-I'm busy right now, try again later.
+- a [[codec]].
+    - [[sony]] headphones seem to prefer it.
