@@ -11,7 +11,14 @@ References:
 - notes: https://doc.anagora.org/social-coop-cwg
 - videoconference: https://jitsi.meet.coop/social-coop-cwg
 
-## $NEXT 2026-03-20 1800 UTC ????
+## $NEXT 2026-04-17 1700 UTC ????
+
+
+## 2026-03-20 1700 UTC 
+Attendees:
+
+### Agenda
+
 
 
 ## 2026-02-20 1800 UTC
