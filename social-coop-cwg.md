@@ -21,7 +21,16 @@ Attendees: Steve, Hollie, Melissa
 - hackathon this weekend, sunday 
 - april mod schedule
 
+> March 2: Hollie & Steve
+March 9: Calix
+March 16: Sam
+March 23: Dan
+March 30: (Hollie and whomever wants to help?)
 
+April 7:
+April 14:
+April 21:
+April 28:
 
 
 ## 2026-02-20 1800 UTC
