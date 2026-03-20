@@ -19,7 +19,9 @@ Attendees: Steve, Hollie, Melissa
 
 ### Agenda
 - hackathon this weekend, sunday 
-- 
+- april mod schedule
+
+
 
 
 ## 2026-02-20 1800 UTC
