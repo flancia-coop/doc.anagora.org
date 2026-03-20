@@ -32,6 +32,10 @@ April 14:
 April 21:
 April 28:
 
+*ACTION Get Steve access to everything needed for registration. Hollie to try and ask Matt if help needed
+
+
+
 
 ## 2026-02-20 1800 UTC
 
