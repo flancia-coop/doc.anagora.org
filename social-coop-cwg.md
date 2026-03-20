@@ -34,6 +34,9 @@ April 27: Hollie
 
 **ACTION Get Steve access to everything needed for registration. Hollie to try and ask Matt if help needed
 
+what if we had a @community@social.coop account and posted community building things from it?
+
+
 
 
 
