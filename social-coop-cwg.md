@@ -27,10 +27,10 @@ March 16: Sam
 March 23: Dan
 March 30: (Hollie and whomever wants to help?)
 
-April 7: Steve
-April 14:
-April 21:
-April 28: Hollie
+April 6: Steve
+April 13:
+April 20:
+April 27: Hollie
 
 **ACTION Get Steve access to everything needed for registration. Hollie to try and ask Matt if help needed
 
