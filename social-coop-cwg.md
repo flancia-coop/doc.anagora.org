@@ -18,7 +18,8 @@ References:
 Attendees: Steve, Hollie, Melissa
 
 ### Agenda
-- hackat
+- hackathon this weekend, sunday 
+- 
 
 
 ## 2026-02-20 1800 UTC
