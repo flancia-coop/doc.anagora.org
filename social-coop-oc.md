@@ -31,6 +31,9 @@ Current members:
 
 =======================================================
 ## $NEXT 2026-03-26 1500 UTC
+
+Volunteers to facilitate:
+Volunteers to notetake:
 Attendees:
 
 ### Agenda
