@@ -41,18 +41,21 @@ Attendees: [Caitlin to actively participate for first hour. Listen only for last
 - Check ins
 - Consent for agenda
 - Updates from WGs
+- Closing
 
 ## 2026-03-26 1500 UTC
 
 Volunteers to facilitate:
 Volunteers to notetake:
-Attendees: Melissa, Calix, Luke [Caitlin to actively participate for first hour. Listen only for last 30 min.]
+Attendees: Melissa, Calix, Luke, Caitlin [Caitlin to actively participate for first hour. Listen only for last 30 min.]
 
 ### Agenda
 
 - Check ins
 - Consent for agenda
+- Budget
 - Updates from WGs
+- Closing
 
 
 ## 2026-03-12 1500 UTC
