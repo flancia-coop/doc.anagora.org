@@ -58,6 +58,7 @@ Attendees: Melissa, Calix, Luke, Caitlin [Caitlin to actively participate for fi
     - Meadow maintenance
 - Consent for agenda
 - Budget
+    - https://www.loomio.com/p/EYwd7onD/help-social-coop-make-sense-of-the-proposed-2026-budget-what-can-we-do-together-
 - Bonfire
 - Updates from WGs
     - CWG
@@ -66,6 +67,15 @@ Attendees: Melissa, Calix, Luke, Caitlin [Caitlin to actively participate for fi
     - TWG
 - Closing
 
+#### Notes
+
+##### Budget 
+
+M: Roll with what we have?
+
+Cai: Haven't heard back from WGs. 
+
+L: Agree we were waiting for feed
 ## 2026-03-12 1500 UTC
 Attendees: Caitlin, Prestn (PJ), Ammar
 RSVPs. (We know that Melissa, Luke, Flancian will not be here today.)
