@@ -152,6 +152,18 @@ Cal: Question from Flancian on Zulip, where should we discuss? OC? Somewhere els
 
 L: What were the questions? Hosting, moderation? Questions relevant to CWG 
 
+Cal: CWG is unclear if we're being asked to moderate it.
+
+M: And CWG has opinion that it should be moderated.
+
+Cal: TWG is sort of autonomously doing updates.
+
+Cal: Started as a tech demo from Flancian. As far as anyone in CWG or TWG is aware the community hasn't had input into whether it should continue.
+
+L: Discussed this maybe a month ago with Flancian & Eduardo. Agree this decision should go to cooperative.
+
+L: "Demo or supporting it", community vote to put from OC. And strategic questio
+
 ## 2026-03-12 1500 UTC
 Attendees: Caitlin, Prestn (PJ), Ammar
 RSVPs. (We know that Melissa, Luke, Flancian will not be here today.)
