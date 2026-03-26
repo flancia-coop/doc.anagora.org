@@ -58,6 +58,7 @@ Attendees: Melissa, Calix, Luke, Caitlin [Caitlin to actively participate for fi
     - Meadow maintenance
 - Consent for agenda
 - Budget
+- Bonfire
 - Updates from WGs
     - CWG
     - FWG
