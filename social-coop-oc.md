@@ -168,13 +168,19 @@ L: Do we feel like we're ready - as OC, or larger conversation - to ask if we wa
 
 M: Think we should limit to demo until we at least get SSO working. "We have a Bonfire demo server, we're working on SSO, let us know if you want it sooner"
 
-C: Sherlock Holmes and the Do-Nothing Case. What happens either before we make the proposal, or if the proposal fails? Current situation seems pretty not-good: federating with the whole activitypub fediverse, but no organised moderation. 
+C: Sherlock Holmes and the Do-Nothing Case. What happens either before we make the proposal, or if the proposal fails? Current situation seems pretty not-good: federating with the whole activitypub fediverse, but no organised moderation. Not being responsible fediverse citizens, agree with Flancian it seems unlikely that s.c members will post horrifyingly objectionable / illegal content
 
 M: Do we know if reports go somewhere?
 
 Cai: Moderation all reactive?
 
 M: Mostly yes.
+
+L: Kicking some questions back to TWG, CWG. "What are your minimums to commit to before even performing demos of new tech to be a good citizen?" Think we have a good list there.
+
+Cai, L: Will need to think about it more.
+
+L: Would like us to be able to experiment 
 
 ## 2026-03-12 1500 UTC
 Attendees: Caitlin, Prestn (PJ), Ammar
