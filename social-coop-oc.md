@@ -45,18 +45,23 @@ Attendees: [Caitlin to actively participate for first hour. Listen only for last
 
 ## 2026-03-26 1500 UTC
 
-Volunteers to facilitate:
-Volunteers to notetake:
-Attendees: Melissa, Calix, a temporary Luke, Caitlin [Caitlin to actively participate for first hour. Listen only for last 30 min.]
+Volunteers to facilitate: Luke
+Volunteers to notetake: Calix
+Attendees: Melissa, Calix, Luke, Caitlin [Caitlin to actively participate for first hour. Listen only for last 30 min.]
 
 ### Agenda
 
 - Check ins
+    - 
+    - VREC buying building #3!
 - Consent for agenda
 - Budget
 - Updates from WGs
+    - CWG
+    - FWG
+    - LWG(?)
+    - TWG
 - Closing
-
 
 ## 2026-03-12 1500 UTC
 Attendees: Caitlin, Prestn (PJ), Ammar
