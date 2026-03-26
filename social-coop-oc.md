@@ -46,7 +46,7 @@ Attendees: [Caitlin to actively participate for first hour. Listen only for last
 
 Volunteers to facilitate:
 Volunteers to notetake:
-Attendees: [Caitlin to actively participate for first hour. Listen only for last 30 min.]
+Attendees: Melissa, Calix, Luke [Caitlin to actively participate for first hour. Listen only for last 30 min.]
 
 ### Agenda
 
