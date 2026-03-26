@@ -52,8 +52,10 @@ Attendees: Melissa, Calix, Luke, Caitlin [Caitlin to actively participate for fi
 ### Agenda
 
 - Check ins
-    - 
-    - VREC buying building #3!
+    - Taking some rest time
+    - VREC buying building #3! Yoga retreat upcoming
+    - Tenant work, healing household
+    - Meadow maintenance
 - Consent for agenda
 - Budget
 - Updates from WGs
