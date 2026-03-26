@@ -188,7 +188,16 @@ L: Would add to request back to TWG.
 
 M: We need to get a clear answer to "do we want to moderate bonfire" from CWG. If the answer is "yes", need to document how. Haven't got a clear answer.
 
-##### 
+##### Working Group updates
+
+- CWG
+    - M: Hackathon happened, went well! Matt helped rework meet.coop communication. Will be some followup with TWG. People seem to appreciate what's been going on. One instance of suspension, unclear if it was because they were doing LLM-feeding, or being a jerk about it. Flancian / Hollie / Dan workingonit.
+- FWG
+    - Cai: Put together line item version of th' budget, put it in Zulip, tagged Josh / Alex / Andrew. Basically last year's numbers of actual spend. Asking for actual numbers. 
+- LWG(?)
+    - 
+- TWG
+    - 
 
 ## 2026-03-12 1500 UTC
 Attendees: Caitlin, Prestn (PJ), Ammar
