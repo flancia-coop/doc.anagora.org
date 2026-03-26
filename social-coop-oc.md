@@ -150,8 +150,7 @@ Bonfire:
 
 Cal: Question from Flancian on Zulip, where should we discuss? OC? Somewhere else? 
 
-L: What were the questions?
-
+L: What were the questions? Hosting, moderation? Questions relevant to CWG 
 
 ## 2026-03-12 1500 UTC
 Attendees: Caitlin, Prestn (PJ), Ammar
