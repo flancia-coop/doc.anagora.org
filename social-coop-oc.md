@@ -166,7 +166,9 @@ L: "Demo or supporting it", community vote to put from OC. And strategic questio
 
 L: Do we feel like we're ready - as OC, or larger conversation - to ask if we want to support Bonfire, as a service we're committed to?
 
-M: Think we should limit to demo until we at least get SSO working. "We have a Bonfire demo server, we're wor"
+M: Think we should limit to demo until we at least get SSO working. "We have a Bonfire demo server, we're working on SSO, let us know if you want it sooner"
+
+
 
 ## 2026-03-12 1500 UTC
 Attendees: Caitlin, Prestn (PJ), Ammar
