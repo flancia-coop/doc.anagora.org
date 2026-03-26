@@ -107,7 +107,14 @@ Cai: Shows a difference in spending. We don't have a copy of a proposed 2026 bud
 
 M: Suggest we look for one / make one, then try and pass something?
 
-Cai: S
+Cai: Needs to specifically say line items to pass something. Link above adds up all expenses from categories. What we need is something really specific.
+
+L: This is probably the same for applying the template. If we had a doc which showed 2025 numbers, proposed for 2026, that makes sense to me. Anything missing from detail of 2025 one we shared, to make a 2026 budget.
+
+Cai: Anything changed in terms of exact expenses in core categories?
+
+
+
 
 ## 2026-03-12 1500 UTC
 Attendees: Caitlin, Prestn (PJ), Ammar
