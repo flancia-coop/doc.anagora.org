@@ -210,10 +210,12 @@ M: We need to get a clear answer to "do we want to moderate bonfire" from CWG. I
 - LWG(?)
     - L: Any progress on getting in touch? Haven't heard any
 
-### 🇨🇿outs
+#### 🇨🇿outs
 
-
-
+- Meeting day! Feel like we didn't move things along much but we talked through things.
+- Nice to be back. Maybe should organise TWG attendance at these better. Gonna run away into woods as much as possible
+- Beautiful days, walks pls.
+- Been putting too much pressure. Moved along 2026 budget!
 
 ## 2026-03-12 1500 UTC
 Attendees: Caitlin, Prestn (PJ), Ammar
