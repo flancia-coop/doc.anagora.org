@@ -162,7 +162,11 @@ Cal: Started as a tech demo from Flancian. As far as anyone in CWG or TWG is awa
 
 L: Discussed this maybe a month ago with Flancian & Eduardo. Agree this decision should go to cooperative.
 
-L: "Demo or supporting it", community vote to put from OC. And strategic questio
+L: "Demo or supporting it", community vote to put from OC. And strategic question about whether to evaluate moving parts of our decisionmaking process to bonfire. As an alternative to Loomio or anything else? Feels like later.
+
+L: Do we feel like we're ready - as OC, or larger conversation - to ask if we want to support Bonfire, as a service we're committed to?
+
+M: Think we should limit to demo until we at least get SSO working. "We have a Bonfire demo server, we're wor"
 
 ## 2026-03-12 1500 UTC
 Attendees: Caitlin, Prestn (PJ), Ammar
