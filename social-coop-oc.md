@@ -129,13 +129,17 @@ Cai: Think OC should pass it at this point, post what we passed.
 
 L: Agree.
 
-M: Feel we should respond to things in the sense-making, given we put it out there.
+M: Feel we should respond to things in the sense-making, given we put it out there. We asked for the feedback, we should address it!
 
 Cai: Postponing vote on the budget because we don't have a line-item version to look at.
 
-**Action Caitlin** post on Zulip that we need a line-item version of the 2026 budget to discuss.
+**Action Caitlin** post on Zulip that we need a line-item version of the 2026 budget to discuss, will tag Andrew, Alex, Joshua.
 
-Will tag An
+L: Is the best way to reply in the loomio thread? Or capture as part of group response in 2026 document?
+
+Cai: Some other Loomio option to get comments?
+
+M: Given it's been a month since anyone commented, we could pull 
 
 ## 2026-03-12 1500 UTC
 Attendees: Caitlin, Prestn (PJ), Ammar
