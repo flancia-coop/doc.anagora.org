@@ -144,9 +144,14 @@ M: Given it's been a month since anyone commented, we could pull out comments in
 L: Somewhat makes sense that this could be attached to agreed-on 2026 meeting.
 
 Bonfire:
-- TWG and CWG have been having conversations about Bonfire, where should 
+- TWG and CWG have been having conversations about Bonfire, where should discussion continue (OC, Zulip, separate meeting)
 
-##### 
+##### Bonfire
+
+Cal: Question from Flancian on Zulip, where should we discuss? OC? Somewhere else? 
+
+L: What were the questions?
+
 
 ## 2026-03-12 1500 UTC
 Attendees: Caitlin, Prestn (PJ), Ammar
