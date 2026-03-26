@@ -71,6 +71,8 @@ Attendees: Melissa, Calix, Luke, Caitlin [Caitlin to actively participate for fi
 
 ##### Budget 
 
+https://www.loomio.com/p/EYwd7onD/help-social-coop-make-sense-of-the-proposed-2026-budget-what-can-we-do-together-
+
 M: Roll with what we have?
 
 Cai: Haven't heard back from WGs. 
@@ -97,7 +99,15 @@ Cai: 2025 budget:
 > Community: 2000
 > Tech: 0 (based on past TWG decisions) 
 
+M: Tech did get 1k. Community didn't get 2k. Still worked out to a good amount for moderators.
 
+https://www.loomio.com/d/f9skZFBD/budget-2025/2
+
+Cai: Shows a difference in spending. We don't have a copy of a proposed 2026 budget?
+
+M: Suggest we look for one / make one, then try and pass something?
+
+Cai: S
 
 ## 2026-03-12 1500 UTC
 Attendees: Caitlin, Prestn (PJ), Ammar
