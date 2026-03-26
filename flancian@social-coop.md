@@ -1,1 +1,1 @@
-I'm busy right now, try again later.
+- #pull [[flancian]] ~ [[@flancian]] in the [[Agora of Flancia]].
