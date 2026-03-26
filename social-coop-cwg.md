@@ -13,6 +13,11 @@ References:
 
 ## $NEXT 2026-04-17 1700 UTC ????
 
+Bonfire - are we moderating it? 
+if yes, let's document it, and how to do it
+
+
+
 
 ## 2026-03-20 1700 UTC 
 Attendees: Steve, Hollie, Melissa

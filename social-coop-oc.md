@@ -59,7 +59,7 @@ Attendees: Melissa, Calix, Luke, Caitlin [Caitlin to actively participate for fi
 - ~~Consent for agenda~~
 - ~~Budget~~
     - https://www.loomio.com/p/EYwd7onD/help-social-coop-make-sense-of-the-proposed-2026-budget-what-can-we-do-together-
-- Bonfire
+- ~~Bonfire~~
 - Updates from WGs
     - CWG
     - FWG
@@ -180,7 +180,15 @@ L: Kicking some questions back to TWG, CWG. "What are your minimums to commit to
 
 Cai, L: Will need to think about it more.
 
-L: Would like us to be able to experiment 
+L: Would like us to be able to experiment with new tech. Maybe the threshold for that is higher than I thought.
+
+Cal: Possible idea: only allow federation with social.coop mastodon until "official". And maybe  say "minimums" includes "until CWG adopts moderation, only federate with social.coop".
+
+L: Would add to request back to TWG.
+
+M: We need to get a clear answer to "do we want to moderate bonfire" from CWG. If the answer is "yes", need to document how. Haven't got a clear answer.
+
+##### 
 
 ## 2026-03-12 1500 UTC
 Attendees: Caitlin, Prestn (PJ), Ammar
