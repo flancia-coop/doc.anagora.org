@@ -30,7 +30,19 @@ Current members:
 + [ ] Other/s? 
 
 =======================================================
-## $NEXT 2026-03-26 1500 UTC
+## $NEXT 2026-04-09 1500 UTC
+
+Volunteers to facilitate:
+Volunteers to notetake:
+Attendees: [Caitlin to actively participate for first hour. Listen only for last 30 min.]
+
+### Agenda
+
+- Check ins
+- Consent for agenda
+- Updates from WGs
+
+## 2026-03-26 1500 UTC
 
 Volunteers to facilitate:
 Volunteers to notetake:
