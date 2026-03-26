@@ -75,7 +75,30 @@ M: Roll with what we have?
 
 Cai: Haven't heard back from WGs. 
 
-L: Agree we were waiting for feed
+L: Agree we were waiting for feedback, there hasn't been any. Ready to approve, knowing we are open to making modifications.
+
+Cai: Stipends @ £3500. How does that break down? Do we have a further-broken-down version?
+
+L: This is the only one I've seen.
+
+Cai: 2025 budget:
+
+> core: 3,055 GBP
+> payment processing: 952
+> fiscal hosting: 600
+> hosting: 780: 70×12
+> domain name: 90
+> May First: 200
+> Loomio: 373 
+
+> stipends: 3,500 GBP
+> Organizing Circle: 1000
+> Finance: 500
+> Community: 2000
+> Tech: 0 (based on past TWG decisions) 
+
+
+
 ## 2026-03-12 1500 UTC
 Attendees: Caitlin, Prestn (PJ), Ammar
 RSVPs. (We know that Melissa, Luke, Flancian will not be here today.)
