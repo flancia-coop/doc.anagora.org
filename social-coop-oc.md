@@ -62,7 +62,7 @@ Attendees: Melissa, Calix, Luke, Caitlin [Caitlin to actively participate for fi
 - ~~Bonfire~~
 - Updates from WGs
     - CWG
-    - FWG
+    - FWG  We need to update the numbers for the proposed budget: 
     - LWG(?)
     - TWG
 - Closing
@@ -193,10 +193,14 @@ M: We need to get a clear answer to "do we want to moderate bonfire" from CWG. I
 - CWG
     - M: Hackathon happened, went well! Matt helped rework meet.coop communication. Will be some followup with TWG. People seem to appreciate what's been going on. One instance of suspension, unclear if it was because they were doing LLM-feeding, or being a jerk about it. Flancian / Hollie / Dan workingonit.
 - FWG
-    - Cai: Put together line item version of th' budget, put it in Zulip, tagged Josh / Alex / Andrew. Basically last year's numbers of actual spend. Asking for actual numbers. 
-- LWG(?)
-    - 
+    - Cai: Put together line item version of th' budget, put it in Zulip, tagged Josh / Alex / Andrew. Basically last year's numbers of actual spend. Asking for actual numbers. Here are the "Core Expenses from 2025" The Tech Working Group might review these numbers. 
+        - payment processing: 952 fiscal hosting: 600 hosting: 780: 70×12 domain name: 90 May First: 200 Loomio: 373
 - TWG
+    -  Meeting on a regular schedule.
+    -  Not a lot of tech work lately, upcoming Mastodon release
+    -  Onboarding Ammar, Gabriel
+    -  Capacit
+- LWG(?)
     - 
 
 ## 2026-03-12 1500 UTC
