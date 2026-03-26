@@ -113,8 +113,11 @@ L: This is probably the same for applying the template. If we had a doc which sh
 
 Cai: Anything changed in terms of exact expenses in core categories?
 
+M: TWG asked for more for hosting.
 
+Cai: FWG not meeting, all offline. Confusion juggling between Loomio & Zulip 🤹
 
+L: Makes sense to put together 2026 budget between now and next meeting. Question to TWG to confirm new hosting costs.
 
 ## 2026-03-12 1500 UTC
 Attendees: Caitlin, Prestn (PJ), Ammar
