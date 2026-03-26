@@ -51,13 +51,13 @@ Attendees: Melissa, Calix, Luke, Caitlin [Caitlin to actively participate for fi
 
 ### Agenda
 
-- Check ins
+- ~~Check ins~~
     - Taking some rest time
     - VREC buying building #3! Yoga retreat upcoming
     - Tenant work, healing household
     - Meadow maintenance
-- Consent for agenda
-- Budget
+- ~~Consent for agenda~~
+- ~~Budget~~
     - https://www.loomio.com/p/EYwd7onD/help-social-coop-make-sense-of-the-proposed-2026-budget-what-can-we-do-together-
 - Bonfire
 - Updates from WGs
@@ -139,7 +139,14 @@ L: Is the best way to reply in the loomio thread? Or capture as part of group re
 
 Cai: Some other Loomio option to get comments?
 
-M: Given it's been a month since anyone commented, we could pull 
+M: Given it's been a month since anyone commented, we could pull out comments instead of replying inline. Happy to help, don't want to take the lead.
+
+L: Somewhat makes sense that this could be attached to agreed-on 2026 meeting.
+
+Bonfire:
+- TWG and CWG have been having conversations about Bonfire, where should 
+
+##### 
 
 ## 2026-03-12 1500 UTC
 Attendees: Caitlin, Prestn (PJ), Ammar
