@@ -119,6 +119,18 @@ Cai: FWG not meeting, all offline. Confusion juggling between Loomio & Zulip ðŸ¤
 
 L: Makes sense to put together 2026 budget between now and next meeting. Question to TWG to confirm new hosting costs.
 
+Cal: Will relay to TWG. Also: comment from loomio, only option was "looks good", and no way to undo that.
+
+Cai: Used "sense check" template, wasn't aware it wouldn't have these options.
+
+L: Do we want to look at budget before sending to Loomio? Didn't see any specific responses in Loomio except "clarify goals", and "pay everyone a living wage" (which we could respond to).
+
+Cai: Think OC should pass it at this point, post what we passed.
+
+L: Agree.
+
+
+
 ## 2026-03-12 1500 UTC
 Attendees: Caitlin, Prestn (PJ), Ammar
 RSVPs. (We know that Melissa, Luke, Flancian will not be here today.)
