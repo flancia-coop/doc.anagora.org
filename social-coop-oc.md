@@ -168,7 +168,13 @@ L: Do we feel like we're ready - as OC, or larger conversation - to ask if we wa
 
 M: Think we should limit to demo until we at least get SSO working. "We have a Bonfire demo server, we're working on SSO, let us know if you want it sooner"
 
+C: Sherlock Holmes and the Do-Nothing Case. What happens either before we make the proposal, or if the proposal fails? Current situation seems pretty not-good: federating with the whole activitypub fediverse, but no organised moderation. 
 
+M: Do we know if reports go somewhere?
+
+Cai: Moderation all reactive?
+
+M: Mostly yes.
 
 ## 2026-03-12 1500 UTC
 Attendees: Caitlin, Prestn (PJ), Ammar
