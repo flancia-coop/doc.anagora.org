@@ -1,1 +1,1 @@
-[RDF Schema 1.1](https://www.w3.org/TR/rdf-schema/)
+I'm busy right now, try again later.

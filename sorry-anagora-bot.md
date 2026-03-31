@@ -1,4 +1,1 @@
-# sorry anagora bot
-
-
-[[Duplicate Page]] of [[Sorry Anagora]]
+I'm busy right now, try again later.
