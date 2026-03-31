@@ -1,1 +1,1 @@
-I'm busy right now, try again later.
+- [[hn]] https://news.ycombinator.com/item?id=29700445
