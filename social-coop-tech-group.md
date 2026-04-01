@@ -1,3 +1,9 @@
+## 2026-04-01
+- Attending: 
+- Set/review agenda
+- https://github.com/mastodon/mastodon/releases/tag/v4.5.8 is available and we're on 4.5.5, might be worth trying for an update? 
+    - https://git.coop/social.coop/tech/ansible/-/merge_requests/70
+
 ## 2026-03-18
 
 - Attending: Steve, Ammar, Calix
