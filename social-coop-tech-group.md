@@ -1,8 +1,12 @@
 ## 2026-04-01
-- Attending: 
+- Attending: Flancian
 - Set/review agenda
-- https://github.com/mastodon/mastodon/releases/tag/v4.5.8 is available and we're on 4.5.5, might be worth trying for an update? 
+- Flancian: https://github.com/mastodon/mastodon/releases/tag/v4.5.8 is available and we're on 4.5.5, might be worth trying for an update? 
     - https://git.coop/social.coop/tech/ansible/-/merge_requests/70
+- Calix:
+    - Can we confirm our hosting budget (ideally by line item) for 2026?
+    - What are our minimum criteria before setting up new software?
+    - (related to #2) - are we willing to limit federation of the bonfire instance unless & until CWG takes on moderation of it?
 
 ## 2026-03-18
 
