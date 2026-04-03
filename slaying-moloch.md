@@ -1,3 +1,1 @@
-Please feel free to list here your reasons for [[slaying moloch]].
-
-[[flancian]] https://twitter.com/flancian/status/1456330094327308291
+I'm busy right now, try again later.
