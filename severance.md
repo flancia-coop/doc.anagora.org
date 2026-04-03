@@ -1,1 +1,2 @@
-I'm busy right now, try again later.
+- a [[show]].
+  - #go https://en.m.wikipedia.org/wiki/Severance_(TV_series)
