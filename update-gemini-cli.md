@@ -1,1 +1,1 @@
-npm install -g @google/gemini-cli@latest
+I'm busy right now, try again later.
